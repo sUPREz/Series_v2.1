@@ -1,0 +1,836 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Data><Series>
+  <id>262980</id>
+  <Actors>|Kevin Spacey|Robin Wright|Kate Mara|Sandrine Holt|Mahershala Ali|Boris McGiver|Michel Gill|Sebastian Arcelus|Constance Zimmer|Kristen Connolly|Sakina Jaffrey|Michael Kelly|Corey Stoll|</Actors>
+  <Airs_DayOfWeek>Friday</Airs_DayOfWeek>
+  <Airs_Time>12:01 AM</Airs_Time>
+  <ContentRating>TV-MA</ContentRating>
+  <FirstAired>2013-02-01</FirstAired>
+  <Genre>|Drama|</Genre>
+  <IMDB_ID>tt1856010</IMDB_ID>
+  <Language>en</Language>
+  <Network>Netflix</Network>
+  <NetworkID></NetworkID>
+  <Overview>House of Cards is an American political drama series developed and produced by Beau Willimon. It is an adaptation of a previous BBC miniseries of the same name which is based on the novel by Michael Dobbs.
+Set in present day Washington, D.C., House of Cards is the story of Frank Underwood (Kevin Spacey), a Democrat from South Carolina's 5th congressional district and the House Majority Whip, who, after getting passed over for promotion to Secretary of State, decides to exact his revenge on those who betrayed him. The series also stars Robin Wright, Kate Mara and Corey Stoll in lead roles.</Overview>
+  <Rating>9.1</Rating>
+  <RatingCount>58</RatingCount>
+  <Runtime>50</Runtime>
+  <SeriesID>81065</SeriesID>
+  <SeriesName>House of Cards (US)</SeriesName>
+  <Status>Continuing</Status>
+  <added>2012-10-04 16:08:09</added>
+  <addedBy>79791</addedBy>
+  <banner>graphical/262980-g5.jpg</banner>
+  <fanart>fanart/original/262980-5.jpg</fanart>
+  <lastupdated>1394353138</lastupdated>
+  <poster>posters/262980-5.jpg</poster>
+  <zap2it_id>EP01676454</zap2it_id>
+</Series>
+<Episode>
+  <id>4411361</id>
+  <Combined_episodenumber>1.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>1.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>David Fincher</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Chapter 1</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2013-02-01</FirstAired>
+  <GuestStars>Jayne Atkinson|Dan Ziskie|Elizabeth Norment|Rachel Brosnahan</GuestStars>
+  <IMDB_ID>tt2161930</IMDB_ID>
+  <Language>en</Language>
+  <Overview>When the newly elected President reneges on a promise, Francis and Claire decide to sever all allegiances and toss the rules out the window.</Overview>
+  <ProductionCode>HOC-101</ProductionCode>
+  <Rating>8.1</Rating>
+  <RatingCount>90</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Beau Willimon</Writer>
+  <absolute_number>1</absolute_number>
+  <filename>episodes/262980/4411361.jpg</filename>
+  <lastupdated>1391323093</lastupdated>
+  <seasonid>502436</seasonid>
+  <seriesid>262980</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4481708</id>
+  <Combined_episodenumber>2.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>2.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>David Fincher</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Chapter 2</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2013-02-01</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt2250466</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Francis and Doug plan to frame Secretary of State nominee, Michael Kern. Meanwhile, Zoe's popularity at the Washington Herald continues to grow.</Overview>
+  <ProductionCode>HOC-102</ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>86</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Beau Willimon</Writer>
+  <absolute_number>2</absolute_number>
+  <filename>episodes/262980/4481708.jpg</filename>
+  <lastupdated>1391323106</lastupdated>
+  <seasonid>502436</seasonid>
+  <seriesid>262980</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4481709</id>
+  <Combined_episodenumber>3.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>3.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>James Foley</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Chapter 3</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2013-02-01</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt2248444</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Francis heads for his hometown to deal with a crisis. Zoe negotiates the politics of being a journalist on the rise. Claire finds herself a new business partner.</Overview>
+  <ProductionCode>HOC-103</ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>73</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Keith Huff|Beau Willimon</Writer>
+  <absolute_number>3</absolute_number>
+  <filename>episodes/262980/4481709.jpg</filename>
+  <lastupdated>1391323275</lastupdated>
+  <seasonid>502436</seasonid>
+  <seriesid>262980</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4481710</id>
+  <Combined_episodenumber>4.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>4.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>James Foley</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Chapter 4</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2013-02-01</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt2248422</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Francis shakes down the Congressional leadership. Zoe is offered the promotion of White House Correspondent and doesn't know if she should take it or not.</Overview>
+  <ProductionCode>HOC-104</ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>77</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Rick Cleveland|Beau Willimon</Writer>
+  <absolute_number>4</absolute_number>
+  <filename>episodes/262980/4481710.jpg</filename>
+  <lastupdated>1391809342</lastupdated>
+  <seasonid>502436</seasonid>
+  <seriesid>262980</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4481711</id>
+  <Combined_episodenumber>5.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>5.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Joel Schumacher</Director>
+  <EpImgFlag>6</EpImgFlag>
+  <EpisodeName>Chapter 5</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2013-02-01</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt2294870</IMDB_ID>
+  <Language>en</Language>
+  <Overview>A feud starts between Francis and Marty Spinella. Russo goes into depression about the job losses at the shipyards.</Overview>
+  <ProductionCode>HOC-105</ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>71</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Sarah Treem</Writer>
+  <absolute_number>5</absolute_number>
+  <filename>episodes/262980/4481711.jpg</filename>
+  <lastupdated>1391809805</lastupdated>
+  <seasonid>502436</seasonid>
+  <seriesid>262980</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4481712</id>
+  <Combined_episodenumber>6.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>6.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Joel Schumacher</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Chapter 6</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2013-02-01</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt2311910</IMDB_ID>
+  <Language>en</Language>
+  <Overview>The strike between Frank and Marty starts to get out of hand. Russo has decided to run for Governor of Pennsylvania.</Overview>
+  <ProductionCode>HOC-106</ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>71</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Sam Forman</Writer>
+  <absolute_number>6</absolute_number>
+  <filename>episodes/262980/4481712.jpg</filename>
+  <lastupdated>1391809878</lastupdated>
+  <seasonid>502436</seasonid>
+  <seriesid>262980</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4481713</id>
+  <Combined_episodenumber>7.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>7.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Charles McDougall</Director>
+  <EpImgFlag>6</EpImgFlag>
+  <EpisodeName>Chapter 7</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2013-02-01</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt2311926</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Frank helps Peter get ready for his governor race, but Peter is starting to have second thoughts. Doug tries to help a young hooker in trouble.</Overview>
+  <ProductionCode>HOC-107</ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>71</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Kate Barnow|Beau Willimon</Writer>
+  <absolute_number>7</absolute_number>
+  <filename>episodes/262980/4481713.jpg</filename>
+  <lastupdated>1391809963</lastupdated>
+  <seasonid>502436</seasonid>
+  <seriesid>262980</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4481714</id>
+  <Combined_episodenumber>8.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>8.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Charles McDougall</Director>
+  <EpImgFlag>6</EpImgFlag>
+  <EpisodeName>Chapter 8</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2013-02-01</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt2312714</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Frank has a library named after him at his old military school. Peter tries to win back the support of his hometown.</Overview>
+  <ProductionCode>HOC-108</ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>68</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Beau Willimon</Writer>
+  <absolute_number>8</absolute_number>
+  <filename>episodes/262980/4481714.jpg</filename>
+  <lastupdated>1391810031</lastupdated>
+  <seasonid>502436</seasonid>
+  <seriesid>262980</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4481715</id>
+  <Combined_episodenumber>9.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>9.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>James Foley</Director>
+  <EpImgFlag>6</EpImgFlag>
+  <EpisodeName>Chapter 9</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2013-02-01</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt2248426</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Frank tries to do whatever it takes to get the new bill passed congress. Russo goes on a bus campaign with the Vice President, but the VP is not making it an easy trip for him. Zoe's relationship with Frank gets a little bumpy.</Overview>
+  <ProductionCode>HOC-109</ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>57</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Rick Cleveland|Beau Willimon</Writer>
+  <absolute_number>9</absolute_number>
+  <filename>episodes/262980/4481715.jpg</filename>
+  <lastupdated>1391323837</lastupdated>
+  <seasonid>502436</seasonid>
+  <seriesid>262980</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4481716</id>
+  <Combined_episodenumber>10.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>10.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Carl Franklin</Director>
+  <EpImgFlag>6</EpImgFlag>
+  <EpisodeName>Chapter 10</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2013-02-01</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt2468204</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Claire fuels an old flame. Peter wrestles with his demons. Francis crosses the point of no return.</Overview>
+  <ProductionCode>HOC-110</ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>62</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Sarah Treem</Writer>
+  <absolute_number>10</absolute_number>
+  <filename>episodes/262980/4481716.jpg</filename>
+  <lastupdated>1391323960</lastupdated>
+  <seasonid>502436</seasonid>
+  <seriesid>262980</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4481717</id>
+  <Combined_episodenumber>11.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>11.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Carl Franklin</Director>
+  <EpImgFlag>6</EpImgFlag>
+  <EpisodeName>Chapter 11</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired>2013-02-01</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt2440660</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Zoe extends her time away from The Hill while Francis tracks down Russo and engages in damage control. </Overview>
+  <ProductionCode>HOC-111</ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>61</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Keith Huff|Kate Barnow|Beau Willimon</Writer>
+  <absolute_number>11</absolute_number>
+  <filename>episodes/262980/4481717.jpg</filename>
+  <lastupdated>1391324019</lastupdated>
+  <seasonid>502436</seasonid>
+  <seriesid>262980</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4481718</id>
+  <Combined_episodenumber>12.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>12.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Allen Coulter</Director>
+  <EpImgFlag>6</EpImgFlag>
+  <EpisodeName>Chapter 12</EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired>2013-02-01</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt2555986</IMDB_ID>
+  <Language>en</Language>
+  <Overview>The President sends Frank to St. Louis to persuade Raymond Tusk into becoming the new Vice President. Zoe and Janine investigate Peter Russo's death.</Overview>
+  <ProductionCode>HOC-112</ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>55</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Gina Gionfriddo|Beau Willimon</Writer>
+  <absolute_number>12</absolute_number>
+  <filename>episodes/262980/4481718.jpg</filename>
+  <lastupdated>1391324087</lastupdated>
+  <seasonid>502436</seasonid>
+  <seriesid>262980</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4481719</id>
+  <Combined_episodenumber>13.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>13.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Allen Coulter</Director>
+  <EpImgFlag>6</EpImgFlag>
+  <EpisodeName>Chapter 13</EpisodeName>
+  <EpisodeNumber>13</EpisodeNumber>
+  <FirstAired>2013-02-01</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt2555988</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Frank scrambles to keep his plan on track. Gillian is planning to sue Claire. Zoe, Janine, and Lucas investigate Rachel Posner and her relationship with Peter Russo.</Overview>
+  <ProductionCode>HOC-113</ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>54</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Beau Willimon</Writer>
+  <absolute_number>13</absolute_number>
+  <filename>episodes/262980/4481719.jpg</filename>
+  <lastupdated>1391324139</lastupdated>
+  <seasonid>502436</seasonid>
+  <seriesid>262980</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4549213</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Carl Franklin</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Chapter 14</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2014-02-14</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>The Underwoods tackle two threats that could bring their plans to ruin. Francis grooms his replacement as Whip. Claire goes on the offensive.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.1</Rating>
+  <RatingCount>33</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Beau Willimon</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/262980/4549213.jpg</filename>
+  <lastupdated>1394210841</lastupdated>
+  <seasonid>517715</seasonid>
+  <seriesid>262980</seriesid>
+  <thumb_added>2014-02-14 14:32:35</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4741188</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Carl Franklin</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Chapter 15</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2014-02-14</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Amid turmoil in the home, Frank takes office. Foreign relations become entangled as Durant's team bungles a meeting. As foes negotiate to thwart her, Jackie maneuvers to strengthen her position. Lucas acquires new skills in order to pursue his secret investigation. </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>29</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Beau Willimon</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/262980/4741188.jpg</filename>
+  <lastupdated>1394210858</lastupdated>
+  <seasonid>517715</seasonid>
+  <seriesid>262980</seriesid>
+  <thumb_added>2014-02-15 05:07:28</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4741189</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>James Foley</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Chapter 16</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2014-02-14</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Tension rises between Francis and Raymond Tusk as the situation with China deteriorates. A battle in the Senate pits Francis against the Republicans.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>28</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Bill Cain</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/262980/4741189.jpg</filename>
+  <lastupdated>1394210871</lastupdated>
+  <seasonid>517715</seasonid>
+  <seriesid>262980</seriesid>
+  <thumb_added>2014-02-15 16:40:39</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4741190</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>James Foley</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Chapter 17</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2014-02-14</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>A terror scare at the Capitol traps Francis with a resentful Donald Blythe. Claire gives a live interview that rocks the media.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>23</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Laura Eason</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/262980/4741190.jpg</filename>
+  <lastupdated>1394210883</lastupdated>
+  <seasonid>517715</seasonid>
+  <seriesid>262980</seriesid>
+  <thumb_added>2014-02-15 16:44:07</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4741191</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>John Coles</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Chapter 18</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2014-02-14</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Francis back-channels with a Chinese billionaire. Lucas uses extreme measures to expose the Vice President. A shadowy figure joins Team Underwood.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>26</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Kenneth Lin</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/262980/4741191.jpg</filename>
+  <lastupdated>1394210902</lastupdated>
+  <seasonid>517715</seasonid>
+  <seriesid>262980</seriesid>
+  <thumb_added>2014-02-15 16:46:38</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4741192</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>John Coles</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Chapter 19</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2014-02-14</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Amidst an energy crisis, Francis and Tusk end their shaky alliance. Lucas must make a difficult choice. Stamper grows closer to Rachel.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.3</Rating>
+  <RatingCount>23</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>John Mankiewicz</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/262980/4741192.jpg</filename>
+  <lastupdated>1393886128</lastupdated>
+  <seasonid>517715</seasonid>
+  <seriesid>262980</seriesid>
+  <thumb_added>2014-02-15 16:50:24</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4741193</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>James Foley</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Chapter 20</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2014-02-14</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Despite some friction, the Walkers deepen their friendship with the Underwoods. But it's all-out war between Francis and Tusk.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.1</Rating>
+  <RatingCount>18</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>David Manson</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/262980/4741193.jpg</filename>
+  <lastupdated>1393886141</lastupdated>
+  <seasonid>517715</seasonid>
+  <seriesid>262980</seriesid>
+  <thumb_added>2014-02-15 16:53:50</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4741194</id>
+  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>James Foley</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Chapter 21</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2014-02-14</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>The war with Tusk intensifies. Claire influences Tricia Walker politically and domestically. Francis has a show-down with Linda Vasquez.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>19</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Bill Kennedy</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/262980/4741194.jpg</filename>
+  <lastupdated>1393886150</lastupdated>
+  <seasonid>517715</seasonid>
+  <seriesid>262980</seriesid>
+  <thumb_added>2014-02-15 16:56:28</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4741195</id>
+  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Jodie Foster</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Chapter 22</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2014-02-14</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Things get personal when Tusk blindsides the Underwoods with a scandal. Freddy and his BBQ joint get caught up in the mix.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>18</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Beau Willimon</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/262980/4741195.jpg</filename>
+  <lastupdated>1393886159</lastupdated>
+  <seasonid>517715</seasonid>
+  <seriesid>262980</seriesid>
+  <thumb_added>2014-02-15 16:58:42</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4741196</id>
+  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Robin Wright</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Chapter 23</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2014-02-14</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>With a military stand-off overseas and potential violence at home, Francis wants to finish off Tusk for good. Claire and Jackie Sharp collide.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>12</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Laura Eason|Beau Willimon</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/262980/4741196.jpg</filename>
+  <lastupdated>1393886168</lastupdated>
+  <seasonid>517715</seasonid>
+  <seriesid>262980</seriesid>
+  <thumb_added>2014-02-15 17:01:13</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4741197</id>
+  <Combined_episodenumber>11</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>John Coles</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Chapter 24</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired>2014-02-14</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>A Special Prosecutor interrogates Francis. Remy Danton tries to keep his options open. Stamper wrestles with his demons.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>11</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>John Mankiewicz|Beau Willimon</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/262980/4741197.jpg</filename>
+  <lastupdated>1393886179</lastupdated>
+  <seasonid>517715</seasonid>
+  <seriesid>262980</seriesid>
+  <thumb_added>2014-02-15 17:02:44</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4741198</id>
+  <Combined_episodenumber>12</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>James Foley</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Chapter 25</EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired>2014-02-14</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Francis finds himself shut out and Claire makes a difficult sacrifice. Stamper tries to regain control.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>11</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Beau Willimon</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/262980/4741198.jpg</filename>
+  <lastupdated>1393886189</lastupdated>
+  <seasonid>517715</seasonid>
+  <seriesid>262980</seriesid>
+  <thumb_added>2014-02-15 17:04:59</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4741199</id>
+  <Combined_episodenumber>13</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>James Foley</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Chapter 26</EpisodeName>
+  <EpisodeNumber>13</EpisodeNumber>
+  <FirstAired>2014-02-14</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Francis faces annihilation while the nation is in an uproar. Stamper must tie up loose ends. Claire feels the cost of ruthlessness.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.1</Rating>
+  <RatingCount>14</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Beau Willimon</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/262980/4741199.jpg</filename>
+  <lastupdated>1393886198</lastupdated>
+  <seasonid>517715</seasonid>
+  <seriesid>262980</seriesid>
+  <thumb_added>2014-02-15 17:08:43</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+</Data>

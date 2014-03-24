@@ -1,0 +1,66 @@
+body{ font-family: Calibri; font-size: 13px; background-color:#3C3C3C; color:#FFF}
+fieldset { background-color:#202020; margin-top:10px;margin-bottom:10px; }
+
+h1 { font-size: 30px; margin-top:0px; margin-bottom:0px; }
+h2 { margin-top:0px; margin-bottom:5px; }
+h3 { margin-top:0px; margin-bottom:15px; }
+table{ border: solid 1px #000; border-collapse: collapse; }
+td{ text-align: center; border-left: solid 1px #000000; border-right: solid 1px #000000;}
+a.Menu{ font-size: 24px; font-weight: bold; }
+a.SubMenu{ font-size: 13px; }
+#DateAndTime{ font-size: 16px; }
+
+a:link {color:#6699FF; text-decoration:none;}      /* unvisited link */
+a:visited {color:#6699FF; text-decoration:none;}  /* visited link */
+a:hover {color:#66CCFF; text-decoration:underline;}  /* mouse over link */
+a:active {color:#66CCFF; text-decoration:none;}  /* selected link */
+
+fieldset[name=Menu]{ border:1px solid #F90;}
+fieldset[name=Messages]{ border:1px solid #090;}
+fieldset[name=Content]{ border:1px solid #09F;}
+fieldset[name=Debug]{ border:1px solid #F09;}
+fieldset[name=Debug_js]{ border:1px solid #F9F;}
+fieldset[name=Debug_php]{ border:1px solid #F9F;}
+fieldset[name=Debug_render]{ border:1px solid #F9F;}
+
+td.Green{background-color:#92D050;color:#000;}
+td.Blue{background-color:#6699FF;color:#000;}
+td.Yellow{background-color:#FFFF00;color:#000;}
+td.Orange{background-color:#FFC000;color:#000;}
+td.Red{background-color:#FF0000;color:#000;}
+td.Grey{background-color:#EEEEEE;color:#000;}
+td.White{background-color:#FFFFFF;color:#000;}
+
+td.DarkGrey1{background-color:#3A3A3A;}
+td.DarkGrey2{background-color:#262626;}
+
+.GreenText{color:#92D050;}
+.BlueText{color:#6699FF;}
+.YellowText{color:#FFFF00;}
+.OrangeText{color:#FFC000;}
+.RedText{color:#FF0000;}
+.GreyText{color:#EEEEEE;}
+.WhiteText{color:#FFFFFF;}
+
+th{ background-color: #000000;}
+th.Downloaded{ width: 50px;}
+th.Downloaded720{ width: 50px;}
+th.Subtitles{ width: 50px;}
+th.Seen{ width: 50px;}
+th.Ignore{ width: 50px;}
+th.Num{ width: 50px;}
+th.SeriesName{ width: 225px;}
+th.FirstAired{ width: 180px;}
+th.EpisodeYxZ{ width: 50px;}
+th.Saison{ width: 70px;}
+th.id{ width: 60px;}
+th.Status{ width: 80px;}
+th.SeriePage{ width: 90px;}
+th.Infos{ min-width: 50px;}
+th.TVDB_Series{ width: 80px;}
+th.User{ width: 90px;}
+
+
+
+
+

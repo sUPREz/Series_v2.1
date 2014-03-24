@@ -1,0 +1,29 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+  <script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
+  <script language="JavaScript" src="jQuery.CustomSelect.js" type="text/javascript"></script>
+  <link rel="stylesheet" href="jQuery.CustomSelect.css" type="text/css" />
+  <title></title>
+</head>
+
+<body>
+  <div class="plouf">Nous</div>
+  <br />
+  <div class="plouf">Steph</div>
+  <br />
+  <div class="plouf">Wen</div>
+  <script>
+  $('.plouf').CustomSelect({
+    callback: function( a , b , c ){
+      console.log('callback!!',a,b,c);
+    }
+  });
+
+  </script>
+</body>
+</html>

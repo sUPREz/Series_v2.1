@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Data><Series>
+  <id>244701</id>
+  <Actors>|Eric Judor|Jean-Baptiste Shelmerdine|Arnaud Henriet|Lilly-Fleur Pointeaux|Toinette Laquière|Romain Berger|Assumpta Hafid Ferdjioui Benamar|</Actors>
+  <Airs_DayOfWeek>Monday</Airs_DayOfWeek>
+  <Airs_Time>8:50 PM</Airs_Time>
+  <ContentRating></ContentRating>
+  <FirstAired>2011-09-05</FirstAired>
+  <Genre>|Comedy|</Genre>
+  <IMDB_ID>tt2040020</IMDB_ID>
+  <Language>en</Language>
+  <Network>Canal+</Network>
+  <NetworkID></NetworkID>
+  <Overview>After a year of coma, and while his comedy partner Ramzy is enjoying a success in ' HP' , a follow up of their smash hit ' H' , Eric, slightly frustrated has a revelation : he will make a serious movie.
+Despite the global skepticism, he decides to write the new &quot;La Môme&quot; : &quot;La Môme 2.0 Next Generation&quot;.</Overview>
+  <Rating>7.5</Rating>
+  <RatingCount>4</RatingCount>
+  <Runtime>25</Runtime>
+  <SeriesID></SeriesID>
+  <SeriesName>Platane</SeriesName>
+  <Status>Ended</Status>
+  <added>2011-03-28 09:56:45</added>
+  <addedBy>165291</addedBy>
+  <banner>graphical/244701-g.jpg</banner>
+  <fanart>fanart/original/244701-4.jpg</fanart>
+  <lastupdated>1353000338</lastupdated>
+  <poster>posters/244701-1.jpg</poster>
+  <zap2it_id></zap2it_id>
+</Series>
+<Episode>
+  <id>4163784</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Eric Judor</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>La fois où il a eu un accident</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2011-09-05</FirstAired>
+  <GuestStars>Ramzy Bedia|Catherine Benguigui|Jean-Luc Bideau</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>4</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Eric Judor</Writer>
+  <absolute_number>1</absolute_number>
+  <filename>episodes/244701/4163784.jpg</filename>
+  <lastupdated>1334970963</lastupdated>
+  <seasonid>454991</seasonid>
+  <seriesid>244701</seriesid>
+</Episode>
+<Episode>
+  <id>4163785</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Eric Judor</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>La fois où il a voulu faire un film sérieux</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2011-09-05</FirstAired>
+  <GuestStars>Pierre Richard</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.5</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Eric Judor</Writer>
+  <absolute_number>2</absolute_number>
+  <filename>episodes/244701/4163785.jpg</filename>
+  <lastupdated>1317915040</lastupdated>
+  <seasonid>454991</seasonid>
+  <seriesid>244701</seriesid>
+</Episode>
+<Episode>
+  <id>4163786</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Eric Judor</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>La fois où il a eu l'idée de faire la môme 2.0 next génération</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2011-09-05</FirstAired>
+  <GuestStars>Clotilde Courau|Monica Bellucci</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Eric Judor</Writer>
+  <absolute_number>3</absolute_number>
+  <filename>episodes/244701/4163786.jpg</filename>
+  <lastupdated>1317915090</lastupdated>
+  <seasonid>454991</seasonid>
+  <seriesid>244701</seriesid>
+</Episode>
+<Episode>
+  <id>4163787</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Eric Judor</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>La fois où Monica Bellucci a failli signer</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2011-09-12</FirstAired>
+  <GuestStars>Monica Bellucci</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Eric Judor</Writer>
+  <absolute_number>4</absolute_number>
+  <filename>episodes/244701/4163787.jpg</filename>
+  <lastupdated>1317915288</lastupdated>
+  <seasonid>454991</seasonid>
+  <seriesid>244701</seriesid>
+</Episode>
+<Episode>
+  <id>4163788</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Eric Judor</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>La fois où il aimait une Chinoise... ou une Vietnamienne</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2011-09-12</FirstAired>
+  <GuestStars>Monica Bellucci|Guillaume Canet|Mathieu Amalric</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>9.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Eric Judor</Writer>
+  <absolute_number>5</absolute_number>
+  <filename>episodes/244701/4163788.jpg</filename>
+  <lastupdated>1317915347</lastupdated>
+  <seasonid>454991</seasonid>
+  <seriesid>244701</seriesid>
+</Episode>
+<Episode>
+  <id>4163789</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Eric Judor</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>La fois où il a voulu soigner sa mère mais trop tard</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2011-09-12</FirstAired>
+  <GuestStars>Monica Bellucci|Guillaume Canet</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Eric Judor</Writer>
+  <absolute_number>6</absolute_number>
+  <filename>episodes/244701/4163789.jpg</filename>
+  <lastupdated>1317915416</lastupdated>
+  <seasonid>454991</seasonid>
+  <seriesid>244701</seriesid>
+</Episode>
+<Episode>
+  <id>4163790</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Eric Judor</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>La fois où il s'est fait arrêter par le flic...</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2011-09-19</FirstAired>
+  <GuestStars>Gilles Lellouche|Clotilde Courau</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Eric Judor</Writer>
+  <absolute_number>7</absolute_number>
+  <filename>episodes/244701/4163790.jpg</filename>
+  <lastupdated>1334970870</lastupdated>
+  <seasonid>454991</seasonid>
+  <seriesid>244701</seriesid>
+</Episode>
+<Episode>
+  <id>4163791</id>
+  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Eric Judor</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>La fois où il a changé de carte de visite</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2011-09-19</FirstAired>
+  <GuestStars>Clotilde Courau|Vincent Cassel|Gilles Lellouche</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>9.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Eric Judor</Writer>
+  <absolute_number>8</absolute_number>
+  <filename>episodes/244701/4163791.jpg</filename>
+  <lastupdated>1317915541</lastupdated>
+  <seasonid>454991</seasonid>
+  <seriesid>244701</seriesid>
+</Episode>
+<Episode>
+  <id>4163792</id>
+  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Eric Judor</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>La fois où il a eu la foi dans son couple</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2011-09-19</FirstAired>
+  <GuestStars>Clotilde Courau</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Eric Judor</Writer>
+  <absolute_number>9</absolute_number>
+  <filename>episodes/244701/4163792.jpg</filename>
+  <lastupdated>1317915573</lastupdated>
+  <seasonid>454991</seasonid>
+  <seriesid>244701</seriesid>
+</Episode>
+<Episode>
+  <id>4163798</id>
+  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Eric Judor</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>La fois où il était à deux doigts de conclure</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2011-09-26</FirstAired>
+  <GuestStars>Clotilde Courau</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>9.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Eric Judor</Writer>
+  <absolute_number>10</absolute_number>
+  <filename>episodes/244701/4163798.jpg</filename>
+  <lastupdated>1318184831</lastupdated>
+  <seasonid>454991</seasonid>
+  <seriesid>244701</seriesid>
+</Episode>
+<Episode>
+  <id>4163799</id>
+  <Combined_episodenumber>11</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Eric Judor</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>La fois où il a fait de la garde à vue à Lyon</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired>2011-09-26</FirstAired>
+  <GuestStars>Clotilde Courau</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>10.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Eric Judor</Writer>
+  <absolute_number>11</absolute_number>
+  <filename>episodes/244701/4163799.jpg</filename>
+  <lastupdated>1318184841</lastupdated>
+  <seasonid>454991</seasonid>
+  <seriesid>244701</seriesid>
+</Episode>
+<Episode>
+  <id>4163800</id>
+  <Combined_episodenumber>12</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Eric Judor</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>La fois où il était ruiné</EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired>2011-09-26</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>2.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Eric Judor</Writer>
+  <absolute_number>12</absolute_number>
+  <filename>episodes/244701/4163800.jpg</filename>
+  <lastupdated>1318184852</lastupdated>
+  <seasonid>454991</seasonid>
+  <seriesid>244701</seriesid>
+</Episode>
+</Data>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Data>
+  <Series>
+    <id>153021</id>
+    <Actors>|Andrew Lincoln|Norman Reedus|Chandler Riggs|Dallas Roberts|Chad L. Coleman|Sonequa Martin-Green|Melissa McBride|David Morrissey|Michael Rooker|Emily Kinney|Scott Wilson|Irone Singleton|Lauren Cohan|Danai Gurira|Steven Yeun|Emma Bell|Laurie Holden|Jeffrey DeMunn|Jon Bernthal|Sarah Wayne Callies|Lawrence Gilliard Jr.|</Actors>
+    <Airs_DayOfWeek>Sunday</Airs_DayOfWeek>
+    <Airs_Time>9:00 PM</Airs_Time>
+    <ContentRating>TV-14</ContentRating>
+    <FirstAired>2010-10-31</FirstAired>
+    <Genre>|Drama|Horror|Suspense|</Genre>
+    <IMDB_ID>tt1520211</IMDB_ID>
+    <Language>en</Language>
+    <Network>AMC</Network>
+    <NetworkID></NetworkID>
+    <Overview>Based on the comic book series of the same name, The Walking Dead tells the story of a small group of survivors living in the aftermath of a zombie apocalypse.</Overview>
+    <Rating>8.9</Rating>
+    <RatingCount>502</RatingCount>
+    <Runtime>60</Runtime>
+    <SeriesID>78582</SeriesID>
+    <SeriesName>The Walking Dead</SeriesName>
+    <Status>Continuing</Status>
+    <added>2010-03-30 01:30:16</added>
+    <addedBy>76261</addedBy>
+    <banner>graphical/153021-g32.jpg</banner>
+    <fanart>fanart/original/153021-39.jpg</fanart>
+    <lastupdated>1394325209</lastupdated>
+    <poster>posters/153021-9.jpg</poster>
+    <zap2it_id>SH01324002</zap2it_id>
+  </Series>
+</Data>

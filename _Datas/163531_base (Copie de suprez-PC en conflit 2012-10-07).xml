@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Data>
+  <Series>
+    <id>163531</id>
+    <Actors>|Laura Innes|Jason Ritter|Blair Underwood|Hal Holbrook|Bill Smitrovich|Wes Ramsey|Lisa Vidal|Taylor Cole|Zeljko Ivanek|Scott Patterson|Ian Anthony Dale|Sarah Roemer|Clifton Collins Jr.|</Actors>
+    <Airs_DayOfWeek>Monday</Airs_DayOfWeek>
+    <Airs_Time>4:00 AM</Airs_Time>
+    <ContentRating>TV-14</ContentRating>
+    <FirstAired>2010-09-20</FirstAired>
+    <Genre>|Action and Adventure|Drama|Science-Fiction|</Genre>
+    <IMDB_ID>tt1582459</IMDB_ID>
+    <Language>en</Language>
+    <Network>NBC</Network>
+    <NetworkID></NetworkID>
+    <Overview>The Event is an emotional, high-octane conspiracy thriller that follows Sean Walker, an everyman who investigates the mysterious disappearance of his would-be fiancée Leila, and unwittingly begins to expose the biggest cover-up in U.S. history.</Overview>
+    <Rating>8.1</Rating>
+    <RatingCount>82</RatingCount>
+    <Runtime>60</Runtime>
+    <SeriesID>78485</SeriesID>
+    <SeriesName>The Event</SeriesName>
+    <Status>Ended</Status>
+    <added>2010-05-16 13:39:04</added>
+    <addedBy>6560</addedBy>
+    <banner>graphical/163531-g.jpg</banner>
+    <fanart>fanart/original/163531-3.jpg</fanart>
+    <lastupdated>1348779210</lastupdated>
+    <poster>posters/163531-6.jpg</poster>
+    <zap2it_id>SH01266581</zap2it_id>
+  </Series>
+</Data>

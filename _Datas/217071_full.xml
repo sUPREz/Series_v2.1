@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Data><Series>
+  <id>217071</id>
+  <Actors>|Philip Glenister|John Simm|Marc Warren|Ben Chaplin|Max Beesley|</Actors>
+  <Airs_DayOfWeek>Thursday</Airs_DayOfWeek>
+  <Airs_Time>21:00</Airs_Time>
+  <ContentRating>TV-14</ContentRating>
+  <FirstAired>2011-02-10</FirstAired>
+  <Genre>|Drama|</Genre>
+  <IMDB_ID>tt1652218</IMDB_ID>
+  <Language>en</Language>
+  <Network>Sky1</Network>
+  <NetworkID></NetworkID>
+  <Overview>Woody, Quinn, Baxter and Rick have been friends since sixth form. The fifth member of their gang is Alvo, a risk-taking opportunist who, having made his fortune in property, leads a luxurious lifestyle in Majorca.
+Now in their 40s, they've all taken different paths in life with varying degrees of success. When Alvo flies them to his extravagant villa to celebrate his early retirement, they enjoy a trip down memory lane.
+However, all does not go to plan and they find themselves entangled in a web of deception and murder involving beautiful police women, large yachts, Speedos and a rather short assassin in a Tony Blair mask...</Overview>
+  <Rating>8.3</Rating>
+  <RatingCount>7</RatingCount>
+  <Runtime>60</Runtime>
+  <SeriesID></SeriesID>
+  <SeriesName>Mad Dogs</SeriesName>
+  <Status>Continuing</Status>
+  <added>2011-01-01 15:19:45</added>
+  <addedBy>206461</addedBy>
+  <banner>graphical/217071-g.jpg</banner>
+  <fanart>fanart/original/217071-1.jpg</fanart>
+  <lastupdated>1356201685</lastupdated>
+  <poster>posters/217071-1.jpg</poster>
+  <zap2it_id></zap2it_id>
+</Series>
+<Episode>
+  <id>4248087</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Trouble in Paradise - Making Mad Dogs</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1327383059</lastupdated>
+  <seasonid>384651</seasonid>
+  <seriesid>217071</seriesid>
+</Episode>
+<Episode>
+  <id>3567031</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Adrian Shergold</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Episode 1</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2011-02-10</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Four life-long friends visit Majorca to meet up with the fifth member of their gang to celebrate his early retirement, only to become entangled in a web of deception and murder.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>6.3</Rating>
+  <RatingCount>14</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Cris Cole</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/217071/3567031.jpg</filename>
+  <lastupdated>1345715447</lastupdated>
+  <seasonid>384661</seasonid>
+  <seriesid>217071</seriesid>
+</Episode>
+<Episode>
+  <id>3567041</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Adrian Shergold</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Episode 2</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2011-02-17</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Tensions simmer as Woody, Quinn, Baxter and Rick stumble into a scenario that is spiralling out of control.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>11</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Cris Cole</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/217071/3567041.jpg</filename>
+  <lastupdated>1345715491</lastupdated>
+  <seasonid>384661</seasonid>
+  <seriesid>217071</seriesid>
+</Episode>
+<Episode>
+  <id>3567051</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Adrian Shergold</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Episode 3</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2011-02-24</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>The friends realise the gravity of their situation and come up with a plan to make Alvo's murder look like a Russian Mafia hit, fearful that gangsters will soon come looking for their money. The pals have already cut off one of the victim's feet - but paranoia reopens old wounds.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>10</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Cris Cole</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/217071/3567051.jpg</filename>
+  <lastupdated>1345715520</lastupdated>
+  <seasonid>384661</seasonid>
+  <seriesid>217071</seriesid>
+</Episode>
+<Episode>
+  <id>3567061</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Adrian Shergold</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Episode 4</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2011-03-03</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>The critically applauded drama concludes, finishing on the headiest of highs. Barricaded in the villa, things really do go from bad to worse for Woody, Quinn, Baxter and Rick...</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>11</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Cris Cole</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/217071/3567061.jpg</filename>
+  <lastupdated>1345715552</lastupdated>
+  <seasonid>384661</seasonid>
+  <seriesid>217071</seriesid>
+</Episode>
+<Episode>
+  <id>4147652</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>James Hawes</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Episode 1</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2012-01-19</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>The four life-long friends continue their holiday from hell, when a sighting of Dominic heading towards the villa stops them in their tracks as they prepare to drive off and leave Quinn behind. </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.3</Rating>
+  <RatingCount>7</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Cris Cole</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/217071/4147652.jpg</filename>
+  <lastupdated>1346160419</lastupdated>
+  <seasonid>471297</seasonid>
+  <seriesid>217071</seriesid>
+</Episode>
+<Episode>
+  <id>4147658</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>James Hawes</Director>
+  <EpImgFlag>3</EpImgFlag>
+  <EpisodeName>Episode 2</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2012-01-26</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>The nightmare continues to unfold. Woody, Quinn, Baxter and Rick cover their tracks by heading to a remote village, only for strange forces to come into play...
+</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>8</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Cris Cole</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/217071/4147658.jpg</filename>
+  <lastupdated>1346160442</lastupdated>
+  <seasonid>471297</seasonid>
+  <seriesid>217071</seriesid>
+</Episode>
+<Episode>
+  <id>4147659</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>James Hawes</Director>
+  <EpImgFlag>3</EpImgFlag>
+  <EpisodeName>Episode 3</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2012-02-02</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>The boys finds themselves unable to catch a break. They attempt to undo the damage they've unwittingly done and a race against the clock ends up pushing them to breaking point. </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.2</Rating>
+  <RatingCount>5</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Cris Cole</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/217071/4147659.jpg</filename>
+  <lastupdated>1346160469</lastupdated>
+  <seasonid>471297</seasonid>
+  <seriesid>217071</seriesid>
+</Episode>
+<Episode>
+  <id>4147661</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>James Hawes</Director>
+  <EpImgFlag>3</EpImgFlag>
+  <EpisodeName>Episode 4</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2012-02-09</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Mackenzie decides to assign the group a task and then they are free to go home. However, he forces Quinn to stay with him in his caravan. Mackenzie admits that although he is rich enough, he cannot let the €3,000,000 go because of his reputation. The rest are instructed to pick up supplies to produce ecstasy from a cabana and send them to the abadnoned village. Enroute Baxter returns for Carmen. After making the ecstasy, Carman exits the van to wait for Baxter later. They deliver the ecstasy in a nightclub. After they receive payment, they drive back to Mackenzie's caravan in time to save Quinn. It is revealed that Mackenzie made them produce fake tablets to fool the nightclub owners. Mackenzie lets them go, and as an extra, allows them to keep the €5,000,000 payment, and lets them go, instructing them to board a cargo container, which will take them back to the mainland via ferry. However, this does mean Baxter has to leave Carmen behind, though he intends to contact her when they arrive in Barcelona. However, they find that Mackenzie tricked them; the ferry arrives in Morocco. </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.2</Rating>
+  <RatingCount>6</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Cris Cole</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/217071/4147661.jpg</filename>
+  <lastupdated>1346160487</lastupdated>
+  <seasonid>471297</seasonid>
+  <seriesid>217071</seriesid>
+</Episode>
+</Data>

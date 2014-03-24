@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Data>
+  <Series>
+    <id>176941</id>
+    <Actors>|Martin Freeman|Benedict Cumberbatch|Mark Gatiss|Una Stubbs|Rupert Graves|Louise Brealey|Lara Pulver|Andrew Scott|Craig Parkinson|</Actors>
+    <Airs_DayOfWeek>Sunday</Airs_DayOfWeek>
+    <Airs_Time>8:30 PM</Airs_Time>
+    <ContentRating>TV-14</ContentRating>
+    <FirstAired>2010-07-25</FirstAired>
+    <Genre>|Action and Adventure|Drama|</Genre>
+    <IMDB_ID>tt1475582</IMDB_ID>
+    <Language>en</Language>
+    <Network>BBC One</Network>
+    <NetworkID></NetworkID>
+    <Overview>The adventures of Sherlock Holmes and Dr. Watson in 21st Century London.</Overview>
+    <Rating>9.4</Rating>
+    <RatingCount>154</RatingCount>
+    <Runtime>90</Runtime>
+    <SeriesID>79744</SeriesID>
+    <SeriesName>Sherlock</SeriesName>
+    <Status>Continuing</Status>
+    <added>2010-07-20 01:40:01</added>
+    <addedBy>63541</addedBy>
+    <banner>graphical/176941-g.jpg</banner>
+    <fanart>fanart/original/176941-3.jpg</fanart>
+    <lastupdated>1348943171</lastupdated>
+    <poster>posters/176941-4.jpg</poster>
+    <zap2it_id>SH01304269</zap2it_id>
+  </Series>
+</Data>

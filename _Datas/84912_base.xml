@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Data>
+  <Series>
+    <id>84912</id>
+    <Actors>|Amy Poehler|Rashida Jones|Nick Offerman|Aziz Ansari|Aubrey Plaza|Paul Rudd|Kathryn Hahn|Retta|Jim O'Heir|Rob Lowe|Paul Schneider|Chris Pratt|Adam Scott|</Actors>
+    <Airs_DayOfWeek>Thursday</Airs_DayOfWeek>
+    <Airs_Time>9:30 PM</Airs_Time>
+    <ContentRating>TV-14</ContentRating>
+    <FirstAired>2009-04-09</FirstAired>
+    <Genre>|Comedy|</Genre>
+    <IMDB_ID>tt1266020</IMDB_ID>
+    <Language>en</Language>
+    <Network>NBC</Network>
+    <NetworkID></NetworkID>
+    <Overview>The series follows Leslie Knope, the deputy head of the Parks and Recreation department in the fictional town of Pawnee, Indiana. Knope takes on a project with a nurse named Ann to turn a construction pit into a park, while trying to mentor a bored college-aged intern. However, Leslie must fight through the bureaucrats, problem neighbors, and developers in order to make her dream a reality, all while with a camera crew recording her every gaff and mishap.</Overview>
+    <Rating>8.4</Rating>
+    <RatingCount>78</RatingCount>
+    <Runtime>30</Runtime>
+    <SeriesID>75964</SeriesID>
+    <SeriesName>Parks and Recreation</SeriesName>
+    <Status>Continuing</Status>
+    <added>2009-02-01 06:28:57</added>
+    <addedBy>3071</addedBy>
+    <banner>graphical/84912-g8.jpg</banner>
+    <fanart>fanart/original/84912-10.jpg</fanart>
+    <lastupdated>1358229453</lastupdated>
+    <poster>posters/84912-5.jpg</poster>
+    <zap2it_id>SH01128115</zap2it_id>
+  </Series>
+</Data>

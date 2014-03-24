@@ -1,0 +1,946 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Data><Series>
+  <id>161511</id>
+  <Actors>|William H. Macy|Emmy Rossum|Justin Chatwin|Stephanie Fantauzzi|Emma Greenwell|Laura Wiggins|Steve Howey|Shanola Hampton|Ethan Cutkosky|Emma Kenney|Cameron Monaghan|Jeremy Allen White|Joan Cusack|</Actors>
+  <Airs_DayOfWeek>Sunday</Airs_DayOfWeek>
+  <Airs_Time>9:00 PM</Airs_Time>
+  <ContentRating>TV-MA</ContentRating>
+  <FirstAired>2011-01-09</FirstAired>
+  <Genre>|Comedy|Drama|</Genre>
+  <IMDB_ID>tt1586680</IMDB_ID>
+  <Language>en</Language>
+  <Network>Showtime</Network>
+  <NetworkID></NetworkID>
+  <Overview>The series follows the dysfunctional family of Frank Gallagher, a single father of six children. While he spends his days drunk, his kids learn to take care of themselves.</Overview>
+  <Rating>8.9</Rating>
+  <RatingCount>54</RatingCount>
+  <Runtime>60</Runtime>
+  <SeriesID>78143</SeriesID>
+  <SeriesName>Shameless (US)</SeriesName>
+  <Status>Continuing</Status>
+  <added>2010-05-06 13:26:59</added>
+  <addedBy>235</addedBy>
+  <banner>graphical/161511-g4.jpg</banner>
+  <fanart>fanart/original/161511-3.jpg</fanart>
+  <lastupdated>1348321408</lastupdated>
+  <poster>posters/161511-1.jpg</poster>
+  <zap2it_id>SH01347868</zap2it_id>
+</Series>
+<Episode>
+  <id>3279851</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Sneak Peek</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2010-12-12</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode>1</airsbefore_episode>
+  <airsbefore_season>1</airsbefore_season>
+  <filename></filename>
+  <lastupdated>1295259537</lastupdated>
+  <seasonid>242591</seasonid>
+  <seriesid>161511</seriesid>
+</Episode>
+<Episode>
+  <id>4222258</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Christmas Carol</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2011-12-14</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>The Shameless Cast celebrates Christmas with a song as only the Gallaghers could.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>1</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1323986942</lastupdated>
+  <seasonid>242591</seasonid>
+  <seriesid>161511</seriesid>
+</Episode>
+<Episode>
+  <id>4230821</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Bringing The &quot;Fun&quot; To &quot;Dysfunctional&quot;</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1325281183</lastupdated>
+  <seasonid>242591</seasonid>
+  <seriesid>161511</seriesid>
+</Episode>
+<Episode>
+  <id>4231182</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Bringing Shameless to America</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1325363269</lastupdated>
+  <seasonid>242591</seasonid>
+  <seriesid>161511</seriesid>
+</Episode>
+<Episode>
+  <id>4231249</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>A Shameless Discussion About Sex</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1325363345</lastupdated>
+  <seasonid>242591</seasonid>
+  <seriesid>161511</seriesid>
+</Episode>
+<Episode>
+  <id>4231254</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Season 2 Sneak Peek</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1325364103</lastupdated>
+  <seasonid>242591</seasonid>
+  <seriesid>161511</seriesid>
+</Episode>
+<Episode>
+  <id>4231255</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Season 1 Deleted Scenes</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1325364246</lastupdated>
+  <seasonid>242591</seasonid>
+  <seriesid>161511</seriesid>
+</Episode>
+<Episode>
+  <id>2861921</id>
+  <Combined_episodenumber>1.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>1.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Mark Mylod</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Pilot</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2011-01-09</FirstAired>
+  <GuestStars>Marguerite Moreau|Joel Murray|Pej Vahdat|</GuestStars>
+  <IMDB_ID>tt1589573</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Having her handbag stolen proves to be a blessing for Fiona when a handsome stranger named Steve comes to her rescue. Lip is shocked to discover Ian could be gay and decides his brother should pay a visit to the ever-accommodating Karen Jackson down the block. But the sudden arrival of her furious father Eddie ensures Ian's already-slim chances of happiness with Karen take a severe blow. Meanwhile, Steve buys Fiona a romantic gift, but for some reason she's less than impressed with it.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>56</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Paul Abbott|John Wells</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/161511/2861921.jpg</filename>
+  <lastupdated>1345864278</lastupdated>
+  <seasonid>321521</seasonid>
+  <seriesid>161511</seriesid>
+</Episode>
+<Episode>
+  <id>3279811</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>John Wells</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Frank the Plank</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2011-01-16</FirstAired>
+  <GuestStars>Tyler Jacob Moore|Joel Murray|Missy Doty</GuestStars>
+  <IMDB_ID>tt1717968</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Drunk as a skunk, Frank has a run-in with Karen's father and returns home to take it out on Ian. The next day is Friday, and Frank is nowhere to be found, which is a bit odd since he never misses disability check day. The family starts a manhunt. .</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>49</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Paul Abbott</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/161511/3279811.jpg</filename>
+  <lastupdated>1345864303</lastupdated>
+  <seasonid>321521</seasonid>
+  <seriesid>161511</seriesid>
+</Episode>
+<Episode>
+  <id>3444601</id>
+  <Combined_episodenumber>3.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>3.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Stephen Hopkins</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Aunt Ginger</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2011-01-23</FirstAired>
+  <GuestStars>Jillian Armenante|Noel Fisher|Jane Levy|Gloria LeRoy|Tyler Jacob Moore|Pej Vahdat|</GuestStars>
+  <IMDB_ID>tt1732475</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Fiona turns her attentions to Tony, a cop who has had a crush on her since childhood, but Steve isn't willing to give up without a fight; Ian is targeted by the brothers of a girl he spurned; the whole family searches for elderly Aunt Ginger, who owns their house.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.2</Rating>
+  <RatingCount>50</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Nancy Pimental</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/161511/3444601.jpg</filename>
+  <lastupdated>1334168391</lastupdated>
+  <seasonid>321521</seasonid>
+  <seriesid>161511</seriesid>
+</Episode>
+<Episode>
+  <id>3456131</id>
+  <Combined_episodenumber>4.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>4.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Todd Holland</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Casey Casden</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2011-01-30</FirstAired>
+  <GuestStars>Tim Bagley|Vanessa Bell Calloway|Tyler Jacob Moore|Joel Murray|Tyler F. Anderson|Missy Doty|</GuestStars>
+  <IMDB_ID>tt1733025</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Debbie, sad and lonely after Aunt Ginger leaves, steals a little boy from a birthday party. In classic Gallagher style, the family hatches a plan to return the toddler safe and sound without attracting attention from the Chicago Police Department, who has made the kidnapping a top priority. Karen, in complete defiance of Eddie, starts to tease Frank sexually. Frank not knowing what to make of it keeps himself busy with booze, picking up Sheila'­s meds from the pharmacy and concentrating on finding the missing boy. What began as an innocent lie for Kevin to protect himself from a hot girl ultimately becomes a proposal of marriage for Veronica.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>46</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Cindy Caponera</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/161511/3456131.jpg</filename>
+  <lastupdated>1334168534</lastupdated>
+  <seasonid>321521</seasonid>
+  <seriesid>161511</seriesid>
+</Episode>
+<Episode>
+  <id>3456141</id>
+  <Combined_episodenumber>5.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>5.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Mimi Leder</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Three Boys</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2011-02-06</FirstAired>
+  <GuestStars>Anthony Anderson|Vanessa Bell Calloway|Jane Levy|Sandy Martin|Tyler Jacob Moore|Marguerite Moreau|Joel Murray|Pej Vahdat|</GuestStars>
+  <IMDB_ID>tt1744244</IMDB_ID>
+  <Language>en</Language>
+  <Overview>When the Gallagher's find out Veronica comes from a wealthy family, they try to scheme a fake wedding for the dowry. Meanwhile, Frank gets some bad news about his health.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>45</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Alex Borstein</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/161511/3456141.jpg</filename>
+  <lastupdated>1334167345</lastupdated>
+  <seasonid>321521</seasonid>
+  <seriesid>161511</seriesid>
+</Episode>
+<Episode>
+  <id>3456151</id>
+  <Combined_episodenumber>6.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>6.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>John Dahl</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Killer Carl</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2011-02-13</FirstAired>
+  <GuestStars>Dennis Boutsikaris|Noel Fisher|Brent Jennings|Robert Knepper|Marguerite Moreau|Joel Murray|Pej Vahdat|</GuestStars>
+  <IMDB_ID>tt1751740</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Fiona tries to prove the Gallagher home is suitable for rehabilitating a delinquent after receiving a letter from Carl's teacher; Lip gets busted taking the SAT for fellow students in exchange for cash; Kash and Ian are ashamed at their failure to stop a string of robberies at the Kash and Grab; Frank's poor business acumen continues to have negative consequences.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>40</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Mike O'Malley</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/161511/3456151.jpg</filename>
+  <lastupdated>1334168586</lastupdated>
+  <seasonid>321521</seasonid>
+  <seriesid>161511</seriesid>
+</Episode>
+<Episode>
+  <id>3456161</id>
+  <Combined_episodenumber>7.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>7.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>David Nutter</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Frank Gallagher: Loving Husband, Devoted Father </EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2011-02-20</FirstAired>
+  <GuestStars>Noel Fisher|Robert Knepper|Jane Levy|Marguerite Moreau|Pej Vahdat|Timothy V. Murphy|Missy Doty|</GuestStars>
+  <IMDB_ID>tt1814411</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Frank gets into trouble with two goons he owes money. Fiona asks Sheila to take care of Liam while she spends a night with Steve, and Ian tries to stop Mickey from bullying Kash.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>35</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Etan Frankel</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/161511/3456161.jpg</filename>
+  <lastupdated>1344149607</lastupdated>
+  <seasonid>321521</seasonid>
+  <seriesid>161511</seriesid>
+</Episode>
+<Episode>
+  <id>3456171</id>
+  <Combined_episodenumber>8.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>8.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Scott Frank</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>It's Time To Kill The Turtle </EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2011-02-27</FirstAired>
+  <GuestStars>Dennis Boutsikaris|Madison Davenport|Noel Fisher|Christopher Gartin|Jane Levy|Pej Vahdat</GuestStars>
+  <IMDB_ID>tt1812446</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Sheila fears to lose Frank when he gives up drinking. While Lip suspects their dad hasn't changed, Debbie and Carl enjoy having Frank back in their life. Meanwhile, Fiona tries to find a better paid job.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>40</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Nathan Jackson|Nancy Pimental</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/161511/3456171.jpg</filename>
+  <lastupdated>1344149643</lastupdated>
+  <seasonid>321521</seasonid>
+  <seriesid>161511</seriesid>
+</Episode>
+<Episode>
+  <id>3650491</id>
+  <Combined_episodenumber>9.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>9.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Mark Mylod</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>But at Last Came a Knock</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2011-03-06</FirstAired>
+  <GuestStars>Alex Borstein|Madison Davenport|Julia Duffy|Noel Fisher|Joel Murray|Pej Vahdat|Chloe Webb|</GuestStars>
+  <IMDB_ID>tt1812447</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Monica comes back when Frank needs her to sign documents and decides to take Liam with her. Meanwhile, Steve and Fiona move together.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>40</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Paul Abbott|Alex Borstein</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/161511/3650491.jpg</filename>
+  <lastupdated>1344149681</lastupdated>
+  <seasonid>321521</seasonid>
+  <seriesid>161511</seriesid>
+</Episode>
+<Episode>
+  <id>3650501</id>
+  <Combined_episodenumber>10.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>10.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Adam Bernstein</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Nana Gallagher Had an Affair</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2011-03-13</FirstAired>
+  <GuestStars>Noel Fisher|Mo Gaffney|Jane Levy|Tyler Jacob Moore|Joel Murray|Chloe Webb|</GuestStars>
+  <IMDB_ID>tt1814409</IMDB_ID>
+  <Language>en</Language>
+  <Overview>The children's paternity is put into question and Frank needs Carl's help.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>44</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Paul Abbott|Cindy Caponera</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/161511/3650501.jpg</filename>
+  <lastupdated>1344149717</lastupdated>
+  <seasonid>321521</seasonid>
+  <seriesid>161511</seriesid>
+</Episode>
+<Episode>
+  <id>3650511</id>
+  <Combined_episodenumber>11.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>11.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Sanaa Hamri</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Daddyz Girl</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired>2011-03-20</FirstAired>
+  <GuestStars>Amy Smart|Louise Fletcher|Lindsey Ginter|Brad William Henke|Russell Hornsby|Leonard Earl Howze|John Kapelos|Tyler Jacob Moore|Joel Murray|</GuestStars>
+  <IMDB_ID>tt1814410</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Tony comes closer to discovering what Steve is doing, while Fiona makes a new friend. In the meantime, Lip helps Ian look for his father.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>46</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Nancy Pimental</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/161511/3650511.jpg</filename>
+  <lastupdated>1344149768</lastupdated>
+  <seasonid>321521</seasonid>
+  <seriesid>161511</seriesid>
+</Episode>
+<Episode>
+  <id>3650521</id>
+  <Combined_episodenumber>12.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>12.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Mark Mylod</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Father Frank, Full of Grace</EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired>2011-03-27</FirstAired>
+  <GuestStars>Amy Smart|Madison Davenport|Julia Duffy|Russell Hornsby|Toby Huss|Tyler Jacob Moore|Joel Murray|Jeremy Ratchford|</GuestStars>
+  <IMDB_ID>tt1812445</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Steve tries to convince Fiona to skip town with him now that his true livelihood as been discovered; Frank and Karen's secret is revealed, forcing Frank to go into hiding; Fiona tries to figure out how to get Lip and Ian out of jail after their arrest for car theft.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>45</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>John Wells</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/161511/3650521.jpg</filename>
+  <lastupdated>1344149801</lastupdated>
+  <seasonid>321521</seasonid>
+  <seriesid>161511</seriesid>
+</Episode>
+<Episode>
+  <id>4145965</id>
+  <Combined_episodenumber>1.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>1.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Mark Mylod</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Summertime</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2012-01-08</FirstAired>
+  <GuestStars>Amy Smart|James Wolk|Madison Davenport|Marcus Brown|Pej Vahdat|Emma Greenwell|Tyler Jacob Moore|Marguerite Moreau|Jack Carter|Dennis Boutsikaris|</GuestStars>
+  <IMDB_ID>tt1988453</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Fiona spends her summer with a new guy and bartending, while Debbie runs a daycare at their home. Meanwhile, Kevin realizes his extended weed-growing left him with a huge electrical bill and Frank borrows his youngest son Liam to help him pay a debt.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>48</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>John Wells|LaToya Morgan</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/161511/4145965.jpg</filename>
+  <lastupdated>1346699600</lastupdated>
+  <seasonid>471102</seasonid>
+  <seriesid>161511</seriesid>
+</Episode>
+<Episode>
+  <id>4220094</id>
+  <Combined_episodenumber>2.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>2.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>John Wells</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Summer Loving</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2012-01-15</FirstAired>
+  <GuestStars>Dale Wade Davis|Amy Smart|Noel Fisher|Emma Greenwell|Madison Davenport|Marguerite Moreau|</GuestStars>
+  <IMDB_ID>tt2004908</IMDB_ID>
+  <Language>en</Language>
+  <Overview>As Sheila conquers her agoraphobia, a worried Frank finds a new financial plan in fellow bar patron Dottie, whose declining health and city pension make her an ideal match; Fiona juggles her job, the kids and her burgeoning love life, and Jasmine tries to help by setting up Fiona with a sugar daddy; Veronica takes some old folks from the home on an excursion; Lip worries about Karen's growing relationship with Jody; Ian tries to land a recently released Mickey a job at the Kash and Grab; Debbie wants her own room; Carl moves into the van.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>42</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Mike O'Malley|LaToya Morgan</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/161511/4220094.jpg</filename>
+  <lastupdated>1346699621</lastupdated>
+  <seasonid>471102</seasonid>
+  <seriesid>161511</seriesid>
+</Episode>
+<Episode>
+  <id>4220096</id>
+  <Combined_episodenumber>3.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>3.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Craig Zisk</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>I'll Light a Candle for You Every Day</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2012-01-22</FirstAired>
+  <GuestStars>Molly Price|Madison Davenport|Zach McGowan|Trey Teufel|</GuestStars>
+  <IMDB_ID>tt2108266</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Fiona hopes her moral compass isn't leading her astray when she reconnects with her married high school crush, but when she finds an abandoned purse with over five hundred dollars inside, she assumes her luck is finally changing; Frank is willing to do just about anything to stay in Dottie's good graces, even marry her; after Harry's passing, Debbie becomes obsessed with death; Kevin thinks about buying the Alibi; Lip meets with a colonel to glean information for Ian about West Point; Jody asks Frank for Karen's hand in marriage.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>39</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Nancy Pimental|LaToya Morgan</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/161511/4220096.jpg</filename>
+  <lastupdated>1346699772</lastupdated>
+  <seasonid>471102</seasonid>
+  <seriesid>161511</seriesid>
+</Episode>
+<Episode>
+  <id>4220097</id>
+  <Combined_episodenumber>4.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>4.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Mark Mylod</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>A Beautiful Mess</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2012-01-29</FirstAired>
+  <GuestStars>Amy Smart|James Wolk|Madison Davenport|Noel Fisher|Zach McGowan|Emma Greenwell|Taylor Kinney|Brit Morgan|Nicky Korba|Zayne Emory|Dove Cameron|</GuestStars>
+  <IMDB_ID>tt2108267</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Fiona deals with the consequences of sleeping with Craig when his angry wife shows up at the door; Debbie develops a stress-rash and Fiona wonders if she's putting too much responsibility on the kids; Sheila has made it all the way to the hair salon and Frank realizes his days in the Jackson household are numbered; no longer having sex with Karen, Lip tries to dig up dirt on Jody; Ian continues on the path to West Point; Carl house-sits with his friend, Little Hank; Ethel meets Malik, a boy on Kevin's youth basketball team.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.1</Rating>
+  <RatingCount>40</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Alex Borstein|LaToya Morgan</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/161511/4220097.jpg</filename>
+  <lastupdated>1346699861</lastupdated>
+  <seasonid>471102</seasonid>
+  <seriesid>161511</seriesid>
+</Episode>
+<Episode>
+  <id>4232177</id>
+  <Combined_episodenumber>5.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>5.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Anthony Hemingway</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Father's Day</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2012-02-05</FirstAired>
+  <GuestStars>Madison Davenport|Zach McGowan|Emma Greenwell|Peter Murnik|Johnny Sneed|</GuestStars>
+  <IMDB_ID>tt2108268</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Frank tries to claim Eddie's insurance benefits and pension, despite being a prime suspect in his death; Fiona attends a ritzy wedding with Richard and lies about her background; Lip is devastated by Karen's rejection; Carl rents Frank's room to a hooker.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>37</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Etan Frankel|Stan Frankel|LaToya Morgan</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/161511/4232177.jpg</filename>
+  <lastupdated>1346699890</lastupdated>
+  <seasonid>471102</seasonid>
+  <seriesid>161511</seriesid>
+</Episode>
+<Episode>
+  <id>4232178</id>
+  <Combined_episodenumber>6.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>6.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>John Dahl</Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Can I Have a Mother</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2012-02-12</FirstAired>
+  <GuestStars>James Wolk|Madison Davenport|Zach McGowan|Tyler Jacob Moore|Stephanie Fantauzzi|Rob Benedict|Lisa K. Wyatt|Louise Fletcher|</GuestStars>
+  <IMDB_ID>tt2048583</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Grammy Gallagher shows up on a medical furlough and tries to track down a former meth lab protege that owes her money; Sheila plans Karen's wedding reception; Fiona double dates with Steve and his Brazilian girlfriend, and discovers that Steve is married; Ethel reacts to Clyde's death; Frank discovers the identity of Eddie's insurance beneficiary.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.3</Rating>
+  <RatingCount>38</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>William H. Macy|Steven Schachter|Steven Schaffer|LaToya Morgan|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/161511/4232178.jpg</filename>
+  <lastupdated>1346699928</lastupdated>
+  <seasonid>471102</seasonid>
+  <seriesid>161511</seriesid>
+</Episode>
+<Episode>
+  <id>4232179</id>
+  <Combined_episodenumber>7.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>7.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>David Nutter</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>A Bottle of Jean Nate</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2012-02-19</FirstAired>
+  <GuestStars>Amy Smart|Zach McGowan|Stephanie Fantauzzi|Gwen McGee|Rakefet Abergel|Gloria Garayua|Jack Carter|Louise Fletcher|</GuestStars>
+  <IMDB_ID>tt2064556</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Lip tries to get back in Karen's good graces by crafting a prenuptial agreement for her and Jody, while Ian continues to give Lip the silent treatment; Frank wants to kick Grammy out but Fiona resists until the basement meth lab explodes; Fiona is invited on a boat trip but doesn't realize Steve and his girlfriend are also attending.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>34</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Nancy Pimental|LaToya Morgan|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/161511/4232179.jpg</filename>
+  <lastupdated>1346700060</lastupdated>
+  <seasonid>471102</seasonid>
+  <seriesid>161511</seriesid>
+</Episode>
+<Episode>
+  <id>4238737</id>
+  <Combined_episodenumber>8.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>8.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Daisy von Scherler Mayer</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Parenthood</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2012-03-04</FirstAired>
+  <GuestStars>Zach McGowan|Stephanie Fantauzzi|Noel Fisher|Chloe Webb|Ed Lauter|Susan Krebs|Larry Clarke|Diora Baird|</GuestStars>
+  <IMDB_ID>tt2105878</IMDB_ID>
+  <Language>en</Language>
+  <Overview>With Grammy near death, Frank exits the house but walks in on Ian and Mickey locked in passion at the Kash and Grab; when Lip drops out of school, Fiona proposes a deal where they both earn their diplomas, but Lip acts out and gets himself expelled when he realizes that Karen plans to sell their baby to the highest bidder.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>35</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Mike O'Malley|LaToya Morgan|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/161511/4238737.jpg</filename>
+  <lastupdated>1346700089</lastupdated>
+  <seasonid>471102</seasonid>
+  <seriesid>161511</seriesid>
+</Episode>
+<Episode>
+  <id>4238738</id>
+  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Alex Graves</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Hurricane Monica</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2012-03-11</FirstAired>
+  <GuestStars>Chloe Webb|Emma Greenwell</GuestStars>
+  <IMDB_ID>tt2080942</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Monica returns to party and plot scams with Frank, but the rest of the family suspects she hasn't returned to stay; Fiona reconsiders her decision to kick Lip out of the house; Grammy's death affects everyone differently, and leaves Frank determined to make sure he gets every last penny his mother left behind; Sheila and Jody think Eddie's ghost is haunting the house.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>30</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Alex Borstein</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/161511/4238738.jpg</filename>
+  <lastupdated>1346700122</lastupdated>
+  <seasonid>471102</seasonid>
+  <seriesid>161511</seriesid>
+</Episode>
+<Episode>
+  <id>4238739</id>
+  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Mimi Leder</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>A Great Cause</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2012-03-18</FirstAired>
+  <GuestStars>Chloe Webb|Zach McGowan|Stephanie Fantauzzi|Emma Greenwell</GuestStars>
+  <IMDB_ID>tt2093744</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Fiona starts to plan for her future now that Monica is back but her reprieve may be short-lived as Monica falls apart, spends the squirrel fund and gets arrested; Steve conspires to reunite Estefania with her true love so that he can be with Fiona; Lip and Ian learn the true identity of Mandy's baby; Sheila takes in a homeless crack addict.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>31</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Etan Frankel</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/161511/4238739.jpg</filename>
+  <lastupdated>1346700153</lastupdated>
+  <seasonid>471102</seasonid>
+  <seriesid>161511</seriesid>
+</Episode>
+<Episode>
+  <id>4238740</id>
+  <Combined_episodenumber>11</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Mark Mylod</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Just Like the Pilgrims Intended</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired>2012-03-25</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt2091073</IMDB_ID>
+  <Language>en</Language>
+  <Overview>It's a typical Gallagher nontraditional Thanksgiving that includes a suicide attempt by Monica, Carl shooting a bald eagle, and Karen going into labor; Steve agrees to allow Estefania's boyfriend to steal his identity; Ian sleeps with a businessman named Ned; Frank tries to get his share of his mother's money from his brother Clayton.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>34</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Nancy Pimental</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/161511/4238740.jpg</filename>
+  <lastupdated>1346700220</lastupdated>
+  <seasonid>471102</seasonid>
+  <seriesid>161511</seriesid>
+</Episode>
+<Episode>
+  <id>4274498</id>
+  <Combined_episodenumber>12</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>John Wells</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Fiona Interrupted</EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired>2012-04-01</FirstAired>
+  <GuestStars>Harry Hamlin|Chloe Webb|Zach McGowan|Stephanie Fantauzzi|Emma Greenwell|Tyler Jacob Moore|Julia Duffy|Christopher Gartin|Jim Hoffmaster|William Charles Mitchell|Larry Herron|Jenna Elfman</GuestStars>
+  <IMDB_ID>tt2104602</IMDB_ID>
+  <Language>en</Language>
+  <Overview>A lonely Frank schemes to break Monica out of the psychiatric facility. Jimmy earns his way back into Fiona's good graces and she asks to meet his family while Ian runs into Ned again.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>32</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>John Wells</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/161511/4274498.jpg</filename>
+  <lastupdated>1346700251</lastupdated>
+  <seasonid>471102</seasonid>
+  <seriesid>161511</seriesid>
+</Episode>
+<Episode>
+  <id>4400381</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>TBA</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2013-01-13</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1347901225</lastupdated>
+  <seasonid>501077</seasonid>
+  <seriesid>161511</seriesid>
+</Episode>
+</Data>

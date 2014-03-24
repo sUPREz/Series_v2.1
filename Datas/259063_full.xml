@@ -1,0 +1,871 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Data><Series>
+  <id>259063</id>
+  <Actors>|Mads Mikkelsen|Hugh Dancy|Caroline Dhavernas|Laurence Fishburne|Lara Jean Chorostecki |Kacey Rohl|Aaron Abrams|Hettienne Park|Scott Thompson|Gillian Anderson|</Actors>
+  <Airs_DayOfWeek>Friday</Airs_DayOfWeek>
+  <Airs_Time>10:00 PM</Airs_Time>
+  <ContentRating>TV-MA</ContentRating>
+  <FirstAired>2013-04-04</FirstAired>
+  <Genre>|Crime|Drama|Horror|Thriller|</Genre>
+  <IMDB_ID>tt2243973</IMDB_ID>
+  <Language>en</Language>
+  <Network>NBC</Network>
+  <NetworkID></NetworkID>
+  <Overview>Explores the early relationship between the renowned psychiatrist and his patient, a young FBI criminal profiler, who is haunted by his ability to empathize with serial killers. </Overview>
+  <Rating>8.3</Rating>
+  <RatingCount>56</RatingCount>
+  <Runtime>45</Runtime>
+  <SeriesID>158551</SeriesID>
+  <SeriesName>Hannibal</SeriesName>
+  <Status>Continuing</Status>
+  <added>2012-05-15 12:40:31</added>
+  <addedBy>20821</addedBy>
+  <banner>graphical/259063-g9.jpg</banner>
+  <fanart>fanart/original/259063-21.jpg</fanart>
+  <lastupdated>1394333341</lastupdated>
+  <poster>posters/259063-6.jpg</poster>
+  <zap2it_id>EP01567935</zap2it_id>
+</Series>
+<Episode>
+  <id>4553762</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Ceuf (NBC Web Version)</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2013-04-24</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Two families are found murdered, with both mothers killed last. The only link between the families is that they both have sons who have been on the missing persons list for approximately a year. 
+
+NBC decided not to air the full episode and instead offered this web only version that was approximately 20 minutes long.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>4</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode>4</airsbefore_episode>
+  <airsbefore_season>1</airsbefore_season>
+  <filename>episodes/259063/4553762.jpg</filename>
+  <lastupdated>1368148138</lastupdated>
+  <seasonid>492476</seasonid>
+  <seriesid>259063</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4333901</id>
+  <Combined_episodenumber>1.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>1.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Michael Rymer</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Apéritif</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2013-04-04</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt2243973</IMDB_ID>
+  <Language>en</Language>
+  <Overview>When the FBI takes on a case of disappearing college girls, Jack Crawford recruits Will Graham, a gifted criminal profiler with a unique view into the psyche of serial killers, to consult. Jack also seeks the help of Dr. Hannibal Lecter, a brilliant psychiatrist. After a copycat strikes, Will and Hannibal join forces to track down the culprit.</Overview>
+  <ProductionCode>101</ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>110</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Bryan Fuller</Writer>
+  <absolute_number>1</absolute_number>
+  <filename>episodes/259063/4333901.jpg</filename>
+  <lastupdated>1392462672</lastupdated>
+  <seasonid>493342</seasonid>
+  <seriesid>259063</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4515450</id>
+  <Combined_episodenumber>2.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>2.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Michael Rymer</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Amuse-Bouche</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2013-04-11</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt2373027</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Will Graham, now an official special investigator with the FBI, helps Jack Crawford and the BAU unit search for a murderer who buries his victims alive to grow mushrooms. In their therapy sessions, Hannibal begins to gain Will's trust as they bond over responsibility for Abigail, and helps Will open up about his true feelings about killing Hobbs. Meanwhile, Freddie Lounds snoops around the BAU's investigation.</Overview>
+  <ProductionCode>103</ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>92</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Jim Danger Gray</Writer>
+  <absolute_number>2</absolute_number>
+  <filename>episodes/259063/4515450.jpg</filename>
+  <lastupdated>1392463057</lastupdated>
+  <seasonid>493342</seasonid>
+  <seriesid>259063</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4517952</id>
+  <Combined_episodenumber>3.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>3.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>David Slade</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Potage</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2013-04-18</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt2373029</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Jack theorizes that Abigail may have aided her father, Garret Jacob Hobbs in his serial killings. Against Dr. Alana Bloom's advice, but at Hannibal's behest, Abigail is escorted back to Minnesota, where she discovers much violent hostility against her and her family. Things go from bad to worse when a copycat killer murders a friend of Abigail. Hannibal suggests they hide the body to protect Abigail - but secrets come at a cost.</Overview>
+  <ProductionCode>102</ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>91</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>David Fury|Chris Brancato|Bryan Fuller</Writer>
+  <absolute_number>3</absolute_number>
+  <filename>episodes/259063/4517952.jpg</filename>
+  <lastupdated>1392462715</lastupdated>
+  <seasonid>493342</seasonid>
+  <seriesid>259063</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4561500</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Peter Medak</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Œuf</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2013-04-24</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt2373031</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Two families are found murdered, with both mothers killed last. The only link between the families is that they both have sons who have been on the missing persons list for approximately a year. Graham concludes these &quot;Lost Boys&quot; are killing their old families to bond more closely to their new family. Graham continues his sessions with Dr. Lecter and confides that even if he finds the boys he will never be able to give them back what they gave away: their families. Lecter's escalating interest in Abigail Hobbs leads him to check her out of the hospital, against Dr. Alana Bloom's wishes, and take her into his care.</Overview>
+  <ProductionCode>104</ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>70</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Jennifer Schuur</Writer>
+  <absolute_number>4</absolute_number>
+  <filename>episodes/259063/4561500.jpg</filename>
+  <lastupdated>1392462727</lastupdated>
+  <seasonid>493342</seasonid>
+  <seriesid>259063</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4517953</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Guillermo Navarro</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Coquilles</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2013-04-25</FirstAired>
+  <GuestStars>Gina Torres|Austin Macdonald|Nicholas Bode</GuestStars>
+  <IMDB_ID>tt2373033</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Will Graham and the BAU team track a serial killer whose bloody ritual includes cutting the victims' back flesh and stretching it to look like angel wings. Returning to the field weighs heavily on Will's psyche and Hannibal tries to drive a wedge between Will and Jack. Meanwhile, Jack Crawford's wife Bella pulls away from him and begins seeing Hannibal as her therapist, in an effort to come to terms with the fact she is dying. Beverly tries to connect with Will on a more personal level. </Overview>
+  <ProductionCode>106</ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>68</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Scott Nimerfro|Bryan Fuller</Writer>
+  <absolute_number>5</absolute_number>
+  <filename>episodes/259063/4517953.jpg</filename>
+  <lastupdated>1392463000</lastupdated>
+  <seasonid>493342</seasonid>
+  <seriesid>259063</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4517955</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Michael Rymer</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Entrée</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2013-05-02</FirstAired>
+  <GuestStars>Eddie Izzard</GuestStars>
+  <IMDB_ID>tt2373035</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Jack &amp; Alana are contacted by a former colleague, Dr. Chilton, who believes he has The Chesapeake Ripper in custody, but then one of his patients commits a murder that matches The Ripper's profile. The team determines the Ripper was a surgeon and is still at large when Jack's former protégé Miriam becomes the next victim. Jack copes with her loss and the prospect of losing his wife by opening-up to Hannibal.</Overview>
+  <ProductionCode>107</ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>64</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Kai Yu Wu|Bryan Fuller</Writer>
+  <absolute_number>6</absolute_number>
+  <filename>episodes/259063/4517955.jpg</filename>
+  <lastupdated>1392463117</lastupdated>
+  <seasonid>493342</seasonid>
+  <seriesid>259063</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>168</thumb_height>
+  <thumb_width>300</thumb_width>
+</Episode>
+<Episode>
+  <id>4517956</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>James Foley</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Sorbet</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2013-05-09</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt2373037</IMDB_ID>
+  <Language>en</Language>
+  <Overview>When the BAU investigates a murder involving organ removal Jack believes that the Chesapeake Ripper may have resurfaced, but Will determines that the victim's murder is the result of illegal organ harvesting accident. Meanwhile, Will suffers from nightmares where he is Abigail's father, and Hannibal slowly starts to seduce Alana Bloom and begins to visit his own therapist, Dr. Bedelia Du Maurier.</Overview>
+  <ProductionCode>105</ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>65</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Jesse Alexander|Bryan Fuller</Writer>
+  <absolute_number>7</absolute_number>
+  <filename>episodes/259063/4517956.jpg</filename>
+  <lastupdated>1392462765</lastupdated>
+  <seasonid>493342</seasonid>
+  <seriesid>259063</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>168</thumb_height>
+  <thumb_width>300</thumb_width>
+</Episode>
+<Episode>
+  <id>4520365</id>
+  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Tim Hunter</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Fromage</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2013-05-16</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt2373039</IMDB_ID>
+  <Language>en</Language>
+  <Overview>The BAU investigates a murder in which the killer exposes the victim's vocal cords to literally play them like a cello. Meanwhile, Hannibal discovers that the killer, Tobias, murdered the victim as an attempt to gain Hannibal's attention but then makes an attempt to take Lecter’s life. Will is driven to distraction by strange noises in his head and turns to Alana, in a romantic way, seeking peace and stability. Hannibal describes his relationship with Will to his therapist, Dr. Bedilia Du Maurier.</Overview>
+  <ProductionCode>108</ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>57</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Jennifer Schuur|Bryan Fuller</Writer>
+  <absolute_number>8</absolute_number>
+  <filename>episodes/259063/4520365.jpg</filename>
+  <lastupdated>1392462780</lastupdated>
+  <seasonid>493342</seasonid>
+  <seriesid>259063</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>168</thumb_height>
+  <thumb_width>300</thumb_width>
+</Episode>
+<Episode>
+  <id>4520366</id>
+  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Guillermo Navarro</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Trou Normand</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2013-05-23</FirstAired>
+  <GuestStars>Lance Henriksen</GuestStars>
+  <IMDB_ID>tt2373041</IMDB_ID>
+  <Language>en</Language>
+  <Overview>The BAU team hunts a serial killer who digs up his victims, creating a totem pole of their bodies as a macabre trophy. When Nick Boyle's body is found, Jack &amp; Alana question Abigail about his death. The resurrection of Nick's body enlightens Will to some of Abigail's secrets and Hannibal convinces Will to keep some of his own. Attempting to assert independence, Abigail agrees to write a book with Freddy Lounds and in the process, reveals her biggest secret to Hannibal.</Overview>
+  <ProductionCode>109</ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>60</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Steve Lightfoot|Bryan Fuller</Writer>
+  <absolute_number>9</absolute_number>
+  <filename>episodes/259063/4520366.jpg</filename>
+  <lastupdated>1392462921</lastupdated>
+  <seasonid>493342</seasonid>
+  <seriesid>259063</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>168</thumb_height>
+  <thumb_width>300</thumb_width>
+</Episode>
+<Episode>
+  <id>4520367</id>
+  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>John Dahl</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Buffet Froid</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2013-05-30</FirstAired>
+  <GuestStars>Hilary Jardine|Krista Bridges|Ellen Muth</GuestStars>
+  <IMDB_ID>tt2373019</IMDB_ID>
+  <Language>en</Language>
+  <Overview>BAU investigates a murder in which two victims' faces are similarly mutilated; given a “Glasgow Smile.” For the first time, Will contaminates a crime scene thinking he committed the first murder and an MRI shows he suffers from Advanced Encephalitis. But Hannibal intimidates the attending physician, Dr. Sutcliffe, into telling Will he's okay. Meanwhile, the team doubts Will who says, while revisiting the crime scene alone, he saw a mysterious, “dead-looking” woman who may be involved. With his fears fed by Hannibal, Will returns to Dr. Sutcliffe for more mental health tests, when the doctor is murdered.</Overview>
+  <ProductionCode>110</ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>58</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Andrew Black|Chris Brancato	|Bryan Fuller</Writer>
+  <absolute_number>10</absolute_number>
+  <filename>episodes/259063/4520367.jpg</filename>
+  <lastupdated>1392462812</lastupdated>
+  <seasonid>493342</seasonid>
+  <seriesid>259063</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>168</thumb_height>
+  <thumb_width>300</thumb_width>
+</Episode>
+<Episode>
+  <id>4520368</id>
+  <Combined_episodenumber>11</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Guillermo Navarro</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Rôti</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired>2013-06-06</FirstAired>
+  <GuestStars>Eddie Izzard</GuestStars>
+  <IMDB_ID>tt2373021</IMDB_ID>
+  <Language>en</Language>
+  <Overview>When Dr. Gideon escapes from police custody, he seeks to kill psychiatrists who have profiled him. Will and the BAU team try to track him down by following Freddie Lounds' blog before Gideon can get to Alana. Hannibal misleads the BAU team in order to put Will in the same room as Gideon, and Jack questions Dr. Chilton regarding Gideon’s escape.</Overview>
+  <ProductionCode>111</ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>57</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Steve Lightfoot|Bryan Fuller|Scott Nimerfro</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/259063/4520368.jpg</filename>
+  <lastupdated>1392462824</lastupdated>
+  <seasonid>493342</seasonid>
+  <seriesid>259063</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>168</thumb_height>
+  <thumb_width>300</thumb_width>
+</Episode>
+<Episode>
+  <id>4520369</id>
+  <Combined_episodenumber>12</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Michael Rymer</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Relevés</EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired>2013-06-13</FirstAired>
+  <GuestStars>Gillian Anderson, Ellen Muth</GuestStars>
+  <IMDB_ID>tt2373023</IMDB_ID>
+  <Language>en</Language>
+  <Overview>After Georgia Madchen dies in an explosion, Will asserts that the copy cat killer is still alive. The BAU team links Abigail to the Minnesota Shrike victims and plan to arrest her only to find Will has checked her out of the hospital. Will's hallucinations intensify, causing him to lose Abigail in Minnesota. Meanwhile, Hannibal's subtle manipulation convinces Jack that Will is capable of murder. Hannibal makes an astonishing admission to Abigail.</Overview>
+  <ProductionCode>112</ProductionCode>
+  <Rating>8.1</Rating>
+  <RatingCount>60</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Chris Brancato|Bryan Fuller</Writer>
+  <absolute_number>12</absolute_number>
+  <filename>episodes/259063/4520369.jpg</filename>
+  <lastupdated>1392463323</lastupdated>
+  <seasonid>493342</seasonid>
+  <seriesid>259063</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>168</thumb_height>
+  <thumb_width>300</thumb_width>
+</Episode>
+<Episode>
+  <id>4520370</id>
+  <Combined_episodenumber>13</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>David Slade</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Savoureux</EpisodeName>
+  <EpisodeNumber>13</EpisodeNumber>
+  <FirstAired>2013-06-20</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt2373025</IMDB_ID>
+  <Language>en</Language>
+  <Overview>When Will returns from Minnesota without Abigail, Hannibal turns Will in, and Jack and the BAU team find strong evidence of Will having killed not only Abigail but additional evidence points to all the murders of the Copy Cat Killer. Jack and Alana begin to accept that Will is indeed capable of murder. Will is arrested and in a desperate attempt to escape, breaks his own thumb to slip the handcuffs and frees himself. Will takes Hannibal back to Minnesota to clear his name and to prove Hannibal's guilt. But before he can, the situation takes another ugly and unexpected turn.</Overview>
+  <ProductionCode>113</ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>55</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Steve Lightfoot|Bryan Fuller|Scott Nimerfro</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/259063/4520370.jpg</filename>
+  <lastupdated>1392462854</lastupdated>
+  <seasonid>493342</seasonid>
+  <seriesid>259063</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>168</thumb_height>
+  <thumb_width>300</thumb_width>
+</Episode>
+<Episode>
+  <id>4653574</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Tim Hunter</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Kaiseki</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2014-02-28</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3000124</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Will is determined to fight for his innocence as Hannibal and Jack try to wrap their heads around the fact he's behind bars. Meanwhile, Alana faces a strained relationship with Will while Kade Purnell with the FBI pays him a visit. </Overview>
+  <ProductionCode>201</ProductionCode>
+  <Rating>8.3</Rating>
+  <RatingCount>19</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Bryan Fuller</Writer>
+  <absolute_number>14</absolute_number>
+  <filename>episodes/259063/4653574.jpg</filename>
+  <lastupdated>1393936009</lastupdated>
+  <seasonid>528928</seasonid>
+  <seriesid>259063</seriesid>
+  <thumb_added>2014-02-27 21:12:45</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4748756</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Sakizuke</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2014-03-07</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3230882</IMDB_ID>
+  <Language>en</Language>
+  <Overview>The team investigates a soupy crime scene as valuable evidence comes to the fore. Meanwhile, Hannibal sniffs out clues on his own; Will continues a quest to prove his innocence; Jack feels guilty for not protecting Will and goes to therapy.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.3</Rating>
+  <RatingCount>6</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>15</absolute_number>
+  <filename>episodes/259063/4748756.jpg</filename>
+  <lastupdated>1394331862</lastupdated>
+  <seasonid>528928</seasonid>
+  <seriesid>259063</seriesid>
+  <thumb_added>2014-03-01 20:43:29</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4772307</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Hassun</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2014-03-14</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3230884</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Will Graham's trial begins and he must watch as those closest to him are forced to take sides. Jack Crawfords scathing report about his conduct with Will, is pulled in conflicting directions. To add confusion to an already suspenseful trial, a court bailiff is killed in a Copycat-like manner and those closest to Will start to wonder if they were wrong about him.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>16</absolute_number>
+  <filename>episodes/259063/4772307.jpg</filename>
+  <lastupdated>1394333341</lastupdated>
+  <seasonid>528928</seasonid>
+  <seriesid>259063</seriesid>
+  <thumb_added>2014-03-08 18:49:01</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4772308</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Takiawase</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2014-03-21</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3230886</IMDB_ID>
+  <Language>en</Language>
+  <Overview>When a body is discovered in a meadow, the cranial cavity appears to have been turned into a beehive; Beverly secretly consults with Will on the mural killer case.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>17</absolute_number>
+  <filename></filename>
+  <lastupdated>1393651038</lastupdated>
+  <seasonid>528928</seasonid>
+  <seriesid>259063</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4772309</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Mukozuke</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2014-03-28</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3230890</IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>18</absolute_number>
+  <filename></filename>
+  <lastupdated>1394267743</lastupdated>
+  <seasonid>528928</seasonid>
+  <seriesid>259063</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4772310</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Futamono</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3230896</IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>19</absolute_number>
+  <filename></filename>
+  <lastupdated>1389988448</lastupdated>
+  <seasonid>528928</seasonid>
+  <seriesid>259063</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4772311</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Yakimono</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3230898</IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>20</absolute_number>
+  <filename></filename>
+  <lastupdated>1389988469</lastupdated>
+  <seasonid>528928</seasonid>
+  <seriesid>259063</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4772312</id>
+  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Vincenzo Natali</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Su-zakana</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3230894</IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Scott Nimerfro</Writer>
+  <absolute_number>21</absolute_number>
+  <filename></filename>
+  <lastupdated>1389988485</lastupdated>
+  <seasonid>528928</seasonid>
+  <seriesid>259063</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4772306</id>
+  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Michael Rhymer</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Shiizakana</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3230900</IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Jeff Vlaming</Writer>
+  <absolute_number>22</absolute_number>
+  <filename></filename>
+  <lastupdated>1389988501</lastupdated>
+  <seasonid>528928</seasonid>
+  <seriesid>259063</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4795921</id>
+  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>TBA</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>23</absolute_number>
+  <filename></filename>
+  <lastupdated>1392064111</lastupdated>
+  <seasonid>528928</seasonid>
+  <seriesid>259063</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4795922</id>
+  <Combined_episodenumber>11</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>David Slade</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Ko No Mono</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Andy Black | Jeff Vlaming</Writer>
+  <absolute_number>24</absolute_number>
+  <filename></filename>
+  <lastupdated>1392064102</lastupdated>
+  <seasonid>528928</seasonid>
+  <seriesid>259063</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4810880</id>
+  <Combined_episodenumber>12</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Tomewan</EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1393650997</lastupdated>
+  <seasonid>528928</seasonid>
+  <seriesid>259063</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4810881</id>
+  <Combined_episodenumber>13</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Mizumono</EpisodeName>
+  <EpisodeNumber>13</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1393651004</lastupdated>
+  <seasonid>528928</seasonid>
+  <seriesid>259063</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+</Data>
