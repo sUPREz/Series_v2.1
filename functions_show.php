@@ -35,7 +35,11 @@ function ShowSeriesList()
     }
     //echo $query;
     $result = SQLQuery($query);
-    while( $Serie = mysql_fetch_array($result) ){
+
+    //print_r_pre( $result );
+
+    //while( $Serie = mysql_fetch_array($result) ){
+    while ( $Serie = $result->fetch(PDO::FETCH_ASSOC) ){
       $SerieListFromDB[$Serie['id']]['id'] = $Serie['id'];
       $SerieListFromDB[$Serie['id']]['Ignore'] = $Serie['Ignore'];
       $SerieListFromDB[$Serie['id']]['Seen'] = $Serie['Seen'];
@@ -315,7 +319,10 @@ function ShowSerie($SerieID)
     if($NodeName == 'Episode')
     {
       $query = "SELECT * FROM series_episodes WHERE ID='".(int)$Node->id."'";
-      $result = mysql_fetch_array( SQLQuery($query) );
+      //$result = mysql_fetch_array( SQLQuery($query) );
+
+      $result = SQLQuery($query);
+      $result = $result->fetch(PDO::FETCH_ASSOC);
 
       //print_r_pre($result);
 
@@ -591,7 +598,10 @@ function ShowCalendar()
         break;
     }
     $result = SQLQuery($query);
-    while( $Serie = mysql_fetch_array($result) ){
+
+    while ( $Serie = $result->fetch(PDO::FETCH_ASSOC) ){
+    //while( $Serie = mysql_fetch_array($result) ){
+
 	  /*
 	  echo "caca ";
 	  print_r($Serie);
@@ -619,8 +629,9 @@ function ShowCalendar()
 //*/
     $result = SQLQuery($query);
 
-    while( $Episode = mysql_fetch_array($result) )
-    {
+    //while( $Episode = mysql_fetch_array($result) )
+
+    while ( $Episode = $result->fetch(PDO::FETCH_ASSOC) ){
       $EpisodeListFromDB[$Episode['SerieID']][$Episode['ID']] = $Episode;
     }
 
@@ -683,10 +694,10 @@ function ShowCalendar()
 			//echo $NodeName;
 			if($NodeName == 'Episode')
 			{
-			  /*
-			  $query = "SELECT * FROM series_episodes WHERE ID='".(int)$Node->id."'";
-			  $result = mysql_fetch_array( SQLQuery($query) );
-			  //*/
+
+			  //$query = "SELECT * FROM series_episodes WHERE ID='".(int)$Node->id."'";
+			  //$result = mysql_fetch_array( SQLQuery($query) );
+
 			  //$NextWeek = time() + (7 * 24 * 60 * 60);
 			  $NextWeek = time() + (30 * 24 * 60 * 60);
 			  $NextWeek = date('Y-m-d' , $NextWeek);

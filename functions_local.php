@@ -50,9 +50,15 @@ function GetLocalUserFavorites()
 
 function getUsersFromDB(){
   $query = "SELECT * FROM series_users";
+  
   $result = SQLQuery($query);
-  while( $User = mysql_fetch_array($result) )
+
+  //print_r_pre( $result );
+
+  while ( $User = $result->fetch(PDO::FETCH_ASSOC) ){
+    //while( $User = mysql_fetch_array($result) )
     $UserList[$User['ID']] = $User['name'];
+  }
 
   return( $UserList );
 }
