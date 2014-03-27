@@ -1,6 +1,7 @@
 <?php
 ini_set( 'default_charset' , "iso-8859-1" );
-setlocale (LC_TIME, 'fr_FR','fra');
+setlocale (LC_TIME, 'fr_FR.utf8','fra');
+//setlocale (LC_TIME, 'fr_FR','fra');
 error_reporting(E_ALL ^ E_NOTICE);
 
 /* Free

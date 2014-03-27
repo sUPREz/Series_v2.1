@@ -541,8 +541,10 @@ function ShowEpisodeList( $EpisodesList , $Format , $Sort )
             $_Content .= '&nbsp;'.$LocalContent.'&nbsp;';
             break;
           case 'FirstAired':
-            if( $Episode[$column] != "" )
-              $_Content .= ucwords( strftime("%A %d %B %Y", strtotime($Episode[$column]) ) );
+            if( $Episode[$column] != "" ){
+              $_Content .= utf8_decode( ucwords( strftime("%A %d %B %Y", strtotime($Episode[$column]) ) ) ) ;
+              //$_Content .= ucwords( strftime("%A %d %B %Y", strtotime($Episode[$column]) ) );
+			}
             break;
           case 'EpisodeName2':
             $LocalContent = str_replace( '[[SerieID]]' , $Episode['SerieID'] , $CONTENT_LINK['TVDB_Episodes'] );
