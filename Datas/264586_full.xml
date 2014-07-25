@@ -1,31 +1,440 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Data><Series>
   <id>264586</id>
-  <Actors>|Taylor Schilling|Laura Prepon|Jason Biggs|Selenis Leyva|Elizabeth Rodriguez|Matt McGorry|Dascha Polanco|Samira Wiley|Yael Stone|Laverne Cox|Taryn Manning|Uzo Aduba|Natasha Lyonne|Pablo Schreiber|Danielle Brooks|Kate Mulgrew|</Actors>
-  <Airs_DayOfWeek></Airs_DayOfWeek>
-  <Airs_Time></Airs_Time>
+  <Actors>|Taylor Schilling|Laura Prepon|Jason Biggs|Kimiko Glenn|Constance Shulman|Selenis Leyva|Elizabeth Rodriguez|Matt McGorry|Dascha Polanco|Samira Wiley|Yael Stone|Laverne Cox|Taryn Manning|Uzo Aduba|Natasha Lyonne|Pablo Schreiber|Danielle Brooks|Kate Mulgrew|</Actors>
+  <Airs_DayOfWeek>Friday</Airs_DayOfWeek>
+  <Airs_Time>12:01 AM</Airs_Time>
   <ContentRating>TV-MA</ContentRating>
   <FirstAired>2013-07-11</FirstAired>
-  <Genre>|Drama|</Genre>
+  <Genre>|Comedy|Crime|Drama|</Genre>
   <IMDB_ID>tt2372162</IMDB_ID>
   <Language>en</Language>
   <Network>Netflix</Network>
   <NetworkID></NetworkID>
   <Overview>Piper Chapman’s wild past comes back to haunt her, resulting in her arrest and detention in a federal penitentiary. To pay her debt to society, Piper trades her comfortable New York life for an orange prison jumpsuit and finds unexpected conflict and camaraderie amidst an eccentric group of inmates.</Overview>
-  <Rating>8.5</Rating>
-  <RatingCount>22</RatingCount>
+  <Rating>8.1</Rating>
+  <RatingCount>40</RatingCount>
   <Runtime>60</Runtime>
   <SeriesID>orange-is-the-new-black</SeriesID>
   <SeriesName>Orange Is the New Black</SeriesName>
   <Status>Continuing</Status>
   <added>2012-12-03 07:41:55</added>
   <addedBy>375125</addedBy>
-  <banner>graphical/264586-g4.jpg</banner>
-  <fanart>fanart/original/264586-2.jpg</fanart>
-  <lastupdated>1388260977</lastupdated>
+  <banner>graphical/264586-g6.jpg</banner>
+  <fanart>fanart/original/264586-3.jpg</fanart>
+  <lastupdated>1405860647</lastupdated>
   <poster>posters/264586-3.jpg</poster>
+  <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>EP01735534</zap2it_id>
 </Series>
+<Episode>
+  <id>4921200</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>TBA</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1404195548</lastupdated>
+  <seasonid>589793</seasonid>
+  <seriesid>264586</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4921202</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>TBA</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1404195610</lastupdated>
+  <seasonid>589793</seasonid>
+  <seriesid>264586</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4921203</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>TBA</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1404195617</lastupdated>
+  <seasonid>589793</seasonid>
+  <seriesid>264586</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4921204</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>TBA</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1404195623</lastupdated>
+  <seasonid>589793</seasonid>
+  <seriesid>264586</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4921205</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>TBA</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1404195629</lastupdated>
+  <seasonid>589793</seasonid>
+  <seriesid>264586</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4921206</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>TBA</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1404195634</lastupdated>
+  <seasonid>589793</seasonid>
+  <seriesid>264586</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4921207</id>
+  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>TBA</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1404195640</lastupdated>
+  <seasonid>589793</seasonid>
+  <seriesid>264586</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4921208</id>
+  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>TBA</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1404195645</lastupdated>
+  <seasonid>589793</seasonid>
+  <seriesid>264586</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4921209</id>
+  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>TBA</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1404195650</lastupdated>
+  <seasonid>589793</seasonid>
+  <seriesid>264586</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4921211</id>
+  <Combined_episodenumber>11</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>TBA</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1404195655</lastupdated>
+  <seasonid>589793</seasonid>
+  <seriesid>264586</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4921212</id>
+  <Combined_episodenumber>12</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>TBA</EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1404195660</lastupdated>
+  <seasonid>589793</seasonid>
+  <seriesid>264586</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4921213</id>
+  <Combined_episodenumber>13</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>TBA</EpisodeName>
+  <EpisodeNumber>13</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1404195666</lastupdated>
+  <seasonid>589793</seasonid>
+  <seriesid>264586</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
 <Episode>
   <id>4507237</id>
   <Combined_episodenumber>1</Combined_episodenumber>
@@ -44,13 +453,13 @@
   <Language>en</Language>
   <Overview>Sentenced to fifteen months for a crime committed in her youth, Piper Chapman leaves her supportive fiance Larry for her new home: a women's prison.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>37</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>59</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Jenji Kohan|Liz Friedman|</Writer>
   <absolute_number>1</absolute_number>
   <filename>episodes/264586/4507237.jpg</filename>
-  <lastupdated>1386499006</lastupdated>
+  <lastupdated>1405479107</lastupdated>
   <seasonid>513352</seasonid>
   <seriesid>264586</seriesid>
   <thumb_added></thumb_added>
@@ -75,13 +484,13 @@
   <Language>en</Language>
   <Overview>After insulting the food in front of the prison chef, Piper is starved out by the kitchen staff and struggles to offer up an acceptable apology.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>30</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>47</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Marco Ramirez</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/264586/4550331.jpg</filename>
-  <lastupdated>1386935880</lastupdated>
+  <lastupdated>1405479143</lastupdated>
   <seasonid>513352</seasonid>
   <seriesid>264586</seriesid>
   <thumb_added>2013-07-17 06:24:49</thumb_added>
@@ -106,13 +515,13 @@
   <Language>en</Language>
   <Overview>Targeted for romance by a fellow prisoner, Piper finds that subtlety is an ineffective approach to letting her suitor down.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>29</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>42</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Sian Heder</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/264586/4550332.jpg</filename>
-  <lastupdated>1386935925</lastupdated>
+  <lastupdated>1405479174</lastupdated>
   <seasonid>513352</seasonid>
   <seriesid>264586</seriesid>
   <thumb_added>2013-07-17 06:25:17</thumb_added>
@@ -137,13 +546,13 @@
   <Language>en</Language>
   <Overview>Piper gets to know her stern new roommate; the prisoners prepare a farewell party for one of their own; a misplaced screwdriver has dire consequences.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>31</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>43</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Gary Lennon</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/264586/4550333.jpg</filename>
-  <lastupdated>1386935965</lastupdated>
+  <lastupdated>1405479202</lastupdated>
   <seasonid>513352</seasonid>
   <seriesid>264586</seriesid>
   <thumb_added>2013-07-17 06:25:38</thumb_added>
@@ -168,13 +577,13 @@
   <Language>en</Language>
   <Overview>When her sighting of a legendary feral chicken polarizes the inmates, Larry wonders if Piper is getting too absorbed in the &quot;fishbowl&quot; of prison life.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>32</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>43</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Nick Jones</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/264586/4550334.jpg</filename>
-  <lastupdated>1386936009</lastupdated>
+  <lastupdated>1405479231</lastupdated>
   <seasonid>513352</seasonid>
   <seriesid>264586</seriesid>
   <thumb_added>2013-07-17 06:26:05</thumb_added>
@@ -199,13 +608,13 @@
   <Language>en</Language>
   <Overview>The inmates campaign along racial lines for positions on a prisoners council, but Piper tries to stay above the increasingly raucous competition.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>30</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>42</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Lauren Morelli</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/264586/4550335.jpg</filename>
-  <lastupdated>1386765371</lastupdated>
+  <lastupdated>1405479252</lastupdated>
   <seasonid>513352</seasonid>
   <seriesid>264586</seriesid>
   <thumb_added>2013-07-17 06:26:39</thumb_added>
@@ -231,12 +640,12 @@
   <Overview>Piper wants the prison's outdoor running track reopened, but in order to get it, she'll have to give her corrections officer something he wants.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>30</RatingCount>
+  <RatingCount>45</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Sara Hess</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/264586/4550336.jpg</filename>
-  <lastupdated>1386765358</lastupdated>
+  <lastupdated>1405479321</lastupdated>
   <seasonid>513352</seasonid>
   <seriesid>264586</seriesid>
   <thumb_added>2013-07-17 06:27:03</thumb_added>
@@ -261,13 +670,13 @@
   <Language>en</Language>
   <Overview>Red gets pressured to smuggle drugs through her kitchen; Larry publishes an article about Piper in the &quot;New York Times;&quot; two babies come into the world.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>27</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>41</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Marco Ramirez</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/264586/4550337.jpg</filename>
-  <lastupdated>1386765343</lastupdated>
+  <lastupdated>1405479397</lastupdated>
   <seasonid>513352</seasonid>
   <seriesid>264586</seriesid>
   <thumb_added>2013-07-17 06:27:26</thumb_added>
@@ -292,13 +701,13 @@
   <Language>en</Language>
   <Overview>Thanksgiving arrives with the promise of a visit by Larry, but Piper's raunchy dance moves land her in solitary with a holiday feast of moldy bologna.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>26</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>38</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Sian Heder</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/264586/4550338.jpg</filename>
-  <lastupdated>1386765329</lastupdated>
+  <lastupdated>1405479428</lastupdated>
   <seasonid>513352</seasonid>
   <seriesid>264586</seriesid>
   <thumb_added>2013-07-17 06:27:52</thumb_added>
@@ -323,13 +732,13 @@
   <Language>en</Language>
   <Overview>Pennsatucky discovers a new skill; the inmates try to scare delinquent teenagers straight; Pornstache's side business suffers a tragic setback.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>25</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>40</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Nick Jones</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/264586/4550339.jpg</filename>
-  <lastupdated>1386765313</lastupdated>
+  <lastupdated>1405479485</lastupdated>
   <seasonid>513352</seasonid>
   <seriesid>264586</seriesid>
   <thumb_added>2013-07-17 06:28:14</thumb_added>
@@ -354,13 +763,13 @@
   <Language>en</Language>
   <Overview>The prisoners mourn one of their own and even a drunken Pornstache reveals surprising emotions; Larry gives a revealing radio interview.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>8.2</Rating>
-  <RatingCount>22</RatingCount>
+  <Rating>7.9</Rating>
+  <RatingCount>35</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Lauren Morelli</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/264586/4550341.jpg</filename>
-  <lastupdated>1386765288</lastupdated>
+  <lastupdated>1405480417</lastupdated>
   <seasonid>513352</seasonid>
   <seriesid>264586</seriesid>
   <thumb_added>2013-07-17 06:28:37</thumb_added>
@@ -385,13 +794,13 @@
   <Language>en</Language>
   <Overview>Painful truths reorient several relationships and careers; Pennsatucky feels disrespected by Piper, which is not good; Larry delivers an ultimatum.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>8.1</Rating>
-  <RatingCount>21</RatingCount>
+  <Rating>8.0</Rating>
+  <RatingCount>32</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Sara Hess</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/264586/4550343.jpg</filename>
-  <lastupdated>1386765259</lastupdated>
+  <lastupdated>1405479696</lastupdated>
   <seasonid>513352</seasonid>
   <seriesid>264586</seriesid>
   <thumb_added>2013-07-17 06:29:02</thumb_added>
@@ -416,13 +825,13 @@
   <Language>en</Language>
   <Overview>Red's scheme to reclaim her kitchen backfires; the inmates stage a Christmas pageant; Piper's plans unravel even as she realizes her life is in jeopardy.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>8.5</Rating>
-  <RatingCount>21</RatingCount>
+  <Rating>8.3</Rating>
+  <RatingCount>31</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Jenji Kohan|Tara Herrmann|</Writer>
   <absolute_number>13</absolute_number>
   <filename>episodes/264586/4550345.jpg</filename>
-  <lastupdated>1386765244</lastupdated>
+  <lastupdated>1405480037</lastupdated>
   <seasonid>513352</seasonid>
   <seriesid>264586</seriesid>
   <thumb_added>2013-07-17 06:29:29</thumb_added>
@@ -437,27 +846,399 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>TBA</EpisodeName>
+  <Director>Jodie Foster</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Thirsty Bird</EpisodeName>
   <EpisodeNumber>1</EpisodeNumber>
-  <FirstAired></FirstAired>
+  <FirstAired>2014-06-06</FirstAired>
   <GuestStars></GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Overview>Piper's world is turned upside down when she is forced to confront the consequences of her actions and face new challenges.</Overview>
+  <ProductionCode>P2001/S2002</ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>20</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1381870946</lastupdated>
+  <filename>episodes/264586/4686305.jpg</filename>
+  <lastupdated>1405684490</lastupdated>
   <seasonid>564626</seasonid>
   <seriesid>264586</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-06-06 14:55:44</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4799267</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Michael Trim</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Looks Blue, Tastes Red</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2014-06-06</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>A mock Job Fair provides Taystee with a chance to show off her business smarts; Red feels isolated from her prison family.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.3</Rating>
+  <RatingCount>20</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Jenji Kohan</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/264586/4799267.jpg</filename>
+  <lastupdated>1405582045</lastupdated>
+  <seasonid>564626</seasonid>
+  <seriesid>264586</seriesid>
+  <thumb_added>2014-06-06 14:58:12</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4799302</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Hugs Can Be Deceiving</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2014-06-06</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Piper is challenged by her Soso experience; Morello gets her heart broken; a figure from Taystee's past arrives to disturb the status quo.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.3</Rating>
+  <RatingCount>20</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/264586/4799302.jpg</filename>
+  <lastupdated>1405582066</lastupdated>
+  <seasonid>564626</seasonid>
+  <seriesid>264586</seriesid>
+  <thumb_added>2014-06-06 15:12:06</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4799303</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>A Whole Other Hole</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2014-06-06</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Sophia gives the women a much-needed lesson in female anatomy; Morello takes a detour; Larry makes some life changes.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>18</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/264586/4799303.jpg</filename>
+  <lastupdated>1405582095</lastupdated>
+  <seasonid>564626</seasonid>
+  <seriesid>264586</seriesid>
+  <thumb_added>2014-06-06 15:22:02</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4799304</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Low Self Esteem City</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2014-06-06</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>A bathroom turf war sees deeper lines drawn in the sand as Gloria and Vee go head to head. Piper receives devastating news.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.1</Rating>
+  <RatingCount>17</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/264586/4799304.jpg</filename>
+  <lastupdated>1405582125</lastupdated>
+  <seasonid>564626</seasonid>
+  <seriesid>264586</seriesid>
+  <thumb_added>2014-06-06 15:29:09</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4799305</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>You Also Have A Pizza</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2014-06-06</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Love is in the air as the inmates prepare for a Valentine's Day party; Red makes an intriguing new discovery. Larry asks Piper to be his prison mole.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>16</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/264586/4799305.jpg</filename>
+  <lastupdated>1405582144</lastupdated>
+  <seasonid>564626</seasonid>
+  <seriesid>264586</seriesid>
+  <thumb_added>2014-06-06 15:55:01</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4799306</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Comic Sans</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2014-06-06</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Piper starts a prison newsletter with the help of Healy and a few other inmates; Vee launches an entrepreneurial enterprise. </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>16</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/264586/4799306.jpg</filename>
+  <lastupdated>1405582169</lastupdated>
+  <seasonid>564626</seasonid>
+  <seriesid>264586</seriesid>
+  <thumb_added>2014-06-06 16:06:38</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4799307</id>
+  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Daisy von Scherler Mayer</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Appropriately Sized Pots</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2014-06-06</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Piper faces a new backlash over special privileges; Caputo feels pressure to toughen up, resulting in administrative changes.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>16</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/264586/4799307.jpg</filename>
+  <lastupdated>1405582187</lastupdated>
+  <seasonid>564626</seasonid>
+  <seriesid>264586</seriesid>
+  <thumb_added>2014-06-06 16:07:25</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4799308</id>
+  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>S.J. Clarkson</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>40 OZ Of Furlough</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2014-06-06</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Piper's relationship with Larry faces a real-world test; Red's effort to redeem herself is finally rewarded. A familiar figure returns to Litchfield.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>16</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/264586/4799308.jpg</filename>
+  <lastupdated>1405582207</lastupdated>
+  <seasonid>564626</seasonid>
+  <seriesid>264586</seriesid>
+  <thumb_added>2014-06-06 16:20:31</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4799309</id>
+  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Jennifer Getzinger</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Little Mustachioed Shit</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2014-06-06</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>The guards get tougher in a bid to turn up prison contraband; a big, lingering secret is finally revealed.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>15</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Sian Heder</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/264586/4799309.jpg</filename>
+  <lastupdated>1405582225</lastupdated>
+  <seasonid>564626</seasonid>
+  <seriesid>264586</seriesid>
+  <thumb_added>2014-06-06 16:21:32</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4799310</id>
+  <Combined_episodenumber>11</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Constantine Makris</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Take A Break From Your Values</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired>2014-06-06</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Piper is shocked at an unexpected change in her status; Soso's hunger strike attracts new support that takes on a religious fervor.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>17</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Nick Jones</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/264586/4799310.jpg</filename>
+  <lastupdated>1405582247</lastupdated>
+  <seasonid>564626</seasonid>
+  <seriesid>264586</seriesid>
+  <thumb_added>2014-06-06 16:31:56</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4799311</id>
+  <Combined_episodenumber>12</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Phil Abraham</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>It Was The Change</EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired>2014-06-06</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Tensions run high as a prison power outage forces several issues to come to light. Piper finds herself compromised and is forced to think on her feet.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>16</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Sara Hess</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/264586/4799311.jpg</filename>
+  <lastupdated>1405582267</lastupdated>
+  <seasonid>564626</seasonid>
+  <seriesid>264586</seriesid>
+  <thumb_added>2014-06-06 16:38:12</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4799312</id>
+  <Combined_episodenumber>13</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>We Have Manners. We're Polite.</EpisodeName>
+  <EpisodeNumber>13</EpisodeNumber>
+  <FirstAired>2014-06-06</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Several futures hang in the balance as the inmates face and confront their worst nightmares: Life will never be the same again.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.2</Rating>
+  <RatingCount>17</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/264586/4799312.jpg</filename>
+  <lastupdated>1405582310</lastupdated>
+  <seasonid>564626</seasonid>
+  <seriesid>264586</seriesid>
+  <thumb_added>2014-06-06 16:38:58</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 </Data>

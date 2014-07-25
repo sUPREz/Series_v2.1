@@ -13,8 +13,8 @@
     <Network>ABC</Network>
     <NetworkID></NetworkID>
     <Overview>This Chicago-set sitcom follows the intertwined lives of six young urbanites trying to learn the ropes of adulthood. Through breakups and whatever other curve-balls life throws them, the pals stick together.</Overview>
-    <Rating>8.4</Rating>
-    <RatingCount>59</RatingCount>
+    <Rating>8.3</Rating>
+    <RatingCount>61</RatingCount>
     <Runtime>30</Runtime>
     <SeriesID>78574</SeriesID>
     <SeriesName>Happy Endings</SeriesName>
@@ -23,8 +23,9 @@
     <addedBy>235</addedBy>
     <banner>graphical/167571-g4.jpg</banner>
     <fanart>fanart/original/167571-1.jpg</fanart>
-    <lastupdated>1387846592</lastupdated>
+    <lastupdated>1405742648</lastupdated>
     <poster>posters/167571-8.jpg</poster>
+    <tms_wanted_old>1</tms_wanted_old>
     <zap2it_id>SH01279666</zap2it_id>
   </Series>
 </Data>

@@ -11,24 +11,20 @@
   <Language>en</Language>
   <Network>FOX</Network>
   <NetworkID></NetworkID>
-  <Overview>Almost Human is an action-packed police procedural set 35 years in the future, when police officers are partnered with highly evolved human-like androids.
-
- The year is 2048. Meet Detective John Kennex, a cop who survived one of the most catastrophic attacks ever made against the police department. After waking up from a 17-month coma, he can’t remember much — except that his partner was killed, he lost one of his legs and he is now outfitted with a highly sophisticated synthetic appendage.
-
- By mandate, every cop must partner with a robot. And despite his passionate aversion to androids, John is paired up with Dorian, a discontinued android with unexpected emotional responses. Although such responses were deemed flaws, it is in these &quot;flaws&quot; that John relates to Dorian most. After all, John is part-machine now, and Dorian is part-human. John and Dorian’s understanding of each other not only complements them, it connects them.
-</Overview>
-  <Rating>8.8</Rating>
-  <RatingCount>39</RatingCount>
+  <Overview>In the year 2048 the police have a new tool in their arsenal- Synthetics, robots who are tasked with assuring the safety of the humans who created them. Not everyone is pleased with the changes. Detective John Kennex, who has been wounded in action, returns to the force and learns that his new partner is a Synthetic named Dorian. Dorian's programming is very different than that of the normal Synthetic, with a capability to experience emotions making him seem almost human, but John still mistrusts the machine at his side. Can they work together as a team?</Overview>
+  <Rating>8.6</Rating>
+  <RatingCount>49</RatingCount>
   <Runtime>60</Runtime>
   <SeriesID>183105</SeriesID>
   <SeriesName>Almost Human</SeriesName>
-  <Status>Continuing</Status>
+  <Status>Ended</Status>
   <added>2013-03-13 16:53:25</added>
   <addedBy>376077</addedBy>
-  <banner>graphical/267702-g11.jpg</banner>
+  <banner>graphical/267702-g10.jpg</banner>
   <fanart>fanart/original/267702-5.jpg</fanart>
-  <lastupdated>1394341714</lastupdated>
+  <lastupdated>1405521404</lastupdated>
   <poster>posters/267702-4.jpg</poster>
+  <tms_wanted_old>0</tms_wanted_old>
   <zap2it_id>EP01739045</zap2it_id>
 </Series>
 <Episode>
@@ -40,14 +36,14 @@
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
   <Director></Director>
-  <EpImgFlag></EpImgFlag>
+  <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Six Minute Preview</EpisodeName>
   <EpisodeNumber>1</EpisodeNumber>
   <FirstAired>2013-08-11</FirstAired>
   <GuestStars></GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
+  <Overview>ALMOST HUMAN is a new comedy premiering this fall on FOX. From creator J.H. Wyman (“Fringe”) and executive producer J.J. Abrams (“Fringe,” “Lost,” the “Star Trek” and “Mission: Impossible” franchises), and starring Karl Urban (“Star Trek”) and Golden Globe Award nominee Michael Ealy (“Sleeper Cell,” “Common Law”), ALMOST HUMAN is a high-tech, high-stakes action drama set in the not-too-distant future, when a part-machine cop must pair with a part-human robot as they fight crime and investigate a deeper cover-up in a futuristic new world. The six-minute preview of ALMOST HUMAN airs Saturday, Aug. 10 (12:24-12:30 AM ET/PT) on FOX. (HU-100) (TV-14 L, V)</Overview>
   <ProductionCode></ProductionCode>
   <Rating></Rating>
   <RatingCount>0</RatingCount>
@@ -57,13 +53,13 @@
   <airsafter_season></airsafter_season>
   <airsbefore_episode>1</airsbefore_episode>
   <airsbefore_season>1</airsbefore_season>
-  <filename></filename>
-  <lastupdated>1387189660</lastupdated>
+  <filename>episodes/267702/4625694.jpg</filename>
+  <lastupdated>1401728277</lastupdated>
   <seasonid>514774</seasonid>
   <seriesid>267702</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-06-01 14:17:55</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4566247</id>
@@ -83,13 +79,13 @@
   <Language>en</Language>
   <Overview>In the year 2048, an unprecedented increase in the crime rate has made being a cop only more dangerous than it is today, necessitating that every police officer partner with an android. John Kennex, a detective and sole survivor of a devastating police ambush, and his robot partner, Dorian, solve cases and fight to keep the lid on dangerously evolved criminals in this futuristic landscape.</Overview>
   <ProductionCode>296844</ProductionCode>
-  <Rating>8.0</Rating>
-  <RatingCount>92</RatingCount>
+  <Rating>8.1</Rating>
+  <RatingCount>101</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>J.H. Wyman</Writer>
   <absolute_number>1</absolute_number>
   <filename>episodes/267702/4566247.jpg</filename>
-  <lastupdated>1393982048</lastupdated>
+  <lastupdated>1404534547</lastupdated>
   <seasonid>514775</seasonid>
   <seriesid>267702</seriesid>
   <thumb_added></thumb_added>
@@ -109,18 +105,18 @@
   <EpisodeName>Skin</EpisodeName>
   <EpisodeNumber>2</EpisodeNumber>
   <FirstAired>2013-11-18</FirstAired>
-  <GuestStars></GuestStars>
+  <GuestStars>Ella Thomas|Jos Viramontes</GuestStars>
   <IMDB_ID>tt3063232</IMDB_ID>
   <Language>en</Language>
   <Overview>Detective John Kennex and Dorian are dispatched to investigate a murder and high-profile missing persons case that lead them into the highly profitable world of IRCs – Intimate Robot Companions – also known as sexbots. Meanwhile, Kennex looks to reconcile a part of his troubled past.</Overview>
   <ProductionCode>2J7005</ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>82</RatingCount>
+  <RatingCount>90</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Cheo Hodari Coker</Writer>
   <absolute_number>5</absolute_number>
   <filename>episodes/267702/4644635.jpg</filename>
-  <lastupdated>1393982059</lastupdated>
+  <lastupdated>1394535096</lastupdated>
   <seasonid>514775</seasonid>
   <seriesid>267702</seriesid>
   <thumb_added>2013-11-13 16:19:27</thumb_added>
@@ -140,18 +136,18 @@
   <EpisodeName>Are You Receiving?</EpisodeName>
   <EpisodeNumber>3</EpisodeNumber>
   <FirstAired>2013-11-25</FirstAired>
-  <GuestStars></GuestStars>
+  <GuestStars>Damon Herriman|Emily Rios|Alison Araya</GuestStars>
   <IMDB_ID>tt3071222</IMDB_ID>
   <Language>en</Language>
   <Overview>Detective Kennex and Dorian battle an intense and futuristic hostage situation, while Captain Maldonado attempts to meet the terrorist’s demands, hoping to protect innocent people.</Overview>
   <ProductionCode>2J7006</ProductionCode>
   <Rating>8.1</Rating>
-  <RatingCount>76</RatingCount>
+  <RatingCount>85</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Justin Doble</Writer>
   <absolute_number>6</absolute_number>
   <filename>episodes/267702/4699416.jpg</filename>
-  <lastupdated>1394341714</lastupdated>
+  <lastupdated>1394968081</lastupdated>
   <seasonid>514775</seasonid>
   <seriesid>267702</seriesid>
   <thumb_added>2013-11-20 13:42:12</thumb_added>
@@ -166,23 +162,23 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>7.0</DVD_episodenumber>
   <DVD_season>1</DVD_season>
-  <Director>Ken Fink</Director>
+  <Director>Kenneth Fink</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>The Bends</EpisodeName>
   <EpisodeNumber>4</EpisodeNumber>
   <FirstAired>2013-12-02</FirstAired>
-  <GuestStars></GuestStars>
+  <GuestStars>Benito Martinez|Josh Blacker|Patrick Gallagher</GuestStars>
   <IMDB_ID>tt3307790</IMDB_ID>
   <Language>en</Language>
   <Overview>An old cop friend of Detective Kennex's goes undercover, posing as a &quot;cook&quot; of a highly addictive street drug called &quot;The Bends.&quot; But his cover is blown. As the scope of the intense drug investigation unfolds, a determined Kennex and Dorian call on Rudy Lom for assistance.</Overview>
   <ProductionCode>2J7007</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>70</RatingCount>
+  <RatingCount>77</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Daniel Grindlinger</Writer>
   <absolute_number>7</absolute_number>
   <filename>episodes/267702/4715087.jpg</filename>
-  <lastupdated>1393982141</lastupdated>
+  <lastupdated>1401312502</lastupdated>
   <seasonid>514775</seasonid>
   <seriesid>267702</seriesid>
   <thumb_added>2013-11-27 04:50:06</thumb_added>
@@ -202,18 +198,18 @@
   <EpisodeName>Blood Brothers</EpisodeName>
   <EpisodeNumber>5</EpisodeNumber>
   <FirstAired>2013-12-09</FirstAired>
-  <GuestStars></GuestStars>
+  <GuestStars>Megan Ferguson|Alex Miller|Graham Miller|Kavan Smith</GuestStars>
   <IMDB_ID>tt3228118</IMDB_ID>
   <Language>en</Language>
   <Overview>Detective John Kennex and Dorian are tasked with protecting the only remaining witness in a major murder trial, while Captain Maldonado faces off with the defendant.</Overview>
   <ProductionCode>2J7008</ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>63</RatingCount>
+  <RatingCount>74</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Cole Maliska</Writer>
   <absolute_number>8</absolute_number>
   <filename>episodes/267702/4723148.jpg</filename>
-  <lastupdated>1393982160</lastupdated>
+  <lastupdated>1401312520</lastupdated>
   <seasonid>514775</seasonid>
   <seriesid>267702</seriesid>
   <thumb_added>2013-12-02 17:34:03</thumb_added>
@@ -233,18 +229,18 @@
   <EpisodeName>Arrhythmia</EpisodeName>
   <EpisodeNumber>6</EpisodeNumber>
   <FirstAired>2013-12-16</FirstAired>
-  <GuestStars>|Anthony Konechny|Darren E. Scott|Garfield Wilson|Jonathan Holmes|Patrick Sabongui|BC Lee|Benjamin Rogers|Elizabeth McLaughlin|Erica Carroll|Laura Adkin|Kara McKnight|Sharmaine Yeoh|Fred Keating|Sheila Tyson|Hugo Steele|Alyson Bath|Diana Ha|</GuestStars>
+  <GuestStars>Anthony Konechny|Darren E. Scott|Garfield Wilson|Jonathan Holmes|Patrick Sabongui|BC Lee|Benjamin Rogers|Elizabeth McLaughlin|Erica Carroll|Laura Adkin|Kara McKnight|Sharmaine Yeoh|Fred Keating|Sheila Tyson|Hugo Steele|Alyson Bath|Diana Ha</GuestStars>
   <IMDB_ID>tt3336036</IMDB_ID>
   <Language>en</Language>
   <Overview>Detective John Kennex and Dorian respond to a suspicious death at a hospital where – before having a fatal cardiac arrest – a man claimed someone was trying to kill him, and inexplicably knew his exact time of death. As the investigation unfolds, a black market for vital organs is uncovered in which bio-mechanical hearts can be resold and remotely &quot;shut off.&quot; As the team fights to find the pulse of this 2048 tech-centric crime, Dorian reconnects with a decommissioned DRN.</Overview>
   <ProductionCode>2J7003</ProductionCode>
-  <Rating>8.0</Rating>
-  <RatingCount>63</RatingCount>
+  <Rating>7.9</Rating>
+  <RatingCount>72</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Alison Schapker</Writer>
   <absolute_number>3</absolute_number>
   <filename>episodes/267702/4723715.jpg</filename>
-  <lastupdated>1393982177</lastupdated>
+  <lastupdated>1395925955</lastupdated>
   <seasonid>514775</seasonid>
   <seriesid>267702</seriesid>
   <thumb_added>2013-12-02 17:33:52</thumb_added>
@@ -264,18 +260,18 @@
   <EpisodeName>Simon Says</EpisodeName>
   <EpisodeNumber>7</EpisodeNumber>
   <FirstAired>2014-01-06</FirstAired>
-  <GuestStars></GuestStars>
+  <GuestStars>David Dastmalchian|Alessandro Juliani|Crystal Lowe</GuestStars>
   <IMDB_ID>tt3341726</IMDB_ID>
   <Language>en</Language>
   <Overview>Det. Kennex and Dorian investigate Simon, a psychopathic killer who is strapping bombs to his victims' neck and broadcasting their final moments over the internet. When Simon targets Kennex, the team is in a nail-biting race against time to save his life. Meanwhile, a power deficiency affects Dorian's energy level, causing him to have unexpected outbursts.</Overview>
   <ProductionCode>2J7010</ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>45</RatingCount>
+  <RatingCount>57</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Alison Schapker</Writer>
   <absolute_number>10</absolute_number>
   <filename>episodes/267702/4729204.jpg</filename>
-  <lastupdated>1393982192</lastupdated>
+  <lastupdated>1401312591</lastupdated>
   <seasonid>514775</seasonid>
   <seriesid>267702</seriesid>
   <thumb_added>2014-01-04 23:12:04</thumb_added>
@@ -295,18 +291,18 @@
   <EpisodeName>You Are Here</EpisodeName>
   <EpisodeNumber>8</EpisodeNumber>
   <FirstAired>2014-01-13</FirstAired>
-  <GuestStars></GuestStars>
+  <GuestStars>Tim Kelleher|Annie Monroe</GuestStars>
   <IMDB_ID>tt3376748</IMDB_ID>
   <Language>en</Language>
   <Overview>Detective Kennex and Dorian investigate a crime scene involving a self-guided bullet that can track, target and kill specific people at any moment. Also, Kennex makes a mockery of his anger management classes.</Overview>
   <ProductionCode>2J7002</ProductionCode>
-  <Rating>7.9</Rating>
-  <RatingCount>46</RatingCount>
+  <Rating>8.0</Rating>
+  <RatingCount>55</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>J.H. Wyman|Naren Shankar</Writer>
   <absolute_number>2</absolute_number>
   <filename>episodes/267702/4754631.jpg</filename>
-  <lastupdated>1393982211</lastupdated>
+  <lastupdated>1398058940</lastupdated>
   <seasonid>514775</seasonid>
   <seriesid>267702</seriesid>
   <thumb_added>2014-01-06 14:49:52</thumb_added>
@@ -326,18 +322,18 @@
   <EpisodeName>Unbound</EpisodeName>
   <EpisodeNumber>9</EpisodeNumber>
   <FirstAired>2014-02-03</FirstAired>
-  <GuestStars>John Larroquette|Gina Carano</GuestStars>
+  <GuestStars>Gina Carano|John Larroquette</GuestStars>
   <IMDB_ID>tt3361358</IMDB_ID>
   <Language>en</Language>
   <Overview>There are consequences and casualties when Danica, an advanced DRN that operates more like a soldier than a cop, is rebuilt and on a rampage. With few clues about her mission, location and innocent lives being lost, Kennex and Dorian look to Nigel, a genius roboticist and DRN creator, in attempt to track her down.</Overview>
   <ProductionCode>2J7009</ProductionCode>
-  <Rating>8.4</Rating>
-  <RatingCount>46</RatingCount>
+  <Rating>8.3</Rating>
+  <RatingCount>59</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Graham Roland</Writer>
   <absolute_number>9</absolute_number>
   <filename>episodes/267702/4771121.jpg</filename>
-  <lastupdated>1393982228</lastupdated>
+  <lastupdated>1398784508</lastupdated>
   <seasonid>514775</seasonid>
   <seriesid>267702</seriesid>
   <thumb_added>2014-01-22 17:11:01</thumb_added>
@@ -357,18 +353,18 @@
   <EpisodeName>Perception</EpisodeName>
   <EpisodeNumber>10</EpisodeNumber>
   <FirstAired>2014-02-10</FirstAired>
-  <GuestStars></GuestStars>
+  <GuestStars>Iain Belcher|Mekia Cox|Anna Galvin|Tim Kelleher</GuestStars>
   <IMDB_ID>tt3499088</IMDB_ID>
   <Language>en</Language>
   <Overview>When Det. Kennex and Dorian investigate the simultaneous and sudden deaths of two genetically-enhanced - or &quot;chrome&quot; - children, a fatal dose of the perfect designer drug appears to be the cause. As the investigation unfolds and a recent drowning victim is mysteriously connected, the case takes an unexpected turn. Meanwhile, Kennex endures painful flashes from the past and pays a visit to the recollectionist.</Overview>
   <ProductionCode>2J7004</ProductionCode>
-  <Rating>8.1</Rating>
-  <RatingCount>38</RatingCount>
+  <Rating>8.0</Rating>
+  <RatingCount>52</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Sarah Goldfinger</Writer>
   <absolute_number>4</absolute_number>
   <filename>episodes/267702/4778259.jpg</filename>
-  <lastupdated>1393982242</lastupdated>
+  <lastupdated>1399260583</lastupdated>
   <seasonid>514775</seasonid>
   <seriesid>267702</seriesid>
   <thumb_added>2014-01-27 15:48:39</thumb_added>
@@ -388,18 +384,18 @@
   <EpisodeName>Disrupt</EpisodeName>
   <EpisodeNumber>11</EpisodeNumber>
   <FirstAired>2014-02-17</FirstAired>
-  <GuestStars></GuestStars>
+  <GuestStars>Suleka Mathew|Reece Thompson|Matthew Kevin Anderson|Laine MacNeil|Diana Pavlovská</GuestStars>
   <IMDB_ID>tt3482248</IMDB_ID>
   <Language>en</Language>
   <Overview>A deadly crime from the future occurs when a &quot;smart home&quot; goes terribly bad and turns on its occupants. Detective Kennex and Dorian lead the investigation that forces them to interface with a house that is represented by a mysterious hologram character.</Overview>
   <ProductionCode>2J7011</ProductionCode>
-  <Rating>8.1</Rating>
-  <RatingCount>34</RatingCount>
+  <Rating>8.0</Rating>
+  <RatingCount>52</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Sarah Goldfinger</Writer>
   <absolute_number>11</absolute_number>
   <filename>episodes/267702/4784135.jpg</filename>
-  <lastupdated>1393982260</lastupdated>
+  <lastupdated>1401312318</lastupdated>
   <seasonid>514775</seasonid>
   <seriesid>267702</seriesid>
   <thumb_added>2014-02-06 17:41:48</thumb_added>
@@ -414,23 +410,23 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>12.0</DVD_episodenumber>
   <DVD_season>1</DVD_season>
-  <Director>Frederick E.O. Toye</Director>
+  <Director>Fred Toye</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Beholder</EpisodeName>
   <EpisodeNumber>12</EpisodeNumber>
   <FirstAired>2014-02-24</FirstAired>
-  <GuestStars></GuestStars>
+  <GuestStars>Tony Cox|Michael Eklund|Jesse Hutch</GuestStars>
   <IMDB_ID>tt3515940</IMDB_ID>
   <Language>en</Language>
   <Overview>When Det. Kennex and Dorian investigate the murder of a &quot;chrome,&quot; there are no signs of trauma, other than a very small pinprick on the back of his neck. As the investigation unfolds, it’s revealed that the murder suspect is tapping into the DNA of his victims in pursuit of perfection.</Overview>
   <ProductionCode>2J7012</ProductionCode>
-  <Rating>8.0</Rating>
-  <RatingCount>25</RatingCount>
+  <Rating>8.1</Rating>
+  <RatingCount>48</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Chris Downey|Joe Henderson</Writer>
   <absolute_number>12</absolute_number>
   <filename>episodes/267702/4784136.jpg</filename>
-  <lastupdated>1393982267</lastupdated>
+  <lastupdated>1401312392</lastupdated>
   <seasonid>514775</seasonid>
   <seriesid>267702</seriesid>
   <thumb_added>2014-02-13 16:00:01</thumb_added>
@@ -450,18 +446,18 @@
   <EpisodeName>Straw Man</EpisodeName>
   <EpisodeNumber>13</EpisodeNumber>
   <FirstAired>2014-03-03</FirstAired>
-  <GuestStars>John Diehl</GuestStars>
+  <GuestStars>John Diehl|Shaun Smyth|Christie Burke|William 'Big Sleeps' Stewart</GuestStars>
   <IMDB_ID>tt3488412</IMDB_ID>
   <Language>en</Language>
   <Overview>Det. Kennex and Dorian investigate a string of murders by a copycat of a serial killer whom Kennex’s father put in jail. As the investigation unfolds, biotechnology from the future sheds light on crimes of the past. Meanwhile, Dorian receives his performance evaluation since being reactivated.</Overview>
   <ProductionCode>2J7013</ProductionCode>
   <Rating>8.1</Rating>
-  <RatingCount>23</RatingCount>
+  <RatingCount>44</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Alison Schapker|Graham Roland</Writer>
   <absolute_number>13</absolute_number>
   <filename>episodes/267702/4784137.jpg</filename>
-  <lastupdated>1393982275</lastupdated>
+  <lastupdated>1401091305</lastupdated>
   <seasonid>514775</seasonid>
   <seriesid>267702</seriesid>
   <thumb_added>2014-03-01 00:55:24</thumb_added>

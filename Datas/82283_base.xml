@@ -2,29 +2,30 @@
 <Data>
   <Series>
     <id>82283</id>
-    <Actors>|Anna Paquin|Alexander Skarsgård|Rutina Wesley|Stephen Moyer|Nelsan Ellis|Kristin Bauer|Deborah Ann Woll|Carrie Preston|William Sanderson|Chris Bauer|Lois Smith|Ryan Kwanten|Sam Trammell|Amelia Rose Blaire|Jurnee Smollett-Bell|Robert Kazinsky|Dale Dickey|Arliss Howard|Rutger Hauer|Kelly Overton|Jessica Clark|Valentina Cervi|Christopher Meloni|Lucy Griffiths|Scott Foley|Lauren Bowles|Brit Morgan|Evan Rachel Wood|Jessica Tuck|Stephen Root|Lizzy Caplan|Adina Porter|Fiona Shaw|Denis O'Hare|Michael Raymond-James|Mariana Klaveno|Lindsay Pulsipher|Marshall Allman|Todd Lowe|Jim Parrack|Joe Manganiello|Kevin Alejandro|Janina Gavankar|Mehcad Brooks |Michelle Forbes|Michael McMillian|Anna Camp|</Actors>
+    <Actors>|Anna Paquin|Alexander Skarsgård|Rutina Wesley|Stephen Moyer|Nelsan Ellis|Kristin Bauer|Deborah Ann Woll|Carrie Preston|William Sanderson|Chris Bauer|Lois Smith|Ryan Kwanten|Sam Trammell|Amelia Rose Blaire|Jurnee Smollett-Bell|Robert Kazinsky|Arliss Howard|Kelly Overton|Jessica Clark|Valentina Cervi|Christopher Meloni|Lucy Griffiths|Scott Foley|Lauren Bowles|Brit Morgan|Evan Rachel Wood|Jessica Tuck|Stephen Root|Lizzy Caplan|Adina Porter|Fiona Shaw|Denis O'Hare|Michael Raymond-James|Mariana Klaveno|Lindsay Pulsipher|Marshall Allman|Todd Lowe|Jim Parrack|Joe Manganiello|Kevin Alejandro|Janina Gavankar|Mehcad Brooks |Michelle Forbes|Michael McMillian|Anna Camp|Bailey Noble|Dale Dickey|Rutger Hauer|</Actors>
     <Airs_DayOfWeek>Sunday</Airs_DayOfWeek>
     <Airs_Time>9:00 PM</Airs_Time>
     <ContentRating>TV-MA</ContentRating>
     <FirstAired>2008-09-07</FirstAired>
-    <Genre>|Drama|Fantasy|Mystery|</Genre>
+    <Genre>|Drama|Fantasy|Horror|Mystery|</Genre>
     <IMDB_ID>tt0844441</IMDB_ID>
     <Language>en</Language>
     <Network>HBO</Network>
     <NetworkID></NetworkID>
     <Overview>True Blood is based on The Southern Vampire Mysteries series of novels by Charlaine Harris, detailing the co-existence of vampires and humans in Bon Temps, a fictional, small town in northwestern Louisiana. The series centers on the adventures of Sookie Stackhouse (Anna Paquin), a telepathic waitress with an otherworldly quality.</Overview>
-    <Rating>8.5</Rating>
-    <RatingCount>394</RatingCount>
+    <Rating>8.4</Rating>
+    <RatingCount>409</RatingCount>
     <Runtime>60</Runtime>
     <SeriesID>74645</SeriesID>
     <SeriesName>True Blood</SeriesName>
     <Status>Continuing</Status>
     <added></added>
     <addedBy></addedBy>
-    <banner>graphical/82283-g2.jpg</banner>
+    <banner>text/82283-2.jpg</banner>
     <fanart>fanart/original/82283-8.jpg</fanart>
-    <lastupdated>1394324959</lastupdated>
-    <poster>posters/82283-28.jpg</poster>
+    <lastupdated>1405825599</lastupdated>
+    <poster>posters/82283-43.jpg</poster>
+    <tms_wanted_old>1</tms_wanted_old>
     <zap2it_id>SH01075223</zap2it_id>
   </Series>
 </Data>

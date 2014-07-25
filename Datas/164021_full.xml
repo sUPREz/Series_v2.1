@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Data><Series>
   <id>164021</id>
-  <Actors>|Lucas Neff|Martha Plimpton|Garret Dillahunt|Gregg Binkley|Shannon Marie Woodward|Cloris Leachman|Ashley Tisdale|</Actors>
+  <Actors>|Lucas Neff|Martha Plimpton|Garret Dillahunt|Gregg Binkley|Shannon Marie Woodward|Cloris Leachman|</Actors>
   <Airs_DayOfWeek>Friday</Airs_DayOfWeek>
   <Airs_Time>9:30 PM</Airs_Time>
   <ContentRating>TV-14</ContentRating>
@@ -14,17 +14,18 @@
   <Overview>At 23 years old, Jimmy Chance is going nowhere in life. He skims pools for a living, parties every night and still lives at home with his family, including his parents and his cousin, Mike. 
 Jimmy's life takes a drastic turn when a chance romantic encounter with Lucy goes awry once he discovers she is a wanted felon. Months later, when Jimmy pays a visit to the local prison, he discovers Lucy gave birth to their baby, who he is now charged with raising.</Overview>
   <Rating>8.6</Rating>
-  <RatingCount>50</RatingCount>
-  <Runtime>25</Runtime>
+  <RatingCount>54</RatingCount>
+  <Runtime>20</Runtime>
   <SeriesID>79502</SeriesID>
   <SeriesName>Raising Hope</SeriesName>
-  <Status>Continuing</Status>
+  <Status>Ended</Status>
   <added>2010-05-18 14:05:34</added>
   <addedBy>235</addedBy>
   <banner>graphical/164021-g2.jpg</banner>
   <fanart>fanart/original/164021-17.jpg</fanart>
-  <lastupdated>1394294463</lastupdated>
+  <lastupdated>1405151648</lastupdated>
   <poster>posters/164021-2.jpg</poster>
+  <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>EP01279218</zap2it_id>
 </Series>
 <Episode>
@@ -80,7 +81,7 @@ Jimmy's life takes a drastic turn when a chance romantic encounter with Lucy goe
   <Overview>A 23-year-old man must enlist his family to help him raise a baby that is the result of a one-night stand with a wanted felon.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>55</RatingCount>
+  <RatingCount>56</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Greg Garcia</Writer>
   <absolute_number></absolute_number>
@@ -111,7 +112,7 @@ Jimmy's life takes a drastic turn when a chance romantic encounter with Lucy goe
   <Overview>Jimmy asks Sabrina's cousin to baby-sit Hope so he can return to work. Burt tries to persuade Virginia to quit smoking.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>49</RatingCount>
+  <RatingCount>50</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Greg Garcia</Writer>
   <absolute_number></absolute_number>
@@ -731,7 +732,7 @@ Jimmy's life takes a drastic turn when a chance romantic encounter with Lucy goe
   <Overview>The Chances reminisce about the year Jimmy turned 18 - when Maw Maw kicked them out of the house, when a goth Jimmy took up residence in the grocery store and when Burt and Virginia finally figured out how to be adults.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>31</RatingCount>
+  <RatingCount>32</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Greg Garcia</Writer>
   <absolute_number></absolute_number>
@@ -1350,8 +1351,8 @@ Jimmy's life takes a drastic turn when a chance romantic encounter with Lucy goe
   <Language>en</Language>
   <Overview>When Jimmy finds out Sabrina has a new attractive study partner, Virginia convinces him that they are doing more than just studying. Meanwhile, Burt develops an obsession with a wall figurine.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>20</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>21</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Elijah Aron|Jordan Young</Writer>
   <absolute_number></absolute_number>
@@ -1382,7 +1383,7 @@ Jimmy's life takes a drastic turn when a chance romantic encounter with Lucy goe
   <Overview>Nancy Grace examines the &quot;real story&quot; of Hope's mom, serial killer Lucy Carlisle, resulting in the Chance family learning some shocking things about her.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>18</RatingCount>
+  <RatingCount>19</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Alan Kirschenbaum|Tim Stack</Writer>
   <absolute_number></absolute_number>
@@ -1418,7 +1419,7 @@ Jimmy's life takes a drastic turn when a chance romantic encounter with Lucy goe
   <Writer>Bobby Bowman</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/164021/4295463.jpg</filename>
-  <lastupdated>1381057345</lastupdated>
+  <lastupdated>1400838517</lastupdated>
   <seasonid>468437</seasonid>
   <seriesid>164021</seriesid>
   <thumb_added></thumb_added>
@@ -1474,13 +1475,13 @@ Jimmy's life takes a drastic turn when a chance romantic encounter with Lucy goe
   <Language>en</Language>
   <Overview>A visiting social worker sees how the Chances take care of Maw Maw and suspects elder abuse. Sabrina asks Jimmy to get rid of a beloved t-shirt.</Overview>
   <ProductionCode>HOP-302</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>20</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>21</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Greg Garcia|Fred Shafferman</Writer>
   <absolute_number>46</absolute_number>
   <filename>episodes/164021/4407542.jpg</filename>
-  <lastupdated>1392070063</lastupdated>
+  <lastupdated>1396972515</lastupdated>
   <seasonid>494394</seasonid>
   <seriesid>164021</seriesid>
   <thumb_added></thumb_added>
@@ -1505,13 +1506,13 @@ Jimmy's life takes a drastic turn when a chance romantic encounter with Lucy goe
   <Language>en</Language>
   <Overview>The Chance family devises a plan to break Maw Maw out of the nursing facility. Jimmy worries about his future sanity.</Overview>
   <ProductionCode>HOP-303</ProductionCode>
-  <Rating>8.0</Rating>
-  <RatingCount>17</RatingCount>
+  <Rating>7.9</Rating>
+  <RatingCount>18</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Elijah Aron|Jordan Young</Writer>
   <absolute_number>47</absolute_number>
   <filename>episodes/164021/4410488.jpg</filename>
-  <lastupdated>1392070108</lastupdated>
+  <lastupdated>1396972498</lastupdated>
   <seasonid>494394</seasonid>
   <seriesid>164021</seriesid>
   <thumb_added></thumb_added>
@@ -1536,13 +1537,13 @@ Jimmy's life takes a drastic turn when a chance romantic encounter with Lucy goe
   <Language>en</Language>
   <Overview>When Jimmy and Sabrina go on a marriage retreat, Virginia and Burt and Tamara and her lover tag along. Barney baby-sits Maw Maw.</Overview>
   <ProductionCode>HOP-305</ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>16</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>18</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Mark Stegemann</Writer>
   <absolute_number>48</absolute_number>
   <filename>episodes/164021/4413670.jpg</filename>
-  <lastupdated>1392070124</lastupdated>
+  <lastupdated>1396972471</lastupdated>
   <seasonid>494394</seasonid>
   <seriesid>164021</seriesid>
   <thumb_added></thumb_added>
@@ -1567,13 +1568,13 @@ Jimmy's life takes a drastic turn when a chance romantic encounter with Lucy goe
   <Language>en</Language>
   <Overview>Virginia becomes suspicious when Burt starts spending a lot of time at a local gay bar.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>12</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>15</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Matthew W. Thompson</Writer>
   <absolute_number>49</absolute_number>
   <filename>episodes/164021/4413671.jpg</filename>
-  <lastupdated>1392474684</lastupdated>
+  <lastupdated>1396972447</lastupdated>
   <seasonid>494394</seasonid>
   <seriesid>164021</seriesid>
   <thumb_added></thumb_added>
@@ -1598,13 +1599,13 @@ Jimmy's life takes a drastic turn when a chance romantic encounter with Lucy goe
   <Language>en</Language>
   <Overview>When Jimmy learns his parents briefly gave him up for adoption, he asks Sabrina to help him befriend the man who would have been his brother; Burt and Virginia wonder if Jimmy would have been better off with other parents.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>12</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>15</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Mike Mariano</Writer>
   <absolute_number>50</absolute_number>
   <filename>episodes/164021/4415715.jpg</filename>
-  <lastupdated>1392474701</lastupdated>
+  <lastupdated>1396972423</lastupdated>
   <seasonid>494394</seasonid>
   <seriesid>164021</seriesid>
   <thumb_added></thumb_added>
@@ -1629,13 +1630,13 @@ Jimmy's life takes a drastic turn when a chance romantic encounter with Lucy goe
   <Language>en</Language>
   <Overview>Jimmy tries to win a candy-selling contest so Hope can ride on a float in the Thanksgiving Day parade.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>13</RatingCount>
+  <Rating>7.9</Rating>
+  <RatingCount>14</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Ralph Greene|Fred Schafferman</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/164021/4427241.jpg</filename>
-  <lastupdated>1393005392</lastupdated>
+  <lastupdated>1396972388</lastupdated>
   <seasonid>494394</seasonid>
   <seriesid>164021</seriesid>
   <thumb_added></thumb_added>
@@ -1661,12 +1662,12 @@ Jimmy's life takes a drastic turn when a chance romantic encounter with Lucy goe
   <Overview>The family participates in a 1K walk; Virginia and Burt feel the effects of aging; Jimmy has a difficult time supporting Sabrina when she gets into a fight with her ex-boyfriend.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>15</RatingCount>
+  <RatingCount>16</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Joey Gutierrez</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/164021/4433553.jpg</filename>
-  <lastupdated>1393005432</lastupdated>
+  <lastupdated>1396972357</lastupdated>
   <seasonid>494394</seasonid>
   <seriesid>164021</seriesid>
   <thumb_added></thumb_added>
@@ -1691,13 +1692,13 @@ Jimmy's life takes a drastic turn when a chance romantic encounter with Lucy goe
   <Language>en</Language>
   <Overview>When Jimmy leaves Hope with Sabrina for the day, Sabrina tries to prove her parenting skills. Virginia and Burt try to catch a squirrel bully.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>8.0</Rating>
-  <RatingCount>13</RatingCount>
+  <Rating>7.9</Rating>
+  <RatingCount>14</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Stephnie Weir</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/164021/4433555.jpg</filename>
-  <lastupdated>1393685352</lastupdated>
+  <lastupdated>1396942459</lastupdated>
   <seasonid>494394</seasonid>
   <seriesid>164021</seriesid>
   <thumb_added></thumb_added>
@@ -1728,7 +1729,7 @@ Jimmy's life takes a drastic turn when a chance romantic encounter with Lucy goe
   <Writer>Greg Garcia</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/164021/4433556.jpg</filename>
-  <lastupdated>1393685375</lastupdated>
+  <lastupdated>1396942418</lastupdated>
   <seasonid>494394</seasonid>
   <seriesid>164021</seriesid>
   <thumb_added></thumb_added>
@@ -1759,7 +1760,7 @@ Jimmy's life takes a drastic turn when a chance romantic encounter with Lucy goe
   <Writer>Paul A. Kaplan|Mark Torgove</Writer>
   <absolute_number>55</absolute_number>
   <filename>episodes/164021/4448881.jpg</filename>
-  <lastupdated>1394294430</lastupdated>
+  <lastupdated>1396942382</lastupdated>
   <seasonid>494394</seasonid>
   <seriesid>164021</seriesid>
   <thumb_added></thumb_added>
@@ -1790,7 +1791,7 @@ Jimmy's life takes a drastic turn when a chance romantic encounter with Lucy goe
   <Writer>|Timothy Stack|</Writer>
   <absolute_number>56</absolute_number>
   <filename>episodes/164021/4458668.jpg</filename>
-  <lastupdated>1394294463</lastupdated>
+  <lastupdated>1396942344</lastupdated>
   <seasonid>494394</seasonid>
   <seriesid>164021</seriesid>
   <thumb_added></thumb_added>
@@ -1821,7 +1822,7 @@ Jimmy's life takes a drastic turn when a chance romantic encounter with Lucy goe
   <Writer>Gina Gari</Writer>
   <absolute_number>57</absolute_number>
   <filename>episodes/164021/4458669.jpg</filename>
-  <lastupdated>1377510474</lastupdated>
+  <lastupdated>1396972617</lastupdated>
   <seasonid>494394</seasonid>
   <seriesid>164021</seriesid>
   <thumb_added></thumb_added>
@@ -1852,7 +1853,7 @@ Jimmy's life takes a drastic turn when a chance romantic encounter with Lucy goe
   <Writer>Sean Conaway</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/164021/4458670.jpg</filename>
-  <lastupdated>1376496472</lastupdated>
+  <lastupdated>1399879671</lastupdated>
   <seasonid>494394</seasonid>
   <seriesid>164021</seriesid>
   <thumb_added></thumb_added>
@@ -1883,7 +1884,7 @@ Jimmy's life takes a drastic turn when a chance romantic encounter with Lucy goe
   <Writer>Amy Hubbs</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/164021/4458671.jpg</filename>
-  <lastupdated>1377036565</lastupdated>
+  <lastupdated>1400485762</lastupdated>
   <seasonid>494394</seasonid>
   <seriesid>164021</seriesid>
   <thumb_added></thumb_added>
@@ -1914,7 +1915,7 @@ Jimmy's life takes a drastic turn when a chance romantic encounter with Lucy goe
   <Writer>Elijah Aron|Jordan Young</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/164021/4458672.jpg</filename>
-  <lastupdated>1377510523</lastupdated>
+  <lastupdated>1401194630</lastupdated>
   <seasonid>494394</seasonid>
   <seriesid>164021</seriesid>
   <thumb_added></thumb_added>
@@ -1945,7 +1946,7 @@ Jimmy's life takes a drastic turn when a chance romantic encounter with Lucy goe
   <Writer>Deweyne LaMar Lee</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/164021/4458673.jpg</filename>
-  <lastupdated>1377510963</lastupdated>
+  <lastupdated>1396073339</lastupdated>
   <seasonid>494394</seasonid>
   <seriesid>164021</seriesid>
   <thumb_added></thumb_added>
@@ -1976,7 +1977,7 @@ Jimmy's life takes a drastic turn when a chance romantic encounter with Lucy goe
   <Writer>Ralph Greene|Tim Stack</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/164021/4484742.jpg</filename>
-  <lastupdated>1377510942</lastupdated>
+  <lastupdated>1396073411</lastupdated>
   <seasonid>494394</seasonid>
   <seriesid>164021</seriesid>
   <thumb_added></thumb_added>
@@ -2007,7 +2008,7 @@ Jimmy's life takes a drastic turn when a chance romantic encounter with Lucy goe
   <Writer>Sean Conaway</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/164021/4484743.jpg</filename>
-  <lastupdated>1377510880</lastupdated>
+  <lastupdated>1396705350</lastupdated>
   <seasonid>494394</seasonid>
   <seriesid>164021</seriesid>
   <thumb_added></thumb_added>
@@ -2032,13 +2033,13 @@ Jimmy's life takes a drastic turn when a chance romantic encounter with Lucy goe
   <Language>en</Language>
   <Overview>Sabrina is excited to introduce her new friend, Rachel, to the family, but Virginia and Burt are shocked when they realize Rachel is the girl who once broke Jimmy's heart.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>11</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>12</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Joey Gutierrez</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/164021/4484744.jpg</filename>
-  <lastupdated>1377510861</lastupdated>
+  <lastupdated>1396705377</lastupdated>
   <seasonid>494394</seasonid>
   <seriesid>164021</seriesid>
   <thumb_added></thumb_added>
@@ -2063,13 +2064,13 @@ Jimmy's life takes a drastic turn when a chance romantic encounter with Lucy goe
   <Language>en</Language>
   <Overview>After learning that he is Jewish, Burt prepares for the bar mitzvah he never had.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>6.7</Rating>
-  <RatingCount>11</RatingCount>
+  <Rating>6.8</Rating>
+  <RatingCount>12</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Paul A. Kaplan|Mark Torgove</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/164021/4484745.jpg</filename>
-  <lastupdated>1384157210</lastupdated>
+  <lastupdated>1397250204</lastupdated>
   <seasonid>494394</seasonid>
   <seriesid>164021</seriesid>
   <thumb_added></thumb_added>
@@ -2100,7 +2101,7 @@ Jimmy's life takes a drastic turn when a chance romantic encounter with Lucy goe
   <Writer>Greg Garcia</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/164021/4484746.jpg</filename>
-  <lastupdated>1377510814</lastupdated>
+  <lastupdated>1397250224</lastupdated>
   <seasonid>494394</seasonid>
   <seriesid>164021</seriesid>
   <thumb_added></thumb_added>
@@ -2120,18 +2121,18 @@ Jimmy's life takes a drastic turn when a chance romantic encounter with Lucy goe
   <EpisodeName>Déjà Vu Man</EpisodeName>
   <EpisodeNumber>1</EpisodeNumber>
   <FirstAired>2013-11-15</FirstAired>
-  <GuestStars>|Jeffrey Tambor|Todd Giebenhain|Kate Micucci|</GuestStars>
+  <GuestStars>|Jeffrey Tambor|Todd Giebenhain|Kate Micucci|Trace Garcia|</GuestStars>
   <IMDB_ID>tt2752722</IMDB_ID>
   <Language>en</Language>
   <Overview>Burt and Virginia decide to investigate a when strange man keeps popping up in the Chances' lives; Maw Maw reveals a secret about Virginia's past.</Overview>
   <ProductionCode>4ARY01</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>8</RatingCount>
+  <RatingCount>9</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Mike Mariano|</Writer>
   <absolute_number>67</absolute_number>
   <filename>episodes/164021/4600825.jpg</filename>
-  <lastupdated>1384550867</lastupdated>
+  <lastupdated>1395787824</lastupdated>
   <seasonid>523454</seasonid>
   <seriesid>164021</seriesid>
   <thumb_added>2013-10-25 06:04:25</thumb_added>
@@ -2151,18 +2152,18 @@ Jimmy's life takes a drastic turn when a chance romantic encounter with Lucy goe
   <EpisodeName>Burt Bucks</EpisodeName>
   <EpisodeNumber>2</EpisodeNumber>
   <FirstAired>2013-11-15</FirstAired>
-  <GuestStars>|Todd Giebenhain|Eddie Steeples|Josh Wolf|</GuestStars>
+  <GuestStars>|Todd Giebenhain|Eddie Steeples|Josh Wolf|Clyde Kusatsu|</GuestStars>
   <IMDB_ID>tt3105306</IMDB_ID>
   <Language>en</Language>
-  <Overview>Burt and Virginia learn about the economy when they try to introduce a new bartering system to Natesville; Jimmy questions his masculinity after Sabrina saves his life.</Overview>
+  <Overview>Burt and Virginia introduce Natesville to a new bartering system called &quot;Burt Bucks&quot;, that looks an awful lot like a pyramid scheme.</Overview>
   <ProductionCode>4ARY02</ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>9</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>10</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Joey Gutierrez|</Writer>
   <absolute_number>68</absolute_number>
   <filename>episodes/164021/4641554.jpg</filename>
-  <lastupdated>1384461461</lastupdated>
+  <lastupdated>1395787791</lastupdated>
   <seasonid>523454</seasonid>
   <seriesid>164021</seriesid>
   <thumb_added>2013-10-25 06:07:29</thumb_added>
@@ -2182,18 +2183,18 @@ Jimmy's life takes a drastic turn when a chance romantic encounter with Lucy goe
   <EpisodeName>Ship Happens</EpisodeName>
   <EpisodeNumber>3</EpisodeNumber>
   <FirstAired>2013-11-22</FirstAired>
-  <GuestStars>|Todd Giebenhain|Bernie Kopell|</GuestStars>
+  <GuestStars>|Todd Giebenhain|Bernie Kopell|Trace Garcia|E.E. Bell|</GuestStars>
   <IMDB_ID>tt3282730</IMDB_ID>
   <Language>en</Language>
-  <Overview>When Sabrina learns Jimmy never went on a family vacation, she decides to take Hope on a trip and prove to Burt and Virginia that family vacations aren't necessarily stressful.</Overview>
+  <Overview>When Sabrina finds out that Jimmy never went on a real family vacation as a kid, she’s determined to take Hope on a memorable trip.</Overview>
   <ProductionCode>4ARY03</ProductionCode>
-  <Rating>7.3</Rating>
-  <RatingCount>10</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>11</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Sean Conaway|</Writer>
   <absolute_number>69</absolute_number>
   <filename>episodes/164021/4641555.jpg</filename>
-  <lastupdated>1390013943</lastupdated>
+  <lastupdated>1395787743</lastupdated>
   <seasonid>523454</seasonid>
   <seriesid>164021</seriesid>
   <thumb_added>2013-11-13 16:28:49</thumb_added>
@@ -2216,15 +2217,15 @@ Jimmy's life takes a drastic turn when a chance romantic encounter with Lucy goe
   <GuestStars>|Todd Giebenhain|James Keane|</GuestStars>
   <IMDB_ID>tt3202926</IMDB_ID>
   <Language>en</Language>
-  <Overview>When Virginia gets new glasses, she discovers good vision only allows her to see all the imperfections around the house; Jimmy and Sabrina take advantage of Maw Maw's zaniness in an effort to get more followers on a social media site.</Overview>
+  <Overview>Virginia is thrilled when the doctor prescribes new glasses, until her new crystal-clear vision allows her to see every tiny imperfection around the house.</Overview>
   <ProductionCode>3ARY24</ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>9</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>10</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Matthew W. Thompson|</Writer>
   <absolute_number>70</absolute_number>
   <filename>episodes/164021/4667135.jpg</filename>
-  <lastupdated>1390013912</lastupdated>
+  <lastupdated>1395787701</lastupdated>
   <seasonid>523454</seasonid>
   <seriesid>164021</seriesid>
   <thumb_added>2013-11-13 16:29:33</thumb_added>
@@ -2247,15 +2248,15 @@ Jimmy's life takes a drastic turn when a chance romantic encounter with Lucy goe
   <GuestStars>|Molly Shannon|Todd Giebenhain|</GuestStars>
   <IMDB_ID>tt3188128</IMDB_ID>
   <Language>en</Language>
-  <Overview>The new owner of Howdy's wants all the employees come up with ideas to change the store.</Overview>
+  <Overview>Howdy's gets business innovator Maxine as its new owner, and all employees must come up with a big idea to change the store.</Overview>
   <ProductionCode>4ARY05</ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>9</RatingCount>
+  <RatingCount>10</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Matthew W. Thompson|</Writer>
   <absolute_number>71</absolute_number>
   <filename>episodes/164021/4641557.jpg</filename>
-  <lastupdated>1390013878</lastupdated>
+  <lastupdated>1395787670</lastupdated>
   <seasonid>523454</seasonid>
   <seriesid>164021</seriesid>
   <thumb_added>2013-11-14 13:32:10</thumb_added>
@@ -2278,15 +2279,15 @@ Jimmy's life takes a drastic turn when a chance romantic encounter with Lucy goe
   <GuestStars>|Todd Giebenhain|Lou Wagner|Mindy Sterling|</GuestStars>
   <IMDB_ID>tt3313484</IMDB_ID>
   <Language>en</Language>
-  <Overview>The adoption process disappoints Sabrina.</Overview>
+  <Overview>Sabrina wants to officially adopt Hope as her own, but the official adoption process doesn't give her the &quot;Motherhood Moment&quot; for which she was hoping.</Overview>
   <ProductionCode>4ARY04</ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>7</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>8</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Elijah Aron|Jordan Young|</Writer>
   <absolute_number>72</absolute_number>
   <filename>episodes/164021/4641556.jpg</filename>
-  <lastupdated>1390013828</lastupdated>
+  <lastupdated>1395787644</lastupdated>
   <seasonid>523454</seasonid>
   <seriesid>164021</seriesid>
   <thumb_added>2013-11-14 13:28:45</thumb_added>
@@ -2309,15 +2310,15 @@ Jimmy's life takes a drastic turn when a chance romantic encounter with Lucy goe
   <GuestStars>|Diedrich Bader|Michelle Hurd|</GuestStars>
   <IMDB_ID>tt3286520</IMDB_ID>
   <Language>en</Language>
-  <Overview>Burt thinks there is something suspicious about the Chances' new neighbors.</Overview>
+  <Overview>Burt and Virginia get new back-fence neighbors, and Burt is convinced that there is something suspicious about them.</Overview>
   <ProductionCode>4ARY08</ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>7</RatingCount>
+  <Rating>7.9</Rating>
+  <RatingCount>8</RatingCount>
   <SeasonNumber>4</SeasonNumber>
-  <Writer>|Becky Mann|Audra Sielaff|</Writer>
+  <Writer>|Audra Sielaff|Becky Mann|</Writer>
   <absolute_number>73</absolute_number>
   <filename>episodes/164021/4641560.jpg</filename>
-  <lastupdated>1390013792</lastupdated>
+  <lastupdated>1395787616</lastupdated>
   <seasonid>523454</seasonid>
   <seriesid>164021</seriesid>
   <thumb_added>2013-12-05 17:14:02</thumb_added>
@@ -2340,15 +2341,15 @@ Jimmy's life takes a drastic turn when a chance romantic encounter with Lucy goe
   <GuestStars>|Ryan Doom|</GuestStars>
   <IMDB_ID>tt3286572</IMDB_ID>
   <Language>en</Language>
-  <Overview>Virginia and Burt try to put the spark back in Jimmy and Sabrina's marriage.</Overview>
+  <Overview>Virginia and Burt fear that Jimmy and Sabrina's marriage has lost its spark, so they use their own relationship experiences to try and shake things up.</Overview>
   <ProductionCode>4ARY07</ProductionCode>
-  <Rating>8.0</Rating>
-  <RatingCount>5</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>7</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Mark Stegemann|</Writer>
   <absolute_number>74</absolute_number>
   <filename>episodes/164021/4641559.jpg</filename>
-  <lastupdated>1390013750</lastupdated>
+  <lastupdated>1395787574</lastupdated>
   <seasonid>523454</seasonid>
   <seriesid>164021</seriesid>
   <thumb_added>2013-11-28 13:46:46</thumb_added>
@@ -2371,7 +2372,7 @@ Jimmy's life takes a drastic turn when a chance romantic encounter with Lucy goe
   <GuestStars>|Carla Jimenez|Dan Coscino|Todd Giebenhain|</GuestStars>
   <IMDB_ID>tt3286612</IMDB_ID>
   <Language>en</Language>
-  <Overview>When Burt is forced to cancel the town's annual festival, everyone blames him for ruining Christmas.</Overview>
+  <Overview>Burt wants to be elected the interim Mayor of Natesville so that Virginia will have the honor of plugging in the town Christmas tree. But being mayor turns Burt into a Grinch.</Overview>
   <ProductionCode>4ARY10</ProductionCode>
   <Rating>7.7</Rating>
   <RatingCount>6</RatingCount>
@@ -2379,7 +2380,7 @@ Jimmy's life takes a drastic turn when a chance romantic encounter with Lucy goe
   <Writer>|Dave Holstein|</Writer>
   <absolute_number>75</absolute_number>
   <filename>episodes/164021/4667137.jpg</filename>
-  <lastupdated>1390013687</lastupdated>
+  <lastupdated>1395787546</lastupdated>
   <seasonid>523454</seasonid>
   <seriesid>164021</seriesid>
   <thumb_added>2013-11-25 12:56:51</thumb_added>
@@ -2402,15 +2403,15 @@ Jimmy's life takes a drastic turn when a chance romantic encounter with Lucy goe
   <GuestStars>|Todd Giebenhain|</GuestStars>
   <IMDB_ID>tt3347734</IMDB_ID>
   <Language>en</Language>
-  <Overview>Burt and Virginia work to expose a scandal that is killing Natesville's bees.</Overview>
+  <Overview>Burt and Virginia go undercover to expose a corporate scandal that is killing all the bees in Natesville.</Overview>
   <ProductionCode>4ARY06</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>5</RatingCount>
+  <Rating>7.9</Rating>
+  <RatingCount>7</RatingCount>
   <SeasonNumber>4</SeasonNumber>
-  <Writer>|Paul A. Kaplan|Mark Torgove|</Writer>
+  <Writer>|Mark Torgove|Paul A. Kaplan|</Writer>
   <absolute_number>76</absolute_number>
   <filename>episodes/164021/4641558.jpg</filename>
-  <lastupdated>1390013658</lastupdated>
+  <lastupdated>1395787513</lastupdated>
   <seasonid>523454</seasonid>
   <seriesid>164021</seriesid>
   <thumb_added>2013-11-25 13:01:48</thumb_added>
@@ -2433,15 +2434,15 @@ Jimmy's life takes a drastic turn when a chance romantic encounter with Lucy goe
   <GuestStars>|Amy Sedaris|Carla Jimenez|Claire Jacobs|</GuestStars>
   <IMDB_ID>tt3259962</IMDB_ID>
   <Language>en</Language>
-  <Overview>The bickering between Virginia and her visiting cousin leads Maw Maw to threaten to leave everything to the one who acts the most civil; Jimmy and Sabrina have difficulty finding a baby sitter.</Overview>
+  <Overview>Maw Maw accidentally calls a wrong number in her contact book, bringing Virginia's cousin, Delilah, back to town. When the two rivals fight nonstop, Maw Maw threatens to give everything in her will to the granddaughter who can be the most civil. Meanwhile, Jimmy and Sabrina have trouble finding a babysitter for Hope.</Overview>
   <ProductionCode>4ARY09</ProductionCode>
-  <Rating>8.8</Rating>
-  <RatingCount>4</RatingCount>
+  <Rating>8.2</Rating>
+  <RatingCount>6</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer></Writer>
   <absolute_number>77</absolute_number>
   <filename>episodes/164021/4711891.jpg</filename>
-  <lastupdated>1390013511</lastupdated>
+  <lastupdated>1395787460</lastupdated>
   <seasonid>523454</seasonid>
   <seriesid>164021</seriesid>
   <thumb_added>2013-12-26 12:54:21</thumb_added>
@@ -2456,23 +2457,23 @@ Jimmy's life takes a drastic turn when a chance romantic encounter with Lucy goe
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
+  <Director>|Rebecca Asher|</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Hot Dish</EpisodeName>
   <EpisodeNumber>12</EpisodeNumber>
   <FirstAired>2014-01-17</FirstAired>
-  <GuestStars>|Shirley Jones|</GuestStars>
+  <GuestStars>|Shirley Jones|Lee Majors|Todd Giebenhain|</GuestStars>
   <IMDB_ID>tt3316730</IMDB_ID>
   <Language>en</Language>
-  <Overview>When Jimmy says Sabrina's casserole is better than his mom's, Virginia enters them both in a cooking competition; Burt invites his mother to participate in the contest.</Overview>
+  <Overview>Virginia offers to give Sabrina some much-needed cooking lessons. But when Jimmy proclaims that his wife's casserole is better than his mom's, it brings out Virginia's competitive side and she enters herself and her daughter-in-law in the Hot Dish competition. To ease the tension, Burt also invites his mother to enter the contest.</Overview>
   <ProductionCode>4ARY11</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>4</RatingCount>
+  <RatingCount>6</RatingCount>
   <SeasonNumber>4</SeasonNumber>
-  <Writer></Writer>
+  <Writer>|Kevin Henderson|</Writer>
   <absolute_number>78</absolute_number>
   <filename>episodes/164021/4674268.jpg</filename>
-  <lastupdated>1390013385</lastupdated>
+  <lastupdated>1395787409</lastupdated>
   <seasonid>523454</seasonid>
   <seriesid>164021</seriesid>
   <thumb_added>2013-12-26 12:50:18</thumb_added>
@@ -2487,23 +2488,23 @@ Jimmy's life takes a drastic turn when a chance romantic encounter with Lucy goe
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
+  <Director>|Rick Kelly|</Director>
   <EpImgFlag>2</EpImgFlag>
-  <EpisodeName>Thrilla in Natesvilla</EpisodeName>
+  <EpisodeName>The Thrilla in Natesvilla</EpisodeName>
   <EpisodeNumber>13</EpisodeNumber>
   <FirstAired>2014-01-24</FirstAired>
-  <GuestStars>|Molly Shannon|</GuestStars>
+  <GuestStars>|Molly Shannon|Todd Giebenhain|</GuestStars>
   <IMDB_ID>tt3312942</IMDB_ID>
   <Language>en</Language>
-  <Overview>Burt and Virginia get in a fight while trying to help Barney and Maxine's relationship; Jimmy and Sabrina try fencing to reduce stress in their relationship.</Overview>
+  <Overview>In trying to help Barney and Maxine's budding relationship, Burt and Virginia wind up getting in a fight. Meanwhile, Jimmy and Sabrina decide to start fencing in order to relieve some of the tension in their relationship.</Overview>
   <ProductionCode>4ARY12</ProductionCode>
-  <Rating>8.8</Rating>
-  <RatingCount>4</RatingCount>
+  <Rating>8.2</Rating>
+  <RatingCount>6</RatingCount>
   <SeasonNumber>4</SeasonNumber>
-  <Writer></Writer>
+  <Writer>|Shelly Gossman|</Writer>
   <absolute_number>79</absolute_number>
   <filename>episodes/164021/4674269.jpg</filename>
-  <lastupdated>1390013450</lastupdated>
+  <lastupdated>1395787353</lastupdated>
   <seasonid>523454</seasonid>
   <seriesid>164021</seriesid>
   <thumb_added>2013-12-26 12:44:20</thumb_added>
@@ -2528,13 +2529,13 @@ Jimmy's life takes a drastic turn when a chance romantic encounter with Lucy goe
   <Language>en</Language>
   <Overview>&quot;Groce-letes&quot; from around the world descend on Natesville for the International Grocery Games, where competitors battle for supremacy in the aisles of Howdy's. But when the American delegation is embroiled in a shocking performance-enhancing drug scandal, the Howdy's team, along with Burt and Virginia, must pick up the torch for the Stars &amp; Stripes.</Overview>
   <ProductionCode>3ARY23</ProductionCode>
-  <Rating>6.7</Rating>
-  <RatingCount>6</RatingCount>
+  <Rating>6.8</Rating>
+  <RatingCount>8</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer></Writer>
   <absolute_number>80</absolute_number>
   <filename>episodes/164021/4667134.jpg</filename>
-  <lastupdated>1389857180</lastupdated>
+  <lastupdated>1395787292</lastupdated>
   <seasonid>523454</seasonid>
   <seriesid>164021</seriesid>
   <thumb_added>2014-01-15 23:26:20</thumb_added>
@@ -2549,7 +2550,7 @@ Jimmy's life takes a drastic turn when a chance romantic encounter with Lucy goe
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
+  <Director>|Timothy Stack|</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Anniversary Ball</EpisodeName>
   <EpisodeNumber>15</EpisodeNumber>
@@ -2557,15 +2558,15 @@ Jimmy's life takes a drastic turn when a chance romantic encounter with Lucy goe
   <GuestStars>|Todd Giebenhain|Keith Carradine|Kelly Heyer|Corey Eid|Gwen Stewart|</GuestStars>
   <IMDB_ID>tt3352718</IMDB_ID>
   <Language>en</Language>
-  <Overview>Virginia thinks that Burt is getting her an expensive gift for their 25th anniversary. So she decides to take him to a dude ranch that is run by a crazy cowboy. But Burt isn't able to enjoy himself, because of a secret he is keeping from Virginia.</Overview>
+  <Overview>Virginia thinks that Burt is getting her an expensive gift for their 25th anniversary, so she decides to take him to a dude ranch that is run by a crazy cowboy. But Burt isn't able to enjoy himself because of a secret he is keeping from Virginia.</Overview>
   <ProductionCode>4ARY13</ProductionCode>
-  <Rating>8.0</Rating>
-  <RatingCount>4</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>6</RatingCount>
   <SeasonNumber>4</SeasonNumber>
-  <Writer></Writer>
+  <Writer>|Mike Mariano|</Writer>
   <absolute_number>81</absolute_number>
   <filename>episodes/164021/4711890.jpg</filename>
-  <lastupdated>1390433362</lastupdated>
+  <lastupdated>1395787205</lastupdated>
   <seasonid>523454</seasonid>
   <seriesid>164021</seriesid>
   <thumb_added>2014-01-22 15:33:39</thumb_added>
@@ -2588,15 +2589,15 @@ Jimmy's life takes a drastic turn when a chance romantic encounter with Lucy goe
   <GuestStars>|Todd Giebenhain|Tommy Chong|Kelly Heyer|Corey Eid|Alison Tafel|Soledad Campos|Augusta Mariano|Wyatt Carnel|</GuestStars>
   <IMDB_ID>tt3352734</IMDB_ID>
   <Language>en</Language>
-  <Overview>Maw Maw has found a new love, Hubert, who encourages her to engage in some reckless activity. When Virginia finds herself scolding Maw Maw, she fears she's become a lame adult and wants Burt to do more risk-taking activities with her. Jimmy and Sabrina follow suit when they find themselves spying on their own babysitter.</Overview>
+  <Overview>Maw Maw has found a new love, Hubert, who encourages her to engage in some reckless activities. When Virginia finds herself scolding Maw Maw, she fears she's become a lame adult and wants Burt to take part in more risk-taking activities with her. Jimmy and Sabrina follow suit when they find themselves spying on their own babysitter.</Overview>
   <ProductionCode>4ARY14</ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>1</RatingCount>
+  <RatingCount>5</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Joey Gutierrez|</Writer>
   <absolute_number>82</absolute_number>
   <filename>episodes/164021/4711892.jpg</filename>
-  <lastupdated>1392414929</lastupdated>
+  <lastupdated>1395787159</lastupdated>
   <seasonid>523454</seasonid>
   <seriesid>164021</seriesid>
   <thumb_added>2014-02-14 13:59:46</thumb_added>
@@ -2619,15 +2620,15 @@ Jimmy's life takes a drastic turn when a chance romantic encounter with Lucy goe
   <GuestStars>|Todd Giebenhain|Cheryl Texiera|Brad Grunberg|Michael Ray Bower|Christin Jezak|Diego Villarreal Garcia|Angel Fajardo|</GuestStars>
   <IMDB_ID>tt3505530</IMDB_ID>
   <Language>en</Language>
-  <Overview>Burt and Virginia are in desperate need of a vacation and, at Barney's suggestion, head to a resort for a little R&amp;R. But the &quot;resort&quot; turns out to be a different kind of place than they were hoping for. Meanwhile, Jimmy and Sabrina decide they want to have a baby.</Overview>
+  <Overview>At Barney's suggestion, Virginia and Burt go to a resort for a vacation; Sabrina and Jimmy want to have a baby.</Overview>
   <ProductionCode>4ARY15</ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>8.2</Rating>
+  <RatingCount>5</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Mark Stegemann|</Writer>
   <absolute_number>83</absolute_number>
   <filename>episodes/164021/4721288.jpg</filename>
-  <lastupdated>1393019438</lastupdated>
+  <lastupdated>1395865956</lastupdated>
   <seasonid>523454</seasonid>
   <seriesid>164021</seriesid>
   <thumb_added>2014-02-19 08:01:49</thumb_added>
@@ -2648,18 +2649,17 @@ Jimmy's life takes a drastic turn when a chance romantic encounter with Lucy goe
   <EpisodeNumber>18</EpisodeNumber>
   <FirstAired>2014-03-14</FirstAired>
   <GuestStars>|Judith Light|Todd Giebenhain|Cheryl Texiera|Brad Grunberg|Michael Ray Bower|Christin Jezak|Diego Villarreal Garcia|Angel Fajardo|</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt3573688</IMDB_ID>
   <Language>en</Language>
-  <Overview>Virginia's boss Louise begins grooming her for the role of regional sales manager. But when Virginia sees what her boss' job is really like, she has second thoughts. Meanwhile, Jimmy and Sabrina are worried about Hope's lack of compassion when she feels no sadness over the death of her pet fish, and Burt and Virginia perform at the Natesville Telethon.
-</Overview>
+  <Overview>Virginia's boss Louise begins grooming her for the role of regional sales manager. But when Virginia sees what her boss' job is really like, she has second thoughts. Meanwhile, Jimmy and Sabrina are worried about Hope's lack of compassion when she feels no sadness over the death of her pet fish, and Burt and Virginia perform at the Natesville Telethon.</Overview>
   <ProductionCode>4ARY16</ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>5</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Mark Torgrove|Paul A. Kaplan|</Writer>
   <absolute_number>84</absolute_number>
   <filename>episodes/164021/4721289.jpg</filename>
-  <lastupdated>1393627608</lastupdated>
+  <lastupdated>1395787086</lastupdated>
   <seasonid>523454</seasonid>
   <seriesid>164021</seriesid>
   <thumb_added>2014-02-25 13:27:38</thumb_added>
@@ -2680,17 +2680,17 @@ Jimmy's life takes a drastic turn when a chance romantic encounter with Lucy goe
   <EpisodeNumber>19</EpisodeNumber>
   <FirstAired>2014-03-21</FirstAired>
   <GuestStars>|Todd Giebenhain|Eddie Steeples|Mike O'Malley|Kit Pongetti|Azlan Savage|Kelly Heyer|Corey Eid|</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt3588734</IMDB_ID>
   <Language>en</Language>
-  <Overview>Virginia stops believing in magical things, but second guesses herself when a ghost appears in their house. When Burt discovers that Jim Hughes has secretly been living in their house's bomb shelter, Burt and Jim play along with Virginia's antics in order to make her believe in the paranormal again. Meanwhile, Burt and Virginia learn some news about Jim that scares them straight.</Overview>
+  <Overview>Virginia stops believing in magical things, but second-guesses herself when a ghost appears in the house. When Burt discovers that Jim Hughes has secretly been living in their house's bomb shelter, he and Jim play along with Virginia's antics in order to make her believe in the paranormal again. Meanwhile, Burt and Virginia learn some news about Jim that scares them straight.</Overview>
   <ProductionCode>4ARY17</ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>5</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Jordan Young|Elijah Aron|</Writer>
   <absolute_number>85</absolute_number>
   <filename>episodes/164021/4753252.jpg</filename>
-  <lastupdated>1394233034</lastupdated>
+  <lastupdated>1395787047</lastupdated>
   <seasonid>523454</seasonid>
   <seriesid>164021</seriesid>
   <thumb_added>2014-03-04 15:46:34</thumb_added>
@@ -2705,28 +2705,28 @@ Jimmy's life takes a drastic turn when a chance romantic encounter with Lucy goe
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
+  <Director>|Richie Keen|</Director>
+  <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Man's Best Friend</EpisodeName>
   <EpisodeNumber>20</EpisodeNumber>
   <FirstAired>2014-03-28</FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <GuestStars>|Michael Rapaport|Todd Giebenhain|Giovonnie Samuels|Seana Kofoed|</GuestStars>
+  <IMDB_ID>tt3602990</IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
+  <Overview>When Virginia and Burt realize they are suffering from &quot;empty nest syndrome&quot;, Sabrina suggests they adopt a dog. But when they are turned down by the pound, they are given a trial period as dog owners with Michael, who ends up overstaying his welcome at the Chance’s home. Meanwhile, Jimmy tries to prove to Sabrina that he’s still a ladies man, even when he doesn't have Hope with him to attract women.</Overview>
   <ProductionCode>4ARY18</ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>7</RatingCount>
   <SeasonNumber>4</SeasonNumber>
-  <Writer></Writer>
+  <Writer>|Ralph Greene|</Writer>
   <absolute_number>86</absolute_number>
-  <filename></filename>
-  <lastupdated>1392053808</lastupdated>
+  <filename>episodes/164021/4753253.jpg</filename>
+  <lastupdated>1395786999</lastupdated>
   <seasonid>523454</seasonid>
   <seriesid>164021</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-03-10 13:13:31</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4777083</id>
@@ -2736,28 +2736,28 @@ Jimmy's life takes a drastic turn when a chance romantic encounter with Lucy goe
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
+  <Director>|Rick Kelly|</Director>
+  <EpImgFlag>2</EpImgFlag>
   <EpisodeName>How I Met Your Mullet</EpisodeName>
   <EpisodeNumber>21</EpisodeNumber>
   <FirstAired>2014-04-04</FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <GuestStars>|Lesley Nicol|Todd Giebenhain|Michael Bowen|</GuestStars>
+  <IMDB_ID>tt3616924</IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
+  <Overview>Jimmy and Sabrina get a surprise when they learn that Sabrina's late grandmother has left them the family maid, who has a lifetime contract with the family. Meanwhile, Virginia gets a promotion at work that allows Burt to retire and pursue his passion – even if he doesn't know what his passion is.</Overview>
   <ProductionCode>4ARY19</ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>8.0</Rating>
+  <RatingCount>5</RatingCount>
   <SeasonNumber>4</SeasonNumber>
-  <Writer></Writer>
+  <Writer>|Timothy Stack|Matthew W. Johnson|</Writer>
   <absolute_number>87</absolute_number>
-  <filename></filename>
-  <lastupdated>1392053838</lastupdated>
+  <filename>episodes/164021/4777083.jpg</filename>
+  <lastupdated>1396470838</lastupdated>
   <seasonid>523454</seasonid>
   <seriesid>164021</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-03-25 15:39:45</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4777084</id>
@@ -2767,27 +2767,27 @@ Jimmy's life takes a drastic turn when a chance romantic encounter with Lucy goe
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
+  <Director>|Mike Mariano|</Director>
+  <EpImgFlag>2</EpImgFlag>
   <EpisodeName>The Father Daughter Dance</EpisodeName>
   <EpisodeNumber>22</EpisodeNumber>
   <FirstAired>2014-04-04</FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <GuestStars>|Jeffrey Tambor|Kenny Loggins|Todd Giebenhain|Kate Micucci|</GuestStars>
+  <IMDB_ID>tt3620274</IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
+  <Overview>Virginia's father Arnold returns to Natesville seeking help in planning his upcoming wedding. But Arnold surprises everyone when he reveals that the wedding Virginia has planned is really for her and Burt – the dream wedding they never got to have as teen parents.</Overview>
   <ProductionCode>4ARY20</ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>4</RatingCount>
   <SeasonNumber>4</SeasonNumber>
-  <Writer></Writer>
+  <Writer>|Mike Mariano|</Writer>
   <absolute_number>88</absolute_number>
-  <filename></filename>
-  <lastupdated>1392053828</lastupdated>
+  <filename>episodes/164021/4777084.jpg</filename>
+  <lastupdated>1396470875</lastupdated>
   <seasonid>523454</seasonid>
   <seriesid>164021</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-03-25 15:38:24</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 </Data>

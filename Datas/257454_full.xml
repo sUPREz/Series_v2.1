@@ -4,7 +4,7 @@
   <Actors>|AnnaSophia Robb|Austin Butler|Ellen Wong|Lindsey Gort|Matt Letscher|Chloe Bridges|Stefania Owen|Freema Agyeman|Brendan Dooling|Katie Findlay|</Actors>
   <Airs_DayOfWeek>Friday</Airs_DayOfWeek>
   <Airs_Time>8:00 PM</Airs_Time>
-  <ContentRating></ContentRating>
+  <ContentRating>TV-14</ContentRating>
   <FirstAired>2013-01-14</FirstAired>
   <Genre>|Comedy|Drama|</Genre>
   <IMDB_ID>tt2056366</IMDB_ID>
@@ -12,18 +12,19 @@
   <Network>The CW</Network>
   <NetworkID></NetworkID>
   <Overview>Carrie Bradshaw is in her senior year of high school in the early 1980s. She asks her first questions about love, sex, friendship and family while navigating the worlds of high school and Manhattan.</Overview>
-  <Rating>6.8</Rating>
-  <RatingCount>5</RatingCount>
+  <Rating>6.5</Rating>
+  <RatingCount>8</RatingCount>
   <Runtime>60</Runtime>
   <SeriesID>158556</SeriesID>
   <SeriesName>The Carrie Diaries</SeriesName>
-  <Status>Continuing</Status>
+  <Status>Ended</Status>
   <added>2012-03-22 08:05:39</added>
   <addedBy>20821</addedBy>
-  <banner>graphical/257454-g.jpg</banner>
+  <banner>graphical/257454-g4.jpg</banner>
   <fanart>fanart/original/257454-7.jpg</fanart>
-  <lastupdated>1391374067</lastupdated>
+  <lastupdated>1405164764</lastupdated>
   <poster>posters/257454-2.jpg</poster>
+  <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id></zap2it_id>
 </Series>
 <Episode>
@@ -50,7 +51,7 @@
   <Writer>Amy B. Harris</Writer>
   <absolute_number>1</absolute_number>
   <filename>episodes/257454/4337197.jpg</filename>
-  <lastupdated>1371908145</lastupdated>
+  <lastupdated>1399457796</lastupdated>
   <seasonid>492313</seasonid>
   <seriesid>257454</seriesid>
   <thumb_added></thumb_added>
@@ -453,7 +454,7 @@
   <Writer>Amy B. Harris</Writer>
   <absolute_number>14</absolute_number>
   <filename>episodes/257454/4599506.jpg</filename>
-  <lastupdated>1387622098</lastupdated>
+  <lastupdated>1404124345</lastupdated>
   <seasonid>523340</seasonid>
   <seriesid>257454</seriesid>
   <thumb_added>2013-10-03 18:47:49</thumb_added>
@@ -484,7 +485,7 @@
   <Writer>Jessica O'Toole|Amy Rardin</Writer>
   <absolute_number>15</absolute_number>
   <filename>episodes/257454/4671492.jpg</filename>
-  <lastupdated>1387622106</lastupdated>
+  <lastupdated>1404124385</lastupdated>
   <seasonid>523340</seasonid>
   <seriesid>257454</seriesid>
   <thumb_added>2013-11-12 15:57:30</thumb_added>
@@ -515,7 +516,7 @@
   <Writer>Doug Stockstill</Writer>
   <absolute_number>16</absolute_number>
   <filename>episodes/257454/4671493.jpg</filename>
-  <lastupdated>1387622175</lastupdated>
+  <lastupdated>1404124415</lastupdated>
   <seasonid>523340</seasonid>
   <seriesid>257454</seriesid>
   <thumb_added>2013-11-12 16:00:10</thumb_added>
@@ -546,7 +547,7 @@
   <Writer>Henry Alonso Myers</Writer>
   <absolute_number>17</absolute_number>
   <filename>episodes/257454/4671494.jpg</filename>
-  <lastupdated>1384980596</lastupdated>
+  <lastupdated>1404124448</lastupdated>
   <seasonid>523340</seasonid>
   <seriesid>257454</seriesid>
   <thumb_added>2013-11-11 14:50:39</thumb_added>
@@ -577,7 +578,7 @@
   <Writer>Jessica Queller</Writer>
   <absolute_number>18</absolute_number>
   <filename>episodes/257454/4701388.jpg</filename>
-  <lastupdated>1387622201</lastupdated>
+  <lastupdated>1404124479</lastupdated>
   <seasonid>523340</seasonid>
   <seriesid>257454</seriesid>
   <thumb_added>2013-11-11 14:50:51</thumb_added>
@@ -608,7 +609,7 @@
   <Writer>Sascha Rothchild</Writer>
   <absolute_number>19</absolute_number>
   <filename>episodes/257454/4711558.jpg</filename>
-  <lastupdated>1387622210</lastupdated>
+  <lastupdated>1404124506</lastupdated>
   <seasonid>523340</seasonid>
   <seriesid>257454</seriesid>
   <thumb_added>2013-11-28 18:25:47</thumb_added>
@@ -639,7 +640,7 @@
   <Writer>Amy B. Harris</Writer>
   <absolute_number>20</absolute_number>
   <filename>episodes/257454/4713403.jpg</filename>
-  <lastupdated>1387622218</lastupdated>
+  <lastupdated>1404124544</lastupdated>
   <seasonid>523340</seasonid>
   <seriesid>257454</seriesid>
   <thumb_added>2013-12-05 17:23:24</thumb_added>

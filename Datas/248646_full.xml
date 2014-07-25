@@ -12,8 +12,8 @@
   <Network>FOX</Network>
   <NetworkID></NetworkID>
   <Overview>In 1963, all the prisoners and guards mysteriously disappear from Alcatraz. In the present day, they resurface and a secret agency are tasked with re-capturing them.</Overview>
-  <Rating>8.3</Rating>
-  <RatingCount>71</RatingCount>
+  <Rating>8.2</Rating>
+  <RatingCount>75</RatingCount>
   <Runtime>60</Runtime>
   <SeriesID>80121</SeriesID>
   <SeriesName>Alcatraz</SeriesName>
@@ -22,8 +22,9 @@
   <addedBy>342859</addedBy>
   <banner>graphical/248646-g11.jpg</banner>
   <fanart>fanart/original/248646-10.jpg</fanart>
-  <lastupdated>1393012734</lastupdated>
+  <lastupdated>1405429768</lastupdated>
   <poster>posters/248646-6.jpg</poster>
+  <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>EP01419230</zap2it_id>
 </Series>
 <Episode>
@@ -113,7 +114,7 @@
   <Overview>Detective Rebecca Madsen and Alcatraz historian Dr Diego Soto team up with a secret agency that is dedicated to finding and catching inmates from the infamous prison who went missing 50 years ago and are reappearing today.</Overview>
   <ProductionCode>296790</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>213</RatingCount>
+  <RatingCount>215</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Elizabeth Sarnoff|Steven Lilien|Bryan Wynbrandt</Writer>
   <absolute_number>1</absolute_number>
@@ -144,7 +145,7 @@
   <Overview>When a sniper begins targeting young victims, the team is forced to retrace the steps of the past in order to solve this modern day mystery.</Overview>
   <ProductionCode>2J6052</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>175</RatingCount>
+  <RatingCount>177</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Alison Balian</Writer>
   <absolute_number>2</absolute_number>
@@ -175,7 +176,7 @@
   <Overview>When child killer Kit Nelson, a terrifying kidnapper who always returns his victims home - after he's killed them - reappears from the past, the team is in a race against time to catch the man before he kills again.</Overview>
   <ProductionCode>2J6053</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>172</RatingCount>
+  <RatingCount>174</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Jennifer Johnson</Writer>
   <absolute_number>3</absolute_number>
@@ -206,7 +207,7 @@
   <Overview>When a bank robbing criminal returns from the past and things go wrong in the present, Rebecca has to break him out of the hostage-filled bank before people can find out who he is.</Overview>
   <ProductionCode>2J6055</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>157</RatingCount>
+  <RatingCount>158</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Robert Hull</Writer>
   <absolute_number>4</absolute_number>
@@ -237,7 +238,7 @@
   <Overview>Guy Hastings, an Alcatraz guard, reappears. Although a good man, Hastings is being asked to do bad things and will come face-to-face with an old acquaintance.</Overview>
   <ProductionCode>2J6056</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>150</RatingCount>
+  <RatingCount>152</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Steven Lilien|Bryan Wynbrandt|</Writer>
   <absolute_number>5</absolute_number>
@@ -268,7 +269,7 @@
   <Overview>When Hauser, Madsen, and Soto track former inmate Paxton Petty, a landmine bomber who has returned and is placing bombs throughout populated areas of San Francisco, methods of the past are applied to the present. </Overview>
   <ProductionCode>2J6058</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>141</RatingCount>
+  <RatingCount>143</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Jennifer Johnson</Writer>
   <absolute_number>6</absolute_number>
@@ -299,7 +300,7 @@
   <Overview>Madsen and Hauser hunt down Johnny McKee, a former Alcatraz inmate and vicious killer with a background in chemistry. It’s a race against time before McKee horrifically poisons more innocent victims. Meanwhile, more details emerge about Madsen’s grandfather. </Overview>
   <ProductionCode>2J6054</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>146</RatingCount>
+  <RatingCount>148</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Toni Graphia</Writer>
   <absolute_number>7</absolute_number>
@@ -330,7 +331,7 @@
   <Overview>Herman and Pinky Ames, who almost escaped in 1963, return to Alcatraz in the present day and find something strangely wrong</Overview>
   <ProductionCode>2J6059</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>95</RatingCount>
+  <RatingCount>97</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Robert Hull</Writer>
   <absolute_number>9</absolute_number>
@@ -361,7 +362,7 @@
   <Overview>Sonny Burnett, a man with a dark side, who became extremely violent while at Alcatraz reappears</Overview>
   <ProductionCode>2J6060</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>122</RatingCount>
+  <RatingCount>124</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Toni Graphia</Writer>
   <absolute_number>10</absolute_number>
@@ -397,7 +398,7 @@ It is available online.
 It will air again on March 12.</Overview>
   <ProductionCode>2J6057</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>112</RatingCount>
+  <RatingCount>114</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Leigh Dana Jackson</Writer>
   <absolute_number>8</absolute_number>
@@ -428,7 +429,7 @@ It will air again on March 12.</Overview>
   <Overview>Rebecca, Doc, and Hauser set out to capture musically-inclined serial killer Webb Porter (guest star Malek), an unknown ’63 that returns more violent than ever </Overview>
   <ProductionCode>2J6061</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>117</RatingCount>
+  <RatingCount>119</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Steven Lilien |Bryan Wynbrandt</Writer>
   <absolute_number>11</absolute_number>
@@ -459,7 +460,7 @@ It will air again on March 12.</Overview>
   <Overview>Doc and Rebecca close in on a man who may be the key to revealing the secrets behind all the returning criminals. Meanwhile, Hauser makes a discovery beneath the halls of Alcatraz that brings him ever closer to the truth.</Overview>
   <ProductionCode>2J6062</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>119</RatingCount>
+  <RatingCount>121</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Leigh Dana Jackson|Coleman Herbert</Writer>
   <absolute_number>12</absolute_number>
@@ -490,7 +491,7 @@ It will air again on March 12.</Overview>
   <Overview>Revealing doors are opened and lives hang in the balance as Rebecca will stop at nothing in pursuit of the man who killed her partner.</Overview>
   <ProductionCode>2J6063</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>114</RatingCount>
+  <RatingCount>116</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Jennifer Johnson|Daniel Pyne</Writer>
   <absolute_number>13</absolute_number>

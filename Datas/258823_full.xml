@@ -13,17 +13,18 @@
   <NetworkID></NetworkID>
   <Overview>Our entire way of life depends on electricity. So what would happen if it just stopped working? Well, one day, like a switch turned off, the world is suddenly thrust back into the dark ages. Planes fall from the sky, hospitals shut down, and communication is impossible. And without any modern technology, who can tell us why? Now, 15 years later, life is back to what it once was long before the industrial revolution: families living in quiet cul-de-sacs, and when the sun goes down lanterns and candles are lit. Life is slower and sweeter. Or is it? On the fringes of small farming communities, danger lurks. And a young woman's life is dramatically changed when a local militia arrives and kills her father, who mysteriously - and unbeknownst to her - had something to do with the blackout. This brutal encounter sets her and two unlikely companions off on a daring coming-of-age journey to find answers about the past in the hopes of reclaiming the future.</Overview>
   <Rating>7.5</Rating>
-  <RatingCount>113</RatingCount>
-  <Runtime>60</Runtime>
+  <RatingCount>129</RatingCount>
+  <Runtime>40</Runtime>
   <SeriesID>158541</SeriesID>
   <SeriesName>Revolution</SeriesName>
-  <Status>Continuing</Status>
+  <Status>Ended</Status>
   <added>2012-05-07 15:27:20</added>
   <addedBy>348885</addedBy>
   <banner>graphical/258823-g10.jpg</banner>
   <fanart>fanart/original/258823-2.jpg</fanart>
-  <lastupdated>1394343539</lastupdated>
+  <lastupdated>1405277797</lastupdated>
   <poster>posters/258823-8.jpg</poster>
+  <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>EP01567902</zap2it_id>
 </Series>
 <Episode>
@@ -1084,312 +1085,6 @@
   <thumb_width>300</thumb_width>
 </Episode>
 <Episode>
-  <id>4764949</id>
-  <Combined_episodenumber>32</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>An In-Depth Look at the Revolution Pilot</EpisodeName>
-  <EpisodeNumber>32</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview>Executive producers J.J. Abrams (Star Trek Into Darkness, Super 8), Eric Kripke (Supernatural) and Jon Favreau (Iron Man, Swingers), as well as several members of the cast, sit down to discuss the genesis of the series, the pilot, the goals of the show and the various elements that made its first season a ratings success.</Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode>1</airsbefore_episode>
-  <airsbefore_season>2</airsbefore_season>
-  <filename></filename>
-  <lastupdated>1389375611</lastupdated>
-  <seasonid>491873</seasonid>
-  <seriesid>258823</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4764952</id>
-  <Combined_episodenumber>33</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>Miles Paid Me a Visit</EpisodeName>
-  <EpisodeNumber>33</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview>Webisode</Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season>1</airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1389375985</lastupdated>
-  <seasonid>491873</seasonid>
-  <seriesid>258823</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4764953</id>
-  <Combined_episodenumber>34</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>Some Days You Just Want to Lay Down and Die</EpisodeName>
-  <EpisodeNumber>34</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season>1</airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1389375993</lastupdated>
-  <seasonid>491873</seasonid>
-  <seriesid>258823</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4764955</id>
-  <Combined_episodenumber>35</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>You're Going to Find Ben Matheson</EpisodeName>
-  <EpisodeNumber>35</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season>1</airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1389376002</lastupdated>
-  <seasonid>491873</seasonid>
-  <seriesid>258823</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4764956</id>
-  <Combined_episodenumber>36</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>Private Jacob Wren, You Are Arrested for Treason!</EpisodeName>
-  <EpisodeNumber>36</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season>1</airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1389376009</lastupdated>
-  <seasonid>491873</seasonid>
-  <seriesid>258823</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4764958</id>
-  <Combined_episodenumber>37</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>What If I Am Trying to Turn the Power Back On?</EpisodeName>
-  <EpisodeNumber>37</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season>1</airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1389376017</lastupdated>
-  <seasonid>491873</seasonid>
-  <seriesid>258823</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4795087</id>
-  <Combined_episodenumber>38</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>Revolution Cast and Creative Team at the 2013 PaleyFest</EpisodeName>
-  <EpisodeNumber>38</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1391986682</lastupdated>
-  <seasonid>491873</seasonid>
-  <seriesid>258823</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4795090</id>
-  <Combined_episodenumber>39</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>Creating a Revolution</EpisodeName>
-  <EpisodeNumber>39</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1391986809</lastupdated>
-  <seasonid>491873</seasonid>
-  <seriesid>258823</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4795091</id>
-  <Combined_episodenumber>40</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>Gag Reel</EpisodeName>
-  <EpisodeNumber>40</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1391986881</lastupdated>
-  <seasonid>491873</seasonid>
-  <seriesid>258823</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
   <id>4323128</id>
   <Combined_episodenumber>1</Combined_episodenumber>
   <Combined_season>1</Combined_season>
@@ -1408,12 +1103,12 @@
   <Overview>A family struggles in an American landscape of empty cities, militias and freedom fighters, where every piece of technology has blacked out forever.</Overview>
   <ProductionCode>296830</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>165</RatingCount>
+  <RatingCount>166</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Eric Kripke</Writer>
   <absolute_number>1</absolute_number>
   <filename>episodes/258823/4323128.jpg</filename>
-  <lastupdated>1391207684</lastupdated>
+  <lastupdated>1397221413</lastupdated>
   <seasonid>491957</seasonid>
   <seriesid>258823</seriesid>
   <thumb_added></thumb_added>
@@ -1439,12 +1134,12 @@
   <Overview>In order to rescue Danny, Miles knows he and the gang will need help. Thus, the search begins for Nora, a rebel fighter battling against the Militia. Meanwhile, Aaron confides in Maggie and Danny lays witness to what Captain Neville is capable of. </Overview>
   <ProductionCode>2J7102</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>146</RatingCount>
+  <RatingCount>148</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Eric Kripke</Writer>
   <absolute_number>2</absolute_number>
   <filename>episodes/258823/4364984.jpg</filename>
-  <lastupdated>1392756757</lastupdated>
+  <lastupdated>1397221638</lastupdated>
   <seasonid>491957</seasonid>
   <seriesid>258823</seriesid>
   <thumb_added></thumb_added>
@@ -1470,12 +1165,12 @@
   <Overview>On the run from the Militia, Nora leads Miles and Charlie back to the Rebel camp. Aaron and Maggie search for Grace, and Danny stands up to one of Captain Neville’s men.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>132</RatingCount>
+  <RatingCount>134</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Monica Owusu-Breen</Writer>
   <absolute_number>3</absolute_number>
   <filename>episodes/258823/4364985.jpg</filename>
-  <lastupdated>1392756788</lastupdated>
+  <lastupdated>1397221657</lastupdated>
   <seasonid>491957</seasonid>
   <seriesid>258823</seriesid>
   <thumb_added></thumb_added>
@@ -1501,12 +1196,12 @@
   <Overview>After Charlie and Nora rescue Miles from Militia, they set off to meet Aaron and Maggie. Tracking Miles and Charlie at every turn is Nate. As the gang reunites and continues on their journey, unforeseeable challenges await.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>127</RatingCount>
+  <RatingCount>129</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Anne Cofell Saunders</Writer>
   <absolute_number>4</absolute_number>
   <filename>episodes/258823/4364986.jpg</filename>
-  <lastupdated>1392756807</lastupdated>
+  <lastupdated>1397221676</lastupdated>
   <seasonid>491957</seasonid>
   <seriesid>258823</seriesid>
   <thumb_added></thumb_added>
@@ -1532,12 +1227,12 @@
   <Overview> As the gang nears Neville and his men, their hopes of finding Danny grow until a shocking discovery threatens to impede their efforts. Meanwhile, orders from Monroe have upped the value of Danny's life and Nora connects with a fellow Rebel.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>125</RatingCount>
+  <RatingCount>127</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Paul Grellong</Writer>
   <absolute_number>5</absolute_number>
   <filename>episodes/258823/4364987.jpg</filename>
-  <lastupdated>1392756830</lastupdated>
+  <lastupdated>1397221700</lastupdated>
   <seasonid>491957</seasonid>
   <seriesid>258823</seriesid>
   <thumb_added></thumb_added>
@@ -1563,12 +1258,12 @@
   <Overview>In order to save Nora from her injury, Miles leads the gang on a detour to visit an old acquaintance of his for medical support, but they quickly find themselves in unfriendly territory. Aaron recalls his meek history as he looks back at his pre/post-blackout life, and Neville delivers Danny to Monroe.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>107</RatingCount>
+  <RatingCount>108</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>David Rambo</Writer>
   <absolute_number>6</absolute_number>
   <filename>episodes/258823/4373909.jpg</filename>
-  <lastupdated>1392756851</lastupdated>
+  <lastupdated>1397221732</lastupdated>
   <seasonid>491957</seasonid>
   <seriesid>258823</seriesid>
   <thumb_added></thumb_added>
@@ -1594,12 +1289,12 @@
   <Overview>When Charlie meets a boy who's suffered a plight similar to her own, she relates and longs to help him and his young friends. First, she must convince Miles. Meanwhile, Rachel grows weary of General Monroe as she meets someone from her past.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>103</RatingCount>
+  <RatingCount>104</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Matt Pitts</Writer>
   <absolute_number>7</absolute_number>
   <filename>episodes/258823/4398676.jpg</filename>
-  <lastupdated>1392756875</lastupdated>
+  <lastupdated>1397221787</lastupdated>
   <seasonid>491957</seasonid>
   <seriesid>258823</seriesid>
   <thumb_added></thumb_added>
@@ -1625,12 +1320,12 @@
   <Overview>When Nora encounters a close relative, she must make a difficult choice between family and a promise. Meanwhile, one of the most ruthless members of the Militia is tracking Miles, Charlie and the gang and General Monroe hands Captain Neville a stern warning.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>99</RatingCount>
+  <RatingCount>102</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>David Rambo|Melissa Glenn</Writer>
   <absolute_number>8</absolute_number>
   <filename>episodes/258823/4428794.jpg</filename>
-  <lastupdated>1392756895</lastupdated>
+  <lastupdated>1399824637</lastupdated>
   <seasonid>491957</seasonid>
   <seriesid>258823</seriesid>
   <thumb_added></thumb_added>
@@ -1656,12 +1351,12 @@
   <Overview>Miles and the gang are bound for Monroe's lair - Independence Hall, but their efforts are impeded when they begin to have difficulty separating fantasy from reality. Meanwhile, Neville starts to grow suspicious of Rachel.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>97</RatingCount>
+  <RatingCount>99</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Jim Barnes</Writer>
   <absolute_number>9</absolute_number>
   <filename>episodes/258823/4429932.jpg</filename>
-  <lastupdated>1394023479</lastupdated>
+  <lastupdated>1397221816</lastupdated>
   <seasonid>491957</seasonid>
   <seriesid>258823</seriesid>
   <thumb_added></thumb_added>
@@ -1687,12 +1382,12 @@
   <Overview>In the gang’s quest to rescue Danny, the time has come for Miles and Monroe to meet face to face. Meanwhile, on the verge of reuniting with her brother, Charlie is conflicted by a shocking discovery and Rachel tests Monroe’s patience.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>101</RatingCount>
+  <RatingCount>103</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Monica Breen|Matt Pitts</Writer>
   <absolute_number>10</absolute_number>
   <filename>episodes/258823/4429934.jpg</filename>
-  <lastupdated>1394023420</lastupdated>
+  <lastupdated>1397221829</lastupdated>
   <seasonid>491957</seasonid>
   <seriesid>258823</seriesid>
   <thumb_added></thumb_added>
@@ -1718,7 +1413,7 @@
   <Overview>Miles leads the rebel squad out of Philadelphia and away from Monroe’s helicopters and machine guns. Meanwhile, a guilt-ridden Rachel tries to redeem herself by providing power to the rebels, but once again must leave her children, Charlie and Danny, behind. As if there wasn’t enough heat, romantic sparks ignite between Miles and Nora.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>89</RatingCount>
+  <RatingCount>90</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Anne Cofell Saunders|Paul Grellong</Writer>
   <absolute_number>11</absolute_number>
@@ -1749,12 +1444,12 @@
   <Overview>A final act of heroism by one of their own saves the lives of Charlie and the gang, but the loss devastates everyone and they must carry on with heavy hearts but increased resolve. Miles sets out on a mission with Nora to recruit his former Militia comrade, Jim Hudson and enlist his savage killing skills. Meanwhile, Rachel looks for a power source and a way back into the heart of her daughter Charlie. Rachel also attempts to elude the grip of Randall Flynn, her ruthless former boss and ally of Monroe.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>93</RatingCount>
+  <RatingCount>94</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>David Rambo|Melissa Glenn</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/258823/4499127.jpg</filename>
-  <lastupdated>1393966631</lastupdated>
+  <lastupdated>1394483335</lastupdated>
   <seasonid>491957</seasonid>
   <seriesid>258823</seriesid>
   <thumb_added></thumb_added>
@@ -1780,12 +1475,12 @@
   <Overview>Neville faces danger and hard choices as Monroe doubts his loyalty, he disowns his son Jason and gets captured by Miles. Rachel and Charlie begin slowly patching their relationship only to be pulled apart again as Rachel suddenly embarks on a quest to restore the power and her self-respect. She must make a dangerous journey to the mysterious Tower as it holds her only chance at redemption.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>87</RatingCount>
+  <RatingCount>88</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Monica Owusu-Breen|Matt Pitts</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/258823/4499128.jpg</filename>
-  <lastupdated>1388914705</lastupdated>
+  <lastupdated>1395088060</lastupdated>
   <seasonid>491957</seasonid>
   <seriesid>258823</seriesid>
   <thumb_added></thumb_added>
@@ -1811,12 +1506,12 @@
   <Overview>Paranoia strikes Monroe deeply as Neville disappears and Neville’s son Jason makes a big decision. Meanwhile, the familial bond between Miles and Charlie grows stronger. Elsewhere, Miles experiences romantic attraction with both Rachel and Nora. Rachel sets off on her dangerous quest to infiltrate the Tower and restore power to the world before Monroe can ignite a nuclear device.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>87</RatingCount>
+  <RatingCount>88</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Paul Grellong</Writer>
   <absolute_number>14</absolute_number>
   <filename>episodes/258823/4499129.jpg</filename>
-  <lastupdated>1388914734</lastupdated>
+  <lastupdated>1395088089</lastupdated>
   <seasonid>491957</seasonid>
   <seriesid>258823</seriesid>
   <thumb_added></thumb_added>
@@ -1842,12 +1537,12 @@
   <Overview>When the past catches up with Miles and Monroe in the form of mutual heartthrob, Emma all hell breaks loose for them physically and emotionally. Charlie and Nora are the ones who rescue Miles this time. Meanwhile Aaron’s life is turned inside out while accompanying Rachel on her tenacious trek to the mysterious Tower where she plans to restore the power.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>78</RatingCount>
+  <RatingCount>79</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>David Rambo</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/258823/4474164.jpg</filename>
-  <lastupdated>1388914746</lastupdated>
+  <lastupdated>1395844421</lastupdated>
   <seasonid>491957</seasonid>
   <seriesid>258823</seriesid>
   <thumb_added></thumb_added>
@@ -1873,12 +1568,12 @@
   <Overview>Miles and Tom Neville find themselves fighting for the same cause but Miles still doesn’t trust him. Charlie, Jason and Nora attempt to pull off a daring river rescue of Dr. Stephen Camp to keep deadly anthrax out of the hands of Monroe. Meanwhile Rachel and Aaron are captured and threatened by Militia forces.</Overview>
   <ProductionCode>2J7116</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>77</RatingCount>
+  <RatingCount>78</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Melissa Glenn</Writer>
   <absolute_number>16</absolute_number>
   <filename>episodes/258823/4517808.jpg</filename>
-  <lastupdated>1388914758</lastupdated>
+  <lastupdated>1395844448</lastupdated>
   <seasonid>491957</seasonid>
   <seriesid>258823</seriesid>
   <thumb_added></thumb_added>
@@ -1904,12 +1599,12 @@
   <Overview>Romantic connections heat up between two couples — Miles and Nora and Charlie and Jason — but disastrous drone strikes from the Militia threaten them all. An assassination attempt on Monroe heightens his paranoia and Georgia Federation President Foster contemplates surrender. Meanwhile, Rachel and Aaron push through the Plains Nation into Colorado.</Overview>
   <ProductionCode>2J7117</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>75</RatingCount>
+  <RatingCount>76</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Anne Cofell Saunders</Writer>
   <absolute_number>17</absolute_number>
   <filename>episodes/258823/4517809.jpg</filename>
-  <lastupdated>1388914790</lastupdated>
+  <lastupdated>1395844525</lastupdated>
   <seasonid>491957</seasonid>
   <seriesid>258823</seriesid>
   <thumb_added></thumb_added>
@@ -1935,12 +1630,12 @@
   <Overview>A captive Nora is tortured and left for dead. Monroe learns of Rachael’s attempt to reach the Tower but is unaware of her deadly plan for him. Meanwhile, Miles is desperate to find out how so many of his close associates are being brutally murdered. Later, Miles, Charlie, Neville, Jason, Hudson and Sanborn struggle to make it out of the Plains Nation to join Rachel and save her from what they believe to be certain death.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>76</RatingCount>
+  <RatingCount>78</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Paul Grellong|Oanh Ly</Writer>
   <absolute_number>18</absolute_number>
   <filename>episodes/258823/4517810.jpg</filename>
-  <lastupdated>1388914812</lastupdated>
+  <lastupdated>1395844555</lastupdated>
   <seasonid>491957</seasonid>
   <seriesid>258823</seriesid>
   <thumb_added></thumb_added>
@@ -1966,12 +1661,12 @@
   <Overview>Rachel and Monroe battle with more than wits. Meanwhile, Miles, Charlie, Nora and Aaron get inside the Tower but Tom Neville and son Jason get shut out. Miles and Monroe once again face-off, this time even more lethally.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>67</RatingCount>
+  <RatingCount>71</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>David Rambo|Jim Barnes</Writer>
   <absolute_number>19</absolute_number>
   <filename>episodes/258823/4517811.jpg</filename>
-  <lastupdated>1388914822</lastupdated>
+  <lastupdated>1395844585</lastupdated>
   <seasonid>491957</seasonid>
   <seriesid>258823</seriesid>
   <thumb_added></thumb_added>
@@ -1997,12 +1692,12 @@
   <Overview>Life-threatening dangers abound on all sides as the Rebels infiltrate the Tower. Miles' leadership abilities and character are sorely tested as well as his feelings for Rachel and Nora. Aaron's genius comes in handy while Tom Neville and Randall Flynn bring new meaning to the dark side.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>67</RatingCount>
+  <RatingCount>72</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Eric Kripke|Paul Grellong</Writer>
   <absolute_number>20</absolute_number>
   <filename>episodes/258823/4517812.jpg</filename>
-  <lastupdated>1388914834</lastupdated>
+  <lastupdated>1395844616</lastupdated>
   <seasonid>491957</seasonid>
   <seriesid>258823</seriesid>
   <thumb_added></thumb_added>
@@ -2026,14 +1721,14 @@
   <IMDB_ID>tt2874974</IMDB_ID>
   <Language>en</Language>
   <Overview>Our heroes made the treacherous journey to the Tower and were able to turn on the power, but at what cost? The effects of this move prove to be catastrophic for everyone. Now, Miles, Aaron and Rachel have found themselves in a mysterious small town, in the great nation of Texas where Rachel unexpectedly encounters an important figure from her past. Charlie finds herself on a mission in the Plains Nation while Neville and Jason search a refugee camp for a lost loved one. Meanwhile, Monroe has discovered a gritty role in his new environment.</Overview>
-  <ProductionCode></ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>62</RatingCount>
+  <ProductionCode>2J7701</ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>69</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Eric Kripke</Writer>
   <absolute_number>21</absolute_number>
   <filename>episodes/258823/4597297.jpg</filename>
-  <lastupdated>1390635370</lastupdated>
+  <lastupdated>1400818878</lastupdated>
   <seasonid>523094</seasonid>
   <seriesid>258823</seriesid>
   <thumb_added>2013-09-19 09:54:20</thumb_added>
@@ -2057,14 +1752,14 @@
   <IMDB_ID>tt3090014</IMDB_ID>
   <Language>en</Language>
   <Overview>Miles' life is in grave danger as he finds himself in the clutches of Titus Andover. Charlie is determined to find Monroe, as Rachel and her father, Dr. Porter desperately attempt to revive Aaron. Meanwhile, Neville hatches a plan to infiltrate the Patriots.</Overview>
-  <ProductionCode></ProductionCode>
+  <ProductionCode>2J7702</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>53</RatingCount>
+  <RatingCount>59</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Paul Grellong</Writer>
   <absolute_number>22</absolute_number>
   <filename>episodes/258823/4630005.jpg</filename>
-  <lastupdated>1391733747</lastupdated>
+  <lastupdated>1400818868</lastupdated>
   <seasonid>523094</seasonid>
   <seriesid>258823</seriesid>
   <thumb_added>2013-09-19 09:54:10</thumb_added>
@@ -2090,12 +1785,12 @@
   <Overview>Rachel makes a valiant attempt to rescue Miles and to escape with an ailing Tribesman's wife, while Neville and Jason are caught off-guard, assaulted by violent refugees. Charlie and Adam are at odds over what to do with Monroe. Legions of Tribesmen threaten all of Willoughby but with questionable leadership and Aaron faces death, yet again.</Overview>
   <ProductionCode>2J7703</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>63</RatingCount>
+  <RatingCount>67</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>David Rambo</Writer>
   <absolute_number>23</absolute_number>
   <filename>episodes/258823/4630006.jpg</filename>
-  <lastupdated>1392965349</lastupdated>
+  <lastupdated>1400331592</lastupdated>
   <seasonid>523094</seasonid>
   <seriesid>258823</seriesid>
   <thumb_added>2013-09-26 10:18:01</thumb_added>
@@ -2120,13 +1815,13 @@
   <Language>en</Language>
   <Overview>Monroe and Charlie's dynamic begins to evolve. Meanwhile, wounds of Miles and Rachel begin to heal, yet her curiosity and heightened awareness could be her undoing. Neville's manipulation of Patriot power brokers makes Machiavelli look like a cherub and Aaron's mind works overtime awake or asleep with mind-blowing effectiveness. Rachel and Miles begin planning a resistance to what they believe might be the Patriot occupation.</Overview>
   <ProductionCode>2J7704</ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>61</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>65</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Anne Cofell Saunders|Paul Grellong</Writer>
   <absolute_number>24</absolute_number>
   <filename>episodes/258823/4630007.jpg</filename>
-  <lastupdated>1392960098</lastupdated>
+  <lastupdated>1400331613</lastupdated>
   <seasonid>523094</seasonid>
   <seriesid>258823</seriesid>
   <thumb_added>2013-10-06 06:51:15</thumb_added>
@@ -2151,13 +1846,13 @@
   <Language>en</Language>
   <Overview>Aaron and Rachel speculate on the extreme effects of Nano technology, while he also confides in Cynthia. Meanwhile a figure from Miles’ rugged past, Texas Ranger John Fry reemerges. Fry could be Miles’ chance to bring down the Patriots in a big way, however Fry will need convincing. Charlie has a surprise for Miles and her mother, while Secretary Allenford holds a secret important to Neville.</Overview>
   <ProductionCode>2J7705</ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>64</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>70</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>David Rambo|Ben Edlund</Writer>
   <absolute_number>25</absolute_number>
   <filename>episodes/258823/4630004.jpg</filename>
-  <lastupdated>1393555078</lastupdated>
+  <lastupdated>1400331629</lastupdated>
   <seasonid>523094</seasonid>
   <seriesid>258823</seriesid>
   <thumb_added>2013-10-11 13:41:38</thumb_added>
@@ -2183,12 +1878,12 @@
   <Overview>As Charlie, Rachel and Gene question Monroe’s true allegiance, Miles himself is weary of his former friend’s intentions. Meanwhile, Aaron continues to have visions that lead to endless questions.</Overview>
   <ProductionCode>2J7706</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>54</RatingCount>
+  <RatingCount>62</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Trey Callaway|Paul Grellong</Writer>
   <absolute_number>26</absolute_number>
   <filename>episodes/258823/4683283.jpg</filename>
-  <lastupdated>1394138820</lastupdated>
+  <lastupdated>1400331646</lastupdated>
   <seasonid>523094</seasonid>
   <seriesid>258823</seriesid>
   <thumb_added>2013-10-22 14:15:15</thumb_added>
@@ -2208,18 +1903,18 @@
   <EpisodeName>The Patriot Act</EpisodeName>
   <EpisodeNumber>7</EpisodeNumber>
   <FirstAired>2013-11-06</FirstAired>
-  <GuestStars></GuestStars>
+  <GuestStars>Jessica Collins|Steven Culp|Zeljko Ivanek|Nicole Ari Parker|Waleed Zuaiter</GuestStars>
   <IMDB_ID>tt3195612</IMDB_ID>
   <Language>en</Language>
   <Overview>When Rachel discovers some unsettling truths, Miles does what he does best to overcome obstacles before him and those he cares about. Meanwhile, Charlie shares a moment with her mom as Neville and Jason continue with their struggles between father and son.</Overview>
   <ProductionCode>2J7707</ProductionCode>
-  <Rating>7.9</Rating>
-  <RatingCount>55</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>60</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Anne Coffell Saunders|Matt Pitts</Writer>
   <absolute_number>27</absolute_number>
   <filename>episodes/258823/4686171.jpg</filename>
-  <lastupdated>1393827694</lastupdated>
+  <lastupdated>1400331663</lastupdated>
   <seasonid>523094</seasonid>
   <seriesid>258823</seriesid>
   <thumb_added>2013-11-02 07:17:33</thumb_added>
@@ -2239,18 +1934,18 @@
   <EpisodeName>Come Blow Your Horn</EpisodeName>
   <EpisodeNumber>8</EpisodeNumber>
   <FirstAired>2013-11-13</FirstAired>
-  <GuestStars></GuestStars>
+  <GuestStars>David Aaron Baker|Jessica Collins|Steven Culp|Zeljko Ivanek|Nicole Ari Parker</GuestStars>
   <IMDB_ID>tt3228418</IMDB_ID>
   <Language>en</Language>
   <Overview>As Miles and the gang try to escape the perils of their current situation, Rachel and Gene continue to struggle with their relationship, which affects Charlie. Meanwhile, Neville takes a gamble with the Patriots.</Overview>
   <ProductionCode>2J7708</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>53</RatingCount>
+  <RatingCount>59</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Rockne S. O'Bannon</Writer>
   <absolute_number>28</absolute_number>
   <filename>episodes/258823/4692605.jpg</filename>
-  <lastupdated>1394342881</lastupdated>
+  <lastupdated>1400331719</lastupdated>
   <seasonid>523094</seasonid>
   <seriesid>258823</seriesid>
   <thumb_added>2013-10-31 11:18:01</thumb_added>
@@ -2270,18 +1965,18 @@
   <EpisodeName>Everyone Says I Love You</EpisodeName>
   <EpisodeNumber>9</EpisodeNumber>
   <FirstAired>2013-11-20</FirstAired>
-  <GuestStars></GuestStars>
+  <GuestStars>David Aaron Baker|Jessica Collins|Christopher Cousins|Zeljko Ivanek|Aidan Sussman|Waleed Zuaiter</GuestStars>
   <IMDB_ID>tt3240764</IMDB_ID>
   <Language>en</Language>
   <Overview>The relationship between Rachel and Gene remains strained as Charlie shows her mom how much she's grown. Meanwhile, Neville gives Jason a determined proclamation.</Overview>
   <ProductionCode>2J7709</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>51</RatingCount>
+  <RatingCount>57</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Trey Callaway|Paul Grellong</Writer>
   <absolute_number>29</absolute_number>
   <filename>episodes/258823/4702012.jpg</filename>
-  <lastupdated>1389899126</lastupdated>
+  <lastupdated>1400331703</lastupdated>
   <seasonid>523094</seasonid>
   <seriesid>258823</seriesid>
   <thumb_added>2013-11-22 04:02:57</thumb_added>
@@ -2296,23 +1991,23 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
+  <Director>Charles Beeson</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>The Three Amigos</EpisodeName>
   <EpisodeNumber>10</EpisodeNumber>
   <FirstAired>2014-01-08</FirstAired>
-  <GuestStars>Kim Raver</GuestStars>
+  <GuestStars>David Aaron Baker|Christopher Cousins|Steven Culp|Maria Howell|Mat Vairo|Waleed Zuaiter|Kim Raver</GuestStars>
   <IMDB_ID>tt3350750</IMDB_ID>
   <Language>en</Language>
   <Overview>When Miles leads Monroe and Rachel south of the border; they're met with much more than they bargained for as Neville and Julia dance a delicate dance. Meanwhile, Charlie and Gene continue their search for Aaron.</Overview>
-  <ProductionCode></ProductionCode>
+  <ProductionCode>2J7710</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>51</RatingCount>
+  <RatingCount>58</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
+  <Writer>David Rambo|Anne Cofell Saunders</Writer>
+  <absolute_number>30</absolute_number>
   <filename>episodes/258823/4718531.jpg</filename>
-  <lastupdated>1390582316</lastupdated>
+  <lastupdated>1400818842</lastupdated>
   <seasonid>523094</seasonid>
   <seriesid>258823</seriesid>
   <thumb_added>2013-11-23 15:31:06</thumb_added>
@@ -2327,23 +2022,23 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
+  <Director>Michael Offer</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Mis Dos Padres</EpisodeName>
   <EpisodeNumber>11</EpisodeNumber>
   <FirstAired>2014-01-15</FirstAired>
-  <GuestStars>Mat Vairo</GuestStars>
+  <GuestStars>Joaquim de Almeida|Christopher Cousins|Steven Culp|Maria Howell|Maureen Sebastian|Mat Vairo|Kim Raver</GuestStars>
   <IMDB_ID>tt3307722</IMDB_ID>
   <Language>en</Language>
   <Overview>Monroe finds himself in unfamiliar territory and must make a choice about his son, Conner while Neville and Julia continue to tango at Jason's dismay. Meanwhile, Gene leads Charlie to an uneasy discovery.</Overview>
-  <ProductionCode></ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>47</RatingCount>
+  <ProductionCode>2J7711</ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>55</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
+  <Writer>Rockne S. O'Bannon|Ben Edlund</Writer>
+  <absolute_number>31</absolute_number>
   <filename>episodes/258823/4755086.jpg</filename>
-  <lastupdated>1391294612</lastupdated>
+  <lastupdated>1400818833</lastupdated>
   <seasonid>523094</seasonid>
   <seriesid>258823</seriesid>
   <thumb_added>2014-01-16 09:04:52</thumb_added>
@@ -2358,23 +2053,23 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
+  <Director>Steve Boyum</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Captain Trips</EpisodeName>
   <EpisodeNumber>12</EpisodeNumber>
   <FirstAired>2014-01-22</FirstAired>
-  <GuestStars></GuestStars>
+  <GuestStars>Jessica Collins|Christopher Cousins|Steven Culp|Maureen Sebastian|Mat Vairo|Kim Raver</GuestStars>
   <IMDB_ID>tt3310590</IMDB_ID>
   <Language>en</Language>
   <Overview>When Gene decides to assist the town of Willoughby, Rachel and Charlie feel compelled to help too as Miles and Monroe continue to join forces in order to survive.</Overview>
-  <ProductionCode></ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>44</RatingCount>
+  <ProductionCode>2J7712</ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>51</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
+  <Writer>Paul Grellong|Jim Barnes</Writer>
+  <absolute_number>32</absolute_number>
   <filename>episodes/258823/4755087.jpg</filename>
-  <lastupdated>1392920069</lastupdated>
+  <lastupdated>1400818824</lastupdated>
   <seasonid>523094</seasonid>
   <seriesid>258823</seriesid>
   <thumb_added>2014-01-20 13:27:36</thumb_added>
@@ -2389,23 +2084,23 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
+  <Director>Ernest R. Dickerson</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Happy Endings</EpisodeName>
   <EpisodeNumber>13</EpisodeNumber>
   <FirstAired>2014-01-29</FirstAired>
-  <GuestStars></GuestStars>
+  <GuestStars>Katie Aselton|Steven Culp|Daniel Henney|Bret Michaels|Maureen Sebastian|Timm Sharp|Cotter Smith|Mat Vairo</GuestStars>
   <IMDB_ID>tt3337720</IMDB_ID>
   <Language>en</Language>
   <Overview>Monroe leads Connor and Charlie on a risky mission, as Miles and Rachel keep an eye on things in Willoughby. Meanwhile, Neville gets a new assignment and Aaron reunites with an old friend.</Overview>
-  <ProductionCode></ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>39</RatingCount>
+  <ProductionCode>2J7713</ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>46</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
+  <Writer>David Rambo|Trey Callaway</Writer>
+  <absolute_number>33</absolute_number>
   <filename>episodes/258823/4764045.jpg</filename>
-  <lastupdated>1392920086</lastupdated>
+  <lastupdated>1400818816</lastupdated>
   <seasonid>523094</seasonid>
   <seriesid>258823</seriesid>
   <thumb_added>2014-01-23 12:32:37</thumb_added>
@@ -2420,23 +2115,23 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director>Ernest Dickerson</Director>
+  <Director>Liz Friedlander</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Fear and Loathing</EpisodeName>
   <EpisodeNumber>14</EpisodeNumber>
   <FirstAired>2014-02-26</FirstAired>
-  <GuestStars>Mat Vairo|Maureen Sebastian</GuestStars>
+  <GuestStars>Katie Aselton|Jessica Collins|Christopher Cousins|Daniel Henney|Maureen Sebastian|Timm Sharp|Mat Vairo</GuestStars>
   <IMDB_ID>tt3400990</IMDB_ID>
   <Language>en</Language>
   <Overview>With their lives in danger in New Vegas, Monroe and Connor face a difficult decision in order to survive. Back in Willoughby, Miles questions whether he can trust Neville and Jason to help take down the Patriots. Meanwhile, Aaron and Priscilla find themselves at odds over the nano code.</Overview>
-  <ProductionCode></ProductionCode>
+  <ProductionCode>2J7714</ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>30</RatingCount>
+  <RatingCount>49</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
+  <Writer>Anne Cofell Saunders|Matt Pitts</Writer>
+  <absolute_number>34</absolute_number>
   <filename>episodes/258823/4783188.jpg</filename>
-  <lastupdated>1394306254</lastupdated>
+  <lastupdated>1400818806</lastupdated>
   <seasonid>523094</seasonid>
   <seriesid>258823</seriesid>
   <thumb_added>2014-02-14 14:04:56</thumb_added>
@@ -2451,23 +2146,23 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
+  <Director>Roxann Dawson</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Dreamcatcher</EpisodeName>
   <EpisodeNumber>15</EpisodeNumber>
   <FirstAired>2014-03-05</FirstAired>
-  <GuestStars>Maureen Sebastian|Chris Hayes</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <GuestStars>Daniel Henney|Zeljko Ivanek|Maureen Sebastian|Chris Hayes</GuestStars>
+  <IMDB_ID>tt3549296</IMDB_ID>
   <Language>en</Language>
   <Overview>Aaron awakes to find himself in a world with power, married to Priscilla and running his company. As he gets the feeling that something isn't quite right, familiar faces begin to appear.</Overview>
-  <ProductionCode></ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>16</RatingCount>
+  <ProductionCode>2J7715</ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>51</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
+  <Writer>Ben Edlund|Paul Grellong</Writer>
+  <absolute_number>35</absolute_number>
   <filename>episodes/258823/4796285.jpg</filename>
-  <lastupdated>1394134034</lastupdated>
+  <lastupdated>1400818762</lastupdated>
   <seasonid>523094</seasonid>
   <seriesid>258823</seriesid>
   <thumb_added>2014-03-06 11:31:31</thumb_added>
@@ -2482,23 +2177,23 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
+  <Director>Nick Copus</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Exposition Boulevard</EpisodeName>
   <EpisodeNumber>16</EpisodeNumber>
   <FirstAired>2014-03-12</FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <GuestStars>Tyrees Allen|David Aaron Baker|Christopher Cousins|Steven Culp|Maureen Sebastian|Cotter Smith|Mat Vairo</GuestStars>
+  <IMDB_ID>tt3549302</IMDB_ID>
   <Language>en</Language>
-  <Overview>Upon returning to Willoughby, Monroe, Charlie and Connor find the Patriots' reeducation center is up and running; Rachel and Miles are at odds on how far they are willing to go to take down the Patriots; Neville and Jason find a new ally.</Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Overview>Monroe, Charlie and Connor make their way back to Willoughby, where they find that the Patriots' reeducation center is up and running. An encounter with two of the center's young cadets leaves Rachel and Miles divided on the lengths they are willing to go in order to take down the Patriots. As Neville and Jason find a new ally for their mission, more about the history of the Patriots is revealed.</Overview>
+  <ProductionCode>2J7716</ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>48</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
+  <Writer>David Rambo|Trey Callaway</Writer>
+  <absolute_number>36</absolute_number>
   <filename>episodes/258823/4801290.jpg</filename>
-  <lastupdated>1394133326</lastupdated>
+  <lastupdated>1400818776</lastupdated>
   <seasonid>523094</seasonid>
   <seriesid>258823</seriesid>
   <thumb_added>2014-03-06 11:19:43</thumb_added>
@@ -2513,23 +2208,23 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
+  <Director>Frederick E. O. Toye</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Why We Fight</EpisodeName>
   <EpisodeNumber>17</EpisodeNumber>
   <FirstAired>2014-03-19</FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <GuestStars>Reiko Aylesworth|Christopher Cousins|Steven Culp|Billy Lush|Mat Vairo</GuestStars>
+  <IMDB_ID>tt3564898</IMDB_ID>
   <Language>en</Language>
-  <Overview>While Miles and Dr. Porter search for allies, Monroe tries to surprise the patriots; political maneuvering puts Neville and Jason in danger; Aaron and Priscilla forge ahead.</Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Overview>While Dr. Porter and Miles venture into Willoughby in search of allies within the town, Monroe seizes an opportunity to surprise the Patriots. Neville’s political maneuverings put him and Jason in serious danger.</Overview>
+  <ProductionCode>2J7717</ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>44</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
+  <Writer>Rockne S. O'Bannon</Writer>
+  <absolute_number>37</absolute_number>
   <filename>episodes/258823/4808568.jpg</filename>
-  <lastupdated>1394135691</lastupdated>
+  <lastupdated>1401617410</lastupdated>
   <seasonid>523094</seasonid>
   <seriesid>258823</seriesid>
   <thumb_added>2014-03-06 11:59:08</thumb_added>
@@ -2544,28 +2239,28 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>TBA</EpisodeName>
+  <Director>Helen Shaver</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Austin City Limits</EpisodeName>
   <EpisodeNumber>18</EpisodeNumber>
-  <FirstAired>2014-03-26</FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <FirstAired>2014-04-02</FirstAired>
+  <GuestStars>M.C. Gainey|Billy Lush|Gonzalo Menendez|Anthony Ruivivar|Maureen Sebastian|Barry Tubb|Mat Vairo</GuestStars>
+  <IMDB_ID>tt3551788</IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Overview>Frustrated with Neville, Jason turns to Miles with crucial information about the Patriots’ next steps for Texas. Determined to derail the Patriots’ plans, Miles and Monroe rush to Austin with Jason, Charlie and Connor in tow. Meanwhile, Aaron grows suspicious of Priscilla’s increasingly unusual behavior.</Overview>
+  <ProductionCode>2J7718</ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>44</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1394135800</lastupdated>
+  <Writer>Paul Grellong|Jim Barnes</Writer>
+  <absolute_number>38</absolute_number>
+  <filename>episodes/258823/4817935.jpg</filename>
+  <lastupdated>1401695506</lastupdated>
   <seasonid>523094</seasonid>
   <seriesid>258823</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-04-03 09:02:26</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4817936</id>
@@ -2575,28 +2270,28 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>National Race</EpisodeName>
+  <Director>John F. Showalter</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>$#!&amp; Happens</EpisodeName>
   <EpisodeNumber>19</EpisodeNumber>
-  <FirstAired>2014-04-02</FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <FirstAired>2014-04-30</FirstAired>
+  <GuestStars>Tim Guinee|Maureen Sebastian|Mat Vairo</GuestStars>
+  <IMDB_ID>tt3634320</IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Overview>As Miles, Monroe, Charlie and Connor rush to escape Austin, a confrontation with Texas Rangers separates Miles from the group. While out searching for Miles, Charlie is confronted by Neville who demands information on Jason’s whereabouts. As a wounded Miles faces increasingly hopeless circumstances, Aaron learns that the nanotech has been busy.</Overview>
+  <ProductionCode>2J7719</ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>45</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1394135834</lastupdated>
+  <Writer>Anne Cofell Saunders|David Reed</Writer>
+  <absolute_number>39</absolute_number>
+  <filename>episodes/258823/4817936.jpg</filename>
+  <lastupdated>1402065163</lastupdated>
   <seasonid>523094</seasonid>
   <seriesid>258823</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-05-01 03:42:03</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4817937</id>
@@ -2606,27 +2301,89 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>TBA</EpisodeName>
+  <Director>David Boyd</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Tomorrowland</EpisodeName>
   <EpisodeNumber>20</EpisodeNumber>
-  <FirstAired>2014-04-09</FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <FirstAired>2014-05-07</FirstAired>
+  <GuestStars>Reiko Aylesworth|Steven Culp|Billy Lush|Maureen Sebastian|Cotter Smith|Waleed Zuaiter|Mat Vairo</GuestStars>
+  <IMDB_ID>tt3634326</IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Overview>Truman, empowered with new authority from the President, launches a mustard gas attack designed to kill Miles and Monroe. To Rachel's disappointment, Miles agrees to join Monroe in a ruthless plot to beat the Patriots at their own game. As Neville faces his own challenge from the Patriots, Aaron grows increasingly alarmed by the power of the nanotech.</Overview>
+  <ProductionCode>2J7720</ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>42</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1394135816</lastupdated>
+  <Writer>Trey Callaway|Ryan Parrott</Writer>
+  <absolute_number>40</absolute_number>
+  <filename>episodes/258823/4817937.jpg</filename>
+  <lastupdated>1404240658</lastupdated>
   <seasonid>523094</seasonid>
   <seriesid>258823</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-05-08 09:39:33</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4823178</id>
+  <Combined_episodenumber>21</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>John F. Showalter</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Memorial Day</EpisodeName>
+  <EpisodeNumber>21</EpisodeNumber>
+  <FirstAired>2014-05-14</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3634324</IMDB_ID>
+  <Language>en</Language>
+  <Overview>United by their desire to take the Patriots down, Neville and Monroe form an uneasy alliance. As Rachel comes face-to-face with the nano-tech while searching for Aaron, things don't go according to plan for Miles, Charlie and Gene when they try to steal the Patriots' supply of mustard gas.</Overview>
+  <ProductionCode>2J7721</ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>40</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>David Rambo|Ben Edlund</Writer>
+  <absolute_number>41</absolute_number>
+  <filename>episodes/258823/4823178.jpg</filename>
+  <lastupdated>1404467090</lastupdated>
+  <seasonid>523094</seasonid>
+  <seriesid>258823</seriesid>
+  <thumb_added>2014-05-08 11:11:16</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4823179</id>
+  <Combined_episodenumber>22</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Charles Beeson</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Declaration of Independence</EpisodeName>
+  <EpisodeNumber>22</EpisodeNumber>
+  <FirstAired>2014-05-21</FirstAired>
+  <GuestStars>Cotter Smith|Maureen Sebastian</GuestStars>
+  <IMDB_ID>tt3634330</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Miles, Charlie and Monroe launch an attack on the Patriots, but must improvise a risky new plan in order to halt the oncoming war between California and Texas. Out for revenge, Neville sets his sights on President Davis. Meanwhile, Aaron and Rachel’s efforts to save Priscilla from the nano-tech has unexpected consequences.</Overview>
+  <ProductionCode>2J7722</ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>36</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Rockne S. O'Bannon|Paul Grellong</Writer>
+  <absolute_number>42</absolute_number>
+  <filename>episodes/258823/4823179.jpg</filename>
+  <lastupdated>1404467128</lastupdated>
+  <seasonid>523094</seasonid>
+  <seriesid>258823</seriesid>
+  <thumb_added>2014-05-22 11:54:01</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 </Data>

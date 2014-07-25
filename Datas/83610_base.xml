@@ -13,8 +13,8 @@
     <Network>FOX</Network>
     <NetworkID></NetworkID>
     <Overview>In the face of much criticism, an optimistic high school teacher challenges a group of outcasts to realize their potential in the school's glee club.</Overview>
-    <Rating>8.2</Rating>
-    <RatingCount>137</RatingCount>
+    <Rating>8.1</Rating>
+    <RatingCount>143</RatingCount>
     <Runtime>60</Runtime>
     <SeriesID>75988</SeriesID>
     <SeriesName>Glee</SeriesName>
@@ -23,8 +23,9 @@
     <addedBy>3071</addedBy>
     <banner>graphical/83610-g10.jpg</banner>
     <fanart>fanart/original/83610-46.jpg</fanart>
-    <lastupdated>1394341574</lastupdated>
-    <poster>posters/83610-26.jpg</poster>
+    <lastupdated>1404568675</lastupdated>
+    <poster>posters/83610-28.jpg</poster>
+    <tms_wanted_old>1</tms_wanted_old>
     <zap2it_id>EP01141389</zap2it_id>
   </Series>
 </Data>

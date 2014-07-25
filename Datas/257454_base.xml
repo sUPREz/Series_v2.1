@@ -5,7 +5,7 @@
     <Actors>|AnnaSophia Robb|Austin Butler|Ellen Wong|Lindsey Gort|Matt Letscher|Chloe Bridges|Stefania Owen|Freema Agyeman|Brendan Dooling|Katie Findlay|</Actors>
     <Airs_DayOfWeek>Friday</Airs_DayOfWeek>
     <Airs_Time>8:00 PM</Airs_Time>
-    <ContentRating></ContentRating>
+    <ContentRating>TV-14</ContentRating>
     <FirstAired>2013-01-14</FirstAired>
     <Genre>|Comedy|Drama|</Genre>
     <IMDB_ID>tt2056366</IMDB_ID>
@@ -13,18 +13,19 @@
     <Network>The CW</Network>
     <NetworkID></NetworkID>
     <Overview>Carrie Bradshaw is in her senior year of high school in the early 1980s. She asks her first questions about love, sex, friendship and family while navigating the worlds of high school and Manhattan.</Overview>
-    <Rating>6.8</Rating>
-    <RatingCount>5</RatingCount>
+    <Rating>6.5</Rating>
+    <RatingCount>8</RatingCount>
     <Runtime>60</Runtime>
     <SeriesID>158556</SeriesID>
     <SeriesName>The Carrie Diaries</SeriesName>
-    <Status>Continuing</Status>
+    <Status>Ended</Status>
     <added>2012-03-22 08:05:39</added>
     <addedBy>20821</addedBy>
-    <banner>graphical/257454-g.jpg</banner>
+    <banner>graphical/257454-g4.jpg</banner>
     <fanart>fanart/original/257454-7.jpg</fanart>
-    <lastupdated>1391374067</lastupdated>
+    <lastupdated>1405164764</lastupdated>
     <poster>posters/257454-2.jpg</poster>
+    <tms_wanted_old>1</tms_wanted_old>
     <zap2it_id></zap2it_id>
   </Series>
 </Data>

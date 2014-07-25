@@ -2,7 +2,7 @@
 <Data>
   <Series>
     <id>259063</id>
-    <Actors>|Mads Mikkelsen|Hugh Dancy|Caroline Dhavernas|Laurence Fishburne|Lara Jean Chorostecki |Kacey Rohl|Aaron Abrams|Hettienne Park|Scott Thompson|Gillian Anderson|</Actors>
+    <Actors>|Mads Mikkelsen|Hugh Dancy|Caroline Dhavernas|Laurence Fishburne|Michael Pitt|Katharine Isabelle|Anna Chlumsky|Eddie Izzard|Raúl Esparza|Vladimir Jon Cubrt|Lara Jean Chorostecki |Kacey Rohl|Aaron Abrams|Hettienne Park|Scott Thompson|Gillian Anderson|</Actors>
     <Airs_DayOfWeek>Friday</Airs_DayOfWeek>
     <Airs_Time>10:00 PM</Airs_Time>
     <ContentRating>TV-MA</ContentRating>
@@ -13,18 +13,19 @@
     <Network>NBC</Network>
     <NetworkID></NetworkID>
     <Overview>Explores the early relationship between the renowned psychiatrist and his patient, a young FBI criminal profiler, who is haunted by his ability to empathize with serial killers. </Overview>
-    <Rating>8.3</Rating>
-    <RatingCount>56</RatingCount>
+    <Rating>8.5</Rating>
+    <RatingCount>78</RatingCount>
     <Runtime>45</Runtime>
     <SeriesID>158551</SeriesID>
     <SeriesName>Hannibal</SeriesName>
     <Status>Continuing</Status>
     <added>2012-05-15 12:40:31</added>
     <addedBy>20821</addedBy>
-    <banner>graphical/259063-g9.jpg</banner>
-    <fanart>fanart/original/259063-21.jpg</fanart>
-    <lastupdated>1394333341</lastupdated>
-    <poster>posters/259063-6.jpg</poster>
+    <banner>graphical/259063-g8.jpg</banner>
+    <fanart>fanart/original/259063-18.jpg</fanart>
+    <lastupdated>1405879621</lastupdated>
+    <poster>posters/259063-20.jpg</poster>
+    <tms_wanted_old>1</tms_wanted_old>
     <zap2it_id>EP01567935</zap2it_id>
   </Series>
 </Data>

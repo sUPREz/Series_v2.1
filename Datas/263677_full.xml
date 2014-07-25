@@ -12,8 +12,8 @@
   <Network>Canal+</Network>
   <NetworkID></NetworkID>
   <Overview>In the shadow of an enormous hydraulic dam, the lives of the residents of a small French town are changed to their core when hundreds of previously dead relatives all return home on the same day.</Overview>
-  <Rating>8.8</Rating>
-  <RatingCount>12</RatingCount>
+  <Rating>8.2</Rating>
+  <RatingCount>16</RatingCount>
   <Runtime>50</Runtime>
   <SeriesID>185318</SeriesID>
   <SeriesName>The Returned</SeriesName>
@@ -21,9 +21,10 @@
   <added>2012-10-28 06:51:38</added>
   <addedBy>372886</addedBy>
   <banner>graphical/263677-g6.jpg</banner>
-  <fanart>fanart/original/263677-15.jpg</fanart>
-  <lastupdated>1394057256</lastupdated>
-  <poster>posters/263677-6.jpg</poster>
+  <fanart>fanart/original/263677-3.jpg</fanart>
+  <lastupdated>1403613851</lastupdated>
+  <poster>posters/263677-8.jpg</poster>
+  <tms_wanted_old>0</tms_wanted_old>
   <zap2it_id>EP01789939</zap2it_id>
 </Series>
 <Episode>
@@ -73,8 +74,8 @@
   <EpisodeName>Camille</EpisodeName>
   <EpisodeNumber>1</EpisodeNumber>
   <FirstAired>2012-11-26</FirstAired>
-  <GuestStars>|Anne Consigny|Frédéric Pierrot|Clotilde Hesme|</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <GuestStars>Anne Consigny|Frédéric Pierrot|Clotilde Hesme</GuestStars>
+  <IMDB_ID>tt2550114</IMDB_ID>
   <Language>en</Language>
   <Overview>In a small mountain community, two local people - Camille, a teenager, and Simon - who both died years earlier, suddenly re-appear at their homes. They have not aged, and they are completely unaware of their own deaths.
 
@@ -88,10 +89,10 @@ Seven years ago, the town was struck by a series of bloody murders. Now it seems
   <Rating>7.9</Rating>
   <RatingCount>19</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>Fabrice Gobert</Writer>
+  <Writer>Emmanuel Carrère|Fabrice Gobert|Nicolas Peufaillit</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/263677/4427562.jpg</filename>
-  <lastupdated>1393796100</lastupdated>
+  <lastupdated>1397252382</lastupdated>
   <seasonid>504229</seasonid>
   <seriesid>263677</seriesid>
   <thumb_added></thumb_added>
@@ -111,8 +112,8 @@ Seven years ago, the town was struck by a series of bloody murders. Now it seems
   <EpisodeName>Simon</EpisodeName>
   <EpisodeNumber>2</EpisodeNumber>
   <FirstAired>2012-11-26</FirstAired>
-  <GuestStars>|Anne Consigny|Frédéric Pierrot|Clotilde Hesme|</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <GuestStars>Anne Consigny|Frédéric Pierrot|Clotilde Hesme</GuestStars>
+  <IMDB_ID>tt2550130</IMDB_ID>
   <Language>en</Language>
   <Overview>Simon approaches Adèle, but Thomas finds out about his 'return'. In the meantime, Camille is unable to fit back into her family again.
 
@@ -120,13 +121,13 @@ Her mother Claire and father Jérome separated after her death, and now Claire i
 
 Strange happenings seem to suggest that Camille and Simon may not be the only ones to have been brought back...</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>13</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>14</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>Fabrice Gobert</Writer>
+  <Writer>Emmanuel Carrère|Fabrice Gobert|Nicolas Peufaillit</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/263677/4439679.jpg</filename>
-  <lastupdated>1393796551</lastupdated>
+  <lastupdated>1397252401</lastupdated>
   <seasonid>504229</seasonid>
   <seriesid>263677</seriesid>
   <thumb_added></thumb_added>
@@ -146,8 +147,8 @@ Strange happenings seem to suggest that Camille and Simon may not be the only on
   <EpisodeName>Julie</EpisodeName>
   <EpisodeNumber>3</EpisodeNumber>
   <FirstAired>2012-12-03</FirstAired>
-  <GuestStars>|Anne Consigny|Frédéric Pierrot|Clotilde Hesme|</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <GuestStars>Anne Consigny|Frédéric Pierrot|Clotilde Hesme</GuestStars>
+  <IMDB_ID>tt2550120</IMDB_ID>
   <Language>en</Language>
   <Overview>Determined to come out of hiding and return to something resembling normal life, Camille invents a new identity for herself as 'cousin Alice'. Her sister Léna finds a strange, fast-spreading scar on her own body.
 
@@ -158,10 +159,10 @@ Julie's very dark past resurfaces and threatens to destroy her completely, but s
   <Rating>8.0</Rating>
   <RatingCount>15</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>Fabrice Gobert</Writer>
+  <Writer>Emmanuel Carrère|Fabrice Gobert</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/263677/4439684.jpg</filename>
-  <lastupdated>1393802400</lastupdated>
+  <lastupdated>1397252416</lastupdated>
   <seasonid>504229</seasonid>
   <seriesid>263677</seriesid>
   <thumb_added></thumb_added>
@@ -181,8 +182,8 @@ Julie's very dark past resurfaces and threatens to destroy her completely, but s
   <EpisodeName>Victor</EpisodeName>
   <EpisodeNumber>4</EpisodeNumber>
   <FirstAired>2012-12-03</FirstAired>
-  <GuestStars>|Anne Consigny|Frédéric Pierrot|Clotilde Hesme|</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <GuestStars>Anne Consigny|Frédéric Pierrot|Clotilde Hesme</GuestStars>
+  <IMDB_ID>tt2550118</IMDB_ID>
   <Language>en</Language>
   <Overview>Camille's new identity as Alice is going well, but Léna's scar is growing and seemingly draining her of energy. Léna is convinced that Camille is behind it and publicly denounces her to their friends.
 
@@ -191,12 +192,12 @@ Julie can no longer keep Victor under wraps and the police take him away. She do
 Adèle gets back with Simon and introduces him to their daughter, Chloe... but then discovers the true circumstances surrounding his death.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>11</RatingCount>
+  <RatingCount>12</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>Fabrice Gobert</Writer>
+  <Writer>Emmanuel Carrère|Fabrice Gobert</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/263677/4439685.jpg</filename>
-  <lastupdated>1394057256</lastupdated>
+  <lastupdated>1397252431</lastupdated>
   <seasonid>504229</seasonid>
   <seriesid>263677</seriesid>
   <thumb_added></thumb_added>
@@ -216,8 +217,8 @@ Adèle gets back with Simon and introduces him to their daughter, Chloe... but t
   <EpisodeName>Serge and Toni</EpisodeName>
   <EpisodeNumber>5</EpisodeNumber>
   <FirstAired>2012-12-10</FirstAired>
-  <GuestStars>|Anne Consigny|Frédéric Pierrot|Clotilde Hesme|</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <GuestStars>Anne Consigny|Frédéric Pierrot|Clotilde Hesme</GuestStars>
+  <IMDB_ID>tt2550122</IMDB_ID>
   <Language>en</Language>
   <Overview>The dead gradually come out into the open but are unable to resume their normal lives.
 
@@ -228,12 +229,12 @@ Victor wanders around, looking for his murderer, while Julie begins to have doub
 Léna is nursed by the serial killer as he strives to keep his murderous impulses under control.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>11</RatingCount>
+  <RatingCount>12</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>Fabrice Gobert</Writer>
+  <Writer>Fabien Adda|Emmanuel Carrère|Fabrice Gobert</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/263677/4443166.jpg</filename>
-  <lastupdated>1393802992</lastupdated>
+  <lastupdated>1397252449</lastupdated>
   <seasonid>504229</seasonid>
   <seriesid>263677</seriesid>
   <thumb_added></thumb_added>
@@ -254,19 +255,19 @@ Léna is nursed by the serial killer as he strives to keep his murderous impulse
   <EpisodeNumber>6</EpisodeNumber>
   <FirstAired>2012-12-10</FirstAired>
   <GuestStars>|Anne Consigny|Frédéric Pierrot|Clotilde Hesme|</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt2550128</IMDB_ID>
   <Language>en</Language>
   <Overview>The town is affected by a power cut. Pierre forms a community around Camille, who is now regarded as a kind of 'prophet'.
 
 Julie finds refuge at Laure's house with Victor, whose body is undergoing a strange transformation. Meanwhile, Léna grows closer to Serge but has to escape back to the town.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>11</RatingCount>
+  <RatingCount>12</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>Fabrice Gobert</Writer>
+  <Writer>Fabien Adda|Camille Fontaine|Fabrice Gobert|Nathalie Saugeon</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/263677/4443167.jpg</filename>
-  <lastupdated>1393803164</lastupdated>
+  <lastupdated>1397252466</lastupdated>
   <seasonid>504229</seasonid>
   <seriesid>263677</seriesid>
   <thumb_added></thumb_added>
@@ -287,7 +288,7 @@ Julie finds refuge at Laure's house with Victor, whose body is undergoing a stra
   <EpisodeNumber>7</EpisodeNumber>
   <FirstAired>2012-12-17</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt2553666</IMDB_ID>
   <Language>en</Language>
   <Overview>Camille finds purpose when she decides to invent images of an afterlife to comfort her friend's parents, but is distraught when they commit suicide in the hopes of meeting their son sooner. 
 
@@ -296,12 +297,12 @@ Pierre shows Claire his shelter stocked with food and firearms, believing that t
 Serge and Toni attempt to track Lena, and Toni glimpses his deceased mother in the forest. While trying to cross the lake by swimming, Serge disappears under the water.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>13</RatingCount>
+  <RatingCount>14</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>|Fabrice Gobert|Fabien Adda|</Writer>
+  <Writer>Fabrice Gobert|Fabien Adda</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/263677/4444327.jpg</filename>
-  <lastupdated>1393803527</lastupdated>
+  <lastupdated>1399916911</lastupdated>
   <seasonid>504229</seasonid>
   <seriesid>263677</seriesid>
   <thumb_added></thumb_added>
@@ -316,25 +317,25 @@ Serge and Toni attempt to track Lena, and Toni glimpses his deceased mother in t
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director>|Frederic Mermoud|Fabrice Gobert|</Director>
+  <Director>Frederic Mermoud|Fabrice Gobert</Director>
   <EpImgFlag>3</EpImgFlag>
   <EpisodeName>The Horde</EpisodeName>
   <EpisodeNumber>8</EpisodeNumber>
   <FirstAired>2012-12-17</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt2553670</IMDB_ID>
   <Language>en</Language>
   <Overview>A flashback to the date of Camille's reappearance at the dam shows many Revenants also appearing at the same time. Waking in their car, Victor tells Julie and Laure that a group of Revenants tried to take him from the car in the middle of the night. 
 
 On their way to the shelter, Victor discovers that Toni killed his brother, in turn causing his mother's death, and uses his ability to create visions to make Toni shoot himself in the stomach; he dies shortly after arrival. Simon breaks free from his jail cell and kidnaps his daughter, Chloé. Thomas arrives at the shelter, and the group realise that there are other Revenants, and that they are coming for them.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>10</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>11</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>|Fabrice Gobert|Fabien Adda|</Writer>
+  <Writer>Fabrice Gobert|Fabien Adda</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/263677/4444328.jpg</filename>
-  <lastupdated>1393803883</lastupdated>
+  <lastupdated>1399916929</lastupdated>
   <seasonid>504229</seasonid>
   <seriesid>263677</seriesid>
   <thumb_added></thumb_added>

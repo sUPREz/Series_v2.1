@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Data><Series>
   <id>262980</id>
-  <Actors>|Kevin Spacey|Robin Wright|Kate Mara|Sandrine Holt|Mahershala Ali|Boris McGiver|Michel Gill|Sebastian Arcelus|Constance Zimmer|Kristen Connolly|Sakina Jaffrey|Michael Kelly|Corey Stoll|</Actors>
+  <Actors>|Kevin Spacey|Robin Wright|Kate Mara|Ben Daniels|Sandrine Holt|Mahershala Ali|Boris McGiver|Michel Gill|Sebastian Arcelus|Constance Zimmer|Kristen Connolly|Sakina Jaffrey|Michael Kelly|Corey Stoll|</Actors>
   <Airs_DayOfWeek>Friday</Airs_DayOfWeek>
   <Airs_Time>12:01 AM</Airs_Time>
   <ContentRating>TV-MA</ContentRating>
@@ -13,20 +13,123 @@
   <NetworkID></NetworkID>
   <Overview>House of Cards is an American political drama series developed and produced by Beau Willimon. It is an adaptation of a previous BBC miniseries of the same name which is based on the novel by Michael Dobbs.
 Set in present day Washington, D.C., House of Cards is the story of Frank Underwood (Kevin Spacey), a Democrat from South Carolina's 5th congressional district and the House Majority Whip, who, after getting passed over for promotion to Secretary of State, decides to exact his revenge on those who betrayed him. The series also stars Robin Wright, Kate Mara and Corey Stoll in lead roles.</Overview>
-  <Rating>9.1</Rating>
-  <RatingCount>58</RatingCount>
-  <Runtime>50</Runtime>
+  <Rating>9.0</Rating>
+  <RatingCount>77</RatingCount>
+  <Runtime>60</Runtime>
   <SeriesID>81065</SeriesID>
   <SeriesName>House of Cards (US)</SeriesName>
   <Status>Continuing</Status>
   <added>2012-10-04 16:08:09</added>
   <addedBy>79791</addedBy>
-  <banner>graphical/262980-g5.jpg</banner>
-  <fanart>fanart/original/262980-5.jpg</fanart>
-  <lastupdated>1394353138</lastupdated>
-  <poster>posters/262980-5.jpg</poster>
+  <banner>graphical/262980-g4.jpg</banner>
+  <fanart>fanart/original/262980-2.jpg</fanart>
+  <lastupdated>1405865645</lastupdated>
+  <poster>posters/262980-3.jpg</poster>
+  <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>EP01676454</zap2it_id>
 </Series>
+<Episode>
+  <id>4850977</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Chapter 28</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1396985264</lastupdated>
+  <seasonid>582144</seasonid>
+  <seriesid>262980</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4850978</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Chapter 29</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1396985275</lastupdated>
+  <seasonid>582144</seasonid>
+  <seriesid>262980</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4850979</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Chapter 30</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1396985281</lastupdated>
+  <seasonid>582144</seasonid>
+  <seriesid>262980</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
 <Episode>
   <id>4411361</id>
   <Combined_episodenumber>1.0</Combined_episodenumber>
@@ -46,12 +149,12 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <Overview>When the newly elected President reneges on a promise, Francis and Claire decide to sever all allegiances and toss the rules out the window.</Overview>
   <ProductionCode>HOC-101</ProductionCode>
   <Rating>8.1</Rating>
-  <RatingCount>90</RatingCount>
+  <RatingCount>102</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Beau Willimon</Writer>
   <absolute_number>1</absolute_number>
   <filename>episodes/262980/4411361.jpg</filename>
-  <lastupdated>1391323093</lastupdated>
+  <lastupdated>1399902172</lastupdated>
   <seasonid>502436</seasonid>
   <seriesid>262980</seriesid>
   <thumb_added></thumb_added>
@@ -77,12 +180,12 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <Overview>Francis and Doug plan to frame Secretary of State nominee, Michael Kern. Meanwhile, Zoe's popularity at the Washington Herald continues to grow.</Overview>
   <ProductionCode>HOC-102</ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>86</RatingCount>
+  <RatingCount>97</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Beau Willimon</Writer>
   <absolute_number>2</absolute_number>
   <filename>episodes/262980/4481708.jpg</filename>
-  <lastupdated>1391323106</lastupdated>
+  <lastupdated>1399902186</lastupdated>
   <seasonid>502436</seasonid>
   <seriesid>262980</seriesid>
   <thumb_added></thumb_added>
@@ -108,12 +211,12 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <Overview>Francis heads for his hometown to deal with a crisis. Zoe negotiates the politics of being a journalist on the rise. Claire finds herself a new business partner.</Overview>
   <ProductionCode>HOC-103</ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>73</RatingCount>
+  <RatingCount>85</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Keith Huff|Beau Willimon</Writer>
   <absolute_number>3</absolute_number>
   <filename>episodes/262980/4481709.jpg</filename>
-  <lastupdated>1391323275</lastupdated>
+  <lastupdated>1399902201</lastupdated>
   <seasonid>502436</seasonid>
   <seriesid>262980</seriesid>
   <thumb_added></thumb_added>
@@ -139,12 +242,12 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <Overview>Francis shakes down the Congressional leadership. Zoe is offered the promotion of White House Correspondent and doesn't know if she should take it or not.</Overview>
   <ProductionCode>HOC-104</ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>77</RatingCount>
+  <RatingCount>91</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Rick Cleveland|Beau Willimon</Writer>
   <absolute_number>4</absolute_number>
   <filename>episodes/262980/4481710.jpg</filename>
-  <lastupdated>1391809342</lastupdated>
+  <lastupdated>1399902217</lastupdated>
   <seasonid>502436</seasonid>
   <seriesid>262980</seriesid>
   <thumb_added></thumb_added>
@@ -170,12 +273,12 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <Overview>A feud starts between Francis and Marty Spinella. Russo goes into depression about the job losses at the shipyards.</Overview>
   <ProductionCode>HOC-105</ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>71</RatingCount>
+  <RatingCount>87</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Sarah Treem</Writer>
   <absolute_number>5</absolute_number>
   <filename>episodes/262980/4481711.jpg</filename>
-  <lastupdated>1391809805</lastupdated>
+  <lastupdated>1399902230</lastupdated>
   <seasonid>502436</seasonid>
   <seriesid>262980</seriesid>
   <thumb_added></thumb_added>
@@ -200,13 +303,13 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <Language>en</Language>
   <Overview>The strike between Frank and Marty starts to get out of hand. Russo has decided to run for Governor of Pennsylvania.</Overview>
   <ProductionCode>HOC-106</ProductionCode>
-  <Rating>7.9</Rating>
-  <RatingCount>71</RatingCount>
+  <Rating>8.0</Rating>
+  <RatingCount>81</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Sam Forman</Writer>
   <absolute_number>6</absolute_number>
   <filename>episodes/262980/4481712.jpg</filename>
-  <lastupdated>1391809878</lastupdated>
+  <lastupdated>1399902245</lastupdated>
   <seasonid>502436</seasonid>
   <seriesid>262980</seriesid>
   <thumb_added></thumb_added>
@@ -231,13 +334,13 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <Language>en</Language>
   <Overview>Frank helps Peter get ready for his governor race, but Peter is starting to have second thoughts. Doug tries to help a young hooker in trouble.</Overview>
   <ProductionCode>HOC-107</ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>71</RatingCount>
+  <Rating>7.9</Rating>
+  <RatingCount>84</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Kate Barnow|Beau Willimon</Writer>
   <absolute_number>7</absolute_number>
   <filename>episodes/262980/4481713.jpg</filename>
-  <lastupdated>1391809963</lastupdated>
+  <lastupdated>1399902259</lastupdated>
   <seasonid>502436</seasonid>
   <seriesid>262980</seriesid>
   <thumb_added></thumb_added>
@@ -262,13 +365,13 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <Language>en</Language>
   <Overview>Frank has a library named after him at his old military school. Peter tries to win back the support of his hometown.</Overview>
   <ProductionCode>HOC-108</ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>68</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>82</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Beau Willimon</Writer>
   <absolute_number>8</absolute_number>
   <filename>episodes/262980/4481714.jpg</filename>
-  <lastupdated>1391810031</lastupdated>
+  <lastupdated>1399902274</lastupdated>
   <seasonid>502436</seasonid>
   <seriesid>262980</seriesid>
   <thumb_added></thumb_added>
@@ -293,13 +396,13 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <Language>en</Language>
   <Overview>Frank tries to do whatever it takes to get the new bill passed congress. Russo goes on a bus campaign with the Vice President, but the VP is not making it an easy trip for him. Zoe's relationship with Frank gets a little bumpy.</Overview>
   <ProductionCode>HOC-109</ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>57</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>70</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Rick Cleveland|Beau Willimon</Writer>
   <absolute_number>9</absolute_number>
   <filename>episodes/262980/4481715.jpg</filename>
-  <lastupdated>1391323837</lastupdated>
+  <lastupdated>1399902289</lastupdated>
   <seasonid>502436</seasonid>
   <seriesid>262980</seriesid>
   <thumb_added></thumb_added>
@@ -325,12 +428,12 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <Overview>Claire fuels an old flame. Peter wrestles with his demons. Francis crosses the point of no return.</Overview>
   <ProductionCode>HOC-110</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>62</RatingCount>
+  <RatingCount>78</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Sarah Treem</Writer>
   <absolute_number>10</absolute_number>
   <filename>episodes/262980/4481716.jpg</filename>
-  <lastupdated>1391323960</lastupdated>
+  <lastupdated>1399902302</lastupdated>
   <seasonid>502436</seasonid>
   <seriesid>262980</seriesid>
   <thumb_added></thumb_added>
@@ -356,12 +459,12 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <Overview>Zoe extends her time away from The Hill while Francis tracks down Russo and engages in damage control. </Overview>
   <ProductionCode>HOC-111</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>61</RatingCount>
+  <RatingCount>76</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Keith Huff|Kate Barnow|Beau Willimon</Writer>
   <absolute_number>11</absolute_number>
   <filename>episodes/262980/4481717.jpg</filename>
-  <lastupdated>1391324019</lastupdated>
+  <lastupdated>1399902319</lastupdated>
   <seasonid>502436</seasonid>
   <seriesid>262980</seriesid>
   <thumb_added></thumb_added>
@@ -386,13 +489,13 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <Language>en</Language>
   <Overview>The President sends Frank to St. Louis to persuade Raymond Tusk into becoming the new Vice President. Zoe and Janine investigate Peter Russo's death.</Overview>
   <ProductionCode>HOC-112</ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>55</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>67</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Gina Gionfriddo|Beau Willimon</Writer>
   <absolute_number>12</absolute_number>
   <filename>episodes/262980/4481718.jpg</filename>
-  <lastupdated>1391324087</lastupdated>
+  <lastupdated>1399902336</lastupdated>
   <seasonid>502436</seasonid>
   <seriesid>262980</seriesid>
   <thumb_added></thumb_added>
@@ -417,13 +520,13 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <Language>en</Language>
   <Overview>Frank scrambles to keep his plan on track. Gillian is planning to sue Claire. Zoe, Janine, and Lucas investigate Rachel Posner and her relationship with Peter Russo.</Overview>
   <ProductionCode>HOC-113</ProductionCode>
-  <Rating>7.9</Rating>
-  <RatingCount>54</RatingCount>
+  <Rating>8.0</Rating>
+  <RatingCount>70</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Beau Willimon</Writer>
   <absolute_number>13</absolute_number>
   <filename>episodes/262980/4481719.jpg</filename>
-  <lastupdated>1391324139</lastupdated>
+  <lastupdated>1399902351</lastupdated>
   <seasonid>502436</seasonid>
   <seriesid>262980</seriesid>
   <thumb_added></thumb_added>
@@ -444,17 +547,17 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <EpisodeNumber>1</EpisodeNumber>
   <FirstAired>2014-02-14</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt2811510</IMDB_ID>
   <Language>en</Language>
   <Overview>The Underwoods tackle two threats that could bring their plans to ruin. Francis grooms his replacement as Whip. Claire goes on the offensive.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>8.1</Rating>
-  <RatingCount>33</RatingCount>
+  <Rating>8.0</Rating>
+  <RatingCount>56</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Beau Willimon</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/262980/4549213.jpg</filename>
-  <lastupdated>1394210841</lastupdated>
+  <lastupdated>1399631602</lastupdated>
   <seasonid>517715</seasonid>
   <seriesid>262980</seriesid>
   <thumb_added>2014-02-14 14:32:35</thumb_added>
@@ -475,17 +578,17 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <EpisodeNumber>2</EpisodeNumber>
   <FirstAired>2014-02-14</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt3221190</IMDB_ID>
   <Language>en</Language>
   <Overview>Amid turmoil in the home, Frank takes office. Foreign relations become entangled as Durant's team bungles a meeting. As foes negotiate to thwart her, Jackie maneuvers to strengthen her position. Lucas acquires new skills in order to pursue his secret investigation. </Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>29</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>58</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Beau Willimon</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/262980/4741188.jpg</filename>
-  <lastupdated>1394210858</lastupdated>
+  <lastupdated>1399631622</lastupdated>
   <seasonid>517715</seasonid>
   <seriesid>262980</seriesid>
   <thumb_added>2014-02-15 05:07:28</thumb_added>
@@ -506,17 +609,17 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <EpisodeNumber>3</EpisodeNumber>
   <FirstAired>2014-02-14</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt2990016</IMDB_ID>
   <Language>en</Language>
   <Overview>Tension rises between Francis and Raymond Tusk as the situation with China deteriorates. A battle in the Senate pits Francis against the Republicans.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>28</RatingCount>
+  <RatingCount>53</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Bill Cain</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/262980/4741189.jpg</filename>
-  <lastupdated>1394210871</lastupdated>
+  <lastupdated>1399631708</lastupdated>
   <seasonid>517715</seasonid>
   <seriesid>262980</seriesid>
   <thumb_added>2014-02-15 16:40:39</thumb_added>
@@ -537,17 +640,17 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <EpisodeNumber>4</EpisodeNumber>
   <FirstAired>2014-02-14</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt3001906</IMDB_ID>
   <Language>en</Language>
   <Overview>A terror scare at the Capitol traps Francis with a resentful Donald Blythe. Claire gives a live interview that rocks the media.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>23</RatingCount>
+  <RatingCount>48</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Laura Eason</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/262980/4741190.jpg</filename>
-  <lastupdated>1394210883</lastupdated>
+  <lastupdated>1399631733</lastupdated>
   <seasonid>517715</seasonid>
   <seriesid>262980</seriesid>
   <thumb_added>2014-02-15 16:44:07</thumb_added>
@@ -568,17 +671,17 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <EpisodeNumber>5</EpisodeNumber>
   <FirstAired>2014-02-14</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt3001926</IMDB_ID>
   <Language>en</Language>
   <Overview>Francis back-channels with a Chinese billionaire. Lucas uses extreme measures to expose the Vice President. A shadowy figure joins Team Underwood.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>26</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>50</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Kenneth Lin</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/262980/4741191.jpg</filename>
-  <lastupdated>1394210902</lastupdated>
+  <lastupdated>1399631749</lastupdated>
   <seasonid>517715</seasonid>
   <seriesid>262980</seriesid>
   <thumb_added>2014-02-15 16:46:38</thumb_added>
@@ -599,17 +702,17 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <EpisodeNumber>6</EpisodeNumber>
   <FirstAired>2014-02-14</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt3221232</IMDB_ID>
   <Language>en</Language>
   <Overview>Amidst an energy crisis, Francis and Tusk end their shaky alliance. Lucas must make a difficult choice. Stamper grows closer to Rachel.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.3</Rating>
-  <RatingCount>23</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>49</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>John Mankiewicz</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/262980/4741192.jpg</filename>
-  <lastupdated>1393886128</lastupdated>
+  <lastupdated>1399631766</lastupdated>
   <seasonid>517715</seasonid>
   <seriesid>262980</seriesid>
   <thumb_added>2014-02-15 16:50:24</thumb_added>
@@ -630,17 +733,17 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <EpisodeNumber>7</EpisodeNumber>
   <FirstAired>2014-02-14</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt3147682</IMDB_ID>
   <Language>en</Language>
   <Overview>Despite some friction, the Walkers deepen their friendship with the Underwoods. But it's all-out war between Francis and Tusk.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.1</Rating>
-  <RatingCount>18</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>46</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>David Manson</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/262980/4741193.jpg</filename>
-  <lastupdated>1393886141</lastupdated>
+  <lastupdated>1399631788</lastupdated>
   <seasonid>517715</seasonid>
   <seriesid>262980</seriesid>
   <thumb_added>2014-02-15 16:53:50</thumb_added>
@@ -661,17 +764,17 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <EpisodeNumber>8</EpisodeNumber>
   <FirstAired>2014-02-14</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt3147690</IMDB_ID>
   <Language>en</Language>
   <Overview>The war with Tusk intensifies. Claire influences Tricia Walker politically and domestically. Francis has a show-down with Linda Vasquez.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>19</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>53</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Bill Kennedy</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/262980/4741194.jpg</filename>
-  <lastupdated>1393886150</lastupdated>
+  <lastupdated>1399631809</lastupdated>
   <seasonid>517715</seasonid>
   <seriesid>262980</seriesid>
   <thumb_added>2014-02-15 16:56:28</thumb_added>
@@ -692,17 +795,17 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <EpisodeNumber>9</EpisodeNumber>
   <FirstAired>2014-02-14</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt3186026</IMDB_ID>
   <Language>en</Language>
   <Overview>Things get personal when Tusk blindsides the Underwoods with a scandal. Freddy and his BBQ joint get caught up in the mix.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>18</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>50</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Beau Willimon</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/262980/4741195.jpg</filename>
-  <lastupdated>1393886159</lastupdated>
+  <lastupdated>1399631828</lastupdated>
   <seasonid>517715</seasonid>
   <seriesid>262980</seriesid>
   <thumb_added>2014-02-15 16:58:42</thumb_added>
@@ -723,17 +826,17 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <EpisodeNumber>10</EpisodeNumber>
   <FirstAired>2014-02-14</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt3221270</IMDB_ID>
   <Language>en</Language>
   <Overview>With a military stand-off overseas and potential violence at home, Francis wants to finish off Tusk for good. Claire and Jackie Sharp collide.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>12</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>41</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Laura Eason|Beau Willimon</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/262980/4741196.jpg</filename>
-  <lastupdated>1393886168</lastupdated>
+  <lastupdated>1399631850</lastupdated>
   <seasonid>517715</seasonid>
   <seriesid>262980</seriesid>
   <thumb_added>2014-02-15 17:01:13</thumb_added>
@@ -754,17 +857,17 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <EpisodeNumber>11</EpisodeNumber>
   <FirstAired>2014-02-14</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt3297502</IMDB_ID>
   <Language>en</Language>
   <Overview>A Special Prosecutor interrogates Francis. Remy Danton tries to keep his options open. Stamper wrestles with his demons.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>11</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>42</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>John Mankiewicz|Beau Willimon</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/262980/4741197.jpg</filename>
-  <lastupdated>1393886179</lastupdated>
+  <lastupdated>1402406867</lastupdated>
   <seasonid>517715</seasonid>
   <seriesid>262980</seriesid>
   <thumb_added>2014-02-15 17:02:44</thumb_added>
@@ -785,17 +888,17 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <EpisodeNumber>12</EpisodeNumber>
   <FirstAired>2014-02-14</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt3326204</IMDB_ID>
   <Language>en</Language>
   <Overview>Francis finds himself shut out and Claire makes a difficult sacrifice. Stamper tries to regain control.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>11</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>46</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Beau Willimon</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/262980/4741198.jpg</filename>
-  <lastupdated>1393886189</lastupdated>
+  <lastupdated>1402406876</lastupdated>
   <seasonid>517715</seasonid>
   <seriesid>262980</seriesid>
   <thumb_added>2014-02-15 17:04:59</thumb_added>
@@ -816,17 +919,17 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <EpisodeNumber>13</EpisodeNumber>
   <FirstAired>2014-02-14</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt3326208</IMDB_ID>
   <Language>en</Language>
   <Overview>Francis faces annihilation while the nation is in an uproar. Stamper must tie up loose ends. Claire feels the cost of ruthlessness.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>8.1</Rating>
-  <RatingCount>14</RatingCount>
+  <Rating>8.0</Rating>
+  <RatingCount>47</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Beau Willimon</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/262980/4741199.jpg</filename>
-  <lastupdated>1393886198</lastupdated>
+  <lastupdated>1402406896</lastupdated>
   <seasonid>517715</seasonid>
   <seriesid>262980</seriesid>
   <thumb_added>2014-02-15 17:08:43</thumb_added>

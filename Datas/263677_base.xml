@@ -13,8 +13,8 @@
     <Network>Canal+</Network>
     <NetworkID></NetworkID>
     <Overview>In the shadow of an enormous hydraulic dam, the lives of the residents of a small French town are changed to their core when hundreds of previously dead relatives all return home on the same day.</Overview>
-    <Rating>8.8</Rating>
-    <RatingCount>12</RatingCount>
+    <Rating>8.2</Rating>
+    <RatingCount>16</RatingCount>
     <Runtime>50</Runtime>
     <SeriesID>185318</SeriesID>
     <SeriesName>The Returned</SeriesName>
@@ -22,9 +22,10 @@
     <added>2012-10-28 06:51:38</added>
     <addedBy>372886</addedBy>
     <banner>graphical/263677-g6.jpg</banner>
-    <fanart>fanart/original/263677-15.jpg</fanart>
-    <lastupdated>1394057256</lastupdated>
-    <poster>posters/263677-6.jpg</poster>
+    <fanart>fanart/original/263677-3.jpg</fanart>
+    <lastupdated>1403613851</lastupdated>
+    <poster>posters/263677-8.jpg</poster>
+    <tms_wanted_old>0</tms_wanted_old>
     <zap2it_id>EP01789939</zap2it_id>
   </Series>
 </Data>

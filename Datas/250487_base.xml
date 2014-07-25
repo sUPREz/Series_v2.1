@@ -13,18 +13,19 @@
     <Network>FX</Network>
     <NetworkID></NetworkID>
     <Overview>American Horror Story is a horror-drama television franchise created and produced by Ryan Murphy and Brad Falchuk. Described as an anthology series, each season is conceived as a self-contained miniseries, following a disparate set of characters and settings, and a storyline with its own &quot;beginning, middle and end&quot;.</Overview>
-    <Rating>8.4</Rating>
-    <RatingCount>105</RatingCount>
+    <Rating>8.5</Rating>
+    <RatingCount>112</RatingCount>
     <Runtime>60</Runtime>
     <SeriesID>81011</SeriesID>
     <SeriesName>American Horror Story</SeriesName>
     <Status>Continuing</Status>
     <added>2011-07-26 07:19:34</added>
     <addedBy>346503</addedBy>
-    <banner>graphical/250487-g12.jpg</banner>
+    <banner>graphical/250487-g4.jpg</banner>
     <fanart>fanart/original/250487-33.jpg</fanart>
-    <lastupdated>1394329735</lastupdated>
+    <lastupdated>1405556444</lastupdated>
     <poster>posters/250487-10.jpg</poster>
+    <tms_wanted_old>1</tms_wanted_old>
     <zap2it_id>SH01466178</zap2it_id>
   </Series>
 </Data>

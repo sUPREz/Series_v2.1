@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Data><Series>
   <id>95451</id>
-  <Actors>|Julianna Margulies|Archie Panjabi|Josh Charles|Michael J. Fox|Martha Plimpton|Carrie Preston|Titus Welliver|Mary Beth Peil|Graham Phillips|Makenzie Vega|Alan Cumming|Matt Czuchry|Christine Baranski|Chris Noth|</Actors>
+  <Actors>|Julianna Margulies|Archie Panjabi|Josh Charles|Matthew Goode|Mary Beth Peil|Graham Phillips|Makenzie Vega|Alan Cumming|Matt Czuchry|Christine Baranski|Chris Noth|Zach Grenier|</Actors>
   <Airs_DayOfWeek>Sunday</Airs_DayOfWeek>
   <Airs_Time>9:00 PM</Airs_Time>
   <ContentRating>TV-14</ContentRating>
@@ -12,8 +12,8 @@
   <Network>CBS</Network>
   <NetworkID></NetworkID>
   <Overview>The Good Wife is a drama starring Emmy Award winner Julianna Margulies as a wife and mother who must assume full responsibility for her family and re-enter the workforce after her husband's very public sex and political corruption scandal lands him in jail.</Overview>
-  <Rating>8.7</Rating>
-  <RatingCount>94</RatingCount>
+  <Rating>8.6</Rating>
+  <RatingCount>99</RatingCount>
   <Runtime>60</Runtime>
   <SeriesID>76761</SeriesID>
   <SeriesName>The Good Wife</SeriesName>
@@ -21,9 +21,10 @@
   <added>2009-05-22 03:03:24</added>
   <addedBy>5664</addedBy>
   <banner>graphical/95451-g10.jpg</banner>
-  <fanart>fanart/original/95451-22.jpg</fanart>
-  <lastupdated>1394250291</lastupdated>
-  <poster>posters/95451-10.jpg</poster>
+  <fanart>fanart/original/95451-23.jpg</fanart>
+  <lastupdated>1405598038</lastupdated>
+  <poster>posters/95451-8.jpg</poster>
+  <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>EP01158384</zap2it_id>
 </Series>
 <Episode>
@@ -67,7 +68,7 @@
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>1.0</DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_season>1</DVD_season>
   <Director>Charles McDougall</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Pilot</EpisodeName>
@@ -82,9 +83,9 @@
   <RatingCount>53</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Robert King|Michelle King|</Writer>
-  <absolute_number></absolute_number>
+  <absolute_number>1</absolute_number>
   <filename>episodes/95451/669761.jpg</filename>
-  <lastupdated>1372513172</lastupdated>
+  <lastupdated>1396533049</lastupdated>
   <seasonid>68411</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -98,13 +99,13 @@
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>2.0</DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_season>1</DVD_season>
   <Director>Charles McDougall</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Stripped</EpisodeName>
   <EpisodeNumber>2</EpisodeNumber>
   <FirstAired>2009-09-29</FirstAired>
-  <GuestStars></GuestStars>
+  <GuestStars>Denis O'Hare</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>After the State's Attorney refuses to pursue criminal charges, Alicia becomes second chair on a civil suit involving the rape of a prostitute at a bachelor party who may have been hired and abused by her own husband.</Overview>
@@ -113,9 +114,9 @@
   <RatingCount>47</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Robert King|Michelle King|</Writer>
-  <absolute_number></absolute_number>
+  <absolute_number>2</absolute_number>
   <filename>episodes/95451/1084271.jpg</filename>
-  <lastupdated>1372513912</lastupdated>
+  <lastupdated>1401078433</lastupdated>
   <seasonid>68411</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -129,7 +130,7 @@
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>3.0</DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_season>1</DVD_season>
   <Director>Scott Ellis</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Home</EpisodeName>
@@ -144,9 +145,9 @@
   <RatingCount>49</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Dee Johnson</Writer>
-  <absolute_number></absolute_number>
+  <absolute_number>3</absolute_number>
   <filename>episodes/95451/1084281.jpg</filename>
-  <lastupdated>1372513702</lastupdated>
+  <lastupdated>1396533068</lastupdated>
   <seasonid>68411</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -160,7 +161,7 @@
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>4.0</DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_season>1</DVD_season>
   <Director>Dan Minahan</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Fixed</EpisodeName>
@@ -175,9 +176,9 @@
   <RatingCount>46</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Todd Ellis Kessler</Writer>
-  <absolute_number></absolute_number>
+  <absolute_number>4</absolute_number>
   <filename>episodes/95451/1084291.jpg</filename>
-  <lastupdated>1372513678</lastupdated>
+  <lastupdated>1396533105</lastupdated>
   <seasonid>68411</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -191,7 +192,7 @@
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>5.0</DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_season>1</DVD_season>
   <Director>Gloria Muzio</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Crash</EpisodeName>
@@ -206,9 +207,9 @@
   <RatingCount>41</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Ted Humphrey</Writer>
-  <absolute_number></absolute_number>
+  <absolute_number>5</absolute_number>
   <filename>episodes/95451/1151421.jpg</filename>
-  <lastupdated>1372513649</lastupdated>
+  <lastupdated>1396533113</lastupdated>
   <seasonid>68411</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -222,7 +223,7 @@
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>6.0</DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_season>1</DVD_season>
   <Director>Rod Holcomb</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Conjugal</EpisodeName>
@@ -237,9 +238,9 @@
   <RatingCount>44</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Angela Amato</Writer>
-  <absolute_number></absolute_number>
+  <absolute_number>6</absolute_number>
   <filename>episodes/95451/1151431.jpg</filename>
-  <lastupdated>1372513623</lastupdated>
+  <lastupdated>1396533121</lastupdated>
   <seasonid>68411</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -253,7 +254,7 @@
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>7.0</DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_season>1</DVD_season>
   <Director>John Polson</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Unorthodox</EpisodeName>
@@ -270,9 +271,9 @@
   <RatingCount>47</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Robert King|Michelle King</Writer>
-  <absolute_number></absolute_number>
+  <absolute_number>7</absolute_number>
   <filename>episodes/95451/1231281.jpg</filename>
-  <lastupdated>1388981141</lastupdated>
+  <lastupdated>1396533129</lastupdated>
   <seasonid>68411</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -286,7 +287,7 @@
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>8.0</DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_season>1</DVD_season>
   <Director>Jim McKay</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Unprepared</EpisodeName>
@@ -301,9 +302,9 @@
   <RatingCount>45</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Corinne Brinkerhoff</Writer>
-  <absolute_number></absolute_number>
+  <absolute_number>8</absolute_number>
   <filename>episodes/95451/1231291.jpg</filename>
-  <lastupdated>1388981163</lastupdated>
+  <lastupdated>1396533140</lastupdated>
   <seasonid>68411</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -317,7 +318,7 @@
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>9.0</DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_season>1</DVD_season>
   <Director>James Whitmore Jr.</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Threesome</EpisodeName>
@@ -332,9 +333,9 @@
   <RatingCount>43</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Ted Humphrey</Writer>
-  <absolute_number></absolute_number>
+  <absolute_number>9</absolute_number>
   <filename>episodes/95451/1231301.jpg</filename>
-  <lastupdated>1388981191</lastupdated>
+  <lastupdated>1396533147</lastupdated>
   <seasonid>68411</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -348,7 +349,7 @@
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>10.0</DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_season>1</DVD_season>
   <Director>Paris Barclay</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Lifeguard</EpisodeName>
@@ -363,9 +364,9 @@
   <RatingCount>44</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Tom Smuts</Writer>
-  <absolute_number></absolute_number>
+  <absolute_number>10</absolute_number>
   <filename>episodes/95451/1265081.jpg</filename>
-  <lastupdated>1388981205</lastupdated>
+  <lastupdated>1396533154</lastupdated>
   <seasonid>68411</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -379,13 +380,13 @@
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>11.0</DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_season>1</DVD_season>
   <Director>Nelson McCormick</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Infamy</EpisodeName>
   <EpisodeNumber>11</EpisodeNumber>
   <FirstAired>2010-01-05</FirstAired>
-  <GuestStars></GuestStars>
+  <GuestStars>Titus Welliver|Craig Bierko|Jessica Hecht|Denis O'Hare|</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>Alicia learns more about Peter's fall from office when she represents Glenn Child's wife, Marie Browning, in her divorce appeal. Meanwhile, Will and Emily an opposing counsel, get cozy during a death suit against Duke Rosco, a caustic TV commentator.</Overview>
@@ -394,9 +395,9 @@
   <RatingCount>41</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Todd Ellis Kessler</Writer>
-  <absolute_number></absolute_number>
+  <absolute_number>11</absolute_number>
   <filename>episodes/95451/1304811.jpg</filename>
-  <lastupdated>1388981225</lastupdated>
+  <lastupdated>1401078492</lastupdated>
   <seasonid>68411</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -410,7 +411,7 @@
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>12.0</DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_season>1</DVD_season>
   <Director>Steve Shill</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Painkiller</EpisodeName>
@@ -425,9 +426,9 @@
   <RatingCount>43</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Corinne Brinkerhoff</Writer>
-  <absolute_number></absolute_number>
+  <absolute_number>12</absolute_number>
   <filename>episodes/95451/1422331.jpg</filename>
-  <lastupdated>1388981237</lastupdated>
+  <lastupdated>1396533171</lastupdated>
   <seasonid>68411</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -441,7 +442,7 @@
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>13.0</DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_season>1</DVD_season>
   <Director>Alex Zakrzewski</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Bad</EpisodeName>
@@ -456,9 +457,9 @@
   <RatingCount>43</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Ted Humphrey</Writer>
-  <absolute_number></absolute_number>
+  <absolute_number>13</absolute_number>
   <filename>episodes/95451/1542451.jpg</filename>
-  <lastupdated>1388981261</lastupdated>
+  <lastupdated>1396533178</lastupdated>
   <seasonid>68411</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -472,7 +473,7 @@
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>14.0</DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_season>1</DVD_season>
   <Director>John Gallagher</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Hi</EpisodeName>
@@ -487,9 +488,9 @@
   <RatingCount>45</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Robert King|Michelle King|Barry M. Schkolnick</Writer>
-  <absolute_number></absolute_number>
+  <absolute_number>14</absolute_number>
   <filename>episodes/95451/1542461.jpg</filename>
-  <lastupdated>1388981282</lastupdated>
+  <lastupdated>1396533185</lastupdated>
   <seasonid>68411</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -503,7 +504,7 @@
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>15.0</DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_season>1</DVD_season>
   <Director>Rob Holcomb</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Bang</EpisodeName>
@@ -518,9 +519,9 @@
   <RatingCount>44</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Courtney Kemp Abgoh</Writer>
-  <absolute_number></absolute_number>
+  <absolute_number>15</absolute_number>
   <filename>episodes/95451/1660821.jpg</filename>
-  <lastupdated>1388981316</lastupdated>
+  <lastupdated>1396533192</lastupdated>
   <seasonid>68411</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -534,7 +535,7 @@
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>16.0</DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_season>1</DVD_season>
   <Director>Rosemary Rodriguez</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Fleas</EpisodeName>
@@ -549,9 +550,9 @@
   <RatingCount>46</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Amanda Segel Marks</Writer>
-  <absolute_number></absolute_number>
+  <absolute_number>16</absolute_number>
   <filename>episodes/95451/1660831.jpg</filename>
-  <lastupdated>1388981327</lastupdated>
+  <lastupdated>1396533199</lastupdated>
   <seasonid>68411</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -565,7 +566,7 @@
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>17.0</DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_season>1</DVD_season>
   <Director>Felix Enriquez Alcala</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Heart</EpisodeName>
@@ -580,9 +581,9 @@
   <RatingCount>50</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Corinne Brinkerhoff</Writer>
-  <absolute_number></absolute_number>
+  <absolute_number>17</absolute_number>
   <filename>episodes/95451/1777031.jpg</filename>
-  <lastupdated>1388981356</lastupdated>
+  <lastupdated>1396533213</lastupdated>
   <seasonid>68411</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -596,7 +597,7 @@
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>18.0</DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_season>1</DVD_season>
   <Director>Omar Madha</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Doubt</EpisodeName>
@@ -612,9 +613,9 @@
   <RatingCount>58</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Karen Hall</Writer>
-  <absolute_number></absolute_number>
+  <absolute_number>18</absolute_number>
   <filename>episodes/95451/1933711.jpg</filename>
-  <lastupdated>1388981375</lastupdated>
+  <lastupdated>1396533222</lastupdated>
   <seasonid>68411</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -628,7 +629,7 @@
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>19.0</DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_season>1</DVD_season>
   <Director>Lesli Linka Glatter</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Boom</EpisodeName>
@@ -639,13 +640,13 @@
   <Language>en</Language>
   <Overview>When Alicia goes head-to-head in the courtroom with former boss Jonas Stern, she debates whether or not use personal information to her advantage. Meanwhile, Peter uses religion to work on his appeal.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.6</Rating>
+  <Rating>7.5</Rating>
   <RatingCount>56</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Ted Humphrey</Writer>
-  <absolute_number></absolute_number>
+  <absolute_number>19</absolute_number>
   <filename>episodes/95451/2059891.jpg</filename>
-  <lastupdated>1388981394</lastupdated>
+  <lastupdated>1396533228</lastupdated>
   <seasonid>68411</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -659,7 +660,7 @@
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>20.0</DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_season>1</DVD_season>
   <Director>Rod Holcomb</Director>
   <EpImgFlag>7</EpImgFlag>
   <EpisodeName>Mock</EpisodeName>
@@ -671,13 +672,13 @@
   <Overview>The police are quickly at the door when Peter's electronic monitor sounds after he chases Alicia out of the apartment. As a result, Grace and Zach scramble to figure out a way to keep him from being arrested.
 </Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.5</Rating>
+  <Rating>7.4</Rating>
   <RatingCount>55</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Todd Ellis Kessler</Writer>
-  <absolute_number></absolute_number>
+  <absolute_number>20</absolute_number>
   <filename>episodes/95451/2071421.jpg</filename>
-  <lastupdated>1389519513</lastupdated>
+  <lastupdated>1396533238</lastupdated>
   <seasonid>68411</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -691,7 +692,7 @@
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>21.0</DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_season>1</DVD_season>
   <Director>Christopher Misiano</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Unplugged</EpisodeName>
@@ -706,9 +707,9 @@
   <RatingCount>54</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Karen Hall</Writer>
-  <absolute_number></absolute_number>
+  <absolute_number>21</absolute_number>
   <filename>episodes/95451/2106531.jpg</filename>
-  <lastupdated>1389520590</lastupdated>
+  <lastupdated>1396533245</lastupdated>
   <seasonid>68411</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -722,7 +723,7 @@
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>22.0</DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_season>1</DVD_season>
   <Director>Frederick E. O. Toye</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Hybristophilia</EpisodeName>
@@ -738,9 +739,9 @@
   <RatingCount>43</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Frank R. Pierson</Writer>
-  <absolute_number></absolute_number>
+  <absolute_number>22</absolute_number>
   <filename>episodes/95451/2106541.jpg</filename>
-  <lastupdated>1388981454</lastupdated>
+  <lastupdated>1396533261</lastupdated>
   <seasonid>68411</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -754,7 +755,7 @@
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>23.0</DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_season>1</DVD_season>
   <Director>James Whitmore Jr.</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Running</EpisodeName>
@@ -770,9 +771,9 @@
   <RatingCount>54</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Robert King|Michelle King</Writer>
-  <absolute_number></absolute_number>
+  <absolute_number>23</absolute_number>
   <filename>episodes/95451/2106551.jpg</filename>
-  <lastupdated>1389729323</lastupdated>
+  <lastupdated>1396533272</lastupdated>
   <seasonid>68411</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -781,12 +782,12 @@
 </Episode>
 <Episode>
   <id>2743331</id>
-  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_episodenumber>1.0</Combined_episodenumber>
   <Combined_season>2</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>1.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
   <Director>Felix Enriquez Alcala</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Taking Control</EpisodeName>
@@ -801,9 +802,9 @@
   <RatingCount>60</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Robert King|Michelle King</Writer>
-  <absolute_number></absolute_number>
+  <absolute_number>24</absolute_number>
   <filename>episodes/95451/2743331.jpg</filename>
-  <lastupdated>1389729398</lastupdated>
+  <lastupdated>1396533298</lastupdated>
   <seasonid>307861</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -812,12 +813,12 @@
 </Episode>
 <Episode>
   <id>2757071</id>
-  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_episodenumber>2.0</Combined_episodenumber>
   <Combined_season>2</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>2.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
   <Director>Dean Parisot</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Double Jeopardy</EpisodeName>
@@ -832,9 +833,9 @@
   <RatingCount>59</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Ted Humphrey</Writer>
-  <absolute_number></absolute_number>
+  <absolute_number>25</absolute_number>
   <filename>episodes/95451/2757071.jpg</filename>
-  <lastupdated>1389729439</lastupdated>
+  <lastupdated>1396533317</lastupdated>
   <seasonid>307861</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -953,7 +954,7 @@
   <Overview>Alicia, Will and Diane are caught off-guard when a brilliant disabled attorney (Michael J. Fox) uses his condition to sway a jury; Kalinda turns to a former friend for help.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>58</RatingCount>
+  <RatingCount>59</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Keith Eisner</Writer>
   <absolute_number></absolute_number>
@@ -1164,7 +1165,7 @@
   <EpisodeName>Real Deal</EpisodeName>
   <EpisodeNumber>13</EpisodeNumber>
   <FirstAired>2011-02-08</FirstAired>
-  <GuestStars></GuestStars>
+  <GuestStars>Michael J. Fox|Denis O'Hare</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>While Alicia races against Louis Canning to round up the most clients for an Erin Brockovich-style class action lawsuit, a mole is detected in LGB law firm, who seems to be working for Canning.</Overview>
@@ -1175,7 +1176,7 @@
   <Writer>Keith Eisner|Michelle King|Robert King</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/3538481.jpg</filename>
-  <lastupdated>1388981798</lastupdated>
+  <lastupdated>1401078571</lastupdated>
   <seasonid>307861</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -1263,8 +1264,8 @@
   <Language>en</Language>
   <Overview>The law firm of Lockhart, Gardner and Bond sues a social networking site on behalf of a Chinese dissident, who posted an anonymous blog about democracy in China, and was jailed and tortured by the Chinese government when the site failed to protect his anonymity and turned over his IP address. Meanwhile, Eli gets a tip that he hopes will drive Childs out of the race, and Will and Diane hope to wrestle the firm away from Derrick Bond once and for all.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>53</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>54</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Robert King|Michelle King|Leonard Dick</Writer>
   <absolute_number></absolute_number>
@@ -1764,7 +1765,7 @@
   <Overview>Tensions are high at Lockhart &amp; Gardner as Alicia and Will argue in front of a mercurial military judge, Eli’s confidence is shaken and Diane issues an ultimatum to protect the firm.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>50</RatingCount>
+  <RatingCount>51</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Robert King|Michelle King|Meredith Averill|</Writer>
   <absolute_number></absolute_number>
@@ -1826,7 +1827,7 @@
   <Overview>As Alicia looks for a way to have a judgment thrown out following a shocking guilty verdict, she also begins to feel the consequences of decisions in her personal life.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>44</RatingCount>
+  <RatingCount>45</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Keith Eisner|Robert King|Michelle King|</Writer>
   <absolute_number></absolute_number>
@@ -2110,7 +2111,7 @@
   <Writer>Ted Humphrey</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/4286982.jpg</filename>
-  <lastupdated>1389617919</lastupdated>
+  <lastupdated>1394749233</lastupdated>
   <seasonid>468655</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -2141,7 +2142,7 @@
   <Writer>Julia Wolfe</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/4293737.jpg</filename>
-  <lastupdated>1389617902</lastupdated>
+  <lastupdated>1394749269</lastupdated>
   <seasonid>468655</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -2234,7 +2235,7 @@
   <Writer>Ted Humphrey</Writer>
   <absolute_number>70</absolute_number>
   <filename>episodes/95451/4360128.jpg</filename>
-  <lastupdated>1389617808</lastupdated>
+  <lastupdated>1394816408</lastupdated>
   <seasonid>496340</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -2265,7 +2266,7 @@
   <Writer>Robert King|Michelle King</Writer>
   <absolute_number>71</absolute_number>
   <filename>episodes/95451/4360130.jpg</filename>
-  <lastupdated>1389617791</lastupdated>
+  <lastupdated>1394816420</lastupdated>
   <seasonid>496340</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -2296,7 +2297,7 @@
   <Writer>Keith Eisner</Writer>
   <absolute_number>72</absolute_number>
   <filename>episodes/95451/4409387.jpg</filename>
-  <lastupdated>1389617770</lastupdated>
+  <lastupdated>1394816449</lastupdated>
   <seasonid>496340</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -2327,7 +2328,7 @@
   <Writer>Leonard Dick</Writer>
   <absolute_number>73</absolute_number>
   <filename>episodes/95451/4409388.jpg</filename>
-  <lastupdated>1389617749</lastupdated>
+  <lastupdated>1394816468</lastupdated>
   <seasonid>496340</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -2358,7 +2359,7 @@
   <Writer>|Robert King|Michelle King|Ted Humphrey|</Writer>
   <absolute_number>74</absolute_number>
   <filename>episodes/95451/4413667.jpg</filename>
-  <lastupdated>1389617729</lastupdated>
+  <lastupdated>1394816488</lastupdated>
   <seasonid>496340</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -2389,7 +2390,7 @@
   <Writer>|Craig Turk|Robert King|Michelle King|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/4413668.jpg</filename>
-  <lastupdated>1390664200</lastupdated>
+  <lastupdated>1394816505</lastupdated>
   <seasonid>496340</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -2420,7 +2421,7 @@
   <Writer>Meredith Averill</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/4427242.jpg</filename>
-  <lastupdated>1390664226</lastupdated>
+  <lastupdated>1394816528</lastupdated>
   <seasonid>496340</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -2446,7 +2447,7 @@
   <Overview>A famous, liberal lawyer hijacks Diane and Alicia's latest case; when Alicia's mother (Stockard Channing) visits for Thanksgiving, she seeks legal support.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>32</RatingCount>
+  <RatingCount>33</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Matthew Montoya</Writer>
   <absolute_number>77</absolute_number>
@@ -2477,7 +2478,7 @@
   <Overview>While Will defends a man accused of murder, Alicia tries to help by assisting a prosecutor in another county who is trying a different man for the same crime; the Justice Department puts heat on Eli; Nick takes action that forces Kalinda's hand.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>31</RatingCount>
+  <RatingCount>32</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Ted Humphrey|</Writer>
   <absolute_number>78</absolute_number>
@@ -2508,7 +2509,7 @@
   <Overview>Louis Canning's attempts to delay a deposition could complicate Will's latest and potentially lucrative case; Diane and Will have a face-off with Clarke.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>32</RatingCount>
+  <RatingCount>35</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Nichelle Tramble Spellman|</Writer>
   <absolute_number>79</absolute_number>
@@ -2539,7 +2540,7 @@
   <Overview>Will, Diane and Alicia help Elsbeth Tascioni (Carrie Preston) when she is arrested; Eli and Jordan give Peter conflicting pieces of advice.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.1</Rating>
-  <RatingCount>33</RatingCount>
+  <RatingCount>35</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Matt Shakman|</Writer>
   <absolute_number>80</absolute_number>
@@ -2564,18 +2565,18 @@
   <EpisodeName>The Seven Day Rule</EpisodeName>
   <EpisodeNumber>13</EpisodeNumber>
   <FirstAired>2013-01-27</FirstAired>
-  <GuestStars>|Michael J. Fox|Maura Tierney|Zach Grenier|Nathan Lane|T.R. Knight|John Benjamin Hickey|Kenneth Tigar|</GuestStars>
+  <GuestStars>|Michael J. Fox|Maura Tierney|Zach Grenier|Nathan Lane|T.R. Knight|John Benjamin Hickey|Kenneth Tigar|Margaret Colin|</GuestStars>
   <IMDB_ID>tt2608082</IMDB_ID>
   <Language>en</Language>
   <Overview>Alicia is presented with a career-changing offer that includes a substantial financial risk; Diane and Will confront their creditors; Eli and Jordan don't agree on a possible attack on Maddie's campaign.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>27</RatingCount>
+  <RatingCount>30</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Keith Eisner|</Writer>
   <absolute_number>81</absolute_number>
   <filename>episodes/95451/4453923.jpg</filename>
-  <lastupdated>1390664316</lastupdated>
+  <lastupdated>1401078289</lastupdated>
   <seasonid>496340</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -2601,7 +2602,7 @@
   <Overview>Office politics come to a head when Will and Diane ask Alicia and Cary to face off against them in a mock trial, only to get more than they bargained for. Meanwhile, Eli tries to avoid losing his role in Peter’s campaign to Jordan, as he continues his fight with the Justice Department.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>27</RatingCount>
+  <RatingCount>30</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Robert King|Michelle King|</Writer>
   <absolute_number>82</absolute_number>
@@ -2631,8 +2632,8 @@
   <Language>en</Language>
   <Overview>When the Justice Department refuses to reveal who will be testifying against Eli, Elsbeth takes Assistant U.S. Attorney Josh Perrotti to civil court for defamation in order to force him to answer her questions under oath.  Meanwhile, Jordan helps Peter prepare for a debate and Alicia’s relationship with her co-workers evolves.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>28</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>31</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Leonard Dick|</Writer>
   <absolute_number>83</absolute_number>
@@ -2662,8 +2663,8 @@
   <Language>en</Language>
   <Overview>Jailed drug dealer Lemond Bishop requests that Alicia work with lawyer Charles Lester, but as witnesses against Bishop begin recanting their testimony, she begins to suspect that Lester’s meek appearance isn’t all it seems.  Also, Kalinda is forced to train a new investigator and Cary makes a risky move.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>24</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>26</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Meredith Averill|</Writer>
   <absolute_number>84</absolute_number>
@@ -2694,7 +2695,7 @@
   <Overview>Alicia and Will’s latest case brings them to an inquest at the coroner’s office, where they are hindered by a strict rule that limits their questioning to three per witness.  Also, Cary’s father returns to bring new business to the firm and Eli schemes against Jordan.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>23</RatingCount>
+  <RatingCount>26</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Julia Wolfe|Matthew Montoya|</Writer>
   <absolute_number>85</absolute_number>
@@ -2724,8 +2725,8 @@
   <Language>en</Language>
   <Overview> When an erratic and litigious client is murdered, Alicia is convinced to waive attorney/client privilege to help the police when she learns that the killer may also be targeting someone close to her.  Also, Peter and Mike Kresteva vie for an influential endorsement and Diane receives a stunning offer.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>24</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>26</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Robert King|Michelle King|</Writer>
   <absolute_number>86</absolute_number>
@@ -2756,7 +2757,7 @@
   <Overview>Alicia and Will go to trial unprepared when they learn that an impending Supreme Court ruling could result in Colin Sweeney being jailed for life.  Also, Diane reunites with Kurt McVeigh but is forced to reevaluate the relationship.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>29</RatingCount>
+  <RatingCount>31</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Jacqueline Hoyt|</Writer>
   <absolute_number>87</absolute_number>
@@ -2786,8 +2787,8 @@
   <Language>en</Language>
   <Overview>A hacker group brings the trial of an accused rapist to the Internet; Diane is vetted for a Supreme Court seat; Robyn draws Kalinda's suspicion.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>25</RatingCount>
+  <Rating>7.9</Rating>
+  <RatingCount>27</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>|J.C. Nolan|</Writer>
   <absolute_number>88</absolute_number>
@@ -2818,7 +2819,7 @@
   <Overview>As a favor to her mother, Alicia represents software coders in a contract dispute; Peter asks Alicia to renew their wedding vows.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>24</RatingCount>
+  <RatingCount>27</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Craig Turk|</Writer>
   <absolute_number>89</absolute_number>
@@ -2849,7 +2850,7 @@
   <Overview>When Zach thinks he has witnessed vote tampering, Will, Alicia and Diane race to a series of emergency court proceedings on the night of the gubernatorial election; an unexpected source offers to help Cary start his own firm.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.1</Rating>
-  <RatingCount>21</RatingCount>
+  <RatingCount>24</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Robert King|Michelle King|</Writer>
   <absolute_number>90</absolute_number>
@@ -2885,7 +2886,7 @@
   <Writer>|Robert King|Michelle King|</Writer>
   <absolute_number>91</absolute_number>
   <filename>episodes/95451/4594884.jpg</filename>
-  <lastupdated>1390041828</lastupdated>
+  <lastupdated>1404228689</lastupdated>
   <seasonid>522815</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added>2013-09-30 11:08:21</thumb_added>
@@ -2916,7 +2917,7 @@
   <Writer>|Ted Humphrey|Robert King|</Writer>
   <absolute_number>92</absolute_number>
   <filename>episodes/95451/4624065.jpg</filename>
-  <lastupdated>1392509887</lastupdated>
+  <lastupdated>1399449773</lastupdated>
   <seasonid>522815</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added>2013-09-30 11:13:44</thumb_added>
@@ -2947,7 +2948,7 @@
   <Writer>|Keith Eisner|</Writer>
   <absolute_number>93</absolute_number>
   <filename>episodes/95451/4624066.jpg</filename>
-  <lastupdated>1392509919</lastupdated>
+  <lastupdated>1399449817</lastupdated>
   <seasonid>522815</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added>2013-10-01 09:39:30</thumb_added>
@@ -2978,7 +2979,7 @@
   <Writer>|Robert King|Michelle King|</Writer>
   <absolute_number>94</absolute_number>
   <filename>episodes/95451/4671503.jpg</filename>
-  <lastupdated>1392509951</lastupdated>
+  <lastupdated>1399449833</lastupdated>
   <seasonid>522815</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added>2013-10-10 11:43:09</thumb_added>
@@ -3009,7 +3010,7 @@
   <Writer>|Robert King|Michelle King|</Writer>
   <absolute_number>95</absolute_number>
   <filename>episodes/95451/4679036.jpg</filename>
-  <lastupdated>1392509997</lastupdated>
+  <lastupdated>1399449848</lastupdated>
   <seasonid>522815</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added>2013-12-26 07:46:43</thumb_added>
@@ -3040,7 +3041,7 @@
   <Writer>|Leonard Dick|</Writer>
   <absolute_number>96</absolute_number>
   <filename>episodes/95451/4688976.jpg</filename>
-  <lastupdated>1389616842</lastupdated>
+  <lastupdated>1399449868</lastupdated>
   <seasonid>522815</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added>2013-10-18 12:42:58</thumb_added>
@@ -3071,7 +3072,7 @@
   <Writer>|Craig Turk|</Writer>
   <absolute_number>97</absolute_number>
   <filename>episodes/95451/4689122.jpg</filename>
-  <lastupdated>1389616817</lastupdated>
+  <lastupdated>1399449883</lastupdated>
   <seasonid>522815</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added>2013-11-10 21:10:58</thumb_added>
@@ -3096,13 +3097,13 @@
   <Language>en</Language>
   <Overview>Alicia must block the deportation of an undocumented immigrant who has been threatened by a cartel in Mexico; Eli's reconnection with Natalie Flores concerns Marilyn; Robin tries to emulate Kalinda.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>18</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>20</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>|Ted Humphrey|</Writer>
   <absolute_number>98</absolute_number>
   <filename>episodes/95451/4698892.jpg</filename>
-  <lastupdated>1389616800</lastupdated>
+  <lastupdated>1399449909</lastupdated>
   <seasonid>522815</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added>2013-11-04 10:34:26</thumb_added>
@@ -3122,18 +3123,18 @@
   <EpisodeName>Whack-a-Mole</EpisodeName>
   <EpisodeNumber>9</EpisodeNumber>
   <FirstAired>2013-11-24</FirstAired>
-  <GuestStars>|Jerry Adler|Jess Weixler|Robbie Collier Sublett|Jeffrey Tambor|Jason O’Mara|Mary Stuart Masterson|</GuestStars>
+  <GuestStars>|Jerry Adler|Jess Weixler|Robbie Collier Sublett|Jeffrey Tambor|Jason O'Mara|Mary Stuart Masterson|</GuestStars>
   <IMDB_ID>tt3331678</IMDB_ID>
   <Language>en</Language>
-  <Overview>When a college professor is accused of being linked to domestic terrorism, Alicia tries to hold a website accountable; Will hires an unpredictable attorney with ties to organized crime; Jackie and Eli clash over a family secret.</Overview>
+  <Overview>Alicia tries to hold a website accountable when its users accuse her client, a college professor, of being linked to domestic terrorism.  Meanwhile, Will goes against Diane’s wishes when he hires Damian Boyle, an unpredictable attorney with ties to organized crime, who immediately interjects himself into Alicia's website case.  Also, Eli and Jackie clash over a Florrick family secret.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>18</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>19</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>|Nichelle Tramble Spellman|</Writer>
   <absolute_number>99</absolute_number>
   <filename>episodes/95451/4699147.jpg</filename>
-  <lastupdated>1389616738</lastupdated>
+  <lastupdated>1396078541</lastupdated>
   <seasonid>522815</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added>2013-11-19 10:31:06</thumb_added>
@@ -3156,15 +3157,15 @@
   <GuestStars>|Stockard Channing|Jess Weixler|Kurt Fuller|Jason O'Mara|Melissa George|Nathan Lane|Donna Brazile|Hannah Sorenson|Kia Joy Goodwin|John Noble|Mike Colter|Kate Hodge|Leigh Ann Larkin|Jordana Spiro|</GuestStars>
   <IMDB_ID>tt3344390</IMDB_ID>
   <Language>en</Language>
-  <Overview>When a former client leaves Alicia millions, Lockhart/Gardner contests the will on behalf of the deceased's wife; Marilyn is concerned about Peter being seen with Alicia's questionable clients.</Overview>
+  <Overview>Alicia is shocked to learn that a former client bequeathed her millions, but Lockhart/Gardner quickly contests the will on behalf of the deceased's wife.  Meanwhile, Diane asks Kalinda to look into Damian's background.  Also, Eli and Marilyn are concerned about Peter being seen with Alicia's more disreputable clients at the Florrick/Agos holiday party.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.1</Rating>
-  <RatingCount>15</RatingCount>
+  <RatingCount>17</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>|Robert King|Michelle King|</Writer>
   <absolute_number>100</absolute_number>
   <filename>episodes/95451/4699148.jpg</filename>
-  <lastupdated>1389616711</lastupdated>
+  <lastupdated>1396078474</lastupdated>
   <seasonid>522815</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added>2013-11-21 08:24:26</thumb_added>
@@ -3187,15 +3188,15 @@
   <GuestStars>|F. Murray Abraham|Christopher Fitzgerald|Matthew Lillard|</GuestStars>
   <IMDB_ID>tt3344392</IMDB_ID>
   <Language>en</Language>
-  <Overview>Will joins the opposing council when Alicia represents a band suing a TV show, transforming a simple case into psychological warfare.</Overview>
+  <Overview>Alicia represents a band suing a TV show for copyright infringement, but the simple case becomes psychological warfare when Will joins the opposing council and uses his knowledge of Alicia’s strengths and weaknesses against her.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>8.1</Rating>
-  <RatingCount>14</RatingCount>
+  <Rating>7.9</Rating>
+  <RatingCount>17</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>|Luke Schelhaas|</Writer>
   <absolute_number>101</absolute_number>
   <filename>episodes/95451/4726868.jpg</filename>
-  <lastupdated>1389616674</lastupdated>
+  <lastupdated>1396078427</lastupdated>
   <seasonid>522815</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added>2013-12-17 14:25:17</thumb_added>
@@ -3218,15 +3219,15 @@
   <GuestStars>|Renee Elise Goldsberry|Chris Butler|Skipp Sudduth|Victor Garber|Jason O'Mara|Jess Weixler|Bhavesh Patel|Melissa George|Ashley Williams|Carra Patterson|Slate Holmgren|Bernardo Cubria|John Cariani|Daniel Johnson|Tom Skerritt|Josh Pais|</GuestStars>
   <IMDB_ID>tt3412786</IMDB_ID>
   <Language>en</Language>
-  <Overview>Alicia and Will insist on separate juries for their clients when they each represent one half of a couple accused of drug smuggling; Cary woos a Lockhart/Gardner client; Kalinda tries to fix a broken relationship.</Overview>
+  <Overview>Alicia and Will each represent one half of a couple accused of smuggling drugs, but the courtroom becomes mired in confusion and legal technicalities when they insist on separate jury pools. Meanwhile, Cary attempts to woo a Lockhart/Gardner client, Kalinda tries to repair a damaged relationship and Marilyn begins her investigation into possible voter fraud during the gubernatorial election.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>16</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>21</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>|Keith Eisner|</Writer>
   <absolute_number>102</absolute_number>
   <filename>episodes/95451/4735537.jpg</filename>
-  <lastupdated>1389953500</lastupdated>
+  <lastupdated>1396078380</lastupdated>
   <seasonid>522815</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added>2014-01-07 13:28:02</thumb_added>
@@ -3249,15 +3250,15 @@
   <GuestStars>|Jess Weixler|Mike Colter|Melissa George|Nathan Lane|Jerry Adler|Jeffrey Tambor|Maulik Pancholy|Michael Kostroff|Tobias Segal|Wallace Shawn|Rosie Benton|Jack Davenport|Eric Bogosian|</GuestStars>
   <IMDB_ID>tt3540606</IMDB_ID>
   <Language>en</Language>
-  <Overview>Florrick/Agos and Lockhart/Gardner fight to keep Lemond Bishop as a client when he is arrested on a drug-related charge, which possibly resulted from a leak inside Alicia’s firm. Meanwhile, the investigation into voter fraud in the gubernatorial election continues to move forward when Marilyn is approached by an agent in the Office of Public Integrity.</Overview>
+  <Overview>Florrick/Agos and Lockhart/Gardner fight to keep Lemond Bishop as a client when he is arrested on a drug-related charge, which possibly resulted from a leak inside Alicia's firm. Meanwhile, the investigation into voter fraud in the gubernatorial election continues to move forward when Marilyn is approached by an agent in the Office of Public Integrity.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>16</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>|Erica Shelton Kodish|</Writer>
   <absolute_number>103</absolute_number>
   <filename>episodes/95451/4749747.jpg</filename>
-  <lastupdated>1393960703</lastupdated>
+  <lastupdated>1396078307</lastupdated>
   <seasonid>522815</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added>2014-03-04 11:18:23</thumb_added>
@@ -3282,13 +3283,13 @@
   <Language>en</Language>
   <Overview>When Alicia is asked to be the keynote speaker at the American Bar Association conference in New York City, she looks to her past for inspiration. Meanwhile, the competition with Diane and Will continues as Alicia and Cary battle to align with a powerful New York lawyer.  Also, Will turns to an old acquaintance when it becomes clear that Nelson Dubeck's investigation into possible voter fraud isn't going away.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>16</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>|Leonard Dick|</Writer>
   <absolute_number>104</absolute_number>
   <filename>episodes/95451/4808727.jpg</filename>
-  <lastupdated>1393960917</lastupdated>
+  <lastupdated>1396078211</lastupdated>
   <seasonid>522815</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added>2014-03-04 11:21:57</thumb_added>
@@ -3303,28 +3304,28 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>TBA</EpisodeName>
+  <Director>|Brooke Kennedy|</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Dramatics, Your Honor</EpisodeName>
   <EpisodeNumber>15</EpisodeNumber>
   <FirstAired>2014-03-23</FirstAired>
-  <GuestStars></GuestStars>
+  <GuestStars>|Hunter Parrish|Matthew Goode|Eric Bogosian|Max Von Essen|Vincent Curatola|Felix Solis|Peter Ashton Wise|Elliot Villar|Eisa Davis|Olivia Oguma|</GuestStars>
   <IMDB_ID>tt3546154</IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
+  <Overview>Alicia enlists Cary as her lawyer when Nelson Dubeck approaches her to participate in a deposition regarding his investigation into election rigging.  Meanwhile, Will continues the difficult defense of Jeffrey Grant as he faces off against a new prosecutor who proves to be a formidable adversary.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>8.0</Rating>
+  <RatingCount>17</RatingCount>
   <SeasonNumber>5</SeasonNumber>
-  <Writer></Writer>
+  <Writer>|Robert King|Michelle King|</Writer>
   <absolute_number>105</absolute_number>
-  <filename></filename>
-  <lastupdated>1394140447</lastupdated>
+  <filename>episodes/95451/4808729.jpg</filename>
+  <lastupdated>1397774510</lastupdated>
   <seasonid>522815</seasonid>
   <seriesid>95451</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-03-14 15:15:37</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4818792</id>
@@ -3334,28 +3335,28 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>TBA</EpisodeName>
+  <Director>|Jim McKay|</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Last Call</EpisodeName>
   <EpisodeNumber>16</EpisodeNumber>
-  <FirstAired>2014-04-06</FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <FirstAired>2014-03-30</FirstAired>
+  <GuestStars>|Hunter Parrish|Matthew Goode|Jerry Adler|Jordana Spiro|Vincent Curatola|Tonya Glanz|Aaron Lazar|Becky Ann Baker|Will Chase|</GuestStars>
+  <IMDB_ID>tt3621216</IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
+  <Overview>Alicia searches for answers as she tries to make sense of Will’s death in the aftermath of the courthouse shooting. Meanwhile, Diane delivers the somber news to the partners at Lockhart/Gardner who must decide how to move forward.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>15</RatingCount>
   <SeasonNumber>5</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1394196990</lastupdated>
+  <Writer>|Robert King|Michelle King|</Writer>
+  <absolute_number>106</absolute_number>
+  <filename>episodes/95451/4818792.jpg</filename>
+  <lastupdated>1397774484</lastupdated>
   <seasonid>522815</seasonid>
   <seriesid>95451</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-03-31 09:39:57</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4818793</id>
@@ -3365,28 +3366,28 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>TBA</EpisodeName>
+  <Director>|Griffin Dunne|</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>A Material World</EpisodeName>
   <EpisodeNumber>17</EpisodeNumber>
   <FirstAired>2014-04-13</FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <GuestStars>|Jason O'Mara|Peter Ashton Wise|Jordana Spiro|Anne Marsen|Charlie Pollock|Kia Joy Goodwin|Donna Murphy|Michael Cerveris|Reg Rogers|Sarah Wynter|Donovan Christie Jr.|</GuestStars>
+  <IMDB_ID>tt3631876</IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
+  <Overview>Alicia and Diane consider merging their firms in the wake of Will's death, even as they find themselves on opposite sides of a contentious divorce suit. Meanwhile, Alicia offers assistance to Finn when it becomes clear that the State's Attorney is looking for a scapegoat in the Jeffrey Grant case.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>19</RatingCount>
   <SeasonNumber>5</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1394196998</lastupdated>
+  <Writer>|Craig Turk|</Writer>
+  <absolute_number>107</absolute_number>
+  <filename>episodes/95451/4818793.jpg</filename>
+  <lastupdated>1398802024</lastupdated>
   <seasonid>522815</seasonid>
   <seriesid>95451</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-04-11 10:13:22</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4818794</id>
@@ -3396,28 +3397,28 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>TBA</EpisodeName>
+  <Director>|Felix Alcala|</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>All Tapped Out</EpisodeName>
   <EpisodeNumber>18</EpisodeNumber>
   <FirstAired>2014-04-20</FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <GuestStars>|Nathan Lane|Michael J. Fox|Michael Boatman|Chris Butler|Zach Woods|Tobias Segal|Michael Kostroff|Michael Urie|Haynes Thigpen|Mark Price|John Leonard Thompson|Brian Keane|Michael Cerveris|</GuestStars>
+  <IMDB_ID>tt3648200</IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
+  <Overview>Florrick/Agos takes on the case of an NSA whistleblower, only to learn that the agency has been monitoring the firm as well as Alicia’s personal life. Meanwhile, Diane faces the difficult task of working alongside Louis Canning when he joins Lockhart/Gardner. Also, Alicia goes after the State’s Attorney when he attempts to make Finn a scapegoat in the Jeffrey Grant case.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>21</RatingCount>
   <SeasonNumber>5</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1394197003</lastupdated>
+  <Writer>|Matthew Montoya|Julia Wolfe|</Writer>
+  <absolute_number>108</absolute_number>
+  <filename>episodes/95451/4818794.jpg</filename>
+  <lastupdated>1397774435</lastupdated>
   <seasonid>522815</seasonid>
   <seriesid>95451</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-04-04 14:29:33</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4818795</id>
@@ -3427,28 +3428,28 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>TBA</EpisodeName>
+  <Director>|Josh Charles|</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Tying the Knot</EpisodeName>
   <EpisodeNumber>19</EpisodeNumber>
   <FirstAired>2014-04-27</FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <GuestStars>|Dylan Baker|Dallas Roberts|Michael Cerveris|Jane Alexander|James McDaniel|Laura Benanti|Jenn Gambatese|Owiso Odera|Katie Jennings Grant|</GuestStars>
+  <IMDB_ID>tt3663642</IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
+  <Overview>When Alicia pays a visit to longtime client Colin Sweeney, she finds herself in the unwanted role of witness when a body is discovered in his home. Meanwhile, Eli steps in when an unfortunate picture of Zach threatens to become a public relations nightmare for Peter.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>14</RatingCount>
   <SeasonNumber>5</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1394197011</lastupdated>
+  <Writer>|Nichelle Tramble Spellman|</Writer>
+  <absolute_number>109</absolute_number>
+  <filename>episodes/95451/4818795.jpg</filename>
+  <lastupdated>1401521782</lastupdated>
   <seasonid>522815</seasonid>
   <seriesid>95451</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-04-16 11:11:47</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4818796</id>
@@ -3458,28 +3459,28 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>TBA</EpisodeName>
+  <Director>|Brooke Kennedy|</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Deep Web</EpisodeName>
   <EpisodeNumber>20</EpisodeNumber>
   <FirstAired>2014-05-04</FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <GuestStars>|Michael J. Fox|Michael Cerveris|Stockard Channing|Robert Klein|Christopher Imbrosciano|Laura Campbell|Nestor Carbonell|Stephanie Kurtzuba|Murray Bartlett|Miriam Shor|Charlie Pollock|Jerry Adler|</GuestStars>
+  <IMDB_ID>tt3683150</IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
+  <Overview>When Alicia has a chance encounter with a charming entrepreneur during jury duty, she begins to consider options outside her marriage and seeks the advice of her mother. Meanwhile, Diane's friends come to her for legal advice when their son is accused of selling drugs on the Internet.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>15</RatingCount>
   <SeasonNumber>5</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1394197018</lastupdated>
+  <Writer>|Luke Schelhaas|Erica Shelton Kodish|</Writer>
+  <absolute_number>110</absolute_number>
+  <filename>episodes/95451/4818796.jpg</filename>
+  <lastupdated>1400834368</lastupdated>
   <seasonid>522815</seasonid>
   <seriesid>95451</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-04-21 14:36:09</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4818797</id>
@@ -3489,28 +3490,28 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>TBA</EpisodeName>
+  <Director>|Rosemary Rodriguez|</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The One Percent</EpisodeName>
   <EpisodeNumber>21</EpisodeNumber>
-  <FirstAired>2014-04-11</FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <FirstAired>2014-05-11</FirstAired>
+  <GuestStars>|Michael J. Fox|David Fonteno|Tom Skerritt|Jill Hennessy|Michael Cerveris|Jerry Adler|Merwin Goldsmith|Katie Paxton|Sydney James Harcourt|Joe Holt|Jacqueline Antaramian|</GuestStars>
+  <IMDB_ID>tt3642300</IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
+  <Overview>Alicia manages the fallout when her client's insensitive statements to the press threaten the fate of a multi-billion dollar merger. Meanwhile, Diane faces a potential conflict of interest when she and Louis Canning are on opposite sides of a class action suit involving a pharmaceutical company. Also, Eli learns the truth about Alicia and Peter's relationship.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>14</RatingCount>
   <SeasonNumber>5</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1394197024</lastupdated>
+  <Writer>|Ted Humphrey|</Writer>
+  <absolute_number>111</absolute_number>
+  <filename>episodes/95451/4818797.jpg</filename>
+  <lastupdated>1400834387</lastupdated>
   <seasonid>522815</seasonid>
   <seriesid>95451</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-04-23 11:28:18</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4818798</id>
@@ -3520,11 +3521,42 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
+  <Director>|Robert King|</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>A Weird Year</EpisodeName>
+  <EpisodeNumber>22</EpisodeNumber>
+  <FirstAired>2014-05-18</FirstAired>
+  <GuestStars>|Mary Beth Peil|Michael J. Fox|Nathan Lane|Michael Boatman|Ben Rappaport|Stockard Channing|Jerry Adler|Christian Borle|Megan Ketch|Jill Abramovitz|Flor De Liz Perez|Jess Weixler|</GuestStars>
+  <IMDB_ID>tt3698062</IMDB_ID>
+  <Language>en</Language>
+  <Overview>An open feed from a camera mistakenly left on after a teleconferenced deposition between the lawyers of Florrick/Agos and Lockhart/Gardner reveals a threat to the firm that Alicia and Cary never saw coming. Meanwhile, the fate of Lockhart/Gardner hangs in the balance as Louis Canning vies for a larger role. Also, Alicia entrusts Zach's high school graduation party to Jackie and Veronica.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>14</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>|Robert King|Michelle King|</Writer>
+  <absolute_number>112</absolute_number>
+  <filename>episodes/95451/4818798.jpg</filename>
+  <lastupdated>1400834410</lastupdated>
+  <seasonid>522815</seasonid>
+  <seriesid>95451</seriesid>
+  <thumb_added>2014-04-29 12:03:04</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4917014</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
   <Director></Director>
   <EpImgFlag></EpImgFlag>
-  <EpisodeName>TBA</EpisodeName>
-  <EpisodeNumber>22</EpisodeNumber>
-  <FirstAired>2014-04-18</FirstAired>
+  <EpisodeName>The Line</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2014-09-21</FirstAired>
   <GuestStars></GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
@@ -3532,12 +3564,12 @@
   <ProductionCode></ProductionCode>
   <Rating></Rating>
   <RatingCount>0</RatingCount>
-  <SeasonNumber>5</SeasonNumber>
+  <SeasonNumber>6</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename></filename>
-  <lastupdated>1394197031</lastupdated>
-  <seasonid>522815</seasonid>
+  <lastupdated>1405023672</lastupdated>
+  <seasonid>589269</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
   <thumb_height></thumb_height>

@@ -3,7 +3,7 @@
   <id>73762</id>
   <Actors>|Ellen Pompeo|Sandra Oh|Patrick Dempsey|Katherine Heigl|Kate Walsh|Sara Ramirez|Eric Dane|Chyler Leigh|Jesse Williams|Sarah Drew|T.R. Knight|Justin Chambers|James Pickens Jr.|Chandra Wilson|Kevin McKidd|Jessica Capshaw|Brooke Smith|Tessa Ferrer|Jerrika Hinton|Camilla Luddington|Gaius Charles|Kim Raver|Loretta Devine|Isaiah Washington|</Actors>
   <Airs_DayOfWeek>Thursday</Airs_DayOfWeek>
-  <Airs_Time>9:00 PM</Airs_Time>
+  <Airs_Time>8:00 PM</Airs_Time>
   <ContentRating>TV-14</ContentRating>
   <FirstAired>2005-03-27</FirstAired>
   <Genre>|Drama|Romance|</Genre>
@@ -13,7 +13,7 @@
   <NetworkID></NetworkID>
   <Overview>Meet Meredith Grey, a brilliant first-year surgical intern at Seattle Grace Hospital. Together with her fellow residents-in-training, Meredith navigates her way through the daily traumas and social land mines of the life inside the hospital and out in the real world. Grey's Anatomy is a smart and witty look at young people struggling to be doctors and doctors struggling to be human. </Overview>
   <Rating>8.3</Rating>
-  <RatingCount>182</RatingCount>
+  <RatingCount>185</RatingCount>
   <Runtime>60</Runtime>
   <SeriesID>24440</SeriesID>
   <SeriesName>Grey's Anatomy</SeriesName>
@@ -22,181 +22,11 @@
   <addedBy></addedBy>
   <banner>graphical/73762-g14.jpg</banner>
   <fanart>fanart/original/73762-28.jpg</fanart>
-  <lastupdated>1394333715</lastupdated>
+  <lastupdated>1405871793</lastupdated>
   <poster>posters/73762-13.jpg</poster>
+  <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>SH732283</zap2it_id>
 </Series>
-<Episode>
-  <id>316950</id>
-  <Combined_episodenumber>1</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag>3</EpImgFlag>
-  <EpisodeName>Straight To The Heart</EpisodeName>
-  <EpisodeNumber>1</EpisodeNumber>
-  <FirstAired>2006-01-08</FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview>Recap of series to date.</Overview>
-  <ProductionCode></ProductionCode>
-  <Rating>7.0</Rating>
-  <RatingCount>1</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode>13</airsbefore_episode>
-  <airsbefore_season>2</airsbefore_season>
-  <filename>episodes/73762/316950.jpg</filename>
-  <lastupdated>1392664210</lastupdated>
-  <seasonid>21224</seasonid>
-  <seriesid>73762</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height>225</thumb_height>
-  <thumb_width>400</thumb_width>
-</Episode>
-<Episode>
-  <id>307176</id>
-  <Combined_episodenumber>2</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag>3</EpImgFlag>
-  <EpisodeName>Under Pressure</EpisodeName>
-  <EpisodeNumber>2</EpisodeNumber>
-  <FirstAired>2006-04-23</FirstAired>
-  <GuestStars>|Christina Ricci| Kate Burton| Kyle Chandler| Mare Winningham| Cress Williams|</GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview>This is a recap episode, otherwise known as a clip show. If you want to get caught up on everything from the interns first day to the mischief of the last episode, then this is the episode to watch. Prepare for May sweeps by getting caught up with this episode.</Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode>23</airsbefore_episode>
-  <airsbefore_season>2</airsbefore_season>
-  <filename>episodes/73762/307176.jpg</filename>
-  <lastupdated>1220703428</lastupdated>
-  <seasonid>21224</seasonid>
-  <seriesid>73762</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height>225</thumb_height>
-  <thumb_width>400</thumb_width>
-</Episode>
-<Episode>
-  <id>328643</id>
-  <Combined_episodenumber>3</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag>3</EpImgFlag>
-  <EpisodeName>Complications of the Heart</EpisodeName>
-  <EpisodeNumber>3</EpisodeNumber>
-  <FirstAired>2006-09-21</FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview>Another recap episode narrated by Joe the Bartender that covers all that has happened so far. In this case the episode will show the main plotlines from seasons one and two that are relevant to the season three premiere and will include an extended version of the music video for The Fray’s single, “How to Save a Life.” Basically it will be a one-hour previously.</Overview>
-  <ProductionCode></ProductionCode>
-  <Rating>7.0</Rating>
-  <RatingCount>1</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode>1</airsbefore_episode>
-  <airsbefore_season>3</airsbefore_season>
-  <filename>episodes/73762/328643.jpg</filename>
-  <lastupdated>1392664419</lastupdated>
-  <seasonid>21224</seasonid>
-  <seriesid>73762</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height>225</thumb_height>
-  <thumb_width>400</thumb_width>
-</Episode>
-<Episode>
-  <id>324357</id>
-  <Combined_episodenumber>4</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director>Tamra Davis</Director>
-  <EpImgFlag>3</EpImgFlag>
-  <EpisodeName>Every Moment Counts</EpisodeName>
-  <EpisodeNumber>4</EpisodeNumber>
-  <FirstAired>2007-03-22</FirstAired>
-  <GuestStars>|Judi Barton| Hector Elizondo| Elisabeth Moss| Catherine Dent| Roger Rees| Michael Boatman| Elizabeth Reaser|</GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview>Quick summary of all the important details from all Season 3 episodes. (Recap Episode)
-</Overview>
-  <ProductionCode></ProductionCode>
-  <Rating>7.0</Rating>
-  <RatingCount>1</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer>Chris Van Dusen</Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode>20</airsbefore_episode>
-  <airsbefore_season>3</airsbefore_season>
-  <filename>episodes/73762/324357.jpg</filename>
-  <lastupdated>1220703609</lastupdated>
-  <seasonid>21224</seasonid>
-  <seriesid>73762</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height>225</thumb_height>
-  <thumb_width>400</thumb_width>
-</Episode>
-<Episode>
-  <id>335727</id>
-  <Combined_episodenumber>5</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag>3</EpImgFlag>
-  <EpisodeName>Come Rain or Shine: From Grey's Anatomy to Private Practice</EpisodeName>
-  <EpisodeNumber>5</EpisodeNumber>
-  <FirstAired>2007-09-19</FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview>&quot;Come Rain or Shine: From Grey's Anatomy to Private Practice&quot; goes into the life of Dr. Addison Montgomery as she transitions from Seattle Grace to Oceanside in the new spin-off Private Practice. The episode also includes the premiere of the Grey's Anatomy music video featuring &quot;Breath In Breath Out,&quot; a song by Mat Kearney. The video features clips from the previous three seasons and the episode will feature a glimpse at the new season of Grey's Anatomy. </Overview>
-  <ProductionCode>400</ProductionCode>
-  <Rating>7.0</Rating>
-  <RatingCount>1</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode>1</airsbefore_episode>
-  <airsbefore_season>4</airsbefore_season>
-  <filename>episodes/73762/335727.jpg</filename>
-  <lastupdated>1220703382</lastupdated>
-  <seasonid>21224</seasonid>
-  <seriesid>73762</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height>225</thumb_height>
-  <thumb_width>400</thumb_width>
-</Episode>
 <Episode>
   <id>1399501</id>
   <Combined_episodenumber>6</Combined_episodenumber>
@@ -225,40 +55,6 @@
   <airsbefore_season></airsbefore_season>
   <filename></filename>
   <lastupdated>1365828591</lastupdated>
-  <seasonid>21224</seasonid>
-  <seriesid>73762</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>2534441</id>
-  <Combined_episodenumber>7</Combined_episodenumber>
-  <Combined_season>5</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season>5</DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>Season Five Gag Reel</EpisodeName>
-  <EpisodeNumber>7</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1365864480</lastupdated>
   <seasonid>21224</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -1832,37 +1628,175 @@ Hidden Easter Egg in Season 1 DVD set</Overview>
   <thumb_width></thumb_width>
 </Episode>
 <Episode>
-  <id>4779360</id>
-  <Combined_episodenumber>0</Combined_episodenumber>
-  <Combined_season>1</Combined_season>
+  <id>316950</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
   <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>Raindrops Keeps Falling On My Head</EpisodeName>
-  <EpisodeNumber>0</EpisodeNumber>
-  <FirstAired></FirstAired>
+  <EpImgFlag>3</EpImgFlag>
+  <EpisodeName>Straight To The Heart</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2006-01-08</FirstAired>
   <GuestStars></GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview>As Meredith and Cristina discuss their relationship woes at the Emerald City Bar, their session of lamenting is interrupted when Joe, the bartender, collapses.
-As Chief Webber recovers from brain surgery, he appoints one surgeon as interim chief - much to the dismay of another surgeon and he assigns George to report back with hospital gossip.
-While a devastated Meredith learns more about Derek and Addison's relationship, a confused Cristina tries to make decisions about her connection with Dr. Burke</Overview>
+  <Overview>Recap of series to date.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode>13</airsbefore_episode>
+  <airsbefore_season>2</airsbefore_season>
+  <filename>episodes/73762/316950.jpg</filename>
+  <lastupdated>1402392166</lastupdated>
+  <seasonid>588047</seasonid>
+  <seriesid>73762</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>307176</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>3</EpImgFlag>
+  <EpisodeName>Under Pressure</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2006-04-23</FirstAired>
+  <GuestStars>|Christina Ricci| Kate Burton| Kyle Chandler| Mare Winningham| Cress Williams|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>This is a recap episode, otherwise known as a clip show. If you want to get caught up on everything from the interns first day to the mischief of the last episode, then this is the episode to watch. Prepare for May sweeps by getting caught up with this episode.</Overview>
   <ProductionCode></ProductionCode>
   <Rating></Rating>
   <RatingCount>0</RatingCount>
-  <SeasonNumber>1</SeasonNumber>
+  <SeasonNumber>0</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1390764594</lastupdated>
-  <seasonid>6388</seasonid>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode>23</airsbefore_episode>
+  <airsbefore_season>2</airsbefore_season>
+  <filename>episodes/73762/307176.jpg</filename>
+  <lastupdated>1402392166</lastupdated>
+  <seasonid>588047</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>328643</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>3</EpImgFlag>
+  <EpisodeName>Complications of the Heart</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2006-09-21</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Another recap episode narrated by Joe the Bartender that covers all that has happened so far. In this case the episode will show the main plotlines from seasons one and two that are relevant to the season three premiere and will include an extended version of the music video for The Fray’s single, “How to Save a Life.” Basically it will be a one-hour previously.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode>1</airsbefore_episode>
+  <airsbefore_season>3</airsbefore_season>
+  <filename>episodes/73762/328643.jpg</filename>
+  <lastupdated>1402392166</lastupdated>
+  <seasonid>588047</seasonid>
+  <seriesid>73762</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>324357</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Tamra Davis</Director>
+  <EpImgFlag>3</EpImgFlag>
+  <EpisodeName>Every Moment Counts</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2007-03-22</FirstAired>
+  <GuestStars>|Judi Barton| Hector Elizondo| Elisabeth Moss| Catherine Dent| Roger Rees| Michael Boatman| Elizabeth Reaser|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Quick summary of all the important details from all Season 3 episodes. (Recap Episode)
+</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer>Chris Van Dusen</Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode>20</airsbefore_episode>
+  <airsbefore_season>3</airsbefore_season>
+  <filename>episodes/73762/324357.jpg</filename>
+  <lastupdated>1402392166</lastupdated>
+  <seasonid>588047</seasonid>
+  <seriesid>73762</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>335727</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>3</EpImgFlag>
+  <EpisodeName>Come Rain or Shine: From Grey's Anatomy to Private Practice</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2007-09-19</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>&quot;Come Rain or Shine: From Grey's Anatomy to Private Practice&quot; goes into the life of Dr. Addison Montgomery as she transitions from Seattle Grace to Oceanside in the new spin-off Private Practice. The episode also includes the premiere of the Grey's Anatomy music video featuring &quot;Breath In Breath Out,&quot; a song by Mat Kearney. The video features clips from the previous three seasons and the episode will feature a glimpse at the new season of Grey's Anatomy. </Overview>
+  <ProductionCode>400</ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode>1</airsbefore_episode>
+  <airsbefore_season>4</airsbefore_season>
+  <filename>episodes/73762/335727.jpg</filename>
+  <lastupdated>1402392166</lastupdated>
+  <seasonid>588047</seasonid>
+  <seriesid>73762</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>127738</id>
@@ -1882,8 +1816,8 @@ While a devastated Meredith learns more about Derek and Addison's relationship, 
   <Language>en</Language>
   <Overview>Meet Meredith Grey. Daughter of famous surgeon Ellis Grey and currently recovering from a one-night stand. She shoos away her evening's companion, saying she'll be late for her first day of work. She is a first year intern at Seattle Grace Hospital and is working alongside some colorful characters. Cristina Yang is a highly competitive Stanford graduate who befriends Meredith. George O'Malley is a quirky warm hearted man who learns a lesson or two on his first day. Izzie Stevens is a former model who doesn't get any special treatment on her first day. And Alex Karev is an arrogant jerk who misdiagnoses a patient on his first shift. Overseeing them is Miranda Bailey, (not-so-) affectionately dubbed 'The Nazi'. Meredith also gets a surprise when she realizes that her friend from the night before is a co-worker, and even worse, her boss.</Overview>
   <ProductionCode>101</ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>33</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>35</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Shonda Rhimes</Writer>
   <absolute_number>1</absolute_number>
@@ -1914,7 +1848,7 @@ While a devastated Meredith learns more about Derek and Addison's relationship, 
   <Overview>The surgical staff tries to be optimistic as a young woman clings to life after a brutal attack. Meanwhile Meredith puts her career on the line to save a newborn in the hospital nursery, and the other interns learn that it takes more than just medical knowledge to be good at their jobs.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.2</Rating>
-  <RatingCount>24</RatingCount>
+  <RatingCount>25</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Shonda Rhimes|</Writer>
   <absolute_number>2</absolute_number>
@@ -1945,7 +1879,7 @@ While a devastated Meredith learns more about Derek and Addison's relationship, 
   <Overview>A bike race injures several pedestrians as well as well as participants.  One pedestrian is left brain dead.  Christina and Issie wish to use his organs for organ donation but with Christina's detachment and Issie's ever hopeful attitude that the man will recover, they will find the organ harvesting process an emotional one.  Preston faces feelings of his dislike of organ harvesting - as a surgeon, he likes saving lives; harvesting organs doesn't save the person's life.  George deals with Mac, a friend of the chief, who won't stop flirting with him.  He is in need of a new liver.   Meredith is fed up with Alex showing off as she continues trying to push Derek away.  She also is reaching the limits of Issie's sunshine and George's politeness as she goes on living with them.  Then there is their desire to see Meredith's mother's medical tapes.  Getting through the day, Meredith realizes the keys to winning the race.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.0</Rating>
-  <RatingCount>25</RatingCount>
+  <RatingCount>26</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Shonda Rhimes|</Writer>
   <absolute_number>3</absolute_number>
@@ -1976,7 +1910,7 @@ While a devastated Meredith learns more about Derek and Addison's relationship, 
   <Overview>While George is feeling a little less masculine because of the way Izzie and Meredith have been treating him (like a sister), Izzie is assigned to a patient about to loose all of his masculinity. Cristina, true to her competitive spirit, shows up early and assigns herself to an ill woman, who happens to have been Meredith's moms scrub nurse. Alex, meanwhile, is busying himself copying and pasting pictures of Izzie's racy magazine spread all over the interns' locker room. And while Meredith is trying to cope with her mother's Alzheimer's, Derek treats a patient who has managed to get nails stuck in his head.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>24</RatingCount>
+  <RatingCount>25</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|James D. Parriott|</Writer>
   <absolute_number>4</absolute_number>
@@ -2038,7 +1972,7 @@ While a devastated Meredith learns more about Derek and Addison's relationship, 
   <Overview>Izzie tries to get George to find the courage to ask Meredith out.   All of the interns are in awe when a woman comes in with a record breaking tumor, but it is so far advanced that the woman's prognosis is not good.   Now that Bailey knows about Meredith and Derek's affair, their jobs are in jeopardy, and she advises Meredith to end it.   Meanwhile, Cristina and Burke's secret relationship is also getting more complicated...</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.0</Rating>
-  <RatingCount>21</RatingCount>
+  <RatingCount>22</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Krista Vernoff|</Writer>
   <absolute_number>6</absolute_number>
@@ -2068,8 +2002,8 @@ While a devastated Meredith learns more about Derek and Addison's relationship, 
   <Language>en</Language>
   <Overview>Derek and Meredith try (unsuccessfully) to be discreet as they spend the night together at Meredith's house, but their haggard appearance speaks volumes to everyone - including Bailey, who warns Meredith to end the relationship. Meanwhile George suspects an anesthesiologist of drinking on the job but is reluctant to speak up about it, Alex treats a former competitor who now finds honor in self-mutilation, Izzie has to deal with a patient who won't let go of his girlfriend - literally, and Cristina seems to be battling a case of the flu.</Overview>
   <ProductionCode>107</ProductionCode>
-  <Rating>7.1</Rating>
-  <RatingCount>20</RatingCount>
+  <Rating>7.0</Rating>
+  <RatingCount>21</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Kip Koenig|</Writer>
   <absolute_number>7</absolute_number>
@@ -2157,7 +2091,7 @@ While a devastated Meredith learns more about Derek and Addison's relationship, 
   <EpisodeNumber>1</EpisodeNumber>
   <FirstAired>2005-09-25</FirstAired>
   <GuestStars>Wendy Gazelle | Steven W.Bailey | Robin Pearson Rose | Linda Klein</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt0592917</IMDB_ID>
   <Language>en</Language>
   <Overview>Picks up where the last episode left off. Meredith attempts to work with Addison Shepard. George is pimped out to relay the hospital gossip back to Webber. Meredith and Cristina relate at Emerald City Bar about what dating their respective attendings is like. Cristina ponders her relationship with Burke while trying to make a decision. Meredith is devastated by the latest blow to her love life. Meanwhile, Joe the bartender collapses.</Overview>
   <ProductionCode></ProductionCode>
@@ -2167,7 +2101,7 @@ While a devastated Meredith learns more about Derek and Addison's relationship, 
   <Writer>|Stacy McKee|</Writer>
   <absolute_number>10</absolute_number>
   <filename>episodes/73762/299549.jpg</filename>
-  <lastupdated>1392663581</lastupdated>
+  <lastupdated>1398528931</lastupdated>
   <seasonid>6389</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -2663,7 +2597,7 @@ While a devastated Meredith learns more about Derek and Addison's relationship, 
   <Writer>Shonda Rhimes</Writer>
   <absolute_number>26</absolute_number>
   <filename>episodes/73762/306066.jpg</filename>
-  <lastupdated>1385904933</lastupdated>
+  <lastupdated>1401730744</lastupdated>
   <seasonid>6389</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -2725,7 +2659,7 @@ While a devastated Meredith learns more about Derek and Addison's relationship, 
   <Writer>Stacy McKee</Writer>
   <absolute_number>28</absolute_number>
   <filename>episodes/73762/306068.jpg</filename>
-  <lastupdated>1391197643</lastupdated>
+  <lastupdated>1405871127</lastupdated>
   <seasonid>6389</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -2973,7 +2907,7 @@ While a devastated Meredith learns more about Derek and Addison's relationship, 
   <Writer>Shonda Rhimes</Writer>
   <absolute_number>36</absolute_number>
   <filename>episodes/73762/307910.jpg</filename>
-  <lastupdated>1385904814</lastupdated>
+  <lastupdated>1401879486</lastupdated>
   <seasonid>6389</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -3096,12 +3030,12 @@ While a devastated Meredith learns more about Derek and Addison's relationship, 
 </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.2</Rating>
-  <RatingCount>19</RatingCount>
+  <RatingCount>21</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Allan Heinberg</Writer>
   <absolute_number>40</absolute_number>
   <filename>episodes/73762/313654.jpg</filename>
-  <lastupdated>1385905080</lastupdated>
+  <lastupdated>1401879536</lastupdated>
   <seasonid>16334</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -3127,13 +3061,13 @@ While a devastated Meredith learns more about Derek and Addison's relationship, 
   <Overview>Derek learns one of Addison's secrets. Bailey talks about motherhood and depression to a mother who is set to have cancer surgery and who seems to not care about any decisions concerning the future. A resident is fiercely questioned about the death of a male patient. An ex-couple meet before lunch and get stuck - Meredith and Addison work on their case. Things get awkward when the ex-couple's daughter, Michelle, arrives at the hospital.
 </Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.2</Rating>
-  <RatingCount>17</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>18</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Allan Heinberg</Writer>
   <absolute_number>41</absolute_number>
   <filename>episodes/73762/313655.jpg</filename>
-  <lastupdated>1385905110</lastupdated>
+  <lastupdated>1401896138</lastupdated>
   <seasonid>16334</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -3160,7 +3094,7 @@ While a devastated Meredith learns more about Derek and Addison's relationship, 
 </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.2</Rating>
-  <RatingCount>19</RatingCount>
+  <RatingCount>20</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Stacy McKee</Writer>
   <absolute_number>42</absolute_number>
@@ -3192,12 +3126,12 @@ While a devastated Meredith learns more about Derek and Addison's relationship, 
 </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>16</RatingCount>
+  <RatingCount>17</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Mark Wilding</Writer>
   <absolute_number>43</absolute_number>
   <filename>episodes/73762/316742.jpg</filename>
-  <lastupdated>1385905151</lastupdated>
+  <lastupdated>1401904064</lastupdated>
   <seasonid>16334</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -3223,13 +3157,13 @@ While a devastated Meredith learns more about Derek and Addison's relationship, 
   <Overview>George's father has a serious heart problem that requires surgery and George chooses Burke to do the procedure. Burke doubts himself because he knows the pressure this kind of surgery will put on him, but Cristina believes the team can handle it. Derek works with Meredith on being a couple again and tries work with Addison on more civil terms. A patient has had mutiple plastic surgeries so that his girlfriend will like him more. A mom wants her daughter's babysitter fired, after she is brought in with multiple injuries, but the girl likes the babysitter more than her mother.
 </Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.1</Rating>
-  <RatingCount>14</RatingCount>
+  <Rating>7.2</Rating>
+  <RatingCount>15</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Gabrielle Stanton e Harry Werksman</Writer>
   <absolute_number>44</absolute_number>
   <filename>episodes/73762/316743.jpg</filename>
-  <lastupdated>1385905176</lastupdated>
+  <lastupdated>1401904809</lastupdated>
   <seasonid>16334</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -3256,7 +3190,7 @@ While a devastated Meredith learns more about Derek and Addison's relationship, 
 </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>14</RatingCount>
+  <RatingCount>15</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Kip Koenig</Writer>
   <absolute_number>45</absolute_number>
@@ -3288,7 +3222,7 @@ While a devastated Meredith learns more about Derek and Addison's relationship, 
 </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.1</Rating>
-  <RatingCount>13</RatingCount>
+  <RatingCount>14</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Carolina Paiz</Writer>
   <absolute_number>46</absolute_number>
@@ -3320,12 +3254,12 @@ While a devastated Meredith learns more about Derek and Addison's relationship, 
 </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>17</RatingCount>
+  <RatingCount>18</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Krista Vernoff</Writer>
   <absolute_number>47</absolute_number>
   <filename>episodes/73762/319010.jpg</filename>
-  <lastupdated>1391197846</lastupdated>
+  <lastupdated>1405871010</lastupdated>
   <seasonid>16334</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -3352,12 +3286,12 @@ While a devastated Meredith learns more about Derek and Addison's relationship, 
 </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>18</RatingCount>
+  <RatingCount>19</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Krista Vernoff</Writer>
   <absolute_number>48</absolute_number>
   <filename>episodes/73762/319011.jpg</filename>
-  <lastupdated>1391197854</lastupdated>
+  <lastupdated>1405871022</lastupdated>
   <seasonid>16334</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -3384,7 +3318,7 @@ While a devastated Meredith learns more about Derek and Addison's relationship, 
 </Overview>
   <ProductionCode>316</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>17</RatingCount>
+  <RatingCount>18</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Eric Buchman</Writer>
   <absolute_number>49</absolute_number>
@@ -3415,13 +3349,13 @@ While a devastated Meredith learns more about Derek and Addison's relationship, 
   <Overview>The chief's announcement of his retirement sparks competition between Derek, Burke, Addison, and Mark. A surgical patient endangers the lives of those surrounding her. Meredith's mother becomes lucid. Cristina and Callie consider marriage proposals. The Denny Duquette Memorial Clinic opens and Izzie cannot wait for the first patient to arrive.
 </Overview>
   <ProductionCode></ProductionCode>
-  <Rating>6.9</Rating>
-  <RatingCount>18</RatingCount>
+  <Rating>7.0</Rating>
+  <RatingCount>19</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Tony Phelan|Joan Rater|</Writer>
   <absolute_number>50</absolute_number>
   <filename>episodes/73762/319360.jpg</filename>
-  <lastupdated>1385905287</lastupdated>
+  <lastupdated>1401908639</lastupdated>
   <seasonid>16334</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -3447,8 +3381,8 @@ While a devastated Meredith learns more about Derek and Addison's relationship, 
   <Overview>The staff is trying to deal with antsy patients while dealing with a major disaster when a cargo ship strikes a Ferryboat in Seattle. The Chief must choose a team to go out on location and save what is left of the few lives spared.
 </Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>20</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>21</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Shonda Rhimes</Writer>
   <absolute_number>51</absolute_number>
@@ -3480,7 +3414,7 @@ While a devastated Meredith learns more about Derek and Addison's relationship, 
 </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>18</RatingCount>
+  <RatingCount>19</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Shonda Rhimes</Writer>
   <absolute_number>52</absolute_number>
@@ -3513,7 +3447,7 @@ People are still dealing with the fallout from the ferry disaster. A young man n
 </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>14</RatingCount>
+  <RatingCount>15</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Shonda Rhimes|Marti Noxon</Writer>
   <absolute_number>53</absolute_number>
@@ -3545,7 +3479,7 @@ People are still dealing with the fallout from the ferry disaster. A young man n
 </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.2</Rating>
-  <RatingCount>16</RatingCount>
+  <RatingCount>17</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Debora Cahn</Writer>
   <absolute_number>54</absolute_number>
@@ -3576,8 +3510,8 @@ People are still dealing with the fallout from the ferry disaster. A young man n
   <Overview>Callie's father comes to Seattle Grace and meets George, the hospital starts interviewing candidates for the Chief's position, and Alex helps Jane Doe figure out her place in the world. George and Izzie have a few morning-after symptoms.
 </Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>13</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>15</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Charles Van Dusen</Writer>
   <absolute_number>55</absolute_number>
@@ -3608,8 +3542,8 @@ People are still dealing with the fallout from the ferry disaster. A young man n
   <Overview>Colin Marlow continues to try to get in the way of Cristina and Burke's relationship. The daughter that Izzie gave up for adoption needs something from her. This episode features a pro chess player, a flirtatious woman, and a mother named Mrs. Malone. Mr. and Mrs. Malone haven't talked to their daugther in a while because of their son-in-law. Someone goes to see a priest.
 </Overview>
   <ProductionCode>320</ProductionCode>
-  <Rating>7.3</Rating>
-  <RatingCount>16</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>17</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Stacy McKee</Writer>
   <absolute_number>56</absolute_number>
@@ -3642,7 +3576,7 @@ People are still dealing with the fallout from the ferry disaster. A young man n
 </Overview>
   <ProductionCode>321</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>17</RatingCount>
+  <RatingCount>18</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Mark Wilding</Writer>
   <absolute_number>57</absolute_number>
@@ -3674,12 +3608,12 @@ People are still dealing with the fallout from the ferry disaster. A young man n
 </Overview>
   <ProductionCode>322</ProductionCode>
   <Rating>7.1</Rating>
-  <RatingCount>18</RatingCount>
+  <RatingCount>19</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Shonda Rhimes</Writer>
   <absolute_number>58</absolute_number>
   <filename>episodes/73762/325095.jpg</filename>
-  <lastupdated>1391198051</lastupdated>
+  <lastupdated>1405871037</lastupdated>
   <seasonid>16334</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -3705,12 +3639,12 @@ People are still dealing with the fallout from the ferry disaster. A young man n
   <Overview>Meredith works on her relationship with Susan and Thatcher. Cristina has to deal with her mother and Burke's. Alex continues to tend to Jane Doe/Ava. Meredith and Derek's relationship has a problem that needs resolution quick. Addison sees her god-daughter which leads to a job offer outside of Seattle. Derek has to perform surgery. Burke has a reservation about marrying Cristina. Many new people guest star in the course of Addison's road trip to California. Addison considers moving to be closer to her old med school friends until she discovers that drama she wishes to leave behind isn't exclusive to Seattle. Her friends who she thought had it all, are divorced. A pregnant woman must discover who the father of her child is.</Overview>
   <ProductionCode>323</ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>18</RatingCount>
+  <RatingCount>19</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Shonda Rhimes</Writer>
   <absolute_number>59</absolute_number>
   <filename>episodes/73762/327166.jpg</filename>
-  <lastupdated>1391198071</lastupdated>
+  <lastupdated>1405871048</lastupdated>
   <seasonid>16334</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -3737,7 +3671,7 @@ People are still dealing with the fallout from the ferry disaster. A young man n
 </Overview>
   <ProductionCode>324</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>21</RatingCount>
+  <RatingCount>22</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Allan Heinberg</Writer>
   <absolute_number>60</absolute_number>
@@ -3768,12 +3702,12 @@ People are still dealing with the fallout from the ferry disaster. A young man n
   <Overview>Callie and George make a big decision. A successor to Chief Webber is named. A man named Jeff Pope arrives. He is looking for his wife and newborn child. Cristina and Burke's wedding day has arrived and so have the interns first-year exam results.</Overview>
   <ProductionCode>325</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>15</RatingCount>
+  <RatingCount>16</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Tony Phelan|Joan Rater|</Writer>
   <absolute_number>61</absolute_number>
   <filename>episodes/73762/328948.jpg</filename>
-  <lastupdated>1391198250</lastupdated>
+  <lastupdated>1405871067</lastupdated>
   <seasonid>16334</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -3799,8 +3733,8 @@ People are still dealing with the fallout from the ferry disaster. A young man n
   <Overview>Entering their first year as residents, Meredith Grey, Cristina Yang, Izzie Stevens and Alex Karev now have interns of their own to mentor. Among the new interns are George, forced to repeat his internship after failing his exams, and Lexie Grey, Meredith's half-sister.
 Another two new interns will be introduced in this season premiere. And they'll have their hands full when a three-car accident sends multiple casualties pouring into Seattle Grace. Some of the doctors need to deal with new stressed out interns. A young boy brings his bleeding deer to the hospital in the hope a doctor will save her.</Overview>
   <ProductionCode>401</ProductionCode>
-  <Rating>7.1</Rating>
-  <RatingCount>27</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>28</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Shonda Rhimes</Writer>
   <absolute_number>62</absolute_number>
@@ -3831,7 +3765,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Overview>A patient is in the hospital because they fell asleep in a hazardous situation. A patient's home laboratory blew up in an apartment building and the victims flood the hospital. Alex investigates the cause of the incident by talking to a really old guy who lived in the building. Jane Burke shows up to deal with what her son left behind. Lexie tries to talk to Meredith. Callie is overwhelmed by her new position while Bailey is searching for things to do.</Overview>
   <ProductionCode>402</ProductionCode>
   <Rating>7.1</Rating>
-  <RatingCount>21</RatingCount>
+  <RatingCount>22</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Debora Cahn e Rob Corn</Writer>
   <absolute_number>63</absolute_number>
@@ -3863,7 +3797,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
 </Overview>
   <ProductionCode>403</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>25</RatingCount>
+  <RatingCount>26</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Mark Wilding</Writer>
   <absolute_number>64</absolute_number>
@@ -3893,8 +3827,8 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Language>en</Language>
   <Overview>A face familiar to one of the year-twos shows up and dredges up issues that were never really dealt with. A teen soccer player needs counseling because of his father and surgery for an injury he sustained while playing the game. Another patient's, named Courtney, finds out that her cancer is back.</Overview>
   <ProductionCode>404</ProductionCode>
-  <Rating>7.1</Rating>
-  <RatingCount>25</RatingCount>
+  <Rating>7.2</Rating>
+  <RatingCount>26</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Allan Heinberg</Writer>
   <absolute_number>65</absolute_number>
@@ -3925,7 +3859,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Overview>It's Halloween at Seattle Grace! There may be jokes, pranks, and/or scare tactics. Some of the women form a club based on an experience they all share. A man volunteers for what most of the doctors believe is an unnecessary surgery. One of the patients is in the hospital because they tried to carve a pumpkin in an unconventional manner.</Overview>
   <ProductionCode>405</ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>27</RatingCount>
+  <RatingCount>28</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Krista Vernoff</Writer>
   <absolute_number>66</absolute_number>
@@ -3956,7 +3890,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Overview>A patient comes to the ER with a dream and a condition which may prevent him form realizing it. Two patients are competing to win something big. One of them convinces an intern to take their place.</Overview>
   <ProductionCode>406</ProductionCode>
   <Rating>7.2</Rating>
-  <RatingCount>28</RatingCount>
+  <RatingCount>30</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Stacy McKee</Writer>
   <absolute_number>67</absolute_number>
@@ -3987,12 +3921,12 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Overview>Two arguing parents, who are named Jane and Don, bring their son in because he swallowed coins, while a middle aged woman comes in wanting cosmetic surgery on her chin. A father worries about raising a child alone when the mother needs surgery.</Overview>
   <ProductionCode>407</ProductionCode>
   <Rating>7.2</Rating>
-  <RatingCount>24</RatingCount>
+  <RatingCount>25</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Tony Phelan|Joan Rater|</Writer>
   <absolute_number>68</absolute_number>
   <filename>episodes/73762/336604.jpg</filename>
-  <lastupdated>1392464848</lastupdated>
+  <lastupdated>1405870934</lastupdated>
   <seasonid>28467</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -4017,8 +3951,8 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Language>en</Language>
   <Overview>There has been a bus crash and the patients are in the ER. Meredith and Derek's relationship gets more complicated when he dates a fellow doctor. Meredith's dad goes to visit her at the hospital.</Overview>
   <ProductionCode>408</ProductionCode>
-  <Rating>7.3</Rating>
-  <RatingCount>22</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>24</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Mark Wilding</Writer>
   <absolute_number>69</absolute_number>
@@ -4048,13 +3982,13 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Language>en</Language>
   <Overview>An ambulance crash endangers the lives of the paramedics involved, as Meredith and the Chief work on-site to save them, Bailey treats a patient who refuses her help, and Ava returns for Alex and meets his other girlfriend in the process.</Overview>
   <ProductionCode>409</ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>25</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>26</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Shonda Rhimes|Krista Vernoff|</Writer>
   <absolute_number>70</absolute_number>
   <filename>episodes/73762/339966.jpg</filename>
-  <lastupdated>1392464892</lastupdated>
+  <lastupdated>1405870954</lastupdated>
   <seasonid>28467</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -4079,13 +4013,13 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Language>en</Language>
   <Overview>Meredith works furiously to save a paramedic trapped in an ambulance; Lexie holds the life of a patient in her hands; Derek must rely on a nurse to save a patient; Bailey struggles to balance her personal life with her work.</Overview>
   <ProductionCode>410</ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>23</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>25</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Shonda Rhimes|Krista Vernoff|</Writer>
   <absolute_number>71</absolute_number>
   <filename>episodes/73762/343230.jpg</filename>
-  <lastupdated>1392464954</lastupdated>
+  <lastupdated>1405870967</lastupdated>
   <seasonid>28467</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -4110,8 +4044,8 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Language>en</Language>
   <Overview>George has a surprise visitor. Bailey's family is falling apart. Derek sorts through what kissing Rose means. Meredith discovers something that doesn't inspire hope or happiness in her. Alex treats a faith healer.</Overview>
   <ProductionCode>411</ProductionCode>
-  <Rating>7.2</Rating>
-  <RatingCount>26</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>27</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Allan Heinberg</Writer>
   <absolute_number>72</absolute_number>
@@ -4141,8 +4075,8 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Language>en</Language>
   <Overview>Time has passed but not much has changed. Sexual angst still runs rampant in the halls of Seattle Grace. Derek and Rose have been dating and Meredith has noticed the activities of her current off-again ex-boyfriend. The doctor's are in the midst of a competition.</Overview>
   <ProductionCode>412</ProductionCode>
-  <Rating>6.8</Rating>
-  <RatingCount>23</RatingCount>
+  <Rating>6.9</Rating>
+  <RatingCount>24</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Zoanne Clack</Writer>
   <absolute_number>73</absolute_number>
@@ -4172,8 +4106,8 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Language>en</Language>
   <Overview>Addison visits Seattle Grace because they need skills that only she has. Rebecca/Ava returns with news for Alex. Meredith and Derek's clinical trial experiences one or two developments.</Overview>
   <ProductionCode>413</ProductionCode>
-  <Rating>7.1</Rating>
-  <RatingCount>25</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>27</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Stacy McKee</Writer>
   <absolute_number>74</absolute_number>
@@ -4203,13 +4137,13 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Language>en</Language>
   <Overview>The clinical trial continues to make progress. The anti-McSteamy club creates new initiatives but that isn't enough to stop one woman from spending time with him. Christina is affected by Burke's career developments.</Overview>
   <ProductionCode>414</ProductionCode>
-  <Rating>7.1</Rating>
-  <RatingCount>25</RatingCount>
+  <Rating>7.2</Rating>
+  <RatingCount>27</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Tony Phelan|Joan Rater</Writer>
   <absolute_number>75</absolute_number>
   <filename>episodes/73762/364353.jpg</filename>
-  <lastupdated>1392465099</lastupdated>
+  <lastupdated>1403008030</lastupdated>
   <seasonid>28467</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -4234,13 +4168,13 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Language>en</Language>
   <Overview>Dr. Wyatt refuses to let Meredith give up on therapy. Alex learns something else about Rebecca. The Chief wants Erica to perform a daring surgery. Christina continues to act strange.</Overview>
   <ProductionCode>415</ProductionCode>
-  <Rating>6.9</Rating>
-  <RatingCount>19</RatingCount>
+  <Rating>7.2</Rating>
+  <RatingCount>21</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Debora Cahn</Writer>
   <absolute_number>76</absolute_number>
   <filename>episodes/73762/364354.jpg</filename>
-  <lastupdated>1392465145</lastupdated>
+  <lastupdated>1403008023</lastupdated>
   <seasonid>28467</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -4266,12 +4200,12 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Overview>A couple undergoes surgery. Derek and Meredith's clinical trial gets a second shot from a new patient. Izzie helps Alex. McSteamy hooks up with someone.</Overview>
   <ProductionCode>416</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>25</RatingCount>
+  <RatingCount>26</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Shonda Rhimes</Writer>
   <absolute_number>77</absolute_number>
   <filename>episodes/73762/364896.jpg</filename>
-  <lastupdated>1392465165</lastupdated>
+  <lastupdated>1405870981</lastupdated>
   <seasonid>28467</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -4296,13 +4230,13 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Language>en</Language>
   <Overview>A couple undergoes surgery. Derek and Meredith's clinical trial gets a second shot from a new patient. Izzie helps Alex. McSteamy hooks up with someone.</Overview>
   <ProductionCode>417</ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>19</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>21</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Shonda Rhimes</Writer>
   <absolute_number>78</absolute_number>
   <filename>episodes/73762/368584.jpg</filename>
-  <lastupdated>1392465201</lastupdated>
+  <lastupdated>1405870994</lastupdated>
   <seasonid>28467</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -4328,12 +4262,12 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Overview>As Meredith and Derek begin to find that their &quot;happily ever after&quot; is anything but easy, Cristina develops a crush on a military doctor who brings in a trauma patient. Meanwhile, the Chief and his staff cope with the news that Seattle Grace is no longer considered a top-tier teaching hospital. </Overview>
   <ProductionCode>501</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>32</RatingCount>
+  <RatingCount>33</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Shonda Rhimes</Writer>
   <absolute_number>79</absolute_number>
   <filename>episodes/73762/376962.jpg</filename>
-  <lastupdated>1392470748</lastupdated>
+  <lastupdated>1405870896</lastupdated>
   <seasonid>33904</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -4364,7 +4298,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Shonda Rhimes</Writer>
   <absolute_number>80</absolute_number>
   <filename>episodes/73762/390586.jpg</filename>
-  <lastupdated>1392470769</lastupdated>
+  <lastupdated>1405870910</lastupdated>
   <seasonid>33904</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -4389,13 +4323,13 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Language>en</Language>
   <Overview>When the plumbing springs a leak, chaos breaks out at Seattle Grace as the Chief tries to put in place new teaching methods. Meanwhile, George takes his residency exam; and Derek attempts to get Meredith's roommates to move out, much to their surprise.</Overview>
   <ProductionCode>503</ProductionCode>
-  <Rating>7.0</Rating>
-  <RatingCount>30</RatingCount>
+  <Rating>7.1</Rating>
+  <RatingCount>32</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Krista Vernoff</Writer>
   <absolute_number>81</absolute_number>
   <filename>episodes/73762/390587.jpg</filename>
-  <lastupdated>1392470799</lastupdated>
+  <lastupdated>1403305258</lastupdated>
   <seasonid>33904</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -4421,7 +4355,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Overview>Meredith is sent into a state of panic when Derek finds her mother's diary in the house. Meanwhile, Callie stresses while preparing for her first date with Erica. Later, Cristina stumbles across a part of the hospital no one has ever seen before. </Overview>
   <ProductionCode>504</ProductionCode>
   <Rating>7.1</Rating>
-  <RatingCount>32</RatingCount>
+  <RatingCount>33</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Debora Cahn</Writer>
   <absolute_number>82</absolute_number>
@@ -4451,8 +4385,8 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Language>en</Language>
   <Overview>Bailey heads up a &quot;domino procedure&quot; in which each surgery hinges on the one preceding it. Meanwhile, Derek gets sole credit for the brain-tumor study he did with Meredith; Lexie tries to get George to notice her romantically; and Sloan counsels a desperate Callie in the ways of love.</Overview>
   <ProductionCode>505</ProductionCode>
-  <Rating>7.1</Rating>
-  <RatingCount>31</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>33</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Jenna Bans</Writer>
   <absolute_number>83</absolute_number>
@@ -4482,13 +4416,13 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Language>en</Language>
   <Overview>The chief gives Bailey new power and responsibility. He also gives her a very difficult surgical assignment: remove a girl's inoperable tumor. Meanwhile, new trauma chief Owen (Kevin McKidd) challenges the attendings' methods and the residents' skills.</Overview>
   <ProductionCode>506</ProductionCode>
-  <Rating>7.2</Rating>
-  <RatingCount>31</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>33</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Mark Wilding</Writer>
   <absolute_number>84</absolute_number>
   <filename>episodes/73762/398411.jpg</filename>
-  <lastupdated>1392470864</lastupdated>
+  <lastupdated>1403627032</lastupdated>
   <seasonid>33904</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -4514,12 +4448,12 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Overview>When the Chief makes an announcement that a solo surgery is up as an award, the residents are sent into a frenzy all trying to get an edge over one another. Meanwhile, Derek asks Bailey for advice after Cristina continues to interfere in his relationship with Meredith. Elsewhere, Erica uncovers a shocking connection between a resident and a patient.</Overview>
   <ProductionCode>507</ProductionCode>
   <Rating>7.1</Rating>
-  <RatingCount>27</RatingCount>
+  <RatingCount>29</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>William Jackson Harper</Writer>
   <absolute_number>85</absolute_number>
   <filename>episodes/73762/401675.jpg</filename>
-  <lastupdated>1392470879</lastupdated>
+  <lastupdated>1403626984</lastupdated>
   <seasonid>33904</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -4544,8 +4478,8 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Language>en</Language>
   <Overview>One of Meredith's oldest friends, Sadie, becomes an intern at Seattle Grace, but Mer's friends are less-than-welcoming to her.</Overview>
   <ProductionCode>508</ProductionCode>
-  <Rating>6.9</Rating>
-  <RatingCount>27</RatingCount>
+  <Rating>7.1</Rating>
+  <RatingCount>29</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Stacey McKee</Writer>
   <absolute_number>86</absolute_number>
@@ -4575,8 +4509,8 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Language>en</Language>
   <Overview>Meredith, Cristina and Bailey come to Lexie and Sadie's rescue when a routine surgery goes horribly wrong, as Owen and Derek treat a man seriously injured while sleepwalking and Mark comforts the sleepwalker's distraught daughter. </Overview>
   <ProductionCode>509</ProductionCode>
-  <Rating>7.1</Rating>
-  <RatingCount>29</RatingCount>
+  <Rating>7.2</Rating>
+  <RatingCount>31</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Tony Phelan|Joan Rater</Writer>
   <absolute_number>87</absolute_number>
@@ -4607,7 +4541,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Overview>Cristina is awarded the first solo surgery among the residents, but she is forced to give it up and choose her replacement; Lexie is impressed when Mark performs a cutting-edge procedure; Callie doesn't know if Sadie is friendly or flirtatious.</Overview>
   <ProductionCode>510</ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>35</RatingCount>
+  <RatingCount>36</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Peter Nowalk</Writer>
   <absolute_number>88</absolute_number>
@@ -4638,7 +4572,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Overview>Bailey teams with Seattle Grace's new pediatric surgeon, Dr. Arizona Robbins, to save the life of a young patient near and dear to her heart, as the admittance of a death row inmate at the hospital stirs anger in Derek and further erodes Meredith and Cristina's friendship; meanwhile, Callie and Sloan work as a team to fight their respective attractions to Sadie and Lexie, and Izzie tells Alex that she's seeing Denny.</Overview>
   <ProductionCode>511</ProductionCode>
   <Rating>7.1</Rating>
-  <RatingCount>35</RatingCount>
+  <RatingCount>36</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Debora Cahn</Writer>
   <absolute_number>89</absolute_number>
@@ -4668,8 +4602,8 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Language>en</Language>
   <Overview>Derek's mother, Carolyn, makes a surprise visit to Seattle and meets Meredith for the first time, as Mark tries to conceal his relationship with Lexie from her as well; meanwhile, death row inmate William wishes to donate his organs to Bailey and Arizona's patient, as Owen and Cristina try to go on their first date.</Overview>
   <ProductionCode>512</ProductionCode>
-  <Rating>7.2</Rating>
-  <RatingCount>35</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>36</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Jenna Bans</Writer>
   <absolute_number>90</absolute_number>
@@ -4705,7 +4639,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Mark Wilding</Writer>
   <absolute_number>91</absolute_number>
   <filename>episodes/73762/417747.jpg</filename>
-  <lastupdated>1392471016</lastupdated>
+  <lastupdated>1405709851</lastupdated>
   <seasonid>33904</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -4767,7 +4701,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Tony Phelan|Joan Rater</Writer>
   <absolute_number>93</absolute_number>
   <filename>episodes/73762/427231.jpg</filename>
-  <lastupdated>1392471061</lastupdated>
+  <lastupdated>1405710134</lastupdated>
   <seasonid>33904</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -4953,7 +4887,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Krista Vernoff</Writer>
   <absolute_number>99</absolute_number>
   <filename>episodes/73762/552411.jpg</filename>
-  <lastupdated>1392471209</lastupdated>
+  <lastupdated>1405870646</lastupdated>
   <seasonid>33904</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -4984,7 +4918,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Shonda Rhimes</Writer>
   <absolute_number>100</absolute_number>
   <filename>episodes/73762/552421.jpg</filename>
-  <lastupdated>1392471246</lastupdated>
+  <lastupdated>1405801107</lastupdated>
   <seasonid>33904</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -5046,7 +4980,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Debora Cahn</Writer>
   <absolute_number>102</absolute_number>
   <filename>episodes/73762/552441.jpg</filename>
-  <lastupdated>1392471375</lastupdated>
+  <lastupdated>1403305330</lastupdated>
   <seasonid>33904</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -5108,7 +5042,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Krista Vernoff</Writer>
   <absolute_number>104</absolute_number>
   <filename>episodes/73762/1062081.jpg</filename>
-  <lastupdated>1392471549</lastupdated>
+  <lastupdated>1403305353</lastupdated>
   <seasonid>79611</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -5475,7 +5409,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Overview>It's Valentine's Day, and the doctors must treat dozens of injured people after the roof collapses at a popular romantic restaurant; Derek tries to manage his busy schedule as Chief of Surgery; Meredith wrestles with her new duties as the Chief's wife; and Mark and Callie team up to convince Sloan to do the right thing for her baby.</Overview>
   <ProductionCode>614</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>65</RatingCount>
+  <RatingCount>66</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>William Harper</Writer>
   <absolute_number>116</absolute_number>
@@ -5506,7 +5440,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Overview>In his new role as Chief, Derek restores the hospital lecture series, and Richard, Bailey and Callie present to the group pivotal surgical cases from their pasts Bailey reflects on her first days as a shy resident, Callie looks back on a polio case, and Richard recalls a case in which he and Ellis worked on a patient diagnosed with GRID, a virus later called AIDS.</Overview>
   <ProductionCode>615</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>72</RatingCount>
+  <RatingCount>73</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>Zoanne Clack</Writer>
   <absolute_number>117</absolute_number>
@@ -5537,7 +5471,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Overview>When famous surgeon Dr. Harper Avery is rushed to Seattle Grace-Mercy West, the staff is surprised to discover that one of their own is related to this legend, and his unorthodox request for his surgery causes tensions t between Derek and Richard. Meanwhile Callie and Arizona try to help Teddy and Sloan move on from their pasts and find greener pastures.</Overview>
   <ProductionCode>616</ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>75</RatingCount>
+  <RatingCount>76</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>Peter Nowalk</Writer>
   <absolute_number>118</absolute_number>
@@ -5568,8 +5502,8 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Overview>A patient who needs an extremely difficult surgery comes to Seattle Grace, and it's Richard and Owen who vie for the opportunity to tackle it. But the decision lies in the hands of Derek, who deems that Owen should take on the surgery, leaving Richard bitter. Meanwhile, Bailey deals with her own personal struggles when she nervously prepares for another date with Ben.
 </Overview>
   <ProductionCode>617</ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>78</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>80</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>Deborah Cahn</Writer>
   <absolute_number>119</absolute_number>
@@ -5600,7 +5534,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Overview>When Teddy's patient seeks to end treatment and her life, she turns to Hunt for help. The situation triggers Hunt's memories of his life at war and his past relationship with Teddy. Meanwhile, Callie and Arizona have a difference in opinion on what their future holds, and Richard tries to adjust to his role as a surgeon.</Overview>
   <ProductionCode>618</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>83</RatingCount>
+  <RatingCount>85</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>|Tony Phelan|Joan Rater|</Writer>
   <absolute_number>120</absolute_number>
@@ -5631,7 +5565,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Overview>When Alex's younger brother, Aaron, shows up at Seattle Grace-Mercy West with a hernia, it's up to Alex to get Bailey's approval for his pro bono surgery. Matters are further complicated when Aaron discloses that his family has not heard from Alex since he arrived in Seattle, and parts of Alex's past long kept secret are revealed to his friends and fellow doctors.</Overview>
   <ProductionCode>619</ProductionCode>
   <Rating>7.2</Rating>
-  <RatingCount>83</RatingCount>
+  <RatingCount>84</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>Allan Heinberg</Writer>
   <absolute_number>121</absolute_number>
@@ -5760,7 +5694,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Shonda Rhimes</Writer>
   <absolute_number>125</absolute_number>
   <filename>episodes/73762/2086191.jpg</filename>
-  <lastupdated>1392473080</lastupdated>
+  <lastupdated>1405626235</lastupdated>
   <seasonid>79611</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -6194,7 +6128,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Mark Wilding</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/3488891.jpg</filename>
-  <lastupdated>1392473430</lastupdated>
+  <lastupdated>1405870693</lastupdated>
   <seasonid>268581</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -6226,7 +6160,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Austin Guzman</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/3488901.jpg</filename>
-  <lastupdated>1392473462</lastupdated>
+  <lastupdated>1405870719</lastupdated>
   <seasonid>268581</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -6501,7 +6435,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Overview>The fifth-year residents return for the first day of a year that will make or break their careers: Meredith faces the consequences of tampering with Derek's clinical trial and is terminated at the hospital; April tries to step up to the plate as Chief Resident in the wake of a giant sinkhole in the middle of Seattle; and Cristina and Owen are still at odds over their drastically different feelings for their unborn child.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>89</RatingCount>
+  <RatingCount>90</RatingCount>
   <SeasonNumber>8</SeasonNumber>
   <Writer>|Tony Phelan|Joan Rater|</Writer>
   <absolute_number></absolute_number>
@@ -6534,7 +6468,7 @@ This is an historic episode that finally crosses a long-standing barrier.
 </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>43</RatingCount>
+  <RatingCount>44</RatingCount>
   <SeasonNumber>8</SeasonNumber>
   <Writer>|Shona Rhimes|Debora Cahn|</Writer>
   <absolute_number></absolute_number>
@@ -6565,7 +6499,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Overview>The chief makes a decision that shocks everyone at Seattle Grace; Owen and Cristina attempt to find normalcy; April struggles in her new role; the 5th-year residents receive their first solo surgery assignments.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>86</RatingCount>
+  <RatingCount>87</RatingCount>
   <SeasonNumber>8</SeasonNumber>
   <Writer>|Shona Rhimes|William Harper|</Writer>
   <absolute_number></absolute_number>
@@ -6601,7 +6535,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Writer>|Shona Rhimes|Stacy McKee|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/4172778.jpg</filename>
-  <lastupdated>1392474368</lastupdated>
+  <lastupdated>1405870744</lastupdated>
   <seasonid>468654</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -6627,7 +6561,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Overview>The residents try their hardest to impress surgical great Catherine Avery-who also happens to be Jackson's mother-when she arrives at Seattle Grace to perform a groundbreaking transplant surgery; Arizona and Alex find their hands tied with a confidentiality issue when a familiar patient comes into the ER; meanwhile, a love-struck Teddy throws a dinner party for the couples, and Bailey makes a decision regarding her love life</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>79</RatingCount>
+  <RatingCount>80</RatingCount>
   <SeasonNumber>8</SeasonNumber>
   <Writer>Denise Hahn</Writer>
   <absolute_number></absolute_number>
@@ -6783,7 +6717,7 @@ This is an historic episode that finally crosses a long-standing barrier.
 </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>84</RatingCount>
+  <RatingCount>85</RatingCount>
   <SeasonNumber>8</SeasonNumber>
   <Writer>Stacy McKee</Writer>
   <absolute_number></absolute_number>
@@ -6877,7 +6811,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Overview>As Meredith puts Zola to bed and falls asleep, she begins to wonder -- what if her mother had never had Alzheimer's and she'd had loving, supportive parents? The reverberations of a happy Meredith Grey change the world of Seattle Grace as we know it. What if she had never met Derek in that bar and he had never separated from Addison? What if Callie and Owen had become a couple long before she met Arizona? And what if Bailey never evolved from the meek intern she once was? </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.1</Rating>
-  <RatingCount>77</RatingCount>
+  <RatingCount>78</RatingCount>
   <SeasonNumber>8</SeasonNumber>
   <Writer>William Harper</Writer>
   <absolute_number></absolute_number>
@@ -6908,7 +6842,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Overview>In the spirit of Valentine's Day, Meredith and Derek try to have a night to themselves when Lexie offers to watch Zola; Callie hands babysitting duties over to Mark so that she can surprise Arizona with a romantic evening; and Ben proves to Bailey that he knows her better than she thinks. Meanwhile, the ER fills with romantics, including a 10-year-old girl who has an allergic reaction to chocolates from her valentine and a man who is hit by a car while chasing down his frustrated girlfriend.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>83</RatingCount>
+  <RatingCount>84</RatingCount>
   <SeasonNumber>8</SeasonNumber>
   <Writer>Jeannine Renshaw</Writer>
   <absolute_number></absolute_number>
@@ -6939,12 +6873,12 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Overview>Amelia arrives at Seattle Grace to beg Derek to help with the gliosarcoma case; Cristina and Owen have heated arguments during marriage counseling; Alex realizes he needs to improve his people skills in order to be a good doctor.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>85</RatingCount>
+  <RatingCount>86</RatingCount>
   <SeasonNumber>8</SeasonNumber>
   <Writer>Austin Guzman</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/4245793.jpg</filename>
-  <lastupdated>1392474630</lastupdated>
+  <lastupdated>1405870770</lastupdated>
   <seasonid>468654</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -6971,7 +6905,7 @@ This is an historic episode that finally crosses a long-standing barrier.
 </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.2</Rating>
-  <RatingCount>84</RatingCount>
+  <RatingCount>85</RatingCount>
   <SeasonNumber>8</SeasonNumber>
   <Writer>Matt Byrne</Writer>
   <absolute_number></absolute_number>
@@ -7004,7 +6938,7 @@ This is an historic episode that finally crosses a long-standing barrier.
 </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>75</RatingCount>
+  <RatingCount>76</RatingCount>
   <SeasonNumber>8</SeasonNumber>
   <Writer>William Harper</Writer>
   <absolute_number></absolute_number>
@@ -7068,7 +7002,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Overview>A devastated Cristina presses Owen to confess the intimate details of his affair; Mark takes his new authority very seriously when he steps in as chief for the day and butts heads with Richard over a patient's liver transplant; and Callie deems Meredith ready for the boards, while the rest of the residents continue to stress about the exam. Meanwhile, Callie, Arizona and Bailey plan a much needed ladies night for Teddy.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>75</RatingCount>
+  <RatingCount>76</RatingCount>
   <SeasonNumber>8</SeasonNumber>
   <Writer>Heather Mitchell</Writer>
   <absolute_number></absolute_number>
@@ -7099,7 +7033,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Overview>The doctors work on a Jane Doe, who turns out to be the subject of a case that gained national interest; Cristina proves to be the highest in demand as the residents begin their interviews for post-residency positions at prospective hospitals; and Richard is faced with an unsettling realization when he visits Adele at Rose Ridge.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>76</RatingCount>
+  <RatingCount>77</RatingCount>
   <SeasonNumber>8</SeasonNumber>
   <Writer>Peter Nowalk</Writer>
   <absolute_number></absolute_number>
@@ -7129,8 +7063,8 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Language>en</Language>
   <Overview>After eight years of practice, the residents head to San Francisco for their oral boards; sparks fly between Catherine and Richard when they bump into each other at the hotel; Bailey intervenes after Owen and Teddy get into a heated argument about their young car crash patient; and Mark tries to recruit Lexie for one of his cases. Meanwhile, Alex feels guilty for being away from the hospital when Tommy's health begins to fail.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>73</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>74</RatingCount>
   <SeasonNumber>8</SeasonNumber>
   <Writer>Zakiyyah Alexander</Writer>
   <absolute_number></absolute_number>
@@ -7192,7 +7126,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Overview>The residents determine their future as they make their final decisions regarding post residency positions; Mark admits to Derek that he is torn between his love for Lexie and the fact that Julia can give him everything he's ever wanted; Ben plans something extra special for Bailey, but she is preoccupied with her work; and Arizona encourages her childhood friend, Nick, to have surgery. Meanwhile a couple on their third honeymoon come to the hospital complaining of mysterious symptoms.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>68</RatingCount>
+  <RatingCount>69</RatingCount>
   <SeasonNumber>8</SeasonNumber>
   <Writer>|Mark Wilding|Jenna Bans|</Writer>
   <absolute_number></absolute_number>
@@ -7255,7 +7189,7 @@ This is an historic episode that finally crosses a long-standing barrier.
 </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>73</RatingCount>
+  <RatingCount>74</RatingCount>
   <SeasonNumber>9</SeasonNumber>
   <Writer>Stacy McKee</Writer>
   <absolute_number></absolute_number>
@@ -7319,7 +7253,7 @@ This is an historic episode that finally crosses a long-standing barrier.
 </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.2</Rating>
-  <RatingCount>66</RatingCount>
+  <RatingCount>68</RatingCount>
   <SeasonNumber>9</SeasonNumber>
   <Writer>Zoanne Clack</Writer>
   <absolute_number></absolute_number>
@@ -7351,7 +7285,7 @@ This is an historic episode that finally crosses a long-standing barrier.
 </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>72</RatingCount>
+  <RatingCount>74</RatingCount>
   <SeasonNumber>9</SeasonNumber>
   <Writer>Austin Guzman</Writer>
   <absolute_number></absolute_number>
@@ -7382,7 +7316,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Overview>In this Meredith &amp; Cristina-centric episode, the two friends continue to cope with life after the plane crash and their ever-growing responsibilities at their respective hospitals. As Meredith juggles taking care of Zola with a case that hits close to home, Cristina assists Dr. Thomas on a challenging heart surgery.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>66</RatingCount>
+  <RatingCount>68</RatingCount>
   <SeasonNumber>9</SeasonNumber>
   <Writer>Jeannine Renshaw</Writer>
   <absolute_number></absolute_number>
@@ -7412,8 +7346,8 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Language>en</Language>
   <Overview>As the doctors continue with their lawsuit, they’re forced to confront the realities of their injuries. Meanwhile, Bailey tricks Arizona into helping her with a pediatric case, and Cristina tries to find normalcy in her new environment.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>59</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>61</RatingCount>
   <SeasonNumber>9</SeasonNumber>
   <Writer>William Harper</Writer>
   <absolute_number></absolute_number>
@@ -7444,8 +7378,8 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Overview>Cristina and Owen continue to figure out their relationship amidst the pending lawsuit; and Bailey argues with Ben over plans for their upcoming nuptials. Meanwhile, Callie recruits Jackson to help find a solution to Derek's hand, but he is preoccupied by a shocking situation with April.
 </Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>65</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>66</RatingCount>
   <SeasonNumber>9</SeasonNumber>
   <Writer>Peter Nowalk</Writer>
   <absolute_number></absolute_number>
@@ -7477,7 +7411,7 @@ This is an historic episode that finally crosses a long-standing barrier.
 </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>57</RatingCount>
+  <RatingCount>59</RatingCount>
   <SeasonNumber>9</SeasonNumber>
   <Writer>Stacy McKee</Writer>
   <absolute_number></absolute_number>
@@ -7508,7 +7442,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Overview>As the rest of the doctors prepare for Bailey's wedding, Richard helps her through a bout of pre-wedding jitters. Meanwhile, Lizzie butts heads with Meredith, and Callie and Jackson try to convince Derek to participate in a risky surgery that could fix his hand.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>57</RatingCount>
+  <RatingCount>58</RatingCount>
   <SeasonNumber>9</SeasonNumber>
   <Writer>Debora Cahn</Writer>
   <absolute_number></absolute_number>
@@ -7538,8 +7472,8 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Language>en</Language>
   <Overview>Bailey puts her wedding day on hold and continues her efforts to save Adele's life, Cristina and Owen remain undecided about their pending divorce, while Arizona and Callie try to get their spark back. Meanwhile, the hospital becomes inundated with a group of bikers after a horrible accident.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>58</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>59</RatingCount>
   <SeasonNumber>9</SeasonNumber>
   <Writer>Austin Guzman</Writer>
   <absolute_number></absolute_number>
@@ -7570,7 +7504,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Overview>Meredith, Derek, Cristina and Arizona receive big news regarding the plane crash lawsuit, Richard avoids Catherine's romantic advances and Jackson takes on one of Mark Sloane's old patients. Meanwhile, Derek begins recovery on his hand.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>58</RatingCount>
+  <RatingCount>60</RatingCount>
   <SeasonNumber>9</SeasonNumber>
   <Writer>Joan Rater</Writer>
   <absolute_number></absolute_number>
@@ -7601,7 +7535,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Overview>The Seattle Grace doctors are on edge when a new medical professional enters the hospital; Arizona struggles with the emotional and physical pain of a phantom limb; and while battling pregnancy hormones, an overly-emotional Meredith is confronted with her worst fear.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>59</RatingCount>
+  <RatingCount>60</RatingCount>
   <SeasonNumber>9</SeasonNumber>
   <Writer>Tia Napolitano</Writer>
   <absolute_number></absolute_number>
@@ -7632,7 +7566,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Overview>As Derek and April work around the clock to find a solution for the hospital, Cristina struggles to respect the wishes of a family whose son is dying. Meanwhile, Arizona empathizes with a teenager who faces problems similar to her own.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>52</RatingCount>
+  <RatingCount>53</RatingCount>
   <SeasonNumber>9</SeasonNumber>
   <Writer>Jeannine Renshaw</Writer>
   <absolute_number></absolute_number>
@@ -7662,8 +7596,8 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Language>en</Language>
   <Overview>Competition heats up as several of the doctors fight to become the new face of Seattle Grace; April brings in an emergency case, and Jackson and Alex work with a transgender teen couple. Meanwhile, the hospital implements new policies which test the patience of the staff.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.3</Rating>
-  <RatingCount>53</RatingCount>
+  <Rating>7.2</Rating>
+  <RatingCount>55</RatingCount>
   <SeasonNumber>9</SeasonNumber>
   <Writer>Stacy McKee</Writer>
   <absolute_number></absolute_number>
@@ -7694,7 +7628,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Overview>As the hospital spirals closer to financial ruin, Owen must make some tough decisions, which includes foregoing an expensive surgery that could save the life of a child. Meanwhile, Alex and Jo work together to save the life of an infant, and April asks Jackson for dating advice.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>49</RatingCount>
+  <RatingCount>50</RatingCount>
   <SeasonNumber>9</SeasonNumber>
   <Writer>William Harper</Writer>
   <absolute_number>187</absolute_number>
@@ -7725,7 +7659,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Overview>As word of Seattle Grace's financial trouble spreads, Catherine encourages Jackson to move to Boston, and the interns fear they might lose their jobs. Meanwhile, the doctors meet with a potential investor in a last-ditch effort to save the hospital, and Alex impresses Jo while caring for a patient.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>54</RatingCount>
+  <RatingCount>55</RatingCount>
   <SeasonNumber>9</SeasonNumber>
   <Writer>Austin Guzman</Writer>
   <absolute_number>188</absolute_number>
@@ -7756,7 +7690,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Overview>The discord and chaos created by the hospital's new management team causes one physician to question his future at Seattle Grace. Meanwhile, the doctors and the interns must juggle several transplant surgeries at once, each coming with its own set of obstacles.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>54</RatingCount>
+  <RatingCount>55</RatingCount>
   <SeasonNumber>9</SeasonNumber>
   <Writer>Zoanne Clack</Writer>
   <absolute_number></absolute_number>
@@ -7787,7 +7721,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Overview>As the hospital continues to make positive changes under the new management, the doctors begin to realize that owning a hospital comes with its own set of problems and responsibilities. Meanwhile, Meredith worries about the wellbeing of her unborn baby, Callie and Arizona try to get the spark back in their relationship, and Alex gives Jo‘s new boyfriend a run for his money.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>52</RatingCount>
+  <RatingCount>55</RatingCount>
   <SeasonNumber>9</SeasonNumber>
   <Writer>Gabriel Llanas</Writer>
   <absolute_number></absolute_number>
@@ -7817,8 +7751,8 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Language>en</Language>
   <Overview>A gas tanker explodes on a Seattle highway, causing multiple injuries, including paramedic Matthew. Meredith and Jo help a frantic mother whose child is suffering from a mysterious illness. Owen bonds with a young boy whose parents are in critical condition. Meanwhile true colors are revealed when Alex is forced to work with Jo's boyfriend on an ailing patient.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.3</Rating>
-  <RatingCount>48</RatingCount>
+  <Rating>7.2</Rating>
+  <RatingCount>50</RatingCount>
   <SeasonNumber>9</SeasonNumber>
   <Writer>Meg Marinis</Writer>
   <absolute_number></absolute_number>
@@ -7849,7 +7783,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Overview>Upon receiving some unsettling news, Meredith and Derek take preventative steps for their children’s future; a group of Syrian doctors arrive at Grey Sloan Memorial Hospital for a crash course in basic surgical skills that they plan to apply in the field; and April decides to come clean to Matthew regarding the truth about her virginity. Meanwhile, multiple pre-op patients develop infections, causing one doctor to wonder if she is at fault.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>45</RatingCount>
+  <RatingCount>46</RatingCount>
   <SeasonNumber>9</SeasonNumber>
   <Writer>Debora Cahn</Writer>
   <absolute_number></absolute_number>
@@ -7879,13 +7813,13 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Language>en</Language>
   <Overview>Bailey finds herself at the center of a CDC investigation surrounding the death of several of her patients, as Jackson and the rest of the board members argue over how to address the crisis with the public. Meanwhile, Cristina teases Alex about his unspoken feelings for Jo, and Owen continues to take special care of Ethan as the condition of his parents remains uncertain.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>46</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>47</RatingCount>
   <SeasonNumber>9</SeasonNumber>
   <Writer>Browyn Garrity</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/4488821.jpg</filename>
-  <lastupdated>1392475577</lastupdated>
+  <lastupdated>1404231044</lastupdated>
   <seasonid>492751</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -7910,13 +7844,13 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Language>en</Language>
   <Overview>The doctors reach out to Bailey but she continues to shut everyone out; after an incident with Ethan's grandmother, Owen fears the child could end up in foster care. A new craniofacial specialist arrives at Grey Sloan Memorial Hospital to work on a young patient. Meanwhile, a magician's assistant is rushed into the ER after a magic trick goes terribly wrong.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>45</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>46</RatingCount>
   <SeasonNumber>9</SeasonNumber>
   <Writer>Dan Bucatinsky</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/4488822.jpg</filename>
-  <lastupdated>1392475596</lastupdated>
+  <lastupdated>1405870850</lastupdated>
   <seasonid>492751</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -7941,13 +7875,13 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Language>en</Language>
   <Overview>The doctors of Grey Sloan Memorial Hospital prepare for a super storm heading towards Seattle. Owen's desire to be a parent gets stronger as he becomes closer to Ethan. One wrong move puts the lives of Meredith and her baby in jeopardy. Meanwhile, Jo looks to Alex for help in a moment of crisis, and one doctor gets the shock of her life.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>51</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>52</RatingCount>
   <SeasonNumber>9</SeasonNumber>
   <Writer>William Harper</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/4488823.jpg</filename>
-  <lastupdated>1392475625</lastupdated>
+  <lastupdated>1404231092</lastupdated>
   <seasonid>492751</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -7973,12 +7907,12 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Overview>Grey Sloan Memorial Hospital enters crisis mode as the storm rages, resources become scarce and patients flood in by the busload. Meanwhile, one of the doctors fights for their life.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>42</RatingCount>
+  <RatingCount>43</RatingCount>
   <SeasonNumber>9</SeasonNumber>
   <Writer>Stacy McKee</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/4488824.jpg</filename>
-  <lastupdated>1392475641</lastupdated>
+  <lastupdated>1404231108</lastupdated>
   <seasonid>492751</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -8004,12 +7938,12 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Overview>The Grey Sloan Memorial Hospital doctors are faced with the devastation left by the storm. A giant mudslide in Seattle injures a group of first responders and citizens, causing the already short handed ER to spring into action. Meanwhile, Meredith is faced with a tough decision that will affect the life of a loved one, Callie is rocked by the reality of Arizona’s infidelity, and Richard’s life is in extreme danger.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.1</Rating>
-  <RatingCount>37</RatingCount>
+  <RatingCount>39</RatingCount>
   <SeasonNumber>10</SeasonNumber>
   <Writer>Joan Rater</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/4610273.jpg</filename>
-  <lastupdated>1391646732</lastupdated>
+  <lastupdated>1403291806</lastupdated>
   <seasonid>524499</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added>2013-09-26 20:06:05</thumb_added>
@@ -8034,13 +7968,13 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Language>en</Language>
   <Overview>The staff continue to assist those affected by the storm. Meanwhile, Callie makes a bold decision regarding her relationship with Arizona, and tragic news brings the doctors together.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>12</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>13</RatingCount>
   <SeasonNumber>10</SeasonNumber>
   <Writer>Debora Cahn</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/4625979.jpg</filename>
-  <lastupdated>1391646759</lastupdated>
+  <lastupdated>1402778497</lastupdated>
   <seasonid>524499</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added>2013-09-26 20:06:13</thumb_added>
@@ -8066,12 +8000,12 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Overview>Derek and Meredith adjust to life at home with their newborn and Arizona tries to repair her marriage. Elsewhere, Jackson and Owen clash over financial issues. </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.2</Rating>
-  <RatingCount>32</RatingCount>
+  <RatingCount>33</RatingCount>
   <SeasonNumber>10</SeasonNumber>
   <Writer>Tia Napolitano</Writer>
   <absolute_number>199</absolute_number>
   <filename>episodes/73762/4652600.jpg</filename>
-  <lastupdated>1391646781</lastupdated>
+  <lastupdated>1402778528</lastupdated>
   <seasonid>524499</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added>2013-10-03 20:45:42</thumb_added>
@@ -8096,13 +8030,13 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Language>en</Language>
   <Overview>The doctors of Grey Sloan Memorial throw a fundraising gala which turns wildly competitive after Jackson makes a rash promise. Back at the hospital, Bailey’s patience is tested when she has to deal with several extremely difficult patients. Meanwhile, Shane and Stephanie handle an incredibly busy ER by themselves and Alex reveals an emotional secret to Jo.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.3</Rating>
-  <RatingCount>35</RatingCount>
+  <Rating>7.2</Rating>
+  <RatingCount>37</RatingCount>
   <SeasonNumber>10</SeasonNumber>
   <Writer>Austin Guzman</Writer>
   <absolute_number>200</absolute_number>
   <filename>episodes/73762/4652601.jpg</filename>
-  <lastupdated>1393505693</lastupdated>
+  <lastupdated>1402778572</lastupdated>
   <seasonid>524499</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added>2013-10-08 15:36:19</thumb_added>
@@ -8128,12 +8062,12 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Overview>Meredith jumps back into work but finds it hard to excel at both motherhood and being a surgeon. Stephanie tries to make a good impression on Jackson's mom, and Jo finds herself overly involved with her new patient. Meanwhile, Callie and Owen deal with an emotional situation regarding a patient.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.1</Rating>
-  <RatingCount>38</RatingCount>
+  <RatingCount>40</RatingCount>
   <SeasonNumber>10</SeasonNumber>
   <Writer>Jeannine Renshaw</Writer>
   <absolute_number>201</absolute_number>
   <filename>episodes/73762/4652602.jpg</filename>
-  <lastupdated>1393505714</lastupdated>
+  <lastupdated>1402778602</lastupdated>
   <seasonid>524499</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added>2013-10-08 15:41:16</thumb_added>
@@ -8159,12 +8093,12 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Overview>Derek and Callie work on a brain mapping project, Richard encourages the interns to use his physical condition as a learning tool and after a discussion with Callie, Meredith considers continuing her mother’s research. Meanwhile, Shane continues to feel guilty about Heather’s death.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.2</Rating>
-  <RatingCount>35</RatingCount>
+  <RatingCount>38</RatingCount>
   <SeasonNumber>10</SeasonNumber>
   <Writer>Bill Harper</Writer>
   <absolute_number>202</absolute_number>
   <filename>episodes/73762/4655116.jpg</filename>
-  <lastupdated>1394199149</lastupdated>
+  <lastupdated>1402778642</lastupdated>
   <seasonid>524499</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added>2013-10-08 15:45:03</thumb_added>
@@ -8190,12 +8124,12 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Overview>It's Halloween and the doctors of Grey Sloan Memorial are hit with a barrage of spooky patients, which affects their own plans and puts one doctor’s well-being in jeopardy. Meanwhile, Derek collaborates with Ben on a new surgical technique and Richard angers Bailey when he asks a second year resident to perform his next surgery.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>36</RatingCount>
+  <RatingCount>39</RatingCount>
   <SeasonNumber>10</SeasonNumber>
   <Writer>Gabriel Llanas</Writer>
   <absolute_number>203</absolute_number>
   <filename>episodes/73762/4655117.jpg</filename>
-  <lastupdated>1391646890</lastupdated>
+  <lastupdated>1402778674</lastupdated>
   <seasonid>524499</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added>2013-10-19 17:53:39</thumb_added>
@@ -8221,12 +8155,12 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Overview>The issues between Meredith and Cristina hit a boiling point when one of them ultimately betrays the other at the hospital. Derek tells Jackson that he needs to let go and allow the second year doctors to work on his patients, and April and Matthew make a bold decision about their relationship. Meanwhile, Bailey has difficulties with Ben’s return.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>35</RatingCount>
+  <RatingCount>37</RatingCount>
   <SeasonNumber>10</SeasonNumber>
   <Writer>Meg Marinis</Writer>
-  <absolute_number></absolute_number>
+  <absolute_number>204</absolute_number>
   <filename>episodes/73762/4655119.jpg</filename>
-  <lastupdated>1391646913</lastupdated>
+  <lastupdated>1402778723</lastupdated>
   <seasonid>524499</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added>2013-11-07 21:04:16</thumb_added>
@@ -8251,13 +8185,13 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Language>en</Language>
   <Overview>When an unexpected malpractice suit turns Callie's world upside down, her supportive father  arrives and shares an interesting secret with her. Meanwhile, through flashbacks, we learn some surprising details about Callie and Arizona's marriage.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.3</Rating>
-  <RatingCount>32</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>34</RatingCount>
   <SeasonNumber>10</SeasonNumber>
   <Writer>Stacy McKee</Writer>
-  <absolute_number></absolute_number>
+  <absolute_number>205</absolute_number>
   <filename>episodes/73762/4655120.jpg</filename>
-  <lastupdated>1394103385</lastupdated>
+  <lastupdated>1403291845</lastupdated>
   <seasonid>524499</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added>2013-11-06 17:51:06</thumb_added>
@@ -8283,12 +8217,12 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Overview>Ben worries that a casual conversation with Derek could potentially cause issues for Bailey, Cristina turns to Shane as tension grows with Meredith, and April's upcoming wedding makes for an uncomfortable situation between Jackson and Stephanie. Meanwhile, Meredith plans a Thanksgiving dinner at her house.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>25</RatingCount>
+  <RatingCount>29</RatingCount>
   <SeasonNumber>10</SeasonNumber>
   <Writer>Deborah Cahn</Writer>
-  <absolute_number></absolute_number>
+  <absolute_number>206</absolute_number>
   <filename>episodes/73762/4655121.jpg</filename>
-  <lastupdated>1394103423</lastupdated>
+  <lastupdated>1402778832</lastupdated>
   <seasonid>524499</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added>2013-11-14 23:02:26</thumb_added>
@@ -8314,12 +8248,12 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Overview>April’s sisters arrive to help celebrate April’s upcoming nuptials and quickly get on her nerves. Matthew and Jackson are forced to work together when they witness a terrible accident, Callie and Arizona work hard to reestablish their relationship and Cristina is pressured to live stream an upcoming surgery. Meanwhile, a familiar face returns to the hospital.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>24</RatingCount>
+  <RatingCount>27</RatingCount>
   <SeasonNumber>10</SeasonNumber>
   <Writer>Elizabeth J.B. Klaviter</Writer>
-  <absolute_number></absolute_number>
+  <absolute_number>207</absolute_number>
   <filename>episodes/73762/4710826.jpg</filename>
-  <lastupdated>1394103462</lastupdated>
+  <lastupdated>1402778903</lastupdated>
   <seasonid>524499</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added>2013-11-27 14:01:26</thumb_added>
@@ -8344,13 +8278,13 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Language>en</Language>
   <Overview>On the day of April's wedding, the Grey Sloan Memorial doctors are all preoccupied with their own drama. Meredith and Cristina continue to argue about their research and careers, Bailey comes clean to Ben about her feelings regarding him moving back to Seattle, and Shane puts himself in a risky situation. Meanwhile, Derek gets a phone call that will change his life.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>22</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>26</RatingCount>
   <SeasonNumber>10</SeasonNumber>
   <Writer>William Harper</Writer>
-  <absolute_number></absolute_number>
+  <absolute_number>208</absolute_number>
   <filename>episodes/73762/4710827.jpg</filename>
-  <lastupdated>1394103497</lastupdated>
+  <lastupdated>1402778964</lastupdated>
   <seasonid>524499</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added>2013-12-12 16:08:53</thumb_added>
@@ -8375,13 +8309,13 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Language>en</Language>
   <Overview>The doctors face the consequences of the events that took place at April’s wedding. Meredith feels betrayed when Derek goes back on a promise, Alex is furious after returning to the hospital and hearing the news about his father, and Arizona and Callie decide whether or not to move forward together. Meanwhile, Bailey realizes she was wrong about the motive behind Ben’s decision to move back to Seattle.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>17</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>24</RatingCount>
   <SeasonNumber>10</SeasonNumber>
   <Writer>Austin Guzman</Writer>
-  <absolute_number></absolute_number>
+  <absolute_number>209</absolute_number>
   <filename>episodes/73762/4721153.jpg</filename>
-  <lastupdated>1393705611</lastupdated>
+  <lastupdated>1402778989</lastupdated>
   <seasonid>524499</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added>2014-02-13 09:04:14</thumb_added>
@@ -8406,13 +8340,13 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Language>en</Language>
   <Overview>After an anonymous complaint is issued by one of their own, the hospital implements a non-fraternizing policy causing the couples to panic. Meanwhile, Emma and Owen talk about the future, Cristina and Meredith enjoy a little girl time, and Richard enlists the residents to help research a rare cancer case.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>6</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>19</RatingCount>
   <SeasonNumber>10</SeasonNumber>
   <Writer>Tia Napolitano</Writer>
-  <absolute_number></absolute_number>
+  <absolute_number>210</absolute_number>
   <filename>episodes/73762/4769749.jpg</filename>
-  <lastupdated>1392820840</lastupdated>
+  <lastupdated>1402779019</lastupdated>
   <seasonid>524499</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added>2014-02-19 06:40:40</thumb_added>
@@ -8437,13 +8371,13 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Language>en</Language>
   <Overview>Arizona has a bad day which escalates when she advises one of Callie's patients on a potential double amputation. Derek goes back on a promise to Callie, and Jo and Stephanie come across an abandoned baby outside the hospital. Meanwhile, the doctors deal with the repercussions of the non-fraternization rule, which include meetings with HR and one doctor's suspension. </Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>23</RatingCount>
   <SeasonNumber>10</SeasonNumber>
   <Writer>Joan Rater</Writer>
-  <absolute_number></absolute_number>
+  <absolute_number>211</absolute_number>
   <filename>episodes/73762/4801658.jpg</filename>
-  <lastupdated>1393340893</lastupdated>
+  <lastupdated>1402779044</lastupdated>
   <seasonid>524499</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added>2014-02-25 07:08:13</thumb_added>
@@ -8469,13 +8403,13 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Overview>It's Richard's birthday and Bailey invites him to scrub in on the case of a lifetime. Meredith hires a research assistant to help with her portal vein project. A scorned Callie gives Derek quite the shock. Meanwhile, Shane helps screen candidates for Cristina's clinical trial and meets a young expectant mother who needs his help.
 </Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.1</Rating>
+  <RatingCount>20</RatingCount>
   <SeasonNumber>10</SeasonNumber>
   <Writer>Jeannine Renshaw</Writer>
-  <absolute_number></absolute_number>
+  <absolute_number>212</absolute_number>
   <filename>episodes/73762/4807843.jpg</filename>
-  <lastupdated>1394119369</lastupdated>
+  <lastupdated>1402779077</lastupdated>
   <seasonid>524499</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added>2014-03-06 07:27:06</thumb_added>
@@ -8484,34 +8418,34 @@ This is an historic episode that finally crosses a long-standing barrier.
 </Episode>
 <Episode>
   <id>4807844</id>
-  <Combined_episodenumber>17</Combined_episodenumber>
+  <Combined_episodenumber>17.0</Combined_episodenumber>
   <Combined_season>10</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>17.0</DVD_episodenumber>
+  <DVD_season>10</DVD_season>
   <Director>Chandra Wilson</Director>
-  <EpImgFlag></EpImgFlag>
+  <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Do You Know?</EpisodeName>
   <EpisodeNumber>17</EpisodeNumber>
   <FirstAired>2014-03-27</FirstAired>
   <GuestStars></GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
+  <Overview>Cristina imagines the two routes her life can take based on one decision she makes. Meanwhile one of the hospital’s patients decides whether or not to live.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.0</Rating>
+  <RatingCount>18</RatingCount>
   <SeasonNumber>10</SeasonNumber>
   <Writer>Stacy McKee</Writer>
-  <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1393341042</lastupdated>
+  <absolute_number>213</absolute_number>
+  <filename>episodes/73762/4807844.jpg</filename>
+  <lastupdated>1405870822</lastupdated>
   <seasonid>524499</seasonid>
   <seriesid>73762</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-03-10 14:25:36</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4808440</id>
@@ -8521,28 +8455,28 @@ This is an historic episode that finally crosses a long-standing barrier.
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>TBA</EpisodeName>
+  <Director>Nicole Cummins</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>You Be Illin'</EpisodeName>
   <EpisodeNumber>18</EpisodeNumber>
   <FirstAired>2014-04-03</FirstAired>
   <GuestStars></GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
+  <Overview>The hospital gets inundated with flu infected patients, which causes the doctors to slowly fall ill one by one. Derek must fight off the sickness as he prepares to give a speech on brain mapping and the residents place bets on who will fall ill first. Meanwhile, a new doctor at the hospital gives Alex a glimpse into an alternate form of medical practice.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.2</Rating>
+  <RatingCount>18</RatingCount>
   <SeasonNumber>10</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1393447347</lastupdated>
+  <Writer>Zoanne Clack</Writer>
+  <absolute_number>214</absolute_number>
+  <filename>episodes/73762/4808440.jpg</filename>
+  <lastupdated>1402779140</lastupdated>
   <seasonid>524499</seasonid>
   <seriesid>73762</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-03-17 18:03:46</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4808441</id>
@@ -8552,28 +8486,28 @@ This is an historic episode that finally crosses a long-standing barrier.
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>TBA</EpisodeName>
+  <Director>Kevin McKidd</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>I'm Winning</EpisodeName>
   <EpisodeNumber>19</EpisodeNumber>
   <FirstAired>2014-04-10</FirstAired>
   <GuestStars></GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
+  <Overview>Cristina is nominated for a Harper Avery and although most of her fellow doctors are ecstatic, she won’t let herself get too excited. Bailey continues to work on a young boy without an immune system -- Alex considers making a change, and Derek and Callie work with a machine that can recognize emotions. Meanwhile, Richard gives the residents a pep talk about the exciting projects going on around the hospital.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>16</RatingCount>
   <SeasonNumber>10</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1393538876</lastupdated>
+  <Writer>Joan Rater</Writer>
+  <absolute_number>215</absolute_number>
+  <filename>episodes/73762/4808441.jpg</filename>
+  <lastupdated>1402779163</lastupdated>
   <seasonid>524499</seasonid>
   <seriesid>73762</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-03-25 07:02:21</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4818745</id>
@@ -8583,28 +8517,28 @@ This is an historic episode that finally crosses a long-standing barrier.
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>TBA</EpisodeName>
+  <Director>Mark Jackson</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Go It Alone</EpisodeName>
   <EpisodeNumber>20</EpisodeNumber>
   <FirstAired>2014-04-17</FirstAired>
   <GuestStars></GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
+  <Overview>Cristina enlists Meredith to help her prepare an acceptance speech for her possible Harper Avery win and while Owen offers to attend the ceremony with her, she insists on going alone. Meanwhile, Derek feels overwhelmed between his responsibilities at home and at the hospital. April and Jackson come to a disagreement on children and religion, and Callie and Arizona try to reconnect in their marriage.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>19</RatingCount>
   <SeasonNumber>10</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1394195792</lastupdated>
+  <Writer>Lauren Barnett</Writer>
+  <absolute_number>216</absolute_number>
+  <filename>episodes/73762/4818745.jpg</filename>
+  <lastupdated>1402958078</lastupdated>
   <seasonid>524499</seasonid>
   <seriesid>73762</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-04-07 17:22:06</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4818746</id>
@@ -8614,28 +8548,28 @@ This is an historic episode that finally crosses a long-standing barrier.
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>TBA</EpisodeName>
+  <Director>Rob Greenlea</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Change of Heart</EpisodeName>
   <EpisodeNumber>21</EpisodeNumber>
   <FirstAired>2014-04-24</FirstAired>
-  <GuestStars></GuestStars>
+  <GuestStars>Caterina Scorsone</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
+  <Overview>Jackson is given the daunting task of delivering disappointing news to the doctors. Meanwhile, Derek's sister Amelia drops by for a surprise visit, Richard surprises Catherine in Boston and when Bailey gets frustrated by the slow pace of her research, she makes a risky decision.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>20</RatingCount>
   <SeasonNumber>10</SeasonNumber>
-  <Writer></Writer>
+  <Writer>Meg Marinis</Writer>
   <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1394195802</lastupdated>
+  <filename>episodes/73762/4818746.jpg</filename>
+  <lastupdated>1403715429</lastupdated>
   <seasonid>524499</seasonid>
   <seriesid>73762</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-04-10 14:41:43</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4818747</id>
@@ -8645,28 +8579,28 @@ This is an historic episode that finally crosses a long-standing barrier.
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>TBA</EpisodeName>
+  <Director>Rob Corn</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>We Are Never Ever Getting Back Together</EpisodeName>
   <EpisodeNumber>22</EpisodeNumber>
   <FirstAired>2014-05-01</FirstAired>
-  <GuestStars></GuestStars>
+  <GuestStars>Isaiah Washington|Caterina Scorsone</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
+  <Overview>Cristina looks to Meredith for advice as she assesses her future at the hospital. Derek and Amelia work together on a difficult surgery involving conjoined twins. Meanwhile, Jo is spread too thin when she tries to work on several cases at once and Stephanie realizes the truth about Bailey’s bubble boy case.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>17</RatingCount>
   <SeasonNumber>10</SeasonNumber>
-  <Writer></Writer>
+  <Writer>Joan Rater</Writer>
   <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1394195818</lastupdated>
+  <filename>episodes/73762/4818747.jpg</filename>
+  <lastupdated>1403782092</lastupdated>
   <seasonid>524499</seasonid>
   <seriesid>73762</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-04-15 15:29:07</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4818748</id>
@@ -8676,28 +8610,28 @@ This is an historic episode that finally crosses a long-standing barrier.
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>TBA</EpisodeName>
+  <Director>Bill D'Elia</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Everything I Try to Do, Nothing Seems to Turn Out Right</EpisodeName>
   <EpisodeNumber>23</EpisodeNumber>
   <FirstAired>2014-05-08</FirstAired>
-  <GuestStars></GuestStars>
+  <GuestStars>Caterina Scorsone</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
+  <Overview>With Derek away, Meredith spends time with Amelia and finds out her true feelings about her time in Seattle. Bailey deals with the ramifications of her actions and Callie receives devastating news. Meanwhile, the residents panic after hearing that one of them will be fired.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.2</Rating>
+  <RatingCount>13</RatingCount>
   <SeasonNumber>10</SeasonNumber>
-  <Writer></Writer>
+  <Writer>Austin Guzman</Writer>
   <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1394195826</lastupdated>
+  <filename>episodes/73762/4818748.jpg</filename>
+  <lastupdated>1403782122</lastupdated>
   <seasonid>524499</seasonid>
   <seriesid>73762</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-04-28 12:04:54</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4818749</id>
@@ -8707,11 +8641,42 @@ This is an historic episode that finally crosses a long-standing barrier.
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>TBA (Season Finale)</EpisodeName>
+  <Director>Tony Phelan</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Fear (Of the Unknown)</EpisodeName>
   <EpisodeNumber>24</EpisodeNumber>
   <FirstAired>2014-05-15</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>The doctors of Grey Sloan Memorial Hospital bid an emotional farewell to the beloved Cristina Yang. A possible act of terrorism rocks Seattle and causes chaos at the hospital. Meanwhile, Meredith makes a life changing decision and one doctor receives shocking news.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>16</RatingCount>
+  <SeasonNumber>10</SeasonNumber>
+  <Writer>Shonda Rhimes</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73762/4818749.jpg</filename>
+  <lastupdated>1405870801</lastupdated>
+  <seasonid>524499</seasonid>
+  <seriesid>73762</seriesid>
+  <thumb_added>2014-04-28 12:09:32</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4933956</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>11</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>TBA</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2014-09-25</FirstAired>
   <GuestStars></GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
@@ -8719,12 +8684,12 @@ This is an historic episode that finally crosses a long-standing barrier.
   <ProductionCode></ProductionCode>
   <Rating></Rating>
   <RatingCount>0</RatingCount>
-  <SeasonNumber>10</SeasonNumber>
+  <SeasonNumber>11</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename></filename>
-  <lastupdated>1394195831</lastupdated>
-  <seasonid>524499</seasonid>
+  <lastupdated>1405444503</lastupdated>
+  <seasonid>591139</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
   <thumb_height></thumb_height>

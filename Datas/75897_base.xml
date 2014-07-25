@@ -13,18 +13,19 @@
     <Network>Comedy Central</Network>
     <NetworkID></NetworkID>
     <Overview>South Park is an animated series featuring four boys who live in the Colorado town of South Park, which is beset by frequent odd occurrences. The show grew out of short film that Trey Parker and Matt Stone created called The Spirit of Christmas, and has become an award-winning show that is a unique blend of humor and satire.</Overview>
-    <Rating>9.2</Rating>
-    <RatingCount>363</RatingCount>
+    <Rating>9.1</Rating>
+    <RatingCount>371</RatingCount>
     <Runtime>30</Runtime>
     <SeriesID>344</SeriesID>
     <SeriesName>South Park</SeriesName>
     <Status>Continuing</Status>
     <added></added>
     <addedBy></addedBy>
-    <banner>graphical/75897-g13.jpg</banner>
+    <banner>graphical/75897-g7.jpg</banner>
     <fanart>fanart/original/75897-43.jpg</fanart>
-    <lastupdated>1394225312</lastupdated>
+    <lastupdated>1405791407</lastupdated>
     <poster>posters/75897-5.jpg</poster>
+    <tms_wanted_old>1</tms_wanted_old>
     <zap2it_id>SH00229827</zap2it_id>
   </Series>
 </Data>

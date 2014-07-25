@@ -2,7 +2,7 @@
 <Data>
   <Series>
     <id>161511</id>
-    <Actors>|Emmy Rossum|William H. Macy|Emma Kenney|Jeremy Allen White|Laura Wiggins|Steve Howey|Shanola Hampton|Ethan Cutkosky|Cameron Monaghan|Stephanie Fantauzzi|Emma Greenwell|Joan Cusack|Justin Chatwin|Noel Fisher|Zach McGowan|</Actors>
+    <Actors>|Emmy Rossum|William H. Macy|Ethan Cutkosky|Emma Kenney|Cameron Monaghan|Jeremy Allen White|Justin Chatwin|Steve Howey|Shanola Hampton|Stephanie Fantauzzi|Emma Greenwell|Laura Wiggins|Joan Cusack|Noel Fisher|Zach McGowan|</Actors>
     <Airs_DayOfWeek>Sunday</Airs_DayOfWeek>
     <Airs_Time>9:00 PM</Airs_Time>
     <ContentRating>TV-MA</ContentRating>
@@ -13,18 +13,19 @@
     <Network>Showtime</Network>
     <NetworkID></NetworkID>
     <Overview>Chicagoan Frank Gallagher is the proud single dad of six smart, industrious, independent kids, who without him would be...perhaps better off. When Frank's not at the bar spending what little money they have, he's passed out on the floor. But the kids have found ways to grow up in spite of him. They may not be like any family you know, but they make no apologies for being exactly who they are.</Overview>
-    <Rating>9.0</Rating>
-    <RatingCount>90</RatingCount>
+    <Rating>8.9</Rating>
+    <RatingCount>98</RatingCount>
     <Runtime>60</Runtime>
     <SeriesID>78143</SeriesID>
     <SeriesName>Shameless (US)</SeriesName>
     <Status>Continuing</Status>
     <added>2010-05-06 13:26:59</added>
     <addedBy>235</addedBy>
-    <banner>graphical/161511-g3.jpg</banner>
-    <fanart>fanart/original/161511-8.jpg</fanart>
-    <lastupdated>1394339947</lastupdated>
-    <poster>posters/161511-6.jpg</poster>
+    <banner>graphical/161511-g4.jpg</banner>
+    <fanart>fanart/original/161511-7.jpg</fanart>
+    <lastupdated>1405834486</lastupdated>
+    <poster>posters/161511-1.jpg</poster>
+    <tms_wanted_old>1</tms_wanted_old>
     <zap2it_id>SH01347868</zap2it_id>
   </Series>
 </Data>

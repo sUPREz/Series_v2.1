@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Data><Series>
   <id>187801</id>
-  <Actors>|Russell Tovey|Sarah Solemani|Joe Wilkinson|Kerry Howard|Ricky Champ|</Actors>
+  <Actors>|Russell Tovey|Sarah Solemani|Joe Wilkinson|Camille Coduri|Ricky Champ|Kerry Howard|</Actors>
   <Airs_DayOfWeek>Thursday</Airs_DayOfWeek>
   <Airs_Time>10:00 PM</Airs_Time>
   <ContentRating>TV-14</ContentRating>
@@ -12,7 +12,7 @@
   <Network>BBC Three</Network>
   <NetworkID></NetworkID>
   <Overview>Him and Her is a comedy series broadcast on BBC THREE. The show follows the lives of Steve and Becky who only want to drink, eat, have sex and not do any work. They exist together in Steve's bedsit living off state benefits.</Overview>
-  <Rating>8.7</Rating>
+  <Rating>8.8</Rating>
   <RatingCount>12</RatingCount>
   <Runtime>30</Runtime>
   <SeriesID></SeriesID>
@@ -22,8 +22,9 @@
   <addedBy>169211</addedBy>
   <banner>graphical/187801-g2.jpg</banner>
   <fanart>fanart/original/187801-2.jpg</fanart>
-  <lastupdated>1393177135</lastupdated>
+  <lastupdated>1403364631</lastupdated>
   <poster>posters/187801-2.jpg</poster>
+  <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id></zap2it_id>
 </Series>
 <Episode>
@@ -694,7 +695,7 @@ While everyone drinks Steve's drinks and eats all his food, Steve tries in vain 
   <DVD_season></DVD_season>
   <Director>Richard Laxton</Director>
   <EpImgFlag>2</EpImgFlag>
-  <EpisodeName>The Arrival Of The Guests</EpisodeName>
+  <EpisodeName>The Arrival</EpisodeName>
   <EpisodeNumber>2</EpisodeNumber>
   <FirstAired>2013-11-28</FirstAired>
   <GuestStars>Ralph Brown|Marion Bailey|Nick Blood|Paul Clayton|Georgia Eracleous|Louis Melton|Jonny Sweet|Thomas Coombes|Neal Barry|Robin Weaver</GuestStars>
@@ -708,7 +709,7 @@ While everyone drinks Steve's drinks and eats all his food, Steve tries in vain 
   <Writer>Stefan Golaszewski</Writer>
   <absolute_number>22</absolute_number>
   <filename>episodes/187801/4707682.jpg</filename>
-  <lastupdated>1391465195</lastupdated>
+  <lastupdated>1395032920</lastupdated>
   <seasonid>566820</seasonid>
   <seriesid>187801</seriesid>
   <thumb_added>2014-02-03 14:10:52</thumb_added>

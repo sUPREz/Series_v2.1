@@ -1,29 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Data><Series>
   <id>76290</id>
-  <Actors>|Kiefer Sutherland|Carlos Bernard|Mary Lynn Rajskub|Jude Ciccolella|Glenn Morshower|Tanya Wright|Alberta Watson|Eric Balfour|Regina King|Peter MacNicol|Marisol Nichols|Jayne Atkinson|Carlo Rota|Janeane Garofalo|Rhys Coiro|Jeffrey Nordling|Bob Gunton|Colm Feore|Annie Wersching|Cherry Jones|D.B. Woodside|James Morrison|Gregory Itzin|Jean Smart|Louis Lombardi|Sarah Clarke|Roger R. Cross|Reiko Aylesworth|Elisha Cuthbert|Lana Parrilla|Kim Raver|Dennis Haysbert|Leslie Hope|Xander Berkeley|James Badge Dale|Penny Johnson Jerald|Sarah Wynter|Shohreh Aghdashloo|Laura Harris|David Anders|Katee Sackhoff|Mykelti Williamson|Anil Kapoor|Chris Diamantopoulos|John Boyd|Freddie Prinze Jr.|</Actors>
+  <Actors>|Kiefer Sutherland|Carlos Bernard|Mary Lynn Rajskub|Jude Ciccolella|Glenn Morshower|Tanya Wright|Alberta Watson|Eric Balfour|Regina King|Peter MacNicol|Marisol Nichols|Jayne Atkinson|Carlo Rota|Janeane Garofalo|Rhys Coiro|Jeffrey Nordling|Bob Gunton|Colm Feore|Annie Wersching|Cherry Jones|D.B. Woodside|James Morrison|Gregory Itzin|Jean Smart|Louis Lombardi|Sarah Clarke|Roger R. Cross|Reiko Aylesworth|Elisha Cuthbert|Lana Parrilla|Kim Raver|Dennis Haysbert|Leslie Hope|Xander Berkeley|James Badge Dale|Penny Johnson|Shohreh Aghdashloo|Laura Harris|David Anders|Katee Sackhoff|Mykelti Williamson|Anil Kapoor|Chris Diamantopoulos|John Boyd|Freddie Prinze Jr.|Sarah Wynter|Yvonne Strahovski|</Actors>
   <Airs_DayOfWeek>Monday</Airs_DayOfWeek>
   <Airs_Time>9:00 PM</Airs_Time>
   <ContentRating>TV-14</ContentRating>
   <FirstAired>2001-11-06</FirstAired>
-  <Genre>|Action|Adventure|Drama|</Genre>
+  <Genre>|Action|Adventure|Drama|Thriller|</Genre>
   <IMDB_ID>tt0285331</IMDB_ID>
   <Language>en</Language>
   <Network>FOX</Network>
   <NetworkID></NetworkID>
   <Overview>&quot;24&quot; is a TV thriller presented in &quot;real time&quot; with each minute of airtime that corresponds to a minute in the lives of the characters. &quot;24&quot; employs fast-paced and complex stories, and often contains unexpected plot twists. Though each day's events typically revolve around thwarting an impending terrorist attack, each season is made up of various interwoven story threads. These may run for just one hour, but more usually run over several hours. These typically involve investigations of leads on terrorists, tracking suspects, and averting attacks. The exact objective of the day evolves over the course of the season as the antagonists adapt, contingencies arise, and larger scale operations unfold.</Overview>
   <Rating>8.9</Rating>
-  <RatingCount>388</RatingCount>
-  <Runtime>45</Runtime>
+  <RatingCount>418</RatingCount>
+  <Runtime>60</Runtime>
   <SeriesID>3866</SeriesID>
   <SeriesName>24</SeriesName>
-  <Status>Continuing</Status>
+  <Status></Status>
   <added></added>
   <addedBy></addedBy>
-  <banner>graphical/76290-g7.jpg</banner>
-  <fanart>fanart/original/76290-31.jpg</fanart>
-  <lastupdated>1394325367</lastupdated>
+  <banner>graphical/76290-g14.jpg</banner>
+  <fanart>fanart/original/76290-46.jpg</fanart>
+  <lastupdated>1405878192</lastupdated>
   <poster>posters/76290-4.jpg</poster>
+  <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>SH00446604</zap2it_id>
 </Series>
 <Episode>
@@ -316,8 +317,8 @@
   <Language>en</Language>
   <Overview>Set and shot on location in Africa, Bauer and mentor Carl Benton battle an international crisis, while here at home the nation prepares for a new president on inauguration day. Taking place just a few months before the new day dawns, U.S. State Department officer Frank Tramell and Jonah Hodges are pulling the strings that will set the stage and raise the stakes for Season Seven.</Overview>
   <ProductionCode>700</ProductionCode>
-  <Rating>7.3</Rating>
-  <RatingCount>19</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>20</RatingCount>
   <SeasonNumber>0</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
@@ -325,7 +326,7 @@
   <airsbefore_episode>1</airsbefore_episode>
   <airsbefore_season>7</airsbefore_season>
   <filename>episodes/76290/399738.jpg</filename>
-  <lastupdated>1260474177</lastupdated>
+  <lastupdated>1401734246</lastupdated>
   <seasonid>23748</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -401,6 +402,40 @@
   <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
+  <id>4850937</id>
+  <Combined_episodenumber>13</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Jack is Back</EpisodeName>
+  <EpisodeNumber>13</EpisodeNumber>
+  <FirstAired>2014-04-08</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>The cast and crew of 24: LIVE ANOTHER DAY take us through production of the 12-episode event series and the return of Jack Bauer. 24: LIVE ANOTHER DAY debuts with a two-hour premiere May 5 at 8/7c and airs Mondays at 9/8c on FOX.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>4.7</Rating>
+  <RatingCount>3</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode>1</airsbefore_episode>
+  <airsbefore_season>9</airsbefore_season>
+  <filename>episodes/76290/4850937.jpg</filename>
+  <lastupdated>1399573828</lastupdated>
+  <seasonid>23748</seasonid>
+  <seriesid>76290</seriesid>
+  <thumb_added>2014-04-24 07:16:00</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
   <id>189255</id>
   <Combined_episodenumber>1.0</Combined_episodenumber>
   <Combined_season>1</Combined_season>
@@ -432,7 +467,7 @@ A European photographer makes pleasant conversation with a beautiful woman on a 
 </Overview>
   <ProductionCode>1AFF79</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>90</RatingCount>
+  <RatingCount>95</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Robert Cochran|Joel Surnow</Writer>
   <absolute_number></absolute_number>
@@ -470,7 +505,7 @@ Mandy meets with the man behind the Palmer hit, but her partner holds things up 
 </Overview>
   <ProductionCode>1AFF01</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>61</RatingCount>
+  <RatingCount>67</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Joel Surnow|Michael Loceff</Writer>
   <absolute_number></absolute_number>
@@ -507,8 +542,8 @@ Kim and Janet manage to escape their captors. Kim is able to get a message to Te
 Tony calls for outside help when he decides that Jack should be relieved of his command.
 </Overview>
   <ProductionCode>1AFF02</ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>53</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>59</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Joel Surnow|Michael Loceff</Writer>
   <absolute_number></absolute_number>
@@ -543,8 +578,8 @@ Palmer discovers who the source is that leaked the story about his son.
 Rick and Dan argue about how to handle Janet, while Teri and Alan run into an obstacle as they try to help their daughters.
 </Overview>
   <ProductionCode>1AFF03</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>57</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>62</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Robert Cochran</Writer>
   <absolute_number></absolute_number>
@@ -579,8 +614,8 @@ Kim is delivered to Gaines and she learns just how ruthless he can be when he's 
 Palmer talks to the reporter who plans to break the story about Keith and she shows him proof to back up her claims.
 </Overview>
   <ProductionCode>1AFF04</ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>50</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>53</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Chip Johannessen</Writer>
   <absolute_number></absolute_number>
@@ -617,8 +652,8 @@ Kim tries to persuade Rick to help her escape from Gaines.
 Teri receives a message from Nina and discovers that she is in more danger than she realized.
 </Overview>
   <ProductionCode>1AFF05</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>52</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>56</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Howard Gordon</Writer>
   <absolute_number></absolute_number>
@@ -653,8 +688,8 @@ Teri pulls a surprise attack on her kidnapper, but she makes the wrong move and 
 Palmer tries to persuade his family to go public with the story before the press can report it.
 </Overview>
   <ProductionCode>1AFF06</ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>53</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>58</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Andrea Newman</Writer>
   <absolute_number></absolute_number>
@@ -689,8 +724,8 @@ Teri and Kim are finally reunited.
 Still under Gaines' control, Jack goes to the Palmer breakfast, where he learns what Gaines has planned for him.  Jack manages to foil the assassination attempt, but is captured by Secret Service in the process.
 </Overview>
   <ProductionCode>1AFF07</ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>49</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>52</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Joel Surnow, Michael Loceff</Writer>
   <absolute_number></absolute_number>
@@ -726,7 +761,7 @@ Teri sacrifices herself to save Kim from a brutal experience.
 </Overview>
   <ProductionCode>1AFF08</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>49</RatingCount>
+  <RatingCount>53</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Virgil Williams</Writer>
   <absolute_number></absolute_number>
@@ -764,7 +799,7 @@ Jack uncovers a new name from the key card that may lead him to Gaines.
 </Overview>
   <ProductionCode>1AFF09</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>49</RatingCount>
+  <RatingCount>54</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Lawrence Hertzog</Writer>
   <absolute_number></absolute_number>
@@ -800,7 +835,7 @@ Jack's interrogation of Cofell goes awry, but he discovers another familiar face
 </Overview>
   <ProductionCode>1AFF10</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>49</RatingCount>
+  <RatingCount>54</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Robert Cochran</Writer>
   <absolute_number></absolute_number>
@@ -836,7 +871,7 @@ Green tries to turn Nina and Tony against one another.
 </Overview>
   <ProductionCode>1AFF11</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>48</RatingCount>
+  <RatingCount>51</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Howard Gordon</Writer>
   <absolute_number></absolute_number>
@@ -872,7 +907,7 @@ Nina discovers that a second assassin has arrived in LA, which means that Palmer
 </Overview>
   <ProductionCode>1AFF12</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>52</RatingCount>
+  <RatingCount>56</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Andrea Newman</Writer>
   <absolute_number></absolute_number>
@@ -908,7 +943,7 @@ Palmer goes to CTU and demands a meeting with Jack.
 </Overview>
   <ProductionCode>1AFF13</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>50</RatingCount>
+  <RatingCount>54</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Joel Surnow, Michael Loceff</Writer>
   <absolute_number></absolute_number>
@@ -941,8 +976,8 @@ A member of Palmer's staff has a romantic encounter with the would-be assassin.
 Teri and Nina have a revealing conversation about Jack at the safehouse.
 </Overview>
   <ProductionCode>1AFF14</ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>47</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>50</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Michael Chernuchin</Writer>
   <absolute_number></absolute_number>
@@ -973,8 +1008,8 @@ Teri and Nina have a revealing conversation about Jack at the safehouse.
   <Overview>Keith takes matters into his own hands when he arranges a secret meeting with Carl. Elizabeth realizes who Alexis really is and immediately comes forward. Jack and Mason question her and then convince her to aid in his capture. The safe house is attacked, but Teri and Kim manage to escape. They are then separated by an unforeseen accident.
 </Overview>
   <ProductionCode>1AFF15</ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>46</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>47</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Robert Cochran, Howard Gordon</Writer>
   <absolute_number></absolute_number>
@@ -1010,7 +1045,7 @@ Jack sets Elizabeth up for a sting against Alexis, but she pulls a fast one at t
 </Overview>
   <ProductionCode>1AFF16</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>48</RatingCount>
+  <RatingCount>52</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Michael Chernuchin</Writer>
   <absolute_number></absolute_number>
@@ -1048,7 +1083,7 @@ Teri and Dr. Phil return to the Bauer home, putting themselves in further danger
 </Overview>
   <ProductionCode>1AFF17</ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>50</RatingCount>
+  <RatingCount>51</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Maurice Hurley</Writer>
   <absolute_number></absolute_number>
@@ -1084,7 +1119,7 @@ Kim finds herself in the middle of a botched drug deal, while Palmer breaks the 
 </Overview>
   <ProductionCode>1AFF18</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>51</RatingCount>
+  <RatingCount>53</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Joel Surnow, Michael Loceff</Writer>
   <absolute_number></absolute_number>
@@ -1117,8 +1152,8 @@ Kim finds herself in the middle of a botched drug deal, while Palmer breaks the 
 Jack stumbles onto a secret detention center. He arrives just in time to bluff Andre and his men out of freeing a prisoner who is being transferred in. Jack confronts the prisoner and discovers that he knows him from the past. Before Jack can learn any more, Andre and his soldiers make another run on the prison.
 </Overview>
   <ProductionCode>1AFF19</ProductionCode>
-  <Rating>7.3</Rating>
-  <RatingCount>53</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>54</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Robert Cochran, Howard Gordon</Writer>
   <absolute_number></absolute_number>
@@ -1154,7 +1189,7 @@ Kim is finally released from jail, but her freedom is all too brief when she is 
 </Overview>
   <ProductionCode>1AFF20</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>48</RatingCount>
+  <RatingCount>49</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Joel Surnow, Michael Loceff</Writer>
   <absolute_number></absolute_number>
@@ -1190,7 +1225,7 @@ Palmer is tempted by a member of his staff.
 </Overview>
   <ProductionCode>1AFF21</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>49</RatingCount>
+  <RatingCount>50</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Joel Surnow, Michael Loceff</Writer>
   <absolute_number></absolute_number>
@@ -1227,8 +1262,8 @@ Teri tells Jack about her unexpected good news.
 A second mole is revealed inside CTU.
 </Overview>
   <ProductionCode>1AFF22</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>49</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>50</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Robert Cochran, Howard Gordon</Writer>
   <absolute_number></absolute_number>
@@ -1260,7 +1295,7 @@ A second mole is revealed inside CTU.
 </Overview>
   <ProductionCode>1AFF23</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>48</RatingCount>
+  <RatingCount>49</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Joel Surnow, Michael Loceff</Writer>
   <absolute_number></absolute_number>
@@ -1303,12 +1338,12 @@ At CTU, Jack learns that the key to finding the bomb rests with a group of Ameri
 </Overview>
   <ProductionCode>2AFF01</ProductionCode>
   <Rating>7.2</Rating>
-  <RatingCount>60</RatingCount>
+  <RatingCount>62</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Joel Surnow, Michael Loceff</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189279.jpg</filename>
-  <lastupdated>1326186506</lastupdated>
+  <lastupdated>1399536323</lastupdated>
   <seasonid>10064</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -1339,12 +1374,12 @@ Palmer and Eric disagree over how to deal with the media during the nuclear thre
 </Overview>
   <ProductionCode>2AFF02</ProductionCode>
   <Rating>7.0</Rating>
-  <RatingCount>52</RatingCount>
+  <RatingCount>55</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Joel Surnow, Michael Loceff</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189280.jpg</filename>
-  <lastupdated>1326186524</lastupdated>
+  <lastupdated>1399536309</lastupdated>
   <seasonid>10064</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -1374,13 +1409,13 @@ George locates the warehouse where the nuclear bomb was built, but his discovery
 Kim takes Megan to CTU, believing that it is the safest place for both of them.
 </Overview>
   <ProductionCode>2AFF03</ProductionCode>
-  <Rating>7.3</Rating>
-  <RatingCount>46</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>48</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Howard Gordon</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189281.jpg</filename>
-  <lastupdated>1326186543</lastupdated>
+  <lastupdated>1399536297</lastupdated>
   <seasonid>10064</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -1413,12 +1448,12 @@ Jack locates the leader of the American terrorist cell. He learns that the woman
 </Overview>
   <ProductionCode>2AFF04</ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>44</RatingCount>
+  <RatingCount>46</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Remi Aubuchon</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189282.jpg</filename>
-  <lastupdated>1326186559</lastupdated>
+  <lastupdated>1399536288</lastupdated>
   <seasonid>10064</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -1448,13 +1483,13 @@ Palmer and Stanton meet with a Middle Eastern ambassador who may be in league wi
 Tony visits the Warner home and questions Reza about his possible connection with Syed Ali.
 </Overview>
   <ProductionCode>2AFF05</ProductionCode>
-  <Rating>7.1</Rating>
-  <RatingCount>47</RatingCount>
+  <Rating>7.2</Rating>
+  <RatingCount>50</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Gil Grant</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189283.jpg</filename>
-  <lastupdated>1326186575</lastupdated>
+  <lastupdated>1399536279</lastupdated>
   <seasonid>10064</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -1485,12 +1520,12 @@ Kim and Miguel plan to kidnap Megan from the hospital in order to take her out o
 </Overview>
   <ProductionCode>2AFF06</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>43</RatingCount>
+  <RatingCount>46</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Elizabeth M. Cosin</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189284.jpg</filename>
-  <lastupdated>1326186675</lastupdated>
+  <lastupdated>1399536270</lastupdated>
   <seasonid>10064</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -1520,13 +1555,13 @@ Palmer and Mike try to gage Stanton's loyalty when they investigate the chopper 
 George has a final conversation with his son.
 </Overview>
   <ProductionCode>2AFF07</ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>42</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>45</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Virgil Williams</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189285.jpg</filename>
-  <lastupdated>1326186693</lastupdated>
+  <lastupdated>1399536256</lastupdated>
   <seasonid>10064</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -1559,12 +1594,12 @@ Nina pulls a deadly countermove, setting herself up as the main player in the se
 </Overview>
   <ProductionCode>2AFF08</ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>44</RatingCount>
+  <RatingCount>47</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Joel Surnow, Michael Loceff</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189286.jpg</filename>
-  <lastupdated>1326186718</lastupdated>
+  <lastupdated>1399536245</lastupdated>
   <seasonid>10064</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -1597,12 +1632,12 @@ Jack and Nina fight off a group of renegade soldiers while waiting to be rescued
 </Overview>
   <ProductionCode>2AFF09</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>48</RatingCount>
+  <RatingCount>50</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Howard Gordon</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189287.jpg</filename>
-  <lastupdated>1326186736</lastupdated>
+  <lastupdated>1399536236</lastupdated>
   <seasonid>10064</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -1633,12 +1668,12 @@ Kim and Miguel hatch an escape plan to stay out of LA, but the results are disas
 </Overview>
   <ProductionCode>2AFF10</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>47</RatingCount>
+  <RatingCount>50</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>David Ehrman</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189288.jpg</filename>
-  <lastupdated>1326186750</lastupdated>
+  <lastupdated>1399536217</lastupdated>
   <seasonid>10064</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -1669,12 +1704,12 @@ Kim hits her low point of the day when she encounters a cougar in the woods.
 </Overview>
   <ProductionCode>2AFF11</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>45</RatingCount>
+  <RatingCount>49</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Gil Grant</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189289.jpg</filename>
-  <lastupdated>1326186769</lastupdated>
+  <lastupdated>1399536208</lastupdated>
   <seasonid>10064</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -1707,12 +1742,12 @@ Lynne receives a dire warning from Sherry.
 </Overview>
   <ProductionCode>2AFF12</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>45</RatingCount>
+  <RatingCount>48</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Evan Katz</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189290.jpg</filename>
-  <lastupdated>1326186783</lastupdated>
+  <lastupdated>1399536199</lastupdated>
   <seasonid>10064</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -1742,13 +1777,13 @@ Kim becomes suspicious of her host, but is forced to stay because of her status 
 Stanton finally breaks down and gives Palmer some unpleasant news.
 </Overview>
   <ProductionCode>2AFF13</ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>44</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>48</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Maurice Hurley</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189291.jpg</filename>
-  <lastupdated>1326186799</lastupdated>
+  <lastupdated>1399536183</lastupdated>
   <seasonid>10064</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -1780,13 +1815,13 @@ George finally steps down as director of CTU and hands the position over to Tony
 Kim discovers her host's deception.
 </Overview>
   <ProductionCode>2AFF14</ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>43</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>45</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Joel Surnow, Michael Loceff</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189292.jpg</filename>
-  <lastupdated>1326186817</lastupdated>
+  <lastupdated>1399536163</lastupdated>
   <seasonid>10064</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -1818,13 +1853,13 @@ Tony and Michelle become suspicious of a Middle Eastern diplomat who is asking q
 Palmer departs for Los Angeles so he can be on hand when news of the nuclear bomb reaches the public.
 </Overview>
   <ProductionCode>2AFF15</ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>42</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>45</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Robert Cochran</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189293.jpg</filename>
-  <lastupdated>1326186835</lastupdated>
+  <lastupdated>1399536152</lastupdated>
   <seasonid>10064</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -1856,13 +1891,13 @@ Kim gets caught in a hostage situation.
 Jack is contacted by a man who wants to exchange information for Kate Warner.
 </Overview>
   <ProductionCode>2AFF16</ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>41</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>44</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Howard Gordon, Evan Katz</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189294.jpg</filename>
-  <lastupdated>1326186849</lastupdated>
+  <lastupdated>1399536139</lastupdated>
   <seasonid>10064</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -1893,12 +1928,12 @@ Mike and the Vice-President turn up the pressure on Palmer, when he expresses hi
 </Overview>
   <ProductionCode>2AFF17</ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>42</RatingCount>
+  <RatingCount>45</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Evan Katz, Gil Grant</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189295.jpg</filename>
-  <lastupdated>1326186866</lastupdated>
+  <lastupdated>1399536113</lastupdated>
   <seasonid>10064</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -1931,12 +1966,12 @@ Kim's worries seem to be over when she learns the charges against her have been 
 </Overview>
   <ProductionCode>2AFF18</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>43</RatingCount>
+  <RatingCount>45</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Joel Surnow, Michael Loceff</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189296.jpg</filename>
-  <lastupdated>1326186881</lastupdated>
+  <lastupdated>1399536102</lastupdated>
   <seasonid>10064</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -1968,12 +2003,12 @@ Tony and Michelle share a tender moment after her brother flips out.
 Palmer leans towards holding off the attacks, while Lynne discovers a secret operation that the Vice-President is planning against Palmer.</Overview>
   <ProductionCode>2AFF19</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>41</RatingCount>
+  <RatingCount>44</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Howard Gordon</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189297.jpg</filename>
-  <lastupdated>1326186900</lastupdated>
+  <lastupdated>1399536086</lastupdated>
   <seasonid>10064</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -2005,13 +2040,13 @@ Chappelle interferes with Tony's efforts to assist Jack.
 Kate offers her captors money in exchange for the chip.
 </Overview>
   <ProductionCode>2AFF20</ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>41</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>45</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Nick Cohen</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189298.jpg</filename>
-  <lastupdated>1326186918</lastupdated>
+  <lastupdated>1399536058</lastupdated>
   <seasonid>10064</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -2039,13 +2074,13 @@ Kate offers her captors money in exchange for the chip.
 Jack and Michelle work against the clock to prove that the evidence against the Middle East is false.
 </Overview>
   <ProductionCode>2AFF21</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>38</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>41</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Robert Cochran, Howard Gordon</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189299.jpg</filename>
-  <lastupdated>1326186933</lastupdated>
+  <lastupdated>1399536047</lastupdated>
   <seasonid>10064</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -2078,12 +2113,12 @@ Tony and Michelle take Chappelle out of action when he hinders their efforts to 
 </Overview>
   <ProductionCode>2AFF22</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>41</RatingCount>
+  <RatingCount>43</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Virgil Williams, Duppy Demetrius</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189300.jpg</filename>
-  <lastupdated>1326186947</lastupdated>
+  <lastupdated>1399536032</lastupdated>
   <seasonid>10064</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -2114,12 +2149,12 @@ Mike and Prescott ask Palmer to aid them as the bombers get closer to their targ
 </Overview>
   <ProductionCode>2AFF23</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>45</RatingCount>
+  <RatingCount>48</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Evan Katz</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189301.jpg</filename>
-  <lastupdated>1326186961</lastupdated>
+  <lastupdated>1399536023</lastupdated>
   <seasonid>10064</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -2151,13 +2186,13 @@ Palmer's attorney finds evidence involving Kingsley and convinces Mike to releas
 Jack sends Sherry in for the meeting with Kingsley, but his mounting heart troubles cause problems for him at the crucial moment.
 </Overview>
   <ProductionCode>2AFF24</ProductionCode>
-  <Rating>7.9</Rating>
-  <RatingCount>41</RatingCount>
+  <Rating>8.0</Rating>
+  <RatingCount>43</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Joel Surnow, Michael Loceff</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189302.jpg</filename>
-  <lastupdated>1326186978</lastupdated>
+  <lastupdated>1399536010</lastupdated>
   <seasonid>10064</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -2192,12 +2227,12 @@ Kim now works at CTU and has been dating Chase for three months. Kim wants to te
 </Overview>
   <ProductionCode>3AFF01</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>50</RatingCount>
+  <RatingCount>53</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Michael Loceff, Joel Surnow</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189303.jpg</filename>
-  <lastupdated>1326187362</lastupdated>
+  <lastupdated>1399536745</lastupdated>
   <seasonid>10065</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -2228,12 +2263,12 @@ Wayne approaches Palmer with information about his girlfriend that could damage 
 </Overview>
   <ProductionCode>3AFF02</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>46</RatingCount>
+  <RatingCount>49</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Joel Surnow, Michael Loceff</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189304.jpg</filename>
-  <lastupdated>1326187377</lastupdated>
+  <lastupdated>1399536730</lastupdated>
   <seasonid>10065</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -2264,12 +2299,12 @@ Tony leads an operation to get Kyle, but tragedy strikes when Salazar's man gets
 </Overview>
   <ProductionCode>3AFF03</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>48</RatingCount>
+  <RatingCount>51</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Howard Gordon</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189305.jpg</filename>
-  <lastupdated>1326187390</lastupdated>
+  <lastupdated>1399536714</lastupdated>
   <seasonid>10065</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -2302,12 +2337,12 @@ Anne pushes Palmer back on to moral ground in the face of her ex husband's black
 </Overview>
   <ProductionCode>3AFF04</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>43</RatingCount>
+  <RatingCount>46</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Stephen Kronish</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189306.jpg</filename>
-  <lastupdated>1326187402</lastupdated>
+  <lastupdated>1399536696</lastupdated>
   <seasonid>10065</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -2337,12 +2372,12 @@ Chloe unwittingly stumbles on to Jack's drug problem and she is forced to reveal
 Palmer begins his debate with Keeler, while Kyle prepares to sacrifice himself to save Linda.</Overview>
   <ProductionCode>3AFF05</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>42</RatingCount>
+  <RatingCount>45</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Evan Katz</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189307.jpg</filename>
-  <lastupdated>1326187421</lastupdated>
+  <lastupdated>1399536679</lastupdated>
   <seasonid>10065</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -2372,12 +2407,12 @@ Kim accidentally stumbles on to Gael's secret communications, but she isn't able
 The Singer family learns a startling piece of news about Kyle's health.</Overview>
   <ProductionCode>3AFF06</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>43</RatingCount>
+  <RatingCount>45</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Duppy Demetrius</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189308.jpg</filename>
-  <lastupdated>1326187435</lastupdated>
+  <lastupdated>1399536657</lastupdated>
   <seasonid>10065</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -2406,13 +2441,13 @@ Gael is captured while trying to escape from CTU.  Chappelle interrogates Gael b
 
 Anne is given a chance to clear Palmer's name, while Chase heads for Mexico to rescue Jack.</Overview>
   <ProductionCode>3AFF07</ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>43</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>45</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Robert Cochran|Howard Gordon</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189309.jpg</filename>
-  <lastupdated>1326187451</lastupdated>
+  <lastupdated>1399536643</lastupdated>
   <seasonid>10065</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -2445,12 +2480,12 @@ Anne manages to clear Palmer's name, but she breaks off her relationship with hi
 </Overview>
   <ProductionCode>3AFF08</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>42</RatingCount>
+  <RatingCount>45</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Robert Cochran, Howard Gordon</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189310.jpg</filename>
-  <lastupdated>1326187471</lastupdated>
+  <lastupdated>1399536595</lastupdated>
   <seasonid>10065</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -2480,13 +2515,13 @@ Kim and Michelle worry about Tony's mental ability  when he continues to make mi
 Jack and the Salazars meet with Amador, but the deal turns sour when Nina Myers appears on the scene and competes for the virus.
 </Overview>
   <ProductionCode>3AFF09</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>43</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>46</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Evan Katz, Stephen Kronish</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189311.jpg</filename>
-  <lastupdated>1326187485</lastupdated>
+  <lastupdated>1399536580</lastupdated>
   <seasonid>10065</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -2519,12 +2554,12 @@ Chloe's work at CTU is disrupted when she is forced to take care of her baby.
 </Overview>
   <ProductionCode>3AFF10</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>46</RatingCount>
+  <RatingCount>48</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Joel Surnow, Michael Loceff</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189312.jpg</filename>
-  <lastupdated>1326187499</lastupdated>
+  <lastupdated>1399536566</lastupdated>
   <seasonid>10065</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -2556,13 +2591,13 @@ Chase remains in Mexico to help with the capture of the virus.
 Ramon and Hector quarrel when Hector wants to pull out of the deal.
 </Overview>
   <ProductionCode>3AFF11</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>48</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>50</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Joel Surnow, Michael Loceff</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189313.jpg</filename>
-  <lastupdated>1326187513</lastupdated>
+  <lastupdated>1399536553</lastupdated>
   <seasonid>10065</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -2593,12 +2628,12 @@ Sherry finds a witness who can damage Milliken, but her advantage is shortlived.
 </Overview>
   <ProductionCode>3AFF12</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>40</RatingCount>
+  <RatingCount>42</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Robert Cochran, Howard Gordon</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189314.jpg</filename>
-  <lastupdated>1326187526</lastupdated>
+  <lastupdated>1399536537</lastupdated>
   <seasonid>10065</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -2628,12 +2663,12 @@ Chappelle puts Chloe under guard when she refuses to answer questions about the 
 Sherry takes her battle directly to Alan, forcing Julia to act as her accomplice.</Overview>
   <ProductionCode>3AFF13</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>45</RatingCount>
+  <RatingCount>47</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Joel Surnow|Michael Loceff</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189315.jpg</filename>
-  <lastupdated>1326187542</lastupdated>
+  <lastupdated>1399536525</lastupdated>
   <seasonid>10065</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -2663,13 +2698,13 @@ Kim and Chase have a conversation about the baby.
 Palmer confronts Sherry about Alan Milliken's death, while Julia begs Wayne for help.
 </Overview>
   <ProductionCode>3AFF14</ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>43</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>44</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Howard Gordon, Evan Katz</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189316.jpg</filename>
-  <lastupdated>1326187557</lastupdated>
+  <lastupdated>1399536512</lastupdated>
   <seasonid>10065</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -2702,12 +2737,12 @@ Wayne argues with Sherry over the consequences of Milliken's death as the police
 </Overview>
   <ProductionCode>3AFF15</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>45</RatingCount>
+  <RatingCount>47</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Robert Cochran, Howard Gordon</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189317.jpg</filename>
-  <lastupdated>1326187607</lastupdated>
+  <lastupdated>1399536498</lastupdated>
   <seasonid>10065</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -2738,12 +2773,12 @@ Sherry extorts Palmer, forcing him to manufacture her alibi for the police.
 </Overview>
   <ProductionCode>3AFF16</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>40</RatingCount>
+  <RatingCount>41</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Stephen Kronish, Evan Katz</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189318.jpg</filename>
-  <lastupdated>1326187622</lastupdated>
+  <lastupdated>1399536485</lastupdated>
   <seasonid>10065</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -2774,12 +2809,12 @@ As Gael's symptoms get worse, Michelle devises a way to relieve the suffering of
 </Overview>
   <ProductionCode>3AFF17</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>41</RatingCount>
+  <RatingCount>43</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Robert Cochran, Stephen Kronish</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189319.jpg</filename>
-  <lastupdated>1326187637</lastupdated>
+  <lastupdated>1399536464</lastupdated>
   <seasonid>10065</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -2807,13 +2842,13 @@ As Gael's symptoms get worse, Michelle devises a way to relieve the suffering of
 Michelle begins a frantic search when she learns that an infected hotel guest may have slipped through her fingers.
 </Overview>
   <ProductionCode>3AFF18</ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>41</RatingCount>
+  <Rating>7.9</Rating>
+  <RatingCount>43</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Howard Gordon, Evan Katz</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189320.jpg</filename>
-  <lastupdated>1326187652</lastupdated>
+  <lastupdated>1399536453</lastupdated>
   <seasonid>10065</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -2843,13 +2878,13 @@ Palmer informs his cabinet of the crisis, while Saunders makes yet another deman
 Chase tracks down the man who left the hotel and learns that the virus is spreading to the general public.
 </Overview>
   <ProductionCode>3AFF19</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>47</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>49</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Michael Loceff</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189321.jpg</filename>
-  <lastupdated>1326187667</lastupdated>
+  <lastupdated>1399536437</lastupdated>
   <seasonid>10065</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -2880,12 +2915,12 @@ Tony finds himself compromised when Saunders exploits his only weakness.
 </Overview>
   <ProductionCode>3AFF20</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>43</RatingCount>
+  <RatingCount>44</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Virgil Williams</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189322.jpg</filename>
-  <lastupdated>1326187680</lastupdated>
+  <lastupdated>1399536427</lastupdated>
   <seasonid>10065</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -2914,12 +2949,12 @@ Sherry meets with Palmer's political rival and proposes a deal to blackmail him.
 </Overview>
   <ProductionCode>3AFF21</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>39</RatingCount>
+  <RatingCount>40</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Joel Surnow, Michael Loceff</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189323.jpg</filename>
-  <lastupdated>1326187696</lastupdated>
+  <lastupdated>1399536418</lastupdated>
   <seasonid>10065</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -2947,13 +2982,13 @@ Sherry meets with Palmer's political rival and proposes a deal to blackmail him.
 Keeler meets with Palmer and demands his resignation, while Wayne begins a secret operation against Sherry.
 </Overview>
   <ProductionCode>3AFF22</ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>44</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>45</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Evan Katz, Stephen Kronish</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189324.jpg</filename>
-  <lastupdated>1326187710</lastupdated>
+  <lastupdated>1399536379</lastupdated>
   <seasonid>10065</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -2984,12 +3019,12 @@ Tony finds himself facing a harsh penalty because of his efforts to save Michell
 </Overview>
   <ProductionCode>3AFF23</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>40</RatingCount>
+  <RatingCount>42</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Robert Cochran, Howard Gordon</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189325.jpg</filename>
-  <lastupdated>1326187727</lastupdated>
+  <lastupdated>1399536369</lastupdated>
   <seasonid>10065</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -3019,13 +3054,13 @@ Tony is able to help Jack one last time before he is taken into custody, while a
 Palmer makes a surprising career choice in the wake of Sherry's death.
 </Overview>
   <ProductionCode>3AFF24</ProductionCode>
-  <Rating>7.9</Rating>
-  <RatingCount>35</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>36</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Joel Surnow, Michael Loceff</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189326.jpg</filename>
-  <lastupdated>1326187740</lastupdated>
+  <lastupdated>1399536347</lastupdated>
   <seasonid>10065</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -3059,13 +3094,13 @@ The Turkish Araz family are not what they seem and it becomes clear that they ar
 Jack finds that Chloe is his only ally as he tries to prove that the train explosion is merely a diversionary target.
 </Overview>
   <ProductionCode>4AFF01</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>44</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>47</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Joel Surnow, Michael Loceff</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189327.jpg</filename>
-  <lastupdated>1326188039</lastupdated>
+  <lastupdated>1399537024</lastupdated>
   <seasonid>10066</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -3095,13 +3130,13 @@ Behrooz finds himself torn between his loyalty to his parents and his feelings f
 Heller tries to comfort his daughter as his captors broadcast their intentions on the Internet.
 </Overview>
   <ProductionCode>4AFF02</ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>35</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>38</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Howard Gordon</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189328.jpg</filename>
-  <lastupdated>1326188055</lastupdated>
+  <lastupdated>1399537015</lastupdated>
   <seasonid>10066</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -3131,13 +3166,13 @@ Behrooz pleads with his parents when they order him to bring Debbie to their hom
 Curtis uses harsh methods to interrogate Heller's son as Driscoll continues to search for Jack.
 </Overview>
   <ProductionCode>4AFF03</ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>42</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>46</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Evan Katz</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189329.jpg</filename>
-  <lastupdated>1326188066</lastupdated>
+  <lastupdated>1399537005</lastupdated>
   <seasonid>10066</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -3167,13 +3202,13 @@ Behrooz discovers just how far his mother is willing to go to insure that their 
 Heller and Audrey attempt to escape from Omar, while Driscoll uses her influence to deal with a personal crisis.
 </Overview>
   <ProductionCode>4AFF04</ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>42</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>44</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Stephen Kronish</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189330.jpg</filename>
-  <lastupdated>1326188079</lastupdated>
+  <lastupdated>1399536996</lastupdated>
   <seasonid>10066</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -3203,13 +3238,13 @@ Heller and Audrey take drastic action in the hopes of avoiding the impending tri
 Driscoll makes a deal with Chloe to get her out of the way, while the Araz family faces another problem in their cover-up.
 </Overview>
   <ProductionCode>4AFF05</ProductionCode>
-  <Rating>7.3</Rating>
-  <RatingCount>39</RatingCount>
+  <Rating>7.2</Rating>
+  <RatingCount>41</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Peter M. Lenkov</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189331.jpg</filename>
-  <lastupdated>1326188093</lastupdated>
+  <lastupdated>1399536987</lastupdated>
   <seasonid>10066</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -3242,12 +3277,12 @@ Audrey has an awkward meeting with her husband, and Heller butts heads once agai
 </Overview>
   <ProductionCode>4AFF06</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>38</RatingCount>
+  <RatingCount>39</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Matt Michnovetz</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189332.jpg</filename>
-  <lastupdated>1326188112</lastupdated>
+  <lastupdated>1399536968</lastupdated>
   <seasonid>10066</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -3278,12 +3313,12 @@ Dina is wounded when she helps Behrooz flee from Navi. Navi's boss orders him to
 </Overview>
   <ProductionCode>4AFF07</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>36</RatingCount>
+  <RatingCount>37</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Joel Surnow, Michael Loceff</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189333.jpg</filename>
-  <lastupdated>1326188124</lastupdated>
+  <lastupdated>1399536959</lastupdated>
   <seasonid>10066</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -3314,12 +3349,12 @@ Behrooz takes Dina to a hospital for medical attention, but the doctor becomes s
 </Overview>
   <ProductionCode>4AFF08</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>39</RatingCount>
+  <RatingCount>40</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Stephen Kronish, Peter M. Lenkov</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189334.jpg</filename>
-  <lastupdated>1326188138</lastupdated>
+  <lastupdated>1399536935</lastupdated>
   <seasonid>10066</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -3350,12 +3385,12 @@ Behrooz turns to his uncle for help, but Navi closes in on him before he can get
 </Overview>
   <ProductionCode>4AFF09</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>35</RatingCount>
+  <RatingCount>36</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Howard Gordon, Evan Katz</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189335.jpg</filename>
-  <lastupdated>1326188153</lastupdated>
+  <lastupdated>1399536922</lastupdated>
   <seasonid>10066</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -3386,12 +3421,12 @@ Sarah bargains for a stronger position at CTU, while Tony takes charge of the in
 </Overview>
   <ProductionCode>4AFF10</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>38</RatingCount>
+  <RatingCount>39</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Stephen Kronish, Peter M. Lenkov</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189336.jpg</filename>
-  <lastupdated>1326188170</lastupdated>
+  <lastupdated>1399536909</lastupdated>
   <seasonid>10066</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -3419,13 +3454,13 @@ Sarah bargains for a stronger position at CTU, while Tony takes charge of the in
 Tony pushes Dina to reveal more of her knowledge of Marwan, while Driscoll faces another personal crisis with her daughter.
 </Overview>
   <ProductionCode>4AFF11</ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>37</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>38</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Joel Surnow, Michael Loceff</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189337.jpg</filename>
-  <lastupdated>1326188188</lastupdated>
+  <lastupdated>1399536899</lastupdated>
   <seasonid>10066</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -3454,12 +3489,12 @@ After a grief-stricken Driscoll relinquishes her command, Heller appoints Tony a
 </Overview>
   <ProductionCode>4AFF12</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>39</RatingCount>
+  <RatingCount>40</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Howard Gordon, Evan Katz</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189338.jpg</filename>
-  <lastupdated>1326188201</lastupdated>
+  <lastupdated>1399536889</lastupdated>
   <seasonid>10066</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -3490,12 +3525,12 @@ Audrey reevaluates her feelings for Jack, while Marwan sets the next phase of hi
 </Overview>
   <ProductionCode>4AFF13</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>33</RatingCount>
+  <RatingCount>34</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Anne Cofell</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189339.jpg</filename>
-  <lastupdated>1326188213</lastupdated>
+  <lastupdated>1399536880</lastupdated>
   <seasonid>10066</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -3526,12 +3561,12 @@ Marwan's plan continues as his henchman uses an unwilling pilot to gain access t
 </Overview>
   <ProductionCode>4AFF14</ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>33</RatingCount>
+  <RatingCount>34</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Howard Gordon, Evan Katz</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189340.jpg</filename>
-  <lastupdated>1326188225</lastupdated>
+  <lastupdated>1399536867</lastupdated>
   <seasonid>10066</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -3560,12 +3595,12 @@ Tony and Michelle weigh the consequences of the trade, while Curtis reluctantly 
 </Overview>
   <ProductionCode>4AFF15</ProductionCode>
   <Rating>7.2</Rating>
-  <RatingCount>36</RatingCount>
+  <RatingCount>37</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Joel Surnow, Michael Loceff</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189341.jpg</filename>
-  <lastupdated>1326188238</lastupdated>
+  <lastupdated>1399536859</lastupdated>
   <seasonid>10066</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -3596,12 +3631,12 @@ Anderson closes in on his quarry, as President Keeler searches for words that wi
 </Overview>
   <ProductionCode>4AFF16</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>38</RatingCount>
+  <RatingCount>39</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Howard Gordon, Evan Katz</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189342.jpg</filename>
-  <lastupdated>1326188250</lastupdated>
+  <lastupdated>1399536850</lastupdated>
   <seasonid>10066</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -3630,12 +3665,12 @@ Two innocent bystanders are dragged into the fight as Jack and Marwan both pursu
 </Overview>
   <ProductionCode>4AFF17</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>41</RatingCount>
+  <RatingCount>42</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Duppy Demetrius</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189343.jpg</filename>
-  <lastupdated>1326188265</lastupdated>
+  <lastupdated>1399536841</lastupdated>
   <seasonid>10066</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -3664,12 +3699,12 @@ Logan's advisors begin to worry as he continues to exhibit fear in the face of t
 </Overview>
   <ProductionCode>4AFF18</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>39</RatingCount>
+  <RatingCount>40</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Joel Surnow, Michael Loceff</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189344.jpg</filename>
-  <lastupdated>1326188280</lastupdated>
+  <lastupdated>1399536832</lastupdated>
   <seasonid>10066</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -3700,12 +3735,12 @@ Mike calls on ex-President David Palmer for help as Logan continues to display a
 </Overview>
   <ProductionCode>4AFF19</ProductionCode>
   <Rating>7.2</Rating>
-  <RatingCount>39</RatingCount>
+  <RatingCount>40</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Howard Gordon, Evan Katz</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189345.jpg</filename>
-  <lastupdated>1326188298</lastupdated>
+  <lastupdated>1399536821</lastupdated>
   <seasonid>10066</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -3736,12 +3771,12 @@ Jack faces Audrey's wrath when a medical dilemma places Paul's life in jeopardy.
 </Overview>
   <ProductionCode>4AFF20</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>34</RatingCount>
+  <RatingCount>35</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Peter M. Lenkov</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189346.jpg</filename>
-  <lastupdated>1326188312</lastupdated>
+  <lastupdated>1399536812</lastupdated>
   <seasonid>10066</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -3777,7 +3812,7 @@ Jack and Curtis close in on Marwan as the countdown for the missile launch moves
   <Writer>Joel Surnow, Michael Loceff</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189347.jpg</filename>
-  <lastupdated>1326188338</lastupdated>
+  <lastupdated>1399536804</lastupdated>
   <seasonid>10066</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -3810,12 +3845,12 @@ Tony and Michelle explore their rekindled passion for each other, but their hope
 </Overview>
   <ProductionCode>4AFF22</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>35</RatingCount>
+  <RatingCount>36</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Matt Michnovetz, Duppy Demetrius</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189348.jpg</filename>
-  <lastupdated>1326188355</lastupdated>
+  <lastupdated>1399536794</lastupdated>
   <seasonid>10066</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -3846,12 +3881,12 @@ Palmer and Logan argue over the option of evacuating all major cities that may b
 </Overview>
   <ProductionCode>4AFF23</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>35</RatingCount>
+  <RatingCount>36</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Sam Montgomery</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189349.jpg</filename>
-  <lastupdated>1326188367</lastupdated>
+  <lastupdated>1399536784</lastupdated>
   <seasonid>10066</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -3884,12 +3919,12 @@ Jack's life changes forever as Tony, Michelle and Chloe help him to evade the tr
 </Overview>
   <ProductionCode>4AFF24</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>33</RatingCount>
+  <RatingCount>34</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Robert Cochran, Howard Gordon</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/189350.jpg</filename>
-  <lastupdated>1326188379</lastupdated>
+  <lastupdated>1399536772</lastupdated>
   <seasonid>10066</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -3922,12 +3957,12 @@ Jack is forced to take Derek along for the ride as he meets with Chloe and fight
 </Overview>
   <ProductionCode>5AFF01</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>33</RatingCount>
+  <RatingCount>35</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Howard Gordon</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/306115.jpg</filename>
-  <lastupdated>1326188585</lastupdated>
+  <lastupdated>1399537281</lastupdated>
   <seasonid>10067</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -3960,12 +3995,12 @@ Jack goes to the airport to find a lead, but a group of renegade Russian terrori
 </Overview>
   <ProductionCode>5AFF02</ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>36</RatingCount>
+  <RatingCount>38</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Evan Katz</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/306116.jpg</filename>
-  <lastupdated>1326188600</lastupdated>
+  <lastupdated>1399537271</lastupdated>
   <seasonid>10067</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -3996,12 +4031,12 @@ Martha discovers that all traces of her conversation with Palmer may not have be
 </Overview>
   <ProductionCode>5AFF03</ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>34</RatingCount>
+  <RatingCount>36</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Manny Coto</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/306117.jpg</filename>
-  <lastupdated>1326188615</lastupdated>
+  <lastupdated>1399537259</lastupdated>
   <seasonid>10067</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -4032,12 +4067,12 @@ A new representative from District arrives at CTU and begins to undermine Buchan
 </Overview>
   <ProductionCode>5AFF04</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>32</RatingCount>
+  <RatingCount>34</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Michael Loceff, Joel Surnow</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/306118.jpg</filename>
-  <lastupdated>1326188631</lastupdated>
+  <lastupdated>1399537248</lastupdated>
   <seasonid>10067</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -4070,12 +4105,12 @@ Walt convinces Logan to have Martha institutionalized when she tells them of the
 </Overview>
   <ProductionCode>5AFF05</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>36</RatingCount>
+  <RatingCount>38</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Joel Surnow, Michael Loceff</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/306119.jpg</filename>
-  <lastupdated>1326188646</lastupdated>
+  <lastupdated>1399537237</lastupdated>
   <seasonid>10067</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -4106,12 +4141,12 @@ Buchanan butts heads with Lynn over a decision to violate the president's orders
 </Overview>
   <ProductionCode>5AFF06</ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>37</RatingCount>
+  <RatingCount>39</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>David Fury</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/306120.jpg</filename>
-  <lastupdated>1326188660</lastupdated>
+  <lastupdated>1399537217</lastupdated>
   <seasonid>10067</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -4141,13 +4176,13 @@ Mike and Martha argue over Logan's public response to Walt's involvement with th
 Lynn is drawn away from his post by a personal crisis as the terrorists come closer to striking against the U.S.
 </Overview>
   <ProductionCode>5AFF07</ProductionCode>
-  <Rating>7.3</Rating>
-  <RatingCount>32</RatingCount>
+  <Rating>7.2</Rating>
+  <RatingCount>34</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Manny Coto</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/306121.jpg</filename>
-  <lastupdated>1360267961</lastupdated>
+  <lastupdated>1399537202</lastupdated>
   <seasonid>10067</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -4176,12 +4211,12 @@ Logan and Martha quarrel when she learns of her husband's intention to cover up 
 </Overview>
   <ProductionCode>5AFF08</ProductionCode>
   <Rating>7.0</Rating>
-  <RatingCount>35</RatingCount>
+  <RatingCount>37</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Evan Katz, Robert Cochran</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/306122.jpg</filename>
-  <lastupdated>1360267971</lastupdated>
+  <lastupdated>1399537191</lastupdated>
   <seasonid>10067</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -4212,12 +4247,12 @@ The head of the terrorists makes a demand on Logan, and Martha takes a dangerous
 </Overview>
   <ProductionCode>5AFF09</ProductionCode>
   <Rating>7.1</Rating>
-  <RatingCount>32</RatingCount>
+  <RatingCount>34</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Howard Gordon, David Fury</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/306123.jpg</filename>
-  <lastupdated>1360267981</lastupdated>
+  <lastupdated>1399537181</lastupdated>
   <seasonid>10067</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -4248,12 +4283,12 @@ Jack learns that an ex CTU agent, Christopher Henderson, works for a company whi
 </Overview>
   <ProductionCode>5AFF10</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>33</RatingCount>
+  <RatingCount>35</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Joel Surnow, Michael Loceff</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/306124.jpg</filename>
-  <lastupdated>1360267992</lastupdated>
+  <lastupdated>1399537172</lastupdated>
   <seasonid>10067</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -4284,12 +4319,12 @@ Martha gives Logan the cold shoulder, while Curtis tracks another nerve gas atta
 </Overview>
   <ProductionCode>5AFF11</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>33</RatingCount>
+  <RatingCount>35</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Nicole Ranadive</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/306125.jpg</filename>
-  <lastupdated>1360268003</lastupdated>
+  <lastupdated>1399537163</lastupdated>
   <seasonid>10067</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -4319,13 +4354,13 @@ Mike appeals to Martha for help as Logan faces pressure from his Vice-President 
 Lynn connects the theft of his keycard to an impending strike on CTU, but his warning comes too late to stop a terrorist from infiltrating the building.
 </Overview>
   <ProductionCode>5AFF12</ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>33</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>35</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Duppy Demetrius, Matt Michnovetz</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/306126.jpg</filename>
-  <lastupdated>1360268012</lastupdated>
+  <lastupdated>1399537153</lastupdated>
   <seasonid>10067</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -4355,13 +4390,13 @@ Chloe wrestles with her grief over Edgar's death, while Tony contemplates reveng
 Martha bolster's Logan's spirit as he wavers under more political pressure from Gardner.
 </Overview>
   <ProductionCode>5AFF13</ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>32</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>34</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Michael Loceff, Joel Surnow</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/306127.jpg</filename>
-  <lastupdated>1360268023</lastupdated>
+  <lastupdated>1399537146</lastupdated>
   <seasonid>10067</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -4392,12 +4427,12 @@ Aaron receives a request for a secret meeting from Wayne Palmer, as Logan implem
 </Overview>
   <ProductionCode>5AFF14</ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>36</RatingCount>
+  <RatingCount>38</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Evan Katz, Howard Gordon</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/306128.jpg</filename>
-  <lastupdated>1360268033</lastupdated>
+  <lastupdated>1399537137</lastupdated>
   <seasonid>10067</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -4428,12 +4463,12 @@ Bierko and his men gain access to a natural gas plant, where they plan to distri
 </Overview>
   <ProductionCode>5AFF15</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>35</RatingCount>
+  <RatingCount>37</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>David Ehrman</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/306129.jpg</filename>
-  <lastupdated>1360268043</lastupdated>
+  <lastupdated>1399537129</lastupdated>
   <seasonid>10067</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -4462,12 +4497,12 @@ Audrey is forced to choose between Chloe and Buchanan as Homeland Security begin
 </Overview>
   <ProductionCode>5AFF16</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>34</RatingCount>
+  <RatingCount>36</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Manny Coto, Sam Montgomery</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/306130.jpg</filename>
-  <lastupdated>1360268054</lastupdated>
+  <lastupdated>1399537119</lastupdated>
   <seasonid>10067</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -4498,12 +4533,12 @@ Audrey contacts her father for help, while Chloe gives her cover while helping J
 </Overview>
   <ProductionCode>5AFF17</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>30</RatingCount>
+  <RatingCount>32</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>David Fury</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/306131.jpg</filename>
-  <lastupdated>1360268068</lastupdated>
+  <lastupdated>1399537111</lastupdated>
   <seasonid>10067</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -4530,12 +4565,12 @@ Audrey contacts her father for help, while Chloe gives her cover while helping J
 </Overview>
   <ProductionCode>5AFF18</ProductionCode>
   <Rating>7.2</Rating>
-  <RatingCount>33</RatingCount>
+  <RatingCount>35</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Howard Gordon</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/306132.jpg</filename>
-  <lastupdated>1360268078</lastupdated>
+  <lastupdated>1399537100</lastupdated>
   <seasonid>10067</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -4562,12 +4597,12 @@ Audrey contacts her father for help, while Chloe gives her cover while helping J
 </Overview>
   <ProductionCode>5AFF19</ProductionCode>
   <Rating>7.2</Rating>
-  <RatingCount>28</RatingCount>
+  <RatingCount>29</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Craig Van Sickle, Steven Long Mitchell</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/306133.jpg</filename>
-  <lastupdated>1360268091</lastupdated>
+  <lastupdated>1399537089</lastupdated>
   <seasonid>10067</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -4595,13 +4630,13 @@ Audrey contacts her father for help, while Chloe gives her cover while helping J
 Martha begins to break down, and Mike becomes suspicious of what she is hiding from him, while Logan tries to calm his financial backers.
 </Overview>
   <ProductionCode>5AFF20</ProductionCode>
-  <Rating>7.3</Rating>
-  <RatingCount>27</RatingCount>
+  <Rating>7.2</Rating>
+  <RatingCount>29</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Michael Loceff, Joel Surnow</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/306134.jpg</filename>
-  <lastupdated>1360268102</lastupdated>
+  <lastupdated>1399537080</lastupdated>
   <seasonid>10067</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -4627,13 +4662,13 @@ Martha begins to break down, and Mike becomes suspicious of what she is hiding f
   <Overview>Jack searches for a safe place to land the plane when Logan gives orders to shoot it down. Hayes readies Bierko for a transfer to a secure facility, while Audrey receives some good news about her father. Logan becomes desperate as his plans start to unravel, but an unexpected ally at CTU turns the tables in his favor.
 </Overview>
   <ProductionCode>5AFF21</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>29</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>31</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Manny Coto</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/306135.jpg</filename>
-  <lastupdated>1360268113</lastupdated>
+  <lastupdated>1399537070</lastupdated>
   <seasonid>10067</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -4660,12 +4695,12 @@ Martha begins to break down, and Mike becomes suspicious of what she is hiding f
 </Overview>
   <ProductionCode>5AFF22</ProductionCode>
   <Rating>7.1</Rating>
-  <RatingCount>30</RatingCount>
+  <RatingCount>32</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Sam Montgomery, David Fury</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/306136.jpg</filename>
-  <lastupdated>1360268123</lastupdated>
+  <lastupdated>1399537061</lastupdated>
   <seasonid>10067</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -4692,12 +4727,12 @@ Martha begins to break down, and Mike becomes suspicious of what she is hiding f
 </Overview>
   <ProductionCode>5AFF23</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>32</RatingCount>
+  <RatingCount>33</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Howard Gordon, Evan Katz</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/306137.jpg</filename>
-  <lastupdated>1360268134</lastupdated>
+  <lastupdated>1399537053</lastupdated>
   <seasonid>10067</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -4724,12 +4759,12 @@ Martha begins to break down, and Mike becomes suspicious of what she is hiding f
 </Overview>
   <ProductionCode>5AFF24</ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>35</RatingCount>
+  <RatingCount>36</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Robert Cochran</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/306138.jpg</filename>
-  <lastupdated>1360268143</lastupdated>
+  <lastupdated>1399537044</lastupdated>
   <seasonid>10067</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -4756,12 +4791,12 @@ Martha begins to break down, and Mike becomes suspicious of what she is hiding f
 </Overview>
   <ProductionCode>6AFF01</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>48</RatingCount>
+  <RatingCount>49</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>Howard Gordon</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/316553.jpg</filename>
-  <lastupdated>1360268306</lastupdated>
+  <lastupdated>1399633110</lastupdated>
   <seasonid>16794</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -4789,12 +4824,12 @@ Martha begins to break down, and Mike becomes suspicious of what she is hiding f
 </Overview>
   <ProductionCode>6AFF02</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>42</RatingCount>
+  <RatingCount>43</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>Manny Coto</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/316554.jpg</filename>
-  <lastupdated>1360268319</lastupdated>
+  <lastupdated>1399633129</lastupdated>
   <seasonid>16794</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -4822,12 +4857,12 @@ Martha begins to break down, and Mike becomes suspicious of what she is hiding f
 </Overview>
   <ProductionCode>6AFF03</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>44</RatingCount>
+  <RatingCount>45</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>David Fury, Evan Katz</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/316555.jpg</filename>
-  <lastupdated>1360268337</lastupdated>
+  <lastupdated>1401734274</lastupdated>
   <seasonid>16794</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -4855,12 +4890,12 @@ Martha begins to break down, and Mike becomes suspicious of what she is hiding f
 </Overview>
   <ProductionCode>6AFF04</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>45</RatingCount>
+  <RatingCount>46</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>Robert Cochran</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/316556.jpg</filename>
-  <lastupdated>1360268349</lastupdated>
+  <lastupdated>1401735149</lastupdated>
   <seasonid>16794</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -4887,12 +4922,12 @@ Martha begins to break down, and Mike becomes suspicious of what she is hiding f
 </Overview>
   <ProductionCode>6AFF05</ProductionCode>
   <Rating>7.2</Rating>
-  <RatingCount>46</RatingCount>
+  <RatingCount>47</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>Joel Surnow, Michael Loceff</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/316615.jpg</filename>
-  <lastupdated>1360268371</lastupdated>
+  <lastupdated>1401735112</lastupdated>
   <seasonid>16794</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -4919,12 +4954,12 @@ Martha begins to break down, and Mike becomes suspicious of what she is hiding f
 </Overview>
   <ProductionCode>6AFF06</ProductionCode>
   <Rating>7.2</Rating>
-  <RatingCount>46</RatingCount>
+  <RatingCount>47</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>Michael Loceff, Joel Surnow</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/316616.jpg</filename>
-  <lastupdated>1360268386</lastupdated>
+  <lastupdated>1401734389</lastupdated>
   <seasonid>16794</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -4951,12 +4986,12 @@ Martha begins to break down, and Mike becomes suspicious of what she is hiding f
 </Overview>
   <ProductionCode>6AFF07</ProductionCode>
   <Rating>7.2</Rating>
-  <RatingCount>39</RatingCount>
+  <RatingCount>40</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>Manny Coto, Howard Gordon</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/316617.jpg</filename>
-  <lastupdated>1360268400</lastupdated>
+  <lastupdated>1401735288</lastupdated>
   <seasonid>16794</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -4983,12 +5018,12 @@ Martha begins to break down, and Mike becomes suspicious of what she is hiding f
 </Overview>
   <ProductionCode>6AFF08</ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>42</RatingCount>
+  <RatingCount>43</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>Evan Katz, David Fury</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/316618.jpg</filename>
-  <lastupdated>1360268412</lastupdated>
+  <lastupdated>1401734569</lastupdated>
   <seasonid>16794</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -5015,12 +5050,12 @@ Martha begins to break down, and Mike becomes suspicious of what she is hiding f
 </Overview>
   <ProductionCode>6AFF09</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>42</RatingCount>
+  <RatingCount>43</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>Adam E. Fierro</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/316619.jpg</filename>
-  <lastupdated>1360268433</lastupdated>
+  <lastupdated>1401734604</lastupdated>
   <seasonid>16794</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -5047,12 +5082,12 @@ Martha begins to break down, and Mike becomes suspicious of what she is hiding f
 </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>39</RatingCount>
+  <RatingCount>40</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>Howard Gordon, Evan Katz</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/316620.jpg</filename>
-  <lastupdated>1360268444</lastupdated>
+  <lastupdated>1401734635</lastupdated>
   <seasonid>16794</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -5079,12 +5114,12 @@ Martha begins to break down, and Mike becomes suspicious of what she is hiding f
 </Overview>
   <ProductionCode>6AFF11</ProductionCode>
   <Rating>7.1</Rating>
-  <RatingCount>39</RatingCount>
+  <RatingCount>40</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>Manny Coto</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/316621.jpg</filename>
-  <lastupdated>1360268456</lastupdated>
+  <lastupdated>1401734677</lastupdated>
   <seasonid>16794</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -5111,12 +5146,12 @@ Martha begins to break down, and Mike becomes suspicious of what she is hiding f
 </Overview>
   <ProductionCode>6AFF12</ProductionCode>
   <Rating>7.2</Rating>
-  <RatingCount>38</RatingCount>
+  <RatingCount>39</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>Evan Katz, David Fury</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/316622.jpg</filename>
-  <lastupdated>1360268466</lastupdated>
+  <lastupdated>1401734707</lastupdated>
   <seasonid>16794</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -5143,12 +5178,12 @@ Martha begins to break down, and Mike becomes suspicious of what she is hiding f
 </Overview>
   <ProductionCode>6AFF13</ProductionCode>
   <Rating>7.2</Rating>
-  <RatingCount>38</RatingCount>
+  <RatingCount>39</RatingCount>
   <SeasonNumber>6</SeasonNumber>
-  <Writer>Michael Loceff, Joel Surnow</Writer>
+  <Writer>Michael Loceff|Joel Surnow</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/316623.jpg</filename>
-  <lastupdated>1360268477</lastupdated>
+  <lastupdated>1401734741</lastupdated>
   <seasonid>16794</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -5175,12 +5210,12 @@ Martha begins to break down, and Mike becomes suspicious of what she is hiding f
 </Overview>
   <ProductionCode>6AFF14</ProductionCode>
   <Rating>7.1</Rating>
-  <RatingCount>37</RatingCount>
+  <RatingCount>38</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>Howard Gordon, Evan Katz</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/316624.jpg</filename>
-  <lastupdated>1360268486</lastupdated>
+  <lastupdated>1401734786</lastupdated>
   <seasonid>16794</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -5207,12 +5242,12 @@ Martha begins to break down, and Mike becomes suspicious of what she is hiding f
 </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.1</Rating>
-  <RatingCount>36</RatingCount>
+  <RatingCount>37</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>Manny Coto, Howard Gordon</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/319270.jpg</filename>
-  <lastupdated>1360268497</lastupdated>
+  <lastupdated>1401734841</lastupdated>
   <seasonid>16794</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -5240,12 +5275,12 @@ Martha begins to break down, and Mike becomes suspicious of what she is hiding f
 Doyle coerces Nadia into helping him dig up dirt on Milo, while Jack uses Gredenko in a sting operation that will lead them to Fayed.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.0</Rating>
-  <RatingCount>37</RatingCount>
+  <RatingCount>38</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>Evan Katz, Robert Cochran</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/319271.jpg</filename>
-  <lastupdated>1360268506</lastupdated>
+  <lastupdated>1401734861</lastupdated>
   <seasonid>16794</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -5271,12 +5306,12 @@ Doyle coerces Nadia into helping him dig up dirt on Milo, while Jack uses Greden
   <Overview>Wayne continues to risk his health as he takes a stand that will force cooperation from the Middle East.Jack realizes he won't be able to break Fayed, so he and Doyle concoct a scheme to force Fayed to lead them to the location of the remaining nukes. But Fayed's ally engages in trickery that places the plan in jeopardy.</Overview>
   <ProductionCode>6AFF17</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>37</RatingCount>
+  <RatingCount>38</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>David Fury</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/319272.jpg</filename>
-  <lastupdated>1360268517</lastupdated>
+  <lastupdated>1401734896</lastupdated>
   <seasonid>16794</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -5302,12 +5337,12 @@ Doyle coerces Nadia into helping him dig up dirt on Milo, while Jack uses Greden
   <Overview>Cheng offers to exchange the nuclear component for Audrey's life. Jack gains Chloe's covert cooperation, but their plans are dashed when Morris stumbles on to the operation.Wayne gives Daniels an unpleasant ultimatum, but his fragile health soon tips the balance in the vice-president's favor.</Overview>
   <ProductionCode>6AFF18</ProductionCode>
   <Rating>7.0</Rating>
-  <RatingCount>41</RatingCount>
+  <RatingCount>42</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>Matt Michnovetz|Nicole Ranadive</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/319273.jpg</filename>
-  <lastupdated>1360268528</lastupdated>
+  <lastupdated>1401734922</lastupdated>
   <seasonid>16794</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -5333,12 +5368,12 @@ Doyle coerces Nadia into helping him dig up dirt on Milo, while Jack uses Greden
   <Overview>Jack sets up a meeting with Cheng, while Doyle tries to track him with CTU's help.Buchanan's career is placed in jeopardy when Karen is forced to make a damning choice to save the administration.Daniels seeks comfort from his assistant as he assumes the presidency.</Overview>
   <ProductionCode>6AFF19</ProductionCode>
   <Rating>7.2</Rating>
-  <RatingCount>39</RatingCount>
+  <RatingCount>40</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>Joel Surnow|Michael Loceff</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/319274.jpg</filename>
-  <lastupdated>1360268541</lastupdated>
+  <lastupdated>1401734940</lastupdated>
   <seasonid>16794</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -5363,13 +5398,13 @@ Doyle coerces Nadia into helping him dig up dirt on Milo, while Jack uses Greden
   <Language>en</Language>
   <Overview>Nadia approves an interrogation technique that might prove fatal to Audrey. Doyle covertly aids Jack in the hopes that he can save her from further mental trauma.Daniels discovers that he may have a leak in his administration when he is confronted by the angry Russian president.Chloe and Morris's relationship hits the rocks, while Heller delivers Jack a stern warning.</Overview>
   <ProductionCode>6AFF20</ProductionCode>
-  <Rating>6.8</Rating>
-  <RatingCount>39</RatingCount>
+  <Rating>6.9</Rating>
+  <RatingCount>40</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>Howard Gordon|Evan Katz</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/319275.jpg</filename>
-  <lastupdated>1360268550</lastupdated>
+  <lastupdated>1401734970</lastupdated>
   <seasonid>16794</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -5395,12 +5430,12 @@ Doyle coerces Nadia into helping him dig up dirt on Milo, while Jack uses Greden
   <Overview>Jack is held in custody at CTU, while Cheng prepares to launch a surprise attack.Lennox uses Lisa as a plant to send a false message to the Russians in hopes of defusing a tense situation.Morris' decision to end his relationship with Chloe begins taking its toll on her as they struggle to maintain professionalism, and Josh shows signs of guilt over the role his father played in the day's terrorist attacks.</Overview>
   <ProductionCode>6AFF21</ProductionCode>
   <Rating>7.1</Rating>
-  <RatingCount>37</RatingCount>
+  <RatingCount>38</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>Manny Coto</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/319276.jpg</filename>
-  <lastupdated>1360268561</lastupdated>
+  <lastupdated>1401734989</lastupdated>
   <seasonid>16794</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -5426,12 +5461,12 @@ Doyle coerces Nadia into helping him dig up dirt on Milo, while Jack uses Greden
   <Overview>Jack runs a desperate tactic to free the CTU hostages from their captors. He manages to intercept Cheng, who plans to deliver Josh to his grandfather in exchange for the circuit board. Jack is forced to allow Cheng to escape in order to save Josh's life.Lennox continues to monitor Lisa as she plants evidence for Mark to deliver to the Russians. The situation takes a nasty turn when all does not go according to plan. Meanwhile, Daniels tries to run a bluff on the Russian president, but finds he's playing a bad hand.Nadia finds herself facing a hostile investigation over the security breach, while a decision from Daniels pits Doyle against Jack.</Overview>
   <ProductionCode>6AFF22</ProductionCode>
   <Rating>7.1</Rating>
-  <RatingCount>40</RatingCount>
+  <RatingCount>41</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>Evan Katz|Howard Gordon</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/319277.jpg</filename>
-  <lastupdated>1360268571</lastupdated>
+  <lastupdated>1401735007</lastupdated>
   <seasonid>16794</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -5447,7 +5482,7 @@ Doyle coerces Nadia into helping him dig up dirt on Milo, while Jack uses Greden
   <DVD_episodenumber>24.0</DVD_episodenumber>
   <DVD_season>6</DVD_season>
   <Director>Brad Turner</Director>
-  <EpImgFlag></EpImgFlag>
+  <EpImgFlag>7</EpImgFlag>
   <EpisodeName>Day 6: 4:00 A.M. - 5:00 A.M.</EpisodeName>
   <EpisodeNumber>23</EpisodeNumber>
   <FirstAired>2007-05-21</FirstAired>
@@ -5457,12 +5492,12 @@ Doyle coerces Nadia into helping him dig up dirt on Milo, while Jack uses Greden
   <Overview>Doyle takes Josh to meet Phillip in the hopes of retrieving the circuit board, but his conscience bothers him over the exchange.Karen puts her career on the line when she uses Bill to help break Jack from custody. Jack and Bill track Phillip, but not before he pulls a fast move that reaps serious injury to Doyle.Nadia has a conversation with Milo's brother, while Chloe suffers from a mysterious medical problem that strikes her at the wrong moment.</Overview>
   <ProductionCode>6AFF23</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>39</RatingCount>
+  <RatingCount>40</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>Joel Surnow|Michael Loceff</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/319278.jpg</filename>
-  <lastupdated>1360268581</lastupdated>
+  <lastupdated>1401735024</lastupdated>
   <seasonid>16794</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -5478,7 +5513,7 @@ Doyle coerces Nadia into helping him dig up dirt on Milo, while Jack uses Greden
   <DVD_episodenumber>25.0</DVD_episodenumber>
   <DVD_season>6</DVD_season>
   <Director>Brad Turner</Director>
-  <EpImgFlag></EpImgFlag>
+  <EpImgFlag>7</EpImgFlag>
   <EpisodeName>Day 6: 5:00 A.M. - 6:00 A.M.</EpisodeName>
   <EpisodeNumber>24</EpisodeNumber>
   <FirstAired>2007-05-21</FirstAired>
@@ -5488,12 +5523,12 @@ Doyle coerces Nadia into helping him dig up dirt on Milo, while Jack uses Greden
   <Overview>CTU discovers where Philip is hiding and Daniels orders an air strike in a desperate move to appease the Russians. Jack and Bill go after Josh alone before the bombers find their target.Lennox persuades Daniels to grant leniency for Bill and Karen. In the wake of the close call, Daniels begins to question his choices as acting president.Chloe gives Morris some surprising news that alters their relationship, while Marilyn is reunited with Josh at CTU.</Overview>
   <ProductionCode>6AFF24</ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>38</RatingCount>
+  <RatingCount>39</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>Robert Cochran|Manny Coto|David Fury</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/319279.jpg</filename>
-  <lastupdated>1360268592</lastupdated>
+  <lastupdated>1401735057</lastupdated>
   <seasonid>16794</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -5519,12 +5554,12 @@ Doyle coerces Nadia into helping him dig up dirt on Milo, while Jack uses Greden
   <Overview>Since Jack Bauer has been pulled from his senate sub-committee hearing to assist with the deadly domestic threat and the investigation of former colleague Tony Almeida, his new undefined role is to help secure the nation. Meanwhile, President Allison Taylor presides over the escalating time-sensitive dilemmas linked to the unrest in Sangala. Chloe O’Brian and Bill Buchanan are on hand this season as well as FBI Agents Renee Walker, Larry Moss, Janis Gold and Sean Hillinger to cope with the unthinkable events</Overview>
   <ProductionCode>7AFF01</ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>61</RatingCount>
+  <RatingCount>62</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer>Howard Gordon | Joel Surnow | Michael Loceff</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/399739.jpg</filename>
-  <lastupdated>1360269380</lastupdated>
+  <lastupdated>1399539227</lastupdated>
   <seasonid>35831</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -5550,12 +5585,12 @@ Doyle coerces Nadia into helping him dig up dirt on Milo, while Jack uses Greden
   <Overview>Since Jack Bauer has been pulled from his senate sub-committee hearing to assist with the deadly domestic threat and the investigation of former colleague Tony Almeida, his new undefined role is to help secure the nation. Meanwhile, President Allison Taylor presides over the escalating time-sensitive dilemmas linked to the unrest in Sangala. Chloe O’Brian and Bill Buchanan are on hand this season as well as FBI Agents Renee Walker, Larry Moss, Janis Gold and Sean Hillinger to cope with the unthinkable events</Overview>
   <ProductionCode>7AFF02</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>55</RatingCount>
+  <RatingCount>56</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer>Howard Gordon | Evan Katz</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/409266.jpg</filename>
-  <lastupdated>1360269390</lastupdated>
+  <lastupdated>1399539191</lastupdated>
   <seasonid>35831</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -5586,7 +5621,7 @@ Doyle coerces Nadia into helping him dig up dirt on Milo, while Jack uses Greden
   <Writer>Manny Coto | Brannon Braga</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/409267.jpg</filename>
-  <lastupdated>1360269400</lastupdated>
+  <lastupdated>1399539165</lastupdated>
   <seasonid>35831</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -5616,12 +5651,12 @@ Taylor is forced to meet with Matobo to inform him that she may be required to w
 Henry meets with Samantha, Roger's former girlfriend, who tells him that Roger was indeed murdered and provides him with proof.</Overview>
   <ProductionCode>7AFF04</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>59</RatingCount>
+  <RatingCount>60</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer>David Fury | Alex Gansa</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/409268.jpg</filename>
-  <lastupdated>1360269409</lastupdated>
+  <lastupdated>1399539084</lastupdated>
   <seasonid>35831</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -5647,12 +5682,12 @@ Henry meets with Samantha, Roger's former girlfriend, who tells him that Roger w
   <Overview>As the threat of terrorism escalates, Jack Bauer is forced to take matters into his own hands to avert the imminent crisis facing the country. Meanwhile, lives are on the line as conflicted Agent Renee Walker copes with the volatile investigation, and FBI honcho Larry Moss is forced to keep a closer eye on his team as the nation's security is in jeopardy. At the White House, international stakes are raised and the First Gentleman proceeds with his personal mission.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>62</RatingCount>
+  <RatingCount>63</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer>Howard Gordon|Evan Katz</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/411213.jpg</filename>
-  <lastupdated>1360269419</lastupdated>
+  <lastupdated>1399539021</lastupdated>
   <seasonid>35831</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -5678,12 +5713,12 @@ Henry meets with Samantha, Roger's former girlfriend, who tells him that Roger w
   <Overview>As Dubaku presses President Taylor to comply with his devilish demands, she contemplates if the administration should negotiate to avert a disastrous terror attack. Meanwhile, away from the White House and the threatening international crisis, the determined First Gentleman struggles with his ongoing domestic mission, and perilous FBI Agent Walker diverts the attention of her tense colleagues. With national security on the line, Jack Bauer has a formidable plan in hopes of shielding the country in the “Day 7: 1:00-2:00 PM” episode.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>61</RatingCount>
+  <RatingCount>62</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer>Manny Coto|Brannon Braga</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/421902.jpg</filename>
-  <lastupdated>1360269428</lastupdated>
+  <lastupdated>1399538986</lastupdated>
   <seasonid>35831</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -5709,12 +5744,12 @@ Henry meets with Samantha, Roger's former girlfriend, who tells him that Roger w
   <Overview>As U.S. troops remain in position outside of Sangala, Dubaku seeks another high-value target using the CIP module. While the entire NSA scrambles to locate the breach, the situation rapidly escalates. Paranoid FBI Agent Janis Gold commands from her post, while Jack, Tony, Renee, Chloe and Buchanan follow leads.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>53</RatingCount>
+  <RatingCount>54</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer>Manny Coto|Brannon Braga</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/421903.jpg</filename>
-  <lastupdated>1360269439</lastupdated>
+  <lastupdated>1399538951</lastupdated>
   <seasonid>35831</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -5740,12 +5775,12 @@ Henry meets with Samantha, Roger's former girlfriend, who tells him that Roger w
   <Overview>As the country reels from the recent terror attacks and faces the mounting global ramifications, the administration refuses to acquiesce and presses on with their disapproval of the Juma regime. As Jack Bauer and team head to the White House for a pivotal meeting with President Taylor, Dubaku raises the stakes when he threatens the First Family</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>60</RatingCount>
+  <RatingCount>61</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer>Robert Cochran|Evan Katz</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/421904.jpg</filename>
-  <lastupdated>1360269448</lastupdated>
+  <lastupdated>1399538856</lastupdated>
   <seasonid>35831</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -5770,13 +5805,13 @@ Henry meets with Samantha, Roger's former girlfriend, who tells him that Roger w
   <Language>en</Language>
   <Overview>After eight hellacious hours of this terrible day have elapsed, the country remains on edge. President Taylor struggles with the painful circumstances facing the First Family, including her daughter Olivia (guest star Sprague Grayden). Meanwhile, a huffy Chloe faces-off against paranoid FBI Agent Janis Gold, while Jack and Agent Walker track leads through Washington, D.C. to eliminate the threat of another ruthless terror attack</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>58</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>59</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer>David Fury</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/421905.jpg</filename>
-  <lastupdated>1360269458</lastupdated>
+  <lastupdated>1399538839</lastupdated>
   <seasonid>35831</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -5802,12 +5837,12 @@ Henry meets with Samantha, Roger's former girlfriend, who tells him that Roger w
   <Overview>Jack and Renee Walker pursue Dubaku through the streets of Washington, D.C., with a little cyber help from Chloe. Meanwhile, the first family and the FBI are left reeling from incidents involving turncoat agents.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>56</RatingCount>
+  <RatingCount>57</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer>Manny Coto|Brannon Braga</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/421906.jpg</filename>
-  <lastupdated>1360269468</lastupdated>
+  <lastupdated>1399538824</lastupdated>
   <seasonid>35831</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -5833,12 +5868,12 @@ Henry meets with Samantha, Roger's former girlfriend, who tells him that Roger w
   <Overview>Not even at the halfway point of this hellacious day, two planes have collided outside of D.C., there has been an attempt on a chemical plant in Ohio, the President’s husband’s life has been threatened and the nation remains at risk. When Dubaku’s evil plan escalates to his boss, General Juma (guest star Tony Todd), the stakes are raised and steadfast President Taylor faces a deepening foreign policy dilemma.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>58</RatingCount>
+  <RatingCount>59</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer>Alex Gansa</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/421907.jpg</filename>
-  <lastupdated>1360269479</lastupdated>
+  <lastupdated>1399538778</lastupdated>
   <seasonid>35831</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -5866,12 +5901,12 @@ Henry meets with Samantha, Roger's former girlfriend, who tells him that Roger w
 Renee and Larry try to convince Vice President Hayworth to let them rescue the President, but Hayworth will not budge until the FBI can produce proof that she is not in imminent danger.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>59</RatingCount>
+  <RatingCount>60</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer>Evan Katz</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/421908.jpg</filename>
-  <lastupdated>1360269489</lastupdated>
+  <lastupdated>1399538755</lastupdated>
   <seasonid>35831</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -5899,12 +5934,12 @@ Renee and Larry try to convince Vice President Hayworth to let them rescue the P
 Meanwhile, Jonas Hodges makes moves to cover his own tracks, starting with Ryan Burnett.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>60</RatingCount>
+  <RatingCount>61</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer>Manny Coto|Brannon Braga</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/423755.jpg</filename>
-  <lastupdated>1360269499</lastupdated>
+  <lastupdated>1399538744</lastupdated>
   <seasonid>35831</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -5930,12 +5965,12 @@ Meanwhile, Jonas Hodges makes moves to cover his own tracks, starting with Ryan 
   <Overview>Malevolent mastermind Jonas Hodges emerges as Jack Bauer's latest adversary as the long, terrifying day ticks deeper into the night. Jack yields results from a surprise meeting, and the fight to avert additional terror attacks continues.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>50</RatingCount>
+  <RatingCount>51</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer>Evan Katz|Juan Carlos Coto</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/423756.jpg</filename>
-  <lastupdated>1360269509</lastupdated>
+  <lastupdated>1399538731</lastupdated>
   <seasonid>35831</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -5961,12 +5996,12 @@ Meanwhile, Jonas Hodges makes moves to cover his own tracks, starting with Ryan 
   <Overview>Olivia Taylor, the President’s daughter, becomes increasingly involved in the day’s events, and the administration reels when a high-ranking official delivers devastating news.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>53</RatingCount>
+  <RatingCount>54</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer>Alex Gansa</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/423757.jpg</filename>
-  <lastupdated>1360269518</lastupdated>
+  <lastupdated>1399538722</lastupdated>
   <seasonid>35831</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -5992,12 +6027,12 @@ Meanwhile, Jonas Hodges makes moves to cover his own tracks, starting with Ryan 
   <Overview>The game changes for Jack Bauer, and the FBI is forced to collaborate with other federal agencies. As the threat intensifies, the administration shakes things up and seeks a new perspective.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>47</RatingCount>
+  <RatingCount>48</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer>Manny Coto|Brannon Braga</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/423758.jpg</filename>
-  <lastupdated>1360269528</lastupdated>
+  <lastupdated>1399538713</lastupdated>
   <seasonid>35831</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -6023,12 +6058,12 @@ Meanwhile, Jonas Hodges makes moves to cover his own tracks, starting with Ryan 
   <Overview>As the day stretches into the middle of the night, Jack and the FBI formulate a plan to prevent further terror attacks. Events take an unexpected turn when the politics surrounding the administration expand beyond the White House.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>53</RatingCount>
+  <RatingCount>54</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer>Chip Johannessen</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/423759.jpg</filename>
-  <lastupdated>1360269538</lastupdated>
+  <lastupdated>1399538703</lastupdated>
   <seasonid>35831</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -6054,12 +6089,12 @@ Meanwhile, Jonas Hodges makes moves to cover his own tracks, starting with Ryan 
   <Overview>Jack Bauer endures the elements and fights on to prevent an attack that could change the country forever. As the catastrophic blow to the nation nears, Tony Almeida operates from the field and Kim Bauer, who was last seen in Season Five, returns. Meanwhile, the stakes are raised when the administration is faced with a blackmail scenario.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>58</RatingCount>
+  <RatingCount>59</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer>Manny Coto|Brannon Braga</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/423760.jpg</filename>
-  <lastupdated>1360269550</lastupdated>
+  <lastupdated>1399538677</lastupdated>
   <seasonid>35831</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -6084,13 +6119,13 @@ Meanwhile, Jonas Hodges makes moves to cover his own tracks, starting with Ryan 
   <Language>en</Language>
   <Overview>As the nation remains vulnerable, Jack Bauer endures the worsening pathogen pain. The FBI deals with recent deadly developments while matters involving key players takes this day into a unexpected direction.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>53</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>55</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer>David Fury</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/423761.jpg</filename>
-  <lastupdated>1360269559</lastupdated>
+  <lastupdated>1399538669</lastupdated>
   <seasonid>35831</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -6116,12 +6151,12 @@ Meanwhile, Jonas Hodges makes moves to cover his own tracks, starting with Ryan 
   <Overview>The nation remains vulnerable as Starkwood mastermind Jonas Hodges (guest star Jon Voight) remains at the epicenter of the mounting terrorist threat. Meanwhile, the FBI and the administration scramble to provide security and justice, and Jack Bauer questions a key suspect</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>55</RatingCount>
+  <RatingCount>56</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer>Alex Gansa|Chip Johannessen</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/423762.jpg</filename>
-  <lastupdated>1360269568</lastupdated>
+  <lastupdated>1399538658</lastupdated>
   <seasonid>35831</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -6147,12 +6182,12 @@ Meanwhile, Jonas Hodges makes moves to cover his own tracks, starting with Ryan 
   <Overview>While lives remain on the line, an emotional Chloe copes with the declining conditions. With only a few hours left in Jack Bauer’s day, the situation worsens when the politicking inside the White House corners the divided administration.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>53</RatingCount>
+  <RatingCount>54</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer>Manny Coto|Brannon Braga</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/423763.jpg</filename>
-  <lastupdated>1360269579</lastupdated>
+  <lastupdated>1399537598</lastupdated>
   <seasonid>35831</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -6178,12 +6213,12 @@ Meanwhile, Jonas Hodges makes moves to cover his own tracks, starting with Ryan 
   <Overview>Innocent lives remain in the line of fire as this terrifying day draws to a close. Jack is faced with an unthinkable situation while his perpetually imperiled daughter, Kim (guest star Cuthbert), gets involved. Meanwhile, the imminent threat stokes the heated rivalry between Chloe and Janis.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>53</RatingCount>
+  <RatingCount>54</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer>Evan Katz</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/423764.jpg</filename>
-  <lastupdated>1360269588</lastupdated>
+  <lastupdated>1399537587</lastupdated>
   <seasonid>35831</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -6209,12 +6244,12 @@ Meanwhile, Jonas Hodges makes moves to cover his own tracks, starting with Ryan 
   <Overview>Jack Bauer is forced to help Tony escape from custody, only to find Tony plans to use Jack to reconstitute the pathogen. Aaron Pierce and Ethan Kanin work together and discover Olivia's role in Hodges' murder. Kim Bauer takes down her captors, and works with Renee Walker to find her father.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>54</RatingCount>
+  <RatingCount>55</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer>David Fury|Alex Gansa</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/423765.jpg</filename>
-  <lastupdated>1360269598</lastupdated>
+  <lastupdated>1399537576</lastupdated>
   <seasonid>35831</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -6240,12 +6275,12 @@ Meanwhile, Jonas Hodges makes moves to cover his own tracks, starting with Ryan 
   <Overview>Presented with the evidence of Olivia's actions, President Allison Taylor is forced to make a decision between her family and the Presidency. Thanks to Kim Bauer, Janis, Renee and Chloe are able to save Jack and arrest Tony before he can kill Alan Wilson. With Wilson refusing to talk and Jack about to die, the fight is no longer in the field, it's for the hearts and souls of Jack and Renee.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>49</RatingCount>
+  <RatingCount>51</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer>Howard Gordon</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76290/423766.jpg</filename>
-  <lastupdated>1360269609</lastupdated>
+  <lastupdated>1399537563</lastupdated>
   <seasonid>35831</seasonid>
   <seriesid>76290</seriesid>
   <thumb_added></thumb_added>
@@ -6271,7 +6306,7 @@ Meanwhile, Jonas Hodges makes moves to cover his own tracks, starting with Ryan 
   <Overview>Jack is back, this time in New York City spending time with his granddaughter. However, when a former contact comes to him with vital information on an upcoming terrorist assassination attempt, Jack has no choice but to become involved and take the man to CTU. But to get to CTU, they first need to survive a whole bunch of terrorists all trying to kill them. Meanwhile, Chloe struggles to settle in at her new position at the upgraded CTU, and President Allison Taylor negotiates with Middle Eastern leader Omar Hassan over weapons inspections... unaware that Hassan is the assassins' target. Also, a journalist named Meredith Reed is suspected to have direct ties with the on-going terrorist crisis.</Overview>
   <ProductionCode>8AFF01</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>96</RatingCount>
+  <RatingCount>97</RatingCount>
   <SeasonNumber>8</SeasonNumber>
   <Writer>|Howard Gordon|Evan Katz|</Writer>
   <absolute_number></absolute_number>
@@ -6302,7 +6337,7 @@ Meanwhile, Jonas Hodges makes moves to cover his own tracks, starting with Ryan 
   <Overview>For the first time in New York City, Jack Bauer is reluctantly drawn into action as President Allison Taylor negotiates plans for international security with Middle Eastern leader Omar Hassan. As the 8th day keeps unfolding, we learn that CTU, now upgraded and operated by M.B.A.-schooled Brian Hastings, still has Chloe O'Brian, but also expert analyst Dana Walsh and systems analyst Arlo Glass.</Overview>
   <ProductionCode>8AFF02</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>81</RatingCount>
+  <RatingCount>82</RatingCount>
   <SeasonNumber>8</SeasonNumber>
   <Writer>|Howard Gordon|Manny Coto|Brannon Braga|</Writer>
   <absolute_number></absolute_number>
@@ -6333,7 +6368,7 @@ Meanwhile, Jonas Hodges makes moves to cover his own tracks, starting with Ryan 
   <Overview>Jack Bauer becomes further involved in preventing an assassination attempt on visiting president Omar Hassan. As the crisis continues to escalate, the crew at the newly upgraded CTU is challenged by some unexpected complicated circumstances. Meanwhile, tensions run high when an explosive event jeopardizes international security.</Overview>
   <ProductionCode>8AFF03</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>92</RatingCount>
+  <RatingCount>93</RatingCount>
   <SeasonNumber>8</SeasonNumber>
   <Writer>|David Fury|Alex Gansa|</Writer>
   <absolute_number></absolute_number>
@@ -6364,7 +6399,7 @@ Meanwhile, Jonas Hodges makes moves to cover his own tracks, starting with Ryan 
   <Overview>While the newly-upgraded CTU is challenged by some unexpected and complicated circumstances, Jack Bauer becomes even more involved in preventing an upcoming assassination attempt on Omar Hassan, a visiting President. Meanwhile, international security is jeopardized by an explosive event, and Jack is reunited with agent Renee Walker.</Overview>
   <ProductionCode>8AFF04</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>83</RatingCount>
+  <RatingCount>85</RatingCount>
   <SeasonNumber>8</SeasonNumber>
   <Writer>|Chip Johannessen|Patrick Harbinson|</Writer>
   <absolute_number></absolute_number>
@@ -6395,7 +6430,7 @@ Meanwhile, Jonas Hodges makes moves to cover his own tracks, starting with Ryan 
   <Overview>Four explosive hours after being unwillingly drawn back into action, Jack Bauer reteams with a risky Renee Walker to track some very dangerous leads. Meanwhile, back at CTU, a desperate Dana Walsh faces tense and untimely circumstances, and emotions escalate when President Taylor learns of a larger looming threat that jeopardizes the peace accord with President Hassan.</Overview>
   <ProductionCode>8AFF05</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>85</RatingCount>
+  <RatingCount>87</RatingCount>
   <SeasonNumber>8</SeasonNumber>
   <Writer>Howard Gordon|Evan Katz|Alex Gansa</Writer>
   <absolute_number></absolute_number>
@@ -6426,7 +6461,7 @@ Meanwhile, Jonas Hodges makes moves to cover his own tracks, starting with Ryan 
   <Overview>Undercover Agent Renee Walker confronts her painful past when attempting to broker a deal with a ruthless, but very well-connected German arms dealer. When CTU shifts its focus from the perilous circumstances surrounding Jack and Renee, lead analyst Dana Walsh comes up with a plan to quell her situation and Chloe O'Brian puts Arlo Glass in his place. As Jack and Renee’s undercover mission takes unexpected turns, the Hassan family turmoil has President Taylor reeling as the peace agreement is jeopardized.</Overview>
   <ProductionCode>8AFF06</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>86</RatingCount>
+  <RatingCount>88</RatingCount>
   <SeasonNumber>8</SeasonNumber>
   <Writer>Manny Coto|Brannon Braga</Writer>
   <absolute_number></absolute_number>
@@ -6457,7 +6492,7 @@ Meanwhile, Jonas Hodges makes moves to cover his own tracks, starting with Ryan 
   <Overview>Despite averting the assassination attempt on foreign peacekeeping leader Omar Hassan, Jack Bauer's day intensifies when he is forced to go further undercover to secure the unsecured enriched nuclear materials. As international delegates reconvene at the United Nations, President Taylor's goodwill comes into question and CTU races against time to assist with the mission.</Overview>
   <ProductionCode>8AFF07</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>96</RatingCount>
+  <RatingCount>97</RatingCount>
   <SeasonNumber>8</SeasonNumber>
   <Writer>Chip Johannessen|Patrick Harbinson</Writer>
   <absolute_number></absolute_number>
@@ -6488,7 +6523,7 @@ Meanwhile, Jonas Hodges makes moves to cover his own tracks, starting with Ryan 
   <Overview>President Taylor pressures CTU for progress while Jack's perilous plan has operatives panicked. As the scope of the looming threat expands, the dynamic at CTU changes and the ongoing crisis worsens.</Overview>
   <ProductionCode>8AFF08</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>87</RatingCount>
+  <RatingCount>89</RatingCount>
   <SeasonNumber>8</SeasonNumber>
   <Writer>David Fury</Writer>
   <absolute_number></absolute_number>
@@ -6519,7 +6554,7 @@ Meanwhile, Jonas Hodges makes moves to cover his own tracks, starting with Ryan 
   <Overview>As Jack's day enters the early morning hours, the nation remains vulnerable, and President Taylor presses on with her international peace process. With the possibility of colossal failure facing CTU, attention turns to who is to blame, and things get personal when operatives take matters into their own hands.</Overview>
   <ProductionCode>8AFF09</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>99</RatingCount>
+  <RatingCount>101</RatingCount>
   <SeasonNumber>8</SeasonNumber>
   <Writer>Alex Gansa|Chip Johannessen|Patrick Harbinson</Writer>
   <absolute_number></absolute_number>
@@ -6550,7 +6585,7 @@ Meanwhile, Jonas Hodges makes moves to cover his own tracks, starting with Ryan 
   <Overview>As the terror threat continues, the Hassan family turmoil fans the flames of the increasingly urgent situation. When Jack closes in on a person of significant interest, a tense meeting between President Taylor and Omar Hassan takes an unexpected turn as the global security stakes are raised.</Overview>
   <ProductionCode>8AFF10</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>96</RatingCount>
+  <RatingCount>98</RatingCount>
   <SeasonNumber>8</SeasonNumber>
   <Writer>Manny Coto|Brannon Braga</Writer>
   <absolute_number></absolute_number>
@@ -6581,7 +6616,7 @@ Meanwhile, Jonas Hodges makes moves to cover his own tracks, starting with Ryan 
   <Overview>The clock races into the middle of the night when the threat of a devastating nuclear attack accelerates as Jack tracks an informed terror suspect who has an explosive strategy. Back at CTU, a key player grapples with being demoted, and the day takes an unexpected stressful turn when pesky parole officer Bill Prady enters the picture.</Overview>
   <ProductionCode>8AFF11</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>99</RatingCount>
+  <RatingCount>100</RatingCount>
   <SeasonNumber>8</SeasonNumber>
   <Writer>David Fury|Evan Katz</Writer>
   <absolute_number></absolute_number>
@@ -6612,7 +6647,7 @@ Meanwhile, Jonas Hodges makes moves to cover his own tracks, starting with Ryan 
   <Overview>While Jack and Cole team up in the field to shield New York from the calamitous threat, a hostage situation has CTU completely stressed out. Meanwhile, unrelenting parole officer Prady presses on in his investigation, and unexpected developments send the Hassan family into a major tailspin.</Overview>
   <ProductionCode>8AFF09</ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>108</RatingCount>
+  <RatingCount>109</RatingCount>
   <SeasonNumber>8</SeasonNumber>
   <Writer>Chip Johannessen|Patrick Harbinson</Writer>
   <absolute_number></absolute_number>
@@ -6674,7 +6709,7 @@ Meanwhile, Jonas Hodges makes moves to cover his own tracks, starting with Ryan 
   <Overview>President Taylor's vision of global peace has been foiled over the last 13 hellish hours, and the situation worsens when the imminent threat of mass destruction clarifies. As her idealistic nature becomes a point of contention, she tasks Jack Bauer with a crucial mission, and advisor Ethan Kanin returns in the heart-stopping.</Overview>
   <ProductionCode>8AFF14</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>107</RatingCount>
+  <RatingCount>108</RatingCount>
   <SeasonNumber>8</SeasonNumber>
   <Writer>Evan Katz|Alex Gansa</Writer>
   <absolute_number></absolute_number>
@@ -6705,7 +6740,7 @@ Meanwhile, Jonas Hodges makes moves to cover his own tracks, starting with Ryan 
   <Overview>As dawn breaks over New York, President Taylor endures a game-changing setback as the threat of mass destruction looms. Meanwhile, President Hassan makes a shocking decision that surprises his loved ones. But before long, trusted confidantes will become enemies of the state, and it's only the beginning of the betrayals that are to come as the race against time ticks over two pulse-pounding hours.</Overview>
   <ProductionCode>8AFF15</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>107</RatingCount>
+  <RatingCount>108</RatingCount>
   <SeasonNumber>8</SeasonNumber>
   <Writer>Chip Johannessen|Patrick Harbinson</Writer>
   <absolute_number></absolute_number>
@@ -6736,7 +6771,7 @@ Meanwhile, Jonas Hodges makes moves to cover his own tracks, starting with Ryan 
   <Overview>President Taylor undergoes a game-changing setback; President Hassan makes a decision that shocks his loved ones; trusted confidantes become enemies of the state.</Overview>
   <ProductionCode>8AFF16</ProductionCode>
   <Rating>8.1</Rating>
-  <RatingCount>102</RatingCount>
+  <RatingCount>103</RatingCount>
   <SeasonNumber>8</SeasonNumber>
   <Writer>Manny Coto|Brannon Braga</Writer>
   <absolute_number></absolute_number>
@@ -6767,7 +6802,7 @@ Meanwhile, Jonas Hodges makes moves to cover his own tracks, starting with Ryan 
   <Overview>As the country reels from the day’s devastating events, stalwart President Taylor attempts to resuscitate the peace agreement, the cornerstone of her administration. Much to her dismay, she is forced to solicit the services of disgraced former President Logan. Meanwhile, Jack Bauer makes an unprecedented emotional move that triggers the unthinkable, and back at CTU, Chloe is charged with new responsibilities.</Overview>
   <ProductionCode>8AFF17</ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>106</RatingCount>
+  <RatingCount>107</RatingCount>
   <SeasonNumber>8</SeasonNumber>
   <Writer>David Fury</Writer>
   <absolute_number></absolute_number>
@@ -6798,7 +6833,7 @@ Meanwhile, Jonas Hodges makes moves to cover his own tracks, starting with Ryan 
   <Overview>With only seven hours left in the series' final harrowing day, Jack Bauer sets out to avenge the tragic life-changing events that he has endured. As things become even more personal for Jack, he heads to CTU for an intense meeting after learning of a devastating development. Meanwhile, on the verge of achieving peace on a scale that has eluded the world for generations, President Taylor becomes deeply conflicted when former President Logan sits down at the bargaining table.</Overview>
   <ProductionCode>8AFF18</ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>106</RatingCount>
+  <RatingCount>108</RatingCount>
   <SeasonNumber>8</SeasonNumber>
   <Writer>Chip Johannessen|Patrick Harbinson</Writer>
   <absolute_number></absolute_number>
@@ -6829,7 +6864,7 @@ Meanwhile, Jonas Hodges makes moves to cover his own tracks, starting with Ryan 
   <Overview>With only six hours left, the clock races toward the series finale as President Allison Taylor faces impossible choices and much to the dismay of CTU, she enlists a private security firm to complete a sensitive task led by Mark Bledsoe. Meanwhile, Jack calls in a favor to his old friend Rick Vickers before he embarks upon a crucial mission of his own.</Overview>
   <ProductionCode>8AFF19</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>111</RatingCount>
+  <RatingCount>112</RatingCount>
   <SeasonNumber>8</SeasonNumber>
   <Writer>Manny Coto|Brannon Braga</Writer>
   <absolute_number></absolute_number>
@@ -6891,7 +6926,7 @@ Meanwhile, Jonas Hodges makes moves to cover his own tracks, starting with Ryan 
   <Overview>With only four hours left, a rogue Jack Bauer stops at nothing to determine who is behind the day's most devastating events, and he uncovers an unexpected lead.</Overview>
   <ProductionCode>8AFF21</ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>115</RatingCount>
+  <RatingCount>116</RatingCount>
   <SeasonNumber>8</SeasonNumber>
   <Writer>Chip Johannessen|Patrick Harbinson</Writer>
   <absolute_number></absolute_number>
@@ -6922,7 +6957,7 @@ Meanwhile, Jonas Hodges makes moves to cover his own tracks, starting with Ryan 
   <Overview>As the clock ticks toward the climactic series finale, three hours remain and a ruthless Jack Bauer is on an unwavering mission to uncover the truth, which only complicates circumstances for President Taylor as she prepares for a signing ceremony. Meanwhile, President Logan comes face-to-face with a formidable foe, and Chloe leads CTU on a high-stakes collision course with Jack Bauer.</Overview>
   <ProductionCode>8AFF22</ProductionCode>
   <Rating>8.3</Rating>
-  <RatingCount>111</RatingCount>
+  <RatingCount>112</RatingCount>
   <SeasonNumber>8</SeasonNumber>
   <Writer>David Fury</Writer>
   <absolute_number></absolute_number>
@@ -6953,7 +6988,7 @@ Meanwhile, Jonas Hodges makes moves to cover his own tracks, starting with Ryan 
   <Overview>Emotions run high as the harrowing day climaxes with resolute President Taylor closing in on a world-changing peace treaty and a vengeful Jack Bauer taking matters into his own hands for one last and unforgettable job.</Overview>
   <ProductionCode>8AFF23</ProductionCode>
   <Rating>8.3</Rating>
-  <RatingCount>121</RatingCount>
+  <RatingCount>122</RatingCount>
   <SeasonNumber>8</SeasonNumber>
   <Writer>Shauna McGarry|Geoff Aull</Writer>
   <absolute_number></absolute_number>
@@ -6984,7 +7019,7 @@ Meanwhile, Jonas Hodges makes moves to cover his own tracks, starting with Ryan 
   <Overview>Emotions run high as the harrowing day climaxes with resolute President Taylor closing in on a world-changing peace treaty and a vengeful Jack Bauer taking matters into his own hands for one last and unforgettable job.</Overview>
   <ProductionCode>8AFF24</ProductionCode>
   <Rating>8.5</Rating>
-  <RatingCount>115</RatingCount>
+  <RatingCount>116</RatingCount>
   <SeasonNumber>8</SeasonNumber>
   <Writer>Howard Gordon</Writer>
   <absolute_number></absolute_number>
@@ -7005,27 +7040,27 @@ Meanwhile, Jonas Hodges makes moves to cover his own tracks, starting with Ryan 
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
   <Director>Jon Cassar</Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>Day 9: 12:00 P.M. - 1:00 P.M.</EpisodeName>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Day 9: 11:00 A.M. - 12:00 P.M.</EpisodeName>
   <EpisodeNumber>1</EpisodeNumber>
   <FirstAired>2014-05-05</FirstAired>
   <GuestStars></GuestStars>
   <IMDB_ID>tt2911226</IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
+  <Overview>After four years off the grid, Jack is apprehended in London by the CIA – on the very day that President James Heller arrives. As the President faces political pressure over a US drone program run from a UK-based base, only disgraced agent Kate Morgan suspects that Jack's capture was all too easy.</Overview>
   <ProductionCode>9AFF01</ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>49</RatingCount>
   <SeasonNumber>9</SeasonNumber>
-  <Writer>Evan Katz | Manny Coto</Writer>
+  <Writer>Evan Katz|Manny Coto</Writer>
   <absolute_number>193</absolute_number>
-  <filename></filename>
-  <lastupdated>1391025181</lastupdated>
+  <filename>episodes/76290/4769340.jpg</filename>
+  <lastupdated>1399620017</lastupdated>
   <seasonid>573245</seasonid>
   <seriesid>76290</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-05-05 19:24:38</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4773966</id>
@@ -7036,27 +7071,27 @@ Meanwhile, Jonas Hodges makes moves to cover his own tracks, starting with Ryan 
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
   <Director>Jon Cassar</Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>Day 9: 1:00 P.M. – 2:00 P.M.</EpisodeName>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Day 9: 12:00 P.M. - 1:00 P.M.</EpisodeName>
   <EpisodeNumber>2</EpisodeNumber>
   <FirstAired>2014-05-05</FirstAired>
   <GuestStars></GuestStars>
   <IMDB_ID>tt2916050</IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
+  <Overview>Jack and Chloe are on the trail of a hacker who might lead them to whoever is behind an assassination attempt on President Heller... but Kate is hot on Jack's trail.</Overview>
   <ProductionCode>9AFF02</ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>44</RatingCount>
   <SeasonNumber>9</SeasonNumber>
-  <Writer>Robert Cochran | David Fury</Writer>
+  <Writer>Robert Cochran|David Fury</Writer>
   <absolute_number>194</absolute_number>
-  <filename></filename>
-  <lastupdated>1392422015</lastupdated>
+  <filename>episodes/76290/4773966.jpg</filename>
+  <lastupdated>1399620034</lastupdated>
   <seasonid>573245</seasonid>
   <seriesid>76290</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-05-05 11:38:35</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4773986</id>
@@ -7066,28 +7101,28 @@ Meanwhile, Jonas Hodges makes moves to cover his own tracks, starting with Ryan 
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director>Adam Kane</Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>Day 9: 2:00 P.M. – 3:00 P.M.</EpisodeName>
+  <Director>|Adam Kane|</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Day 9: 1:00 P.M. - 2:00 P.M.</EpisodeName>
   <EpisodeNumber>3</EpisodeNumber>
   <FirstAired>2014-05-12</FirstAired>
-  <GuestStars></GuestStars>
+  <GuestStars>|Michelle Fairley|</GuestStars>
   <IMDB_ID>tt2916054</IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Overview>As the hunt continues for Jack Bauer, the terror threat is intensifying, much to the chagrin of the CIA and Kate Morgan. Across town, President James Heller prepares to address Parliament in an attempt to heal recent wounds with the British, and to preserve his legacy. Meanwhile, Margot - a homegrown British terrorist seeking to avenge her husband's death - proves she is willing to make any sacrifice for her mission.</Overview>
+  <ProductionCode>9AFF03</ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>42</RatingCount>
   <SeasonNumber>9</SeasonNumber>
-  <Writer></Writer>
+  <Writer>|Sang Kyu Kim|Patrick Somerville|</Writer>
   <absolute_number>195</absolute_number>
-  <filename></filename>
-  <lastupdated>1392422047</lastupdated>
+  <filename>episodes/76290/4773986.jpg</filename>
+  <lastupdated>1405230534</lastupdated>
   <seasonid>573245</seasonid>
   <seriesid>76290</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-05-11 06:40:08</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4773987</id>
@@ -7098,27 +7133,27 @@ Meanwhile, Jonas Hodges makes moves to cover his own tracks, starting with Ryan 
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
   <Director>Adam Kane</Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>Day 9: 3:00 P.M. – 4:00 P.M.</EpisodeName>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Day 9: 2:00 P.M. - 3:00 P.M.</EpisodeName>
   <EpisodeNumber>4</EpisodeNumber>
   <FirstAired>2014-05-19</FirstAired>
-  <GuestStars></GuestStars>
+  <GuestStars>Sacha Dhawan</GuestStars>
   <IMDB_ID>tt2916056</IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Overview>With the threat escalating, Jack Bauer heads to the U.S. Embassy as the CIA closes in on him. Elsewhere, Margot asserts her authority with unthinkable force, President Heller faces members of Parliament and Kate Morgan takes matters into her own hands.</Overview>
+  <ProductionCode>9AFF04</ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>41</RatingCount>
   <SeasonNumber>9</SeasonNumber>
-  <Writer></Writer>
+  <Writer>Patrick Harbinson</Writer>
   <absolute_number>196</absolute_number>
-  <filename></filename>
-  <lastupdated>1392422068</lastupdated>
+  <filename>episodes/76290/4773987.jpg</filename>
+  <lastupdated>1405230553</lastupdated>
   <seasonid>573245</seasonid>
   <seriesid>76290</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-05-18 09:24:04</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4773988</id>
@@ -7128,28 +7163,28 @@ Meanwhile, Jonas Hodges makes moves to cover his own tracks, starting with Ryan 
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>Day 9: 4:00 P.M. – 5:00 P.M.</EpisodeName>
+  <Director>Omar Madha</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Day 9: 3:00 P.M. - 4:00 P.M.</EpisodeName>
   <EpisodeNumber>5</EpisodeNumber>
   <FirstAired>2014-05-26</FirstAired>
-  <GuestStars></GuestStars>
+  <GuestStars>Michelle Fairley</GuestStars>
   <IMDB_ID>tt2916060</IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Overview>As Jack deals with unforeseen circumstances, an unlikely duo joins forces to prevent an impending attack in London. Meanwhile, homegrown terrorist Margot Al-Harazi reveals her demands - revenge for her husband's death in a U.S. airstrike. Also, President Heller orders a lockdown of military airspace, but it may be too late.</Overview>
+  <ProductionCode>9AFF05</ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>44</RatingCount>
   <SeasonNumber>9</SeasonNumber>
-  <Writer></Writer>
+  <Writer>Sang Kyu Kim|Patrick Somerville</Writer>
   <absolute_number>197</absolute_number>
-  <filename></filename>
-  <lastupdated>1392422087</lastupdated>
+  <filename>episodes/76290/4773988.jpg</filename>
+  <lastupdated>1405230566</lastupdated>
   <seasonid>573245</seasonid>
   <seriesid>76290</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-05-26 10:00:35</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4773990</id>
@@ -7159,28 +7194,28 @@ Meanwhile, Jonas Hodges makes moves to cover his own tracks, starting with Ryan 
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>Day 9: 5:00 P.M. – 6:00 P.M.</EpisodeName>
+  <Director>Omar Madha</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Day 9: 4:00 P.M. - 5:00 P.M.</EpisodeName>
   <EpisodeNumber>6</EpisodeNumber>
   <FirstAired>2014-06-02</FirstAired>
   <GuestStars></GuestStars>
   <IMDB_ID>tt2916058</IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Overview>As the smoke clears after the devastating events of the first five hours, tensions between President Heller and Prime Minister Davies boil over, and one of them decides to take matters into his own hands. In the meantime, Jack proposes a plan to locate Margot by using someone unexpected as his unsuspecting bait. Back at the CIA in London, Jordan raises suspicions about Kate's husband.</Overview>
+  <ProductionCode>9AFF06</ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>35</RatingCount>
   <SeasonNumber>9</SeasonNumber>
   <Writer></Writer>
   <absolute_number>198</absolute_number>
-  <filename></filename>
-  <lastupdated>1392422104</lastupdated>
+  <filename>episodes/76290/4773990.jpg</filename>
+  <lastupdated>1405230579</lastupdated>
   <seasonid>573245</seasonid>
   <seriesid>76290</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-06-02 16:35:44</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4773992</id>
@@ -7190,28 +7225,28 @@ Meanwhile, Jonas Hodges makes moves to cover his own tracks, starting with Ryan 
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>Day 9: 6:00 P.M. – 7:00 P.M.</EpisodeName>
+  <Director>Jon Cassar</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Day 9: 5:00 P.M. - 6:00 P.M.</EpisodeName>
   <EpisodeNumber>7</EpisodeNumber>
   <FirstAired>2014-06-09</FirstAired>
   <GuestStars></GuestStars>
   <IMDB_ID>tt2916062</IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Overview>Following an intense and deadly shootout, Jack and Kate are in a race against time to save the life of a key player tied to the imminent terror threat. Meanwhile, Jordan Reed is ordered into the field on a perilous mission. Then, after President Heller engages Margot to end her savage attacks, he faces an unthinkable, game-changing decision.</Overview>
+  <ProductionCode>9AFF07</ProductionCode>
+  <Rating>7.3</Rating>
+  <RatingCount>33</RatingCount>
   <SeasonNumber>9</SeasonNumber>
   <Writer></Writer>
   <absolute_number>199</absolute_number>
-  <filename></filename>
-  <lastupdated>1392422123</lastupdated>
+  <filename>episodes/76290/4773992.jpg</filename>
+  <lastupdated>1405230587</lastupdated>
   <seasonid>573245</seasonid>
   <seriesid>76290</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-06-09 16:05:37</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4773994</id>
@@ -7221,28 +7256,28 @@ Meanwhile, Jonas Hodges makes moves to cover his own tracks, starting with Ryan 
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>Day 9: 7:00 P.M. – 8:00 P.M.</EpisodeName>
+  <Director>Jon Cassar</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Day 9: 6:00 P.M. - 7:00 P.M.</EpisodeName>
   <EpisodeNumber>8</EpisodeNumber>
   <FirstAired>2014-06-16</FirstAired>
-  <GuestStars></GuestStars>
+  <GuestStars>Michelle Fairley</GuestStars>
   <IMDB_ID>tt2916064</IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Overview>Jack Bauer and President Heller endure the unthinkable to thwart the terror attacks of mastermind Margot Al-Harazi. Meanwhile, CIA agent Jordan Reed faces a life-or-death struggle and Kate takes drastic measures to track down Margot before it's too late.</Overview>
+  <ProductionCode>9AFF08</ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>32</RatingCount>
   <SeasonNumber>9</SeasonNumber>
   <Writer></Writer>
   <absolute_number>200</absolute_number>
-  <filename></filename>
-  <lastupdated>1392422152</lastupdated>
+  <filename>episodes/76290/4773994.jpg</filename>
+  <lastupdated>1405230621</lastupdated>
   <seasonid>573245</seasonid>
   <seriesid>76290</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-06-13 15:38:01</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4773996</id>
@@ -7252,28 +7287,28 @@ Meanwhile, Jonas Hodges makes moves to cover his own tracks, starting with Ryan 
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>Day 9: 8:00 P.M. – 9:00 P.M.</EpisodeName>
+  <Director>Milan Cheylov</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Day 9: 7:00 P.M. - 8:00 P.M.</EpisodeName>
   <EpisodeNumber>9</EpisodeNumber>
   <FirstAired>2014-06-23</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt2916070</IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Overview>Jack and Chloe have a plan in place to eliminate the terrorist threat before any more attacks rock London. With no time to spare and lives on the line, Jack and Kate pursue crucial leads in an attempt to gain the upper hand on the incredibly intense circumstances. Meanwhile, key players reveal their true colors.</Overview>
+  <ProductionCode>9AFF09</ProductionCode>
+  <Rating>7.3</Rating>
+  <RatingCount>33</RatingCount>
   <SeasonNumber>9</SeasonNumber>
   <Writer></Writer>
-  <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1391459956</lastupdated>
+  <absolute_number>201</absolute_number>
+  <filename>episodes/76290/4773996.jpg</filename>
+  <lastupdated>1405465084</lastupdated>
   <seasonid>573245</seasonid>
   <seriesid>76290</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-06-23 16:40:26</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4773997</id>
@@ -7283,28 +7318,28 @@ Meanwhile, Jonas Hodges makes moves to cover his own tracks, starting with Ryan 
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>Day 9: 9:00 P.M. – 10:00 P.M.</EpisodeName>
+  <Director>Milan Cheylov</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Day 9: 8:00 P.M. - 9:00 P.M.</EpisodeName>
   <EpisodeNumber>10</EpisodeNumber>
   <FirstAired>2014-06-30</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt2916068</IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Overview>With only three episodes remaining, Jack Bauer’s harrowing day crescendos as he pursues final leads at all costs. The emotional toll of the day’s events escalates when Kate Morgan learns the truth about her husband and Audrey confronts Boudreau about his duplicity. Making matters incredibly worse, the scope of the terror threat widens and the potential devastation reaches new heights.</Overview>
+  <ProductionCode>9AFF10</ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>29</RatingCount>
   <SeasonNumber>9</SeasonNumber>
   <Writer></Writer>
-  <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1391460000</lastupdated>
+  <absolute_number>202</absolute_number>
+  <filename>episodes/76290/4773997.jpg</filename>
+  <lastupdated>1405717891</lastupdated>
   <seasonid>573245</seasonid>
   <seriesid>76290</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-06-30 19:38:10</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4773998</id>
@@ -7314,28 +7349,28 @@ Meanwhile, Jonas Hodges makes moves to cover his own tracks, starting with Ryan 
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>Day 9: 10:00 P.M. – 11:00 P.M.</EpisodeName>
+  <Director>Jon Cassar</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Day 9: 9:00 P.M. - 10:00 P.M.</EpisodeName>
   <EpisodeNumber>11</EpisodeNumber>
   <FirstAired>2014-07-07</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt2916072</IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Overview>In the penultimate episode, Audrey pursues diplomatic channels to try to prevent a full-scale war. Meanwhile, Jack Bauer leads Kate Morgan and Mark Boudreau on a mission to locate their target before it's too late and the world is changed forever.</Overview>
+  <ProductionCode>9AFF11</ProductionCode>
+  <Rating>7.2</Rating>
+  <RatingCount>19</RatingCount>
   <SeasonNumber>9</SeasonNumber>
   <Writer></Writer>
-  <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1391460034</lastupdated>
+  <absolute_number>203</absolute_number>
+  <filename>episodes/76290/4773998.jpg</filename>
+  <lastupdated>1405680919</lastupdated>
   <seasonid>573245</seasonid>
   <seriesid>76290</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-07-08 11:46:22</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4773999</id>
@@ -7345,27 +7380,27 @@ Meanwhile, Jonas Hodges makes moves to cover his own tracks, starting with Ryan 
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>Day 9: 11:00 P.M. – 12:00 A.M.</EpisodeName>
+  <Director>Jon Cassar</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Day 9: 10:00 P.M. - 11:00 A.M.</EpisodeName>
   <EpisodeNumber>12</EpisodeNumber>
   <FirstAired>2014-07-14</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt2916074</IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Overview>In the highly anticipated season finale, the clock ticks toward the final seconds of Jack Bauer’s most heroic day. As the world teeters on a terror plot of mass proportions,  Jack and the team reunite one last time to avert an imminent international crisis. With little time left and the fate of the free world on the line, Jack is faced with an unthinkable and grave decision. Lives will be lost and the American administration will grapple with the day’s most devastating news as the clock stops.</Overview>
+  <ProductionCode>9AFF12</ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>15</RatingCount>
   <SeasonNumber>9</SeasonNumber>
   <Writer></Writer>
-  <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1391460073</lastupdated>
+  <absolute_number>204</absolute_number>
+  <filename>episodes/76290/4773999.jpg</filename>
+  <lastupdated>1405801099</lastupdated>
   <seasonid>573245</seasonid>
   <seriesid>76290</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-07-13 11:51:57</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 </Data>

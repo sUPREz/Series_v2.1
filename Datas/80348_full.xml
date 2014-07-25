@@ -13,7 +13,7 @@
   <NetworkID></NetworkID>
   <Overview>Chuck Bartowski, ace computer geek at Buy More, is not in his right mind. That's a good thing. Ever since he unwittingly downloaded stolen government secrets into his brain, action, excitement and a cool secret-agent girlfriend have entered his life. It's a bad thing, too. Because now Chuck is in danger 24/7.</Overview>
   <Rating>8.7</Rating>
-  <RatingCount>853</RatingCount>
+  <RatingCount>887</RatingCount>
   <Runtime>60</Runtime>
   <SeriesID>68724</SeriesID>
   <SeriesName>Chuck</SeriesName>
@@ -21,9 +21,10 @@
   <added></added>
   <addedBy></addedBy>
   <banner>graphical/80348-g26.jpg</banner>
-  <fanart>fanart/original/80348-31.jpg</fanart>
-  <lastupdated>1388403316</lastupdated>
+  <fanart>fanart/original/80348-48.jpg</fanart>
+  <lastupdated>1405825294</lastupdated>
   <poster>posters/80348-16.jpg</poster>
+  <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>EP00930779</zap2it_id>
 </Series>
 <Episode>
@@ -419,7 +420,7 @@
   <Overview>Chuck Bartowski is an average computer geek until files of government secrets are downloaded into his brain. He is soon scouted by the CIA and NSA to act in place of their computer.</Overview>
   <ProductionCode>276025</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>162</RatingCount>
+  <RatingCount>165</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Josh Schwartz|Chris Fedak</Writer>
   <absolute_number>1</absolute_number>
@@ -451,7 +452,7 @@
 Meanwhile, Chuck's sister Ellie invites Sarah to dinner to meet the family.</Overview>
   <ProductionCode>3T6451</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>121</RatingCount>
+  <RatingCount>125</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Josh Schwartz|Chris Fedak</Writer>
   <absolute_number>2</absolute_number>
@@ -482,7 +483,7 @@ Meanwhile, Chuck's sister Ellie invites Sarah to dinner to meet the family.</Ove
   <Overview>Chuck needs the help of Morgan and the Nerd Herd to prove that he is ready to become the store's assistant manager. Sarah and John assign Chuck his first undercover spy mission to foil a terrorism plot.</Overview>
   <ProductionCode>3T6452</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>123</RatingCount>
+  <RatingCount>125</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Matt Miller</Writer>
   <absolute_number>3</absolute_number>
@@ -513,7 +514,7 @@ Meanwhile, Chuck's sister Ellie invites Sarah to dinner to meet the family.</Ove
   <Overview>Chuck's latest mission has him raiding a Malibu mansion to grab a million dollar diamond being used to fund terrorism. Tagging along is an attractive but less-than-trustworthy DEA agent.</Overview>
   <ProductionCode>3T6454</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>117</RatingCount>
+  <RatingCount>119</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Allison Adler</Writer>
   <absolute_number>4</absolute_number>
@@ -545,7 +546,7 @@ Meanwhile, Chuck's sister Ellie invites Sarah to dinner to meet the family.</Ove
 Meanwhile, Morgan has to participate in a sales competition that could decide his fate at Buy More.</Overview>
   <ProductionCode>3T6453</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>116</RatingCount>
+  <RatingCount>118</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Scott Rosenbaum</Writer>
   <absolute_number>5</absolute_number>
@@ -576,7 +577,7 @@ Meanwhile, Morgan has to participate in a sales competition that could decide hi
   <Overview>In this Halloween episode Chuck meets a Federal agent just like him: A computer whiz whose brain is important to national security. However, Chuck soon has a personal dilemma arise when he has to decide whether or not to turn the man over to Sarah and Casey or to help him escape his handlers.</Overview>
   <ProductionCode>3T6455</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>106</RatingCount>
+  <RatingCount>107</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Phil Klemmer</Writer>
   <absolute_number>6</absolute_number>
@@ -607,7 +608,7 @@ Meanwhile, Morgan has to participate in a sales competition that could decide hi
   <Overview>Returning to Stanford, the University that expelled him, Chuck has to help a former professor who is a government agent being hunted for a sensitive top-secret file he has in his possession. At the same time, Chuck learns much about himself and about the death of his friend Bryce Larkin.</Overview>
   <ProductionCode>3T6456</ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>104</RatingCount>
+  <RatingCount>106</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Anne Cofell Saunders</Writer>
   <absolute_number>7</absolute_number>
@@ -638,7 +639,7 @@ Meanwhile, Morgan has to participate in a sales competition that could decide hi
   <Overview>Chuck must learn to balance a real love life with his cover love life when he meets a charming young woman by the name of Lou. At the same time, his relationship with Sarah gets interesting when the duo must explain their sexual relations with Ellie and Captain Awesome on a double date. Meanwhile, there is trouble when someone is using truth poison in order to retrieve codes for nuclear facilities.</Overview>
   <ProductionCode>3T6457</ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>97</RatingCount>
+  <RatingCount>99</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Allison Adler</Writer>
   <absolute_number>8</absolute_number>
@@ -669,7 +670,7 @@ Meanwhile, Morgan has to participate in a sales competition that could decide hi
   <Overview>Not all of Sarah's feelings for Chuck may have been a cover, as she finds out, when Chuck begins to date Lou, a sandwich maker. When things couldn't get even more complicated, Lou turns out to be part of a smuggling ring.</Overview>
   <ProductionCode>3T6458</ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>101</RatingCount>
+  <RatingCount>103</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Matt Miller|Scott Rosenbaum</Writer>
   <absolute_number>9</absolute_number>
@@ -699,8 +700,8 @@ Meanwhile, Morgan has to participate in a sales competition that could decide hi
   <Language>en</Language>
   <Overview>Chuck discovers that his former roommate and old nemesis, Bryce Larkin, is still alive, and that a renegade group within the CIA is after the Intersect. Chuck then has to balance helping Bryce return to the legitimate CIA, with the year's busiest shopping day at the Buy More.</Overview>
   <ProductionCode>3T6459</ProductionCode>
-  <Rating>7.9</Rating>
-  <RatingCount>100</RatingCount>
+  <Rating>8.0</Rating>
+  <RatingCount>102</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Chris Fedak</Writer>
   <absolute_number>10</absolute_number>
@@ -731,7 +732,7 @@ Meanwhile, Morgan has to participate in a sales competition that could decide hi
   <Overview>While coping with the realization that Sarah still has feelings for Bryce, Chuck must assume his toughest cover yet by going on a mission as Sarah's husband. The team must foil the plot of a politically connected counterfeiter, who may be endangering the lives of Anna, Morgan and Anna's parents. Both Morgan and Anna also find themselves in the cross hairs.</Overview>
   <ProductionCode>3T6460</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>98</RatingCount>
+  <RatingCount>101</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Zev Borow</Writer>
   <absolute_number>11</absolute_number>
@@ -762,7 +763,7 @@ Meanwhile, Morgan has to participate in a sales competition that could decide hi
   <Overview>The episode begins with a flashback to the year 2004, where John Casey is involved with a female Russian named Ilsa, who claims she is a photo journalist. Later, in present day, Ilsa returns with a fiancé, named Victor Federov. Things get complicated when it is revealed that Ilsa is a French spy.</Overview>
   <ProductionCode>3T6461</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>91</RatingCount>
+  <RatingCount>94</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Phil Klemmer</Writer>
   <absolute_number>12</absolute_number>
@@ -793,7 +794,7 @@ Meanwhile, Morgan has to participate in a sales competition that could decide hi
   <Overview>Two new characters are introduced, both of whom want to take the Intersect. One is a beautiful, young female enemy agent that works in the Pita Palace next to the Buy More, and the other is a handsome CIA agent who is posing as an undercover police detective investigating a theft at the Buy More who wants to take Chuck into his custody. The former quickly blows Chuck's cover, while the latter kidnaps him and makes him vanish from his former life.</Overview>
   <ProductionCode>3T6462</ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>95</RatingCount>
+  <RatingCount>99</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Matthew Lau</Writer>
   <absolute_number>13</absolute_number>
@@ -823,8 +824,8 @@ Meanwhile, Morgan has to participate in a sales competition that could decide hi
   <Language>en</Language>
   <Overview>Chuck must prevent a menacing operative from obtaining a device that would ultimately lead to a new intersect. Meanwhile Chuck asks Sarah out on a real first date as Casey deals with a difficult assignment.    </Overview>
   <ProductionCode>3T7251</ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>105</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>111</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Chris Fedak|Josh Schwartz</Writer>
   <absolute_number>14</absolute_number>
@@ -855,7 +856,7 @@ Meanwhile, Morgan has to participate in a sales competition that could decide hi
   <Overview>Chuck needs to go undercover to seduce a woman named Sasha Banachek, so an old school spy named Roan Montgomery is assigned as his mentor. Meanwhile, Captain Awesome finds himself in need of some relationship advice, and and turns to Morgan, and Lester faces his first problems as assistant manager.</Overview>
   <ProductionCode>3T7252</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>96</RatingCount>
+  <RatingCount>100</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Matthew Miller</Writer>
   <absolute_number>15</absolute_number>
@@ -886,8 +887,8 @@ Meanwhile, Morgan has to participate in a sales competition that could decide hi
   <Overview>Bryce Larkin returns to town with news about Fulcrum. They have hired a wealthy software magnate named Von Hayes to decrypt information on a stolen chip containing a refresh to the Intersect with highly classified information. Bryce and Sarah have to pose as a married couple at Von Hayes' dining party to steal back the chip, while Chuck has to pose as a waiter.
 Meanwhile, Morgan has an encounter with the Mighty Jocks at the Buy More. </Overview>
   <ProductionCode>3T7253</ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>93</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>94</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Scott Rosenbaum</Writer>
   <absolute_number>16</absolute_number>
@@ -918,7 +919,7 @@ Meanwhile, Morgan has an encounter with the Mighty Jocks at the Buy More. </Over
   <Overview>Chuck goes undercover at Sarah's 10-year High School reunion, where they meet the girl that tortured Sarah back in the old days.</Overview>
   <ProductionCode>3T7254</ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>98</RatingCount>
+  <RatingCount>99</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Allison Adler</Writer>
   <absolute_number>17</absolute_number>
@@ -948,8 +949,8 @@ Meanwhile, Morgan has an encounter with the Mighty Jocks at the Buy More. </Over
   <Language>en</Language>
   <Overview>Efficiency expert Emmett Milbarge pays the Buy More a visit to inspect the branch, while a global terrorist looks for Jeff. Chuck needs to socialize with Jeff to find out about his connection to the terrorist. Finally, it all comes down to video games and the prevention of World War III.</Overview>
   <ProductionCode>3T7255</ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>95</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>97</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Phil Klemmer</Writer>
   <absolute_number>18</absolute_number>
@@ -980,7 +981,7 @@ Meanwhile, Morgan has an encounter with the Mighty Jocks at the Buy More. </Over
   <Overview>At a BioScience conference, Chuck runs into Jill, his ex-girlfriend who broke up with him and later dated Bryce Larkin. He flashes on her boss, Guy Lafleur, who is suspected to be working on biochemical weapons. Chuck is ordered to reconnect with Jill in order to gain more information on Lafleur. Meanwhile, Emmett wants the staff to take CPR lessons including a test. </Overview>
   <ProductionCode>3T7256</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>93</RatingCount>
+  <RatingCount>99</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Zev Borow</Writer>
   <absolute_number>19</absolute_number>
@@ -1012,7 +1013,7 @@ Meanwhile, Morgan has an encounter with the Mighty Jocks at the Buy More. </Over
 Meanwhile, Emmett tries to find out why Chuck is absent so often and goes after his colleagues to get the information.</Overview>
   <ProductionCode>3T7257</ProductionCode>
   <Rating>8.1</Rating>
-  <RatingCount>100</RatingCount>
+  <RatingCount>103</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Matthew Lau</Writer>
   <absolute_number>20</absolute_number>
@@ -1043,12 +1044,12 @@ Meanwhile, Emmett tries to find out why Chuck is absent so often and goes after 
   <Overview>After finding out that Jill is a Fulcrum agent, Chuck is ordered to use her to infiltrate Fulcrum. Meanwhile, Ellie is preparing the apartment for Thanksgiving and the arrival of Captain Awesome's parents. Morgan, Jeff and Lester are assigned to guard the store over Thanksgiving.</Overview>
   <ProductionCode>3T7258</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>90</RatingCount>
+  <RatingCount>93</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Chris Fedak</Writer>
   <absolute_number>21</absolute_number>
   <filename>episodes/80348/391030.jpg</filename>
-  <lastupdated>1382216676</lastupdated>
+  <lastupdated>1395397669</lastupdated>
   <seasonid>34500</seasonid>
   <seriesid>80348</seriesid>
   <thumb_added></thumb_added>
@@ -1074,7 +1075,7 @@ Meanwhile, Emmett tries to find out why Chuck is absent so often and goes after 
   <Overview>The team is assigned to survey the Global Launch Agency, when intel shows that someone might penetrate their security. During the surveillance someone intrudes the lab who turns out to be Casey's former sensei Ty Bennett. Meanwhile, Captain Awesome's perfect parents decide to pay Devon and Ellie a surprise visit to help them plan the wedding, and Emmett Milbarge introduces an &quot;Employee of the Month&quot; contest to the Buy More, but the employees start their own contest instead.</Overview>
   <ProductionCode>3T7259</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>93</RatingCount>
+  <RatingCount>97</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Anne Cofell</Writer>
   <absolute_number>22</absolute_number>
@@ -1106,7 +1107,7 @@ Meanwhile, Emmett tries to find out why Chuck is absent so often and goes after 
 Anna wants to take her relationship with Morgan a step further and asks him to move in an apartment with her. Devon lends him some money to buy one, but instead, he buys a car.</Overview>
   <ProductionCode>3T7260</ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>101</RatingCount>
+  <RatingCount>106</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Matthew Miller</Writer>
   <absolute_number></absolute_number>
@@ -1136,13 +1137,13 @@ Anna wants to take her relationship with Morgan a step further and asks him to m
   <Language>en</Language>
   <Overview>Christmas Eve does not go as planned when an amateur criminal on the run from the police crashes into the Buy More and takes Chuck, Ellie, Awesome and the rest of the Buy More gang hostage. In order to protect Chuck’s cover and the safety of the other hostages, Sarah and Casey secretly go in to the store to remove Chuck, but the mission quickly falls apart when Chuck refuses to leave his friends and family behind. </Overview>
   <ProductionCode>3T7261</ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>97</RatingCount>
+  <Rating>7.9</Rating>
+  <RatingCount>100</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Scott Rosenbaum</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80348/407910.jpg</filename>
-  <lastupdated>1382216739</lastupdated>
+  <lastupdated>1395397681</lastupdated>
   <seasonid>34500</seasonid>
   <seriesid>80348</seriesid>
   <thumb_added></thumb_added>
@@ -1167,13 +1168,13 @@ Anna wants to take her relationship with Morgan a step further and asks him to m
   <Language>en</Language>
   <Overview>Chuck foils a plan to kill Tyler Martin, an international rock star. Chuck's night out with Tyler leads to trouble. Morgan holds a contest among his fellow employees.</Overview>
   <ProductionCode>3T7263</ProductionCode>
-  <Rating>7.3</Rating>
-  <RatingCount>85</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>88</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Chris Fedak|Josh Schwartz</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80348/407911.jpg</filename>
-  <lastupdated>1382216758</lastupdated>
+  <lastupdated>1395397702</lastupdated>
   <seasonid>34500</seasonid>
   <seriesid>80348</seriesid>
   <thumb_added></thumb_added>
@@ -1199,12 +1200,12 @@ Anna wants to take her relationship with Morgan a step further and asks him to m
   <Overview>Chuck and Sarah must pose as a happily married couple living in the suburbs, where they meet some interesting characters. Meanwhile, after his wife files for divorce, Big Mike goes on a rampage at work.</Overview>
   <ProductionCode>3T7264</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>93</RatingCount>
+  <RatingCount>98</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Phil Klemmer</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80348/407913.jpg</filename>
-  <lastupdated>1382216777</lastupdated>
+  <lastupdated>1395397711</lastupdated>
   <seasonid>34500</seasonid>
   <seriesid>80348</seriesid>
   <thumb_added></thumb_added>
@@ -1230,12 +1231,12 @@ Anna wants to take her relationship with Morgan a step further and asks him to m
   <Overview>Chuck uses his burgeoning spy skills to help keep an eye on Anna for a heart sick Morgan. But their discovery leads to a chance that Anna's new boyfriend may be part of a dangerous gang. Meanwhile, Jeff and Lester nag Ellie into hiring their band, Jeffster!, to play at her wedding. </Overview>
   <ProductionCode>3T7262</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>97</RatingCount>
+  <RatingCount>101</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Allison Adler</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80348/407912.jpg</filename>
-  <lastupdated>1382216797</lastupdated>
+  <lastupdated>1395397718</lastupdated>
   <seasonid>34500</seasonid>
   <seriesid>80348</seriesid>
   <thumb_added></thumb_added>
@@ -1260,13 +1261,13 @@ Anna wants to take her relationship with Morgan a step further and asks him to m
   <Language>en</Language>
   <Overview>Chuck gets jealous when Sarah has to seduce a Fulcrum agent. Meanwhile, Jeff and Lester start looking for the &quot;Buy More Babe&quot; as a way of finding a new employee.</Overview>
   <ProductionCode>3T7265</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>93</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>98</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Matthew Miller (1)|Scott Rosenbaum</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80348/407914.jpg</filename>
-  <lastupdated>1382216816</lastupdated>
+  <lastupdated>1395397727</lastupdated>
   <seasonid>34500</seasonid>
   <seriesid>80348</seriesid>
   <thumb_added></thumb_added>
@@ -1291,13 +1292,13 @@ Anna wants to take her relationship with Morgan a step further and asks him to m
   <Language>en</Language>
   <Overview>Chuck, Sarah and Casey learn about a man called “Perseus” who is behind Fulcrum’s plans to build their own Intersect. While Sarah and Casey are sent to find Perseus, Chuck and Agent Cole Barker are forced to stay in a safety bunker. When the mission takes a dangerous turn, their orders to stay out of harm’s way go out the window. Meanwhile, Morgan tries to convince Anna that moving in with him would be a bad idea</Overview>
   <ProductionCode>3T7266</ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>97</RatingCount>
+  <Rating>7.9</Rating>
+  <RatingCount>103</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Zev Borow|Matthew Lau</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80348/407915.jpg</filename>
-  <lastupdated>1382216836</lastupdated>
+  <lastupdated>1395397733</lastupdated>
   <seasonid>34500</seasonid>
   <seriesid>80348</seriesid>
   <thumb_added></thumb_added>
@@ -1322,13 +1323,13 @@ Anna wants to take her relationship with Morgan a step further and asks him to m
   <Language>en</Language>
   <Overview>Chuck is contacted by the one person that can erase the Intersect from his mind. He starts having trust issues and doesn't know who to lean for help. Meanwhile, Buy More is having problems with the Buy More from Beverly Hills.</Overview>
   <ProductionCode>3T7267</ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>96</RatingCount>
+  <Rating>7.9</Rating>
+  <RatingCount>102</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Chris Fedak</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80348/441651.jpg</filename>
-  <lastupdated>1382216859</lastupdated>
+  <lastupdated>1395397741</lastupdated>
   <seasonid>34500</seasonid>
   <seriesid>80348</seriesid>
   <thumb_added></thumb_added>
@@ -1354,12 +1355,12 @@ Anna wants to take her relationship with Morgan a step further and asks him to m
   <Overview>A female agent is sent to evaluate Sarah's performance, when Chuck's feelings for her are revealed.  Meanwhile, Morgan, Jeff and Lester are trying to get invited to Captain Awesome's bachelor party.</Overview>
   <ProductionCode>3T7268</ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>96</RatingCount>
+  <RatingCount>101</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Allison Adler</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80348/441652.jpg</filename>
-  <lastupdated>1382216875</lastupdated>
+  <lastupdated>1395397748</lastupdated>
   <seasonid>34500</seasonid>
   <seriesid>80348</seriesid>
   <thumb_added></thumb_added>
@@ -1385,7 +1386,7 @@ Anna wants to take her relationship with Morgan a step further and asks him to m
   <Overview>Chuck's life seems to be coming together, his long-absent father has returned and he landed his dream job. Unfortunately for Chuck, neither turns out to be quite what he expected.</Overview>
   <ProductionCode>3T7269</ProductionCode>
   <Rating>8.3</Rating>
-  <RatingCount>99</RatingCount>
+  <RatingCount>103</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Corey Nickerson|Phil Klemmer</Writer>
   <absolute_number></absolute_number>
@@ -1416,7 +1417,7 @@ Anna wants to take her relationship with Morgan a step further and asks him to m
   <Overview>After Chuck's father Steve is kidnapped by Fulcrum, Chuck learns the only chance he has to find him is by putting his trust and life into the hands of the person he trusts the least—his ex-girlfriend Jill Roberts. Meanwhile, the Buy More team tries to sabotage Emmett’s corporate evaluation.</Overview>
   <ProductionCode>3T7270</ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>100</RatingCount>
+  <RatingCount>105</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Scott Rosenbaum</Writer>
   <absolute_number></absolute_number>
@@ -1447,7 +1448,7 @@ Anna wants to take her relationship with Morgan a step further and asks him to m
   <Overview>While Chuck and Sarah go on to rescue Steve they realize they have a chemistry together. Meanwhile Morgan becomes a pariah at the Buy More after mistakenly getting Emmett promoted.</Overview>
   <ProductionCode>3T7271</ProductionCode>
   <Rating>8.2</Rating>
-  <RatingCount>104</RatingCount>
+  <RatingCount>108</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Matt Miller (II)</Writer>
   <absolute_number></absolute_number>
@@ -1478,7 +1479,7 @@ Anna wants to take her relationship with Morgan a step further and asks him to m
   <Overview>Ellie's big day finally arrives and Chuck must save her life and her wedding from being ruined by Ted Roark and FULCRUM.</Overview>
   <ProductionCode>3T7272</ProductionCode>
   <Rating>8.7</Rating>
-  <RatingCount>109</RatingCount>
+  <RatingCount>115</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Allison Adler|Chris Fedak</Writer>
   <absolute_number></absolute_number>
@@ -1509,7 +1510,7 @@ Anna wants to take her relationship with Morgan a step further and asks him to m
   <Overview>As the upgraded Intersect, Chuck trains to become a full-fledged spy but hits rock bottom when he flunks out of spy school and loses Sarah in the process. Meanwhile, Morgan comes home from Benihana School to help Chuck get over Sarah.</Overview>
   <ProductionCode>3X5801</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>120</RatingCount>
+  <RatingCount>124</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Chris Fedak|Matt Miller|</Writer>
   <absolute_number></absolute_number>
@@ -1540,7 +1541,7 @@ Anna wants to take her relationship with Morgan a step further and asks him to m
   <Overview>Chuck gets a new mission when Sarah's best friend Carina comes through town with her fiancé Karl. Things get complicated when Chuck wants to hash out his and Sarah's relationship problems while they're on the mission. Meanwhile, Morgan finds himself in trouble when he lies to Jeff and Lester.</Overview>
   <ProductionCode>3X5802</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>109</RatingCount>
+  <RatingCount>113</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Allison Adler|Scott Rosenbaum|</Writer>
   <absolute_number></absolute_number>
@@ -1570,8 +1571,8 @@ Anna wants to take her relationship with Morgan a step further and asks him to m
   <Language>en</Language>
   <Overview>Chuck must use his relationship with Awesome to protect a visiting dictator, Premier Goya, who is the target of an assassination. While Awesome is excited about the prospect of being a spy, Chuck is more concerned about Awesome and Ellie's safety.</Overview>
   <ProductionCode>3X5803</ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>110</RatingCount>
+  <Rating>7.9</Rating>
+  <RatingCount>115</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Phil Klemmer</Writer>
   <absolute_number></absolute_number>
@@ -1601,8 +1602,8 @@ Anna wants to take her relationship with Morgan a step further and asks him to m
   <Language>en</Language>
   <Overview>When Awesome is mistaken for a super spy by the evil Sydney Price, Chuck must become his handler and show him the spy ropes. While on a mission for The Ring, they meet the mysterious Daniel Shaw. Meanwhile, Morgan gets promoted to assistant manager and must deal with Jeff and Lester's latest hijinks.</Overview>
   <ProductionCode>3X5804</ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>116</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>120</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Zev Borow</Writer>
   <absolute_number></absolute_number>
@@ -1632,8 +1633,8 @@ Anna wants to take her relationship with Morgan a step further and asks him to m
   <Language>en</Language>
   <Overview>CIA agent Daniel Shaw assigns Chuck to his first solo mission in Paris, ignoring Sarah and Casey’s wishes. During the flight to France, Chuck befriends Hannah and flashes on another passenger the imposing Hugo Panzer. Meanwhile, Casey helps Morgan battle Jeff and Lester for control of the Buy More.</Overview>
   <ProductionCode>3X5805</ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>119</RatingCount>
+  <Rating>7.9</Rating>
+  <RatingCount>123</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Chris Fedak</Writer>
   <absolute_number></absolute_number>
@@ -1663,8 +1664,8 @@ Anna wants to take her relationship with Morgan a step further and asks him to m
   <Language>en</Language>
   <Overview>Chuck juggles his two lives as he trains new Nerd Herder Hannah and gets his very own asset who is caught up with The Ring. Chuck thinks he can handle his asset all on his own but Sarah and Casey feel the need to intercede. Meanwhile, Awesome must lie to Ellie when she starts to ask questions about Chuck and Morgan, Jeff and Lester do some recon work to learn more about Hannah.</Overview>
   <ProductionCode>3X5806</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>102</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>105</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Matt Miller | Scott Rosenbaum</Writer>
   <absolute_number></absolute_number>
@@ -1694,8 +1695,8 @@ Anna wants to take her relationship with Morgan a step further and asks him to m
   <Language>en</Language>
   <Overview>Chuck and Hannah unexpectedly become part of agent Daniel Shaw's latest mission. Much to Sarah's chagrin, she gets paired with Shaw, who seems to be trying to get close to her. Meanwhile, Morgan and Ellie continue their mission to get to the bottom of Chuck's secretive and strange behavior.</Overview>
   <ProductionCode>3X5807</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>118</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>121</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Phil Klemmer</Writer>
   <absolute_number></absolute_number>
@@ -1725,8 +1726,8 @@ Anna wants to take her relationship with Morgan a step further and asks him to m
   <Language>en</Language>
   <Overview>Chuck promises to cook dinner for Hannah, Ellie and Awesome but must first assume the identity of the world's most dangerous assassin for his latest mission. Meanwhile, Sarah is determined to keep her relationship with Shaw strictly professional.</Overview>
   <ProductionCode>3X5808</ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>126</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>130</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Allison Adler</Writer>
   <absolute_number></absolute_number>
@@ -1757,7 +1758,7 @@ Anna wants to take her relationship with Morgan a step further and asks him to m
   <Overview>Chuck feels like his life is falling apart when he can't flash and gets left behind for a mission. While Shaw, Sarah and Casey go on without him, Chuck finds himself in a sticky situation back at the base.</Overview>
   <ProductionCode>3X5809</ProductionCode>
   <Rating>8.1</Rating>
-  <RatingCount>129</RatingCount>
+  <RatingCount>133</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Skeeter Rosenbaum</Writer>
   <absolute_number></absolute_number>
@@ -1788,7 +1789,7 @@ Anna wants to take her relationship with Morgan a step further and asks him to m
   <Overview>Casey carries out a side mission for his old commanding officer James Keller that leads to him committing treason. When Chuck learns the dark truth about Col. Keller, he and Sarah set out to break Casey out of jail and clear his name. Meanwhile, Awesome's plan to keep Ellie out of danger gets more difficult when she gets her dream fellowship.</Overview>
   <ProductionCode>3X5810</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>129</RatingCount>
+  <RatingCount>132</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Lauren LeFranc|Rafe Judkins</Writer>
   <absolute_number></absolute_number>
@@ -1819,7 +1820,7 @@ Anna wants to take her relationship with Morgan a step further and asks him to m
   <Overview>Chuck learns that his latest solo mission will be a final test to see if he is ready to be a spy. Chuck needs to put everything he has learned into action to avoid going back to his old life while Sarah and Shaw observe his every move.</Overview>
   <ProductionCode>3X5811</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>126</RatingCount>
+  <RatingCount>129</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Zev Borow</Writer>
   <absolute_number></absolute_number>
@@ -1849,8 +1850,8 @@ Anna wants to take her relationship with Morgan a step further and asks him to m
   <Language>en</Language>
   <Overview>Chuck has his pick of the best CIA agents for an undercover operation, but he has only one girl in mind for the job, Sarah. Casey, Morgan and Awesome team up to help Chuck win her back.</Overview>
   <ProductionCode>3X5812</ProductionCode>
-  <Rating>8.0</Rating>
-  <RatingCount>137</RatingCount>
+  <Rating>8.1</Rating>
+  <RatingCount>140</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Max Denby</Writer>
   <absolute_number></absolute_number>
@@ -1881,7 +1882,7 @@ Anna wants to take her relationship with Morgan a step further and asks him to m
   <Overview>Chuck, Sarah and Shaw reunite to find the Ring operative behind the death of Shaw's wife. Sarah has faith that Shaw is ready for the mission but Chuck is worried about his emotional stability. Meanwhile, Morgan considers leaving the Buy More.</Overview>
   <ProductionCode>3X5813</ProductionCode>
   <Rating>8.4</Rating>
-  <RatingCount>145</RatingCount>
+  <RatingCount>146</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Chris Fedak</Writer>
   <absolute_number></absolute_number>
@@ -1912,7 +1913,7 @@ Anna wants to take her relationship with Morgan a step further and asks him to m
   <Overview>While in Europe, Sarah and Chuck realize they’re traveling on a train with Spanish spies. Even though they’re all alone, they decide to take on these rogue agents. Of course, this impromptu mission doesn’t go smoothly. Meanwhile, Beckman orders her newest “unlikely” spy team – John Casey and Morgan Grimes – to track down the missing couple.</Overview>
   <ProductionCode>3X5814</ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>132</RatingCount>
+  <RatingCount>134</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Allison Adler|Rafe Judkins|Lauren LeFranc</Writer>
   <absolute_number></absolute_number>
@@ -1943,7 +1944,7 @@ Anna wants to take her relationship with Morgan a step further and asks him to m
   <Overview>Chuck and Sarah are assigned to train under Craig and Laura Turner, a married CIA team who, despite their impeccable record, hate one another. The Turners' stormy relationship forces Chuck and Sarah to wonder if they're doomed with the same fate. Meanwhile, Casey must train the newest member of the team Morgan.</Overview>
   <ProductionCode>3X5815</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>135</RatingCount>
+  <RatingCount>136</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Phil Klemmer</Writer>
   <absolute_number></absolute_number>
@@ -1974,7 +1975,7 @@ Anna wants to take her relationship with Morgan a step further and asks him to m
   <Overview>Chuck struggles with disturbing dreams and now he believes his most recent dream predicts danger for a visiting head of state. General Beckman however, is unconvinced and assigns Chuck to meet with a CIA psychiatrist Dr. Leo Dreyfus. Meanwhile, Ellie gets surprising news and Anna  returns to the Buy More to talk to Morgan.</Overview>
   <ProductionCode>3X5816</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>141</RatingCount>
+  <RatingCount>143</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Zev Borow|Max Denby</Writer>
   <absolute_number></absolute_number>
@@ -2005,7 +2006,7 @@ Anna wants to take her relationship with Morgan a step further and asks him to m
   <Overview>After his last dream, Chuck asks Morgan to help him on a side mission. Their investigation becomes complicated when Stephen J. Bartowski returns and learns that Chuck downloaded the Intersect 2.0. Luckily, Chuck's father may be able to help his son. </Overview>
   <ProductionCode>3X5817</ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>138</RatingCount>
+  <RatingCount>140</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Rafe Judkins|Lauren LeFranc</Writer>
   <absolute_number></absolute_number>
@@ -2036,7 +2037,7 @@ Anna wants to take her relationship with Morgan a step further and asks him to m
   <Overview>The Ring is closing in on Chuck and Operation Bartowski. Fortunately, Chuck's dad Steven is working hard to save his son. Meanwhile, Casey must secretly protect his daughter from the Ring, and Big Mike receives some serious news about the Buy More. </Overview>
   <ProductionCode>3X5818</ProductionCode>
   <Rating>8.2</Rating>
-  <RatingCount>135</RatingCount>
+  <RatingCount>137</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Ali Adler|Matt Miller|Phil Klemmer</Writer>
   <absolute_number></absolute_number>
@@ -2067,7 +2068,7 @@ Anna wants to take her relationship with Morgan a step further and asks him to m
   <Overview>Shaw returns to threaten everything that Chuck holds dear as his friends, family and the woman he loves are all put in mortal danger. Chuck has to find Shaw and stop him before his own world gets torn apart.</Overview>
   <ProductionCode>3X5819</ProductionCode>
   <Rating>8.4</Rating>
-  <RatingCount>138</RatingCount>
+  <RatingCount>140</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Josh Schwartz|Chris Fedak</Writer>
   <absolute_number></absolute_number>
@@ -2098,12 +2099,12 @@ Anna wants to take her relationship with Morgan a step further and asks him to m
   <Overview>Chuck and Morgan go on a rogue globe-spanning mission to find Chuck’s mom. Meanwhile, Sarah and Casey follow a trail to Russia as they investigate the mysterious Volkoff Industries and its operative, Marco. Back at home, Ellie delivers big news to her family.</Overview>
   <ProductionCode>3X6301</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>165</RatingCount>
+  <RatingCount>166</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Chris Fedak</Writer>
   <absolute_number>55</absolute_number>
   <filename>episodes/80348/2373481.jpg</filename>
-  <lastupdated>1382216040</lastupdated>
+  <lastupdated>1392598004</lastupdated>
   <seasonid>265251</seasonid>
   <seriesid>80348</seriesid>
   <thumb_added></thumb_added>
@@ -2129,12 +2130,12 @@ Anna wants to take her relationship with Morgan a step further and asks him to m
   <Overview>When Chuck go undercover in Milan, Chuck realizes the &quot;Achilles' Heel&quot; in their relationship, but must set personal issues aside for the mission. Meanwhile, Morgan recognizes a fatal flaw that compromises the new Buy More. Elsewhere, Casey struggles to put down roots in Burbank.</Overview>
   <ProductionCode>3X6302</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>146</RatingCount>
+  <RatingCount>147</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Rafe Judkins|Lauren LeFranc|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80348/2592731.jpg</filename>
-  <lastupdated>1382216058</lastupdated>
+  <lastupdated>1392598011</lastupdated>
   <seasonid>265251</seasonid>
   <seriesid>80348</seriesid>
   <thumb_added></thumb_added>
@@ -2160,12 +2161,12 @@ Anna wants to take her relationship with Morgan a step further and asks him to m
   <Overview>Chuck and Sarah's romantic mission is canceled with the arrival of Hugo Panzer and Heather Chandler. But Chuck grows more interested when the manipulative Heather claims to know a secret about his mom. Meanwhile, as Morgan prepares the Buy More for a huge video game release, he gets a surprise from Big Mike. </Overview>
   <ProductionCode>3X6303</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>141</RatingCount>
+  <RatingCount>143</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Nicholas Wootton</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80348/2679661.jpg</filename>
-  <lastupdated>1382216079</lastupdated>
+  <lastupdated>1392598018</lastupdated>
   <seasonid>265251</seasonid>
   <seriesid>80348</seriesid>
   <thumb_added></thumb_added>
@@ -2191,12 +2192,12 @@ Anna wants to take her relationship with Morgan a step further and asks him to m
   <Overview>Chuck and Sarah try to become better communicators as they join Ellie and Awesome on a trip to Costa Gravas; a forbidden romance may put Morgan at odds with Col. John Casey.</Overview>
   <ProductionCode>3X6304</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>145</RatingCount>
+  <RatingCount>148</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Kristin Newman</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80348/2679671.jpg</filename>
-  <lastupdated>1382216101</lastupdated>
+  <lastupdated>1403836420</lastupdated>
   <seasonid>265251</seasonid>
   <seriesid>80348</seriesid>
   <thumb_added></thumb_added>
@@ -2222,12 +2223,12 @@ Anna wants to take her relationship with Morgan a step further and asks him to m
   <Overview>When Colonel Casey's former team returns looking for him, Chuck must decide what he's willing to sacrifice in order to find his mom. Elsewhere, Morgan works up the nerve to reveal a potentially dangerous secret to Casey.</Overview>
   <ProductionCode>3x6305</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>146</RatingCount>
+  <RatingCount>148</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Henry Alonso Myers</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80348/2679681.jpg</filename>
-  <lastupdated>1382216121</lastupdated>
+  <lastupdated>1392598035</lastupdated>
   <seasonid>265251</seasonid>
   <seriesid>80348</seriesid>
   <thumb_added></thumb_added>
@@ -2253,12 +2254,12 @@ Anna wants to take her relationship with Morgan a step further and asks him to m
   <Overview>Chuck, Sarah, Casey and Morgan must stop Dr.Stanley (Robert Englund) from releasing a toxin that induces nightmares... Chuck's mother's allegiances are questioned; Lester and Jeff celebrate Halloween at the Buy More.</Overview>
   <ProductionCode>3x6306</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>133</RatingCount>
+  <RatingCount>134</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Craig DiGregorio</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80348/2723641.jpg</filename>
-  <lastupdated>1382216140</lastupdated>
+  <lastupdated>1392597992</lastupdated>
   <seasonid>265251</seasonid>
   <seriesid>80348</seriesid>
   <thumb_added></thumb_added>
@@ -2285,12 +2286,12 @@ Anna wants to take her relationship with Morgan a step further and asks him to m
 </Overview>
   <ProductionCode>3x6307</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>148</RatingCount>
+  <RatingCount>149</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Rafe Judkins|Lauren LeFranc|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80348/2769941.jpg</filename>
-  <lastupdated>1382216161</lastupdated>
+  <lastupdated>1392597672</lastupdated>
   <seasonid>265251</seasonid>
   <seriesid>80348</seriesid>
   <thumb_added></thumb_added>
@@ -2316,12 +2317,12 @@ Anna wants to take her relationship with Morgan a step further and asks him to m
   <Overview>Afraid that his latest setback is driving a wedge between him and Sarah, Chuck resolves to prove himself by going on a dangerous mission with the overeager Agent Rye. Meanwhile, Morgan and Casey scramble as the &quot;Buy Morons&quot; attempt to uncover the true identity of Greta.</Overview>
   <ProductionCode>3X6308</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>142</RatingCount>
+  <RatingCount>144</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Nicholas Wootton</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80348/2912371.jpg</filename>
-  <lastupdated>1382216176</lastupdated>
+  <lastupdated>1392597684</lastupdated>
   <seasonid>265251</seasonid>
   <seriesid>80348</seriesid>
   <thumb_added></thumb_added>
@@ -2378,7 +2379,7 @@ Anna wants to take her relationship with Morgan a step further and asks him to m
   <Overview>It's the day after Thanksgiving and Chuck faces the most awkward of family reunions when mom comes over for dinner—along with the dangerous Alexei Volkoff. Back at the Buy More, Morgan deals with the busiest shopping day of the year as Jeff and Lester hatch their latest scheme. </Overview>
   <ProductionCode>3X6310</ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>136</RatingCount>
+  <RatingCount>137</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Henry Alonso Myers</Writer>
   <absolute_number></absolute_number>
@@ -2409,7 +2410,7 @@ Anna wants to take her relationship with Morgan a step further and asks him to m
   <Overview>Chuck tries to create a romantic getaway for Sarah while tracking down a nano-chip at a French vineyard. Lester asks Big Mike for love advice. </Overview>
   <ProductionCode>3X6311</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>135</RatingCount>
+  <RatingCount>137</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Max Denby</Writer>
   <absolute_number></absolute_number>
@@ -2440,7 +2441,7 @@ Anna wants to take her relationship with Morgan a step further and asks him to m
   <Overview>Sarah takes dangerous measures to help Mary Bartowski bring down Alexei Volkoff, as Chuck worries that she may be getting in too deep. Sarah, though, must enlist the help of Chuck, Morgan and Casey to complete her undercover mission. Meanwhile, Ellie and Awesome are at odds over what to name the baby. </Overview>
   <ProductionCode>3X6312</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>139</RatingCount>
+  <RatingCount>140</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Milan Cheylov</Writer>
   <absolute_number></absolute_number>
@@ -2502,7 +2503,7 @@ Anna wants to take her relationship with Morgan a step further and asks him to m
   <Overview>Casey, Chuck and Sarah are sent to Morocco to rescue Roan Montgomery. Morgan plans to meet Alex's mother and Mary spends some time with her family.</Overview>
   <ProductionCode>3X6314</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>135</RatingCount>
+  <RatingCount>136</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Chris Fedak|Kristin Newman|</Writer>
   <absolute_number></absolute_number>
@@ -2533,8 +2534,8 @@ Anna wants to take her relationship with Morgan a step further and asks him to m
   <Overview>Chuck surprises Sarah with her old spy team, The C.A.T. Squad, leading to a mission in Rio. As The C.A.T. Squad works to settle a score with Augusto Gaez, old secrets and grudges come to light. Back at the Buy More, Morgan fends off the advances of Carina, a former flame and frisky member of The C.A.T Squad.
 </Overview>
   <ProductionCode>3X6315</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>129</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>130</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Nicholas Wootton</Writer>
   <absolute_number></absolute_number>
@@ -2564,8 +2565,8 @@ Anna wants to take her relationship with Morgan a step further and asks him to m
   <Language>en</Language>
   <Overview>Valentine's Day is interrupted when Chuck and the team are sent on a mission to England to protect a reclusive young heiress, Vivian McArthur. Meanwhile, Casey gets an offer from the mysterious Jane Bentley. Back at home, Ellie and Awesome find an unlikely solution to a parenting problem, as Morgan ponders a big move. </Overview>
   <ProductionCode>3X6316</ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>135</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>137</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Rafe Judkins|Lauren LeFranc|</Writer>
   <absolute_number></absolute_number>
@@ -2596,12 +2597,12 @@ Anna wants to take her relationship with Morgan a step further and asks him to m
   <Overview>Chuck encourages Vivian to get in touch with her inner villain for a mission. Morgan's search for a new roommate has unexpected results.</Overview>
   <ProductionCode>3X6317</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>130</RatingCount>
+  <RatingCount>133</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Craig DiGregorio</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80348/3473291.jpg</filename>
-  <lastupdated>1382216354</lastupdated>
+  <lastupdated>1392597790</lastupdated>
   <seasonid>265251</seasonid>
   <seriesid>80348</seriesid>
   <thumb_added></thumb_added>
@@ -2627,12 +2628,12 @@ Anna wants to take her relationship with Morgan a step further and asks him to m
   <Overview>Chuck and Sarah suspect Casey is carrying out private missions. Chuck fears the CIA's new operatives will render him obsolete. Morgan settles in with a new roommate. Awesome becomes uncomfortable with Ellie's research.</Overview>
   <ProductionCode>3X6318</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>132</RatingCount>
+  <RatingCount>133</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Phil Klemmer</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80348/3552061.jpg</filename>
-  <lastupdated>1383205120</lastupdated>
+  <lastupdated>1392597784</lastupdated>
   <seasonid>265251</seasonid>
   <seriesid>80348</seriesid>
   <thumb_added></thumb_added>
@@ -2658,12 +2659,12 @@ Anna wants to take her relationship with Morgan a step further and asks him to m
   <Overview>Chuck is put in charge of a top-priority mission, but his leadership skills are pushed to the limit when there is a murder in Castle. Meanwhile, Awesome takes on a mission of his own when Ellie finds an alarming new hobby. Elsewhere, Morgan's leadership is also tested when his Buy More troops wage war against Large Mart.</Overview>
   <ProductionCode>3X6319</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>123</RatingCount>
+  <RatingCount>124</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Alex Katsnelson|Kristin Newman|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80348/3640291.jpg</filename>
-  <lastupdated>1383205135</lastupdated>
+  <lastupdated>1392597777</lastupdated>
   <seasonid>265251</seasonid>
   <seriesid>80348</seriesid>
   <thumb_added></thumb_added>
@@ -2689,12 +2690,12 @@ Anna wants to take her relationship with Morgan a step further and asks him to m
   <Overview>A bad day gets worse when Sarah throws Chuck a surprising relationship curveball as the CIA orders Vivian Volkoff assassinated. In order to prove Vivian's innocence, Chuck must put his trust in a dangerous ally her father Alexei Volkoff. Meanwhile, Ellie suspects that her mother is interfering with the search into her father's past.</Overview>
   <ProductionCode>3X6320</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>127</RatingCount>
+  <RatingCount>128</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Nicholas Wootton</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80348/3685421.jpg</filename>
-  <lastupdated>1383205146</lastupdated>
+  <lastupdated>1392597771</lastupdated>
   <seasonid>265251</seasonid>
   <seriesid>80348</seriesid>
   <thumb_added></thumb_added>
@@ -2720,12 +2721,12 @@ Anna wants to take her relationship with Morgan a step further and asks him to m
   <Overview>When Chuck and Sarah get conned out of their wedding money, there is only one man they can turn to for help -- Sarah's conman father, Jack Burton. Meanwhile, Morgan pressures Casey to face Alex's mother.</Overview>
   <ProductionCode>3X6321</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>132</RatingCount>
+  <RatingCount>134</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Rafe Judkins|Lauren LeFranc</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80348/3781881.jpg</filename>
-  <lastupdated>1383205157</lastupdated>
+  <lastupdated>1392597765</lastupdated>
   <seasonid>265251</seasonid>
   <seriesid>80348</seriesid>
   <thumb_added></thumb_added>
@@ -2751,12 +2752,12 @@ Anna wants to take her relationship with Morgan a step further and asks him to m
   <Overview>Chuck and Sarah put aside spy work to have a weekend of debauchery, but Awesome’s plans for Chuck’s big night don’t go quite as expected. Meanwhile, Ellie's investigation into her father's computer leads to a life-changing discovery.</Overview>
   <ProductionCode>3X6322</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>121</RatingCount>
+  <RatingCount>122</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Rafe Judkins|Lauren LeFranc</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80348/3864371.jpg</filename>
-  <lastupdated>1383205169</lastupdated>
+  <lastupdated>1392597757</lastupdated>
   <seasonid>265251</seasonid>
   <seriesid>80348</seriesid>
   <thumb_added></thumb_added>
@@ -2782,12 +2783,12 @@ Anna wants to take her relationship with Morgan a step further and asks him to m
   <Overview>Chuck and Sarah’s wedding prep includes one final detail: ensuring that the mother-of-the-groom makes it to the ceremony alive. Meanwhile, Morgan’s responsibilities as Best Man include his most dangerous mission yet, as he faces Vivian Volkoff. Elsewhere, Ellie  tends to the last details of the rehearsal dinner and seeks help from an unlikely source.</Overview>
   <ProductionCode>3X6323</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>132</RatingCount>
+  <RatingCount>133</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Henry Alonso Myers|Kristin Newman</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80348/3966571.jpg</filename>
-  <lastupdated>1385627723</lastupdated>
+  <lastupdated>1392597750</lastupdated>
   <seasonid>265251</seasonid>
   <seriesid>80348</seriesid>
   <thumb_added></thumb_added>
@@ -2813,7 +2814,7 @@ Anna wants to take her relationship with Morgan a step further and asks him to m
   <Overview>Before he can kiss the bride, Chuck must enlist his wedding party to take down Vivian Volkoff and stop her from destroying the big day. When he turns to Alexei Volkoff for help, the CIA sends its toughest agent, Clyde Decker, to stop them. </Overview>
   <ProductionCode>3X6324</ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>115</RatingCount>
+  <RatingCount>117</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Chris Fedak|Nicholas Wootton|</Writer>
   <absolute_number></absolute_number>
@@ -2844,12 +2845,12 @@ Anna wants to take her relationship with Morgan a step further and asks him to m
   <Overview>Without the Intersect in his head or the support of the CIA, the world of espionage is a much more dangerous place for Chuck Bartowski and his team of freelance spies. To start, Carmichael Industries takes on a slick, rich thief named Jean Claude, and a conniving investor, Roger Bale, who has stolen money from some of the world's most dangerous people. Meanwhile, Morgan helps Chuck with a special surprise for Sarah. Back in the Buy More, Jeff and Lester have taken things to another level with their latest scheme. </Overview>
   <ProductionCode>3X6751</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>103</RatingCount>
+  <RatingCount>104</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Chris Fedak|Nicholas Wootton</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80348/4120437.jpg</filename>
-  <lastupdated>1382215654</lastupdated>
+  <lastupdated>1400639385</lastupdated>
   <seasonid>468440</seasonid>
   <seriesid>80348</seriesid>
   <thumb_added></thumb_added>
@@ -2880,7 +2881,7 @@ Anna wants to take her relationship with Morgan a step further and asks him to m
   <Writer>Lauren LeFranc|Rafe Judkins</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80348/4142951.jpg</filename>
-  <lastupdated>1382215676</lastupdated>
+  <lastupdated>1395652410</lastupdated>
   <seasonid>468440</seasonid>
   <seriesid>80348</seriesid>
   <thumb_added></thumb_added>
@@ -2905,13 +2906,13 @@ Anna wants to take her relationship with Morgan a step further and asks him to m
   <Language>en</Language>
   <Overview>As the team is tasked with finding one of the CIAs most wanted, Chuck fears that the Intersect may be going to Morgan's head. Meanwhile Sarah helps Casey navigate his relationship with Gertrude. Elsewhere, Captain Awesome makes a startling revelation about Jeff and Lester.</Overview>
   <ProductionCode>3X6753</ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>93</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>95</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Phil Klemmer</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80348/4146383.jpg</filename>
-  <lastupdated>1382215699</lastupdated>
+  <lastupdated>1395652441</lastupdated>
   <seasonid>468440</seasonid>
   <seriesid>80348</seriesid>
   <thumb_added></thumb_added>
@@ -2937,12 +2938,12 @@ Anna wants to take her relationship with Morgan a step further and asks him to m
   <Overview>Chuck and Sarah track an assassin who is trying to eliminate the new intersect. Morgan tries to adjust to having the intersect. Jeff exposes a new side of himself.</Overview>
   <ProductionCode>3X6754</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>95</RatingCount>
+  <RatingCount>96</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Kristin Newman</Writer>
   <absolute_number>82</absolute_number>
   <filename>episodes/80348/4153719.jpg</filename>
-  <lastupdated>1382215729</lastupdated>
+  <lastupdated>1396248154</lastupdated>
   <seasonid>468440</seasonid>
   <seriesid>80348</seriesid>
   <thumb_added></thumb_added>
@@ -2968,12 +2969,12 @@ Anna wants to take her relationship with Morgan a step further and asks him to m
   <Overview>Chuck turns to Verbanski for help tracking a computer virus. Lester and Jeff's relationship is complicated by a new Buy More employee.</Overview>
   <ProductionCode>3X6755</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>85</RatingCount>
+  <RatingCount>88</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Craig DiGregorio</Writer>
   <absolute_number>83</absolute_number>
   <filename>episodes/80348/4158243.jpg</filename>
-  <lastupdated>1382215752</lastupdated>
+  <lastupdated>1396248175</lastupdated>
   <seasonid>468440</seasonid>
   <seriesid>80348</seriesid>
   <thumb_added></thumb_added>
@@ -2998,13 +2999,13 @@ Anna wants to take her relationship with Morgan a step further and asks him to m
   <Language>en</Language>
   <Overview>Chuck and Sarah must race against time and a ruthless spy Robyn Cunnings, to destroy a dangerous computer virus. Meanwhile, Ellie and Awesome are spending their date night which takes on a dangerous turn and Morgan is sent on a special mission to recover Chuck's P.A.N.T.S.</Overview>
   <ProductionCode>3X6756</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>85</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>86</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Alex Katsnelson</Writer>
   <absolute_number>84</absolute_number>
   <filename>episodes/80348/4186916.jpg</filename>
-  <lastupdated>1386096743</lastupdated>
+  <lastupdated>1397840279</lastupdated>
   <seasonid>468440</seasonid>
   <seriesid>80348</seriesid>
   <thumb_added></thumb_added>
@@ -3030,12 +3031,12 @@ Anna wants to take her relationship with Morgan a step further and asks him to m
   <Overview>Chuck and Sarah learn who is trying to destroy Carmichael Industries. Ellie's Christmas plans come undone. A computer virus threatens to ruin Christmas at Buy More.</Overview>
   <ProductionCode>3X6757</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>79</RatingCount>
+  <RatingCount>80</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Amanda Kate Shuman</Writer>
   <absolute_number>85</absolute_number>
   <filename>episodes/80348/4186917.jpg</filename>
-  <lastupdated>1382215817</lastupdated>
+  <lastupdated>1397840307</lastupdated>
   <seasonid>468440</seasonid>
   <seriesid>80348</seriesid>
   <thumb_added></thumb_added>
@@ -3066,7 +3067,7 @@ Anna wants to take her relationship with Morgan a step further and asks him to m
   <Writer>Rafe Jenkins|Lauren LeFranc</Writer>
   <absolute_number>86</absolute_number>
   <filename>episodes/80348/4186918.jpg</filename>
-  <lastupdated>1382215840</lastupdated>
+  <lastupdated>1398844824</lastupdated>
   <seasonid>468440</seasonid>
   <seriesid>80348</seriesid>
   <thumb_added></thumb_added>
@@ -3092,12 +3093,12 @@ Anna wants to take her relationship with Morgan a step further and asks him to m
   <Overview>While Chuck and Sarah contemplate the next step for Carmichael Industries, Casey’s forbidden love, Gertrude Verbanski, walks back into his life with a questionable mission in South Beach. Meanwhile, Jeff’s enhanced intelligence leads he and Lester to suspect that something unusual may be happening at the Buy More.</Overview>
   <ProductionCode>3X6759</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>81</RatingCount>
+  <RatingCount>82</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Craig DiGregorio|Phil Klemmer</Writer>
   <absolute_number>87</absolute_number>
   <filename>episodes/80348/4186919.jpg</filename>
-  <lastupdated>1382215873</lastupdated>
+  <lastupdated>1398844867</lastupdated>
   <seasonid>468440</seasonid>
   <seriesid>80348</seriesid>
   <thumb_added></thumb_added>
@@ -3123,12 +3124,12 @@ Anna wants to take her relationship with Morgan a step further and asks him to m
   <Overview>As Chuck and Sarah try to realize a new, safer future, Morgan’s past as the Intersect sends them to Vail on one last mission, where they enlist the help of an unlikely source — the legendary Bo Derek. Elsewhere, Jeff and Lester continue their own spy mission. </Overview>
   <ProductionCode>3X6760</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>83</RatingCount>
+  <RatingCount>84</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Kristin Newman</Writer>
   <absolute_number>88</absolute_number>
   <filename>episodes/80348/4200370.jpg</filename>
-  <lastupdated>1382215914</lastupdated>
+  <lastupdated>1400613867</lastupdated>
   <seasonid>468440</seasonid>
   <seriesid>80348</seriesid>
   <thumb_added></thumb_added>
@@ -3154,12 +3155,12 @@ Anna wants to take her relationship with Morgan a step further and asks him to m
   <Overview>When a mission in Japan becomes a hostage situation, Sarah and Chuck must face the merciless Nicholas Quinn aboard a speeding Japanese bullet train. Meanwhile, the mission leaves Casey with an impossible decision.</Overview>
   <ProductionCode>3X6761</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>85</RatingCount>
+  <RatingCount>86</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Nicholas Wootton</Writer>
   <absolute_number>89</absolute_number>
   <filename>episodes/80348/4200372.jpg</filename>
-  <lastupdated>1382215938</lastupdated>
+  <lastupdated>1400613913</lastupdated>
   <seasonid>468440</seasonid>
   <seriesid>80348</seriesid>
   <thumb_added></thumb_added>
@@ -3185,12 +3186,12 @@ Anna wants to take her relationship with Morgan a step further and asks him to m
   <Overview>After a harrowing mission, Sarah returns to Chuck with a huge secret. Meanwhile, Ellie and Awesome are presented with a new opportunity that could change their lives.</Overview>
   <ProductionCode>3X6762</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>76</RatingCount>
+  <RatingCount>77</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Rafe Jenkins|Lauren LeFranc</Writer>
   <absolute_number>90</absolute_number>
   <filename>episodes/80348/4204791.jpg</filename>
-  <lastupdated>1382215962</lastupdated>
+  <lastupdated>1400613937</lastupdated>
   <seasonid>468440</seasonid>
   <seriesid>80348</seriesid>
   <thumb_added></thumb_added>
@@ -3216,12 +3217,12 @@ Anna wants to take her relationship with Morgan a step further and asks him to m
   <Overview>Chuck enlists his family, friend and some unexpected allies as he races to stop Nicholas Quinn from destroying everything Chuck has built over the past five years.</Overview>
   <ProductionCode>3X6763</ProductionCode>
   <Rating>8.3</Rating>
-  <RatingCount>80</RatingCount>
+  <RatingCount>81</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Chris Fedak</Writer>
   <absolute_number>91</absolute_number>
   <filename>episodes/80348/4204789.jpg</filename>
-  <lastupdated>1382215995</lastupdated>
+  <lastupdated>1401090155</lastupdated>
   <seasonid>468440</seasonid>
   <seriesid>80348</seriesid>
   <thumb_added></thumb_added>

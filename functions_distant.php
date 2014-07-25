@@ -149,10 +149,13 @@ function CheckSubtiltesAddicted( $Episode )
   $SerieName = str_replace( ' ' , '_' , $_Series[ $Episode['SerieID'] ]['SeriesName'] );
   switch( $SerieName ){
     case "Grey's_Anatomy":
-      $SerieName = "Greys_Anatomy";
+      $SerieName = "Grey%27s_Anatomy";
       break;
 	case "House_of_Cards_(US)":
 	  $SerieName = "House%20of%20Cards%20(2013)";
+	  break;
+    case "The_Americans_(2013)":
+	  $SerieName = "The_Americans";
 	  break;
   }
   $Addic7ed = str_replace( '[[SerieName]]' , $SerieName , $CONTENT_LINK['addic7ed_href'] );

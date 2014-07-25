@@ -2,8 +2,8 @@
 <Data>
   <Series>
     <id>80379</id>
-    <Actors>|Jim Parsons|Johnny Galecki|Kaley Cuoco|Simon Helberg|Kunal Nayyar|Melissa Rauch|Mayim Bialik|</Actors>
-    <Airs_DayOfWeek>Thursday</Airs_DayOfWeek>
+    <Actors>|Jim Parsons|Johnny Galecki|Kaley Cuoco-Sweeting|Simon Helberg|Kunal Nayyar|Melissa Rauch|Mayim Bialik|</Actors>
+    <Airs_DayOfWeek>Monday</Airs_DayOfWeek>
     <Airs_Time>8:00 PM</Airs_Time>
     <ContentRating>TV-PG</ContentRating>
     <FirstAired>2007-09-24</FirstAired>
@@ -12,9 +12,9 @@
     <Language>en</Language>
     <Network>CBS</Network>
     <NetworkID></NetworkID>
-    <Overview>Leonard Hofstadter and Sheldon Cooper are brilliant physicists, the kind of &quot;beautiful minds&quot; that understand how the universe works. But none of that genius helps them interact with people, especially women. All this begins to change when a free-spirited beauty named Penny moves in next door. Sheldon, Leonard's roommate, is quite content spending his nights playing Klingon Boggle with their socially dysfunctional friends, fellow CalTech scientists Howard Wolowitz and Raj Koothrappali. However, Leonard sees in Penny a whole new universe of possibilities... including love.</Overview>
+    <Overview>What happens when hyperintelligent roommates Sheldon and Leonard meet Penny, a free-spirited beauty moving in next door, and realize they know next to nothing about life outside of the lab. Rounding out the crew are the smarmy Wolowitz, who thinks he's as sexy as he is brainy, and Koothrappali, who suffers from an inability to speak in the presence of a woman.</Overview>
     <Rating>9.2</Rating>
-    <RatingCount>941</RatingCount>
+    <RatingCount>980</RatingCount>
     <Runtime>30</Runtime>
     <SeriesID>58056</SeriesID>
     <SeriesName>The Big Bang Theory</SeriesName>
@@ -22,9 +22,10 @@
     <added></added>
     <addedBy></addedBy>
     <banner>graphical/80379-g15.jpg</banner>
-    <fanart>fanart/original/80379-34.jpg</fanart>
-    <lastupdated>1394349454</lastupdated>
-    <poster>posters/80379-22.jpg</poster>
+    <fanart>fanart/original/80379-38.jpg</fanart>
+    <lastupdated>1405874092</lastupdated>
+    <poster>posters/80379-9.jpg</poster>
+    <tms_wanted_old>1</tms_wanted_old>
     <zap2it_id>EP00931182</zap2it_id>
   </Series>
 </Data>

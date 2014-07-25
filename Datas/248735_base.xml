@@ -13,8 +13,8 @@
     <Network>NBC</Network>
     <NetworkID></NetworkID>
     <Overview>After Detective Michael Britten wakes up from a car accident with his wife and teenage son, he learns the devastating news that his wife died in the crash. Trying to put the pieces of his life back together, he wakes up a few days later to realize that his wife is very much alive and his son died in the accident! Did he lose his wife or his son? Or neither of them?</Overview>
-    <Rating>8.0</Rating>
-    <RatingCount>29</RatingCount>
+    <Rating>7.8</Rating>
+    <RatingCount>31</RatingCount>
     <Runtime>60</Runtime>
     <SeriesID>81484</SeriesID>
     <SeriesName>Awake</SeriesName>
@@ -23,8 +23,9 @@
     <addedBy>235881</addedBy>
     <banner>graphical/248735-g.jpg</banner>
     <fanart>fanart/original/248735-3.jpg</fanart>
-    <lastupdated>1392557714</lastupdated>
+    <lastupdated>1405807305</lastupdated>
     <poster>posters/248735-4.jpg</poster>
+    <tms_wanted_old>1</tms_wanted_old>
     <zap2it_id></zap2it_id>
   </Series>
 </Data>

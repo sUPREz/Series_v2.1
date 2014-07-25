@@ -2,7 +2,7 @@
 <Data><Series>
   <id>92411</id>
   <Actors>|Mark Feuerstein|Paulo Costanzo|Reshma Shetty|Brooke D'Orsay|Campbell Scott|Henry Winkler|Mark Ivanir|Ben Shenkman|Kyle Howard|Tom Cavanagh|Jill Flint|</Actors>
-  <Airs_DayOfWeek>Wednesday</Airs_DayOfWeek>
+  <Airs_DayOfWeek>Tuesday</Airs_DayOfWeek>
   <Airs_Time>9:00 pm</Airs_Time>
   <ContentRating>TV-PG</ContentRating>
   <FirstAired>2009-06-04</FirstAired>
@@ -13,17 +13,18 @@
   <NetworkID></NetworkID>
   <Overview>ROYAL PAINS centers on a young E.R. doctor who, after being wrongly blamed for a patient's death, moves to the Hamptons and becomes the reluctant &quot;doctor for hire&quot; to the rich and famous. When the attractive administrator of the local hospital asks him to treat the town's less fortunate, he finds himself walking the line between doing well for himself and doing good for others.</Overview>
   <Rating>8.4</Rating>
-  <RatingCount>59</RatingCount>
-  <Runtime>60</Runtime>
+  <RatingCount>64</RatingCount>
+  <Runtime>45</Runtime>
   <SeriesID>75383</SeriesID>
   <SeriesName>Royal Pains</SeriesName>
   <Status>Continuing</Status>
   <added>2009-05-01 04:56:39</added>
   <addedBy>235</addedBy>
   <banner>graphical/92411-g4.jpg</banner>
-  <fanart>fanart/original/92411-2.jpg</fanart>
-  <lastupdated>1388276886</lastupdated>
-  <poster>posters/92411-3.jpg</poster>
+  <fanart>fanart/original/92411-6.jpg</fanart>
+  <lastupdated>1405781668</lastupdated>
+  <poster>posters/92411-5.jpg</poster>
+  <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>EP01150465</zap2it_id>
 </Series>
 <Episode>
@@ -283,7 +284,7 @@
   <Overview>Young Dr. Hank Lawson has been recently fired when he stumbles into a new career as a concierge physician for the rich and privileged denizens within the Hamptons. Along with an assist from his ambitious brother, who provides his encouragement and advice with money along the way. </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>38</RatingCount>
+  <RatingCount>39</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Andrew Lenchewski</Writer>
   <absolute_number></absolute_number>
@@ -567,7 +568,7 @@
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/92411/952621.jpg</filename>
-  <lastupdated>1313933798</lastupdated>
+  <lastupdated>1390034581</lastupdated>
   <seasonid>71361</seasonid>
   <seriesid>92411</seriesid>
   <thumb_added></thumb_added>
@@ -629,7 +630,7 @@
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/92411/952641.jpg</filename>
-  <lastupdated>1325519931</lastupdated>
+  <lastupdated>1390034614</lastupdated>
   <seasonid>71361</seasonid>
   <seriesid>92411</seriesid>
   <thumb_added></thumb_added>
@@ -685,13 +686,13 @@
   <Language>en</Language>
   <Overview>After having her heart broken, Newberg's stepdaughter lands in the hospital with a condition directly related to her relationship woes. Divya attempts to bring romance into her relationship with Raj.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.3</Rating>
-  <RatingCount>34</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>35</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Michael Rauch</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/92411/2243501.jpg</filename>
-  <lastupdated>1345325177</lastupdated>
+  <lastupdated>1390034721</lastupdated>
   <seasonid>138121</seasonid>
   <seriesid>92411</seriesid>
   <thumb_added></thumb_added>
@@ -722,7 +723,7 @@
   <Writer>Jack Bernstein | Michael Rauch</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/92411/2243511.jpg</filename>
-  <lastupdated>1345325284</lastupdated>
+  <lastupdated>1390034736</lastupdated>
   <seasonid>138121</seasonid>
   <seriesid>92411</seriesid>
   <thumb_added></thumb_added>
@@ -779,12 +780,12 @@
   <Overview>Hank saves a hand; Boris' health quickly fails after Marisa's treatment; Divya clashes with Dr. Peck.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>36</RatingCount>
+  <RatingCount>37</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Carol Flint|Jon Sherman</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/92411/2374691.jpg</filename>
-  <lastupdated>1375691778</lastupdated>
+  <lastupdated>1390034764</lastupdated>
   <seasonid>138121</seasonid>
   <seriesid>92411</seriesid>
   <thumb_added></thumb_added>
@@ -815,7 +816,7 @@
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/92411/2374701.jpg</filename>
-  <lastupdated>1347275996</lastupdated>
+  <lastupdated>1389701969</lastupdated>
   <seasonid>138121</seasonid>
   <seriesid>92411</seriesid>
   <thumb_added></thumb_added>
@@ -846,7 +847,7 @@
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/92411/2374711.jpg</filename>
-  <lastupdated>1347276035</lastupdated>
+  <lastupdated>1390034790</lastupdated>
   <seasonid>138121</seasonid>
   <seriesid>92411</seriesid>
   <thumb_added></thumb_added>
@@ -877,7 +878,7 @@
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/92411/2374721.jpg</filename>
-  <lastupdated>1348307459</lastupdated>
+  <lastupdated>1390034929</lastupdated>
   <seasonid>138121</seasonid>
   <seriesid>92411</seriesid>
   <thumb_added></thumb_added>
@@ -908,7 +909,7 @@
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/92411/2430521.jpg</filename>
-  <lastupdated>1348307485</lastupdated>
+  <lastupdated>1390034946</lastupdated>
   <seasonid>138121</seasonid>
   <seriesid>92411</seriesid>
   <thumb_added></thumb_added>
@@ -939,7 +940,7 @@
   <Writer>Michael Rauch|Jessica Ball</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/92411/2430531.jpg</filename>
-  <lastupdated>1351464423</lastupdated>
+  <lastupdated>1390034966</lastupdated>
   <seasonid>138121</seasonid>
   <seriesid>92411</seriesid>
   <thumb_added></thumb_added>
@@ -970,7 +971,7 @@
   <Writer>Michael Rauch | Contance M. Burge</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/92411/2430541.jpg</filename>
-  <lastupdated>1351464458</lastupdated>
+  <lastupdated>1390034984</lastupdated>
   <seasonid>138121</seasonid>
   <seriesid>92411</seriesid>
   <thumb_added></thumb_added>
@@ -1001,7 +1002,7 @@
   <Writer>Andrew Lenchewski</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/92411/2430551.jpg</filename>
-  <lastupdated>1351464494</lastupdated>
+  <lastupdated>1390035017</lastupdated>
   <seasonid>138121</seasonid>
   <seriesid>92411</seriesid>
   <thumb_added></thumb_added>
@@ -1032,7 +1033,7 @@
   <Writer>Michael Rauch|Jon Sherman</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/92411/2944841.jpg</filename>
-  <lastupdated>1353910803</lastupdated>
+  <lastupdated>1390035034</lastupdated>
   <seasonid>138121</seasonid>
   <seriesid>92411</seriesid>
   <thumb_added></thumb_added>
@@ -1057,13 +1058,13 @@
   <Language>en</Language>
   <Overview>Hank and Divya must find what is making a reality-show's cast ill. Evan's latest plan is to franchise HankMed and he has an unexpected ally.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>34</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>35</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/92411/3413931.jpg</filename>
-  <lastupdated>1353910834</lastupdated>
+  <lastupdated>1390035049</lastupdated>
   <seasonid>138121</seasonid>
   <seriesid>92411</seriesid>
   <thumb_added></thumb_added>
@@ -1089,12 +1090,12 @@
   <Overview>Hank makes a house call to help a teen singing prodigy. Hank and Emily have their biggest fight yet and Eddie just has to insert himself into it. Evan finds himself in a sticky situation with the Paige's father.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.2</Rating>
-  <RatingCount>32</RatingCount>
+  <RatingCount>34</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/92411/3510951.jpg</filename>
-  <lastupdated>1353910863</lastupdated>
+  <lastupdated>1390655453</lastupdated>
   <seasonid>138121</seasonid>
   <seriesid>92411</seriesid>
   <thumb_added></thumb_added>
@@ -1120,12 +1121,12 @@
   <Overview>When a park ranger is hit by lightning, Hank is able to save his life. Now the ranger wants to recapture the experience.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>31</RatingCount>
+  <RatingCount>33</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/92411/3510961.jpg</filename>
-  <lastupdated>1356189734</lastupdated>
+  <lastupdated>1390655293</lastupdated>
   <seasonid>138121</seasonid>
   <seriesid>92411</seriesid>
   <thumb_added></thumb_added>
@@ -1151,12 +1152,12 @@
   <Overview>A woman who left a high stress lifestyle and moved to the Hamptons can't seem to relax but Hank has a medical explanation for her.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>25</RatingCount>
+  <RatingCount>27</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/92411/3510971.jpg</filename>
-  <lastupdated>1356189765</lastupdated>
+  <lastupdated>1390655274</lastupdated>
   <seasonid>138121</seasonid>
   <seriesid>92411</seriesid>
   <thumb_added></thumb_added>
@@ -1187,7 +1188,7 @@
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/92411/3510981.jpg</filename>
-  <lastupdated>1356189791</lastupdated>
+  <lastupdated>1390654998</lastupdated>
   <seasonid>138121</seasonid>
   <seriesid>92411</seriesid>
   <thumb_added></thumb_added>
@@ -1212,13 +1213,13 @@
   <Language>en</Language>
   <Overview>HankMed saves the passengers of a toppled Jitney; Divya deals with the fallout from her broken engagement; Jill returns with news.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>20</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>22</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/92411/4074801.jpg</filename>
-  <lastupdated>1367150735</lastupdated>
+  <lastupdated>1390654443</lastupdated>
   <seasonid>463351</seasonid>
   <seriesid>92411</seriesid>
   <thumb_added></thumb_added>
@@ -1244,12 +1245,12 @@
   <Overview>Ken &quot;Killer&quot; Keller hosts a charity football tournament on his estate and invites Hank to play along. The contest gets fierce as Keller gets injured and Hank must put his competitive nature aside to treat him.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>19</RatingCount>
+  <RatingCount>20</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Michael Rauch</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/92411/4123495.jpg</filename>
-  <lastupdated>1367150694</lastupdated>
+  <lastupdated>1390035463</lastupdated>
   <seasonid>463351</seasonid>
   <seriesid>92411</seriesid>
   <thumb_added></thumb_added>
@@ -1274,13 +1275,13 @@
   <Language>en</Language>
   <Overview>Best friends worry about their line of house-cleaning products.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>23</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>25</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Constance M. Burge</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/92411/4128448.jpg</filename>
-  <lastupdated>1367150653</lastupdated>
+  <lastupdated>1390035486</lastupdated>
   <seasonid>463351</seasonid>
   <seriesid>92411</seriesid>
   <thumb_added></thumb_added>
@@ -1306,12 +1307,12 @@
   <Overview>On a trip to Florida to attend Eddie's parole hearing, Hank and Evan find him in the company of an ex-con seeking spiritual salvation whose erratic behavior has Hank worried.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>22</RatingCount>
+  <RatingCount>25</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Jon Sherman|Carol Flint</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/92411/4128682.jpg</filename>
-  <lastupdated>1367150618</lastupdated>
+  <lastupdated>1390034855</lastupdated>
   <seasonid>463351</seasonid>
   <seriesid>92411</seriesid>
   <thumb_added></thumb_added>
@@ -1337,12 +1338,12 @@
   <Overview>In order to save Eddie's chance at parole, Evan attempts to curry favor with his newfound grandfather at the horse races, but his luck runs out when he and Hank discover the real reason they've never met Ted.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>21</RatingCount>
+  <RatingCount>22</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Andrew Lenchewski &amp; Jessica Ball</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/92411/4128683.jpg</filename>
-  <lastupdated>1367150525</lastupdated>
+  <lastupdated>1390035521</lastupdated>
   <seasonid>463351</seasonid>
   <seriesid>92411</seriesid>
   <thumb_added></thumb_added>
@@ -1367,13 +1368,13 @@
   <Language>en</Language>
   <Overview>Hank treats a wound that will not heal; Paige shares the condition for agreeing to marry Evan.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>19</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>22</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Jack Bernstein</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/92411/4139087.jpg</filename>
-  <lastupdated>1367150798</lastupdated>
+  <lastupdated>1391777441</lastupdated>
   <seasonid>463351</seasonid>
   <seriesid>92411</seriesid>
   <thumb_added></thumb_added>
@@ -1399,12 +1400,12 @@
   <Overview>Hank searches for the cause of a magician's anxiety; Evan books a segment on &quot;The Today Show&quot;.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>22</RatingCount>
+  <RatingCount>25</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/92411/4139088.jpg</filename>
-  <lastupdated>1365462111</lastupdated>
+  <lastupdated>1391779253</lastupdated>
   <seasonid>463351</seasonid>
   <seriesid>92411</seriesid>
   <thumb_added></thumb_added>
@@ -1429,13 +1430,13 @@
   <Language>en</Language>
   <Overview>A runner struggles to regulate body temperature while training; Boris' decline may not be related to the disease.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>8.0</Rating>
-  <RatingCount>20</RatingCount>
+  <Rating>7.9</Rating>
+  <RatingCount>22</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Carol Flint</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/92411/4139089.jpg</filename>
-  <lastupdated>1367150888</lastupdated>
+  <lastupdated>1391779442</lastupdated>
   <seasonid>463351</seasonid>
   <seriesid>92411</seriesid>
   <thumb_added></thumb_added>
@@ -1460,13 +1461,13 @@
   <Language>en</Language>
   <Overview>Hank treats a fearful asthmatic boy; Paige's secret is exposed; Divya's date has a surprising result.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>20</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>22</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/92411/4139090.jpg</filename>
-  <lastupdated>1367150924</lastupdated>
+  <lastupdated>1391779545</lastupdated>
   <seasonid>463351</seasonid>
   <seriesid>92411</seriesid>
   <thumb_added></thumb_added>
@@ -1492,12 +1493,12 @@
   <Overview>An art collector cannot stay conscious; Hank recommends treatment for Paige's mother; Divya struggles to maintain balance.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>22</RatingCount>
+  <RatingCount>23</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/92411/4139091.jpg</filename>
-  <lastupdated>1366579664</lastupdated>
+  <lastupdated>1391779580</lastupdated>
   <seasonid>463351</seasonid>
   <seriesid>92411</seriesid>
   <thumb_added></thumb_added>
@@ -1523,12 +1524,12 @@
   <Overview>Hank blames Dr. Van Dyke for a prescription error; the HankMed team attends a divorce party.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>20</RatingCount>
+  <RatingCount>23</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Jon Sherman|Michael Rauch</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/92411/4225158.jpg</filename>
-  <lastupdated>1367151028</lastupdated>
+  <lastupdated>1391779619</lastupdated>
   <seasonid>463351</seasonid>
   <seriesid>92411</seriesid>
   <thumb_added></thumb_added>
@@ -1554,12 +1555,12 @@
   <Overview>When a mysterious illness overcomes the members of an up and coming rock band, Hank and Divya have to work together to find the cause; but Hank struggles with trusting Divya after her near fatal prescription error.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>20</RatingCount>
+  <RatingCount>23</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/92411/4225159.jpg</filename>
-  <lastupdated>1367951808</lastupdated>
+  <lastupdated>1392466546</lastupdated>
   <seasonid>463351</seasonid>
   <seriesid>92411</seriesid>
   <thumb_added></thumb_added>
@@ -1584,13 +1585,13 @@
   <Language>en</Language>
   <Overview>When a back problem limits Hank's ability to treat patients, Evan hires Dr. Van Dyke as a temporary replacement.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>19</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>22</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Constance M. Burge, Jack Bernstein</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/92411/4225160.jpg</filename>
-  <lastupdated>1367951863</lastupdated>
+  <lastupdated>1392467271</lastupdated>
   <seasonid>463351</seasonid>
   <seriesid>92411</seriesid>
   <thumb_added></thumb_added>
@@ -1616,12 +1617,12 @@
   <Overview>A Hollywood star wants to revive his career by doing Shakespeare in the Hamptons; Divya learns that Raj is moving on; Jack delays treatment.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>17</RatingCount>
+  <RatingCount>20</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/92411/4225161.jpg</filename>
-  <lastupdated>1371150795</lastupdated>
+  <lastupdated>1392467630</lastupdated>
   <seasonid>463351</seasonid>
   <seriesid>92411</seriesid>
   <thumb_added></thumb_added>
@@ -1646,13 +1647,13 @@
   <Language>en</Language>
   <Overview>Evan offers to assist Divya with breaking free from her financial burden. Also, Jill's teenage nephew, Luke, calls on HankMed when his boss fails to take care of some troubling symptoms.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>16</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>19</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/92411/4225162.jpg</filename>
-  <lastupdated>1371150836</lastupdated>
+  <lastupdated>1392467771</lastupdated>
   <seasonid>463351</seasonid>
   <seriesid>92411</seriesid>
   <thumb_added></thumb_added>
@@ -1678,12 +1679,12 @@
   <Overview>Hank struggles to cope with Jack's illness; young brothers keep Hank busy; Evan teams up with Boris' cousin.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>14</RatingCount>
+  <RatingCount>16</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/92411/4225163.jpg</filename>
-  <lastupdated>1371150874</lastupdated>
+  <lastupdated>1392467797</lastupdated>
   <seasonid>463351</seasonid>
   <seriesid>92411</seriesid>
   <thumb_added></thumb_added>
@@ -1709,12 +1710,12 @@
   <Overview>Hank embarks on a fresh start with his medical practice and separates from his brother Evan, who also starts his own venture. As Divya attempts to reconcile the brothers, HankMed teams up once more in the face of a Hampton's emergency.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>15</RatingCount>
+  <RatingCount>18</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Andrew Lenchewski</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/92411/4292777.jpg</filename>
-  <lastupdated>1382083159</lastupdated>
+  <lastupdated>1398862018</lastupdated>
   <seasonid>488443</seasonid>
   <seriesid>92411</seriesid>
   <thumb_added></thumb_added>
@@ -1739,13 +1740,13 @@
   <Language>en</Language>
   <Overview>When Jill’s chess-obsessed nephew gets kicked out of camp for fighting, Hank realizes Luke may be suffering from more than just teenage hormones. Evan courts a young, lonely heiress for his new client roster, and Divya – caught between the brothers -- faces an impossible choice.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>13</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>16</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Michael Rauch</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/92411/4316410.jpg</filename>
-  <lastupdated>1382083189</lastupdated>
+  <lastupdated>1398862037</lastupdated>
   <seasonid>488443</seasonid>
   <seriesid>92411</seriesid>
   <thumb_added></thumb_added>
@@ -1771,12 +1772,12 @@
   <Overview>Hank and Evan heatedly compete for a new business opportunity. Meanwhile, Divya attempts to covertly reconcile the brothers' differences.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>11</RatingCount>
+  <RatingCount>14</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Constance M. Burge|Jack Bernstein</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/92411/4316411.jpg</filename>
-  <lastupdated>1382083218</lastupdated>
+  <lastupdated>1398862066</lastupdated>
   <seasonid>488443</seasonid>
   <seriesid>92411</seriesid>
   <thumb_added></thumb_added>
@@ -1801,13 +1802,13 @@
   <Language>en</Language>
   <Overview>Hank &amp; Evan's father Eddie makes his return to the Hamptons and schemes to bring his boys back together. Hank has a new patient who is participating in a zombie race for charity. Evan also has a new patient, a retired biochemist with a possibly sinister past.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>6</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>9</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Carol Flint|Jon Sherman</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/92411/4316412.jpg</filename>
-  <lastupdated>1382083246</lastupdated>
+  <lastupdated>1398862085</lastupdated>
   <seasonid>488443</seasonid>
   <seriesid>92411</seriesid>
   <thumb_added></thumb_added>
@@ -1833,12 +1834,12 @@
   <Overview>Hank and Divya treat a matchmaker who's intent on setting each of them up. Also, while Evan tries to rein in HankMed 3.0, Paige plans a small kick-off party that turns out to be anything but small.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>9</RatingCount>
+  <RatingCount>12</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Michael Rauch|Jessica Ball</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/92411/4316413.jpg</filename>
-  <lastupdated>1382083271</lastupdated>
+  <lastupdated>1401218549</lastupdated>
   <seasonid>488443</seasonid>
   <seriesid>92411</seriesid>
   <thumb_added></thumb_added>
@@ -1863,13 +1864,13 @@
   <Language>en</Language>
   <Overview>HankMed treats an absentminded country club manager while Evan, with Paige's help, lands the business opportunity he's always dreamed of.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>8.0</Rating>
-  <RatingCount>8</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>12</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Constance M. Burge</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/92411/4316414.jpg</filename>
-  <lastupdated>1382083292</lastupdated>
+  <lastupdated>1401880074</lastupdated>
   <seasonid>488443</seasonid>
   <seriesid>92411</seriesid>
   <thumb_added></thumb_added>
@@ -1894,13 +1895,13 @@
   <Language>en</Language>
   <Overview>Hank is whisked away to a secret meeting in Manhattan by Boris to help care for a stubborn Russian oligarch, and befriends their female interpreter in the process. Meanwhile, Evan and Jeremiah treat an Internet entrepreneur and Divya reconciles with her father.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>9</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>12</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Carol Flint</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/92411/4316415.jpg</filename>
-  <lastupdated>1382083317</lastupdated>
+  <lastupdated>1402682753</lastupdated>
   <seasonid>488443</seasonid>
   <seriesid>92411</seriesid>
   <thumb_added></thumb_added>
@@ -1926,12 +1927,12 @@
   <Overview>Hank and Divya treat a Large Animal Veterinarian going through a bitter divorce while Evan and Paige help a close friend reeling from an unexpected loss.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>7</RatingCount>
+  <RatingCount>11</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Jon Sherman</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/92411/4316416.jpg</filename>
-  <lastupdated>1382083340</lastupdated>
+  <lastupdated>1404929654</lastupdated>
   <seasonid>488443</seasonid>
   <seriesid>92411</seriesid>
   <thumb_added></thumb_added>
@@ -1957,12 +1958,12 @@
   <Overview>While HankMed treats an undercover DEA Agent, Divya and Jeremiah tend to a MMA fighter who may have gone a bit soft. Meanwhile, Hank becomes more involved with Boris' interpreter, much to Boris' chagrin.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>9</RatingCount>
+  <RatingCount>12</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Andrew Lenchewski|Jeff Drayer</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/92411/4355817.jpg</filename>
-  <lastupdated>1382083361</lastupdated>
+  <lastupdated>1404929678</lastupdated>
   <seasonid>488443</seasonid>
   <seriesid>92411</seriesid>
   <thumb_added></thumb_added>
@@ -1987,13 +1988,13 @@
   <Language>en</Language>
   <Overview>With a Polo tournament in full swing in the Hamptons, HankMed's on hand to treat a Polo Team Owner who won't quit playing despite his condition. Also, Divya deals with the realities of dating and Evan frets about an impending meeting of the in-laws.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.2</Rating>
-  <RatingCount>11</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>14</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Michael Rauch|Jon Sherman</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/92411/4355818.jpg</filename>
-  <lastupdated>1382083389</lastupdated>
+  <lastupdated>1404929706</lastupdated>
   <seasonid>488443</seasonid>
   <seriesid>92411</seriesid>
   <thumb_added></thumb_added>
@@ -2019,12 +2020,12 @@
   <Overview>When a famous pop star comes to the Hamptons to prepare for her new world tour, HankMed must stay on hand to treat her for more than just exhaustion. Meanwhile, Divya becomes distracted when she falls head over heels for a globe-trotting polo player.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>9</RatingCount>
+  <RatingCount>12</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Jack Bernstein|Simrain Baidwan</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/92411/4355819.jpg</filename>
-  <lastupdated>1382083411</lastupdated>
+  <lastupdated>1404929722</lastupdated>
   <seasonid>488443</seasonid>
   <seriesid>92411</seriesid>
   <thumb_added></thumb_added>
@@ -2050,12 +2051,12 @@
   <Overview>While HankMed treats a high-strung student for a bad case of nerves, her easy-going romance novelist mother falls ill as well and Hank must race to diagnose the two seemingly unconnected conditions.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>9</RatingCount>
+  <RatingCount>12</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Jessica Ball|Aubrey Karr</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/92411/4355820.jpg</filename>
-  <lastupdated>1382083434</lastupdated>
+  <lastupdated>1404929740</lastupdated>
   <seasonid>488443</seasonid>
   <seriesid>92411</seriesid>
   <thumb_added></thumb_added>
@@ -2081,12 +2082,12 @@
   <Overview>Hank must travel across the globe to help an injured Dmitry. Meanwhile, Evan and Paige meet a woman claiming to be Paige's biological mother.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>9</RatingCount>
+  <RatingCount>12</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/92411/4374927.jpg</filename>
-  <lastupdated>1382083455</lastupdated>
+  <lastupdated>1394321434</lastupdated>
   <seasonid>488443</seasonid>
   <seriesid>92411</seriesid>
   <thumb_added></thumb_added>
@@ -2112,12 +2113,12 @@
   <Overview>Hank cancels his weekend plans after treating an amateur beach volleyball player who he believes may be suffering from more than just a summer bug. Meanwhile, Divya confronts her new boyfriend after a startling discovery.</Overview>
   <ProductionCode>414</ProductionCode>
   <Rating>8.1</Rating>
-  <RatingCount>8</RatingCount>
+  <RatingCount>10</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Andrew Lenchewski|Antonia Ellis</Writer>
   <absolute_number>60</absolute_number>
   <filename>episodes/92411/4374928.jpg</filename>
-  <lastupdated>1382083477</lastupdated>
+  <lastupdated>1396781172</lastupdated>
   <seasonid>488443</seasonid>
   <seriesid>92411</seriesid>
   <thumb_added></thumb_added>
@@ -2142,13 +2143,13 @@
   <Language>en</Language>
   <Overview>Several months after the events of the explosive summer finale. With the Hamptons decked out for the holidays, Dr. Hank Lawson continues to treat his patients in very unexpected ways, but Hank's biggest challenge will be facing his own medical issues. As the wedding approaches, Evan and Hank head to Las Vegas for some bachelor party fun, while Paige and Divya travel out of town for her bachelorette party. And with a snowstorm descending on the Hamptons, Paige rapidly finds her dream wedding turning into a nightmare.</Overview>
   <ProductionCode>415</ProductionCode>
-  <Rating>8.0</Rating>
-  <RatingCount>8</RatingCount>
+  <Rating>7.9</Rating>
+  <RatingCount>10</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Carol Flint|Jon Sherman</Writer>
   <absolute_number>61</absolute_number>
   <filename>episodes/92411/4408210.jpg</filename>
-  <lastupdated>1359365868</lastupdated>
+  <lastupdated>1396781214</lastupdated>
   <seasonid>488443</seasonid>
   <seriesid>92411</seriesid>
   <thumb_added></thumb_added>
@@ -2173,13 +2174,13 @@
   <Language>en</Language>
   <Overview>Several months after the events of the explosive summer finale. With the Hamptons decked out for the holidays, Dr. Hank Lawson continues to treat his patients in very unexpected ways, but Hank's biggest challenge will be facing his own medical issues. As the wedding approaches, Evan and Hank head to Las Vegas for some bachelor party fun, while Paige and Divya travel out of town for her bachelorette party. And with a snowstorm descending on the Hamptons, Paige rapidly finds her dream wedding turning into a nightmare.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>9.0</Rating>
-  <RatingCount>2</RatingCount>
+  <Rating>8.2</Rating>
+  <RatingCount>5</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Constance M. Burge|Michael Rauch</Writer>
   <absolute_number>62</absolute_number>
   <filename>episodes/92411/4417776.jpg</filename>
-  <lastupdated>1359365896</lastupdated>
+  <lastupdated>1396781259</lastupdated>
   <seasonid>488443</seasonid>
   <seriesid>92411</seriesid>
   <thumb_added></thumb_added>
@@ -2204,13 +2205,13 @@
   <Language>en</Language>
   <Overview>Hank gets back to work after recovering from surgery and treats a woman whose fund-raising efforts may be harming her health. Elsewhere, Jeremiah helps HankMed meet demand; a potential new client catches Evan off guard; and Divya receives surprising news.</Overview>
   <ProductionCode>RP#501</ProductionCode>
-  <Rating>7.1</Rating>
-  <RatingCount>7</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>8</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Andrew Lenchewski|Jeff Drayer</Writer>
   <absolute_number>63</absolute_number>
   <filename>episodes/92411/4506200.jpg</filename>
-  <lastupdated>1379672595</lastupdated>
+  <lastupdated>1394806357</lastupdated>
   <seasonid>513261</seasonid>
   <seriesid>92411</seriesid>
   <thumb_added></thumb_added>
@@ -2235,13 +2236,13 @@
   <Language>en</Language>
   <Overview>Hank treats a police officer whose rebellious daughter could be harming his health; Evan and Paige get involved in a neighborhood feud; a patient makes a surprising offer; and Divya faces complications from the changes in her life.</Overview>
   <ProductionCode>RP#502</ProductionCode>
-  <Rating>6.9</Rating>
-  <RatingCount>7</RatingCount>
+  <Rating>7.1</Rating>
+  <RatingCount>9</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Michael Rauch</Writer>
   <absolute_number>64</absolute_number>
   <filename>episodes/92411/4568684.jpg</filename>
-  <lastupdated>1379672615</lastupdated>
+  <lastupdated>1394806312</lastupdated>
   <seasonid>513261</seasonid>
   <seriesid>92411</seriesid>
   <thumb_added></thumb_added>
@@ -2266,13 +2267,13 @@
   <Language>en</Language>
   <Overview>Hank investigates Boris' death and uncovers something surprising; Divya and Jeremiah visit a forward-thinking hospital in Savannah, where they tend to a minor-league baseball player; and Evan's mission at Village Hall doesn't go as planned. </Overview>
   <ProductionCode>RP#503</ProductionCode>
-  <Rating>7.1</Rating>
-  <RatingCount>8</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>9</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Constance M. Burge</Writer>
   <absolute_number>65</absolute_number>
   <filename>episodes/92411/4568685.jpg</filename>
-  <lastupdated>1379672624</lastupdated>
+  <lastupdated>1394806268</lastupdated>
   <seasonid>513261</seasonid>
   <seriesid>92411</seriesid>
   <thumb_added></thumb_added>
@@ -2297,13 +2298,13 @@
   <Language>en</Language>
   <Overview>Hank and Divya treat who woman who may have rabies; Jeremiah treats a radio disc jockey; Paige interviews for an internship; Hank and Evan struggle with Divya's news and Shelby looks for alternatives to start her own concierge business. </Overview>
   <ProductionCode>RP#504</ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>8</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>10</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Simran Baidwan</Writer>
   <absolute_number>66</absolute_number>
   <filename>episodes/92411/4590515.jpg</filename>
-  <lastupdated>1379672631</lastupdated>
+  <lastupdated>1394806238</lastupdated>
   <seasonid>513261</seasonid>
   <seriesid>92411</seriesid>
   <thumb_added>2013-07-11 19:06:07</thumb_added>
@@ -2328,13 +2329,13 @@
   <Language>en</Language>
   <Overview>Hank continues to treat Don and becomes more involved in the lives of Don and Molly; Divya tends to a young conductor, whose passion for music may be harming his health; Evan confronts obstacles in his new political venture; and Paige sees a new side of Blythe. </Overview>
   <ProductionCode>RP#505</ProductionCode>
-  <Rating>6.9</Rating>
-  <RatingCount>8</RatingCount>
+  <Rating>7.2</Rating>
+  <RatingCount>9</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Carol Flint</Writer>
   <absolute_number>67</absolute_number>
   <filename>episodes/92411/4590516.jpg</filename>
-  <lastupdated>1379672638</lastupdated>
+  <lastupdated>1395401106</lastupdated>
   <seasonid>513261</seasonid>
   <seriesid>92411</seriesid>
   <thumb_added>2013-07-18 14:36:33</thumb_added>
@@ -2359,13 +2360,13 @@
   <Language>en</Language>
   <Overview>Hank treats a diet-cocktail maven facing a great deal of pressure; one of Evan's detractors has an accident; Divya's neighbor is diagnosed with an ailment that hits close to home for Divya; and Hank makes a business decision.</Overview>
   <ProductionCode>RP#506</ProductionCode>
-  <Rating>7.3</Rating>
-  <RatingCount>7</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>9</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Jon Sherman</Writer>
   <absolute_number>68</absolute_number>
   <filename>episodes/92411/4590517.jpg</filename>
-  <lastupdated>1382686940</lastupdated>
+  <lastupdated>1395401144</lastupdated>
   <seasonid>513261</seasonid>
   <seriesid>92411</seriesid>
   <thumb_added>2013-07-25 22:18:39</thumb_added>
@@ -2390,13 +2391,13 @@
   <Language>en</Language>
   <Overview>Hank treats a spin instructor; Divya helps a successful candymaker who's facing unexpected challenges; Hank grows impatient with Killer Keller's negotiating tactics; Divya and Jeremiah try to better share their space; and Evan is upset when Paige makes a major purchase.</Overview>
   <ProductionCode>RP#507</ProductionCode>
-  <Rating>7.9</Rating>
-  <RatingCount>9</RatingCount>
+  <Rating>8.0</Rating>
+  <RatingCount>10</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Aubrey Karr</Writer>
   <absolute_number>69</absolute_number>
   <filename>episodes/92411/4597761.jpg</filename>
-  <lastupdated>1383255804</lastupdated>
+  <lastupdated>1395401185</lastupdated>
   <seasonid>513261</seasonid>
   <seriesid>92411</seriesid>
   <thumb_added>2013-08-01 22:05:49</thumb_added>
@@ -2421,13 +2422,13 @@
   <Language>en</Language>
   <Overview>An unexpected visitor and a major auction at Shadow Pond thrust Hank, Evan, and Paige into an unfamiliar, high-stakes world that requires them to pull together like never before. Meanwhile, when Divya treats an older couple, who aren’t about to let their age slow them down, she realizes the pace of her own life has changed in unexpected ways.</Overview>
   <ProductionCode>RP#508</ProductionCode>
-  <Rating>7.2</Rating>
-  <RatingCount>6</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>8</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Jack Bernstein</Writer>
   <absolute_number>70</absolute_number>
   <filename>episodes/92411/4600655.jpg</filename>
-  <lastupdated>1384715562</lastupdated>
+  <lastupdated>1395401230</lastupdated>
   <seasonid>513261</seasonid>
   <seriesid>92411</seriesid>
   <thumb_added>2013-08-08 16:13:46</thumb_added>
@@ -2452,13 +2453,13 @@
   <Language>en</Language>
   <Overview>Hank treats a florist who has vivid dreams; Divya grows suspicious of a moderator running a debate in which Evan is participating; and Hank and Jeremiah don't see eye to eye on how to best treat Hank's pain.</Overview>
   <ProductionCode>RP#509</ProductionCode>
-  <Rating>7.1</Rating>
-  <RatingCount>8</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>10</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Jessica Ball</Writer>
   <absolute_number>71</absolute_number>
   <filename>episodes/92411/4600656.jpg</filename>
-  <lastupdated>1384715571</lastupdated>
+  <lastupdated>1390936511</lastupdated>
   <seasonid>513261</seasonid>
   <seriesid>92411</seriesid>
   <thumb_added>2013-08-14 20:22:04</thumb_added>
@@ -2483,13 +2484,13 @@
   <Language>en</Language>
   <Overview>Hank must rescue Molly after she disappears; Divya goes to Italy to share big news with her mother, and an oblivious Evan decides to tag along; and Paige feels burdened by work and out of sync with Evan.</Overview>
   <ProductionCode>RP#510</ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>8</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>9</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Carol Flint|Jon Sherman</Writer>
   <absolute_number>72</absolute_number>
   <filename>episodes/92411/4600657.jpg</filename>
-  <lastupdated>1384715601</lastupdated>
+  <lastupdated>1391492919</lastupdated>
   <seasonid>513261</seasonid>
   <seriesid>92411</seriesid>
   <thumb_added>2013-08-22 14:28:45</thumb_added>
@@ -2514,13 +2515,13 @@
   <Language>en</Language>
   <Overview>Hank advocates an aggressive treatment plan for Don; Evan reaches out to Eddie to help Hank; Divya learns a long-kept secret.</Overview>
   <ProductionCode>RP#511</ProductionCode>
-  <Rating>6.7</Rating>
-  <RatingCount>7</RatingCount>
+  <Rating>7.0</Rating>
+  <RatingCount>9</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Michael Rauch|Jessica Ball</Writer>
   <absolute_number>73</absolute_number>
   <filename>episodes/92411/4600658.jpg</filename>
-  <lastupdated>1378045879</lastupdated>
+  <lastupdated>1392242302</lastupdated>
   <seasonid>513261</seasonid>
   <seriesid>92411</seriesid>
   <thumb_added>2013-08-28 22:21:45</thumb_added>
@@ -2546,12 +2547,12 @@
   <Overview>HankMed treats a thrill-seeking journalist who refuses to let a health scare keep her from her job. Elsewhere, Evan and Paige's relationship is put under the microscope thanks to political mudslinging, and Hank worries that Molly's behavioral problems may amount to more than simple teenage angst. Finally, Jeremiah comes to a startling conclusion after Shelby questions him regarding Hank's use of painkillers.</Overview>
   <ProductionCode>RP#512</ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>8</RatingCount>
+  <RatingCount>10</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Constance M. Burge|Jack Bernstein</Writer>
   <absolute_number>74</absolute_number>
   <filename>episodes/92411/4611436.jpg</filename>
-  <lastupdated>1379290680</lastupdated>
+  <lastupdated>1392752273</lastupdated>
   <seasonid>513261</seasonid>
   <seriesid>92411</seriesid>
   <thumb_added>2013-09-04 20:05:36</thumb_added>
@@ -2576,17 +2577,420 @@
   <Language>en</Language>
   <Overview>Hank treats a young paleontologist who is preparing a fossilized dinosaur skeleton for auction. Russel suffers an injury that seems scientifically impossible. Meanwhile, Evan and Paige realize they need to take a drastic step to save their marriage, and Divya learns her pregnancy will be even more challenging than she expected. When the future of HankMed is threatened, Hank tries to save it by reexamining his role in the business.</Overview>
   <ProductionCode>RP#513</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>8</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>9</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Andrew Lenchewski</Writer>
   <absolute_number>75</absolute_number>
   <filename>episodes/92411/4636183.jpg</filename>
-  <lastupdated>1379290653</lastupdated>
+  <lastupdated>1393316113</lastupdated>
   <seasonid>513261</seasonid>
   <seriesid>92411</seriesid>
   <thumb_added>2013-09-11 20:14:05</thumb_added>
   <thumb_height>225</thumb_height>
   <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4863034</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Kevin Dowling</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Smoke and Mirrors</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2014-06-10</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3770464</IMDB_ID>
+  <Language>en</Language>
+  <Overview>After a winter abroad, Hank returns to the Hamptons to celebrate the latest addition to the HankMed family. Evan and Paige take a hands-on approach to their marriage. Later Evan hatches a plan to make Hank stay in town after a saxophone player falls ill. Meanwhile Divya experiences the joys of motherhood and a mysterious party guest brings surprising news for the Lawson family.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.3</Rating>
+  <RatingCount>3</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>Andrew Lenchewski|Jeff Drayer</Writer>
+  <absolute_number>76</absolute_number>
+  <filename>episodes/92411/4863034.jpg</filename>
+  <lastupdated>1403125396</lastupdated>
+  <seasonid>583533</seasonid>
+  <seriesid>92411</seriesid>
+  <thumb_added>2014-06-10 13:43:12</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4863702</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Matthew Penn</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>All in the Family</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2014-06-17</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3598260</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Hank worries a rising tennis star’s health may prevent her from taking her career to the next level, while a fellow pro at her club may have fallen ill from an unexpected source. Later Hank and Evan adjust to a startling revelation about Eddie’s past. And Evan and Paige reach a new milestone. Elsewhere Jeremiah finds peace in an odd place.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.7</Rating>
+  <RatingCount>3</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>Michael Rauch|Antonia Ellis</Writer>
+  <absolute_number>77</absolute_number>
+  <filename>episodes/92411/4863702.jpg</filename>
+  <lastupdated>1404345894</lastupdated>
+  <seasonid>583533</seasonid>
+  <seriesid>92411</seriesid>
+  <thumb_added>2014-06-22 09:24:53</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4863703</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Matthew Penn</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>A Bridge Not Quite Far Enough</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2014-06-24</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3800726</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Hank, Evan and Paige try to help Eddie have a relationship with Emma; Hank treats a private investigator; Divya must find a nanny; Jeremiah makes a friend.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.3</Rating>
+  <RatingCount>3</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>Constance M. Burge|Jeff Drayer</Writer>
+  <absolute_number>78</absolute_number>
+  <filename>episodes/92411/4863703.jpg</filename>
+  <lastupdated>1403685876</lastupdated>
+  <seasonid>583533</seasonid>
+  <seriesid>92411</seriesid>
+  <thumb_added>2014-06-24 17:49:27</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4863704</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Emile Levisetti</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Steaks on a Plane</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2014-07-01</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3817938</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Hank travels to Monte Carlo and finds himself in the middle of a plot to rid Boris’ bank of a shadowy depositor. Back in the Hamptons, Divya and Jeremiah treat a group of firemen who have fallen mysteriously ill. Paige and Evan find themselves in need of a new place to live, and the most convenient solution may bring its own set of challenges.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.3</Rating>
+  <RatingCount>3</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>Jon Sherman|Carol Flint</Writer>
+  <absolute_number>79</absolute_number>
+  <filename>episodes/92411/4863704.jpg</filename>
+  <lastupdated>1404348147</lastupdated>
+  <seasonid>583533</seasonid>
+  <seriesid>92411</seriesid>
+  <thumb_added>2014-07-02 13:20:04</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4863705</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Paulo Costanzo</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Goodwill Stunting</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2014-07-08</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3748660</IMDB_ID>
+  <Language>en</Language>
+  <Overview>After reading about her struggle online, Evan reaches out to a woman with a mysterious illness in the hope that Hank can finally give her a diagnosis. Paige and Russel’s professional lives take an unexpected turn, and their new client could be a goldmine or a dangerous problem — especially when he becomes a HankMed patient. While Evan and Jeremiah realize they’ll have to go to battle with Symphony if HankMed is to survive the summer, Hank’s watchful eye on Emma helps him win back a former patient.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.3</Rating>
+  <RatingCount>3</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>Jack Bernstein</Writer>
+  <absolute_number>80</absolute_number>
+  <filename>episodes/92411/4863705.jpg</filename>
+  <lastupdated>1404885611</lastupdated>
+  <seasonid>583533</seasonid>
+  <seriesid>92411</seriesid>
+  <thumb_added>2014-07-08 13:12:00</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4863706</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Constantine Makris</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Everybody Loves Ray, Man</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2014-07-15</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3874538</IMDB_ID>
+  <Language>en</Language>
+  <Overview>The chef at Ray’s new restaurant seems to be getting drunk on the job, but Hank believes it’s not just a matter of hitting the bottle. Divya treats a NASCAR crew chief who channels his anxiety into an unexpectedly dangerous habit. Evan’s friendship with Ray helps him find a promising space for HankMed’s new lab, but Jeremiah has concerns about the location. And while Hank tries to get Emma to think about her future, Divya makes an important decision about her own.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>Jeff Drayer</Writer>
+  <absolute_number>81</absolute_number>
+  <filename>episodes/92411/4863706.jpg</filename>
+  <lastupdated>1405541484</lastupdated>
+  <seasonid>583533</seasonid>
+  <seriesid>92411</seriesid>
+  <thumb_added>2014-07-15 14:17:28</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4863707</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Electric Youth</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2014-07-22</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Hank and Divya treat a house-sitter; Jeremiah treats a burlesque dancer and gets close to her roommate; Paige makes an important discovery; Emma becomes a tipster for a gossip site.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1405125921</lastupdated>
+  <seasonid>583533</seasonid>
+  <seriesid>92411</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4863708</id>
+  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>I Did Not See That Coming</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2014-07-29</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Divya bonds with a patient who struggles to get pregnant; Hank reignites his European romance; Paige and Evan seek help with their issues.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1405125984</lastupdated>
+  <seasonid>583533</seasonid>
+  <seriesid>92411</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4863709</id>
+  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Oh, M.G.</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2014-08-05</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1404771347</lastupdated>
+  <seasonid>583533</seasonid>
+  <seriesid>92411</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4863710</id>
+  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Good Air/Bad Air</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2014-08-12</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1404849478</lastupdated>
+  <seasonid>583533</seasonid>
+  <seriesid>92411</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4863711</id>
+  <Combined_episodenumber>11</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Hankmed on the Half Shell</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired>2014-08-19</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1404849524</lastupdated>
+  <seasonid>583533</seasonid>
+  <seriesid>92411</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4863712</id>
+  <Combined_episodenumber>12</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>A Bigger Boat</EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired>2014-08-26</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1405698670</lastupdated>
+  <seasonid>583533</seasonid>
+  <seriesid>92411</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4863713</id>
+  <Combined_episodenumber>13</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName></EpisodeName>
+  <EpisodeNumber>13</EpisodeNumber>
+  <FirstAired>2014-09-02</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1398307102</lastupdated>
+  <seasonid>583533</seasonid>
+  <seriesid>92411</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
 </Episode>
 </Data>

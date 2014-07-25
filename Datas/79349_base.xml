@@ -13,8 +13,8 @@
     <Network>Showtime</Network>
     <NetworkID></NetworkID>
     <Overview>He's smart, he's good looking, and he's got a great sense of humor. He's Dexter Morgan, everyone's favorite serial killer. As a Miami forensics expert, he spends his days solving crimes, and nights committing them. But Dexter lives by a strict code of honor that is both his saving grace and lifelong burden. Torn between his deadly compulsion and his desire for true happiness, Dexter is a man in profound conflict with the world and himself.</Overview>
-    <Rating>9.3</Rating>
-    <RatingCount>1337</RatingCount>
+    <Rating>9.2</Rating>
+    <RatingCount>1371</RatingCount>
     <Runtime>60</Runtime>
     <SeriesID>62683</SeriesID>
     <SeriesName>Dexter</SeriesName>
@@ -22,9 +22,10 @@
     <added></added>
     <addedBy></addedBy>
     <banner>graphical/79349-g7.jpg</banner>
-    <fanart>fanart/original/79349-22.jpg</fanart>
-    <lastupdated>1395085362</lastupdated>
+    <fanart>fanart/original/79349-42.jpg</fanart>
+    <lastupdated>1405876422</lastupdated>
     <poster>posters/79349-24.jpg</poster>
+    <tms_wanted_old>1</tms_wanted_old>
     <zap2it_id>EP00859795</zap2it_id>
   </Series>
 </Data>

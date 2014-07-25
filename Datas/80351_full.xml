@@ -6,7 +6,7 @@
   <Airs_Time>8:00 PM</Airs_Time>
   <ContentRating>TV-PG</ContentRating>
   <FirstAired>2007-10-03</FirstAired>
-  <Genre>|Comedy|Drama|Fantasy|</Genre>
+  <Genre>|Comedy|Drama|Fantasy|Mystery|Romance|</Genre>
   <IMDB_ID>tt0925266</IMDB_ID>
   <Language>en</Language>
   <Network>ABC</Network>
@@ -21,9 +21,10 @@
   <added></added>
   <addedBy></addedBy>
   <banner>graphical/80351-g9.jpg</banner>
-  <fanart>fanart/original/80351-6.jpg</fanart>
-  <lastupdated>1393354806</lastupdated>
+  <fanart>fanart/original/80351-21.jpg</fanart>
+  <lastupdated>1405278947</lastupdated>
   <poster>posters/80351-2.jpg</poster>
+  <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>SH930981</zap2it_id>
 </Series>
 <Episode>
@@ -478,8 +479,8 @@
   <Language>en</Language>
   <Overview>Ned agrees to help a famed magician whose animal assistants are being killed off; Dwight Dixon tries to cozy up to Lily and Vivian, but Lily is suspicious of his motives.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.3</Rating>
-  <RatingCount>13</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>14</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Katherine Lingenfelter|</Writer>
   <absolute_number>15</absolute_number>

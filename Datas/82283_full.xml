@@ -1,29 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Data><Series>
   <id>82283</id>
-  <Actors>|Anna Paquin|Alexander Skarsgård|Rutina Wesley|Stephen Moyer|Nelsan Ellis|Kristin Bauer|Deborah Ann Woll|Carrie Preston|William Sanderson|Chris Bauer|Lois Smith|Ryan Kwanten|Sam Trammell|Amelia Rose Blaire|Jurnee Smollett-Bell|Robert Kazinsky|Dale Dickey|Arliss Howard|Rutger Hauer|Kelly Overton|Jessica Clark|Valentina Cervi|Christopher Meloni|Lucy Griffiths|Scott Foley|Lauren Bowles|Brit Morgan|Evan Rachel Wood|Jessica Tuck|Stephen Root|Lizzy Caplan|Adina Porter|Fiona Shaw|Denis O'Hare|Michael Raymond-James|Mariana Klaveno|Lindsay Pulsipher|Marshall Allman|Todd Lowe|Jim Parrack|Joe Manganiello|Kevin Alejandro|Janina Gavankar|Mehcad Brooks |Michelle Forbes|Michael McMillian|Anna Camp|</Actors>
+  <Actors>|Anna Paquin|Alexander Skarsgård|Rutina Wesley|Stephen Moyer|Nelsan Ellis|Kristin Bauer|Deborah Ann Woll|Carrie Preston|William Sanderson|Chris Bauer|Lois Smith|Ryan Kwanten|Sam Trammell|Amelia Rose Blaire|Jurnee Smollett-Bell|Robert Kazinsky|Arliss Howard|Kelly Overton|Jessica Clark|Valentina Cervi|Christopher Meloni|Lucy Griffiths|Scott Foley|Lauren Bowles|Brit Morgan|Evan Rachel Wood|Jessica Tuck|Stephen Root|Lizzy Caplan|Adina Porter|Fiona Shaw|Denis O'Hare|Michael Raymond-James|Mariana Klaveno|Lindsay Pulsipher|Marshall Allman|Todd Lowe|Jim Parrack|Joe Manganiello|Kevin Alejandro|Janina Gavankar|Mehcad Brooks |Michelle Forbes|Michael McMillian|Anna Camp|Bailey Noble|Dale Dickey|Rutger Hauer|</Actors>
   <Airs_DayOfWeek>Sunday</Airs_DayOfWeek>
   <Airs_Time>9:00 PM</Airs_Time>
   <ContentRating>TV-MA</ContentRating>
   <FirstAired>2008-09-07</FirstAired>
-  <Genre>|Drama|Fantasy|Mystery|</Genre>
+  <Genre>|Drama|Fantasy|Horror|Mystery|</Genre>
   <IMDB_ID>tt0844441</IMDB_ID>
   <Language>en</Language>
   <Network>HBO</Network>
   <NetworkID></NetworkID>
   <Overview>True Blood is based on The Southern Vampire Mysteries series of novels by Charlaine Harris, detailing the co-existence of vampires and humans in Bon Temps, a fictional, small town in northwestern Louisiana. The series centers on the adventures of Sookie Stackhouse (Anna Paquin), a telepathic waitress with an otherworldly quality.</Overview>
-  <Rating>8.5</Rating>
-  <RatingCount>394</RatingCount>
+  <Rating>8.4</Rating>
+  <RatingCount>409</RatingCount>
   <Runtime>60</Runtime>
   <SeriesID>74645</SeriesID>
   <SeriesName>True Blood</SeriesName>
   <Status>Continuing</Status>
   <added></added>
   <addedBy></addedBy>
-  <banner>graphical/82283-g2.jpg</banner>
+  <banner>text/82283-2.jpg</banner>
   <fanart>fanart/original/82283-8.jpg</fanart>
-  <lastupdated>1394324959</lastupdated>
-  <poster>posters/82283-28.jpg</poster>
+  <lastupdated>1405825599</lastupdated>
+  <poster>posters/82283-43.jpg</poster>
+  <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>SH01075223</zap2it_id>
 </Series>
 <Episode>
@@ -471,6 +472,40 @@ This version was released online around the middle of June 2008.</Overview>
   <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
+  <id>4910353</id>
+  <Combined_episodenumber>14</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>A Farewell to Bon Temps</EpisodeName>
+  <EpisodeNumber>14</EpisodeNumber>
+  <FirstAired>2014-06-16</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Say goodbye to 'True Blood' with this behind-the-scenes special that looks at the series as it enters its 7th and final season.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>6.3</Rating>
+  <RatingCount>3</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode>1</airsbefore_episode>
+  <airsbefore_season>7</airsbefore_season>
+  <filename>episodes/82283/4910353.jpg</filename>
+  <lastupdated>1403044613</lastupdated>
+  <seasonid>33132</seasonid>
+  <seriesid>82283</seriesid>
+  <thumb_added>2014-06-17 14:08:36</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
   <id>371461</id>
   <Combined_episodenumber>1.0</Combined_episodenumber>
   <Combined_season>1</Combined_season>
@@ -489,7 +524,7 @@ This version was released online around the middle of June 2008.</Overview>
   <Overview>Across the country, vampires have “come out of the coffin” following the invention of mass-produced synthetic blood. In Louisiana, Sookie Stack house, a waitress with telepathic abilities, falls under the spell of sexy, 173-year-old vampire Bill Compton whose thoughts she can’t read. After saving Bill from the Rat trays, a pair of ruthless “vampire drainers”, Sookie tests the limits of Bill’ s gratitude when the two are left alone in the dark. Meanwhile, Sookie’ s best friend Tara goes to work for Sam merlette at his bar and grill, while Sookie’ s roguish brother Jason finds himself in hot water when a “fang-banger” with whom he’s been intimate meets a tragic end.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.1</Rating>
-  <RatingCount>168</RatingCount>
+  <RatingCount>171</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Alan Ball</Writer>
   <absolute_number>1</absolute_number>
@@ -520,7 +555,7 @@ This version was released online around the middle of June 2008.</Overview>
   <Overview>After Sookie gets saved by Bill she suffers a lot of injuries and Bill tries to save her &quot;the Vampire way&quot;. The next day her brother is released from police custody and the bodies of Sookie's attackers are found. Later that day Bill goes to visit Sookie's family and gets a not so friendly welcome.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.2</Rating>
-  <RatingCount>130</RatingCount>
+  <RatingCount>133</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Alan Ball|Charlaine Harris</Writer>
   <absolute_number>2</absolute_number>
@@ -551,7 +586,7 @@ This version was released online around the middle of June 2008.</Overview>
   <Overview>Tara visits LaFayette seeking comfort from her woes, Sookie meets some of Bill's rowdy friends and saves them from harm from a human among them, and, Sookie and Hugo visit the Church of the Fellowship of the Sun.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.2</Rating>
-  <RatingCount>117</RatingCount>
+  <RatingCount>120</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Alan Ball</Writer>
   <absolute_number>3</absolute_number>
@@ -582,7 +617,7 @@ This version was released online around the middle of June 2008.</Overview>
   <Overview>One of the barmaids from Merlotte's is murdered and all signs point to Jason as her killer. Also evident is the fact that she had been around vampires, and Sookie knows just where to go to find out who the girl had been with. Bill introduces Sookie to Fangtasia, the biggest vampire bar in Shreveport, and Eric, the oldest vampire in Shreveport. Her search could lead her into territory she never thought she'd cover.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>109</RatingCount>
+  <RatingCount>112</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Brian Buckner</Writer>
   <absolute_number>4</absolute_number>
@@ -613,7 +648,7 @@ This version was released online around the middle of June 2008.</Overview>
   <Overview>Bill wins over Adele's church group with his vivid recollections from the Civil War; Sam reveals his feelings to Sookie; Jason gives vampire blood another shot with the help of Lafayette, and hurts Tara in the process. </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>115</RatingCount>
+  <RatingCount>118</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Alexander Woo</Writer>
   <absolute_number>5</absolute_number>
@@ -644,7 +679,7 @@ This version was released online around the middle of June 2008.</Overview>
   <Overview>Sookie seeks refuge from her friends' and neighbors' inner voices; Jason wrestles with withdrawal symptoms; Tara's mother needs her help; Sam and Tara make a connection.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>118</RatingCount>
+  <RatingCount>121</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Raelle Tucker</Writer>
   <absolute_number>6</absolute_number>
@@ -675,7 +710,7 @@ This version was released online around the middle of June 2008.</Overview>
   <Overview>Sookie's painful childhood revelation spurs Bill into action; Tara agrees to pay for an exorcism for Lettie Mae; Jason travels to Fangtasia in search of V juice.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>116</RatingCount>
+  <RatingCount>119</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Chris Offutt</Writer>
   <absolute_number>7</absolute_number>
@@ -706,7 +741,7 @@ This version was released online around the middle of June 2008.</Overview>
   <Overview>Sookie tries to hold herself together in the wake of another possible tragedy; Tara lashes out at Sookie and Sam; Amy charms the crowd at Merlotte's.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>117</RatingCount>
+  <RatingCount>119</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Alexander Woo</Writer>
   <absolute_number>8</absolute_number>
@@ -737,7 +772,7 @@ This version was released online around the middle of June 2008.</Overview>
   <Overview>Bill must pay a steep price for protecting Sookie; Jason and Amy break a taboo; Tara consults with Miss Jeanette about exorcising her inner demon; Bill enlists an unlikely bodyguard.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>113</RatingCount>
+  <RatingCount>116</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Brian Buckner</Writer>
   <absolute_number>9</absolute_number>
@@ -768,7 +803,7 @@ This version was released online around the middle of June 2008.</Overview>
   <Overview>Sam shares a secret with Sookie; Lettie Mae and Tara celebrate; Jason and Amy debate what to do with Eddie; Bill faces a harsh penalty.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>113</RatingCount>
+  <RatingCount>116</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Chris Offutt</Writer>
   <absolute_number>10</absolute_number>
@@ -799,7 +834,7 @@ This version was released online around the middle of June 2008.</Overview>
   <Overview>Sookie and Sam investigate her most recent vision; Jason helps clean up Amy's mess; Tara becomes angry with Lettie Mae; Lafayette visits a senator.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>110</RatingCount>
+  <RatingCount>113</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Nancy Oliver</Writer>
   <absolute_number>11</absolute_number>
@@ -830,7 +865,7 @@ This version was released online around the middle of June 2008.</Overview>
   <Overview>Sookie finds a link to the string of killings in Bon Temps; Tara wants to make the most of her second chance; Jason finds a new calling; Bill tempts fate; Sam is upset by an encounter with an old acquaintance.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>105</RatingCount>
+  <RatingCount>108</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Raelle Tucker</Writer>
   <absolute_number>12</absolute_number>
@@ -861,7 +896,7 @@ This version was released online around the middle of June 2008.</Overview>
   <Overview>A shocking murder outside Merlotte's has Bon Temps reeling. Meanwhile, Sookie's relationship with Bill is tested when she learns about Jessica, and of his involvement in her uncle's death. Sam recalls a shape-shifting encounter he had with Maryann as a 17-year-old. Jason gets a sudden windfall that allows him to pay for a leadership retreat with the Fellowship of the Sun. Two adversaries find themselves sharing a mysterious dungeon and, possibly, the same fate.</Overview>
   <ProductionCode>201</ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>106</RatingCount>
+  <RatingCount>109</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Alexander Woo</Writer>
   <absolute_number>13</absolute_number>
@@ -892,7 +927,7 @@ This version was released online around the middle of June 2008.</Overview>
   <Overview>Sookie is forced to babysits Jessica, as well as the romantic inconveniences the teen vampire's presence creates. At the Light of Day leadership conference, Jason makes an impression on its ambitious leaders, Steve and Sarah Newlin. While one of his fellow campers, Amanda Jane with her band, the God Rockets, livens the spirits at camp with their hit single, Jesus Asked Me Out Today. Maryann casts her spell on Merlotte's patrons.</Overview>
   <ProductionCode>202</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>112</RatingCount>
+  <RatingCount>115</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Brian Buckner</Writer>
   <absolute_number>14</absolute_number>
@@ -923,7 +958,7 @@ This version was released online around the middle of June 2008.</Overview>
   <Overview>Bill and Eric team up to save Sookie from a mysterious creature. Jason has second thoughts about the Light of Day retreat anti-vampire agenda, but Sarah and Steve counter his doubts with flattery and promises. Sam leaves town after alienating everyone. Jessica heads over to Merlotte's, where a smitten Hoyt falls for her. Tara is attracted to Eggs but is rudely interrupted by a fog.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>116</RatingCount>
+  <RatingCount>119</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Raelle Tucker</Writer>
   <absolute_number>15</absolute_number>
@@ -954,7 +989,7 @@ This version was released online around the middle of June 2008.</Overview>
   <Overview>Bill and Sookie travel to Dallas to carry out Eric's mission; Jason falls victim to a practical joke; Maryann throws a birthday party for Tara.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>122</RatingCount>
+  <RatingCount>125</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Alan Ball</Writer>
   <absolute_number>16</absolute_number>
@@ -985,7 +1020,7 @@ This version was released online around the middle of June 2008.</Overview>
   <Overview>While in Dallas, Sookie connects with one of her own; Jason is rewarded for his hard work at the Light of Day boot camp; Eric shares a secret about his past with Bill. Lafayette is given his job back.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>112</RatingCount>
+  <RatingCount>115</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Nancy Oliver</Writer>
   <absolute_number>17</absolute_number>
@@ -1015,8 +1050,8 @@ This version was released online around the middle of June 2008.</Overview>
   <Language>en</Language>
   <Overview>Sookie embarks on a dangerous mission to locate Godric. Bill is shocked when a vampire from his past resurfaces in Dallas and keeps him hostage. Jason makes some difficult decisions. Andy interrogates Lafayette about his disappearance, Terry intervenes.</Overview>
   <ProductionCode>Sookie soluttautuu Auringon seurakuntaan,</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>109</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>112</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Brian Buckner</Writer>
   <absolute_number>18</absolute_number>
@@ -1047,7 +1082,7 @@ This version was released online around the middle of June 2008.</Overview>
   <Overview>Drunken Andy helps Sam escape from Maryann's clasp. Sookie uncovers the traitor. Sam confront Daphne to discover Maryann is a Maenad. Jason gets caught fleeing the L.O.D. church by Sarah. Eric overhears Barry's message to Bill and goes to Sookie's aid.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>103</RatingCount>
+  <RatingCount>106</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Raelle Tucker</Writer>
   <absolute_number>19</absolute_number>
@@ -1078,7 +1113,7 @@ This version was released online around the middle of June 2008.</Overview>
   <Overview>Sookie's captivity takes an unexpected turn; Sam makes a gruesome discovery at Merlotte's; Tara and Eggs eat a mysterious meal prepared by Maryann; Jason pays off his debt to Eric.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>112</RatingCount>
+  <RatingCount>114</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Alexander Woo</Writer>
   <absolute_number>20</absolute_number>
@@ -1109,7 +1144,7 @@ This version was released online around the middle of June 2008.</Overview>
   <Overview>A wounded Eric plays Sookie for a sucker, to Bill’s dismay, and ends up getting inside her head. Later, Sookie and Jason bond over their recent adventures. Blaming Eggs for Tara’s bruises and bizarre behavior, Lafayette and Lettie Mae try to figure out a way to pry their kin from Maryann’s clutches. Hoyt defends his relationship with Jessica to Maxine, to no avail. Jailed by Bud along with a group of Bon Temps revelers, Sam looks for a way to escape and avoid capture by an increasingly obsessed Maryann. In Dallas, Eric and the vampires defend their recent actions to Nan Flanagan and are shocked when Godric decides to take the fall for their PR disaster.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>101</RatingCount>
+  <RatingCount>104</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Nancy Oliver</Writer>
   <absolute_number>21</absolute_number>
@@ -1140,7 +1175,7 @@ This version was released online around the middle of June 2008.</Overview>
   <Overview>Sookie, Bill and Jason return to a Bon Temps turned upside down by Maryann. Lured to Merlotte’s by Arlene, Sam and Andy find cold comfort in their refuge from a group of bloodthirsty revelers. Bill discovers that traditional vampire techniques don’t work on Maryann; Hoyt and Jessica try to keep a lid on Maxine’s madness; and Sookie tries to push through the darkness consuming Tara. With all hell breaking loose, Jason takes the bull by the horns to rescue Sam, at least for the moment.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>108</RatingCount>
+  <RatingCount>111</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Kate Barnow|Elisabeth Finch</Writer>
   <absolute_number>22</absolute_number>
@@ -1173,7 +1208,7 @@ This version was released online around the middle of June 2008.</Overview>
 Meanwhile, Sookie and Lafayette find that protecting Tara from herself is more difficult than they anticipated; a desperate Sam turns to an unlikely source for assistance; and Jessica tests Hoyt’s allegiance to Maxine.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>110</RatingCount>
+  <RatingCount>112</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Alan Ball</Writer>
   <absolute_number>23</absolute_number>
@@ -1203,8 +1238,8 @@ Meanwhile, Sookie and Lafayette find that protecting Tara from herself is more d
   <Language>en</Language>
   <Overview>Bon Temps reaches a fever pitch as Maryann prepares for her ultimate bestial sacrifice, conscripting Sookie to be Maid of Honor at the bloody nuptials. Meanwhile, Sophie-Anne warns Eric to keep the lid on Bill's inquisitiveness; Jason leads Andy into the heroic abyss; and Hoyt struggles with Maxine's endless stream of insults. Deliberating on what may be his final move to save Sookie and the town, Sam places his trust, and his life, in a most unlikely ally</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>103</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>105</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Alexander Woo</Writer>
   <absolute_number></absolute_number>
@@ -1235,7 +1270,7 @@ Meanwhile, Sookie and Lafayette find that protecting Tara from herself is more d
   <Overview>Sookie turns to Eric for help finding Bill; Andy urges Jason to stay the course; Sam reconnects with his past; Tara seeks refuge from her grief.</Overview>
   <ProductionCode>301</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>178</RatingCount>
+  <RatingCount>181</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Brian Buckner</Writer>
   <absolute_number>25</absolute_number>
@@ -1266,12 +1301,12 @@ Meanwhile, Sookie and Lafayette find that protecting Tara from herself is more d
   <Overview>Russell Edgington, the Vampire King of Mississippi, concocts a plan to consolidate his power. Eric remembers his past; Sam tests the strength of his family bonds; Tara finds an ally in a shady vampire named Franklin Mott.</Overview>
   <ProductionCode>302</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>172</RatingCount>
+  <RatingCount>175</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Raelle Tucker</Writer>
   <absolute_number>26</absolute_number>
   <filename>episodes/82283/1358911.jpg</filename>
-  <lastupdated>1374864007</lastupdated>
+  <lastupdated>1405497430</lastupdated>
   <seasonid>151931</seasonid>
   <seriesid>82283</seriesid>
   <thumb_added></thumb_added>
@@ -1297,12 +1332,12 @@ Meanwhile, Sookie and Lafayette find that protecting Tara from herself is more d
   <Overview>In search of Bill, Sookie heads to Mississippi in the company of Alcide, a werewolf bodyguard. Haunted by visions from his past, Bill makes a surprising pledge of allegiance.</Overview>
   <ProductionCode>303</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>176</RatingCount>
+  <RatingCount>178</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Alexander Woo</Writer>
   <absolute_number>27</absolute_number>
   <filename>episodes/82283/1358921.jpg</filename>
-  <lastupdated>1383864356</lastupdated>
+  <lastupdated>1405497658</lastupdated>
   <seasonid>151931</seasonid>
   <seriesid>82283</seriesid>
   <thumb_added></thumb_added>
@@ -1328,12 +1363,12 @@ Meanwhile, Sookie and Lafayette find that protecting Tara from herself is more d
   <Overview>Sookie joins Alcide at a raucous engagement party for his former fiancee. Bill &quot;procures&quot; dinner for Russell and Lorena. Sam brokers a deal with Tommy and his parents. Andy gets a promotion and draws Jason's attention. Arlene is irked by Jessica's arrival at Merlotte's. Eric is given a deadline to locate Bill. Franklin takes Tara on a road trip.</Overview>
   <ProductionCode>304</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>168</RatingCount>
+  <RatingCount>170</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Kate Barnow|Elisabeth R. Finch</Writer>
   <absolute_number>28</absolute_number>
   <filename>episodes/82283/1583661.jpg</filename>
-  <lastupdated>1383864366</lastupdated>
+  <lastupdated>1405497777</lastupdated>
   <seasonid>151931</seasonid>
   <seriesid>82283</seriesid>
   <thumb_added></thumb_added>
@@ -1359,12 +1394,12 @@ Meanwhile, Sookie and Lafayette find that protecting Tara from herself is more d
   <Overview>Alcide and Sookie turn to an alpha-wolf &quot;packmaster&quot; for advice on how to deal with Russell's minions. Tara considers a proposal from Franklin, who's completed his mission for Russell; Joe Lee breaks his promise to Sam and Tommy; Lafayette learns the meaning of patience from Jesus, his mother's orderly; Jason meets his match in a mysterious girl named Crystal. An heirloom reminds Eric of his past and his ongoing thirst for vengeance.</Overview>
   <ProductionCode>305</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>168</RatingCount>
+  <RatingCount>170</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Nancy Oliver</Writer>
   <absolute_number>29</absolute_number>
   <filename>episodes/82283/1781931.jpg</filename>
-  <lastupdated>1383864378</lastupdated>
+  <lastupdated>1405497922</lastupdated>
   <seasonid>151931</seasonid>
   <seriesid>82283</seriesid>
   <thumb_added></thumb_added>
@@ -1390,12 +1425,12 @@ Meanwhile, Sookie and Lafayette find that protecting Tara from herself is more d
   <Overview>Spurned by Eric, Sookie fears the worst for Bill, whose fate now lies in Lorena's hands. Fueled by a night of bloody passion, Tara executes a desperate plan to stave off Franklin's advances. In Bon Temps, Tommy finds it difficult to leave the family nest; Jessica gets her fix from a Merlotte's customer; and Jason's romance with Crystal hits a snag, as does Lafayette's with Jesus. After revealing his master plan to Eric, Russell pays a visit to Louisiana in order to start executing it.</Overview>
   <ProductionCode>306</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>180</RatingCount>
+  <RatingCount>182</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Alan Ball</Writer>
   <absolute_number>30</absolute_number>
   <filename>episodes/82283/1781941.jpg</filename>
-  <lastupdated>1383864390</lastupdated>
+  <lastupdated>1405498163</lastupdated>
   <seasonid>151931</seasonid>
   <seriesid>82283</seriesid>
   <thumb_added></thumb_added>
@@ -1421,12 +1456,12 @@ Meanwhile, Sookie and Lafayette find that protecting Tara from herself is more d
   <Overview>Sookie's attempt to rescue Bill has unforseen consequences. Meanwhile, Jason seeks the truth about Crystal. Sam must step in when Tommy gets involved in a dog fighting ring, all thanks to Melinda and Joe Lee's quest for money. Eric figures out how to get the information he wants from Sophie-Anne. Debbie plans to get even with Alcide while Russell ignores the Magister.</Overview>
   <ProductionCode>307</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>180</RatingCount>
+  <RatingCount>182</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Brian Buckner</Writer>
   <absolute_number>31</absolute_number>
   <filename>episodes/82283/2091141.jpg</filename>
-  <lastupdated>1383864406</lastupdated>
+  <lastupdated>1405498378</lastupdated>
   <seasonid>151931</seasonid>
   <seriesid>82283</seriesid>
   <thumb_added></thumb_added>
@@ -1452,12 +1487,12 @@ Meanwhile, Sookie and Lafayette find that protecting Tara from herself is more d
   <Overview>While Sookie must rethink her relationship with Bill, he reconciles with Jessica. As Russell decides what he's going to do next, Sophie-Anne relocates her residence. Jason offers a challenge to save Crystal while Ruby Jean pays Lafayette a surprise visit. A new waitress starts at Merlotte. Eric's allegiance to Russell is proven. Alcide's family emergency puts Sookie in a vulnerable position.</Overview>
   <ProductionCode>308</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>188</RatingCount>
+  <RatingCount>191</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Raelle Tucker</Writer>
   <absolute_number>32</absolute_number>
   <filename>episodes/82283/2091151.jpg</filename>
-  <lastupdated>1383864425</lastupdated>
+  <lastupdated>1405498599</lastupdated>
   <seasonid>151931</seasonid>
   <seriesid>82283</seriesid>
   <thumb_added></thumb_added>
@@ -1483,12 +1518,12 @@ Meanwhile, Sookie and Lafayette find that protecting Tara from herself is more d
   <Overview>The Vampire Rights Amendment is close to being ratified so Nan confronts Eric at Fangtasia about the whereabouts of the Magister. Russell vows revenge against all his vampire and human adversaries. Bill discovers the truth about Sookie's true identity. Unexpected help arrives as Jason goes up against Felton and Calvin. Arlene is overcome by a sense of futility about her future while Tara meets up with a new ally and with someone who caused her pain in the past. Sookie meets a new family member. Hoyt addresses his real feelings head on.</Overview>
   <ProductionCode>309</ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>184</RatingCount>
+  <RatingCount>187</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Alexander Woo</Writer>
   <absolute_number>33</absolute_number>
   <filename>episodes/82283/2091161.jpg</filename>
-  <lastupdated>1383864438</lastupdated>
+  <lastupdated>1405498758</lastupdated>
   <seasonid>151931</seasonid>
   <seriesid>82283</seriesid>
   <thumb_added></thumb_added>
@@ -1514,12 +1549,12 @@ Meanwhile, Sookie and Lafayette find that protecting Tara from herself is more d
   <Overview>Sookie is warned about the dangers she will have to deal with. Dark memories surface for Sam. Arlene must ask Holly for help while Jason faces unexpected dealings with Tara and Crystal. Jesus' interest in V's qualities is aroused. Arlene seeks out Holly for help. Russell vows to inflict punishment on his enemies. After precautions, Eric satisfies a wish.</Overview>
   <ProductionCode>310</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>171</RatingCount>
+  <RatingCount>174</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Kate Barnow</Writer>
   <absolute_number>34</absolute_number>
   <filename>episodes/82283/2091171.jpg</filename>
-  <lastupdated>1383864454</lastupdated>
+  <lastupdated>1405498926</lastupdated>
   <seasonid>151931</seasonid>
   <seriesid>82283</seriesid>
   <thumb_added></thumb_added>
@@ -1545,12 +1580,12 @@ Meanwhile, Sookie and Lafayette find that protecting Tara from herself is more d
   <Overview>Bill wants to earn back Sookie's trust but once again brings her close to danger. Eric tempts Russell with &quot;ultimate vampire dream&quot;. Jason tries to comprehend what he's learned about Crystal. Sam alienates everyone but Tara. Jessica and Hoyt take their romance up a notch. Lafayette struggles with new demons.</Overview>
   <ProductionCode>311</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>162</RatingCount>
+  <RatingCount>165</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Nancy Oliver</Writer>
   <absolute_number>35</absolute_number>
   <filename>episodes/82283/2091181.jpg</filename>
-  <lastupdated>1383864465</lastupdated>
+  <lastupdated>1405499083</lastupdated>
   <seasonid>151931</seasonid>
   <seriesid>82283</seriesid>
   <thumb_added></thumb_added>
@@ -1576,12 +1611,12 @@ Meanwhile, Sookie and Lafayette find that protecting Tara from herself is more d
   <Overview>Eric plots his revenge against Russell; Sookie considers a new life without Bill; Tara discovers some surprising news about Sam; Jason finds a new calling; Lafayette turns to Jesus for help; Hoyt hopes for a future with Jessica.</Overview>
   <ProductionCode>312</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>174</RatingCount>
+  <RatingCount>177</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Alan Ball</Writer>
   <absolute_number>36</absolute_number>
   <filename>episodes/82283/2091191.jpg</filename>
-  <lastupdated>1383864483</lastupdated>
+  <lastupdated>1405499220</lastupdated>
   <seasonid>151931</seasonid>
   <seriesid>82283</seriesid>
   <thumb_added></thumb_added>
@@ -1607,12 +1642,12 @@ Meanwhile, Sookie and Lafayette find that protecting Tara from herself is more d
   <Overview>Sookie journeys away from Bon Temps; Eric and Bill try to win back the human public; Jason learns that no good deed goes unpunished; Tara finds refuge in close quarters; Sam bonds with his own; Hoyt and Jessica debate the dinner menu; Jesus urges Lafayette to join a coven; and Terry tries to alleviate Arlene’s fears about the baby.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>182</RatingCount>
+  <RatingCount>184</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Alexander Woo</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82283/3278981.jpg</filename>
-  <lastupdated>1383864518</lastupdated>
+  <lastupdated>1405499451</lastupdated>
   <seasonid>371891</seasonid>
   <seriesid>82283</seriesid>
   <thumb_added></thumb_added>
@@ -1637,13 +1672,13 @@ Meanwhile, Sookie and Lafayette find that protecting Tara from herself is more d
   <Language>en</Language>
   <Overview>Sookie adjusts to Bon Temps' new realities; Bill reveals pieces of his past; Eric crashes a witches' meeting; Jason gets his wounds licked; Andy struggles with his addiction; Sam learns of Luna's special talents; Jessica satisfies her blood cravings; and Arlene witnesses strange behavior from her family.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>167</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>168</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Brian Bucker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82283/3463961.jpg</filename>
-  <lastupdated>1383864539</lastupdated>
+  <lastupdated>1405499632</lastupdated>
   <seasonid>371891</seasonid>
   <seriesid>82283</seriesid>
   <thumb_added></thumb_added>
@@ -1669,12 +1704,12 @@ Meanwhile, Sookie and Lafayette find that protecting Tara from herself is more d
   <Overview>Sookie makes a deal with Eric and reconnects with Alcide; Bill punishes an errant vampire and counsels a guilt-ridden Jessica; Jason is cast as a reluctant savior; Tommy eyes a scam and alienates Sam; Marnie flexes her newfound powers; Pam delivers an ultimatum to Lafayette, Tara and Jesus; Eric spoils Sookie's faerie reunion. </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>169</RatingCount>
+  <RatingCount>171</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Alan Ball</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82283/4055451.jpg</filename>
-  <lastupdated>1383864563</lastupdated>
+  <lastupdated>1399225188</lastupdated>
   <seasonid>371891</seasonid>
   <seriesid>82283</seriesid>
   <thumb_added></thumb_added>
@@ -1700,12 +1735,12 @@ Meanwhile, Sookie and Lafayette find that protecting Tara from herself is more d
   <Overview>Alcide helps Sookie hunt for Eric; Marnie searches for guidance to break a spell; Bill discovers a common bond with the Bellefleurs; Jason begs for liberation from Hotshot; Sam penetrates Luna's inner circle; Arlene sees the writing on the wall; Tommy returns to his roots.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>170</RatingCount>
+  <RatingCount>172</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Nancy Oliver</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82283/4055461.jpg</filename>
-  <lastupdated>1383864584</lastupdated>
+  <lastupdated>1399225218</lastupdated>
   <seasonid>371891</seasonid>
   <seriesid>82283</seriesid>
   <thumb_added></thumb_added>
@@ -1731,12 +1766,12 @@ Meanwhile, Sookie and Lafayette find that protecting Tara from herself is more d
   <Overview>Sookie nurtures Eric; Bill gets involved personally in the necromancy crisis; Pam takes the veil; Sam becomes Tommy's accomplice; Arlene and Terry look to religion to solve their problem; Jesus and Lafayette head to Mexico to harness a shaman's power; Jason convalesces.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>154</RatingCount>
+  <RatingCount>157</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Mark Hudis</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82283/4055471.jpg</filename>
-  <lastupdated>1383864600</lastupdated>
+  <lastupdated>1399225239</lastupdated>
   <seasonid>371891</seasonid>
   <seriesid>82283</seriesid>
   <thumb_added></thumb_added>
@@ -1762,12 +1797,12 @@ Meanwhile, Sookie and Lafayette find that protecting Tara from herself is more d
   <Overview>Sookie searches for Jason under a full moon; Marnie connects with spirits of the past; Arlene and Terry cope with a suspicious inferno; Debbie urges Alcide to join a new werewolf community; Tommy trades places with Sam; Lafayette feels the spirit in Mexico; Eric surrenders to his King's will.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>164</RatingCount>
+  <RatingCount>167</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Alan Ball|Charlaine Harris|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82283/4055481.jpg</filename>
-  <lastupdated>1383864614</lastupdated>
+  <lastupdated>1399225262</lastupdated>
   <seasonid>371891</seasonid>
   <seriesid>82283</seriesid>
   <thumb_added></thumb_added>
@@ -1793,12 +1828,12 @@ Meanwhile, Sookie and Lafayette find that protecting Tara from herself is more d
   <Overview>With Marnie empowered by spirits of the dead, Bill issues an unpopular order to save vampires from the light. Eric embraces his amnesia; Luna discovers Sam’s not the man she thought he was; Lafayette expands his consciousness; Pam gets a body peel; Andy’s date with Holly doesn’t go as planned; Jessica has doubts about her future with Hoyt; Alcide and Debbie join a new pack.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>145</RatingCount>
+  <RatingCount>148</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Alexander Woo</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82283/4055491.jpg</filename>
-  <lastupdated>1383864628</lastupdated>
+  <lastupdated>1399808745</lastupdated>
   <seasonid>371891</seasonid>
   <seriesid>82283</seriesid>
   <thumb_added></thumb_added>
@@ -1824,12 +1859,12 @@ Meanwhile, Sookie and Lafayette find that protecting Tara from herself is more d
   <Overview>Bill and Marnie get ready for an open confrontation. The King secures the loyalty of Sookie and Eric. Jason is conflicted emotionally. A spirit manipulates Lafayette for its own purposes. Sam must deal with Marcus who just happens to be Luna's ex.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>157</RatingCount>
+  <RatingCount>159</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Alan Ball | Charlaine Harris</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82283/4081361.jpg</filename>
-  <lastupdated>1383864645</lastupdated>
+  <lastupdated>1399808768</lastupdated>
   <seasonid>371891</seasonid>
   <seriesid>82283</seriesid>
   <thumb_added></thumb_added>
@@ -1855,12 +1890,12 @@ Meanwhile, Sookie and Lafayette find that protecting Tara from herself is more d
   <Overview>Sookie tries to figure out how to fit both Bill and Eric into her life. Lafayette needs Jesus' help to rid him of the spirit that has taken over. Alcide is called upon by Marcus to help render assistance. Opposing ideas bring Bill into direct conflict with Nan. Marnie secretly plans out the strategy for her next step against the vampires in spite of Tara and Holly's apprehension about the outcome.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>154</RatingCount>
+  <RatingCount>156</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Brian Buckner</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82283/4081362.jpg</filename>
-  <lastupdated>1383864666</lastupdated>
+  <lastupdated>1399808788</lastupdated>
   <seasonid>371891</seasonid>
   <seriesid>82283</seriesid>
   <thumb_added></thumb_added>
@@ -1886,12 +1921,12 @@ Meanwhile, Sookie and Lafayette find that protecting Tara from herself is more d
   <Overview>Bill needs Sookie to use her powers which results in breaking a spell. Jessica is implored to glamour Jason. Terry tries to help Andy with an intervention. Alcide reassesses his loyalties. Bill organizes the vampires to attack Marnie's Moon Goddess Emporium while Jesus, Lafayette, Sookie and Jason attempt to free Tara and Holly.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>158</RatingCount>
+  <RatingCount>160</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Nancy Oliver</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82283/4081363.jpg</filename>
-  <lastupdated>1383864687</lastupdated>
+  <lastupdated>1399808809</lastupdated>
   <seasonid>371891</seasonid>
   <seriesid>82283</seriesid>
   <thumb_added></thumb_added>
@@ -1917,12 +1952,12 @@ Meanwhile, Sookie and Lafayette find that protecting Tara from herself is more d
   <Overview>It's up to Sookie and her powers to keep Bill, Eric and Pam from harm. While Jesus casts a spell, Lafayette is totally absorbed by the past. Sams gets even with Marcus and Alcide deals with Debbie head on. Andy's foray into the forest is filled with deep, overwhelming emotion.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>159</RatingCount>
+  <RatingCount>162</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Mark Hudis</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82283/4081364.jpg</filename>
-  <lastupdated>1383864705</lastupdated>
+  <lastupdated>1399808829</lastupdated>
   <seasonid>371891</seasonid>
   <seriesid>82283</seriesid>
   <thumb_added></thumb_added>
@@ -1948,12 +1983,12 @@ Meanwhile, Sookie and Lafayette find that protecting Tara from herself is more d
   <Overview>The souls of the dead rise up in Bon Temps. Sookie makes some important associations. Jesus and Lafayette's connection is imperiled. Sam and Luna imagine a happy and perfect future. Sookie and Tara are confronted by Debbie.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>170</RatingCount>
+  <RatingCount>172</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Raelle Tucker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82283/4081365.jpg</filename>
-  <lastupdated>1383864720</lastupdated>
+  <lastupdated>1405499824</lastupdated>
   <seasonid>371891</seasonid>
   <seriesid>82283</seriesid>
   <thumb_added></thumb_added>
@@ -1979,12 +2014,12 @@ Meanwhile, Sookie and Lafayette find that protecting Tara from herself is more d
   <Overview>Sookie and Lafayette are reeling from Tara's shooting, but there is also the matter of cleaning up Debbie Pelt's blood. Meanwhile, Bill and Eric face a new threat from the Authority; Marcus' disappearance sends his wolf pack after Sam; Jessica parties with her human peers; Jason has a reunion with Rev. Steve Newlin; a visit from Terry's war buddy brings back his PTSD; and Alcide warns Sookie about Russell Edgington's return.</Overview>
   <ProductionCode>#5.1</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>138</RatingCount>
+  <RatingCount>142</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Alan Ball</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82283/4242348.jpg</filename>
-  <lastupdated>1385491182</lastupdated>
+  <lastupdated>1405500220</lastupdated>
   <seasonid>482849</seasonid>
   <seriesid>82283</seriesid>
   <thumb_added></thumb_added>
@@ -2010,12 +2045,12 @@ Meanwhile, Sookie and Lafayette find that protecting Tara from herself is more d
   <Overview>Eric and Bill try to keep their wits about them when they're put through the interrogation wringer at the Vampire Authority headquarters in New Orleans. Meanwhile, Pam recalls her first meeting with Eric in early 20th-century San Francisco; Alcide turns his back on Marcus' wolf pack; Emma's grandmother comes between Sam and Luna; Steve Newlin wants what he thinks belongs to Jessica; and Jason's womanizing comes back to haunt him.</Overview>
   <ProductionCode>#5.2</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>125</RatingCount>
+  <RatingCount>129</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Alan Ball</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82283/4242349.jpg</filename>
-  <lastupdated>1385491217</lastupdated>
+  <lastupdated>1405500379</lastupdated>
   <seasonid>482849</seasonid>
   <seriesid>82283</seriesid>
   <thumb_added></thumb_added>
@@ -2041,12 +2076,12 @@ Meanwhile, Sookie and Lafayette find that protecting Tara from herself is more d
   <Overview>The search for Debbie Pelt becomes official when her parents come to Bon Temps to ask Andy to look for her, but Sookie is afraid of what they—and Alcide—might find out. Meanwhile, Roman mulls Bill and Eric's proposal to do away with Russell Edgington, though Salome has her own separate vetting process; and Jason has an uneasy reunion with an influential teacher from high school.</Overview>
   <ProductionCode>#5.3</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>112</RatingCount>
+  <RatingCount>116</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Alan Ball</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82283/4242350.jpg</filename>
-  <lastupdated>1385491232</lastupdated>
+  <lastupdated>1405500528</lastupdated>
   <seasonid>482849</seasonid>
   <seriesid>82283</seriesid>
   <thumb_added></thumb_added>
@@ -2072,12 +2107,12 @@ Meanwhile, Sookie and Lafayette find that protecting Tara from herself is more d
   <Overview>Pam tries to be a good maker for her new progeny, but wonders what's to become of the relationship with her own. Meanwhile, Bill and Eric try to find out who else knew about Russell Edgington's disposal; Roman searches for a traitor in his inner circle; Sam is visited by some old friends; Terry and Patrick hunt for a former comrade; Alcide breaks some bad news to the Pelts; and a judge takes Andy and Jason to an exclusive club.</Overview>
   <ProductionCode>#5.4</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>116</RatingCount>
+  <RatingCount>120</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Alexander Woo</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82283/4242351.jpg</filename>
-  <lastupdated>1385491250</lastupdated>
+  <lastupdated>1405500629</lastupdated>
   <seasonid>482849</seasonid>
   <seriesid>82283</seriesid>
   <thumb_added></thumb_added>
@@ -2103,12 +2138,12 @@ Meanwhile, Sookie and Lafayette find that protecting Tara from herself is more d
   <Overview>With time running short, Bill and Eric enlist Sookie to probe for clues on Russell's hiding place. Unable to deal with the demon magic inside him, Lafayette calls out to Jesus’ spirit for help. Patrick Devins and Terry are held hostage in the bunker of their Iraq War buddy Brian Eller. Jason wakes to a disturbing dream; Jessica gives Tara advice on adjusting to vampire life; Sam visits Luna with bad news.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>123</RatingCount>
+  <RatingCount>126</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Angela Robinson</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82283/4283826.jpg</filename>
-  <lastupdated>1385491267</lastupdated>
+  <lastupdated>1405500721</lastupdated>
   <seasonid>482849</seasonid>
   <seriesid>82283</seriesid>
   <thumb_added></thumb_added>
@@ -2134,12 +2169,12 @@ Meanwhile, Sookie and Lafayette find that protecting Tara from herself is more d
   <Overview>The aftermath at the asylum leaves Sookie with an eerie sense of foreboding. At Fangtasia, Pam breaks up a vamp-girl fight, praising Tara for her tenacity. Lafayette visits Ruby Jean, who also received a disturbing message from Jesus. Fearing for his family’s safety, Terry blames his curse for his troubles with Arlene. Alcide challenges J.D.; Sam offers to help Andy investigate the recent shootings; Roman lays out his plans to take out Russell.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>119</RatingCount>
+  <RatingCount>123</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Alan Ball</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82283/4292793.jpg</filename>
-  <lastupdated>1383864886</lastupdated>
+  <lastupdated>1405500840</lastupdated>
   <seasonid>482849</seasonid>
   <seriesid>82283</seriesid>
   <thumb_added></thumb_added>
@@ -2165,12 +2200,12 @@ Meanwhile, Sookie and Lafayette find that protecting Tara from herself is more d
   <Overview>Salome reveals her true allegiances while Bill and Eric get a powerful taste of sacred blood; Sookie to wonders what her life would be like without faerie powers; Sam sniffs out several shifter shooters; Hoyt finds camaraderie in a new group of friends; Alcide prepares for the worst in his face-off with J.D.; Andy attempts to reconnect with Bud; Lafayette finds an unlikely ally searching for Jesus’ body in Mexico; Lettie Mae pays Tara a visit; and Arlene takes a sentimental journey as her concerns towards Terry deepen.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>117</RatingCount>
+  <RatingCount>121</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Brian Buckner</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82283/4292794.jpg</filename>
-  <lastupdated>1385491388</lastupdated>
+  <lastupdated>1405500979</lastupdated>
   <seasonid>482849</seasonid>
   <seriesid>82283</seriesid>
   <thumb_added></thumb_added>
@@ -2196,12 +2231,12 @@ Meanwhile, Sookie and Lafayette find that protecting Tara from herself is more d
   <Overview>The Authority revels in a new direction; Sookie and Jason visit the site of their parents’ deaths; Luna gets stuck on Sam.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>118</RatingCount>
+  <RatingCount>122</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Mark Hudis</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82283/4292795.jpg</filename>
-  <lastupdated>1385491428</lastupdated>
+  <lastupdated>1405501067</lastupdated>
   <seasonid>482849</seasonid>
   <seriesid>82283</seriesid>
   <thumb_added></thumb_added>
@@ -2227,12 +2262,12 @@ Meanwhile, Sookie and Lafayette find that protecting Tara from herself is more d
   <Overview>The start of the vampire holy war is a cause for celebration for Salome and the Chancellors, but Eric may decide to go AWOL; Sookie learns more about her parents' death from a deceased relative; Andy and Jason investigate the rise in shifter murders; Alcide recalls his induction into the pack; Arlene is drawn into Terry and Patrick's strange journey; Steve Newlin gets a new pet.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>120</RatingCount>
+  <RatingCount>124</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Raelle Tucker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82283/4292796.jpg</filename>
-  <lastupdated>1385491446</lastupdated>
+  <lastupdated>1405501202</lastupdated>
   <seasonid>482849</seasonid>
   <seriesid>82283</seriesid>
   <thumb_added></thumb_added>
@@ -2257,13 +2292,13 @@ Meanwhile, Sookie and Lafayette find that protecting Tara from herself is more d
   <Language>en</Language>
   <Overview>With vampire-on-human attacks increasing, the Authority attempts to woo public favor. Meanwhile, Nora tries to convert Eric to Lilith’s gospel. Jason finds a mysterious scroll; Elijah, the new vampire sheriff of Area 5, pushes Pam and Tara to obey a new mandate; Sam and Luna search for Emma; Russell seeks a higher calling.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>114</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>118</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Alexander Woo</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82283/4292797.jpg</filename>
-  <lastupdated>1388922742</lastupdated>
+  <lastupdated>1405501371</lastupdated>
   <seasonid>482849</seasonid>
   <seriesid>82283</seriesid>
   <thumb_added></thumb_added>
@@ -2289,12 +2324,12 @@ Meanwhile, Sookie and Lafayette find that protecting Tara from herself is more d
   <Overview> Sookie probes an ancient family secret with help from a faerie elder; Jessica is an unwilling participant in Bill's ongoing religious conversion; Alcide reconnects with his father; the military uses a video of Russell and Steve Newlin as ammunition; Sam and Luna hitch a ride into the Authority.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>110</RatingCount>
+  <RatingCount>114</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Angela Robinson</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82283/4292798.jpg</filename>
-  <lastupdated>1385491474</lastupdated>
+  <lastupdated>1405501535</lastupdated>
   <seasonid>482849</seasonid>
   <seriesid>82283</seriesid>
   <thumb_added></thumb_added>
@@ -2320,12 +2355,12 @@ Meanwhile, Sookie and Lafayette find that protecting Tara from herself is more d
   <Overview>Eric makes one last attempt to thwart the Authority and save Bill from losing his humanity. Meanwhile, Alcide prepares for another battle with JD; Sam and Luna try to escape the Authority; and Andy deals with the fallout of a pact.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>101</RatingCount>
+  <RatingCount>106</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Alan Ball</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82283/4292799.jpg</filename>
-  <lastupdated>1385491488</lastupdated>
+  <lastupdated>1405501800</lastupdated>
   <seasonid>482849</seasonid>
   <seriesid>82283</seriesid>
   <thumb_added></thumb_added>
@@ -2351,12 +2386,12 @@ Meanwhile, Sookie and Lafayette find that protecting Tara from herself is more d
   <Overview>A group flees the Authority compound in the wake of Bill's reincarnation; Sam, Luna and Emma evade guards; Alcide learns about the packmaster job; Andy parents newborn human-faerie hybrids; Governor Truman Burrell vows open season on vampires.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>65</RatingCount>
+  <RatingCount>73</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>Raelle Tucker</Writer>
   <absolute_number>61</absolute_number>
   <filename>episodes/82283/4445552.jpg</filename>
-  <lastupdated>1391077656</lastupdated>
+  <lastupdated>1404021457</lastupdated>
   <seasonid>496665</seasonid>
   <seriesid>82283</seriesid>
   <thumb_added></thumb_added>
@@ -2381,13 +2416,13 @@ Meanwhile, Sookie and Lafayette find that protecting Tara from herself is more d
   <Language>en</Language>
   <Overview>Jason and Sookie meet a long-lost relative; Tara is victimized by a new government weapon; Eric attempts to thwart the governor's anti-vampire initiatives; Sookie is drawn to a stranger; Alcide and Martha confront Sam about Emma's future.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>60</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>68</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>Angela Robinson</Writer>
   <absolute_number>62</absolute_number>
   <filename>episodes/82283/4459806.jpg</filename>
-  <lastupdated>1383863854</lastupdated>
+  <lastupdated>1404021481</lastupdated>
   <seasonid>496665</seasonid>
   <seriesid>82283</seriesid>
   <thumb_added></thumb_added>
@@ -2412,13 +2447,13 @@ Meanwhile, Sookie and Lafayette find that protecting Tara from herself is more d
   <Language>en</Language>
   <Overview>Eric is irate about Burrell's aggression towards vampires; Bill enlists an innovator to synthesize a new type of blood; Sookie begins to learn why Warlow is after her; Sam receives unexpected help from Nicole; Steve Newlin struggles with his past.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>58</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>66</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>Mark Hudis</Writer>
   <absolute_number>63</absolute_number>
   <filename>episodes/82283/4489817.jpg</filename>
-  <lastupdated>1383863894</lastupdated>
+  <lastupdated>1404021501</lastupdated>
   <seasonid>496665</seasonid>
   <seriesid>82283</seriesid>
   <thumb_added></thumb_added>
@@ -2443,13 +2478,13 @@ Meanwhile, Sookie and Lafayette find that protecting Tara from herself is more d
   <Language>en</Language>
   <Overview>Sookie confronts her attraction to Ben; Eric battles Burrell's anti-vampire initiatives; Andy's daughters keep dangerous company; Sam and Nicole make a connection; Bill tasks Takahashi with synthesizing a new kind of blood.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>62</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>70</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>Alexander Woo</Writer>
   <absolute_number>64</absolute_number>
   <filename>episodes/82283/4510060.jpg</filename>
-  <lastupdated>1383863931</lastupdated>
+  <lastupdated>1404021518</lastupdated>
   <seasonid>496665</seasonid>
   <seriesid>82283</seriesid>
   <thumb_added></thumb_added>
@@ -2475,12 +2510,12 @@ Meanwhile, Sookie and Lafayette find that protecting Tara from herself is more d
   <Overview>Sookie asks Lafayette to summon her parents; Eric and Tara take drastic measures when Pam finds herself in dangerous territory; Sarah Newlin reconnects with Jason; Jessica seeks atonement.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>64</RatingCount>
+  <RatingCount>71</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>Angela Robinson</Writer>
   <absolute_number>65</absolute_number>
   <filename>episodes/82283/4517749.jpg</filename>
-  <lastupdated>1383863985</lastupdated>
+  <lastupdated>1404021536</lastupdated>
   <seasonid>496665</seasonid>
   <seriesid>82283</seriesid>
   <thumb_added></thumb_added>
@@ -2505,13 +2540,13 @@ Meanwhile, Sookie and Lafayette find that protecting Tara from herself is more d
   <Language>en</Language>
   <Overview>Bill seeks advice from Lillith about the human-vampire crisis; Eric and others look into Vamp Camp; Sam makes a decision about Emma; Andy names his faerie daughter; Arlene has a solution.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>62</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>69</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>Daniel Kenneth</Writer>
   <absolute_number>66</absolute_number>
   <filename>episodes/82283/4533065.jpg</filename>
-  <lastupdated>1383864034</lastupdated>
+  <lastupdated>1404982073</lastupdated>
   <seasonid>496665</seasonid>
   <seriesid>82283</seriesid>
   <thumb_added>2013-07-15 03:29:59</thumb_added>
@@ -2536,13 +2571,13 @@ Meanwhile, Sookie and Lafayette find that protecting Tara from herself is more d
   <Language>en</Language>
   <Overview>Eric tries to save an ailing Nora; Sam ignores Alcide's warning and returns to Bon Temps; Jessica shows her gratitude to James; Sarah exacts a measure of revenge on Jason.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>55</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>63</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>Kate Barrow</Writer>
   <absolute_number>67</absolute_number>
   <filename>episodes/82283/4544912.jpg</filename>
-  <lastupdated>1383864076</lastupdated>
+  <lastupdated>1404982087</lastupdated>
   <seasonid>496665</seasonid>
   <seriesid>82283</seriesid>
   <thumb_added>2013-07-29 04:01:42</thumb_added>
@@ -2567,13 +2602,13 @@ Meanwhile, Sookie and Lafayette find that protecting Tara from herself is more d
   <Language>en</Language>
   <Overview>Sookie must make a decision about brokering a deal between Warlow and Bill; Jason gets to know Violet; Sarah goes to extremes to keep Tru Blood flowing; Alcide makes a decision that impacts Sam and Nicole.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>64</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>72</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>Robin Veith</Writer>
   <absolute_number>68</absolute_number>
   <filename>episodes/82283/4549489.jpg</filename>
-  <lastupdated>1388922005</lastupdated>
+  <lastupdated>1404982107</lastupdated>
   <seasonid>496665</seasonid>
   <seriesid>82283</seriesid>
   <thumb_added>2013-08-05 05:41:30</thumb_added>
@@ -2598,13 +2633,13 @@ Meanwhile, Sookie and Lafayette find that protecting Tara from herself is more d
   <Language>en</Language>
   <Overview>Bill tries to get Warlow away from the faerie plain; Eric arrives at vamp camp; friends and family remember a fallen neighbor in Bon Temps; Bill feels the pull of Lilith's sirens.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>60</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>69</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>Brian Buckner</Writer>
   <absolute_number>69</absolute_number>
   <filename>episodes/82283/4549490.jpg</filename>
-  <lastupdated>1392566965</lastupdated>
+  <lastupdated>1404982122</lastupdated>
   <seasonid>496665</seasonid>
   <seriesid>82283</seriesid>
   <thumb_added>2013-08-05 05:45:27</thumb_added>
@@ -2630,12 +2665,12 @@ Meanwhile, Sookie and Lafayette find that protecting Tara from herself is more d
   <Overview>Bill discovers the price of salvation; Jason senses a vampire attraction; Sookie examines her future with Warlow; a new crisis threatens the humans and vampires of Bon Temps.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>59</RatingCount>
+  <RatingCount>70</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer></Writer>
   <absolute_number>70</absolute_number>
   <filename>episodes/82283/4549491.jpg</filename>
-  <lastupdated>1392566925</lastupdated>
+  <lastupdated>1404982139</lastupdated>
   <seasonid>496665</seasonid>
   <seriesid>82283</seriesid>
   <thumb_added>2013-08-16 05:54:52</thumb_added>
@@ -2650,13 +2685,199 @@ Meanwhile, Sookie and Lafayette find that protecting Tara from herself is more d
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
+  <Director>Stephen Moyer</Director>
+  <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Jesus Gonna Be Here</EpisodeName>
   <EpisodeNumber>1</EpisodeNumber>
-  <FirstAired>2014-06-15</FirstAired>
+  <FirstAired>2014-06-22</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt3058984</IMDB_ID>
+  <Language>en</Language>
+  <Overview>A band of rogue H-vamps attacks Bon Temps; Sookie seeks refuge from accusations; Bill gets help from an unexpected source.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.2</Rating>
+  <RatingCount>31</RatingCount>
+  <SeasonNumber>7</SeasonNumber>
+  <Writer>Angela Robinson</Writer>
+  <absolute_number>71</absolute_number>
+  <filename>episodes/82283/4730957.jpg</filename>
+  <lastupdated>1405014006</lastupdated>
+  <seasonid>569483</seasonid>
+  <seriesid>82283</seriesid>
+  <thumb_added>2014-05-02 17:17:15</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4851178</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>7</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Howard Deutch</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>I Found You</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2014-06-29</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3362366</IMDB_ID>
+  <Language>en</Language>
+  <Overview>A group of hostages seek liberation; Sookie and Jason visit a neighboring town in search of clues; Lettie Mae turns to Willa to channel her family past; Vince stirs up his fellow vigilantes; Pam searches for her maker.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>28</RatingCount>
+  <SeasonNumber>7</SeasonNumber>
+  <Writer>Kate Barnow</Writer>
+  <absolute_number>72</absolute_number>
+  <filename>episodes/82283/4851178.jpg</filename>
+  <lastupdated>1405014141</lastupdated>
+  <seasonid>569483</seasonid>
+  <seriesid>82283</seriesid>
+  <thumb_added>2014-06-30 06:25:30</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4851179</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>7</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Lee Rose</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Fire in the Hole</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2014-07-06</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3500612</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Sookie hatches a dangerous plan to take down the H-Vamps, even as Vince and his armed vigilantes pose an equally serious threat. Lafayette gets high with James; Jason eyes a family future with Violet; Willa is forced to find a new place to stay; Sarah Newlin sheds her past. Pam offers Eric a compelling reason to return to Louisiana – and be the vampire he used to be.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.2</Rating>
+  <RatingCount>25</RatingCount>
+  <SeasonNumber>7</SeasonNumber>
+  <Writer>Brian Buckner</Writer>
+  <absolute_number>73</absolute_number>
+  <filename>episodes/82283/4851179.jpg</filename>
+  <lastupdated>1404767705</lastupdated>
+  <seasonid>569483</seasonid>
+  <seriesid>82283</seriesid>
+  <thumb_added>2014-07-07 04:30:06</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4851180</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>7</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gregg Fienberg</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Death is Not the End</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2014-07-13</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3500614</IMDB_ID>
+  <Language>en</Language>
+  <Overview>In the aftermath of yet another bloodbath, Sam, Sookie and Jason find themselves the bearers of bad news in Bon Temps and beyond. Pam recalls the events that led her and Eric to Shreveport and Fangtasia. Bill and Jessica get nourishment from unexpected sources. Following a new lead, Sookie enlists a band of vampires and humans to track down the H-Vamps.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.2</Rating>
+  <RatingCount>21</RatingCount>
+  <SeasonNumber>7</SeasonNumber>
+  <Writer>Daniel Kenneth</Writer>
+  <absolute_number>74</absolute_number>
+  <filename>episodes/82283/4851180.jpg</filename>
+  <lastupdated>1405397283</lastupdated>
+  <seasonid>569483</seasonid>
+  <seriesid>82283</seriesid>
+  <thumb_added>2014-07-10 04:06:55</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4851181</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>7</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Howard Deutch</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Lost Cause</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2014-07-20</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3500616</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Exhausted from her recent travails, Sookie finds herself the unwilling host of a festive mainstreaming party in Bon Temps. In search of an elusive adversary, Eric and Pam head to Dallas and attend a gala fundraiser. Andy makes a life-changing decision; Jessica and James reach a crossroads; Bill loses himself in remembrance of human days.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>7</SeasonNumber>
+  <Writer>Craig Chester</Writer>
+  <absolute_number>75</absolute_number>
+  <filename>episodes/82283/4851181.jpg</filename>
+  <lastupdated>1405693592</lastupdated>
+  <seasonid>569483</seasonid>
+  <seriesid>82283</seriesid>
+  <thumb_added>2014-07-15 13:24:44</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4851184</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>7</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Angela Robinson</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Karma</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2014-07-27</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3500622</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Sookie makes a shocking discovery; Eric and Pam forge an unlikely alliance.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>7</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>76</absolute_number>
+  <filename></filename>
+  <lastupdated>1405201824</lastupdated>
+  <seasonid>569483</seasonid>
+  <seriesid>82283</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4851185</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>7</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Simon Jayes</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>One Last Time</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2014-08-03</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3500620</IMDB_ID>
   <Language>en</Language>
   <Overview></Overview>
   <ProductionCode></ProductionCode>
@@ -2664,9 +2885,102 @@ Meanwhile, Sookie and Lafayette find that protecting Tara from herself is more d
   <RatingCount>0</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer></Writer>
-  <absolute_number></absolute_number>
+  <absolute_number>77</absolute_number>
   <filename></filename>
-  <lastupdated>1387946876</lastupdated>
+  <lastupdated>1405201841</lastupdated>
+  <seasonid>569483</seasonid>
+  <seriesid>82283</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4851186</id>
+  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_season>7</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Jesse Warn</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Getting Closer... To the Ground</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2014-08-10</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3500626</IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>7</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>78</absolute_number>
+  <filename></filename>
+  <lastupdated>1405201862</lastupdated>
+  <seasonid>569483</seasonid>
+  <seriesid>82283</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4851187</id>
+  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_season>7</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Howard Deutch</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Love is to Die</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2014-08-17</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3500624</IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>7</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>79</absolute_number>
+  <filename></filename>
+  <lastupdated>1405201885</lastupdated>
+  <seasonid>569483</seasonid>
+  <seriesid>82283</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4851188</id>
+  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_season>7</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Scott Winant</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Thank You</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2014-08-24</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3500630</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Series Finale</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>7</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>80</absolute_number>
+  <filename></filename>
+  <lastupdated>1405201905</lastupdated>
   <seasonid>569483</seasonid>
   <seriesid>82283</seriesid>
   <thumb_added></thumb_added>

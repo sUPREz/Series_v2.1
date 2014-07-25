@@ -12,8 +12,8 @@
   <Network>ABC</Network>
   <NetworkID></NetworkID>
   <Overview>This Chicago-set sitcom follows the intertwined lives of six young urbanites trying to learn the ropes of adulthood. Through breakups and whatever other curve-balls life throws them, the pals stick together.</Overview>
-  <Rating>8.4</Rating>
-  <RatingCount>59</RatingCount>
+  <Rating>8.3</Rating>
+  <RatingCount>61</RatingCount>
   <Runtime>30</Runtime>
   <SeriesID>78574</SeriesID>
   <SeriesName>Happy Endings</SeriesName>
@@ -22,8 +22,9 @@
   <addedBy>235</addedBy>
   <banner>graphical/167571-g4.jpg</banner>
   <fanart>fanart/original/167571-1.jpg</fanart>
-  <lastupdated>1387846592</lastupdated>
+  <lastupdated>1405742648</lastupdated>
   <poster>posters/167571-8.jpg</poster>
+  <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>SH01279666</zap2it_id>
 </Series>
 <Episode>
@@ -317,7 +318,7 @@
   <Overview>After Alex leaves her fiance, Dave, at the altar, they struggle to maintain relationships with their mutual friends.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>62</RatingCount>
+  <RatingCount>63</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>David Caspe</Writer>
   <absolute_number></absolute_number>
@@ -348,7 +349,7 @@
   <Overview>Dave's fling begins turning into a relationship he doesn't want; Jane tries to help Alex find a roommate.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>55</RatingCount>
+  <RatingCount>56</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Josh Bycel</Writer>
   <absolute_number></absolute_number>
@@ -411,7 +412,7 @@
   <Overview>Max's friends encourage him to tell his parents he is gay; Penny meets her perfect man.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>52</RatingCount>
+  <RatingCount>53</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Gail Lerner</Writer>
   <absolute_number></absolute_number>
@@ -443,7 +444,7 @@
 </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>47</RatingCount>
+  <RatingCount>48</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Daniel Libman|Matthew Libman|</Writer>
   <absolute_number></absolute_number>
@@ -474,7 +475,7 @@
   <Overview>Brad plays matchmaker to a co-worker; Penny regrets inviting Jane to her martial-arts class; Dave helps Alex with odd jobs, leading his friends to think </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>44</RatingCount>
+  <RatingCount>45</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Rob Kerkovich|Todd Waldman|</Writer>
   <absolute_number></absolute_number>
@@ -721,7 +722,7 @@
   <Language>en</Language>
   <Overview>Alex and Dave to decide that they should be honest with each other. Penny buys a new condo and declares that it's &quot;The Year of Penny&quot;, the year where everything will start going her way. Max tries to find out why Brad hasn't been hanging out with him lately.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.4</Rating>
+  <Rating>7.3</Rating>
   <RatingCount>42</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Josh Bycel</Writer>
@@ -752,8 +753,8 @@
   <Language>en</Language>
   <Overview>Alex's new T-shirts intended for children end up being a hit with with teenagers. Jane searches for the child she believes was conceived from an egg she donated years ago. Max starts working at Dave's food truck.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>40</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>41</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Gail Lerner</Writer>
   <absolute_number></absolute_number>
@@ -1187,7 +1188,7 @@
   <Overview>Dave gets a liquor license for his food truck, making it a new hot spot. The gang avoids Dave because his signature drink gives them sex dreams about him.</Overview>
   <ProductionCode>216</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>35</RatingCount>
+  <RatingCount>36</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>David Caspe|Matthew Libman|Daniel Libman</Writer>
   <absolute_number></absolute_number>
@@ -1218,7 +1219,7 @@
   <Overview>A panicked Alex enlists Jane's help in convincing Dave that something he's certain happened never did using &quot;The Kerkovich Way,&quot; an ancient Serbian memory-wiping technique passed down through the Kerkovich clan. Meanwhile, Penny and Max are determined to finally beat an annoyingly perfect couple in the annual Rosalita's Run and Scavenger Hunt.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>33</RatingCount>
+  <RatingCount>34</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Todd Linden</Writer>
   <absolute_number></absolute_number>
@@ -1249,7 +1250,7 @@
   <Overview>After years of bad luck every time the gang celebrates Penny's birthday, the gang starts to believe the day is cursed.</Overview>
   <ProductionCode>219</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>33</RatingCount>
+  <RatingCount>34</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Lon Zimmet|Dan Rubin|</Writer>
   <absolute_number></absolute_number>
@@ -1279,8 +1280,8 @@
   <Language>en</Language>
   <Overview>Dave finds himself bullied at the gym by Corey, and former bully Alex coaches him on how to fight back. Meanwhile, the residents at Brad and Jane's condo are fed up with Jane being too controlling as president of their home owners' association, and rise up to challenge her for the job.</Overview>
   <ProductionCode>218</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>32</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>33</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Leila Strachan</Writer>
   <absolute_number></absolute_number>
@@ -1311,7 +1312,7 @@
   <Overview>Things spiral out of control after Penny tells a white lie to avoid an irritating childhood friend. Dave and Max's lonely and jealous landlord falls for Alex.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>29</RatingCount>
+  <RatingCount>30</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Gail Lerner</Writer>
   <absolute_number></absolute_number>
@@ -1342,7 +1343,7 @@
   <Overview>The gang find themselves at yet another wedding, this time the nuptials of Derrick and Eric. Brad struggles to tell Jane something important, Jane tries to find a way to help Eric hide the fact that the pricey reception must be downscaled, and Max tries to find the courage to perform with his old all-male Madonna cover band. Meanwhile, a dateless Penny is sad that she's at another wedding, alone, until she meets cute guy Chris via Skype.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>28</RatingCount>
+  <RatingCount>29</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Leila Strachan|Josh Bycel</Writer>
   <absolute_number></absolute_number>
@@ -1372,8 +1373,8 @@
   <Language>en</Language>
   <Overview>The on-again, off-again relationship between Alex and Dave is on-again, while an accident puts Penny in a full body cast and turns Max into her angel of mercy, until he gets a eyeful of her hunky physical therapist. Later, out-of-work Brad tries to keep a secret from Jane.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>20</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>21</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>David Caspe|Daniel Libman|Matthew Libman</Writer>
   <absolute_number></absolute_number>
@@ -1404,12 +1405,12 @@
   <Overview>Dave and Alex's inability to commit to a new apartment proves to be quite a challenge for their real-estate agent, while Jane pulls out all the stops when she takes Penny car shopping. Later, Max shows out-of-work Brad how easy it is to spend a cashless Saturday in Chicago.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>22</RatingCount>
+  <RatingCount>23</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Josh Bycel|Jonathan Fener</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/167571/4383981.jpg</filename>
-  <lastupdated>1372749625</lastupdated>
+  <lastupdated>1403442936</lastupdated>
   <seasonid>492262</seasonid>
   <seriesid>167571</seriesid>
   <thumb_added></thumb_added>
@@ -1434,13 +1435,13 @@
   <Language>en</Language>
   <Overview>Max has become a hit on the Bar Mitzvah circuit as an energetic emcee and allows Brad to partner up with him, but not everything turns out kosher. Meanwhile Dave and Alex make an effort not to take their relationship for granted.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>23</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>24</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Dan Rubin|Lon Zimmet</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/167571/4397152.jpg</filename>
-  <lastupdated>1373186199</lastupdated>
+  <lastupdated>1403442941</lastupdated>
   <seasonid>492262</seasonid>
   <seriesid>167571</seriesid>
   <thumb_added></thumb_added>
@@ -1465,13 +1466,13 @@
   <Language>en</Language>
   <Overview>The gang celebrates Thanksgiving by watching a previously unaired episode of &quot;Real World&quot; they appeared in back in college, and, long after the fact, learn some shocking new dirt about one another.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>19</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>20</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Leila Strachan</Writer>
   <absolute_number>38</absolute_number>
   <filename>episodes/167571/4397153.jpg</filename>
-  <lastupdated>1372749643</lastupdated>
+  <lastupdated>1403442946</lastupdated>
   <seasonid>492262</seasonid>
   <seriesid>167571</seriesid>
   <thumb_added></thumb_added>
@@ -1496,13 +1497,13 @@
   <Language>en</Language>
   <Overview>Penny meets a terrific new guy, Pete, but her frantic attempt to hide the fact that she's wearing a prescription helmet because of her concussion really limits their potential romance. Jane tries to break into the &quot;boys' club&quot; at the car dealership and enlists Brad to be her &quot;trophy wife&quot;. Max and Dave's fist bump issues bring back painful childhood memories.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>18</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>19</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Erik Sommers</Writer>
   <absolute_number>39</absolute_number>
   <filename>episodes/167571/4397154.jpg</filename>
-  <lastupdated>1372749651</lastupdated>
+  <lastupdated>1403442974</lastupdated>
   <seasonid>492262</seasonid>
   <seriesid>167571</seriesid>
   <thumb_added></thumb_added>
@@ -1533,7 +1534,7 @@
   <Writer>|Jonathan Groff|Brian Gallivan|</Writer>
   <absolute_number>40</absolute_number>
   <filename>episodes/167571/4401778.jpg</filename>
-  <lastupdated>1372749664</lastupdated>
+  <lastupdated>1404626046</lastupdated>
   <seasonid>492262</seasonid>
   <seriesid>167571</seriesid>
   <thumb_added></thumb_added>
@@ -1564,7 +1565,7 @@
   <Writer>|Prentice Penny|</Writer>
   <absolute_number>41</absolute_number>
   <filename>episodes/167571/4401779.jpg</filename>
-  <lastupdated>1372749674</lastupdated>
+  <lastupdated>1405742390</lastupdated>
   <seasonid>492262</seasonid>
   <seriesid>167571</seriesid>
   <thumb_added></thumb_added>
@@ -1595,7 +1596,7 @@
   <Writer>|Sierra Teller Ornelas|</Writer>
   <absolute_number>42</absolute_number>
   <filename>episodes/167571/4437757.jpg</filename>
-  <lastupdated>1372749683</lastupdated>
+  <lastupdated>1404724200</lastupdated>
   <seasonid>492262</seasonid>
   <seriesid>167571</seriesid>
   <thumb_added></thumb_added>
@@ -1626,7 +1627,7 @@
   <Writer>|Daniel Chun|</Writer>
   <absolute_number>43</absolute_number>
   <filename>episodes/167571/4437756.jpg</filename>
-  <lastupdated>1372749692</lastupdated>
+  <lastupdated>1405530272</lastupdated>
   <seasonid>492262</seasonid>
   <seriesid>167571</seriesid>
   <thumb_added></thumb_added>
@@ -1719,7 +1720,7 @@
   <Writer>|Jackie Clarke|Gil Ozeri|</Writer>
   <absolute_number>46</absolute_number>
   <filename>episodes/167571/4437760.jpg</filename>
-  <lastupdated>1372749721</lastupdated>
+  <lastupdated>1402618290</lastupdated>
   <seasonid>492262</seasonid>
   <seriesid>167571</seriesid>
   <thumb_added></thumb_added>
@@ -1744,13 +1745,13 @@
   <Language>en</Language>
   <Overview>In order to get Pete to change his mind about eloping with Penny, wannabe matrimonial coordinator Jane spirits the whole gang to a wedding exposition. Once there, Max and Brad wind up at a gay-marriage part of the expo, while Alex and Dave contemplate their own commitment issues.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>14</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>15</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Hilary Winston</Writer>
   <absolute_number>47</absolute_number>
   <filename>episodes/167571/4437761.jpg</filename>
-  <lastupdated>1372749738</lastupdated>
+  <lastupdated>1404022288</lastupdated>
   <seasonid>492262</seasonid>
   <seriesid>167571</seriesid>
   <thumb_added></thumb_added>
@@ -1776,12 +1777,12 @@
   <Overview>Brad uses his skills, plus help from the gang, to prop up Chuckles and Huggs after the gym's loopy owner, Terry tells him it may be closing. Meanwhile, Penny and Max try to break the habit of texting the men in their lives.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>14</RatingCount>
+  <RatingCount>15</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Daniel Libman|Matthew Libman</Writer>
   <absolute_number>48</absolute_number>
   <filename>episodes/167571/4444673.jpg</filename>
-  <lastupdated>1373666937</lastupdated>
+  <lastupdated>1404022348</lastupdated>
   <seasonid>492262</seasonid>
   <seriesid>167571</seriesid>
   <thumb_added></thumb_added>
@@ -1807,12 +1808,12 @@
   <Overview>Max meets a cute girl who is a season tickets holder for the Bulls, leaving him no choice but to pretend to be straight. Meanwhile, Alex is tired of everyone dismissing her as the dimwitted blonde, so she becomes well read to prove them wrong and in the process throws off the whole group dynamic.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>16</RatingCount>
+  <RatingCount>17</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Lon Zimmet|Dan Rubin|</Writer>
   <absolute_number>49</absolute_number>
   <filename>episodes/167571/4458659.jpg</filename>
-  <lastupdated>1373667164</lastupdated>
+  <lastupdated>1404022387</lastupdated>
   <seasonid>492262</seasonid>
   <seriesid>167571</seriesid>
   <thumb_added></thumb_added>
@@ -1837,13 +1838,13 @@
   <Language>en</Language>
   <Overview>When Max tries out Jane and Alex's long-time hairdresser, Krisjahn, he gets some good salon gossip on the girls, but his loose lips may cause World War III between the Kerkovitch sisters. Meanwhile, the Steak Me Home truck is stolen and Dave and Penny try to figure out whodunit.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>16</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>17</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Erik Sommers</Writer>
   <absolute_number>50</absolute_number>
   <filename>episodes/167571/4458660.jpg</filename>
-  <lastupdated>1373667300</lastupdated>
+  <lastupdated>1404022426</lastupdated>
   <seasonid>492262</seasonid>
   <seriesid>167571</seriesid>
   <thumb_added></thumb_added>
@@ -1869,12 +1870,12 @@
   <Overview>With the wedding coming up, Penny decides to reach out to her estranged dad Roy. The reunion is sufficiently awkward but Alex encourages Penny to be optimistic, while Jane is more skeptical. Meanwhile, Dave enlists Brad and Max's help in sabotaging &quot;The Brazilian&quot; food truck, a.k.a. Dave's #1 nemesis, but Max accidentally falls for the enemy's son and has to choose between his best friend or boyfriend.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>18</RatingCount>
+  <RatingCount>19</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Jason Berger</Writer>
   <absolute_number>51</absolute_number>
   <filename>episodes/167571/4458661.jpg</filename>
-  <lastupdated>1373667405</lastupdated>
+  <lastupdated>1404022455</lastupdated>
   <seasonid>492262</seasonid>
   <seriesid>167571</seriesid>
   <thumb_added></thumb_added>
@@ -1900,12 +1901,12 @@
   <Overview>Brad and Jane host a couples game night with Penny, Pete, Max and Scotty and the competitiveness gets a little out of hand. Meanwhile Dave has a big decision to make on the career front, and Alex tries to help but they end up at a psychic instead.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.1</Rating>
-  <RatingCount>16</RatingCount>
+  <RatingCount>17</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Brian Gallivan|</Writer>
   <absolute_number>52</absolute_number>
   <filename>episodes/167571/4502146.jpg</filename>
-  <lastupdated>1374174367</lastupdated>
+  <lastupdated>1404626495</lastupdated>
   <seasonid>492262</seasonid>
   <seriesid>167571</seriesid>
   <thumb_added></thumb_added>
@@ -1931,12 +1932,12 @@
   <Overview>Penny insists that she's fine after her breakup with Pete, but the gang begin to wonder when she writes a play entitled &quot;Black Plague: A Love Story&quot; and asks Derrick and his theater group to stage it. Meanwhile a marketing group asks Alex and Max to be taste makers.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>15</RatingCount>
+  <RatingCount>16</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Prentice Penny</Writer>
   <absolute_number>53</absolute_number>
   <filename>episodes/167571/4502147.jpg</filename>
-  <lastupdated>1373667994</lastupdated>
+  <lastupdated>1404626423</lastupdated>
   <seasonid>492262</seasonid>
   <seriesid>167571</seriesid>
   <thumb_added></thumb_added>
@@ -1961,13 +1962,13 @@
   <Language>en</Language>
   <Overview>The gang is shocked when Penny rebounds from her breakup with Pete by having a torrid affair with the last man on earth they'd pick for her -- the Car Czar. To make matters worse, she's temporarily living with Brad and Jane, who end up acting like disapproving parents. Meanwhile the friends pressure Max to get a job so he'll stop sponging off them.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.2</Rating>
-  <RatingCount>16</RatingCount>
+  <Rating>7.1</Rating>
+  <RatingCount>17</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Gil Ozeri|Jackie Clarke</Writer>
   <absolute_number>54</absolute_number>
   <filename>episodes/167571/4502148.jpg</filename>
-  <lastupdated>1374496831</lastupdated>
+  <lastupdated>1390940577</lastupdated>
   <seasonid>492262</seasonid>
   <seriesid>167571</seriesid>
   <thumb_added></thumb_added>
@@ -1992,13 +1993,13 @@
   <Language>en</Language>
   <Overview>Chase, the ex-roommate whose life Max ruined, says he'd like to take revenge and do the same thing to Max, but Max's life is so pathetic it's &quot;un-sabotagable.&quot; Max vows to prove him wrong and asks Jane to help him get his act together. Meanwhile, Alex asks the rest of the gang for help when Dave challenges her to finally use her stockpile of Groupons.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>15</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>16</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Jonathan Fener</Writer>
   <absolute_number>55</absolute_number>
   <filename>episodes/167571/4517757.jpg</filename>
-  <lastupdated>1373668043</lastupdated>
+  <lastupdated>1403532988</lastupdated>
   <seasonid>492262</seasonid>
   <seriesid>167571</seriesid>
   <thumb_added></thumb_added>
@@ -2024,12 +2025,12 @@
   <Overview>Penny's mom, Dana, and Dave's dad, Big Dave, are in town visiting, and these two lovebirds are not only going strong, they've decided to adopt a baby together, prompting Penny and Dave to react the only way they know how - irrationally. Meanwhile, Brad and Jane decide to try to join an exclusive tennis club, but unfortunately Max is on the scent and they can't shake him...or Alex.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.1</Rating>
-  <RatingCount>12</RatingCount>
+  <RatingCount>13</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Matthew Libman|Daniel Libman</Writer>
   <absolute_number>55</absolute_number>
   <filename>episodes/167571/4517759.jpg</filename>
-  <lastupdated>1373668066</lastupdated>
+  <lastupdated>1390940615</lastupdated>
   <seasonid>492262</seasonid>
   <seriesid>167571</seriesid>
   <thumb_added></thumb_added>
@@ -2038,11 +2039,11 @@
 </Episode>
 <Episode>
   <id>4535595</id>
-  <Combined_episodenumber>23.0</Combined_episodenumber>
+  <Combined_episodenumber>22.0</Combined_episodenumber>
   <Combined_season>3</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber>23.0</DVD_episodenumber>
+  <DVD_episodenumber>22.0</DVD_episodenumber>
   <DVD_season>3</DVD_season>
   <Director>Rebecca Asher</Director>
   <EpImgFlag>2</EpImgFlag>
@@ -2054,13 +2055,13 @@
   <Language>en</Language>
   <Overview>The third Kerkovich sister, Brooke, is the alpha sister of the group, and Jane has the daunting task of planning a wedding for her more perfect and exquisite older sibling. Meanwhile, Brad is having a tough time himself dealing with Brooke's equally more perfect African American fiance, Elliot, and Alex and Dave have a big secret they're hiding.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>15</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>16</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Josh Bycel|Leila Strachan</Writer>
   <absolute_number>56</absolute_number>
   <filename>episodes/167571/4535595.jpg</filename>
-  <lastupdated>1383532858</lastupdated>
+  <lastupdated>1403533024</lastupdated>
   <seasonid>492262</seasonid>
   <seriesid>167571</seriesid>
   <thumb_added></thumb_added>

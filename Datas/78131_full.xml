@@ -14,7 +14,7 @@
   <Overview>On average, men and women think about sex every six seconds. Shorten that to every second, and you've got Coupling.
 This series centers around Susan and Steve (who are a couple), and Sally and Patrick join the gang as friends of Susan (and then Steve), while Steve pulls in his best friend Jeff and his crazy ex Jane.</Overview>
   <Rating>9.3</Rating>
-  <RatingCount>51</RatingCount>
+  <RatingCount>52</RatingCount>
   <Runtime>30</Runtime>
   <SeriesID>7895</SeriesID>
   <SeriesName>Coupling</SeriesName>
@@ -23,18 +23,18 @@ This series centers around Susan and Steve (who are a couple), and Sally and Pat
   <addedBy></addedBy>
   <banner>graphical/78131-g2.jpg</banner>
   <fanart>fanart/original/78131-5.jpg</fanart>
-  <lastupdated>1392930680</lastupdated>
+  <lastupdated>1397827437</lastupdated>
   <poster>posters/78131-1.jpg</poster>
   <zap2it_id>SH378317</zap2it_id>
 </Series>
 <Episode>
   <id>272769</id>
-  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_episodenumber>1.0</Combined_episodenumber>
   <Combined_season>1</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>1.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
   <Director>Martin Dennis</Director>
   <EpImgFlag></EpImgFlag>
   <EpisodeName>Flushed</EpisodeName>
@@ -51,7 +51,7 @@ This series centers around Susan and Steve (who are a couple), and Sally and Pat
   <Writer>Steven Moffat</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/78131/272769.jpg</filename>
-  <lastupdated>1392930086</lastupdated>
+  <lastupdated>1395700572</lastupdated>
   <seasonid>14340</seasonid>
   <seriesid>78131</seriesid>
   <thumb_added></thumb_added>
@@ -60,12 +60,12 @@ This series centers around Susan and Steve (who are a couple), and Sally and Pat
 </Episode>
 <Episode>
   <id>272770</id>
-  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_episodenumber>2.0</Combined_episodenumber>
   <Combined_season>1</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>2.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
   <Director>Martin Dennis</Director>
   <EpImgFlag></EpImgFlag>
   <EpisodeName>Size Matters</EpisodeName>
@@ -82,7 +82,7 @@ This series centers around Susan and Steve (who are a couple), and Sally and Pat
   <Writer>Steven Moffat</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/78131/272770.jpg</filename>
-  <lastupdated>1392930106</lastupdated>
+  <lastupdated>1395700590</lastupdated>
   <seasonid>14340</seasonid>
   <seriesid>78131</seriesid>
   <thumb_added></thumb_added>
@@ -91,12 +91,12 @@ This series centers around Susan and Steve (who are a couple), and Sally and Pat
 </Episode>
 <Episode>
   <id>272771</id>
-  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_episodenumber>3.0</Combined_episodenumber>
   <Combined_season>1</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>3.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
   <Director>Martin Dennis</Director>
   <EpImgFlag></EpImgFlag>
   <EpisodeName>Sex, Death &amp; Nudity</EpisodeName>
@@ -113,7 +113,7 @@ This series centers around Susan and Steve (who are a couple), and Sally and Pat
   <Writer>Steven Moffat</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/78131/272771.jpg</filename>
-  <lastupdated>1392930129</lastupdated>
+  <lastupdated>1395700602</lastupdated>
   <seasonid>14340</seasonid>
   <seriesid>78131</seriesid>
   <thumb_added></thumb_added>
@@ -122,12 +122,12 @@ This series centers around Susan and Steve (who are a couple), and Sally and Pat
 </Episode>
 <Episode>
   <id>272772</id>
-  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_episodenumber>4.0</Combined_episodenumber>
   <Combined_season>1</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>4.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
   <Director>Martin Dennis</Director>
   <EpImgFlag></EpImgFlag>
   <EpisodeName>Inferno</EpisodeName>
@@ -144,7 +144,7 @@ This series centers around Susan and Steve (who are a couple), and Sally and Pat
   <Writer>Steven Moffat</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/78131/272772.jpg</filename>
-  <lastupdated>1392930148</lastupdated>
+  <lastupdated>1395700617</lastupdated>
   <seasonid>14340</seasonid>
   <seriesid>78131</seriesid>
   <thumb_added></thumb_added>
@@ -153,12 +153,12 @@ This series centers around Susan and Steve (who are a couple), and Sally and Pat
 </Episode>
 <Episode>
   <id>272773</id>
-  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_episodenumber>5.0</Combined_episodenumber>
   <Combined_season>1</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>5.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
   <Director>Martin Dennis</Director>
   <EpImgFlag></EpImgFlag>
   <EpisodeName>The Girl with Two Breasts</EpisodeName>
@@ -169,13 +169,13 @@ This series centers around Susan and Steve (who are a couple), and Sally and Pat
   <Language>en</Language>
   <Overview>Jeff and co. can't take their eyes of a beautiful stranger in their local bar. And the girl can't take her eyes off Jeff. Jeff goes over to talk to her, only to discover that she doesn't speak a word of English, which to Jeff of course is quite a relief. Her interpreter, Alice, tells Jeff she's Israeli, then whisks her away. The next day the girl is back and Jeff attempts to chat her up. With neither speaking a word of the other's language, it is an utter disaster.</Overview>
   <ProductionCode>IPEA235H</ProductionCode>
-  <Rating>8.2</Rating>
-  <RatingCount>29</RatingCount>
+  <Rating>8.3</Rating>
+  <RatingCount>30</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Steven Moffat</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/78131/272773.jpg</filename>
-  <lastupdated>1392930170</lastupdated>
+  <lastupdated>1395700632</lastupdated>
   <seasonid>14340</seasonid>
   <seriesid>78131</seriesid>
   <thumb_added></thumb_added>
@@ -184,12 +184,12 @@ This series centers around Susan and Steve (who are a couple), and Sally and Pat
 </Episode>
 <Episode>
   <id>272774</id>
-  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_episodenumber>6.0</Combined_episodenumber>
   <Combined_season>1</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>6.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
   <Director>Martin Dennis</Director>
   <EpImgFlag></EpImgFlag>
   <EpisodeName>The Cupboard of Patrick's Love</EpisodeName>
@@ -206,7 +206,7 @@ This series centers around Susan and Steve (who are a couple), and Sally and Pat
   <Writer>Steven Moffat</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/78131/272774.jpg</filename>
-  <lastupdated>1392930188</lastupdated>
+  <lastupdated>1395700644</lastupdated>
   <seasonid>14340</seasonid>
   <seriesid>78131</seriesid>
   <thumb_added></thumb_added>
@@ -215,12 +215,12 @@ This series centers around Susan and Steve (who are a couple), and Sally and Pat
 </Episode>
 <Episode>
   <id>272775</id>
-  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_episodenumber>1.0</Combined_episodenumber>
   <Combined_season>2</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>1.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
   <Director>Martin Dennis</Director>
   <EpImgFlag></EpImgFlag>
   <EpisodeName>The Man with Two Legs</EpisodeName>
@@ -237,7 +237,7 @@ This series centers around Susan and Steve (who are a couple), and Sally and Pat
   <Writer>Steven Moffat</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/78131/272775.jpg</filename>
-  <lastupdated>1392930226</lastupdated>
+  <lastupdated>1395700706</lastupdated>
   <seasonid>14341</seasonid>
   <seriesid>78131</seriesid>
   <thumb_added></thumb_added>
@@ -246,12 +246,12 @@ This series centers around Susan and Steve (who are a couple), and Sally and Pat
 </Episode>
 <Episode>
   <id>272776</id>
-  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_episodenumber>2.0</Combined_episodenumber>
   <Combined_season>2</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>2.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
   <Director>Martin Dennis</Director>
   <EpImgFlag></EpImgFlag>
   <EpisodeName>My Dinner in Hell</EpisodeName>
@@ -268,7 +268,7 @@ This series centers around Susan and Steve (who are a couple), and Sally and Pat
   <Writer>Steven Moffat</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/78131/272776.jpg</filename>
-  <lastupdated>1392930260</lastupdated>
+  <lastupdated>1395700718</lastupdated>
   <seasonid>14341</seasonid>
   <seriesid>78131</seriesid>
   <thumb_added></thumb_added>
@@ -277,12 +277,12 @@ This series centers around Susan and Steve (who are a couple), and Sally and Pat
 </Episode>
 <Episode>
   <id>272777</id>
-  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_episodenumber>3.0</Combined_episodenumber>
   <Combined_season>2</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>3.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
   <Director>Martin Dennis</Director>
   <EpImgFlag></EpImgFlag>
   <EpisodeName>Her Best Friend's Bottom</EpisodeName>
@@ -299,7 +299,7 @@ This series centers around Susan and Steve (who are a couple), and Sally and Pat
   <Writer>Steven Moffat</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/78131/272777.jpg</filename>
-  <lastupdated>1392930282</lastupdated>
+  <lastupdated>1395700735</lastupdated>
   <seasonid>14341</seasonid>
   <seriesid>78131</seriesid>
   <thumb_added></thumb_added>
@@ -308,12 +308,12 @@ This series centers around Susan and Steve (who are a couple), and Sally and Pat
 </Episode>
 <Episode>
   <id>272778</id>
-  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_episodenumber>4.0</Combined_episodenumber>
   <Combined_season>2</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>4.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
   <Director>Martin Dennis</Director>
   <EpImgFlag></EpImgFlag>
   <EpisodeName>The Melty Man Cometh</EpisodeName>
@@ -330,7 +330,7 @@ This series centers around Susan and Steve (who are a couple), and Sally and Pat
   <Writer>Steven Moffat</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/78131/272778.jpg</filename>
-  <lastupdated>1392930303</lastupdated>
+  <lastupdated>1395700744</lastupdated>
   <seasonid>14341</seasonid>
   <seriesid>78131</seriesid>
   <thumb_added></thumb_added>
@@ -339,12 +339,12 @@ This series centers around Susan and Steve (who are a couple), and Sally and Pat
 </Episode>
 <Episode>
   <id>272779</id>
-  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_episodenumber>5.0</Combined_episodenumber>
   <Combined_season>2</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>5.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
   <Director>Martin Dennis</Director>
   <EpImgFlag></EpImgFlag>
   <EpisodeName>Jane and the Truth Snake</EpisodeName>
@@ -356,12 +356,12 @@ This series centers around Susan and Steve (who are a couple), and Sally and Pat
   <Overview>Jane gets the sack as a traffic reporter for a local radio station, and decides on a new career in children's entertainment. She starts rehearsing with a pink snake hand puppet, which turns out to have an unstoppable ability to tell the bald truth. Patrick is trying to dump his latest girlfriend Lynda, but when she says she's interested in a threesome, he desperately starts backtracking.</Overview>
   <ProductionCode>IPEA359S</ProductionCode>
   <Rating>8.1</Rating>
-  <RatingCount>27</RatingCount>
+  <RatingCount>28</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Steven Moffat</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/78131/272779.jpg</filename>
-  <lastupdated>1392930323</lastupdated>
+  <lastupdated>1395700757</lastupdated>
   <seasonid>14341</seasonid>
   <seriesid>78131</seriesid>
   <thumb_added></thumb_added>
@@ -370,12 +370,12 @@ This series centers around Susan and Steve (who are a couple), and Sally and Pat
 </Episode>
 <Episode>
   <id>272780</id>
-  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_episodenumber>6.0</Combined_episodenumber>
   <Combined_season>2</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>6.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
   <Director>Martin Dennis</Director>
   <EpImgFlag></EpImgFlag>
   <EpisodeName>Gotcha</EpisodeName>
@@ -392,7 +392,7 @@ This series centers around Susan and Steve (who are a couple), and Sally and Pat
   <Writer>Steven Moffat</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/78131/272780.jpg</filename>
-  <lastupdated>1392930343</lastupdated>
+  <lastupdated>1395700769</lastupdated>
   <seasonid>14341</seasonid>
   <seriesid>78131</seriesid>
   <thumb_added></thumb_added>
@@ -401,12 +401,12 @@ This series centers around Susan and Steve (who are a couple), and Sally and Pat
 </Episode>
 <Episode>
   <id>272781</id>
-  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_episodenumber>7.0</Combined_episodenumber>
   <Combined_season>2</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>7.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
   <Director>Martin Dennis</Director>
   <EpImgFlag></EpImgFlag>
   <EpisodeName>Dressed</EpisodeName>
@@ -423,7 +423,7 @@ This series centers around Susan and Steve (who are a couple), and Sally and Pat
   <Writer>Steven Moffat</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/78131/272781.jpg</filename>
-  <lastupdated>1392930362</lastupdated>
+  <lastupdated>1395700784</lastupdated>
   <seasonid>14341</seasonid>
   <seriesid>78131</seriesid>
   <thumb_added></thumb_added>
@@ -432,12 +432,12 @@ This series centers around Susan and Steve (who are a couple), and Sally and Pat
 </Episode>
 <Episode>
   <id>272782</id>
-  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_episodenumber>8.0</Combined_episodenumber>
   <Combined_season>2</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>8.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
   <Director>Martin Dennis</Director>
   <EpImgFlag></EpImgFlag>
   <EpisodeName>Naked</EpisodeName>
@@ -454,7 +454,7 @@ This series centers around Susan and Steve (who are a couple), and Sally and Pat
   <Writer>Steven Moffat</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/78131/272782.jpg</filename>
-  <lastupdated>1392930383</lastupdated>
+  <lastupdated>1395700798</lastupdated>
   <seasonid>14341</seasonid>
   <seriesid>78131</seriesid>
   <thumb_added></thumb_added>
@@ -463,12 +463,12 @@ This series centers around Susan and Steve (who are a couple), and Sally and Pat
 </Episode>
 <Episode>
   <id>272783</id>
-  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_episodenumber>9.0</Combined_episodenumber>
   <Combined_season>2</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>9.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
   <Director>Martin Dennis</Director>
   <EpImgFlag></EpImgFlag>
   <EpisodeName>The End of the Line</EpisodeName>
@@ -485,7 +485,7 @@ This series centers around Susan and Steve (who are a couple), and Sally and Pat
   <Writer>Steven Moffat</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/78131/272783.jpg</filename>
-  <lastupdated>1392930405</lastupdated>
+  <lastupdated>1395700813</lastupdated>
   <seasonid>14341</seasonid>
   <seriesid>78131</seriesid>
   <thumb_added></thumb_added>
@@ -572,8 +572,8 @@ This series centers around Susan and Steve (who are a couple), and Sally and Pat
   <Language>en</Language>
   <Overview>Jeff is still trying to decide whether he should cheat on his girlfriend Julia with Wilma, or not. While his friends try to help him, Jeff is no match in this debate for &quot;devil woman&quot; Wilma. She knows every argument that Susan (the expert in getting her own way) has ever used. Jeff paints himself into a terrifyingly extreme conversational corner, until he blurts out that the reason he can't have sex with Wilma is that his girlfriend is dead...</Overview>
   <ProductionCode>ICEC004F</ProductionCode>
-  <Rating>8.4</Rating>
-  <RatingCount>18</RatingCount>
+  <Rating>8.3</Rating>
+  <RatingCount>19</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Steven Moffat</Writer>
   <absolute_number></absolute_number>
@@ -711,12 +711,12 @@ This series centers around Susan and Steve (who are a couple), and Sally and Pat
 </Episode>
 <Episode>
   <id>272791</id>
-  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_episodenumber>1.0</Combined_episodenumber>
   <Combined_season>4</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>1.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
   <Director>Martin Dennis</Director>
   <EpImgFlag></EpImgFlag>
   <EpisodeName>Nine and a Half Minutes</EpisodeName>
@@ -727,13 +727,13 @@ This series centers around Susan and Steve (who are a couple), and Sally and Pat
   <Language>en</Language>
   <Overview>One bar, three different points of view, the same nine and a half minutes. Susan and Steve are pregnant (mostly Susan), Patrick and Sally are discussing relationships (mostly Sally), and Jane has a blind date - but will his job be a problem? Meanwhile, in the skies above an Aegean island, terrible danger grows.</Overview>
   <ProductionCode>ICEC898P</ProductionCode>
-  <Rating>8.1</Rating>
-  <RatingCount>21</RatingCount>
+  <Rating>8.2</Rating>
+  <RatingCount>22</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Steven Moffat</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/78131/272791.jpg</filename>
-  <lastupdated>1392930589</lastupdated>
+  <lastupdated>1395701230</lastupdated>
   <seasonid>14343</seasonid>
   <seriesid>78131</seriesid>
   <thumb_added></thumb_added>
@@ -742,12 +742,12 @@ This series centers around Susan and Steve (who are a couple), and Sally and Pat
 </Episode>
 <Episode>
   <id>272792</id>
-  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_episodenumber>2.0</Combined_episodenumber>
   <Combined_season>4</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>2.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
   <Director>Martin Dennis</Director>
   <EpImgFlag></EpImgFlag>
   <EpisodeName>Night Lines</EpisodeName>
@@ -764,7 +764,7 @@ This series centers around Susan and Steve (who are a couple), and Sally and Pat
   <Writer>Steven Moffat</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/78131/272792.jpg</filename>
-  <lastupdated>1392930605</lastupdated>
+  <lastupdated>1395701248</lastupdated>
   <seasonid>14343</seasonid>
   <seriesid>78131</seriesid>
   <thumb_added></thumb_added>
@@ -773,12 +773,12 @@ This series centers around Susan and Steve (who are a couple), and Sally and Pat
 </Episode>
 <Episode>
   <id>272793</id>
-  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_episodenumber>3.0</Combined_episodenumber>
   <Combined_season>4</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>3.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
   <Director>Martin Dennis</Director>
   <EpImgFlag></EpImgFlag>
   <EpisodeName>Bed Time</EpisodeName>
@@ -795,7 +795,7 @@ This series centers around Susan and Steve (who are a couple), and Sally and Pat
   <Writer>Steven Moffat</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/78131/272793.jpg</filename>
-  <lastupdated>1392930622</lastupdated>
+  <lastupdated>1395701262</lastupdated>
   <seasonid>14343</seasonid>
   <seriesid>78131</seriesid>
   <thumb_added></thumb_added>
@@ -804,12 +804,12 @@ This series centers around Susan and Steve (who are a couple), and Sally and Pat
 </Episode>
 <Episode>
   <id>272794</id>
-  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_episodenumber>4.0</Combined_episodenumber>
   <Combined_season>4</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>4.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
   <Director>Martin Dennis</Director>
   <EpImgFlag></EpImgFlag>
   <EpisodeName>Circus of the Epidurals</EpisodeName>
@@ -826,7 +826,7 @@ This series centers around Susan and Steve (who are a couple), and Sally and Pat
   <Writer>Steven Moffat</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/78131/272794.jpg</filename>
-  <lastupdated>1392930639</lastupdated>
+  <lastupdated>1395701276</lastupdated>
   <seasonid>14343</seasonid>
   <seriesid>78131</seriesid>
   <thumb_added></thumb_added>
@@ -835,12 +835,12 @@ This series centers around Susan and Steve (who are a couple), and Sally and Pat
 </Episode>
 <Episode>
   <id>272795</id>
-  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_episodenumber>5.0</Combined_episodenumber>
   <Combined_season>4</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>5.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
   <Director>Martin Dennis</Director>
   <EpImgFlag></EpImgFlag>
   <EpisodeName>The Naked Living Room (1)</EpisodeName>
@@ -857,7 +857,7 @@ This series centers around Susan and Steve (who are a couple), and Sally and Pat
   <Writer>Steven Moffat</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/78131/272795.jpg</filename>
-  <lastupdated>1392930657</lastupdated>
+  <lastupdated>1395701294</lastupdated>
   <seasonid>14343</seasonid>
   <seriesid>78131</seriesid>
   <thumb_added></thumb_added>
@@ -866,12 +866,12 @@ This series centers around Susan and Steve (who are a couple), and Sally and Pat
 </Episode>
 <Episode>
   <id>272796</id>
-  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_episodenumber>6.0</Combined_episodenumber>
   <Combined_season>4</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>6.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
   <Director>Martin Dennis</Director>
   <EpImgFlag></EpImgFlag>
   <EpisodeName>Nine and a Half Months (2)</EpisodeName>
@@ -888,7 +888,7 @@ This series centers around Susan and Steve (who are a couple), and Sally and Pat
   <Writer>Steven Moffat</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/78131/272796.jpg</filename>
-  <lastupdated>1392930679</lastupdated>
+  <lastupdated>1395701308</lastupdated>
   <seasonid>14343</seasonid>
   <seriesid>78131</seriesid>
   <thumb_added></thumb_added>

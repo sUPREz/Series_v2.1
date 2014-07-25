@@ -12,8 +12,8 @@
   <Network>FOX</Network>
   <NetworkID></NetworkID>
   <Overview>In the face of much criticism, an optimistic high school teacher challenges a group of outcasts to realize their potential in the school's glee club.</Overview>
-  <Rating>8.2</Rating>
-  <RatingCount>137</RatingCount>
+  <Rating>8.1</Rating>
+  <RatingCount>143</RatingCount>
   <Runtime>60</Runtime>
   <SeriesID>75988</SeriesID>
   <SeriesName>Glee</SeriesName>
@@ -22,8 +22,9 @@
   <addedBy>3071</addedBy>
   <banner>graphical/83610-g10.jpg</banner>
   <fanart>fanart/original/83610-46.jpg</fanart>
-  <lastupdated>1394341574</lastupdated>
-  <poster>posters/83610-26.jpg</poster>
+  <lastupdated>1404568675</lastupdated>
+  <poster>posters/83610-28.jpg</poster>
+  <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>EP01141389</zap2it_id>
 </Series>
 <Episode>
@@ -113,7 +114,7 @@
   <Overview>Will Schuester an optimistic high school teacher, tries to reinvent the McKinley High School's glee club, while reinventing himself. He challenges a group of outcasts to realize their true star potential, while facing harsh criticism from everyone in the school.</Overview>
   <ProductionCode>1ARC79</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>117</RatingCount>
+  <RatingCount>118</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Ryan Murphy</Writer>
   <absolute_number></absolute_number>
@@ -175,7 +176,7 @@
   <Overview>Will forms an a capella group and spends more time with them than he does with New Directions after he is asked to perform at the PTA meeting with some surprising additions to his group. Meanwhile, Kurt is under pressure in his life which isn't helped by Mercedes' newfound interest in finding a relationship.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>96</RatingCount>
+  <RatingCount>97</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Ryan Murphy</Writer>
   <absolute_number></absolute_number>
@@ -330,7 +331,7 @@
   <Overview>Inspired by the students, Will composes a mash-up for a very special occasion. Meanwhile, in a shocking reversal of roles, McKinley High's cool kids are dethroned in an &quot;icy&quot; fashion, and Sue shows off her softer side in the &quot;Mash-Up&quot; episode of GLEE.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>84</RatingCount>
+  <RatingCount>85</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
@@ -2624,7 +2625,7 @@
   <Overview>Open with the kids addressing the recent awkwardness between Will and Finn. And the two Glee leaders are given an assignment: the two must perform a song together using the theme of feuds. Blaine and Sue will have a sing-off, while Ryder has a scary story coming.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.1</Rating>
-  <RatingCount>29</RatingCount>
+  <RatingCount>30</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Roberto Aguirre-Sacasa</Writer>
   <absolute_number></absolute_number>
@@ -2654,8 +2655,8 @@
   <Language>en</Language>
   <Overview>The New Directions tackle an assignment, meaning the songs as well as groups that everyone is too embarrassed to admit that they love.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.3</Rating>
-  <RatingCount>28</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>29</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Russel Friend &amp; Garrett Lerner</Writer>
   <absolute_number></absolute_number>
@@ -2844,9 +2845,9 @@
   <RatingCount>16</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Brad Falchuk</Writer>
-  <absolute_number></absolute_number>
+  <absolute_number>89</absolute_number>
   <filename>episodes/83610/4600824.jpg</filename>
-  <lastupdated>1393409923</lastupdated>
+  <lastupdated>1403550934</lastupdated>
   <seasonid>523453</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added>2013-10-04 04:38:23</thumb_added>
@@ -2877,7 +2878,7 @@
   <Writer>Ian Brennan</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4625976.jpg</filename>
-  <lastupdated>1393410073</lastupdated>
+  <lastupdated>1403550968</lastupdated>
   <seasonid>523453</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added>2013-10-04 04:42:11</thumb_added>
@@ -2900,15 +2901,15 @@
   <GuestStars></GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview>It is a tribute to the late Cory Monteith and his character, Finn Hudson.</Overview>
+  <Overview>The McKinley gang celebrate the life of former quarterback and New Directions member Finn Hudson. The episode mirrors the real-life death of actor Cory Monteith (1982-2013), who played Finn.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.1</Rating>
-  <RatingCount>17</RatingCount>
+  <RatingCount>18</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4625977.jpg</filename>
-  <lastupdated>1393410087</lastupdated>
+  <lastupdated>1403550992</lastupdated>
   <seasonid>523453</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added>2013-10-11 12:31:17</thumb_added>
@@ -2923,7 +2924,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
+  <Director>Ian Brennan</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>A Katy or a Gaga</EpisodeName>
   <EpisodeNumber>4</EpisodeNumber>
@@ -2936,10 +2937,10 @@
   <Rating>7.5</Rating>
   <RatingCount>17</RatingCount>
   <SeasonNumber>5</SeasonNumber>
-  <Writer></Writer>
+  <Writer>Russel Friend, Garrett Lerner</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4661166.jpg</filename>
-  <lastupdated>1393410099</lastupdated>
+  <lastupdated>1403551463</lastupdated>
   <seasonid>523453</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added>2013-11-09 18:37:33</thumb_added>
@@ -2965,12 +2966,12 @@
   <Overview>The glee club learns the dance of the hour: twerking. Meanwhile, Marley discovers Jake's relationship with Bree, and Rachel tries to convince Kurt they both should get tattoos.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>15</RatingCount>
+  <RatingCount>16</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Michael Hitchcock</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4673931.jpg</filename>
-  <lastupdated>1393410120</lastupdated>
+  <lastupdated>1403551071</lastupdated>
   <seasonid>523453</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added>2013-11-17 01:40:18</thumb_added>
@@ -3001,7 +3002,7 @@
   <Writer>Roberto Aguirre-Sacasa</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4681885.jpg</filename>
-  <lastupdated>1387126306</lastupdated>
+  <lastupdated>1403551091</lastupdated>
   <seasonid>523453</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added>2013-11-22 10:41:18</thumb_added>
@@ -3032,7 +3033,7 @@
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4694141.jpg</filename>
-  <lastupdated>1393410148</lastupdated>
+  <lastupdated>1403551126</lastupdated>
   <seasonid>523453</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added>2013-11-28 08:04:49</thumb_added>
@@ -3063,7 +3064,7 @@
   <Writer>Ross Maxwell</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4708225.jpg</filename>
-  <lastupdated>1393410249</lastupdated>
+  <lastupdated>1403551161</lastupdated>
   <seasonid>523453</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added>2013-12-05 23:17:23</thumb_added>
@@ -3089,12 +3090,12 @@
   <Overview>Santana auditions and snags the role of Rachel’s understudy in “Funny Girl,” causing a feud between the roommates. Meanwhile, back in Lima, Tina and Artie compete against each other to be the class valedictorian.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>8</RatingCount>
+  <RatingCount>10</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Ned Martel</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4718163.jpg</filename>
-  <lastupdated>1393410261</lastupdated>
+  <lastupdated>1403551181</lastupdated>
   <seasonid>523453</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added>2014-02-26 00:11:03</thumb_added>
@@ -3109,7 +3110,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
+  <Director>Ian Brennan</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Trio</EpisodeName>
   <EpisodeNumber>10</EpisodeNumber>
@@ -3119,13 +3120,13 @@
   <Language>en</Language>
   <Overview>As graduation approaches, Tina, Blaine and Sam band together to hold a senior &quot;lock-in&quot; at school, hoping to savor their last chance at hanging out together. But their plans are thwarted when Becky joins unexpectedly. Meanwhile, in New York, Elliot is stuck in the middle between Rachel and Santana's feud.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.3</Rating>
-  <RatingCount>4</RatingCount>
+  <Rating>6.9</Rating>
+  <RatingCount>7</RatingCount>
   <SeasonNumber>5</SeasonNumber>
-  <Writer></Writer>
+  <Writer>Rivka Sophia Rossi</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4723938.jpg</filename>
-  <lastupdated>1394037073</lastupdated>
+  <lastupdated>1403551266</lastupdated>
   <seasonid>523453</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added>2014-03-05 08:31:13</thumb_added>
@@ -3140,7 +3141,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
+  <Director>Elodie Keene</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>City of Angels</EpisodeName>
   <EpisodeNumber>11</EpisodeNumber>
@@ -3150,13 +3151,13 @@
   <Language>en</Language>
   <Overview>Dedicating their performance to Finn’s memory, New Directions arrive in Los Angeles to take part in the National High School Show Choir Championship, and face off against “Throat Explosion”, their fiercest competition to date.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>8.0</Rating>
+  <RatingCount>8</RatingCount>
   <SeasonNumber>5</SeasonNumber>
-  <Writer></Writer>
+  <Writer>Jessica Meyer</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4725159.jpg</filename>
-  <lastupdated>1394340813</lastupdated>
+  <lastupdated>1403551209</lastupdated>
   <seasonid>523453</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added>2014-03-08 08:04:31</thumb_added>
@@ -3171,7 +3172,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
+  <Director>Paris Barclay</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>100</EpisodeName>
   <EpisodeNumber>12</EpisodeNumber>
@@ -3181,13 +3182,13 @@
   <Language>en</Language>
   <Overview>The original members of New Directions reunite at McKinley to celebrate and reflect on the history of the seemingly doomed glee club.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>8.0</Rating>
+  <RatingCount>8</RatingCount>
   <SeasonNumber>5</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
+  <Writer>Ryan Murphy, Brad Falchuk, Ian Brennan</Writer>
+  <absolute_number>100</absolute_number>
   <filename>episodes/83610/4725161.jpg</filename>
-  <lastupdated>1394341181</lastupdated>
+  <lastupdated>1403551303</lastupdated>
   <seasonid>523453</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added>2014-03-08 08:04:43</thumb_added>
@@ -3202,28 +3203,28 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
+  <Director>Brad Falchuk</Director>
+  <EpImgFlag>2</EpImgFlag>
   <EpisodeName>New Directions</EpisodeName>
   <EpisodeNumber>13</EpisodeNumber>
   <FirstAired>2014-03-25</FirstAired>
   <GuestStars></GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview>With the McKinley High glee club officially at an end, past and present members of New Directions look towards the future.</Overview>
+  <Overview>As the fate of the glee club becomes a reality, April and Holly plot a plan to save New Directions. Meanwhile, Rachel and Santana attempt to make amends after their blowout fight.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>11</RatingCount>
   <SeasonNumber>5</SeasonNumber>
-  <Writer></Writer>
+  <Writer>Brad Falchuk</Writer>
   <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1394341232</lastupdated>
+  <filename>episodes/83610/4725162.jpg</filename>
+  <lastupdated>1403551315</lastupdated>
   <seasonid>523453</seasonid>
   <seriesid>83610</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-03-20 00:57:31</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4725163</id>
@@ -3233,28 +3234,28 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
+  <Director>Sanaa Hamri</Director>
+  <EpImgFlag>2</EpImgFlag>
   <EpisodeName>New New York</EpisodeName>
   <EpisodeNumber>14</EpisodeNumber>
   <FirstAired>2014-04-01</FirstAired>
   <GuestStars></GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
+  <Overview>Glee-club alumni members are followed in New York City several months after leaving New Directions: Blaine and Sam move in with Kurt; Artie struggles to get around Manhattan; Rachel settles into the life of a Broadway star; and Mercedes moves to NYC to work on her album.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>6</RatingCount>
   <SeasonNumber>5</SeasonNumber>
-  <Writer></Writer>
+  <Writer>Ryan Murphy</Writer>
   <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1393410324</lastupdated>
+  <filename>episodes/83610/4725163.jpg</filename>
+  <lastupdated>1403551396</lastupdated>
   <seasonid>523453</seasonid>
   <seriesid>83610</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-04-03 04:46:08</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4725164</id>
@@ -3264,28 +3265,28 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
+  <Director>Bradley Buecker</Director>
+  <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Bash</EpisodeName>
   <EpisodeNumber>15</EpisodeNumber>
   <FirstAired>2014-04-08</FirstAired>
   <GuestStars></GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
+  <Overview>Rachel is faced with a decision that pits her education against her career. Sam and Mercedes consider rekindling their romance. Kurt comes face-to-face with a hate-crime.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.2</Rating>
+  <RatingCount>6</RatingCount>
   <SeasonNumber>5</SeasonNumber>
-  <Writer></Writer>
+  <Writer>Ian Brennan</Writer>
   <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1394341296</lastupdated>
+  <filename>episodes/83610/4725164.jpg</filename>
+  <lastupdated>1401315734</lastupdated>
   <seasonid>523453</seasonid>
   <seriesid>83610</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-03-26 05:04:00</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4725166</id>
@@ -3295,27 +3296,151 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
+  <Director>Paul McCrane</Director>
+  <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Tested</EpisodeName>
   <EpisodeNumber>16</EpisodeNumber>
   <FirstAired>2014-04-15</FirstAired>
   <GuestStars></GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
+  <Overview>Blaine suffers a crisis of confidence after gaining the dreaded “Freshman Fifteen.” Artie discovers that his newfound success with the ladies comes at a price. Mercedes tells Sam she’s still a virgin.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>4</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>Russel Friend, Garrett Lerner</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/83610/4725166.jpg</filename>
+  <lastupdated>1401315655</lastupdated>
+  <seasonid>523453</seasonid>
+  <seriesid>83610</seriesid>
+  <thumb_added>2014-04-03 16:12:41</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4832594</id>
+  <Combined_episodenumber>17</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Opening Night</EpisodeName>
+  <EpisodeNumber>17</EpisodeNumber>
+  <FirstAired>2014-04-22</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Rachel makes her Broadway debut in &quot;Funny Girl.&quot;</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>5</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1394341316</lastupdated>
+  <filename>episodes/83610/4832594.jpg</filename>
+  <lastupdated>1401315196</lastupdated>
   <seasonid>523453</seasonid>
   <seriesid>83610</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-04-10 18:40:34</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4832595</id>
+  <Combined_episodenumber>18</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Back-Up Plan</EpisodeName>
+  <EpisodeNumber>18</EpisodeNumber>
+  <FirstAired>2014-04-29</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Rachel is presented with a unique opportunity which could either take her career to the next level, or possibly kill it entirely. Meanwhile, Mercedes asks for Santana’s help finding a “new sound” for her latest single, and a wealthy New York socialite takes Blaine under her wing.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>3</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/83610/4832595.jpg</filename>
+  <lastupdated>1401315520</lastupdated>
+  <seasonid>523453</seasonid>
+  <seriesid>83610</seriesid>
+  <thumb_added>2014-04-17 20:09:28</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4832596</id>
+  <Combined_episodenumber>19</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Bradley Buecker</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Old Dogs, New Tricks</EpisodeName>
+  <EpisodeNumber>19</EpisodeNumber>
+  <FirstAired>2014-05-06</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Santana helps Rachel do damage control for her flagging public image; Kurt tries to help a home for retired Broadway performers with their production of Peter Pan; to prove he is responsible, Sam adopts a dog - despite Mercedes’ objections. </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>6.2</Rating>
+  <RatingCount>5</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>Chris Colfer</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/83610/4832596.jpg</filename>
+  <lastupdated>1401315438</lastupdated>
+  <seasonid>523453</seasonid>
+  <seriesid>83610</seriesid>
+  <thumb_added>2014-04-28 23:47:48</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4839795</id>
+  <Combined_episodenumber>20</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Untitled Rachel Berry Project</EpisodeName>
+  <EpisodeNumber>20</EpisodeNumber>
+  <FirstAired>2014-05-13</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Rachel meets a famous television writer, whose eccentric personality catches Rachel off guard. Meanwhile, Sam and Mercedes deal with the pressure of commitment as their careers take off, and the time has finally come for Blaine’s big showcase with June Dolloway at NYADA.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>4</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/83610/4839795.jpg</filename>
+  <lastupdated>1401315378</lastupdated>
+  <seasonid>523453</seasonid>
+  <seriesid>83610</seriesid>
+  <thumb_added>2014-05-05 13:15:52</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 </Data>

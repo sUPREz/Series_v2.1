@@ -3,7 +3,7 @@
   <Series>
     <id>92411</id>
     <Actors>|Mark Feuerstein|Paulo Costanzo|Reshma Shetty|Brooke D'Orsay|Campbell Scott|Henry Winkler|Mark Ivanir|Ben Shenkman|Kyle Howard|Tom Cavanagh|Jill Flint|</Actors>
-    <Airs_DayOfWeek>Wednesday</Airs_DayOfWeek>
+    <Airs_DayOfWeek>Tuesday</Airs_DayOfWeek>
     <Airs_Time>9:00 pm</Airs_Time>
     <ContentRating>TV-PG</ContentRating>
     <FirstAired>2009-06-04</FirstAired>
@@ -14,17 +14,18 @@
     <NetworkID></NetworkID>
     <Overview>ROYAL PAINS centers on a young E.R. doctor who, after being wrongly blamed for a patient's death, moves to the Hamptons and becomes the reluctant &quot;doctor for hire&quot; to the rich and famous. When the attractive administrator of the local hospital asks him to treat the town's less fortunate, he finds himself walking the line between doing well for himself and doing good for others.</Overview>
     <Rating>8.4</Rating>
-    <RatingCount>59</RatingCount>
-    <Runtime>60</Runtime>
+    <RatingCount>64</RatingCount>
+    <Runtime>45</Runtime>
     <SeriesID>75383</SeriesID>
     <SeriesName>Royal Pains</SeriesName>
     <Status>Continuing</Status>
     <added>2009-05-01 04:56:39</added>
     <addedBy>235</addedBy>
     <banner>graphical/92411-g4.jpg</banner>
-    <fanart>fanart/original/92411-2.jpg</fanart>
-    <lastupdated>1388276886</lastupdated>
-    <poster>posters/92411-3.jpg</poster>
+    <fanart>fanart/original/92411-6.jpg</fanart>
+    <lastupdated>1405781668</lastupdated>
+    <poster>posters/92411-5.jpg</poster>
+    <tms_wanted_old>1</tms_wanted_old>
     <zap2it_id>EP01150465</zap2it_id>
   </Series>
 </Data>

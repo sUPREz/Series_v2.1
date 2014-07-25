@@ -12,8 +12,8 @@
   <Network>ABC</Network>
   <NetworkID></NetworkID>
   <Overview>The River follows the story of wildlife expert and TV personality Emmet Cole. Emmet set course around the world with his wife, Tess, and son, Lincoln, while filming what would become one of the most popular shows in television. After he goes missing deep in the Amazon, his family, friends and crew set out on a mysterious and deadly journey to find him.</Overview>
-  <Rating>6.9</Rating>
-  <RatingCount>23</RatingCount>
+  <Rating>6.7</Rating>
+  <RatingCount>24</RatingCount>
   <Runtime>60</Runtime>
   <SeriesID></SeriesID>
   <SeriesName>The River (2012)</SeriesName>
@@ -22,8 +22,9 @@
   <addedBy>189361</addedBy>
   <banner>graphical/248836-g3.jpg</banner>
   <fanart>fanart/original/248836-4.jpg</fanart>
-  <lastupdated>1393017084</lastupdated>
+  <lastupdated>1405794590</lastupdated>
   <poster>posters/248836-2.jpg</poster>
+  <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>SH014195303</zap2it_id>
 </Series>
 <Episode>
@@ -84,7 +85,7 @@
   <Writer>Michael Green|Zack Estrin</Writer>
   <absolute_number>1</absolute_number>
   <filename>episodes/248836/4103865.jpg</filename>
-  <lastupdated>1391030875</lastupdated>
+  <lastupdated>1404123788</lastupdated>
   <seasonid>466466</seasonid>
   <seriesid>248836</seriesid>
   <thumb_added></thumb_added>
@@ -115,7 +116,7 @@
   <Writer>Michael Green|Zack Estrin</Writer>
   <absolute_number>2</absolute_number>
   <filename>episodes/248836/4240736.jpg</filename>
-  <lastupdated>1391032775</lastupdated>
+  <lastupdated>1404123833</lastupdated>
   <seasonid>466466</seasonid>
   <seriesid>248836</seriesid>
   <thumb_added></thumb_added>
@@ -146,7 +147,7 @@
   <Writer>Glen Morgan</Writer>
   <absolute_number>3</absolute_number>
   <filename>episodes/248836/4240737.jpg</filename>
-  <lastupdated>1391032790</lastupdated>
+  <lastupdated>1404123886</lastupdated>
   <seasonid>466466</seasonid>
   <seriesid>248836</seriesid>
   <thumb_added></thumb_added>
@@ -177,7 +178,7 @@
   <Writer>Aron Eli Coleite</Writer>
   <absolute_number>4</absolute_number>
   <filename>episodes/248836/4240738.jpg</filename>
-  <lastupdated>1391030715</lastupdated>
+  <lastupdated>1404123921</lastupdated>
   <seasonid>466466</seasonid>
   <seriesid>248836</seriesid>
   <thumb_added></thumb_added>
@@ -208,7 +209,7 @@
   <Writer>Wendy Battles</Writer>
   <absolute_number>5</absolute_number>
   <filename>episodes/248836/4240739.jpg</filename>
-  <lastupdated>1391030730</lastupdated>
+  <lastupdated>1404123956</lastupdated>
   <seasonid>466466</seasonid>
   <seriesid>248836</seriesid>
   <thumb_added></thumb_added>
@@ -239,7 +240,7 @@
   <Writer>Michael Green</Writer>
   <absolute_number>6</absolute_number>
   <filename>episodes/248836/4250574.jpg</filename>
-  <lastupdated>1391030801</lastupdated>
+  <lastupdated>1404123987</lastupdated>
   <seasonid>466466</seasonid>
   <seriesid>248836</seriesid>
   <thumb_added></thumb_added>
@@ -270,7 +271,7 @@
   <Writer>Soo Hugh</Writer>
   <absolute_number>7</absolute_number>
   <filename>episodes/248836/4250575.jpg</filename>
-  <lastupdated>1391030816</lastupdated>
+  <lastupdated>1405794549</lastupdated>
   <seasonid>466466</seasonid>
   <seriesid>248836</seriesid>
   <thumb_added></thumb_added>
@@ -301,7 +302,7 @@
   <Writer>Aron Eli Coleite|Michael Green</Writer>
   <absolute_number>8</absolute_number>
   <filename>episodes/248836/4250576.jpg</filename>
-  <lastupdated>1391030859</lastupdated>
+  <lastupdated>1405794590</lastupdated>
   <seasonid>466466</seasonid>
   <seriesid>248836</seriesid>
   <thumb_added></thumb_added>

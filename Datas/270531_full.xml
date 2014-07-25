@@ -1,32 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Data><Series>
   <id>270531</id>
-  <Actors>|Kelly Reilly|Ali Wong|David Ajala|Ditch Davey|Vanessa Redgrave|</Actors>
-  <Airs_DayOfWeek></Airs_DayOfWeek>
-  <Airs_Time></Airs_Time>
-  <ContentRating></ContentRating>
-  <FirstAired></FirstAired>
+  <Actors>|Kelly Reilly|Ditch Davey|Laura Fraser|Ali Wong|David Ajala|David Chisum|Siobhan Williams|Terry Kinney|Vanessa Redgrave|</Actors>
+  <Airs_DayOfWeek>Thursday</Airs_DayOfWeek>
+  <Airs_Time>10:00 PM</Airs_Time>
+  <ContentRating>TV-14</ContentRating>
+  <FirstAired>2014-04-24</FirstAired>
   <Genre>|Drama|</Genre>
   <IMDB_ID>tt2968404</IMDB_ID>
   <Language>en</Language>
   <Network>ABC</Network>
   <NetworkID></NetworkID>
-  <Overview>&quot;The Black Box&quot; revolves around Elizabeth Black, a famed neuroscientist who seems to have it all, with a job at the Center for Neurological Research and Treatment (otherwise known as The Cube), but struggles with mental illness -- one of many secrets she keeps from her fiancé and family.</Overview>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <Runtime>60</Runtime>
+  <Overview>Catherine Black is a world-famous neurologist at the state-of-the-art medical institution known as &quot;The Cube&quot;. Catherine is brilliant, beautiful, and at the top of her game, though she's hiding a secret of her own: she's bipolar. Each week, the doctors on staff attempt to unravel the mysteries of the brain and are constantly challenged by cases never-before-seen on television. The medical stories are moving, bizarre and a visual feast. The personal stories are riveting. The patients have rare, highly visual, often hallucinogenic and startling conditions, which we’ll see through their eyes as Catherine diagnoses and treats them.</Overview>
+  <Rating>6.7</Rating>
+  <RatingCount>9</RatingCount>
+  <Runtime>40</Runtime>
   <SeriesID></SeriesID>
-  <SeriesName>The Black Box</SeriesName>
-  <Status></Status>
+  <SeriesName>Black Box</SeriesName>
+  <Status>Continuing</Status>
   <added>2013-06-07 20:03:30</added>
   <addedBy>382000</addedBy>
-  <banner></banner>
-  <fanart></fanart>
-  <lastupdated>1380913364</lastupdated>
-  <poster></poster>
-  <tms_priority>0</tms_priority>
-  <tms_wanted>0</tms_wanted>
-  <zap2it_id></zap2it_id>
+  <banner>graphical/270531-g.jpg</banner>
+  <fanart>fanart/original/270531-1.jpg</fanart>
+  <lastupdated>1405866559</lastupdated>
+  <poster>posters/270531-2.jpg</poster>
+  <tms_wanted_old>0</tms_wanted_old>
+  <zap2it_id>EP01776228</zap2it_id>
 </Series>
 <Episode>
   <id>4596700</id>
@@ -36,35 +35,399 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName></EpisodeName>
+  <Director>|Simon Curtis|</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Kiss the Sky</EpisodeName>
   <EpisodeNumber>1</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <FirstAired>2014-04-24</FirstAired>
+  <GuestStars>|JD Williams|Audrey Esparza|Olivia Birkelund|Kathleen McNenny|Josh Green|Armand Schultz|Reza Garakani|Joe Avellar|Larry Wendorf|Issiah Mueller|Ellen Parker|Matt Steffens|Sharon Alexander|</GuestStars>
+  <IMDB_ID>tt3093262</IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
+  <Overview>Dr. Catherine Black reveals to her therapist Dr. Hartramph that she's feeling empowered, unstoppable, and at the top of her game. This world renowned neurologist has a secret that is becoming more and more difficult to control--she’s bi-polar. At the state of the art facility where she works, Catherine has an insight to her patients that no one else has, allowing her to communicate with them on a different level. Catherine is introduced to a mysterious new man named Dr. Ian Bickman. She's met her match when this boisterous new colleague joins the staff at The Cube. At home, Catherine's boyfriend is pressuring her to marry him, but what would he do if he knew that there's another side to her that’s not easily controlled.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.2</Rating>
+  <RatingCount>5</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
+  <Writer>|Amy Holden Jones|</Writer>
+  <absolute_number>1</absolute_number>
+  <filename>episodes/270531/4596700.jpg</filename>
+  <lastupdated>1398426171</lastupdated>
+  <seasonid>523007</seasonid>
+  <seriesid>270531</seriesid>
+  <thumb_added>2014-04-25 04:47:08</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4770232</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>|Simon Curtis|</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Sweet Little Lies</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2014-05-01</FirstAired>
+  <GuestStars>|Aja Naomi King|Tasso Feldman|JD Williams|Audrey Esparza|Olivia Birkelund|Sawyer Barth|Adrienne Warren|Heidi Armbruster|Erick Abbate|Edward Herrmann|Zachary Fine|Simon Feil|Sandra Sampayo|Lulu Wilson|Susan Bennett|</GuestStars>
+  <IMDB_ID>tt3215456</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Dr. Black's team of fourth year medical students try to determine why a young nanny is suffering from hallucinations of her head exploding. Will and Catherine struggle to get their relationship back on track after she reveals that she cheated on him during a manic episode. After the chief of neurosurgery suffers a seizure during surgery, the Cube’s medical director calls a meeting to announce that any doctors suffering from medical conditions that could harm patients must come forward.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>6.6</Rating>
+  <RatingCount>5</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|Amy Holden Jones|</Writer>
+  <absolute_number>2</absolute_number>
+  <filename>episodes/270531/4770232.jpg</filename>
+  <lastupdated>1399300301</lastupdated>
+  <seasonid>523007</seasonid>
+  <seriesid>270531</seriesid>
+  <thumb_added>2014-05-05 07:35:58</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4861269</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>|John Krokidas|</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Who Are You?</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2014-05-08</FirstAired>
+  <GuestStars>|Aja Naomi King|Tasso Feldman|Alex Hernandez|Audrey Esparza|Danielle Garcia-Lorido|Erin Darke|Bruce Altman|Dominic Comperatore|Rachel Brosnahan|Colby Minifie|Nathan Klau|Lucia Spina|Joe Badalucco|Jodi Harris|Reese Madigan|Kal Parekh|John Mondin|</GuestStars>
+  <IMDB_ID>tt3215458</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Will reveals to Catherine he's slept with the hostess at his restaurant in retaliation for her betrayal. Bickman's ego gets the best of him when he performs emergency surgery on a celebrity. Regan reluctantly agrees to allow Esme an opportunity to work with Catherine on a student film. A patient arrives at the Cube and displays signs of being unbalanced.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|Ilene Chaiken|</Writer>
+  <absolute_number>3</absolute_number>
+  <filename>episodes/270531/4861269.jpg</filename>
+  <lastupdated>1399567517</lastupdated>
+  <seasonid>523007</seasonid>
+  <seriesid>270531</seriesid>
+  <thumb_added>2014-05-08 09:45:17</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4861272</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>|John Krokidas|</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Exceptional or Dead</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2014-05-15</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3215462</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Catherine introduces Will as her fiancé to Dr. Bickman. During a moment alone, Dr. Bickman tells Catherine they are more alike than what meets the eye. He explains neither one can ever really find happiness in monogamy. Meanwhile, Ali wonders if she has chosen the right career path when she sees Leo is constantly firing on all cylinders. After a closer look, Ali is certain that something is not quite right about Leo and it’s not his superior memory. Dr. Morely admits a patient that he suspects is having a manic episode, and Dr. Lolita Mahmoud arrives as The Cube’s medicating psychiatrist</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>6.7</Rating>
+  <RatingCount>3</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|Ish Goldstein|Matt Robinson|</Writer>
+  <absolute_number>4</absolute_number>
+  <filename>episodes/270531/4861272.jpg</filename>
+  <lastupdated>1399567574</lastupdated>
+  <seasonid>523007</seasonid>
+  <seriesid>270531</seriesid>
+  <thumb_added>2014-05-08 09:46:14</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4861275</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>|Eric Stoltz|</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Jerusalem</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2014-05-22</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3215466</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Catherine shares a moment of tenderness with Esme when she turns to her for help with winning over the heart of a boy. A close friend comes to Bickman at the Cube after she discovers her husband Jacob gave away his car, liquidated his assets, and has given his penthouse away to his maid. During an examination with Dr. Black, Jacob reveals symptoms of a centuries old condition called Jerusalem Syndrome. Catherine and Owen use unconventional methods to help Dr. Reynaud deal with his crippling fear of death so that he can be at peace in his final days.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>6.3</Rating>
+  <RatingCount>3</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|Oahn Ly|</Writer>
+  <absolute_number>5</absolute_number>
+  <filename>episodes/270531/4861275.jpg</filename>
+  <lastupdated>1399567589</lastupdated>
+  <seasonid>523007</seasonid>
+  <seriesid>270531</seriesid>
+  <thumb_added>2014-05-08 09:46:29</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4861273</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>|Eric Stoltz|</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Forget Me</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2014-05-29</FirstAired>
+  <GuestStars>|Aja Naomi King|Tasso Feldman|Audrey Esparza|Olivia Birkelund|David Rasche|Margot White|Trini Alvarado|Tom Pelphrey|Michael Pemberton|Ross Gibby|Peter Maloney|Lulu Wilson|Sawyer Barth|Susan Pourfar|Sepideh Moafi|Brendan Griffin|John Howard Swain|</GuestStars>
+  <IMDB_ID>tt3215460</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Catherine and Joshua have different ideas about how the past unfolded after their father made the decision to leave them. Hunter Black is ready to reconnect, though Catherine is reluctant to allow him back into her life. Meanwhile, a decorated soldier is struggling with a war wound that has left him miserable. Another patient is admitted to the Cube with macular degeneration after she falls off the side of a mountain. To her surprise, she begins to see vibrant visions of snow leopards and landscapes that she could have never imagined. Elsewhere, Will discovers that he can't get rid of Delilah without risk of losing his restaurant.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|Amy Holden Jones|</Writer>
+  <absolute_number>6</absolute_number>
+  <filename>episodes/270531/4861273.jpg</filename>
+  <lastupdated>1402224664</lastupdated>
+  <seasonid>523007</seasonid>
+  <seriesid>270531</seriesid>
+  <thumb_added>2014-06-08 03:51:04</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4882795</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>|Bronwen Hughes|</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Kodachrome</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2014-06-19</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3215464</IMDB_ID>
+  <Language>en</Language>
+  <Overview>A Pulitzer Prize winning journalist arrives at The Cube after being hit by a stray bullet in Syria. The pressure is on when Dr. Bickman and Dr. Black embark on a procedure to remove the live ammo without the help modern technology. A high-profile make-up artist suffers a minor stroke leaving him color blind. Catherine is determined to find a cure when she discovers that this could end his career. Catherine meets Will’s parents and begins to panic at the thought of turning into a boring housewife.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>6.5</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|Ilene Chaiken|</Writer>
+  <absolute_number>7</absolute_number>
+  <filename>episodes/270531/4882795.jpg</filename>
+  <lastupdated>1403414484</lastupdated>
+  <seasonid>523007</seasonid>
+  <seriesid>270531</seriesid>
+  <thumb_added>2014-06-21 22:25:42</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4882796</id>
+  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>|Bronwen Hughes|</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Free Will</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2014-06-26</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3215470</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Doctor Hartramph refers a patient to The Cube after he complains of headaches and hearing voices. His vivid hallucinations take control of him driving him to strike out with a violent intrusion on the hospital. Catherine takes on a patient diagnosed with Alien Hand Syndrome and struggles to get her relationship back on track with Will.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|Gary Lennon|</Writer>
+  <absolute_number>8</absolute_number>
+  <filename>episodes/270531/4882796.jpg</filename>
+  <lastupdated>1403902438</lastupdated>
+  <seasonid>523007</seasonid>
+  <seriesid>270531</seriesid>
+  <thumb_added>2014-06-27 13:53:58</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4882797</id>
+  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>|Tricia Brock|</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Sing Like Me</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2014-07-03</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3215468</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Dr. Black begins work on a music study where her patients range from a popular music competition winner that has lost her ability to recognize music pitch, to a man that has developed Acquired Savant Syndrome after being struck by lightning. Elsewhere, a street musician suffering from tremors requires Catherine to turn to an unlikely source for help in getting him the treatment he needs. Catherine realizes her feelings for Dr. Bickman might be mutual though he makes her a proposal that shocks her.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>9.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|Amy Holden Jones|</Writer>
+  <absolute_number>9</absolute_number>
+  <filename>episodes/270531/4882797.jpg</filename>
+  <lastupdated>1404563334</lastupdated>
+  <seasonid>523007</seasonid>
+  <seriesid>270531</seriesid>
+  <thumb_added>2014-07-05 05:33:11</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4882798</id>
+  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>|Tricia Brock|</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>I Shall Be Released</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2014-07-10</FirstAired>
+  <GuestStars>|Sepideh Moafi|Tasso Feldman|Audrey Esparza|Ali Ahn|Tracee Chimo|Rachel Brosnahan|Ross Gibby|Emma Myerson|Sarah Goldberg|Daniel London|Alfredo Diaz|Lucas Salvagno|William Parry|Rebecca Nelson|Michael J. Burg|Victoria Mack|</GuestStars>
+  <IMDB_ID>tt3215472</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Dr. Morely admits a patient who is convinced he is dead. Doomed to enduring the advanced onset of the hallucination, he reluctantly agrees to some tests that reveal he has Cotard’s Syndrome. A mother is at the end of her rope when her daughter displays signs of meningitis and fails to be diagnosed by several other doctors. Esme is hired at Will’s restaurant to help out, and it isn’t long before she discovers the truth about Delilah. Will confronts Catherine when he thinks she is hiding a secret. In a panic, Catherine reveals the truth only, not the one he was looking for.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>9.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|Ish Goldstein|Matthew Robinson|</Writer>
+  <absolute_number>10</absolute_number>
+  <filename>episodes/270531/4882798.jpg</filename>
+  <lastupdated>1405111261</lastupdated>
+  <seasonid>523007</seasonid>
+  <seriesid>270531</seriesid>
+  <thumb_added>2014-07-11 13:41:01</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4882799</id>
+  <Combined_episodenumber>11</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>|Hayley Schore|</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Emotion</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired>2014-07-17</FirstAired>
+  <GuestStars>|Steve Schirripa|Becky Ann Baker|Dan Folger|</GuestStars>
+  <IMDB_ID>tt3215474</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Dr. Bickman rushes his doorman to The Cube after he sees him collapse from a buried aneurysm. With a second bleed imminent, he makes a choice to perform an alternative procedure to repair it. After revealing a difficult diagnosis to a young mother, Catherine finds herself sinking into a deep sadness. In her desperation, she misleads a nurse into supplying her with oxycodone. Catherine turns to her brother for help, though he begins to wonder if he’s become an enabler. Catherine reveals to Will that their relationship is over.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.5</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|Dr. Michael Madden|</Writer>
+  <absolute_number>11</absolute_number>
   <filename></filename>
-  <lastupdated>1371722396</lastupdated>
+  <lastupdated>1404238305</lastupdated>
   <seasonid>523007</seasonid>
   <seriesid>270531</seriesid>
   <thumb_added></thumb_added>
   <thumb_height></thumb_height>
   <thumb_width></thumb_width>
-  <tms_export>0</tms_export>
-  <tms_review_blurry>0</tms_review_blurry>
-  <tms_review_by></tms_review_by>
-  <tms_review_dark>0</tms_review_dark>
-  <tms_review_date></tms_review_date>
-  <tms_review_logo>0</tms_review_logo>
-  <tms_review_other>0</tms_review_other>
-  <tms_review_unsure>0</tms_review_unsure>
+</Episode>
+<Episode>
+  <id>4882800</id>
+  <Combined_episodenumber>12</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>|Joshua Marston|</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>The Fear</EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired>2014-07-24</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3215476</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Catherine is experiencing hallucinations and refuses Dr. Hartramph’s urging to be admitted into a hospital. Her behavior is becoming increasingly manic and it isn’t long before Mahmoud begins to piece together what she’s seeing. Meanwhile, Bickman is reluctant to go back into the operating room after Joey’s botched surgery. Catherine encourages Bickman to see Lina so that she can re-wire his brain. A woman confronts a knife-wielding man on the street and the team wonders if it’s really a display of bravery or if she has an absence of fear.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|Ilene Chaiken|</Writer>
+  <absolute_number>12</absolute_number>
+  <filename></filename>
+  <lastupdated>1405086554</lastupdated>
+  <seasonid>523007</seasonid>
+  <seriesid>270531</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4882801</id>
+  <Combined_episodenumber>13</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>|Andrew McCarthy|</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Consequences</EpisodeName>
+  <EpisodeNumber>13</EpisodeNumber>
+  <FirstAired>2014-07-24</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3215478</IMDB_ID>
+  <Language>en</Language>
+  <Overview>After undergoing treatment in rehab, Catherine returns to face the fallout at home and at The Cube. While trying to get her life back on track, Esme's biological father arrives and is in desperate need of a transplant. Catherine is faced with the difficult decision of having to reveal the truth to Esme about who her real parents are. Owen is agreeable to having Catherine back at work, though it isn't without strict parameters, making it a challenge for Catherine to earn her credibility back.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|Amy Holden Jones|</Writer>
+  <absolute_number>13</absolute_number>
+  <filename></filename>
+  <lastupdated>1405199388</lastupdated>
+  <seasonid>523007</seasonid>
+  <seriesid>270531</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
 </Episode>
 </Data>

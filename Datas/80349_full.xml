@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Data><Series>
   <id>80349</id>
-  <Actors>|David Duchovny|Natascha McElhone|Evan Handler|Pamela Adlon|Madeleine Martin|Camilla Luddington|Carla Gallo|Madeline Zima|Carla Gugino|Rachel Miner|Addison Timlin |Callum Keith Rennie|Jason Beghe|Stephen Tobolowsky|</Actors>
+  <Actors>|David Duchovny|Natascha McElhone|Evan Handler|Pamela Adlon|Madeleine Martin|Camilla Luddington|Carla Gallo|Madeline Zima|Maggie Grace|Addison Timlin |Carla Gugino|Rachel Miner|Callum Keith Rennie|Jason Beghe|Stephen Tobolowsky|</Actors>
   <Airs_DayOfWeek>Sunday</Airs_DayOfWeek>
-  <Airs_Time>10:30 PM</Airs_Time>
+  <Airs_Time>9:30 PM</Airs_Time>
   <ContentRating>TV-MA</ContentRating>
   <FirstAired>2007-08-13</FirstAired>
   <Genre>|Comedy|Drama|</Genre>
@@ -12,258 +12,21 @@
   <Network>Showtime</Network>
   <NetworkID></NetworkID>
   <Overview>David Duchovny returns to TV with his Golden Globe-winning portrayal of author Hank Moody in the critically-acclaimed Showtime hit Californication. Author Hank Moody's life is spinning gloriously out of control as he juggles his sex and drug addictions while raising a daughter and trying to win back the love of his life in this edgy new series. </Overview>
-  <Rating>8.9</Rating>
-  <RatingCount>315</RatingCount>
+  <Rating>8.8</Rating>
+  <RatingCount>327</RatingCount>
   <Runtime>30</Runtime>
   <SeriesID>68749</SeriesID>
   <SeriesName>Californication</SeriesName>
-  <Status>Continuing</Status>
+  <Status>Ended</Status>
   <added></added>
   <addedBy></addedBy>
-  <banner>graphical/80349-g4.jpg</banner>
-  <fanart>fanart/original/80349-44.jpg</fanart>
-  <lastupdated>1394147538</lastupdated>
-  <poster>posters/80349-12.jpg</poster>
+  <banner>graphical/80349-g10.jpg</banner>
+  <fanart>fanart/original/80349-19.jpg</fanart>
+  <lastupdated>1405702838</lastupdated>
+  <poster>posters/80349-5.jpg</poster>
+  <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>SH942836</zap2it_id>
 </Series>
-<Episode>
-  <id>2334731</id>
-  <Combined_episodenumber>1</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>Heart, Balls &amp; Swagger</EpisodeName>
-  <EpisodeNumber>1</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating>7.0</Rating>
-  <RatingCount>1</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1275841677</lastupdated>
-  <seasonid>27986</seasonid>
-  <seriesid>80349</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4106742</id>
-  <Combined_episodenumber>2</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>Californiaction:  A Sit-Down With David Duchovny</EpisodeName>
-  <EpisodeNumber>2</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating>8.0</Rating>
-  <RatingCount>1</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1306612842</lastupdated>
-  <seasonid>27986</seasonid>
-  <seriesid>80349</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4106743</id>
-  <Combined_episodenumber>3</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>Marcy's Waxing Salon</EpisodeName>
-  <EpisodeNumber>3</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1306613094</lastupdated>
-  <seasonid>27986</seasonid>
-  <seriesid>80349</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4109108</id>
-  <Combined_episodenumber>4</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>Season 3 Blooper Reel</EpisodeName>
-  <EpisodeNumber>4</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating>7.0</Rating>
-  <RatingCount>1</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1307067136</lastupdated>
-  <seasonid>27986</seasonid>
-  <seriesid>80349</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4109109</id>
-  <Combined_episodenumber>5</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>Marcie's Pajama Party</EpisodeName>
-  <EpisodeNumber>5</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating>3.0</Rating>
-  <RatingCount>1</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1307067217</lastupdated>
-  <seasonid>27986</seasonid>
-  <seriesid>80349</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4190631</id>
-  <Combined_episodenumber>6</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>Sho Original</EpisodeName>
-  <EpisodeNumber>6</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating>10.0</Rating>
-  <RatingCount>1</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season>4</airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1340280669</lastupdated>
-  <seasonid>27986</seasonid>
-  <seriesid>80349</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4196502</id>
-  <Combined_episodenumber>7</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>David Duchovny Directing</EpisodeName>
-  <EpisodeNumber>7</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating>7.0</Rating>
-  <RatingCount>1</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season>4</airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1340280715</lastupdated>
-  <seasonid>27986</seasonid>
-  <seriesid>80349</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
 <Episode>
   <id>332180</id>
   <Combined_episodenumber>1.0</Combined_episodenumber>
@@ -283,12 +46,12 @@
   <Overview>We meet 30ish year old Hank Moody in a church asking God to help him get his life back on track. He is then distracted by a hot nun. Moody also has to interact with ex-wife Karen who might still love him. With her, they share the custody of their 12 year old daughter Becca who is wise beyond her years but is starting to have a sex life, which freaks out both of her parents.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>128</RatingCount>
+  <RatingCount>129</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Tom Kapinos</Writer>
   <absolute_number>1</absolute_number>
   <filename>episodes/80349/332180.jpg</filename>
-  <lastupdated>1393348992</lastupdated>
+  <lastupdated>1403445116</lastupdated>
   <seasonid>27987</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -314,12 +77,12 @@
   <Overview>Becca invites Hank to her Mom and Bill's house for a dinner party with some mutual friends. After he arrives, however, he realizes that Karen has planned a little setup for Hank with a scientologist friend of hers, which doesn't thrill Hank all that much. But, Hank gets a nice laugh out of it after the rest of the party people walk in on him and Sonja in the bedroom. Hank also gets a little news about the job he recently accepted.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>118</RatingCount>
+  <RatingCount>119</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Tom Kapinos</Writer>
   <absolute_number>2</absolute_number>
   <filename>episodes/80349/332181.jpg</filename>
-  <lastupdated>1393349010</lastupdated>
+  <lastupdated>1402562586</lastupdated>
   <seasonid>27987</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -350,7 +113,7 @@
   <Writer>Tom Kapinos</Writer>
   <absolute_number>3</absolute_number>
   <filename>episodes/80349/332182.jpg</filename>
-  <lastupdated>1393349025</lastupdated>
+  <lastupdated>1402562536</lastupdated>
   <seasonid>27987</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -381,7 +144,7 @@
   <Writer>Daisy Gardner</Writer>
   <absolute_number>4</absolute_number>
   <filename>episodes/80349/334481.jpg</filename>
-  <lastupdated>1393349044</lastupdated>
+  <lastupdated>1402562567</lastupdated>
   <seasonid>27987</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -412,7 +175,7 @@
   <Writer>Susan McMartin</Writer>
   <absolute_number>5</absolute_number>
   <filename>episodes/80349/332183.jpg</filename>
-  <lastupdated>1393349067</lastupdated>
+  <lastupdated>1402562622</lastupdated>
   <seasonid>27987</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -445,7 +208,7 @@ Charlie wants to spice up the sex life with his wife, but she is not as fond of 
   <Writer>Eric Weinberg|Tom Kapinos</Writer>
   <absolute_number>6</absolute_number>
   <filename>episodes/80349/334482.jpg</filename>
-  <lastupdated>1393349087</lastupdated>
+  <lastupdated>1402562652</lastupdated>
   <seasonid>27987</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -477,7 +240,7 @@ Marcy comes up with the idea of a threesome with Charlie and Dani, but it ends u
   <Writer>Gina Fattore</Writer>
   <absolute_number>7</absolute_number>
   <filename>episodes/80349/334483.jpg</filename>
-  <lastupdated>1393349110</lastupdated>
+  <lastupdated>1402562692</lastupdated>
   <seasonid>27987</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -508,7 +271,7 @@ Marcy comes up with the idea of a threesome with Charlie and Dani, but it ends u
   <Writer>Tom Kapinos</Writer>
   <absolute_number>8</absolute_number>
   <filename>episodes/80349/334484.jpg</filename>
-  <lastupdated>1393349130</lastupdated>
+  <lastupdated>1402562711</lastupdated>
   <seasonid>27987</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -534,12 +297,12 @@ Marcy comes up with the idea of a threesome with Charlie and Dani, but it ends u
   <Overview>After the funeral of Hank's father Al, Hank comes back to L.A. with a new manuscript, that he wants Karen to read. After receiving a bonus paycheck, he buys a new car for himself and a new guitar for Becca.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>90</RatingCount>
+  <RatingCount>91</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Ildy Modrovich</Writer>
   <absolute_number>9</absolute_number>
   <filename>episodes/80349/337566.jpg</filename>
-  <lastupdated>1393349146</lastupdated>
+  <lastupdated>1402562744</lastupdated>
   <seasonid>27987</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -570,7 +333,7 @@ Marcy comes up with the idea of a threesome with Charlie and Dani, but it ends u
   <Writer>Tom Kapinos</Writer>
   <absolute_number>10</absolute_number>
   <filename>episodes/80349/337929.jpg</filename>
-  <lastupdated>1393349161</lastupdated>
+  <lastupdated>1402562775</lastupdated>
   <seasonid>27987</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -602,7 +365,7 @@ Becca decides to move out of Bill and Karen's home to live with her dad Hank.</O
   <Writer>Gina Fattore|Eric Weinberg</Writer>
   <absolute_number>11</absolute_number>
   <filename>episodes/80349/337930.jpg</filename>
-  <lastupdated>1393349184</lastupdated>
+  <lastupdated>1402562792</lastupdated>
   <seasonid>27987</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -628,12 +391,12 @@ Becca decides to move out of Bill and Karen's home to live with her dad Hank.</O
   <Overview>As Karen's wedding to Bill nears, Hank struggles with accepting what appears to be inevitable. Bill informs Mia that he will not allow her book to be published and Hank has a unique solution to dealing with Becca's surprise visitor. </Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.1</Rating>
-  <RatingCount>78</RatingCount>
+  <RatingCount>79</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Gina Fattore|Eric Weinberg|Tom Kapinos</Writer>
   <absolute_number>12</absolute_number>
   <filename>episodes/80349/337931.jpg</filename>
-  <lastupdated>1393349202</lastupdated>
+  <lastupdated>1402562807</lastupdated>
   <seasonid>27987</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -664,7 +427,7 @@ Becca decides to move out of Bill and Karen's home to live with her dad Hank.</O
   <Writer>Tom Kapinos</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80349/380966.jpg</filename>
-  <lastupdated>1372070065</lastupdated>
+  <lastupdated>1402099982</lastupdated>
   <seasonid>34326</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -696,7 +459,7 @@ Meanwhile, Charlie gets fired after his former assistant, Dani, plays the agency
   <Writer>Tom Kapinos</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80349/385774.jpg</filename>
-  <lastupdated>1372069636</lastupdated>
+  <lastupdated>1402099994</lastupdated>
   <seasonid>34326</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -727,7 +490,7 @@ Meanwhile, Charlie gets fired after his former assistant, Dani, plays the agency
   <Writer>Gina Fattore</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80349/385778.jpg</filename>
-  <lastupdated>1338070026</lastupdated>
+  <lastupdated>1402100005</lastupdated>
   <seasonid>34326</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -758,7 +521,7 @@ Meanwhile, Charlie gets fired after his former assistant, Dani, plays the agency
   <Writer>Tom Kapinos</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80349/385779.jpg</filename>
-  <lastupdated>1338070082</lastupdated>
+  <lastupdated>1402100023</lastupdated>
   <seasonid>34326</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -789,7 +552,7 @@ Meanwhile, Charlie gets fired after his former assistant, Dani, plays the agency
   <Writer>Jay Dyer</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80349/385780.jpg</filename>
-  <lastupdated>1338070234</lastupdated>
+  <lastupdated>1402100034</lastupdated>
   <seasonid>34326</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -815,12 +578,12 @@ Meanwhile, Charlie gets fired after his former assistant, Dani, plays the agency
   <Overview>Hank decides to seek out Lew Ashby’s long lost love, Janie Jones. Hank accidentally walks in on Julian going at it with a rocker chick he’s “mentoring”. Mia spends the day trailed by Rolling Stone reporter Annika Staley. The Runkle residence is transformed into the set of Vaginatown.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>81</RatingCount>
+  <RatingCount>82</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Gina Fattore|Gabriel Roth</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80349/385781.jpg</filename>
-  <lastupdated>1323879782</lastupdated>
+  <lastupdated>1402100043</lastupdated>
   <seasonid>34326</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -851,7 +614,7 @@ Meanwhile, Charlie gets fired after his former assistant, Dani, plays the agency
   <Writer>Tom Kapinos</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80349/400443.jpg</filename>
-  <lastupdated>1323879825</lastupdated>
+  <lastupdated>1402100053</lastupdated>
   <seasonid>34326</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -882,7 +645,7 @@ Meanwhile, Charlie gets fired after his former assistant, Dani, plays the agency
   <Writer>Daisy Gardner</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80349/400444.jpg</filename>
-  <lastupdated>1323879873</lastupdated>
+  <lastupdated>1402100063</lastupdated>
   <seasonid>34326</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -913,7 +676,7 @@ Meanwhile, Charlie gets fired after his former assistant, Dani, plays the agency
   <Writer>Gina Fattore</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80349/400445.jpg</filename>
-  <lastupdated>1323879942</lastupdated>
+  <lastupdated>1402100074</lastupdated>
   <seasonid>34326</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -944,7 +707,7 @@ Meanwhile, Charlie gets fired after his former assistant, Dani, plays the agency
   <Writer>Tom Kapinos</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80349/408803.jpg</filename>
-  <lastupdated>1330080294</lastupdated>
+  <lastupdated>1402100083</lastupdated>
   <seasonid>34326</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -975,7 +738,7 @@ Meanwhile, Charlie gets fired after his former assistant, Dani, plays the agency
   <Writer>Gina Fattore</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80349/409264.jpg</filename>
-  <lastupdated>1372069675</lastupdated>
+  <lastupdated>1402100098</lastupdated>
   <seasonid>34326</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -1006,7 +769,7 @@ Meanwhile, Charlie gets fired after his former assistant, Dani, plays the agency
   <Writer>Tom Kapinos</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80349/409265.jpg</filename>
-  <lastupdated>1323880024</lastupdated>
+  <lastupdated>1403445081</lastupdated>
   <seasonid>34326</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -1032,12 +795,12 @@ Meanwhile, Charlie gets fired after his former assistant, Dani, plays the agency
   <Overview>With Karen gone, Hank has to deal with a more and more rebellious Becca. Meanwhile, Charlie and Marcy move back together though they still plan to divorce each other.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>108</RatingCount>
+  <RatingCount>109</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Tom Kapinos</Writer>
   <absolute_number>25</absolute_number>
   <filename>episodes/80349/937491.jpg</filename>
-  <lastupdated>1386525324</lastupdated>
+  <lastupdated>1405682699</lastupdated>
   <seasonid>100911</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -1068,7 +831,7 @@ Meanwhile, Charlie gets fired after his former assistant, Dani, plays the agency
   <Writer>Tom Kapinos</Writer>
   <absolute_number>26</absolute_number>
   <filename>episodes/80349/1085311.jpg</filename>
-  <lastupdated>1386525371</lastupdated>
+  <lastupdated>1402100144</lastupdated>
   <seasonid>100911</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -1099,7 +862,7 @@ Meanwhile, Charlie gets fired after his former assistant, Dani, plays the agency
   <Writer>Gina Fattore</Writer>
   <absolute_number>27</absolute_number>
   <filename>episodes/80349/1128971.jpg</filename>
-  <lastupdated>1386525402</lastupdated>
+  <lastupdated>1402100158</lastupdated>
   <seasonid>100911</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -1130,7 +893,7 @@ Meanwhile, Charlie gets fired after his former assistant, Dani, plays the agency
   <Writer>Tom Kapinos</Writer>
   <absolute_number>28</absolute_number>
   <filename>episodes/80349/1128981.jpg</filename>
-  <lastupdated>1386525426</lastupdated>
+  <lastupdated>1402100167</lastupdated>
   <seasonid>100911</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -1161,7 +924,7 @@ Meanwhile, Charlie gets fired after his former assistant, Dani, plays the agency
   <Writer>Tom Kapinos</Writer>
   <absolute_number>29</absolute_number>
   <filename>episodes/80349/1128991.jpg</filename>
-  <lastupdated>1386525464</lastupdated>
+  <lastupdated>1402100176</lastupdated>
   <seasonid>100911</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -1193,7 +956,7 @@ Charlie is crushed when Marcy loudly consummates her girlhood-crush on Rick Spri
   <Writer>Gina Fattore</Writer>
   <absolute_number>30</absolute_number>
   <filename>episodes/80349/1185971.jpg</filename>
-  <lastupdated>1386525487</lastupdated>
+  <lastupdated>1402100187</lastupdated>
   <seasonid>100911</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -1224,7 +987,7 @@ Charlie is crushed when Marcy loudly consummates her girlhood-crush on Rick Spri
   <Writer>Daisy Gardner</Writer>
   <absolute_number>31</absolute_number>
   <filename>episodes/80349/1095931.jpg</filename>
-  <lastupdated>1386525506</lastupdated>
+  <lastupdated>1402100198</lastupdated>
   <seasonid>100911</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -1255,7 +1018,7 @@ Charlie is crushed when Marcy loudly consummates her girlhood-crush on Rick Spri
   <Writer>Tom Kapinos</Writer>
   <absolute_number>32</absolute_number>
   <filename>episodes/80349/1230371.jpg</filename>
-  <lastupdated>1386525542</lastupdated>
+  <lastupdated>1402100210</lastupdated>
   <seasonid>100911</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -1286,7 +1049,7 @@ Charlie is crushed when Marcy loudly consummates her girlhood-crush on Rick Spri
   <Writer>Gina Fattore|Matt Patterson</Writer>
   <absolute_number>33</absolute_number>
   <filename>episodes/80349/1230381.jpg</filename>
-  <lastupdated>1386525577</lastupdated>
+  <lastupdated>1402100219</lastupdated>
   <seasonid>100911</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -1317,7 +1080,7 @@ Charlie is crushed when Marcy loudly consummates her girlhood-crush on Rick Spri
   <Writer>|Tom Kapinos|Gina Fattore|</Writer>
   <absolute_number>34</absolute_number>
   <filename>episodes/80349/1230391.jpg</filename>
-  <lastupdated>1386525593</lastupdated>
+  <lastupdated>1402100229</lastupdated>
   <seasonid>100911</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -1348,7 +1111,7 @@ Charlie is crushed when Marcy loudly consummates her girlhood-crush on Rick Spri
   <Writer>Gina Fattore|Daisy Gardner</Writer>
   <absolute_number>35</absolute_number>
   <filename>episodes/80349/1311011.jpg</filename>
-  <lastupdated>1386525616</lastupdated>
+  <lastupdated>1402100240</lastupdated>
   <seasonid>100911</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -1379,7 +1142,7 @@ Charlie is crushed when Marcy loudly consummates her girlhood-crush on Rick Spri
   <Writer>Tom Kapinos</Writer>
   <absolute_number>36</absolute_number>
   <filename>episodes/80349/1311031.jpg</filename>
-  <lastupdated>1386525637</lastupdated>
+  <lastupdated>1402100250</lastupdated>
   <seasonid>100911</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -1411,7 +1174,7 @@ Charlie is crushed when Marcy loudly consummates her girlhood-crush on Rick Spri
   <Writer>Tom Kapinos</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80349/1918471.jpg</filename>
-  <lastupdated>1386526342</lastupdated>
+  <lastupdated>1403306867</lastupdated>
   <seasonid>215381</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -1442,7 +1205,7 @@ Charlie is crushed when Marcy loudly consummates her girlhood-crush on Rick Spri
   <Writer>Tom Kapinos</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80349/2350481.jpg</filename>
-  <lastupdated>1386526363</lastupdated>
+  <lastupdated>1403306888</lastupdated>
   <seasonid>215381</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -1473,7 +1236,7 @@ Charlie is crushed when Marcy loudly consummates her girlhood-crush on Rick Spri
   <Writer>Tom Kapinos</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80349/2350491.jpg</filename>
-  <lastupdated>1386526391</lastupdated>
+  <lastupdated>1403306908</lastupdated>
   <seasonid>215381</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -1504,7 +1267,7 @@ Charlie is crushed when Marcy loudly consummates her girlhood-crush on Rick Spri
   <Writer>|Gabe Roth|Matt Patterson|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80349/2350501.jpg</filename>
-  <lastupdated>1386526412</lastupdated>
+  <lastupdated>1403306924</lastupdated>
   <seasonid>215381</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -1530,12 +1293,12 @@ Charlie is crushed when Marcy loudly consummates her girlhood-crush on Rick Spri
   <Overview>After a personal grooming mishap, Charlie discovers that his vasectomy was botched and that Marcy's baby could be his; Hank's relationship with lawyer Abby gets more personal but a good deed yields a compromising photo that could ruin Hank's life.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>146</RatingCount>
+  <RatingCount>147</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Tom Kapinos</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80349/2350511.jpg</filename>
-  <lastupdated>1386526457</lastupdated>
+  <lastupdated>1403306950</lastupdated>
   <seasonid>215381</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -1561,12 +1324,12 @@ Charlie is crushed when Marcy loudly consummates her girlhood-crush on Rick Spri
   <Overview>A sensational photo derails Hank's case and threatens to destroy his movie project until his sincere love for Becca rescues his career, while Karen resuscitates her ex-husband's relationship with his beautiful lawyer.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>137</RatingCount>
+  <RatingCount>138</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Vanessa Reisen</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80349/2350521.jpg</filename>
-  <lastupdated>1386526479</lastupdated>
+  <lastupdated>1403306976</lastupdated>
   <seasonid>215381</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -1592,12 +1355,12 @@ Charlie is crushed when Marcy loudly consummates her girlhood-crush on Rick Spri
   <Overview>Forced by her relationship with Hank to recuse herself as his lawyer, Abby pitches the case to a senior partner on the golf course; Hank is dismayed by Karen's growing relationship with artist Ben; Marcy and Stu ask Charlie to help them pitch a TV project.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>139</RatingCount>
+  <RatingCount>140</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Tom Kapinos</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80349/2350531.jpg</filename>
-  <lastupdated>1386526519</lastupdated>
+  <lastupdated>1403306992</lastupdated>
   <seasonid>215381</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -1625,12 +1388,12 @@ Charlie is crushed when Marcy loudly consummates her girlhood-crush on Rick Spri
 </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>132</RatingCount>
+  <RatingCount>134</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Tom Kapinos</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80349/2350541.jpg</filename>
-  <lastupdated>1386526691</lastupdated>
+  <lastupdated>1403307008</lastupdated>
   <seasonid>215381</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -1656,12 +1419,12 @@ Charlie is crushed when Marcy loudly consummates her girlhood-crush on Rick Spri
   <Overview>Evicted from his apartment, Hank moves back in with Karen and Becca while he prepares for his trial and teaches his daughter to drive; while Karen's out on a date with Ben, Becca and Pearl steal the Porsche and wreck it. </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>127</RatingCount>
+  <RatingCount>129</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Tom Kapinos|Gabriel Roth</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80349/2350551.jpg</filename>
-  <lastupdated>1386526760</lastupdated>
+  <lastupdated>1403307043</lastupdated>
   <seasonid>215381</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -1687,12 +1450,12 @@ Charlie is crushed when Marcy loudly consummates her girlhood-crush on Rick Spri
   <Overview>A nervous Hank discovers that he's got good reason to panic when his trial turns into an all-out character assassination, with even friendly witnesses Charlie and Karen unable to portray him as anything other than a drunken, oversexed lout.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>135</RatingCount>
+  <RatingCount>137</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Tom Kapinos</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80349/2350561.jpg</filename>
-  <lastupdated>1386526809</lastupdated>
+  <lastupdated>1403307054</lastupdated>
   <seasonid>215381</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -1718,12 +1481,12 @@ Charlie is crushed when Marcy loudly consummates her girlhood-crush on Rick Spri
   <Overview>Found guilty of statutory rape, Hank buys a used Porsche and considers fleeing from Los Angeles, but instead enjoys one last night in the company of his friends and family.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>136</RatingCount>
+  <RatingCount>138</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Tom Kapinos</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80349/2350571.jpg</filename>
-  <lastupdated>1386526833</lastupdated>
+  <lastupdated>1403307065</lastupdated>
   <seasonid>215381</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -1749,12 +1512,12 @@ Charlie is crushed when Marcy loudly consummates her girlhood-crush on Rick Spri
   <Overview>As Hank awaits sentencing, the lines between his real life and the movie based on his life blur as the film's star hits on his ex-wife and he feels stirrings of passion for the actress hired to play Karen.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.1</Rating>
-  <RatingCount>129</RatingCount>
+  <RatingCount>131</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Tom Kapinos</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80349/2350581.jpg</filename>
-  <lastupdated>1386526870</lastupdated>
+  <lastupdated>1403307076</lastupdated>
   <seasonid>215381</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -1780,12 +1543,12 @@ Charlie is crushed when Marcy loudly consummates her girlhood-crush on Rick Spri
   <Overview>In the Season 5 premiere, a few years have passed and Hank is living in New York but looking for a ticket out of town after his latest breakup. He accepts an invitation from Charlie to come to Los Angeles for a job writing a film starring rapper/actor Samurai Apolcaypse, then reunites with Karen, her former professor and now-husband Richard, and his daughter Becca, who now has a boyfriend named Tyler that is the spitting image of Hank himself ... in the worst possible way.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>105</RatingCount>
+  <RatingCount>106</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Tom Kapinos</Writer>
   <absolute_number>49</absolute_number>
   <filename>episodes/80349/4226914.jpg</filename>
-  <lastupdated>1362479085</lastupdated>
+  <lastupdated>1403390723</lastupdated>
   <seasonid>471103</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -1811,12 +1574,12 @@ Charlie is crushed when Marcy loudly consummates her girlhood-crush on Rick Spri
   <Overview>Hank passes on writing Samurai Apocalypse's new movie but Sam won't take no for an answer and drags Hank to a meeting with director Peter Berg, where they discover that Hank and Peter have shared more than just a love of the written word. Sam takes it on himself to get rid of Tyler, which makes things worse between Hank and Becca. Co-parents Charlie, Marcy and Stu have their hands full when Little Stuart exposes himself to a preschool classmate, and Charlie takes it upon himself to mend fences with the offended girl's attractive mother.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>124</RatingCount>
+  <RatingCount>125</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Tom Kapinos</Writer>
   <absolute_number>50</absolute_number>
   <filename>episodes/80349/4226915.jpg</filename>
-  <lastupdated>1379628098</lastupdated>
+  <lastupdated>1403390737</lastupdated>
   <seasonid>471103</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -1842,12 +1605,12 @@ Charlie is crushed when Marcy loudly consummates her girlhood-crush on Rick Spri
   <Overview>Hank hands a completed draft of &quot;Santa Monica Cop&quot; over to Samurai Apocalypse, but he still finds himself stuck in L.A. when he's asked to take Kali, his &quot;acquaintance&quot; from the flight to Los Angles, out for a night on the town. Tyler crashes at Karen and Becca's house while he recovers from his injuries. Charlie is rescued from  a serious parental crisis by Stuart's nanny, Lizzie.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>121</RatingCount>
+  <RatingCount>122</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Tom Kapinos</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80349/4226916.jpg</filename>
-  <lastupdated>1379628110</lastupdated>
+  <lastupdated>1403390748</lastupdated>
   <seasonid>471103</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -1873,12 +1636,12 @@ Charlie is crushed when Marcy loudly consummates her girlhood-crush on Rick Spri
   <Overview>Hank receives an unwelcome surprise in the form of Carrie, ex-girlfriend and arsonist that he's forced to invite along when Karen and Becca show up to invite him to a dinner party. Stu, Marcy and Bates' talk of sexual proclivities leaves the Moodys searching for the nearest exit, but the party gets even more out of control when Carrie has a realization about Hank. Meanwhile, Charlie goes on a blind date with Mary, a &quot;nice girl&quot; who's more than a little inexperienced.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>121</RatingCount>
+  <RatingCount>122</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Tom Kapinos</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80349/4226917.jpg</filename>
-  <lastupdated>1379628120</lastupdated>
+  <lastupdated>1403390759</lastupdated>
   <seasonid>471103</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -1909,7 +1672,7 @@ Charlie is crushed when Marcy loudly consummates her girlhood-crush on Rick Spri
   <Writer>Tom Kapinos</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80349/4226918.jpg</filename>
-  <lastupdated>1379628133</lastupdated>
+  <lastupdated>1403390770</lastupdated>
   <seasonid>471103</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -1940,7 +1703,7 @@ Charlie is crushed when Marcy loudly consummates her girlhood-crush on Rick Spri
   <Writer>Tom Kapinos</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80349/4226919.jpg</filename>
-  <lastupdated>1379628141</lastupdated>
+  <lastupdated>1403390800</lastupdated>
   <seasonid>471103</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -1971,7 +1734,7 @@ Charlie is crushed when Marcy loudly consummates her girlhood-crush on Rick Spri
   <Writer>Tom Kapinos</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80349/4226920.jpg</filename>
-  <lastupdated>1362486076</lastupdated>
+  <lastupdated>1403390953</lastupdated>
   <seasonid>471103</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -2002,7 +1765,7 @@ Charlie is crushed when Marcy loudly consummates her girlhood-crush on Rick Spri
   <Writer>Tom Kapinos</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80349/4145966.jpg</filename>
-  <lastupdated>1379628153</lastupdated>
+  <lastupdated>1403390967</lastupdated>
   <seasonid>471103</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -2033,7 +1796,7 @@ Charlie is crushed when Marcy loudly consummates her girlhood-crush on Rick Spri
   <Writer>Tom Kapinos</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80349/4220086.jpg</filename>
-  <lastupdated>1379628163</lastupdated>
+  <lastupdated>1404932174</lastupdated>
   <seasonid>471103</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -2059,12 +1822,12 @@ Charlie is crushed when Marcy loudly consummates her girlhood-crush on Rick Spri
   <Overview>Minus one agent and best friend, Hank crashes with his two favorite ladies, Karen and Becca. Looking for new representation, he meets with Hollywood power agent Larry Levine, who quickly sets a meeting with world-class filmmaker and Hank Moody idol Lars Manderhoff. It may be a match made in heaven when Lars surprises Hank with one of his favorite working girls, Trixie (guest star Judy Greer). Distraught over his personal losses, Charlie seeks comfort from Marcy while Lizzie enjoys her big break, a part in &quot;Santa Monica Cop&quot; courtesy of Stu.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>100</RatingCount>
+  <RatingCount>101</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Tom Kapinos</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80349/4220087.jpg</filename>
-  <lastupdated>1379628172</lastupdated>
+  <lastupdated>1403391004</lastupdated>
   <seasonid>471103</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -2095,7 +1858,7 @@ Charlie is crushed when Marcy loudly consummates her girlhood-crush on Rick Spri
   <Writer>Tom Kapinos</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80349/4220088.jpg</filename>
-  <lastupdated>1379628182</lastupdated>
+  <lastupdated>1404932164</lastupdated>
   <seasonid>471103</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -2126,7 +1889,7 @@ Charlie is crushed when Marcy loudly consummates her girlhood-crush on Rick Spri
   <Writer>Tom Kapinos</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80349/4226913.jpg</filename>
-  <lastupdated>1362486281</lastupdated>
+  <lastupdated>1403391026</lastupdated>
   <seasonid>471103</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -2152,12 +1915,12 @@ Charlie is crushed when Marcy loudly consummates her girlhood-crush on Rick Spri
   <Overview>Hank Moody narrowly survives the aftermath of his scorned ex-lover Carrie; her attempted suicide to see them both together, free from the constraints around them. Charlie takes Hank to see Atticus Fetch, a rocker who is interested in turning &quot;A Crazy Little Thing Called Love&quot; into a Broadway show. Meanwhile, Karen, Marcy and Charlie have to deal with Hank, after a revelation about Becca.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>68</RatingCount>
+  <RatingCount>73</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>Tom Kapinos</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80349/4292738.jpg</filename>
-  <lastupdated>1393348785</lastupdated>
+  <lastupdated>1404932149</lastupdated>
   <seasonid>488427</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -2183,12 +1946,12 @@ Charlie is crushed when Marcy loudly consummates her girlhood-crush on Rick Spri
   <Overview>Hank reluctantly heeds the advice from his family and friends, but Faith, muse to many-a-rock-star, may be his light at the end of the tunnel. Charlie runs into out-and-proud movie star Robbie Mac and finds himself taking drastic action in order to land the award winner as a client. Marcy loses her resolve with Stu, while Karen lands a new job.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>66</RatingCount>
+  <RatingCount>70</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>Tom Kapinos</Writer>
   <absolute_number>62</absolute_number>
   <filename>episodes/80349/4342563.jpg</filename>
-  <lastupdated>1393348805</lastupdated>
+  <lastupdated>1404932142</lastupdated>
   <seasonid>488427</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -2214,12 +1977,12 @@ Charlie is crushed when Marcy loudly consummates her girlhood-crush on Rick Spri
   <Overview>Hank and Faith attend a funeral. Later, Karen finds Hank in a compromising position. Robbie Mac and Ken take Charlie out on the town, which doesn't sit well with Marcy.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>63</RatingCount>
+  <RatingCount>68</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>Tom Kapinos</Writer>
   <absolute_number>63</absolute_number>
   <filename>episodes/80349/4342564.jpg</filename>
-  <lastupdated>1393348834</lastupdated>
+  <lastupdated>1404932134</lastupdated>
   <seasonid>488427</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -2245,12 +2008,12 @@ Charlie is crushed when Marcy loudly consummates her girlhood-crush on Rick Spri
   <Overview>Hank and Charlie's meeting with Robbie Mac isn't as promising as they hoped; and later, Hank reconnects with an entertainment exec he'd worked with. Meanwhile, Marcy, Ophelia and Karen swap tales over dinner, while Becca proves she's her father's daughter at a reading of her work.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>57</RatingCount>
+  <RatingCount>63</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>Tom Kapinos</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80349/4345573.jpg</filename>
-  <lastupdated>1390700677</lastupdated>
+  <lastupdated>1398031241</lastupdated>
   <seasonid>488427</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -2276,12 +2039,12 @@ Charlie is crushed when Marcy loudly consummates her girlhood-crush on Rick Spri
   <Overview>Ken discovers Charlie’s secret. Atticus sends Hank and Charlie on a hunt, so they enlist the help of Hank’s daughter Becca. Marcy makes a decision about Stu that is influenced by her man-hating spiritual guide, Ophelia Robbins.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>50</RatingCount>
+  <RatingCount>56</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>Tom Kapinos</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80349/4345574.jpg</filename>
-  <lastupdated>1390700690</lastupdated>
+  <lastupdated>1400245177</lastupdated>
   <seasonid>488427</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -2296,23 +2059,23 @@ Charlie is crushed when Marcy loudly consummates her girlhood-crush on Rick Spri
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
+  <Director>David Von Ancken</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>In the Clouds</EpisodeName>
   <EpisodeNumber>6</EpisodeNumber>
   <FirstAired>2013-02-24</FirstAired>
-  <GuestStars></GuestStars>
+  <GuestStars>Maggie Grace|Alanna Ubach|Sarah Wynter|Steve Jones|Tim Minchin|Kristina Kruz|Liz Nicole Abrams|Jack J. Bennett</GuestStars>
   <IMDB_ID>tt2231856</IMDB_ID>
   <Language>en</Language>
   <Overview>Karen asks Hank to intervene with Becca. Later, the boys board Air Force 69 with Atticus Fetch to fly to NYC to present the songs for the Broadway adaptation of &quot;A Crazy Little Thing Called Love.&quot; Charlie faces a serious case of aerophobia. Atticus is surprised by Faith, while his wife surprises Hank.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>57</RatingCount>
+  <RatingCount>62</RatingCount>
   <SeasonNumber>6</SeasonNumber>
-  <Writer></Writer>
+  <Writer>Tom Kapinos</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80349/4345575.jpg</filename>
-  <lastupdated>1390700704</lastupdated>
+  <lastupdated>1400647811</lastupdated>
   <seasonid>488427</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -2338,12 +2101,12 @@ Charlie is crushed when Marcy loudly consummates her girlhood-crush on Rick Spri
   <Overview>Hank returns from his trip to find Becca spiraling, but his plan to help her backfires when they go to visit Atticus and meet his current house guest (guest star MARILYN MANSON as himself). Hank has an encounter that puts him in a very awkward position with Karen. Charlie takes Stuart out for the day and has an encounter of his own.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>53</RatingCount>
+  <RatingCount>61</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>Tom Kapinos</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80349/4442878.jpg</filename>
-  <lastupdated>1390700761</lastupdated>
+  <lastupdated>1401219244</lastupdated>
   <seasonid>488427</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -2369,12 +2132,12 @@ Charlie is crushed when Marcy loudly consummates her girlhood-crush on Rick Spri
   <Overview>Becca contemplates career choices. Charlie and Stu try to win back Marcy.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>50</RatingCount>
+  <RatingCount>55</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>Tom Kapinos</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80349/4442879.jpg</filename>
-  <lastupdated>1393348903</lastupdated>
+  <lastupdated>1395694857</lastupdated>
   <seasonid>488427</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -2400,12 +2163,12 @@ Charlie is crushed when Marcy loudly consummates her girlhood-crush on Rick Spri
   <Overview>Atticus throws a party. Faith provides the girls, The Dealer provides the recreation and Hank's old friend provides the entertainment. Hank gets a taste of his own medicine with Karen. Atticus tries to recreate rock and roll folklore with one of his biggest fans while Charlie reunites with The Widow.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>53</RatingCount>
+  <RatingCount>60</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>Tom Kapinos</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80349/4442880.jpg</filename>
-  <lastupdated>1392207434</lastupdated>
+  <lastupdated>1402429268</lastupdated>
   <seasonid>488427</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -2431,12 +2194,12 @@ Charlie is crushed when Marcy loudly consummates her girlhood-crush on Rick Spri
   <Overview>Hank seeks comfort from Faith, only to find her with Beckett. Hank meets two very important people in Faith’s life. On the home front, Becca has some big news.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>45</RatingCount>
+  <RatingCount>52</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>Tom Kapinos</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80349/4442881.jpg</filename>
-  <lastupdated>1392207460</lastupdated>
+  <lastupdated>1403444980</lastupdated>
   <seasonid>488427</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -2461,13 +2224,13 @@ Charlie is crushed when Marcy loudly consummates her girlhood-crush on Rick Spri
   <Language>en</Language>
   <Overview>Hank and Faith join forces to track down Atticus, but Becca is the only person who can really help. Marcy's outing with Ophelia leaves her a little tied up and Charlie's response to a curious message reveals the true feelings between the two exes. Karen has an epiphany about Becca.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>47</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>53</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>Tom Kapinos</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80349/4442883.jpg</filename>
-  <lastupdated>1392333441</lastupdated>
+  <lastupdated>1403445016</lastupdated>
   <seasonid>488427</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -2492,13 +2255,13 @@ Charlie is crushed when Marcy loudly consummates her girlhood-crush on Rick Spri
   <Language>en</Language>
   <Overview>Hank makes a big decision about his future, which affects Faith. Charlie and Marcy also make a decision. The troops are rallied to ensure Atticus makes it to the Greek Theatre for his co-headlining gig with Marilyn Manson. A call from Becca and a visit from a dearly departed friend set Hank in motion.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>8.0</Rating>
-  <RatingCount>43</RatingCount>
+  <Rating>7.9</Rating>
+  <RatingCount>50</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>Tom Kapinos</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80349/4442884.jpg</filename>
-  <lastupdated>1393348950</lastupdated>
+  <lastupdated>1403807282</lastupdated>
   <seasonid>488427</seasonid>
   <seriesid>80349</seriesid>
   <thumb_added></thumb_added>
@@ -2513,31 +2276,31 @@ Charlie is crushed when Marcy loudly consummates her girlhood-crush on Rick Spri
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>TBA</EpisodeName>
+  <Director>David Duchovny</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Levon</EpisodeName>
   <EpisodeNumber>1</EpisodeNumber>
   <FirstAired>2014-04-13</FirstAired>
   <GuestStars></GuestStars>
   <IMDB_ID>tt2785154</IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
+  <Overview>Hank's reunion with Karen doesn't go quite as he planned. Meanwhile, Hank gets hired by the &quot;Santa Monica Cop&quot; showrunner; and a reporter asks to interview Hank for his college paper.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>28</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer>Tom Kapinos</Writer>
   <absolute_number>73</absolute_number>
-  <filename></filename>
-  <lastupdated>1389894644</lastupdated>
+  <filename>episodes/80349/4694150.jpg</filename>
+  <lastupdated>1404932096</lastupdated>
   <seasonid>565366</seasonid>
   <seriesid>80349</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-03-28 07:12:47</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
-  <id>4694151</id>
+  <id>4832474</id>
   <Combined_episodenumber>2</Combined_episodenumber>
   <Combined_season>7</Combined_season>
   <DVD_chapter></DVD_chapter>
@@ -2545,336 +2308,336 @@ Charlie is crushed when Marcy loudly consummates her girlhood-crush on Rick Spri
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
   <Director>Adam Bernstein</Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>TBA</EpisodeName>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Julia</EpisodeName>
   <EpisodeNumber>2</EpisodeNumber>
-  <FirstAired></FirstAired>
+  <FirstAired>2014-04-20</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt2900208</IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
+  <Overview>Hank gets frustrated with his &quot;Santa Monica Cop&quot; coworkers on his first day in the show's writer's room, and he gets a surprise when he visits Levon's apartment. Meanwhile, Charlie meets Rath's new assistant; and Karen gets an unexpected surprise.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>27</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer>Tom Kapinos</Writer>
-  <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1382631010</lastupdated>
+  <absolute_number>74</absolute_number>
+  <filename>episodes/80349/4832474.jpg</filename>
+  <lastupdated>1405682290</lastupdated>
   <seasonid>565366</seasonid>
   <seriesid>80349</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-04-01 08:20:13</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
-  <id>4694152</id>
+  <id>4832475</id>
   <Combined_episodenumber>3</Combined_episodenumber>
   <Combined_season>7</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>TBA</EpisodeName>
+  <Director>Michael Lehmann</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Like Father Like Son</EpisodeName>
   <EpisodeNumber>3</EpisodeNumber>
-  <FirstAired></FirstAired>
+  <FirstAired>2014-04-27</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt3003492</IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
+  <Overview>Hank gets his first episode assignment, much to the dismay of coworkers Terry and Hugh. Meanwhile, Levon tries to bond with Rath's assistant; Charlie attempts to patch things up with Marcy; and Karen considers giving up on Hank.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.0</Rating>
+  <RatingCount>30</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer>Tom Kapinos</Writer>
-  <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1382631040</lastupdated>
+  <absolute_number>75</absolute_number>
+  <filename>episodes/80349/4832475.jpg</filename>
+  <lastupdated>1404468761</lastupdated>
   <seasonid>565366</seasonid>
   <seriesid>80349</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-04-12 13:28:34</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
-  <id>4694153</id>
+  <id>4840650</id>
   <Combined_episodenumber>4</Combined_episodenumber>
   <Combined_season>7</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>TBA</EpisodeName>
+  <Director>David Von Ancken</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Dicks</EpisodeName>
   <EpisodeNumber>4</EpisodeNumber>
-  <FirstAired></FirstAired>
+  <FirstAired>2014-05-04</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt3003496</IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
+  <Overview>Hank and Levon help Julia celebrate her new role. Meanwhile, financial trouble adds to Charlie and Marcy's marital unrest, but a new client may put Charlie back in the black; and Levon tries to get some alone time with Melanie, but the Director keeps getting in the way.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.1</Rating>
+  <RatingCount>26</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer>Tom Kapinos</Writer>
-  <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1382631046</lastupdated>
+  <absolute_number>76</absolute_number>
+  <filename>episodes/80349/4840650.jpg</filename>
+  <lastupdated>1404468545</lastupdated>
   <seasonid>565366</seasonid>
   <seriesid>80349</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-04-18 11:28:51</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
-  <id>4694154</id>
+  <id>4840651</id>
   <Combined_episodenumber>5</Combined_episodenumber>
   <Combined_season>7</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>TBA</EpisodeName>
+  <Director>Seith Mann</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Getting the Poison Out</EpisodeName>
   <EpisodeNumber>5</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <FirstAired>2014-05-11</FirstAired>
+  <GuestStars>|Jon Kasdan|Brigette Davidovici|</GuestStars>
+  <IMDB_ID>tt3417358</IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
+  <Overview>Levon enjoys a night with Nikki, while Karen, Hank and Marcy are forced to endure the company of Nikki's creepy friend. Meanwhile, Charlie gets in over his head with a new client. </Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.1</Rating>
+  <RatingCount>22</RatingCount>
   <SeasonNumber>7</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1382630876</lastupdated>
+  <Writer>Tom Kapinos</Writer>
+  <absolute_number>77</absolute_number>
+  <filename>episodes/80349/4840651.jpg</filename>
+  <lastupdated>1404468735</lastupdated>
   <seasonid>565366</seasonid>
   <seriesid>80349</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-04-30 11:28:24</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
-  <id>4694155</id>
+  <id>4840652</id>
   <Combined_episodenumber>6</Combined_episodenumber>
   <Combined_season>7</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>TBA</EpisodeName>
+  <Director>David Von Ancken</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Kickoff</EpisodeName>
   <EpisodeNumber>6</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <FirstAired>2014-05-18</FirstAired>
+  <GuestStars>|Jon Kasdan|Brandon T. Jackson|</GuestStars>
+  <IMDB_ID>tt3417360</IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
+  <Overview>A &quot;Santa Monica Cop&quot; kickoff party is hosted by Rath, where Hank conducts an intimate notes session with the show's leading lady, and Hashtag Black eyes Julia. Meanwhile, Charlie manages head-case client Goldie; and Stu makes Charlie an offer. </Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.1</Rating>
+  <RatingCount>23</RatingCount>
   <SeasonNumber>7</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1382630878</lastupdated>
+  <Writer>Tom Kapinos</Writer>
+  <absolute_number>78</absolute_number>
+  <filename>episodes/80349/4840652.jpg</filename>
+  <lastupdated>1404468712</lastupdated>
   <seasonid>565366</seasonid>
   <seriesid>80349</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-04-30 11:29:21</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
-  <id>4694156</id>
+  <id>4840653</id>
   <Combined_episodenumber>7</Combined_episodenumber>
   <Combined_season>7</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director>Michael Lehmann</Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>TBA</EpisodeName>
+  <Director>John Dahl</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Smile</EpisodeName>
   <EpisodeNumber>7</EpisodeNumber>
-  <FirstAired></FirstAired>
+  <FirstAired>2014-05-25</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt3067540</IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
+  <Overview>Rath demands a rewrite of Hank's 'Santa Monica Cop' script. Julia's new boss, Dr. Dan, gives her some career advice, but Levon and Hank have other ideas. Charlie and Marcy consider Stu's offer - until Atticus' old rock 'n' roll butler Krull offers an alternative solution to their money woes.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>20</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer>Tom Kapinos</Writer>
-  <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1393693091</lastupdated>
+  <absolute_number>79</absolute_number>
+  <filename>episodes/80349/4840653.jpg</filename>
+  <lastupdated>1404468646</lastupdated>
   <seasonid>565366</seasonid>
   <seriesid>80349</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-05-17 09:59:11</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
-  <id>4694157</id>
+  <id>4840976</id>
   <Combined_episodenumber>8</Combined_episodenumber>
   <Combined_season>7</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>TBA</EpisodeName>
+  <Director>David Von Ancken</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>30 Minutes or Less</EpisodeName>
   <EpisodeNumber>8</EpisodeNumber>
-  <FirstAired></FirstAired>
+  <FirstAired>2014-06-01</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt3417364</IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
+  <Overview>Hank has problems with Hashtag Black. Stu's offer leads to fisticuffs.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>22</RatingCount>
   <SeasonNumber>7</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1382630881</lastupdated>
+  <Writer>Tom Kapinos</Writer>
+  <absolute_number>80</absolute_number>
+  <filename>episodes/80349/4840976.jpg</filename>
+  <lastupdated>1404468626</lastupdated>
   <seasonid>565366</seasonid>
   <seriesid>80349</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-05-17 09:59:17</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
-  <id>4694158</id>
+  <id>4840977</id>
   <Combined_episodenumber>9</Combined_episodenumber>
   <Combined_season>7</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>TBA</EpisodeName>
+  <Director>John Dahl</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Faith, Hope, Love</EpisodeName>
   <EpisodeNumber>9</EpisodeNumber>
-  <FirstAired></FirstAired>
+  <FirstAired>2014-06-08</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt3018576</IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
+  <Overview>Hank recalls turbulent times with Karen, a confused Becca, and their days with a happier Charlie and Marcy. Meanwhile, a nun helps Hank put things into perspective.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>6.9</Rating>
+  <RatingCount>18</RatingCount>
   <SeasonNumber>7</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1382630883</lastupdated>
+  <Writer>Tom Kapinos</Writer>
+  <absolute_number>81</absolute_number>
+  <filename>episodes/80349/4840977.jpg</filename>
+  <lastupdated>1404468614</lastupdated>
   <seasonid>565366</seasonid>
   <seriesid>80349</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-05-26 10:51:12</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
-  <id>4694159</id>
+  <id>4840978</id>
   <Combined_episodenumber>10</Combined_episodenumber>
   <Combined_season>7</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>TBA</EpisodeName>
+  <Director>Adam Bernstein</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Dinner With Friends</EpisodeName>
   <EpisodeNumber>10</EpisodeNumber>
-  <FirstAired></FirstAired>
+  <FirstAired>2014-06-15</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt3168750</IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
+  <Overview>Hank entices Karen to have dinner with him, but Julia interrupts their romantic evening. Later, Charlie, Marcy, Krull, Levon and his new friend bring even more drama to the night; and chaos ensues when Stu assaults Charlie's manhood.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>20</RatingCount>
   <SeasonNumber>7</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1382630884</lastupdated>
+  <Writer>Tom Kapinos</Writer>
+  <absolute_number>82</absolute_number>
+  <filename>episodes/80349/4840978.jpg</filename>
+  <lastupdated>1404468601</lastupdated>
   <seasonid>565366</seasonid>
   <seriesid>80349</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-06-05 18:25:46</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
-  <id>4694160</id>
+  <id>4840979</id>
   <Combined_episodenumber>11</Combined_episodenumber>
   <Combined_season>7</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>TBA</EpisodeName>
+  <Director>Michael Lehmann</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Daughter</EpisodeName>
   <EpisodeNumber>11</EpisodeNumber>
-  <FirstAired></FirstAired>
+  <FirstAired>2014-06-22</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt3417362</IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
+  <Overview>Hank might soon be out of a job. Becca makes a big announcement.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>6.8</Rating>
+  <RatingCount>18</RatingCount>
   <SeasonNumber>7</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1382630889</lastupdated>
+  <Writer>Tom Kapinos</Writer>
+  <absolute_number>83</absolute_number>
+  <filename>episodes/80349/4840979.jpg</filename>
+  <lastupdated>1404468587</lastupdated>
   <seasonid>565366</seasonid>
   <seriesid>80349</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-06-05 18:26:35</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
-  <id>4694161</id>
+  <id>4840980</id>
   <Combined_episodenumber>12</Combined_episodenumber>
   <Combined_season>7</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>cancelled - series finale</EpisodeName>
+  <Director>Adam Bernstein</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Grace</EpisodeName>
   <EpisodeNumber>12</EpisodeNumber>
-  <FirstAired></FirstAired>
+  <FirstAired>2014-06-29</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt3208366</IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
+  <Overview>Hank makes a life-altering decision. Series finale.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>16</RatingCount>
   <SeasonNumber>7</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1392001365</lastupdated>
+  <Writer>Tom Kapinos</Writer>
+  <absolute_number>84</absolute_number>
+  <filename>episodes/80349/4840980.jpg</filename>
+  <lastupdated>1404468568</lastupdated>
   <seasonid>565366</seasonid>
   <seriesid>80349</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-06-10 15:33:39</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 </Data>

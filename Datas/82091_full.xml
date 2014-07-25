@@ -22,8 +22,9 @@
   <addedBy></addedBy>
   <banner>graphical/82091-g5.jpg</banner>
   <fanart>fanart/original/82091-10.jpg</fanart>
-  <lastupdated>1391758796</lastupdated>
+  <lastupdated>1405693189</lastupdated>
   <poster>posters/82091-8.jpg</poster>
+  <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>EP01152404</zap2it_id>
 </Series>
 <Episode>
@@ -215,7 +216,7 @@
   <Overview>Ray Drecker is a struggling high school coach in Detroit who is descending to all-time lows in his professional and personal life. He attends a self-help group in a desperate attempt to find a plan for financial success. Tanya, an old flame, is also attending the self-help group and she gives Ray inspiration in an unexpected way.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.0</Rating>
-  <RatingCount>65</RatingCount>
+  <RatingCount>66</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Colette Burson|Dmitry Lipkin|</Writer>
   <absolute_number>1</absolute_number>
@@ -508,12 +509,12 @@
 </Episode>
 <Episode>
   <id>2119271</id>
-  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_episodenumber>1.0</Combined_episodenumber>
   <Combined_season>2</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>1.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
   <Director>Dan Attias</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Just the Tip</EpisodeName>
@@ -530,7 +531,7 @@
   <Writer>|Colette Burson|Dmitry Lipkin|</Writer>
   <absolute_number>11</absolute_number>
   <filename>episodes/82091/2119271.jpg</filename>
-  <lastupdated>1384514839</lastupdated>
+  <lastupdated>1404567891</lastupdated>
   <seasonid>235861</seasonid>
   <seriesid>82091</seriesid>
   <thumb_added></thumb_added>
@@ -539,12 +540,12 @@
 </Episode>
 <Episode>
   <id>2422481</id>
-  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_episodenumber>2.0</Combined_episodenumber>
   <Combined_season>2</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>2.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
   <Director>David Petrarca</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>'Tucson Is the Gateway to Dick' or 'This Is Not Sexy'</EpisodeName>
@@ -561,7 +562,7 @@
   <Writer>|Dmitry Lipkin|Colette Burson|Julia Brownell|</Writer>
   <absolute_number>12</absolute_number>
   <filename>episodes/82091/2422481.jpg</filename>
-  <lastupdated>1384515103</lastupdated>
+  <lastupdated>1404567898</lastupdated>
   <seasonid>235861</seasonid>
   <seriesid>82091</seriesid>
   <thumb_added></thumb_added>
@@ -570,12 +571,12 @@
 </Episode>
 <Episode>
   <id>2422611</id>
-  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_episodenumber>3.0</Combined_episodenumber>
   <Combined_season>2</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>3.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
   <Director>Jennifer Getzinger</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>'Mind Bullets' or 'Bang Bang Bang Bang Motherfucker'</EpisodeName>
@@ -587,12 +588,12 @@
   <Overview>Spurred by criticism from Damon and Darby, Ray tries to prove he's not an insensitive ex-jock. Seething from the demands of her new boss at work, Tanya turns to Charlie for advice on how to deal with an even more irritable problem: Lenore. Meanwhile, Jessica feels the pinch of the economic downturn, but can't stomach Ronnie's remedy.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>60</RatingCount>
+  <RatingCount>61</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Colette Burson|Dmitry Lipkin|</Writer>
   <absolute_number>13</absolute_number>
   <filename>episodes/82091/2422611.jpg</filename>
-  <lastupdated>1384515086</lastupdated>
+  <lastupdated>1404567905</lastupdated>
   <seasonid>235861</seasonid>
   <seriesid>82091</seriesid>
   <thumb_added></thumb_added>
@@ -601,12 +602,12 @@
 </Episode>
 <Episode>
   <id>2422621</id>
-  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_episodenumber>4.0</Combined_episodenumber>
   <Combined_season>2</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>4.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
   <Director>Uta Briesewitz</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>'Sing It Again Ray' or 'Home Plate'</EpisodeName>
@@ -618,12 +619,12 @@
   <Overview>Ray gives Lenore an ultimatum, and probes Tanya about the possibility of cutting ties with her fellow pimp. Disturbed that Damon has defiled the school baseball diamond, Ray considers Tanya's suggestion that his son find a new hobby to shake him out of his recent doldrums. Ignoring Ray's warning, Lenore offers Jessica advice in dealing with Ronnie. On his way to meet a new client, Ray has to think on his feet when he runs into Mike in a hotel lobby.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>48</RatingCount>
+  <RatingCount>49</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Brett C. Leonard</Writer>
   <absolute_number>14</absolute_number>
   <filename>episodes/82091/2422621.jpg</filename>
-  <lastupdated>1384515068</lastupdated>
+  <lastupdated>1404567917</lastupdated>
   <seasonid>235861</seasonid>
   <seriesid>82091</seriesid>
   <thumb_added></thumb_added>
@@ -632,12 +633,12 @@
 </Episode>
 <Episode>
   <id>2422641</id>
-  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_episodenumber>5.0</Combined_episodenumber>
   <Combined_season>2</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>5.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
   <Director>Adam Davidson</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>'A Man, A Plan' or 'Thank You, Jimmy Carter'</EpisodeName>
@@ -649,12 +650,12 @@
   <Overview>Tanya finally gets Francis to agree to dinner with Ray and Lenore is continuing to be a pest as usual. Ray can tell that Mike is struggling to not continue with his life and tells that he needs to look at himself and tell himself that he is wonderful. Damon goes back to the Poetry Bar and embarrasses Darby after which he has a performance &quot;enhancing&quot; scone and sees Jessica and Ronnie naked. Ray has to choose whether to cancel on the big client or his son who needs him. </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>56</RatingCount>
+  <RatingCount>57</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Eileen Myers</Writer>
   <absolute_number>15</absolute_number>
   <filename>episodes/82091/2422641.jpg</filename>
-  <lastupdated>1385153705</lastupdated>
+  <lastupdated>1404567928</lastupdated>
   <seasonid>235861</seasonid>
   <seriesid>82091</seriesid>
   <thumb_added></thumb_added>
@@ -663,12 +664,12 @@
 </Episode>
 <Episode>
   <id>2422651</id>
-  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_episodenumber>6.0</Combined_episodenumber>
   <Combined_season>2</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>6.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
   <Director>Lisa Cholodenko</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Beaverland</EpisodeName>
@@ -685,7 +686,7 @@
   <Writer>Angela Robinson</Writer>
   <absolute_number>16</absolute_number>
   <filename>episodes/82091/2422651.jpg</filename>
-  <lastupdated>1385153693</lastupdated>
+  <lastupdated>1404567935</lastupdated>
   <seasonid>235861</seasonid>
   <seriesid>82091</seriesid>
   <thumb_added></thumb_added>
@@ -694,12 +695,12 @@
 </Episode>
 <Episode>
   <id>2422661</id>
-  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_episodenumber>7.0</Combined_episodenumber>
   <Combined_season>2</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>7.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
   <Director>Gloria Muzio</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>The Middle East Is Complicated</EpisodeName>
@@ -716,7 +717,7 @@
   <Writer>|Brett C. Leonard|Kyle Peck|</Writer>
   <absolute_number>17</absolute_number>
   <filename>episodes/82091/2422661.jpg</filename>
-  <lastupdated>1385153682</lastupdated>
+  <lastupdated>1404567953</lastupdated>
   <seasonid>235861</seasonid>
   <seriesid>82091</seriesid>
   <thumb_added></thumb_added>
@@ -725,12 +726,12 @@
 </Episode>
 <Episode>
   <id>2422681</id>
-  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_episodenumber>8.0</Combined_episodenumber>
   <Combined_season>2</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>8.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
   <Director>Bronwen Hughes</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>'Third Base' or 'The Rash'</EpisodeName>
@@ -747,7 +748,7 @@
   <Writer>|Julia Brownell|Eileen Myers|</Writer>
   <absolute_number>18</absolute_number>
   <filename>episodes/82091/2422681.jpg</filename>
-  <lastupdated>1385153655</lastupdated>
+  <lastupdated>1404567963</lastupdated>
   <seasonid>235861</seasonid>
   <seriesid>82091</seriesid>
   <thumb_added></thumb_added>
@@ -756,12 +757,12 @@
 </Episode>
 <Episode>
   <id>2422691</id>
-  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_episodenumber>9.0</Combined_episodenumber>
   <Combined_season>2</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>9.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
   <Director>Colette Burson</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>'Fat Off My Love' or 'I'm the Allergen'</EpisodeName>
@@ -778,7 +779,7 @@
   <Writer>Angela Robinson</Writer>
   <absolute_number>19</absolute_number>
   <filename>episodes/82091/2422691.jpg</filename>
-  <lastupdated>1385153636</lastupdated>
+  <lastupdated>1404567973</lastupdated>
   <seasonid>235861</seasonid>
   <seriesid>82091</seriesid>
   <thumb_added></thumb_added>
@@ -787,12 +788,12 @@
 </Episode>
 <Episode>
   <id>2422701</id>
-  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_episodenumber>10.0</Combined_episodenumber>
   <Combined_season>2</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>10.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
   <Director>Dan Attias</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>'Even Steven' or 'Luckiest Kid in Detroit'</EpisodeName>
@@ -809,7 +810,7 @@
   <Writer>|Dmitry Lipkin|Eduardo Machado|Julia Brownell|Brett C. Leonard|</Writer>
   <absolute_number>20</absolute_number>
   <filename>episodes/82091/2422701.jpg</filename>
-  <lastupdated>1360802826</lastupdated>
+  <lastupdated>1404567995</lastupdated>
   <seasonid>235861</seasonid>
   <seriesid>82091</seriesid>
   <thumb_added></thumb_added>
@@ -818,12 +819,12 @@
 </Episode>
 <Episode>
   <id>4140530</id>
-  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_episodenumber>1.0</Combined_episodenumber>
   <Combined_season>3</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>1.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
   <Director>Colette Burson</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>'Don't Give Up on Detroit' or 'Hung Like a Horse'</EpisodeName>
@@ -840,7 +841,7 @@
   <Writer>|Dmitry Lipkin|Colette Burson|</Writer>
   <absolute_number>21</absolute_number>
   <filename>episodes/82091/4140530.jpg</filename>
-  <lastupdated>1378890380</lastupdated>
+  <lastupdated>1405692891</lastupdated>
   <seasonid>470597</seasonid>
   <seriesid>82091</seriesid>
   <thumb_added></thumb_added>
@@ -849,12 +850,12 @@
 </Episode>
 <Episode>
   <id>4161299</id>
-  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_episodenumber>2.0</Combined_episodenumber>
   <Combined_season>3</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>2.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
   <Director>Uta Briesewitz</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>'Take the Cake' or 'Are You Packing?'</EpisodeName>
@@ -871,7 +872,7 @@
   <Writer>Julia Brownell</Writer>
   <absolute_number>22</absolute_number>
   <filename>episodes/82091/4161299.jpg</filename>
-  <lastupdated>1378890374</lastupdated>
+  <lastupdated>1405692989</lastupdated>
   <seasonid>470597</seasonid>
   <seriesid>82091</seriesid>
   <thumb_added></thumb_added>
@@ -880,12 +881,12 @@
 </Episode>
 <Episode>
   <id>4161300</id>
-  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_episodenumber>3.0</Combined_episodenumber>
   <Combined_season>3</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>3.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
   <Director>Gloria Muzio</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>'Mister Drecker' or 'Ease Up on the Whup-Ass'</EpisodeName>
@@ -902,7 +903,7 @@
   <Writer>|Eduardo Machado|Drew Lindo|</Writer>
   <absolute_number>23</absolute_number>
   <filename>episodes/82091/4161300.jpg</filename>
-  <lastupdated>1378890575</lastupdated>
+  <lastupdated>1405692938</lastupdated>
   <seasonid>470597</seasonid>
   <seriesid>82091</seriesid>
   <thumb_added></thumb_added>
@@ -911,12 +912,12 @@
 </Episode>
 <Episode>
   <id>4161301</id>
-  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_episodenumber>4.0</Combined_episodenumber>
   <Combined_season>3</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>4.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
   <Director>Dan Attias</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>'Fuck Me, Mr. Drecker' or 'Let's Not Go to Jail'</EpisodeName>
@@ -933,7 +934,7 @@
   <Writer>Brett C. Leonard</Writer>
   <absolute_number>24</absolute_number>
   <filename>episodes/82091/4161301.jpg</filename>
-  <lastupdated>1376761620</lastupdated>
+  <lastupdated>1405693016</lastupdated>
   <seasonid>470597</seasonid>
   <seriesid>82091</seriesid>
   <thumb_added></thumb_added>
@@ -942,12 +943,12 @@
 </Episode>
 <Episode>
   <id>4161302</id>
-  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_episodenumber>5.0</Combined_episodenumber>
   <Combined_season>3</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>5.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
   <Director>Gloria Muzio</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>'We're Golden' or 'Crooks and Big Beaver'</EpisodeName>
@@ -964,7 +965,7 @@
   <Writer>|Colette Burson|Dmitry Lipkin|</Writer>
   <absolute_number>25</absolute_number>
   <filename>episodes/82091/4161302.jpg</filename>
-  <lastupdated>1376761628</lastupdated>
+  <lastupdated>1405693028</lastupdated>
   <seasonid>470597</seasonid>
   <seriesid>82091</seriesid>
   <thumb_added></thumb_added>
@@ -973,12 +974,12 @@
 </Episode>
 <Episode>
   <id>4197299</id>
-  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_episodenumber>6.0</Combined_episodenumber>
   <Combined_season>3</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>6.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
   <Director>Uta Briesewitz</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>'Money on the Floor'</EpisodeName>
@@ -995,7 +996,7 @@
   <Writer>|Angela Robinson|Julia Brownell|</Writer>
   <absolute_number>26</absolute_number>
   <filename>episodes/82091/4197299.jpg</filename>
-  <lastupdated>1376761636</lastupdated>
+  <lastupdated>1405693189</lastupdated>
   <seasonid>470597</seasonid>
   <seriesid>82091</seriesid>
   <thumb_added></thumb_added>
@@ -1004,12 +1005,12 @@
 </Episode>
 <Episode>
   <id>4197301</id>
-  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_episodenumber>7.0</Combined_episodenumber>
   <Combined_season>3</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>7.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
   <Director>Bronwen Hughes</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>'What's Going on Downstairs?' or 'Don't Eat Prince Eric!'</EpisodeName>
@@ -1026,7 +1027,7 @@
   <Writer>|Eduardo Machado|Micah Schraft|</Writer>
   <absolute_number>27</absolute_number>
   <filename>episodes/82091/4197301.jpg</filename>
-  <lastupdated>1376761646</lastupdated>
+  <lastupdated>1405693056</lastupdated>
   <seasonid>470597</seasonid>
   <seriesid>82091</seriesid>
   <thumb_added></thumb_added>
@@ -1035,12 +1036,12 @@
 </Episode>
 <Episode>
   <id>4197302</id>
-  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_episodenumber>8.0</Combined_episodenumber>
   <Combined_season>3</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>8.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
   <Director>Adam Davidson</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>'I, Sandee' or 'This Sex. Which Is. Not One.'</EpisodeName>
@@ -1057,7 +1058,7 @@
   <Writer>|Angela Robinson|Alex Kondracke|</Writer>
   <absolute_number>28</absolute_number>
   <filename>episodes/82091/4197302.jpg</filename>
-  <lastupdated>1376761655</lastupdated>
+  <lastupdated>1405693078</lastupdated>
   <seasonid>470597</seasonid>
   <seriesid>82091</seriesid>
   <thumb_added></thumb_added>
@@ -1066,12 +1067,12 @@
 </Episode>
 <Episode>
   <id>4197303</id>
-  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_episodenumber>9.0</Combined_episodenumber>
   <Combined_season>3</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>9.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
   <Director>Howard Deutch</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>'A Monkey Named Simian' or 'Frances is Not a Fan'</EpisodeName>
@@ -1088,7 +1089,7 @@
   <Writer>|Brett C. Leonard|Eileen Myers|</Writer>
   <absolute_number>29</absolute_number>
   <filename>episodes/82091/4197303.jpg</filename>
-  <lastupdated>1376761667</lastupdated>
+  <lastupdated>1405693088</lastupdated>
   <seasonid>470597</seasonid>
   <seriesid>82091</seriesid>
   <thumb_added></thumb_added>
@@ -1097,12 +1098,12 @@
 </Episode>
 <Episode>
   <id>4208116</id>
-  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_episodenumber>10.0</Combined_episodenumber>
   <Combined_season>3</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>10.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
   <Director>Adam Davidson</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>The Whole Beefalo</EpisodeName>
@@ -1119,7 +1120,7 @@
   <Writer>Kyle Peck</Writer>
   <absolute_number>30</absolute_number>
   <filename>episodes/82091/4208116.jpg</filename>
-  <lastupdated>1379976417</lastupdated>
+  <lastupdated>1405693130</lastupdated>
   <seasonid>470597</seasonid>
   <seriesid>82091</seriesid>
   <thumb_added></thumb_added>

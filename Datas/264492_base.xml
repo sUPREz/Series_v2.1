@@ -13,8 +13,8 @@
     <Network>CBS</Network>
     <NetworkID></NetworkID>
     <Overview>An invisible and mysterious force field descends upon a small fictional town in the United States, trapping residents inside, cut off from the rest of civilization. The trapped townsfolk must discover the secrets and purpose of the &quot;dome&quot; and its origins, while coming to learn more than they ever knew about each other.</Overview>
-    <Rating>8.5</Rating>
-    <RatingCount>57</RatingCount>
+    <Rating>8.2</Rating>
+    <RatingCount>84</RatingCount>
     <Runtime>60</Runtime>
     <SeriesID>81915</SeriesID>
     <SeriesName>Under the Dome</SeriesName>
@@ -22,9 +22,10 @@
     <added>2012-11-30 06:13:22</added>
     <addedBy>369062</addedBy>
     <banner>graphical/264492-g4.jpg</banner>
-    <fanart>fanart/original/264492-10.jpg</fanart>
-    <lastupdated>1394227797</lastupdated>
-    <poster>posters/264492-1.jpg</poster>
+    <fanart>fanart/original/264492-2.jpg</fanart>
+    <lastupdated>1405877660</lastupdated>
+    <poster>posters/264492-2.jpg</poster>
+    <tms_wanted_old>1</tms_wanted_old>
     <zap2it_id>EP01654935</zap2it_id>
   </Series>
 </Data>

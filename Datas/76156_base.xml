@@ -13,8 +13,8 @@
     <Network>ABC</Network>
     <NetworkID></NetworkID>
     <Overview>Scrubs focuses on the lives of several people working at Sacred Heart, a teaching hospital. It features fast-paced dialogue, slapstick, and surreal vignettes presented mostly as the daydreams of the central character, Dr. John Michael &quot;J.D.&quot; Dorian.</Overview>
-    <Rating>9.1</Rating>
-    <RatingCount>263</RatingCount>
+    <Rating>9.0</Rating>
+    <RatingCount>266</RatingCount>
     <Runtime>30</Runtime>
     <SeriesID>3613</SeriesID>
     <SeriesName>Scrubs</SeriesName>
@@ -22,9 +22,10 @@
     <added></added>
     <addedBy></addedBy>
     <banner>graphical/76156-g9.jpg</banner>
-    <fanart>fanart/original/76156-5.jpg</fanart>
-    <lastupdated>1394304838</lastupdated>
+    <fanart>fanart/original/76156-11.jpg</fanart>
+    <lastupdated>1405516930</lastupdated>
     <poster>posters/76156-6.jpg</poster>
+    <tms_wanted_old>1</tms_wanted_old>
     <zap2it_id>EP00446160</zap2it_id>
   </Series>
 </Data>

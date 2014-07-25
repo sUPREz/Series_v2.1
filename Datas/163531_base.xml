@@ -13,8 +13,8 @@
     <Network>NBC</Network>
     <NetworkID></NetworkID>
     <Overview>The Event is an emotional, high-octane conspiracy thriller that follows Sean Walker, an everyman who investigates the mysterious disappearance of his would-be fiancée Leila, and unwittingly begins to expose the biggest cover-up in U.S. history.</Overview>
-    <Rating>8.1</Rating>
-    <RatingCount>87</RatingCount>
+    <Rating>8.0</Rating>
+    <RatingCount>92</RatingCount>
     <Runtime>60</Runtime>
     <SeriesID>78485</SeriesID>
     <SeriesName>The Event</SeriesName>
@@ -23,8 +23,9 @@
     <addedBy>6560</addedBy>
     <banner>graphical/163531-g.jpg</banner>
     <fanart>fanart/original/163531-3.jpg</fanart>
-    <lastupdated>1389358297</lastupdated>
+    <lastupdated>1405157146</lastupdated>
     <poster>posters/163531-2.jpg</poster>
+    <tms_wanted_old>1</tms_wanted_old>
     <zap2it_id>SH01266581</zap2it_id>
   </Series>
 </Data>

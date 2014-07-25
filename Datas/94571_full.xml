@@ -11,9 +11,9 @@
   <Language>en</Language>
   <Network>NBC</Network>
   <NetworkID></NetworkID>
-  <Overview>From Emmy Award-winner Dan Harmon comes Community, a smart comedy series about higher education – and lower expectations. The student body at Greendale Community College is made up of high-school losers, newly divorced housewives, and old people who want to keep their minds active. Within these not-so-hallowed halls, Community focuses on a band of misfits, at the center of which is a fast-talkin' lawyer whose degree has been revoked (Joel McHale), who form a study group and end up learning a lot more about themselves than they do about their course work.</Overview>
+  <Overview>From Emmy Award-winner Dan Harmon comes &quot;Community&quot;, a smart comedy series about higher education – and lower expectations. The student body at Greendale Community College is made up of high-school losers, newly divorced housewives, and old people who want to keep their minds active. Within these not-so-hallowed halls, Community focuses on a band of misfits, at the center of which is a fast-talkin' lawyer whose degree has been revoked, who form a study group and end up learning a lot more about themselves than they do about their course work.</Overview>
   <Rating>8.8</Rating>
-  <RatingCount>214</RatingCount>
+  <RatingCount>225</RatingCount>
   <Runtime>30</Runtime>
   <SeriesID>76841</SeriesID>
   <SeriesName>Community</SeriesName>
@@ -21,9 +21,10 @@
   <added>2009-05-16 12:45:54</added>
   <addedBy>5664</addedBy>
   <banner>graphical/94571-g5.jpg</banner>
-  <fanart>fanart/original/94571-3.jpg</fanart>
-  <lastupdated>1394340210</lastupdated>
+  <fanart>fanart/original/94571-22.jpg</fanart>
+  <lastupdated>1405844851</lastupdated>
   <poster>posters/94571-2.jpg</poster>
+  <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>SH01154162</zap2it_id>
 </Series>
 <Episode>
@@ -35,7 +36,7 @@
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
   <Director></Director>
-  <EpImgFlag></EpImgFlag>
+  <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Save Greendale</EpisodeName>
   <EpisodeNumber>1</EpisodeNumber>
   <FirstAired>2011-07-12</FirstAired>
@@ -52,13 +53,13 @@
   <airsafter_season></airsafter_season>
   <airsbefore_episode></airsbefore_episode>
   <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1324535199</lastupdated>
+  <filename>episodes/94571/4225695.jpg</filename>
+  <lastupdated>1395011696</lastupdated>
   <seasonid>66191</seasonid>
   <seriesid>94571</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-03-16 16:19:13</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4287477</id>
@@ -453,7 +454,7 @@
   <Overview>Fast-talking lawyer Jeff Winger enrolls at Greendale Community College after the State Bar discovered his illegitimate degree and threatened to suspend his license, and forms a study group of unlikely friends.</Overview>
   <ProductionCode>100</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>135</RatingCount>
+  <RatingCount>138</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Dan Harmon</Writer>
   <absolute_number></absolute_number>
@@ -483,8 +484,8 @@
   <Language>en</Language>
   <Overview>Jeff's attempt to become Britta's Spanish project partner fails and he ends up with Pierce. Shirley and Annie help Britta with a social justice cause. </Overview>
   <ProductionCode>101</ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>120</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>122</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Dan Harmon</Writer>
   <absolute_number></absolute_number>
@@ -515,7 +516,7 @@
   <Overview>Jeff joins Professor Whitman class for an easy A grade but then realizes how much work he needs to put in to pass. Britta helps Abed fulfill his dream.</Overview>
   <ProductionCode>102</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>106</RatingCount>
+  <RatingCount>108</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Tim Hobert|Jon Pollack</Writer>
   <absolute_number></absolute_number>
@@ -546,7 +547,7 @@
   <Overview>Annie recruits Abed and Troy as psychology test subjects. Shirley and Jeff  bond as they gossip about Britta and her boyfriend.</Overview>
   <ProductionCode>104</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>98</RatingCount>
+  <RatingCount>100</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Liz Cackowski</Writer>
   <absolute_number></absolute_number>
@@ -577,7 +578,7 @@
   <Overview>Senor Chang threatens to fail the whole class unless a cheater owns up;. Jeff defends the one who comes forward. Annie and Pierce team up to compose a new school song. </Overview>
   <ProductionCode>105</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>88</RatingCount>
+  <RatingCount>89</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Andrew Guest</Writer>
   <absolute_number></absolute_number>
@@ -608,7 +609,7 @@
   <Overview>While Jeff urges Troy to sign up with the football team, Britta learns girl talk etiquette from Shirley. </Overview>
   <ProductionCode>103</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>97</RatingCount>
+  <RatingCount>98</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Hilary Winston</Writer>
   <absolute_number></absolute_number>
@@ -639,7 +640,7 @@
   <Overview>Jeff must come to a decision after he makes a date with a hot statistics professor which clashes with Annie's Day of the Dead Halloween party.</Overview>
   <ProductionCode>106</ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>104</RatingCount>
+  <RatingCount>105</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Jon Pollack | Tim Hobert</Writer>
   <absolute_number></absolute_number>
@@ -670,7 +671,7 @@
   <Overview>Jeff's schoolmates come to his aid when they learn he is living out of his car. Pierce joins Vaughn's band while Annie and Troy plan out his date with another girl.</Overview>
   <ProductionCode>107</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>96</RatingCount>
+  <RatingCount>98</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Lauren Pomerantz</Writer>
   <absolute_number></absolute_number>
@@ -701,7 +702,7 @@
   <Overview>Jeff and Annie team up against City College for the debate championship. Pierce uses hypnotherapy on Britta to help her quit smoking. Shirley is weirded out as Abed's films appear to predict the future.</Overview>
   <ProductionCode>109</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>98</RatingCount>
+  <RatingCount>99</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Tim Hobert</Writer>
   <absolute_number></absolute_number>
@@ -732,7 +733,7 @@
   <Overview>Jeff is tasked with telling Senor Chang that he assigns an unreasonable amount of homework. Troy and Abed lose their subject for a biology lab experiment.</Overview>
   <ProductionCode>108</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>99</RatingCount>
+  <RatingCount>100</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Zach Paez</Writer>
   <absolute_number></absolute_number>
@@ -763,7 +764,7 @@
   <Overview>Britta dares Jeff to find himself a partner for a double date with Pierce and his new girlfriend. Shirley and Brittahelp Annie to learn anatomy for a special health fair presentation in school.</Overview>
   <ProductionCode>110</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>92</RatingCount>
+  <RatingCount>93</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Hilary Winston</Writer>
   <absolute_number></absolute_number>
@@ -796,7 +797,7 @@
 </Overview>
   <ProductionCode>111</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>98</RatingCount>
+  <RatingCount>99</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Liz Cackowski</Writer>
   <absolute_number></absolute_number>
@@ -826,8 +827,8 @@
   <Language>en</Language>
   <Overview>While Jeff takes on the role of Greendale Gazette Journal's editor, the gang must decide whether or not to admit an eager classmate into their study group.</Overview>
   <ProductionCode>113</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>96</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>97</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Jon Pollack|Tim Hobert</Writer>
   <absolute_number></absolute_number>
@@ -857,8 +858,8 @@
   <Language>en</Language>
   <Overview>Jeff struggles to keep his affair a secret. Troy and Britta choose to reveal their secret to their friends.</Overview>
   <ProductionCode>112</ProductionCode>
-  <Rating>7.9</Rating>
-  <RatingCount>100</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>101</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Lauren Pomerantz</Writer>
   <absolute_number></absolute_number>
@@ -889,7 +890,7 @@
   <Overview>Jeff and Britta meddle in Annie's love life when she starts dating Britta's ex, Vaughn. Pierce feels left out of Troy and Abed's movie night.</Overview>
   <ProductionCode>115</ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>97</RatingCount>
+  <RatingCount>98</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Andrew Guest</Writer>
   <absolute_number></absolute_number>
@@ -920,7 +921,7 @@
   <Overview>Jeff attempts to reconcile his friendship with Britta after he makes a terrible mistake. Shirley and Annie want to pull a prank on Señor Chang.</Overview>
   <ProductionCode>116</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>103</RatingCount>
+  <RatingCount>104</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Chris McKenna</Writer>
   <absolute_number></absolute_number>
@@ -951,7 +952,7 @@
   <Overview>Jeff shows a little leg in billiards class when he's forced to wear the Greendale PE uniform, while the gang tries to help Abed get a girl.</Overview>
   <ProductionCode>118</ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>101</RatingCount>
+  <RatingCount>103</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Jessie Miller</Writer>
   <absolute_number></absolute_number>
@@ -982,7 +983,7 @@
   <Overview>It's family day at Greendale Community College and the gang's families come to campus to join in on the fun.</Overview>
   <ProductionCode>117</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>100</RatingCount>
+  <RatingCount>101</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Karey Dornetto</Writer>
   <absolute_number></absolute_number>
@@ -1013,7 +1014,7 @@
   <Overview>While Jeff takes interest in a pottery class, Pierce invites his friends to his boating class.</Overview>
   <ProductionCode>114</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>96</RatingCount>
+  <RatingCount>97</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Hilary Winston</Writer>
   <absolute_number></absolute_number>
@@ -1044,7 +1045,7 @@
   <Overview>Pierce strives to reach a new level of ascension in his Buddhist church. Britta secretly tries to shake her reputation as a buzzkill, resulting in a prank that goes horribly wrong.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>92</RatingCount>
+  <RatingCount>93</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Zach Paez</Writer>
   <absolute_number></absolute_number>
@@ -1075,7 +1076,7 @@
   <Overview>The group becomes popular when they start a racket in chicken fingers.Their new-found popularity inflates their egos, and Jeff realizes that he must find a way to end his friends' reign. </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>102</RatingCount>
+  <RatingCount>104</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Emily Cutler|Karey Dornetto</Writer>
   <absolute_number></absolute_number>
@@ -1106,7 +1107,7 @@
   <Overview>The group is divided after Pierce crosses a line with Shirley; Britta and Jeff face a group of young bullies and their mother.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>100</RatingCount>
+  <RatingCount>101</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Chris McKenna</Writer>
   <absolute_number></absolute_number>
@@ -1137,7 +1138,7 @@
   <Overview>The sexual tension between Jeff and Britta becomes a hot topic in study group. A contest for a chance at early class registration turns the peaceful campus of Greendale Community College into an all-out war zone.</Overview>
   <ProductionCode>119</ProductionCode>
   <Rating>8.5</Rating>
-  <RatingCount>108</RatingCount>
+  <RatingCount>109</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Emily Cutler</Writer>
   <absolute_number></absolute_number>
@@ -1169,7 +1170,7 @@
 </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>96</RatingCount>
+  <RatingCount>97</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Tim Hobert</Writer>
   <absolute_number></absolute_number>
@@ -1200,7 +1201,7 @@
   <Overview>Britta and professor Slater fight for Jeff's affection; Troy is upset when Abed doesn't ask him to move into his dorm room.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>94</RatingCount>
+  <RatingCount>95</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Hilary Winston</Writer>
   <absolute_number></absolute_number>
@@ -1231,7 +1232,7 @@
   <Overview>As the new semester begins, the study group gathers to tackle Anthropology 101; Jeff struggles to establish decorum with Britta and Annie; Señor Chang decides to enroll as a student so he can join the study group.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.1</Rating>
-  <RatingCount>116</RatingCount>
+  <RatingCount>117</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Chris Mckenna</Writer>
   <absolute_number></absolute_number>
@@ -1261,8 +1262,8 @@
   <Language>en</Language>
   <Overview>Jeff falls into old habits after reconnecting with Alan (Rob Corddry), a former law firm colleague; Abed, Annie and Troy look for dirt on Alan.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>8.1</Rating>
-  <RatingCount>106</RatingCount>
+  <Rating>8.0</Rating>
+  <RatingCount>107</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Emily Cutler</Writer>
   <absolute_number></absolute_number>
@@ -1292,8 +1293,8 @@
   <Language>en</Language>
   <Overview>When Pierce's mother dies, the group helps to comfort him. After putting Jeff in the hospital, by one of her class pranks going awry, Professor Bauer takes a leave of absence and Professor Duncan attempts to take over her Anthropology class.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>108</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>109</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Hilary Winston</Writer>
   <absolute_number></absolute_number>
@@ -1324,7 +1325,7 @@
   <Overview>Dean Pelton asks the study group to clean and refurbish the Greendale flight simulator. After an accidental launch, Abed must navigate a safe return.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>103</RatingCount>
+  <RatingCount>104</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Andy Bobrow</Writer>
   <absolute_number></absolute_number>
@@ -1355,7 +1356,7 @@
   <Overview>Shirley asks for Abed's creative input for a religious film; Pierce is recruited by a group of students his age.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>105</RatingCount>
+  <RatingCount>106</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Andrew Guest</Writer>
   <absolute_number></absolute_number>
@@ -1386,7 +1387,7 @@
   <Overview>Pierce and a few other Greendale students ingest a biohazard substance at the school Halloween Party, causing them to exhibit flu-like symptoms and begin turning into zombies. It is up to the rest of the gang to save themselves and the school when Dean Pelton locks them in with the zombie-infected student body.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>105</RatingCount>
+  <RatingCount>106</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Karey Dornetto</Writer>
   <absolute_number></absolute_number>
@@ -1417,7 +1418,7 @@
   <Overview>After a classroom smackdown with a group of &quot;mean girls&quot; led by Meghan, Britta, Shirley, and Annie bond with Abed by turning him into the ultimate &quot;mean girl.&quot; Meanwhile, Jeff and Troy embrace a zen-like spirituality under the guidance of a groundskeeper when they come across a secret trampoline on campus. Determined to uncover the source of their new bliss, Pierce ends up taking a disastrous turn on the trampoline and lands in the hospital.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>113</RatingCount>
+  <RatingCount>114</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Adam Countee</Writer>
   <absolute_number></absolute_number>
@@ -1448,7 +1449,7 @@
   <Overview>Annie's favorite pen goes missing, and she suspects that someone in the group took it. Then study room is put on lock down, and Jeff starts conducting the investigation. Troy and Abed are especially anxious to get out of the room in order to make it to the Greendale Puppy Parade in time.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>108</RatingCount>
+  <RatingCount>109</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Megan Ganz</Writer>
   <absolute_number></absolute_number>
@@ -1479,7 +1480,7 @@
   <Overview>When Dean Pelton starts checking class schedules, he discovers that Jeff has listed a class that doesn't exist. Abed and Troy build an elaborate blanket fort.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.1</Rating>
-  <RatingCount>112</RatingCount>
+  <RatingCount>113</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Chris McKenna</Writer>
   <absolute_number></absolute_number>
@@ -1510,7 +1511,7 @@
   <Overview>It is Troy's 21st birthday, so the group decides to hit the bars. While Britta and Jeff are drinking too many cocktails, Shirley is taking down incriminating pictures of herself, Annie is embracing her fake identity and Abed gets into a deep conversation with another Sci-Fi lover.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>107</RatingCount>
+  <RatingCount>108</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Andy Bobrow</Writer>
   <absolute_number></absolute_number>
@@ -1541,7 +1542,7 @@
   <Overview>Abed wakes up in stop-motion animation making him believe that the group must re-discover the true meaning of Christmas. With the help of Professor Duncan, the group explores Abed's winter wonderland and soon discovers the truth behind Abed's madness.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>100</RatingCount>
+  <RatingCount>101</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Dino Stamatopoulos|Dan Harmon|</Writer>
   <absolute_number></absolute_number>
@@ -1573,7 +1574,7 @@
 Shirley’s ex-husband comes back into the picture, and she has big news for everyone.</Overview>
   <ProductionCode>212</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>97</RatingCount>
+  <RatingCount>98</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Emily Cutler</Writer>
   <absolute_number></absolute_number>
@@ -1604,7 +1605,7 @@ Shirley’s ex-husband comes back into the picture, and she has big news for eve
   <Overview>Annie convinces the group to put on a middle school anti-drug production, but finds it continually derailed by Pierce's efforts to give himself a better role. Meanwhile, Chang attempts to connect with Shirley, while a prank involving Britta's phone puts Jeff in an awkward situation.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>93</RatingCount>
+  <RatingCount>94</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Hilary Winston</Writer>
   <absolute_number></absolute_number>
@@ -1635,7 +1636,7 @@ Shirley’s ex-husband comes back into the picture, and she has big news for eve
   <Overview>Abed invites &quot;Fat Neil&quot; to play a game of Dungeons &amp; Dragons with the rest of the study group, hoping to boost his confidence, after Jeff becomes concerned about him being a loner. When Pierce finds out he was not invited, he joins anyway, disrupting their plans.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>101</RatingCount>
+  <RatingCount>102</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Andrew Guest</Writer>
   <absolute_number></absolute_number>
@@ -1666,7 +1667,7 @@ Shirley’s ex-husband comes back into the picture, and she has big news for eve
   <Overview>Troy and Abed compete for the attentions of the college librarian, while Britta strives to be progressive and befriends a fellow female student whom she believes is gay. Meanwhile, Jeff finds himself reluctantly hosting an impromptu party at his apartment when Professor Duncan invites himself over to watch a soccer match.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>97</RatingCount>
+  <RatingCount>98</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Karey Dornetto</Writer>
   <absolute_number></absolute_number>
@@ -1697,7 +1698,7 @@ Shirley’s ex-husband comes back into the picture, and she has big news for eve
   <Overview>When Pierce lands in the hospital, he believes he's dying and gives the study group specific gifts that are actually meant to torment them. Britta wonders what to do with a blank check for &quot;charity,&quot; Jeff ponders the idea of meeting his father, and Troy gets to meet LeVar Burton, while Abed films the whole thing for a documentary.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>91</RatingCount>
+  <RatingCount>92</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Megan Ganz</Writer>
   <absolute_number></absolute_number>
@@ -1727,8 +1728,8 @@ Shirley’s ex-husband comes back into the picture, and she has big news for eve
   <Language>en</Language>
   <Overview>Greendale prepares for the Vice President's visit. Dean Pelton organizes the first student elections, putting Annie against Jeff, Pierce, Leonard, and Star-Burns, among others. Meanwhile, Abed develops a friendship with special agent Robin Vohlers.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.9</Rating>
-  <RatingCount>91</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>92</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Adam Countee</Writer>
   <absolute_number></absolute_number>
@@ -1759,7 +1760,7 @@ Shirley’s ex-husband comes back into the picture, and she has big news for eve
   <Overview>Annie organizes a baby shower for Shirley, while Shirley plots to keep Senor Chang out of her life. Meanwhile, Britta is interested in Abed and Troy's new friend, Lukka, who has a dark past.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>88</RatingCount>
+  <RatingCount>89</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Andy Bobrow</Writer>
   <absolute_number></absolute_number>
@@ -1790,7 +1791,7 @@ Shirley’s ex-husband comes back into the picture, and she has big news for eve
   <Overview>Jeff incorporates Abed's love of cinema and pop culture, into a specially themed &quot;Pulp Fiction&quot; surprise birthday for him. But the tables are turned as Abed arranges another dinner with an unsuspecting Jeff at another eating establishment.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>90</RatingCount>
+  <RatingCount>91</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Sona Panos</Writer>
   <absolute_number></absolute_number>
@@ -1821,7 +1822,7 @@ Shirley’s ex-husband comes back into the picture, and she has big news for eve
   <Overview>The study group chooses their spring electives.  Britta and Troy explore an acting class, and Abed picks a course that studies the 1980s sitcom Who's the Boss?. Meanwhile, Jeff and Pierce take a wine tasting class where they meet a mysterious woman who sweeps Pierce off his feet which raises Jeff's suspicions.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>90</RatingCount>
+  <RatingCount>91</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Emily Cutler</Writer>
   <absolute_number></absolute_number>
@@ -1852,7 +1853,7 @@ Shirley’s ex-husband comes back into the picture, and she has big news for eve
   <Overview>As the study group assemble their 20th and final diorama for their anthropology class, they reminisce about their favorite moments over the past year. Meanwhile, Troy's monkey reappears but disappears back into the ventilation system, leading Senor Chang to try to get the monkey and retrieve all their stolen loot.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>92</RatingCount>
+  <RatingCount>93</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Chris McKenna</Writer>
   <absolute_number></absolute_number>
@@ -1883,7 +1884,7 @@ Shirley’s ex-husband comes back into the picture, and she has big news for eve
   <Overview>Just as the study group are getting ready for their final Anthropology exam, Shirley goes into labor leaving the group to figure out the best way to help. Meanwhile, a riot in the parking lot starts during the World Food Festival.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>97</RatingCount>
+  <RatingCount>98</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Karey Dornetto</Writer>
   <absolute_number></absolute_number>
@@ -1914,7 +1915,7 @@ Shirley’s ex-husband comes back into the picture, and she has big news for eve
   <Overview>As the Greendale student body enjoys their year-end picnic, Dean Pelton announces plans for a small, quick, safe game of paintball. As the game heats up, alliances are formed - and broken - and friendships are put to the test. When a mysterious and threatening figure emerges on the Greendale campus, it becomes apparent that this is no ordinary game of paintball.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.3</Rating>
-  <RatingCount>99</RatingCount>
+  <RatingCount>100</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Andrew Guest</Writer>
   <absolute_number></absolute_number>
@@ -1945,7 +1946,7 @@ Shirley’s ex-husband comes back into the picture, and she has big news for eve
   <Overview>As the Greendale year-end paintball extravaganza continues, the game takes a dramatic turn with new intruders arriving on the scene. The study group realizes they must unite to defeat the enemy despite disagreements about strategy.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.4</Rating>
-  <RatingCount>84</RatingCount>
+  <RatingCount>85</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Hilary Winston</Writer>
   <absolute_number></absolute_number>
@@ -1976,7 +1977,7 @@ Shirley’s ex-husband comes back into the picture, and she has big news for eve
   <Overview>The Greendale study group reunites. Jeff butts heads with the new biology teacher and Dean Pelton finds a new nemesis in the dean of the Air Conditioning Repair Annex. </Overview>
   <ProductionCode>301</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>83</RatingCount>
+  <RatingCount>84</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Garrett Donovan|Neil Goldman</Writer>
   <absolute_number></absolute_number>
@@ -2007,7 +2008,7 @@ Shirley’s ex-husband comes back into the picture, and she has big news for eve
   <Overview>Chang gets used to his new job. Britta reacts to a friend being taken hostage in a foreign country. Annie asks the group to help bring down her new friend. Professor Cligoris struggles to behave appropriately.</Overview>
   <ProductionCode>302</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>87</RatingCount>
+  <RatingCount>88</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Andy Bobrow</Writer>
   <absolute_number></absolute_number>
@@ -2038,7 +2039,7 @@ Shirley’s ex-husband comes back into the picture, and she has big news for eve
   <Overview>When the gang accepts a new person into the group, they learn how delicate their friendships really are.</Overview>
   <ProductionCode>304</ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>80</RatingCount>
+  <RatingCount>81</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Maggie Bandur</Writer>
   <absolute_number></absolute_number>
@@ -2069,7 +2070,7 @@ Shirley’s ex-husband comes back into the picture, and she has big news for eve
   <Overview>New roommates Troy and Abed host an apartment-warming party that takes a strange turn.</Overview>
   <ProductionCode>303</ProductionCode>
   <Rating>8.5</Rating>
-  <RatingCount>79</RatingCount>
+  <RatingCount>80</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Chris McKenna</Writer>
   <absolute_number></absolute_number>
@@ -2100,7 +2101,7 @@ Shirley’s ex-husband comes back into the picture, and she has big news for eve
   <Overview>The gang tells scary stories while Britta discovers that one of her pals might be a psychopathic maniac.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>81</RatingCount>
+  <RatingCount>82</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Dan Harmon</Writer>
   <absolute_number></absolute_number>
@@ -2131,7 +2132,7 @@ Shirley’s ex-husband comes back into the picture, and she has big news for eve
   <Overview>Pierce is excited about a party he's throwing to celebrate his business success, but the affair becomes very different when his elderly father arrives.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>78</RatingCount>
+  <RatingCount>79</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Matt Murray</Writer>
   <absolute_number></absolute_number>
@@ -2162,7 +2163,7 @@ Shirley’s ex-husband comes back into the picture, and she has big news for eve
   <Overview>The study group pitches in to help when Annie decides to move in with Troy and Abed, but the plan breaks down when she becomes frustrated by their fun-loving lifestyle. Elsewhere, Dean Pelton discovers Jeff at the mall and blackmails him into spending a lovely afternoon together.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>76</RatingCount>
+  <RatingCount>77</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Adam Countee</Writer>
   <absolute_number></absolute_number>
@@ -2193,7 +2194,7 @@ Shirley’s ex-husband comes back into the picture, and she has big news for eve
   <Overview>When the school board asks Dean Pelton to make a new commercial for the school, he enlists the study group to star in his production. Meanwhile, Abed films all the activities for a documentary.</Overview>
   <ProductionCode>307</ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>79</RatingCount>
+  <RatingCount>80</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Megan Ganz</Writer>
   <absolute_number></absolute_number>
@@ -2224,7 +2225,7 @@ Shirley’s ex-husband comes back into the picture, and she has big news for eve
   <Overview>Jeff and Shirley bond over foosball. After Annie breaks Abed's special edition DVD of &quot;The Dark Knight&quot;, she covers it up by staging a robbery.</Overview>
   <ProductionCode>309</ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>73</RatingCount>
+  <RatingCount>74</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Chris Kula</Writer>
   <absolute_number></absolute_number>
@@ -2255,7 +2256,7 @@ Shirley’s ex-husband comes back into the picture, and she has big news for eve
   <Overview>When the Greendale Glee Club is unexpectedly sidelined, the school's effervescent choir director Cory Radison sets about recruiting the study group members to fill in. Skeptical at first, they eventually fall under his hypnotic spell, singing and dancing their way to the annual Christmas Pageant.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>80</RatingCount>
+  <RatingCount>81</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Steve Basilone|Annie Mebane</Writer>
   <absolute_number></absolute_number>
@@ -2285,8 +2286,8 @@ Shirley’s ex-husband comes back into the picture, and she has big news for eve
   <Language>en</Language>
   <Overview>Andre proposes that he and Shirley remarry and a wedding date is set. Britta and Annie get busy planning the wedding and Jeff prepares to give a wedding speech, while Troy and Abed get ready to be &quot;normal&quot; for the occasion. Meanwhile, Pierce and Shirley pitch a sandwich shop idea to Dean Pelton for the Greendale cafeteria.</Overview>
   <ProductionCode>311</ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>76</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>77</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Vera Santamaria</Writer>
   <absolute_number></absolute_number>
@@ -2316,8 +2317,8 @@ Shirley’s ex-husband comes back into the picture, and she has big news for eve
   <Language>en</Language>
   <Overview>Jeff begins experiencing extreme narcissism. The group helps Abed get rid of debt by impersonating various celebrities at a Bar Mitzvah.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>8.0</Rating>
-  <RatingCount>77</RatingCount>
+  <Rating>7.9</Rating>
+  <RatingCount>79</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Alex Cooley</Writer>
   <absolute_number></absolute_number>
@@ -2347,8 +2348,8 @@ Shirley’s ex-husband comes back into the picture, and she has big news for eve
   <Language>en</Language>
   <Overview>As the new Greendale Subway shop opens in the cafeteria, Shirley, Pierce and Britta plot to bring about its early demise. Vice Dean Laybourne makes another attempt to get Troy to join the Air Conditioning Repair Annex, while Abed and Troy find themselves at odds over their competing pillow and blanket forts.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.9</Rating>
-  <RatingCount>75</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>76</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Chris McKenna</Writer>
   <absolute_number></absolute_number>
@@ -2379,7 +2380,7 @@ Shirley’s ex-husband comes back into the picture, and she has big news for eve
   <Overview>The war between Abed and Troy intensifies, prompting Jeff to try to negotiate a truce between the former best friends while the rest of the group choose sides.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.3</Rating>
-  <RatingCount>68</RatingCount>
+  <RatingCount>69</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Andy Bobrow</Writer>
   <absolute_number></absolute_number>
@@ -2409,8 +2410,8 @@ Shirley’s ex-husband comes back into the picture, and she has big news for eve
   <Language>en</Language>
   <Overview>Annie, Troy and Abed try to help Britta avoid an old flame who has returned to town, while Jeff and Shirley set out to catch a glimpse of the mystery man. Elsewhere, Laybourne turns to Dean Pelton for help with his pursuit of Troy.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.9</Rating>
-  <RatingCount>60</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>61</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Dan Harmon</Writer>
   <absolute_number></absolute_number>
@@ -2441,7 +2442,7 @@ Shirley’s ex-husband comes back into the picture, and she has big news for eve
   <Overview>When a final exam is postponed, Annie talks Abed into letting her spend some time in the dreamatorium, where an innocent simulation turns into an examination of the study group.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>65</RatingCount>
+  <RatingCount>66</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Matt Murray</Writer>
   <absolute_number></absolute_number>
@@ -2472,7 +2473,7 @@ Shirley’s ex-husband comes back into the picture, and she has big news for eve
   <Overview>In a homage to Law &amp; Order, the study group investigate a crime when someone sabotages their science experiment. When they discover the perp, Annie plans on prosecuting them to the fullest extent of Greendale's Code of Conduct.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.2</Rating>
-  <RatingCount>66</RatingCount>
+  <RatingCount>68</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Megan Ganz</Writer>
   <absolute_number></absolute_number>
@@ -2503,7 +2504,7 @@ Shirley’s ex-husband comes back into the picture, and she has big news for eve
   <Overview>When a beloved classmate dies unexpectedly, Britta uses skills from psychology class to counsel the study group. Chang tries to seize more control over campus security.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>70</RatingCount>
+  <RatingCount>71</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Tim Saccardo</Writer>
   <absolute_number></absolute_number>
@@ -2533,8 +2534,8 @@ Shirley’s ex-husband comes back into the picture, and she has big news for eve
   <Language>en</Language>
   <Overview>Abed becomes convinced that there is a conspiracy afoot and that Dean Pelton is an imposter. When Abed is apprehended sneaking around on campus, he is required to see a therapist, or risk being sent to jail.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.9</Rating>
-  <RatingCount>71</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>72</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Adam Countee</Writer>
   <absolute_number></absolute_number>
@@ -2565,7 +2566,7 @@ Shirley’s ex-husband comes back into the picture, and she has big news for eve
   <Overview>Pierce is summoned to Hawthorne Enterprises to discuss his inheritance with his deceased father's former right-hand man, Gilbert Lawson. The study group goes with him for moral support and must all pitch in to play the video game of their life on Pierce's behalf for the sake of his inheritance.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.5</Rating>
-  <RatingCount>70</RatingCount>
+  <RatingCount>71</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Matt Warburton</Writer>
   <absolute_number></absolute_number>
@@ -2596,7 +2597,7 @@ Shirley’s ex-husband comes back into the picture, and she has big news for eve
   <Overview>When Chang gains control of Greendale's campus, the study group forms a plot to take back the school. Troy seeks help at the Air Conditioning Repair Annex.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.1</Rating>
-  <RatingCount>68</RatingCount>
+  <RatingCount>69</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Matt Fusfeld|Alex Cuthbertson</Writer>
   <absolute_number></absolute_number>
@@ -2627,7 +2628,7 @@ Shirley’s ex-husband comes back into the picture, and she has big news for eve
   <Overview>Jeff and and his former colleague Alan battle in court as opposing counsel in Pierce and Shirley's sandwich shop case. Meanwhile, Vice Dean Laybourne makes one last ditch effort to win Troy over to his Air Conditioning Repair Annex.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.1</Rating>
-  <RatingCount>64</RatingCount>
+  <RatingCount>65</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Steve Basilone|Annie Mebane</Writer>
   <absolute_number></absolute_number>
@@ -2658,12 +2659,12 @@ Shirley’s ex-husband comes back into the picture, and she has big news for eve
   <Overview>Jeff competes to earn the group places in the over-booked 'History of Ice Cream' class, while Abed struggles with the inevitable end of their time at Greendale, causing him to enter a 'happy place' in his mind showing bizarre alternative versions of Greendale. Annie and Shirley pull pranks around the school. </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>55</RatingCount>
+  <RatingCount>56</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Andy Bobrow</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/94571/4343723.jpg</filename>
-  <lastupdated>1379037351</lastupdated>
+  <lastupdated>1404834310</lastupdated>
   <seasonid>494400</seasonid>
   <seriesid>94571</seriesid>
   <thumb_added></thumb_added>
@@ -2689,12 +2690,12 @@ Shirley’s ex-husband comes back into the picture, and she has big news for eve
   <Overview>On Halloween, Pierce accidentally locks himself in his panic room, forcing the gang to search through his house to find the code that unlocks the door.</Overview>
   <ProductionCode>403</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>58</RatingCount>
+  <RatingCount>59</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Megan Ganz</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/94571/4401183.jpg</filename>
-  <lastupdated>1379036504</lastupdated>
+  <lastupdated>1404834351</lastupdated>
   <seasonid>494400</seasonid>
   <seriesid>94571</seriesid>
   <thumb_added></thumb_added>
@@ -2720,12 +2721,12 @@ Shirley’s ex-husband comes back into the picture, and she has big news for eve
   <Overview>The study group goes to the annual Inspector Spacetime Convention; Annie enjoys the luxuries of the hotel; Jeff spends time with an Inspector Spacetime fan (Tricia Helfer) in the bar.</Overview>
   <ProductionCode>402</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>54</RatingCount>
+  <RatingCount>55</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Maggie Bandur</Writer>
   <absolute_number>74</absolute_number>
   <filename>episodes/94571/4401184.jpg</filename>
-  <lastupdated>1379036716</lastupdated>
+  <lastupdated>1404834383</lastupdated>
   <seasonid>494400</seasonid>
   <seriesid>94571</seriesid>
   <thumb_added></thumb_added>
@@ -2750,13 +2751,13 @@ Shirley’s ex-husband comes back into the picture, and she has big news for eve
   <Language>en</Language>
   <Overview>The study group starts its European history class with professor Noel Cornwallis (Malcolm McDowell); Dean Pelton is upset when Chang returns to campus.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>52</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>53</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Ben Wexler</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/94571/4401185.jpg</filename>
-  <lastupdated>1375912871</lastupdated>
+  <lastupdated>1404834411</lastupdated>
   <seasonid>494400</seasonid>
   <seriesid>94571</seriesid>
   <thumb_added></thumb_added>
@@ -2781,13 +2782,13 @@ Shirley’s ex-husband comes back into the picture, and she has big news for eve
   <Language>en</Language>
   <Overview>The study group goes to Shirley's house for Thanksgiving dinner; Jeff reunites with his father, who he hasn't seen since he was young.</Overview>
   <ProductionCode>405</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>53</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>54</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Steve Basilone|Annie Mebane</Writer>
   <absolute_number>76</absolute_number>
   <filename>episodes/94571/4401186.jpg</filename>
-  <lastupdated>1379036978</lastupdated>
+  <lastupdated>1404834446</lastupdated>
   <seasonid>494400</seasonid>
   <seriesid>94571</seriesid>
   <thumb_added></thumb_added>
@@ -2807,18 +2808,18 @@ Shirley’s ex-husband comes back into the picture, and she has big news for eve
   <EpisodeName>Advanced Documentary Filmmaking</EpisodeName>
   <EpisodeNumber>6</EpisodeNumber>
   <FirstAired>2013-03-14</FirstAired>
-  <GuestStars>Mike Hagerty|Andrea de Oliveira|</GuestStars>
+  <GuestStars>Mike Hagerty|Andrea de Oliveira</GuestStars>
   <IMDB_ID>tt2717182</IMDB_ID>
   <Language>en</Language>
   <Overview>Dean Pelton asks the study group to help secure a grant for research into Chang's memory loss, while Abed films their efforts for a documentary.</Overview>
   <ProductionCode>406</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>54</RatingCount>
+  <RatingCount>55</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Hunter Covington</Writer>
   <absolute_number>77</absolute_number>
   <filename>episodes/94571/4409596.jpg</filename>
-  <lastupdated>1384086132</lastupdated>
+  <lastupdated>1404834554</lastupdated>
   <seasonid>494400</seasonid>
   <seriesid>94571</seriesid>
   <thumb_added></thumb_added>
@@ -2844,12 +2845,12 @@ Shirley’s ex-husband comes back into the picture, and she has big news for eve
   <Overview>Jeff, Britta and Annie help Dean Pelton recruit a wealthy potential student; Abed starts a fraternity; Troy and Shirley attend a physical education class.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>49</RatingCount>
+  <RatingCount>50</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Tim Saccardo</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/94571/4415654.jpg</filename>
-  <lastupdated>1384086153</lastupdated>
+  <lastupdated>1404834591</lastupdated>
   <seasonid>494400</seasonid>
   <seriesid>94571</seriesid>
   <thumb_added></thumb_added>
@@ -2875,12 +2876,12 @@ Shirley’s ex-husband comes back into the picture, and she has big news for eve
   <Overview>Britta plans a Sophie B. Hawkins dance to compete with Dean Pelton's Sadie Hawkins dance.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>51</RatingCount>
+  <RatingCount>53</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Jack Kukoda</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/94571/4448838.jpg</filename>
-  <lastupdated>1384086170</lastupdated>
+  <lastupdated>1404834628</lastupdated>
   <seasonid>494400</seasonid>
   <seriesid>94571</seriesid>
   <thumb_added></thumb_added>
@@ -2906,12 +2907,12 @@ Shirley’s ex-husband comes back into the picture, and she has big news for eve
   <Overview>When the study group's balloon ride crashes in the wilderness, the friends encounter a mountain man.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.1</Rating>
-  <RatingCount>49</RatingCount>
+  <RatingCount>50</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Gene Hong</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/94571/4448839.jpg</filename>
-  <lastupdated>1386974944</lastupdated>
+  <lastupdated>1404834702</lastupdated>
   <seasonid>494400</seasonid>
   <seriesid>94571</seriesid>
   <thumb_added></thumb_added>
@@ -2937,12 +2938,12 @@ Shirley’s ex-husband comes back into the picture, and she has big news for eve
   <Overview>Annie invites Professor Cornwallis to Jeff's holiday party in the hope of getting on his good side; when the friends learn Cornwallis intends to give them a bad grade, they decide to take decisive action.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>44</RatingCount>
+  <RatingCount>46</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Andy Bobrow</Writer>
   <absolute_number>81</absolute_number>
   <filename>episodes/94571/4448840.jpg</filename>
-  <lastupdated>1386974896</lastupdated>
+  <lastupdated>1404834738</lastupdated>
   <seasonid>494400</seasonid>
   <seriesid>94571</seriesid>
   <thumb_added></thumb_added>
@@ -2967,13 +2968,13 @@ Shirley’s ex-husband comes back into the picture, and she has big news for eve
   <Language>en</Language>
   <Overview>Annie and Shirley try to bring Leonard down. Troy and Abed re-enact a scene from a body switching film.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>45</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>47</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Jim Rash</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/94571/4448841.jpg</filename>
-  <lastupdated>1386974868</lastupdated>
+  <lastupdated>1404834776</lastupdated>
   <seasonid>494400</seasonid>
   <seriesid>94571</seriesid>
   <thumb_added></thumb_added>
@@ -2993,18 +2994,18 @@ Shirley’s ex-husband comes back into the picture, and she has big news for eve
   <EpisodeName>Heroic Origins</EpisodeName>
   <EpisodeNumber>12</EpisodeNumber>
   <FirstAired>2013-05-02</FirstAired>
-  <GuestStars>Joe Lo Truglio|Natasha Leggero|</GuestStars>
+  <GuestStars>Joe Lo Truglio|Natasha Leggero</GuestStars>
   <IMDB_ID>tt2560884</IMDB_ID>
   <Language>en</Language>
   <Overview>Convinced that the study group was destined to meet, Abed pieces together everyone's past revealing that their lives have always been intertwined. Chang tries to destroy Greendale once and for all.</Overview>
   <ProductionCode>411</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>44</RatingCount>
+  <RatingCount>45</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Stephen Basilone|Annie Mebane|Maggie Bandur</Writer>
   <absolute_number>84</absolute_number>
   <filename>episodes/94571/4473254.jpg</filename>
-  <lastupdated>1388956148</lastupdated>
+  <lastupdated>1404834857</lastupdated>
   <seasonid>494400</seasonid>
   <seriesid>94571</seriesid>
   <thumb_added></thumb_added>
@@ -3030,12 +3031,12 @@ Shirley’s ex-husband comes back into the picture, and she has big news for eve
   <Overview>With enough credits to graduate, Jeff contemplates his future. The study group once again is faced with the darkest timeline.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>40</RatingCount>
+  <RatingCount>41</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Megan Ganz</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/94571/4473253.jpg</filename>
-  <lastupdated>1388956172</lastupdated>
+  <lastupdated>1404834958</lastupdated>
   <seasonid>494400</seasonid>
   <seriesid>94571</seriesid>
   <thumb_added></thumb_added>
@@ -3050,23 +3051,23 @@ Shirley’s ex-husband comes back into the picture, and she has big news for eve
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director>|Tristram Shapeero|</Director>
+  <Director>Tristram Shapeero</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Repilot</EpisodeName>
   <EpisodeNumber>1</EpisodeNumber>
   <FirstAired>2014-01-02</FirstAired>
-  <GuestStars>|Rob Corddry|</GuestStars>
+  <GuestStars>Rob Corddry</GuestStars>
   <IMDB_ID>tt2911368</IMDB_ID>
   <Language>en</Language>
   <Overview>Jeff returns to Greendale to help his former law partner gather evidence for a lawsuit; thinking Jeff is planning to help save the school, Dean Pelton calls the study group back together.</Overview>
   <ProductionCode>501</ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>31</RatingCount>
+  <RatingCount>32</RatingCount>
   <SeasonNumber>5</SeasonNumber>
-  <Writer>|Dan Harmon|Chris McKenna|</Writer>
+  <Writer>Dan Harmon|Chris McKenna</Writer>
   <absolute_number>85</absolute_number>
   <filename>episodes/94571/4689623.jpg</filename>
-  <lastupdated>1390170175</lastupdated>
+  <lastupdated>1404842959</lastupdated>
   <seasonid>564925</seasonid>
   <seriesid>94571</seriesid>
   <thumb_added>2013-11-14 17:56:43</thumb_added>
@@ -3086,7 +3087,7 @@ Shirley’s ex-husband comes back into the picture, and she has big news for eve
   <EpisodeName>Introduction to Teaching</EpisodeName>
   <EpisodeNumber>2</EpisodeNumber>
   <FirstAired>2014-01-02</FirstAired>
-  <GuestStars>|Jonathan Banks|Kevin Corrigan|</GuestStars>
+  <GuestStars>Jonathan Banks|Kevin Corrigan</GuestStars>
   <IMDB_ID>tt3176520</IMDB_ID>
   <Language>en</Language>
   <Overview>Professor Hickey helps Jeff settle into his new job at Greendale; Abed convinces the study group to take a class focused on Nicolas Cage.</Overview>
@@ -3094,10 +3095,10 @@ Shirley’s ex-husband comes back into the picture, and she has big news for eve
   <Rating>7.6</Rating>
   <RatingCount>31</RatingCount>
   <SeasonNumber>5</SeasonNumber>
-  <Writer>|Andy Bobrow|</Writer>
+  <Writer>Andy Bobrow</Writer>
   <absolute_number>86</absolute_number>
   <filename>episodes/94571/4689627.jpg</filename>
-  <lastupdated>1390170139</lastupdated>
+  <lastupdated>1404843006</lastupdated>
   <seasonid>564925</seasonid>
   <seriesid>94571</seriesid>
   <thumb_added>2013-11-14 17:55:23</thumb_added>
@@ -3122,13 +3123,13 @@ Shirley’s ex-husband comes back into the picture, and she has big news for eve
   <Language>en</Language>
   <Overview>Dean Pelton initiates an investigation into an anonymous bandit; Jeff is suspicious when someone makes a confession.</Overview>
   <ProductionCode>503</ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>26</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>29</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Erik Sommers</Writer>
   <absolute_number>87</absolute_number>
   <filename>episodes/94571/4689934.jpg</filename>
-  <lastupdated>1390170104</lastupdated>
+  <lastupdated>1405195132</lastupdated>
   <seasonid>564925</seasonid>
   <seriesid>94571</seriesid>
   <thumb_added>2014-01-03 22:12:12</thumb_added>
@@ -3153,13 +3154,13 @@ Shirley’s ex-husband comes back into the picture, and she has big news for eve
   <Language>en</Language>
   <Overview>A team of investigators has the study group take lie detector tests before they can be considered for distributions from Pierce's will.</Overview>
   <ProductionCode>503</ProductionCode>
-  <Rating>8.0</Rating>
-  <RatingCount>25</RatingCount>
+  <Rating>7.9</Rating>
+  <RatingCount>30</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Alex Rubens</Writer>
   <absolute_number>88</absolute_number>
   <filename>episodes/94571/4689935.jpg</filename>
-  <lastupdated>1390170066</lastupdated>
+  <lastupdated>1405195180</lastupdated>
   <seasonid>564925</seasonid>
   <seriesid>94571</seriesid>
   <thumb_added>2014-01-10 23:37:26</thumb_added>
@@ -3180,17 +3181,17 @@ Shirley’s ex-husband comes back into the picture, and she has big news for eve
   <EpisodeNumber>5</EpisodeNumber>
   <FirstAired>2014-01-23</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt3278574</IMDB_ID>
   <Language>en</Language>
   <Overview>Abed plans an epic going-away party as Troy prepares to leave Greendale; a fun game transforms into a high-stakes competition.</Overview>
   <ProductionCode>504</ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>23</RatingCount>
+  <RatingCount>28</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Tim Saccardo</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/94571/4746230.jpg</filename>
-  <lastupdated>1390711716</lastupdated>
+  <lastupdated>1405830537</lastupdated>
   <seasonid>564925</seasonid>
   <seriesid>94571</seriesid>
   <thumb_added>2014-01-17 22:32:22</thumb_added>
@@ -3211,17 +3212,17 @@ Shirley’s ex-husband comes back into the picture, and she has big news for eve
   <EpisodeNumber>6</EpisodeNumber>
   <FirstAired>2014-01-30</FirstAired>
   <GuestStars>Nathan Fillion|Kumail Nanjiani|Paget Brewster|Robert Patrick|Brie Larson|Katie Leclerc</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt3278580</IMDB_ID>
   <Language>en</Language>
-  <Overview>It’s time for the midterm dance and Annie sets about getting the Greendale cafeteria ready for the festivities. She and Professor Hickey team up to navigate Greendale’s custodial corridors of power and must negotiate with Bob Waite, the politically savvy Greendale head custodian, and his right-hand man Lapari. They must also contend with Debra Chambers, Greendale’s head of I.T. and Waldron, Greendale’s head of parking, in what becomes an increasingly complex hierarchy of staff.</Overview>
+  <Overview>As Annie prepares the cafeteria for the midterm dance, she and professor Hickey must deal with the head custodian, the head of IT and the head of parking.</Overview>
   <ProductionCode>506</ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>22</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>29</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Monica Padrick</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/94571/4760006.jpg</filename>
-  <lastupdated>1393741387</lastupdated>
+  <lastupdated>1405830618</lastupdated>
   <seasonid>564925</seasonid>
   <seriesid>94571</seriesid>
   <thumb_added>2014-01-22 17:10:32</thumb_added>
@@ -3242,17 +3243,17 @@ Shirley’s ex-husband comes back into the picture, and she has big news for eve
   <EpisodeNumber>7</EpisodeNumber>
   <FirstAired>2014-02-27</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt3278586</IMDB_ID>
   <Language>en</Language>
-  <Overview>Professor Duncan decides it’s time to seduce Britta, and Jeff counsels him on how to close the deal. Meanwhile, Britta runs into some old friends and realizes that they have moved on from their shared anarchist views of the past. Abed runs afoul of Professor Hickey when he accidentally damages some drawings Hickey has been laboring over. When Hickey restrains Abed as punishment, the two wind up spending some meaningful time together. Meanwhile, Chang finds himself performing an impromptu one-man show for a ghostly audience.</Overview>
+  <Overview>Jeff helps Duncan romance Britta; Britta runs into some old anarchist friends and discovers they've moved on; Abed accidentally destroys some of Hickey's drawings; Chang has a supernatural experience.</Overview>
   <ProductionCode>507</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>18</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>29</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Dan Guterman</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/94571/4783156.jpg</filename>
-  <lastupdated>1393741394</lastupdated>
+  <lastupdated>1405830989</lastupdated>
   <seasonid>564925</seasonid>
   <seriesid>94571</seriesid>
   <thumb_added>2014-02-24 15:03:14</thumb_added>
@@ -3273,17 +3274,17 @@ Shirley’s ex-husband comes back into the picture, and she has big news for eve
   <EpisodeNumber>8</EpisodeNumber>
   <FirstAired>2014-03-06</FirstAired>
   <GuestStars>Mitch Hurwitz</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt3278596</IMDB_ID>
   <Language>en</Language>
-  <Overview>Dean Pelton invites two designers to Greendale to beta test their new social networking Application. What starts as a fun social interaction of ranking classmates turns into an all-out class war as Greendale students compete for the highest score. Jeff and Shirley battle for supremacy, while Britta rails against the very concept. Meanwhile, Professor Hickey goes underground – literally – until the whole thing blows over.</Overview>
+  <Overview>Dean Pelton lets two designers test their new social networking application at Greendale, leading to a war among the students; Professor Hickey decides to go underground until the battle ends.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>8.1</Rating>
-  <RatingCount>14</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>30</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Jordan Blum|Parker Deay</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/94571/4796834.jpg</filename>
-  <lastupdated>1394213454</lastupdated>
+  <lastupdated>1405831007</lastupdated>
   <seasonid>564925</seasonid>
   <seriesid>94571</seriesid>
   <thumb_added>2014-02-25 02:20:33</thumb_added>
@@ -3298,23 +3299,23 @@ Shirley’s ex-husband comes back into the picture, and she has big news for eve
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
+  <Director>Tristram Shapeero</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>VCR Maintenance and Educational Publishing</EpisodeName>
   <EpisodeNumber>9</EpisodeNumber>
   <FirstAired>2014-03-13</FirstAired>
   <GuestStars>Vince Gilligan|Brie Larson</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt3278600</IMDB_ID>
   <Language>en</Language>
-  <Overview>When Jeff, Shirley and Professor Hickey happen upon a hidden cache of textbooks, the discovery leads to some interesting power shifts as the group struggles with how to monetize their windfall. Meanwhile, Abed and Annie decide it’s time for a new roommate. Abed wants his friend Rachel to move in, while Annie wants her brother to move in. When they decide to play an old VCR game to determine the winner, things get a little intense.</Overview>
+  <Overview>Jeff, Shirley and Hickey's discovery of a hidden stash of textbooks causes power shifts within the group; Abed and Annie play a VCR game to decide who gets to choose their new roommate.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>28</RatingCount>
   <SeasonNumber>5</SeasonNumber>
-  <Writer></Writer>
+  <Writer>Donald Diego</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/94571/4800958.jpg</filename>
-  <lastupdated>1394339952</lastupdated>
+  <lastupdated>1405831030</lastupdated>
   <seasonid>564925</seasonid>
   <seriesid>94571</seriesid>
   <thumb_added>2014-03-08 20:43:29</thumb_added>
@@ -3329,28 +3330,28 @@ Shirley’s ex-husband comes back into the picture, and she has big news for eve
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
+  <Director>Joe Russo</Director>
+  <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Advanced Advanced Dungeons &amp; Dragons</EpisodeName>
   <EpisodeNumber>10</EpisodeNumber>
   <FirstAired>2014-03-20</FirstAired>
   <GuestStars>David Cross</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt3313070</IMDB_ID>
   <Language>en</Language>
-  <Overview>Professor Hickey reveals that his estranged son Hank did not invite him to his grandson’s birthday. The group decides to help father and son reunite through a rousing game of &quot;Dungeons and Dragons.&quot;</Overview>
+  <Overview>When Professor Hickey reveals that his estranged son (David Cross) has a baby, the gang decides to help them reunite through a game of Dungeons &amp; Dragons.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>30</RatingCount>
   <SeasonNumber>5</SeasonNumber>
-  <Writer></Writer>
+  <Writer>Matt Roller</Writer>
   <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1393663304</lastupdated>
+  <filename>episodes/94571/4807749.jpg</filename>
+  <lastupdated>1405831050</lastupdated>
   <seasonid>564925</seasonid>
   <seriesid>94571</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-03-11 16:53:19</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4818722</id>
@@ -3360,28 +3361,28 @@ Shirley’s ex-husband comes back into the picture, and she has big news for eve
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>TBA</EpisodeName>
+  <Director>Rob Schrab</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>G.I. Jeff</EpisodeName>
   <EpisodeNumber>11</EpisodeNumber>
-  <FirstAired>2014-03-27</FirstAired>
+  <FirstAired>2014-04-03</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt3313074</IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
+  <Overview>The gang gets animated in the vein of &quot;G.I. Joe.&quot;</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>25</RatingCount>
   <SeasonNumber>5</SeasonNumber>
-  <Writer></Writer>
+  <Writer>Dino Stamatopoulos</Writer>
   <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1394195437</lastupdated>
+  <filename>episodes/94571/4818722.jpg</filename>
+  <lastupdated>1405831068</lastupdated>
   <seasonid>564925</seasonid>
   <seriesid>94571</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-03-21 21:54:27</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4818723</id>
@@ -3391,28 +3392,28 @@ Shirley’s ex-husband comes back into the picture, and she has big news for eve
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>Season Finale (1)</EpisodeName>
+  <Director>Jay Chandrasekhar</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Basic Story</EpisodeName>
   <EpisodeNumber>12</EpisodeNumber>
-  <FirstAired>2014-04-03</FirstAired>
+  <FirstAired>2014-04-10</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt3313076</IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
+  <Overview>Subway makes plans to turn Greendale into Subway University; Jeff considers an employment offer; Dean Pelton tells Annie and Abed about the school's first dean.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>23</RatingCount>
   <SeasonNumber>5</SeasonNumber>
-  <Writer></Writer>
+  <Writer>Carol Kolb</Writer>
   <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1394338785</lastupdated>
+  <filename>episodes/94571/4818723.jpg</filename>
+  <lastupdated>1405831085</lastupdated>
   <seasonid>564925</seasonid>
   <seriesid>94571</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-04-03 16:38:31</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4818724</id>
@@ -3422,27 +3423,27 @@ Shirley’s ex-husband comes back into the picture, and she has big news for eve
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>Season Finale (2)</EpisodeName>
+  <Director>Rob Schrab</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Basic Sandwich</EpisodeName>
   <EpisodeNumber>13</EpisodeNumber>
-  <FirstAired>2014-04-10</FirstAired>
+  <FirstAired>2014-04-17</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt3313082</IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
+  <Overview>When everyone learns about Greendale's first dean, they embark on a mission to find his old computer lab; Subway enlists Chang to spy on the group as part of its plan to take over the school.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>8.3</Rating>
+  <RatingCount>24</RatingCount>
   <SeasonNumber>5</SeasonNumber>
-  <Writer></Writer>
+  <Writer>Ryan Ridley</Writer>
   <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1394338795</lastupdated>
+  <filename>episodes/94571/4818724.jpg</filename>
+  <lastupdated>1405831103</lastupdated>
   <seasonid>564925</seasonid>
   <seriesid>94571</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-04-12 22:16:37</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 </Data>

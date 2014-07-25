@@ -1,29 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Data><Series>
   <id>261690</id>
-  <Actors>|Matthew Rhys|Keri Russell|Holly Taylor|Noah Emmerich|Annet Mahendru|Keidrich Sellati|Maximiliano Hernandez|</Actors>
+  <Actors>|Matthew Rhys|Keri Russell|Holly Taylor|Noah Emmerich|Costa Ronin|Lev Gorn |Annet Mahendru|Keidrich Sellati|Maximiliano Hernandez|</Actors>
   <Airs_DayOfWeek>Wednesday</Airs_DayOfWeek>
   <Airs_Time>10:00 PM</Airs_Time>
   <ContentRating>TV-MA</ContentRating>
   <FirstAired>2013-01-30</FirstAired>
-  <Genre>|Crime|Drama|Mystery|</Genre>
+  <Genre>|Crime|Drama|Mystery|Thriller|</Genre>
   <IMDB_ID>tt2149175</IMDB_ID>
   <Language>en</Language>
   <Network>FX</Network>
   <NetworkID></NetworkID>
   <Overview>The Americans is a period drama about the complex marriage of two KGB spies posing as Americans in suburban Washington D.C. shortly after Ronald Reagan is elected President. The arranged marriage of Philip and Elizabeth Jennings, who have two children - 13-year-old Paige and 10-year-old Henry, who know nothing about their parents' true identity - grows more passionate and genuine by the day, but is constantly tested by the escalation of the Cold War and the intimate, dangerous and darkly funny relationships they must maintain with a network of spies and informants under their control.</Overview>
   <Rating>8.4</Rating>
-  <RatingCount>40</RatingCount>
+  <RatingCount>48</RatingCount>
   <Runtime>60</Runtime>
   <SeriesID>170443</SeriesID>
   <SeriesName>The Americans (2013)</SeriesName>
   <Status>Continuing</Status>
   <added>2012-08-21 12:40:05</added>
   <addedBy>360590</addedBy>
-  <banner>graphical/261690-g3.jpg</banner>
+  <banner>graphical/261690-g6.jpg</banner>
   <fanart>fanart/original/261690-11.jpg</fanart>
-  <lastupdated>1394311608</lastupdated>
+  <lastupdated>1405736697</lastupdated>
   <poster>posters/261690-1.jpg</poster>
+  <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>EP01616980</zap2it_id>
 </Series>
 <Episode>
@@ -45,12 +46,12 @@
   <Overview>The Americans is a period drama about the complex marriage of two KGB spies posing as Americans in suburban Washington D.C. shortly after Ronald Reagan is elected President. The arranged marriage of Philip and Elizabeth Jennings grows more passionate and genuine by the day, but is constantly tested by the escalation of the Cold War. Tensions heighten upon the arrival of a new neighbor, Stan Beeman, an FBI agent. </Overview>
   <ProductionCode>BDU179</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>52</RatingCount>
+  <RatingCount>57</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Joe Weisberg</Writer>
   <absolute_number>1</absolute_number>
   <filename>episodes/261690/4383263.jpg</filename>
-  <lastupdated>1392558070</lastupdated>
+  <lastupdated>1403024286</lastupdated>
   <seasonid>498971</seasonid>
   <seriesid>261690</seriesid>
   <thumb_added></thumb_added>
@@ -76,12 +77,12 @@
   <Overview>When Philip and Elizabeth are given an urgent task to plant a bug in Defense Secretary Caspar Weinberger's office, they risk exposure when an unwilling maid of the Weinberger home refuses to cooperate. Stan closes in on a member of the Soviet Rezidentura in an effort to uncover the identities of deep cover Directorate S operatives.</Overview>
   <ProductionCode>BDU101</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>43</RatingCount>
+  <RatingCount>49</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Joe Weisberg</Writer>
   <absolute_number>2</absolute_number>
   <filename>episodes/261690/4428999.jpg</filename>
-  <lastupdated>1392558110</lastupdated>
+  <lastupdated>1403024342</lastupdated>
   <seasonid>498971</seasonid>
   <seriesid>261690</seriesid>
   <thumb_added></thumb_added>
@@ -106,13 +107,13 @@
   <Language>en</Language>
   <Overview>Philip and Elizabeth discover that their murdered colleague Robert had a wife they never knew about. As they try to determine what she knows and where her allegiance lies, Stan's investigation into Robert's death puts him hot on their trail.</Overview>
   <ProductionCode>BDU102</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>42</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>47</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Joel Fields</Writer>
   <absolute_number>3</absolute_number>
   <filename>episodes/261690/4429000.jpg</filename>
-  <lastupdated>1392582091</lastupdated>
+  <lastupdated>1403024395</lastupdated>
   <seasonid>498971</seasonid>
   <seriesid>261690</seriesid>
   <thumb_added></thumb_added>
@@ -138,12 +139,12 @@
   <Overview>When an assassin attempts to kill President Reagan, Philip and Elizabeth scramble to handle the fallout within the KGB. Meanwhile, Stan pressures his source within the Rezidentura to find out if the KGB was responsible for the attempted assassination.</Overview>
   <ProductionCode>BDU103</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>45</RatingCount>
+  <RatingCount>48</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Joel Fields|Joe Weisberg</Writer>
   <absolute_number>4</absolute_number>
   <filename>episodes/261690/4429001.jpg</filename>
-  <lastupdated>1392582073</lastupdated>
+  <lastupdated>1403024438</lastupdated>
   <seasonid>498971</seasonid>
   <seriesid>261690</seriesid>
   <thumb_added></thumb_added>
@@ -168,13 +169,13 @@
   <Language>en</Language>
   <Overview>A crucial agent crumbles under emotional distress and threatens to topple a valuable network of KGB informants. Professionally, Philip and Elizabeth are tasked with infiltrating the FBI's new communications encryption system while personally they are forced to grapple with one of the darker aspects of life as a spy.</Overview>
   <ProductionCode>BDU104</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>37</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>40</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Melissa James Gibson</Writer>
   <absolute_number>5</absolute_number>
   <filename>episodes/261690/4429002.jpg</filename>
-  <lastupdated>1392582057</lastupdated>
+  <lastupdated>1405575663</lastupdated>
   <seasonid>498971</seasonid>
   <seriesid>261690</seriesid>
   <thumb_added></thumb_added>
@@ -200,12 +201,12 @@
   <Overview>A mole hunt within the KGB causes suspicion amongst allies and shatters trust within the Jennings' marriage. Meanwhile, Stan's plan to keep his mole safe puts her at even greater risk of discovery.</Overview>
   <ProductionCode>BDU105</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>38</RatingCount>
+  <RatingCount>42</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Sneha Koorse</Writer>
   <absolute_number>6</absolute_number>
   <filename>episodes/261690/4429003.jpg</filename>
-  <lastupdated>1392582036</lastupdated>
+  <lastupdated>1405575687</lastupdated>
   <seasonid>498971</seasonid>
   <seriesid>261690</seriesid>
   <thumb_added></thumb_added>
@@ -230,13 +231,13 @@
   <Language>en</Language>
   <Overview>Philip and Elizabeth's troubled marriage is further tested when a mission to discredit a Polish pro-democracy leader reunites Philip with his old flame.</Overview>
   <ProductionCode>BDU106</ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>36</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>39</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Joshua Brand</Writer>
   <absolute_number>7</absolute_number>
   <filename>episodes/261690/4429004.jpg</filename>
-  <lastupdated>1393669057</lastupdated>
+  <lastupdated>1395483021</lastupdated>
   <seasonid>498971</seasonid>
   <seriesid>261690</seriesid>
   <thumb_added></thumb_added>
@@ -261,13 +262,13 @@
   <Language>en</Language>
   <Overview>Philip and Elizabeth must stop an assassin from taking out key US scientists, while Stan and the FBI hunt the same man. Grannie shocks Elizabeth with the truth of what happened between Philip and Irina in New York.</Overview>
   <ProductionCode>BDU107</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>37</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>42</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Joel Fields|Joe Weisberg</Writer>
   <absolute_number>8</absolute_number>
   <filename>episodes/261690/4495414.jpg</filename>
-  <lastupdated>1393669047</lastupdated>
+  <lastupdated>1395483013</lastupdated>
   <seasonid>498971</seasonid>
   <seriesid>261690</seriesid>
   <thumb_added></thumb_added>
@@ -293,12 +294,12 @@
   <Overview>Philip and Elizabeth are put to the test when a routine mission goes horribly wrong. Stan and the FBI are pushed to their limit when one of their own goes missing.</Overview>
   <ProductionCode>BDU108</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>32</RatingCount>
+  <RatingCount>34</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Joshua Brand</Writer>
   <absolute_number>9</absolute_number>
   <filename>episodes/261690/4516404.jpg</filename>
-  <lastupdated>1393669110</lastupdated>
+  <lastupdated>1395482988</lastupdated>
   <seasonid>498971</seasonid>
   <seriesid>261690</seriesid>
   <thumb_added></thumb_added>
@@ -323,13 +324,13 @@
   <Language>en</Language>
   <Overview>Stan pursues a lead that puts him on the trail to one of Gregory's crew members, closing the gap between him and Elizabeth, and reigniting some of the deepest conflicts between her and Philip.</Overview>
   <ProductionCode>BDU109</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>30</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>32</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Bradford Winters</Writer>
   <absolute_number>10</absolute_number>
   <filename>episodes/261690/4516405.jpg</filename>
-  <lastupdated>1393669260</lastupdated>
+  <lastupdated>1397828143</lastupdated>
   <seasonid>498971</seasonid>
   <seriesid>261690</seriesid>
   <thumb_added></thumb_added>
@@ -354,13 +355,13 @@
   <Language>en</Language>
   <Overview>Events in Moscow strike a personal chord for Elizabeth, leading her to take on a dangerous mission she can't complete without Philip's help, and placing the couple on a collision course with both Grannie and the FBI.</Overview>
   <ProductionCode>BDU110</ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>28</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>29</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Joshua Brand|Melissa James Gibson</Writer>
   <absolute_number>11</absolute_number>
   <filename>episodes/261690/4516406.jpg</filename>
-  <lastupdated>1393669272</lastupdated>
+  <lastupdated>1397828188</lastupdated>
   <seasonid>498971</seasonid>
   <seriesid>261690</seriesid>
   <thumb_added></thumb_added>
@@ -386,12 +387,12 @@
   <Overview>One of Elizabeth's agents has key intel for sale, but she and Philip find themselves taking increasingly greater risks for what could well be a set-up. Meanwhile, Stan's pursuit of Directorate S suddenly begins to yield unexpected results.</Overview>
   <ProductionCode>BDU111</ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>33</RatingCount>
+  <RatingCount>37</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Joshua Brand|Melissa James Gibson</Writer>
   <absolute_number>12</absolute_number>
   <filename>episodes/261690/4516407.jpg</filename>
-  <lastupdated>1393669226</lastupdated>
+  <lastupdated>1397828232</lastupdated>
   <seasonid>498971</seasonid>
   <seriesid>261690</seriesid>
   <thumb_added></thumb_added>
@@ -416,13 +417,13 @@
   <Language>en</Language>
   <Overview>When Philip and Elizabeth are ordered to go through with a meeting that could potentially be a set-up, they find themselves confronted with unexpected truths about their relationship. Stan's investigation puts him and the FBI even closer to Philip and Elizabeth.</Overview>
   <ProductionCode>BDU112</ProductionCode>
-  <Rating>7.9</Rating>
-  <RatingCount>29</RatingCount>
+  <Rating>8.0</Rating>
+  <RatingCount>33</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Joel Fields|Joe Weisberg</Writer>
   <absolute_number>13</absolute_number>
   <filename>episodes/261690/4516408.jpg</filename>
-  <lastupdated>1393669240</lastupdated>
+  <lastupdated>1397828275</lastupdated>
   <seasonid>498971</seasonid>
   <seriesid>261690</seriesid>
   <thumb_added></thumb_added>
@@ -447,13 +448,13 @@
   <Language>en</Language>
   <Overview>Elizabeth comes back from her injury and straight into what should have been a routine mission – but it goes awry, leaving her and Philip in fear not only for themselves but for their whole network… and family. Paige's suspicions have only grown in her mother's absence. Meanwhile, Stan continues to fall for the Russian agent who has started to play him.</Overview>
   <ProductionCode>BDU201</ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>12</RatingCount>
+  <Rating>7.9</Rating>
+  <RatingCount>23</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Joel Fields|Joe Weisberg</Writer>
   <absolute_number>14</absolute_number>
   <filename>episodes/261690/4712475.jpg</filename>
-  <lastupdated>1394291718</lastupdated>
+  <lastupdated>1401133287</lastupdated>
   <seasonid>567361</seasonid>
   <seriesid>261690</seriesid>
   <thumb_added>2014-02-05 15:30:09</thumb_added>
@@ -476,15 +477,15 @@
   <GuestStars></GuestStars>
   <IMDB_ID>tt3459856</IMDB_ID>
   <Language>en</Language>
-  <Overview>As Philip investigates the fallout from the last operation, Elizabeth sticks close to home. A walk-in arrives at the Rezidentura.</Overview>
+  <Overview>As Philip investigates the fallout from the last operation, Elizabeth sticks close to home, concerned for her family until she gets a mysterious distress signal. Meanwhile, a walk-in arrives at the Rezidentura - providing both Nina and Stan with unique opportunities.</Overview>
   <ProductionCode>BDU202</ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>4</RatingCount>
+  <Rating>7.9</Rating>
+  <RatingCount>19</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Joel Fields|Joe Weisberg</Writer>
   <absolute_number>15</absolute_number>
   <filename>episodes/261690/4712476.jpg</filename>
-  <lastupdated>1394291771</lastupdated>
+  <lastupdated>1401133310</lastupdated>
   <seasonid>567361</seasonid>
   <seriesid>261690</seriesid>
   <thumb_added>2014-02-27 18:46:09</thumb_added>
@@ -507,15 +508,15 @@
   <GuestStars></GuestStars>
   <IMDB_ID>tt3459862</IMDB_ID>
   <Language>en</Language>
-  <Overview>Philip's fears about Elizabeth's readiness for action deepen. Stan becomes increasingly dependent on, Nina. Paige snoops into her mother’s family background. Oleg begins to scrutinize Nina’s secret operation.</Overview>
+  <Overview>Philip and Elizabeth complete their next mission - but not without complications - and Philip's fears about Elizabeth's readiness for action deepen. Stan tracks the KGB walk-in which leads to much praise at work and a deepening of his attachment to, and dependence on, Nina. Meanwhile, Paige snoops into her mother's family background and Oleg begins to scrutinize Nina's secret operation.</Overview>
   <ProductionCode>BDU203</ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.9</Rating>
+  <RatingCount>21</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Stuart Zicherman|</Writer>
   <absolute_number>16</absolute_number>
   <filename>episodes/261690/4712477.jpg</filename>
-  <lastupdated>1394251350</lastupdated>
+  <lastupdated>1401133320</lastupdated>
   <seasonid>567361</seasonid>
   <seriesid>261690</seriesid>
   <thumb_added>2014-03-07 20:06:48</thumb_added>
@@ -531,7 +532,7 @@
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
   <Director>Lodge Kerrigan</Director>
-  <EpImgFlag></EpImgFlag>
+  <EpImgFlag>2</EpImgFlag>
   <EpisodeName>A Little Night Music</EpisodeName>
   <EpisodeNumber>4</EpisodeNumber>
   <FirstAired>2014-03-19</FirstAired>
@@ -540,18 +541,18 @@
   <Language>en</Language>
   <Overview>Just when Philip and Elizabeth think they have a quiet road ahead, an old friend returns to complicate things. Not only do they have to intercept a target who could prove valuable to the Soviet Union, but they also have to take on an important rogue mission without the support of the Centre. Divisions inside the Rezidentura deepen between Oleg and Arkady and there’s an upheaval at the FBI as the chickens come home to roost for Agent Gaad. Meanwhile, Martha’s frustrations threaten to blow Philip’s cover.</Overview>
   <ProductionCode>BDU204</ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>8.1</Rating>
+  <RatingCount>20</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Stephen Schiff</Writer>
   <absolute_number>17</absolute_number>
-  <filename></filename>
-  <lastupdated>1394294224</lastupdated>
+  <filename>episodes/261690/4730719.jpg</filename>
+  <lastupdated>1398840783</lastupdated>
   <seasonid>567361</seasonid>
   <seriesid>261690</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-03-13 20:49:59</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4730720</id>
@@ -562,7 +563,7 @@
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
   <Director>Daniel Attias</Director>
-  <EpImgFlag></EpImgFlag>
+  <EpImgFlag>2</EpImgFlag>
   <EpisodeName>The Deal</EpisodeName>
   <EpisodeNumber>5</EpisodeNumber>
   <FirstAired>2014-03-26</FirstAired>
@@ -571,18 +572,18 @@
   <Language>en</Language>
   <Overview>Philip and Elizabeth are finally assigned a new handler as Philip works to clean up the mess of the last operation and Elizabeth, in disguise as Clark's sister Jennifer, does her best to smooth things over with Martha. As Stan searches for a missing scientist, Oleg and Arkady continue to argue over how best to handle the situation on their side, leaving Nina once again caught between the FBI and KGB. </Overview>
   <ProductionCode>BDU205</ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>19</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Angelina Burnett</Writer>
   <absolute_number>18</absolute_number>
-  <filename></filename>
-  <lastupdated>1394119405</lastupdated>
+  <filename>episodes/261690/4730720.jpg</filename>
+  <lastupdated>1399239729</lastupdated>
   <seasonid>567361</seasonid>
   <seriesid>261690</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-03-20 16:51:43</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4746711</id>
@@ -593,7 +594,7 @@
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
   <Director>Charlotte Sieling</Director>
-  <EpImgFlag></EpImgFlag>
+  <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Behind the Red Door</EpisodeName>
   <EpisodeNumber>6</EpisodeNumber>
   <FirstAired>2014-04-02</FirstAired>
@@ -602,18 +603,18 @@
   <Language>en</Language>
   <Overview>A dangerous Naval officer becomes the key to Philip and Elizabeth’s mission as well as a potential threat to their family's safety. Lucia, a Sandinista intelligence officer working with the Jennings, is tasked with getting Elizabeth access to Capitol Hill. Stan struggles with the potential costs of protecting Nina. </Overview>
   <ProductionCode>BDU206</ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>15</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Melissa James Gibson</Writer>
   <absolute_number>19</absolute_number>
-  <filename></filename>
-  <lastupdated>1394119566</lastupdated>
+  <filename>episodes/261690/4746711.jpg</filename>
+  <lastupdated>1400007859</lastupdated>
   <seasonid>567361</seasonid>
   <seriesid>261690</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-03-27 22:49:30</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4746712</id>
@@ -623,28 +624,28 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
+  <Director>Kevin Dowling</Director>
+  <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Arpanet</EpisodeName>
   <EpisodeNumber>7</EpisodeNumber>
   <FirstAired>2014-04-09</FirstAired>
   <GuestStars></GuestStars>
   <IMDB_ID>tt3459864</IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
+  <Overview>Philip uses his agent Charles Duluth to help him gain access to an early precursor to the Internet so that the KGB can bug American government communications. Nina faces the threat of a potential FBI polygraph exam, bringing her closer to KGB colleague Oleg.</Overview>
   <ProductionCode>BDU207</ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>17</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer></Writer>
+  <Writer>Joshua Brand</Writer>
   <absolute_number>20</absolute_number>
-  <filename></filename>
-  <lastupdated>1389820014</lastupdated>
+  <filename>episodes/261690/4746712.jpg</filename>
+  <lastupdated>1400075911</lastupdated>
   <seasonid>567361</seasonid>
   <seriesid>261690</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-04-06 15:39:16</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4770467</id>
@@ -654,28 +655,28 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
+  <Director>John Dahl</Director>
+  <EpImgFlag>2</EpImgFlag>
   <EpisodeName>New Car</EpisodeName>
   <EpisodeNumber>8</EpisodeNumber>
   <FirstAired>2014-04-16</FirstAired>
   <GuestStars></GuestStars>
   <IMDB_ID>tt3533366</IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
+  <Overview>Philip and Elizabeth both find themselves faced with painful turns in their various missions. Stan fights to gain access to an American military program that could give him the upper hand in his battle of wills with Oleg. </Overview>
   <ProductionCode>BDU208</ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>19</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer></Writer>
+  <Writer>Peter Ackerman</Writer>
   <absolute_number>21</absolute_number>
-  <filename></filename>
-  <lastupdated>1393538164</lastupdated>
+  <filename>episodes/261690/4770467.jpg</filename>
+  <lastupdated>1401306703</lastupdated>
   <seasonid>567361</seasonid>
   <seriesid>261690</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-04-11 00:10:14</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4770468</id>
@@ -685,28 +686,28 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
+  <Director>Alik Sakharov</Director>
+  <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Martial Eagle</EpisodeName>
   <EpisodeNumber>9</EpisodeNumber>
   <FirstAired>2014-04-23</FirstAired>
   <GuestStars></GuestStars>
   <IMDB_ID>tt3553756</IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
+  <Overview>Philip and Elizabeth’s long-planned mission turns ugly, impacting each of them in different ways. Stan digs in deeper at work as his personal life continues to unravel. </Overview>
   <ProductionCode>BDU209</ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.2</Rating>
+  <RatingCount>18</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer></Writer>
+  <Writer>Oliver North|Tracey Scott Wilson</Writer>
   <absolute_number>22</absolute_number>
-  <filename></filename>
-  <lastupdated>1393538194</lastupdated>
+  <filename>episodes/261690/4770468.jpg</filename>
+  <lastupdated>1401306723</lastupdated>
   <seasonid>567361</seasonid>
   <seriesid>261690</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-04-19 01:20:30</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4770469</id>
@@ -716,28 +717,28 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
+  <Director>Stefan Schwartz</Director>
+  <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Yousaf</EpisodeName>
   <EpisodeNumber>10</EpisodeNumber>
   <FirstAired>2014-04-30</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt3594864</IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
+  <Overview>A new mission with international stakes has Philip calling on Annelise for assistance just as an old foe returns to D.C. with a vendetta. Stan makes a discovery that could put the FBI hot on the trail of illegals.</Overview>
   <ProductionCode>BDU210</ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>20</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer></Writer>
+  <Writer>Stephen Schiff|Stuart Zicherman</Writer>
   <absolute_number>23</absolute_number>
-  <filename></filename>
-  <lastupdated>1391761935</lastupdated>
+  <filename>episodes/261690/4770469.jpg</filename>
+  <lastupdated>1402208621</lastupdated>
   <seasonid>567361</seasonid>
   <seriesid>261690</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-04-24 17:01:11</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4798441</id>
@@ -747,28 +748,28 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
+  <Director>Gregory Hoblit</Director>
+  <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Stealth</EpisodeName>
   <EpisodeNumber>11</EpisodeNumber>
   <FirstAired>2014-05-07</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt3594870</IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Overview>Elizabeth makes a shocking discovery about Kate. Philip pursues a contact for information about stealth. Stan continues his pursuit of the illegals. </Overview>
+  <ProductionCode>BDU211</ProductionCode>
+  <Rating>7.3</Rating>
+  <RatingCount>18</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1392398925</lastupdated>
+  <Writer>Joshua Brand</Writer>
+  <absolute_number>24</absolute_number>
+  <filename>episodes/261690/4798441.jpg</filename>
+  <lastupdated>1403445906</lastupdated>
   <seasonid>567361</seasonid>
   <seriesid>261690</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-05-06 19:05:32</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4809422</id>
@@ -778,27 +779,58 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
+  <Director>Andrew Bernstein</Director>
+  <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Operation Chronicle</EpisodeName>
   <EpisodeNumber>12</EpisodeNumber>
   <FirstAired>2014-05-14</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt3594868</IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
+  <Overview>With Larrick closing in, Elizabeth rushes to exfiltrate Jared while Philip readies Fred for a crucial mission. Arkady finally plays his hand, forcing Stan to make an impossible choice. </Overview>
   <ProductionCode>BDU212</ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>16</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Joel Fields|Joe Weisberg</Writer>
   <absolute_number>25</absolute_number>
-  <filename></filename>
-  <lastupdated>1393538112</lastupdated>
+  <filename>episodes/261690/4809422.jpg</filename>
+  <lastupdated>1403445932</lastupdated>
   <seasonid>567361</seasonid>
   <seriesid>261690</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-05-10 22:33:26</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4823530</id>
+  <Combined_episodenumber>13</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Daniel Sackheim</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Echo</EpisodeName>
+  <EpisodeNumber>13</EpisodeNumber>
+  <FirstAired>2014-05-21</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3599846</IMDB_ID>
+  <Language>en</Language>
+  <Overview>No one is safe as Philip and Elizabeth evacuate their children while trying to complete the mission. Stan holds Nina's future in his hands. </Overview>
+  <ProductionCode>BDU213</ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>14</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Joel Fields|Joe Weisberg</Writer>
+  <absolute_number>26</absolute_number>
+  <filename>episodes/261690/4823530.jpg</filename>
+  <lastupdated>1403445952</lastupdated>
+  <seasonid>567361</seasonid>
+  <seriesid>261690</seriesid>
+  <thumb_added>2014-05-17 16:27:26</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 </Data>

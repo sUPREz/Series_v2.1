@@ -2,7 +2,7 @@
 <Data>
   <Series>
     <id>73800</id>
-    <Actors>|Felicity Huffman|Teri Hatcher|Eva Longoria Parker|Brenda Strong|Marcia Cross|Dana Delany|Nicollette Sheridan|Vanessa Williams|Neal McDonough|Lyndsy Fonseca|Josh Henderson|Dougray Scott|Alfre Woodard|Joy Lauren|Shawn Pyfrom|Kyle MacLachlan|Nathan Fillion|Charles Mesure|Mehcad Brooks|Doug Savant|Cody Kasch|James Denton|Mark Moses|Steven Culp|Ricardo Antonio Chavira|Jesse Metcalfe|Andrea Bowen|Mason Vale Cotton|Madison de la Garza|Kendall Applegate|Joshua Logan Moore|Beau Mirchoff|Jeffrey Nordling|Kathryn Joosten|Maiara Walsh|Drea de Matteo|Charlie Carver|Helena Mattsson|Max Carver|</Actors>
+    <Actors>|Felicity Huffman|Teri Hatcher|Eva Longoria|Brenda Strong|Marcia Cross|Dana Delany|Nicollette Sheridan|Vanessa Williams|Neal McDonough|Lyndsy Fonseca|Josh Henderson|Dougray Scott|Alfre Woodard|Joy Lauren|Shawn Pyfrom|Kyle MacLachlan|Nathan Fillion|Charles Mesure|Mehcad Brooks|Doug Savant|Cody Kasch|James Denton|Mark Moses|Steven Culp|Ricardo Antonio Chavira|Jesse Metcalfe|Andrea Bowen|Mason Vale Cotton|Madison de la Garza|Kendall Applegate|Joshua Logan Moore|Beau Mirchoff|Jeffrey Nordling|Kathryn Joosten|Maiara Walsh|Drea de Matteo|Charlie Carver|Helena Mattsson|Max Carver|</Actors>
     <Airs_DayOfWeek>Sunday</Airs_DayOfWeek>
     <Airs_Time>9:00 PM</Airs_Time>
     <ContentRating>TV-PG</ContentRating>
@@ -16,7 +16,7 @@
 
 But, behind every picket fence there are secrets. And, in every seemingly happy home, you'll find jealousy, lust, passion, and sometimes... murder.</Overview>
     <Rating>7.9</Rating>
-    <RatingCount>176</RatingCount>
+    <RatingCount>179</RatingCount>
     <Runtime>40</Runtime>
     <SeriesID>24641</SeriesID>
     <SeriesName>Desperate Housewives</SeriesName>
@@ -25,8 +25,9 @@ But, behind every picket fence there are secrets. And, in every seemingly happy 
     <addedBy></addedBy>
     <banner>graphical/73800-g15.jpg</banner>
     <fanart>fanart/original/73800-43.jpg</fanart>
-    <lastupdated>1394543294</lastupdated>
+    <lastupdated>1405683934</lastupdated>
     <poster>posters/73800-10.jpg</poster>
+    <tms_wanted_old>1</tms_wanted_old>
     <zap2it_id>EP00672318</zap2it_id>
   </Series>
 </Data>

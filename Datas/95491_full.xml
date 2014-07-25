@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Data><Series>
   <id>95491</id>
-  <Actors>|Nina Dobrev|Paul Wesley|Ian Somerhalder|Matthew Davis|Michael Trevino|Zach Roerig|Steven R. McQueen|Katerina Graham|Candice Accola|David Anders|Marguerite MacIntyre|Susan Walters|Claire Holt|Torrey DeVitto|Joseph Morgan|Daniel Gillies|Sara Canning|</Actors>
+  <Actors>|Nina Dobrev|Paul Wesley|Ian Somerhalder|Matthew Davis|Michael Trevino|Zach Roerig|Steven R. McQueen|Katerina Graham|Candice Accola|Marguerite MacIntyre|Claire Holt|Torrey DeVitto|Joseph Morgan|Daniel Gillies|Sara Canning|</Actors>
   <Airs_DayOfWeek>Thursday</Airs_DayOfWeek>
   <Airs_Time>8:00 PM</Airs_Time>
   <ContentRating>TV-14</ContentRating>
@@ -12,18 +12,19 @@
   <Network>The CW</Network>
   <NetworkID></NetworkID>
   <Overview>As the school year begins, Elena Gilbert is immediately drawn to a handsome and mysterious new student, Stefan Salvatore. Elena has no way of knowing that Stefan is a vampire struggling to live peacefully among humans, while his brother Damon is the embodiment of vampire violence and brutality.</Overview>
-  <Rating>8.5</Rating>
-  <RatingCount>163</RatingCount>
-  <Runtime>45</Runtime>
+  <Rating>8.4</Rating>
+  <RatingCount>170</RatingCount>
+  <Runtime>60</Runtime>
   <SeriesID>76739</SeriesID>
   <SeriesName>The Vampire Diaries</SeriesName>
   <Status>Continuing</Status>
   <added>2009-05-22 03:09:12</added>
   <addedBy>5664</addedBy>
-  <banner>graphical/95491-g.jpg</banner>
+  <banner>graphical/95491-g20.jpg</banner>
   <fanart>fanart/original/95491-68.jpg</fanart>
-  <lastupdated>1394320425</lastupdated>
+  <lastupdated>1405857767</lastupdated>
   <poster>posters/95491-28.jpg</poster>
+  <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>EP01158752</zap2it_id>
 </Series>
 <Episode>
@@ -79,12 +80,12 @@
   <Overview>Elena Gilbert and her brother Jeremy come to terms with the death of their parents. Elena is popular amongst her peers and the perfect straight A student, but has difficulties hiding her grief from the world. Meanwhile, Jeremy treads on a dangerous path of using drugs to ease his pain. The arrival of new student Stefan Salvatore, however, makes Elena think about romantic possibilities.</Overview>
   <ProductionCode>296766</ProductionCode>
   <Rating>7.1</Rating>
-  <RatingCount>104</RatingCount>
+  <RatingCount>108</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Kevin Williamson|Julie Plec</Writer>
   <absolute_number>1</absolute_number>
   <filename>episodes/95491/669801.jpg</filename>
-  <lastupdated>1383514772</lastupdated>
+  <lastupdated>1396171863</lastupdated>
   <seasonid>68481</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -109,13 +110,13 @@
   <Language>en</Language>
   <Overview>As Mystic Falls gets ready for a festival to celebrate the passing of a comet, Vicki continues to recover in the hospital following Damon's attack. Stefan heads to the hospital to try to use his abilities to make Vicki forget who attacked her, but his efforts are cut short by Matt. Meanwhile, at a parent/teacher conference Mr. Tanner tells Aunt Jenna that Jeremy is in trouble and needs immediate intervention.</Overview>
   <ProductionCode>2J5001</ProductionCode>
-  <Rating>7.2</Rating>
-  <RatingCount>81</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>85</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Kevin Williamson|Julie Plec</Writer>
   <absolute_number>2</absolute_number>
   <filename>episodes/95491/1069311.jpg</filename>
-  <lastupdated>1383514793</lastupdated>
+  <lastupdated>1396171893</lastupdated>
   <seasonid>68481</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -140,13 +141,13 @@
   <Language>en</Language>
   <Overview>As Elena tries to ignore Bonnie's warnings about Stefan, Tyler tries to embarrass Stefan by throwing a ball at him. However, his effortless catch and football skills impress everyone, leading Mr. Tanner to let him join the football team. Meanwhile, Elena invites Stefan and Bonnie to dinner in order to try to get the two to know each other, but the night ends up backfiring. Finally, the town is shocked by an act of violence. </Overview>
   <ProductionCode>2J5002</ProductionCode>
-  <Rating>7.3</Rating>
-  <RatingCount>72</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>76</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Barbie Kligman|Bryan M. Holdman</Writer>
   <absolute_number>3</absolute_number>
   <filename>episodes/95491/1069321.jpg</filename>
-  <lastupdated>1388082432</lastupdated>
+  <lastupdated>1396171914</lastupdated>
   <seasonid>68481</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -172,13 +173,13 @@
   <Overview>Elena asks Stefan to escort her to the town's annual Founder's Party. Vicki gets Tyler to ask her to the party, then accuses him of trying to hide their relationship from his family. Zach reveals a useful family secret to Stefan. At the party, Damon tells Elena a story about the Salvatore family's past, leaving Elena with questions that Stefan refuses to answer. Finally, Stefan takes action to get Damon out of his life for good. 
 </Overview>
   <ProductionCode>2J5003</ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>68</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>73</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Brian Young|Andrew Kreisberg</Writer>
   <absolute_number>4</absolute_number>
   <filename>episodes/95491/1069331.jpg</filename>
-  <lastupdated>1383514822</lastupdated>
+  <lastupdated>1396171943</lastupdated>
   <seasonid>68481</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -203,13 +204,13 @@
   <Language>en</Language>
   <Overview>Stefan takes action to protect Elena. Stefan is hopeful that his plan to get rid of Damon is working. Elena and Jenna are concerned about Jeremy’s relationship with Vicki. Stefan decides to reveal parts of his past to Elena. At a fund-raising car wash, Bonnie is surprised by abilities she didn’t know she possessed, and seeks advice from her grandmother. Finally, Elena hears a disturbing story about the Salvatore family from a stranger.</Overview>
   <ProductionCode>2J5004</ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>72</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>75</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Sean Reycraft | Gabrielle G. Stanton</Writer>
   <absolute_number>5</absolute_number>
   <filename>episodes/95491/1134381.jpg</filename>
-  <lastupdated>1383514839</lastupdated>
+  <lastupdated>1396171969</lastupdated>
   <seasonid>68481</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -235,12 +236,12 @@
   <Overview>In a flashback sequence, Stefan reveals the Salvatore family history to Elena. Elena demands that Stefan explain the frightening events that have been happening in Mystic Falls. In flashbacks, Stefan explains how his rivalry with Damon began. Back in the present, Damon impulsively takes control of Vicki’s future, and a confused and frightened Vicki runs away. Finally, Sheriff Forbes and Mayor Lockwood take steps to protect the town.</Overview>
   <ProductionCode>2J5005</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>73</RatingCount>
+  <RatingCount>76</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Julie Plec|Kevin Williamson|</Writer>
   <absolute_number>6</absolute_number>
   <filename>episodes/95491/1135771.jpg</filename>
-  <lastupdated>1383514853</lastupdated>
+  <lastupdated>1396171985</lastupdated>
   <seasonid>68481</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -265,13 +266,13 @@
   <Language>en</Language>
   <Overview>As Vicki’s behavior becomes more dangerous, Stefan tries to help her. Elena tries to convince Jeremy to stay away from Vicki. Caroline gives Bonnie a necklace she took from Damon to wear with her Halloween costume, and when Damon tries to take it back, he is surprised by Bonnie’s abilities. Bonnie discusses the incident with Grams and learns more about her family’s past. Trying to cheer Vicki up, Matt takes her to the high school’s haunted house, but the evening soon takes a terrifying turn.</Overview>
   <ProductionCode>2J5006</ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>77</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>80</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Andrew Kreisberg</Writer>
   <absolute_number>7</absolute_number>
   <filename>episodes/95491/1135781.jpg</filename>
-  <lastupdated>1383514861</lastupdated>
+  <lastupdated>1396172008</lastupdated>
   <seasonid>68481</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -297,12 +298,12 @@
   <Overview>On his birthday, Stefan is surprised by a visit from Lexi, one of his oldest friends. Still upset by the events at the Halloween haunted house, Elena does her best to stay away from Stefan, but Lexi gives her some unsolicited relationship advice. Elena and Jenna are surprised by a change in Jeremy’s behavior. At Damon’s insistence, Caroline tries to get his medallion back from Bonnie. Finally, Damon’s offer to help Sheriff Forbes has sudden and tragic results.</Overview>
   <ProductionCode>2J5007</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>72</RatingCount>
+  <RatingCount>74</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Barbie Kligman|Gabrielle Stanton|</Writer>
   <absolute_number>8</absolute_number>
   <filename>episodes/95491/1135791.jpg</filename>
-  <lastupdated>1383514869</lastupdated>
+  <lastupdated>1396172030</lastupdated>
   <seasonid>68481</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -328,12 +329,12 @@
   <Overview> Jeremy gets a break from the mysterious new history teacher, Alaric Saltzman and introduces Alaric to Jenna. Bonnie is having terrifying dreams about one of her ancestors. Despite Elena’s efforts to smooth things over, Bonnie and Caroline continue to argue over the medallion. When the girls hold a séance to help them decide what to do, the results are stranger than any of them expected. Matt comes to Caroline’s aid when she needs a friend. Damon finally reveals to Stefan  the stunning reason he has returned to Mystic Falls.</Overview>
   <ProductionCode>2J5008</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>69</RatingCount>
+  <RatingCount>72</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Bryan M. Holdman|Brian Young|</Writer>
   <absolute_number>9</absolute_number>
   <filename>episodes/95491/1216291.jpg</filename>
-  <lastupdated>1383514879</lastupdated>
+  <lastupdated>1396172054</lastupdated>
   <seasonid>68481</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -358,13 +359,13 @@
   <Language>en</Language>
   <Overview>After reading the journal left by one of the Gilbert ancestors, Jeremy is inspired to return to his hobby of sketching fantasy creatures, a talent he had abandoned when his parents died. Much to the surprise of their friends, Matt and Caroline continue to hang out together. When Sheriff Forbes tells Damon there has been another attack, he offers to track down the killer and learns a startling piece of information about the town’s founding families. Alaric steps in to help during an awkward scene with Jeremy, Tyler and Mayor Lockwood. Stefan and Elena come to a new understanding, but everything changes when Elena accidentally makes a devastating discovery.</Overview>
   <ProductionCode>2J5009</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>73</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>76</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Kevin Williamson|Julie Plec|Barbie Kligman|</Writer>
   <absolute_number>10</absolute_number>
   <filename>episodes/95491/1216301.jpg</filename>
-  <lastupdated>1383514886</lastupdated>
+  <lastupdated>1396172070</lastupdated>
   <seasonid>68481</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -389,13 +390,13 @@
   <Language>en</Language>
   <Overview>Damon takes a trip to Georgia, where he surprises an old flame, Bree and enlists her help to figure out how to open the tomb. In the process, Damon comes face to face with someone who is determined to make him pay for past wrongs. Stefan opens up to Grams in his effort to help Bonnie overcome her fears and accept her powers. While researching his history paper in the public library, Jeremy meets a cute-but-geeky girl named Anna who has her own theories on the folklore of Mystic Falls. When Damon returns from Georgia, Stefan is waiting with news that will change their world.</Overview>
   <ProductionCode>2J5010</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>67</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>70</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Kevin Williamson|Julie Plec|Sean Reycraft|</Writer>
   <absolute_number>11</absolute_number>
   <filename>episodes/95491/1314511.jpg</filename>
-  <lastupdated>1383514896</lastupdated>
+  <lastupdated>1396172086</lastupdated>
   <seasonid>68481</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -420,13 +421,13 @@
   <Language>en</Language>
   <Overview>Damon, Elena and Stefan attend the school dance with a 1950s' theme, where Alaric introduces himself to Damon. Stefan and Damon try to figure out the identity of the new vampire in town, Stefan gives Elena jewelry filled with Vervain to protect her family and friends. To make ends meet Matt takes a job at the Mystic Grill. Ben comes to help Bonnie when he notices Damon is bothering her.</Overview>
   <ProductionCode>2J5011</ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>78</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>81</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Barbie Kligman|Brian Young</Writer>
   <absolute_number>12</absolute_number>
   <filename>episodes/95491/1314521.jpg</filename>
-  <lastupdated>1383514902</lastupdated>
+  <lastupdated>1396172115</lastupdated>
   <seasonid>68481</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -452,12 +453,12 @@
   <Overview>In flashbacks, Stefan and Damon recall the long-ago actions taken by townspeople including their father, Guiseppe Salvatore, and Pearl, leading to the devastating events that caused the rift in their relationship. In the present, Bonnie's date with Ben takes a frightening turn. Elena helps Stefan as he and Damon race to find the missing journal that belonged to Elena's ancestor. Stefan learns the reason behind Alaric's interest in both the journal and the town's history. Damon discovers that an old acquaintance has returned to town with an agenda he understands.</Overview>
   <ProductionCode>2J5012</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>72</RatingCount>
+  <RatingCount>75</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Kevin Williamson|Julie Plec|</Writer>
   <absolute_number>13</absolute_number>
   <filename>episodes/95491/1318211.jpg</filename>
-  <lastupdated>1383514913</lastupdated>
+  <lastupdated>1396172135</lastupdated>
   <seasonid>68481</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -483,12 +484,12 @@
   <Overview>Stefan helps Elena and Bonnie out of a dangerous situation. Jeremy asks Anna to a party in the woods, unaware that she has her own reasons for wanting to meet him there. When Stefan, Damon, and Elena work with Bonnie and Grams to open the tomb, everyone is shocked by what they discover. </Overview>
   <ProductionCode>2J5013</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>82</RatingCount>
+  <RatingCount>85</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Brett Conrad</Writer>
   <absolute_number>14</absolute_number>
   <filename>episodes/95491/1579671.jpg</filename>
-  <lastupdated>1383514925</lastupdated>
+  <lastupdated>1396172155</lastupdated>
   <seasonid>68481</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -514,12 +515,12 @@
   <Overview>Matt and Caroline are surprised by the sudden reappearance of Matt’s mother Kelly. Stefan and Elena are worried about Damon’s new attitude. Damon is asked by Sheriff Forbes to take part in a fund-raising bachelor auction. Alaric discovers shocking secrets from his own past. With help from Jenna and Stefan, Elena is determined to find out everything she can about her birth mother, but the truth may be more than she can handle.</Overview>
   <ProductionCode>2J5014</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>83</RatingCount>
+  <RatingCount>85</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Brian Young</Writer>
   <absolute_number>15</absolute_number>
   <filename>episodes/95491/1635541.jpg</filename>
-  <lastupdated>1383514935</lastupdated>
+  <lastupdated>1396172174</lastupdated>
   <seasonid>68481</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -545,12 +546,12 @@
   <Overview>Anna brings a surprising guest along when she pays a visit to Damon. Elena and Stefan go on an awkward double date with Caroline and Matt, but Stefan and Matt find they have some common ground. Jenna reunites with her old friend Kelly, and Jeremy’s relationship with Anna takes an unexpected direction.</Overview>
   <ProductionCode>2J5015</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>84</RatingCount>
+  <RatingCount>87</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Bryan Oh|Andrew Chambliss|</Writer>
   <absolute_number>16</absolute_number>
   <filename>episodes/95491/1857541.jpg</filename>
-  <lastupdated>1383514942</lastupdated>
+  <lastupdated>1396172191</lastupdated>
   <seasonid>68481</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -576,12 +577,12 @@
   <Overview>When Stefan and Damon make a dangerous new enemy, Stefan suddenly finds himself in a perilous situation. Damon and Elena try to convince Alaric to work with them to help Stefan. Matt is hopeful that his mom, Kelly, may be back to stay. After her car breaks down in a storm, Caroline make a horrific discovery that shocks everyone in town.</Overview>
   <ProductionCode>2J5016</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>80</RatingCount>
+  <RatingCount>82</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Brian Young</Writer>
   <absolute_number>17</absolute_number>
   <filename>episodes/95491/1912081.jpg</filename>
-  <lastupdated>1383514949</lastupdated>
+  <lastupdated>1396172208</lastupdated>
   <seasonid>68481</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -607,12 +608,12 @@
   <Overview>While Stefan struggles to control his new situation, Elena and Jeremy are surprised by a visit from their uncle, John Gilbert. Alaric has an awkward talk with Elena about Isobel. At a Founder’s Day event, Stefan displays a rare party attitude and Damon’s attempt to find out why Uncle John has returned to town takes an ugly turn. An incident at the party causes trouble between Matt and Tyler... and the relationship between Matt and his mother, Kelly, reaches a new low. Meanwhile, Elena’s effort to comfort Jeremy falls short and he decides to take matters into his own hands.</Overview>
   <ProductionCode>2J5017</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>86</RatingCount>
+  <RatingCount>88</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Barbie Kligman|Andrew Chambliss|</Writer>
   <absolute_number>18</absolute_number>
   <filename>episodes/95491/1955981.jpg</filename>
-  <lastupdated>1383514956</lastupdated>
+  <lastupdated>1396172223</lastupdated>
   <seasonid>68481</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -638,12 +639,12 @@
   <Overview>At the Founder’s Day Gala, Elena and Caroline compete for the title of “Miss Mystic Falls” against other girls from town, including Tina Fell and Amber Bradley. Elena is happy to have Bonnie back in town, but Bonnie still has issues to work through. John Gilbert attempts to intimidate Damon, but his plan doesn’t have the desired effect. Damon discovers that Stefan is hiding a dangerous secret that could impact everyone in town.</Overview>
   <ProductionCode>2J5018</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>91</RatingCount>
+  <RatingCount>93</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Bryan Oh|Caroline Dries|</Writer>
   <absolute_number>19</absolute_number>
   <filename>episodes/95491/1983761.jpg</filename>
-  <lastupdated>1383514964</lastupdated>
+  <lastupdated>1396172237</lastupdated>
   <seasonid>68481</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -669,12 +670,12 @@
   <Overview>While Stefan struggles to come to terms with his past, both he and Damon reveal parts of their history to Elena, until she finally learns the truth about how they became vampires. Pearl has an ugly confrontation with Johnathan Gilbert. Damon and Alaric try to find a mysterious invention before Johnathan does. The friendship and flirtation between Jeremy and Anna continues to grow.</Overview>
   <ProductionCode>2J5019</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>89</RatingCount>
+  <RatingCount>92</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Kevin Williamson|Julie Plec|</Writer>
   <absolute_number>20</absolute_number>
   <filename>episodes/95491/2042031.jpg</filename>
-  <lastupdated>1383514972</lastupdated>
+  <lastupdated>1396172253</lastupdated>
   <seasonid>68481</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -699,13 +700,13 @@
   <Language>en</Language>
   <Overview>Isobel returns to town and stuns Alaric with her attitude and her demands that he arrange a meeting with Elena. When mother and daughter finally meet, Isobel refuses to answer most of Elena’s questions, but reveals that she will stop at nothing to find the mysterious invention Johnathan Gilbert has been searching for. Isobel’s dangerous actions lead Stefan, Damon and Bonnie to step in and help Elena deal with the situation.</Overview>
   <ProductionCode>2J5020</ProductionCode>
-  <Rating>7.9</Rating>
-  <RatingCount>90</RatingCount>
+  <Rating>8.0</Rating>
+  <RatingCount>93</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Caroline Dries|Brian Young|</Writer>
   <absolute_number>21</absolute_number>
   <filename>episodes/95491/2070241.jpg</filename>
-  <lastupdated>1383514982</lastupdated>
+  <lastupdated>1396172278</lastupdated>
   <seasonid>68481</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -731,12 +732,12 @@
   <Overview>Founder's Day has finally arrived, and everyone is busy with last-minute preparations for floats and fireworks. Stefan is uncomfortable with Damon's new attitude toward Elena, but Elena is more concerned about repairing her relationship with Jeremy. Jeremy is worried about Anna, but not sure he's on board with her latest plan for the future. While Caroline is enjoying her day as Queen of the celebration, she also tries to help Matt and Tyler get their friendship back on track. Finally, although Damon and Alaric do their best to stop him, Johnathan Gilbert sets a plan in motion that brings Founder's Day to an end amid chaos, destruction and death.</Overview>
   <ProductionCode>2J5021</ProductionCode>
   <Rating>8.1</Rating>
-  <RatingCount>90</RatingCount>
+  <RatingCount>93</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Bryan Oh|Andrew Chambliss|</Writer>
   <absolute_number>22</absolute_number>
   <filename>episodes/95491/2092671.jpg</filename>
-  <lastupdated>1388006876</lastupdated>
+  <lastupdated>1396172297</lastupdated>
   <seasonid>68481</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -762,12 +763,12 @@
   <Overview>The second season begins with Elena discovering her uncle John's bloody body and learning Jeremy's fate, and Damon realizing that Katherine has returned. Meanwhile, Caroline is taken to the hospital following a car accident, and Tyler's mysterious uncle Mason arrives in town.</Overview>
   <ProductionCode>2J5251</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>98</RatingCount>
+  <RatingCount>101</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Kevin Williamson|Julie Plec</Writer>
   <absolute_number>23</absolute_number>
   <filename>episodes/95491/2424031.jpg</filename>
-  <lastupdated>1389968114</lastupdated>
+  <lastupdated>1396172699</lastupdated>
   <seasonid>256621</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -792,13 +793,13 @@
   <Language>en</Language>
   <Overview>When a confused and desperate Caroline leaves the hospital and joins her friends at the Mystic Falls Carnival, Damon wants to take immediate action, but Stefan and Elena come to Caroline’s defense. Matt is completely mystified by Caroline’s behavior, but still tries to tell her about his feelings for her.. Damon has suspicions about Tyler’s Uncle Mason and uses Tyler’s volatile personality in an attempt to get Mason to reveal his secret. Upset with everything going on around her, Bonnie takes her anger out on Damon.</Overview>
   <ProductionCode>2J5252</ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>86</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>89</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Brian Young</Writer>
   <absolute_number>24</absolute_number>
   <filename>episodes/95491/2694061.jpg</filename>
-  <lastupdated>1389968138</lastupdated>
+  <lastupdated>1396172715</lastupdated>
   <seasonid>256621</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -824,12 +825,12 @@
   <Overview>Elena, Damon and Alaric take a road trip to Duke University and search through Isobel’s research on folklore and paranormal phenomena to see if they can uncover any clues to the mystery surrounding the Lockwood family. Isobel’s former student, Vanessa offers to guide them through the research and ends up getting quite an education herself. Stefan comes face to face with a terrifying new danger in the woods, and Tyler makes a shocking discovery about Mason.....</Overview>
   <ProductionCode>2J5253</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>95</RatingCount>
+  <RatingCount>98</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Andrew Chambliss</Writer>
   <absolute_number>25</absolute_number>
   <filename>episodes/95491/2694081.jpg</filename>
-  <lastupdated>1389966931</lastupdated>
+  <lastupdated>1396172732</lastupdated>
   <seasonid>256621</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -855,12 +856,12 @@
   <Overview>Stefan takes drastic measures to find out the real reason Katherine has returned to Mystic Falls, and is shocked when she reveals new secrets about what really happened in 1864. Damon tries a new tactic to resolve his issues with Mason,.... but it proves costly. Tyler pushes Mason to tell him the truth about the Lockwoods. Finally, when Katherine delivers an ultimatum, Stefan and Elena are left with very few options.</Overview>
   <ProductionCode>2J5254</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>99</RatingCount>
+  <RatingCount>102</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Caroline Dries</Writer>
   <absolute_number>26</absolute_number>
   <filename>episodes/95491/2706801.jpg</filename>
-  <lastupdated>1389966962</lastupdated>
+  <lastupdated>1396172749</lastupdated>
   <seasonid>256621</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -885,13 +886,13 @@
   <Language>en</Language>
   <Overview>Tyler learns more about the Lockwood family curse from Mason. Stefan and Damon argue over how to handle Mason. Elena tries to keep Jeremy from becoming more involved with the Lockwood mystery, but Jeremy makes an effort to hang out with Tyler. Mason gives Sheriff Lockwood some startling information, leading to a night of violence, confession and heartbreak. </Overview>
   <ProductionCode>2J5255</ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>88</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>91</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Mike Daniels</Writer>
   <absolute_number>27</absolute_number>
   <filename>episodes/95491/2821891.jpg</filename>
-  <lastupdated>1389966995</lastupdated>
+  <lastupdated>1396172770</lastupdated>
   <seasonid>256621</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -917,12 +918,12 @@
   <Overview>Despite Elena’s efforts to keep Jeremy safe, he offers to help Damon and Alaric deal with Katherine... Sheriff Forbes and Caroline share a few rare moments of quality mother/daughter time. Bonnie accidentally discovers new information about Mason and shares it with Stefan, leading Damon to take matters into his own hands.</Overview>
   <ProductionCode>2J5256</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>93</RatingCount>
+  <RatingCount>96</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Elizabeth Craft|Sara Fain|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95491/2909911.jpg</filename>
-  <lastupdated>1389967023</lastupdated>
+  <lastupdated>1396172789</lastupdated>
   <seasonid>256621</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -948,12 +949,12 @@
   <Overview>Stefan and Damon decide on a new plan to deal with Katherine at the Lockwood’s masquerade ball. Katherine calls on an old friend, Lucy, to attend the ball with her. Bonnie, Jeremy and Alaric all do what they can to help Stefan and Damon, but Katherine has a surprise planned that none of them could foresee. Things take an ugly turn when Matt and Tyler start doing shots with their friends.</Overview>
   <ProductionCode>2J5257</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>96</RatingCount>
+  <RatingCount>99</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Kevin Williamson|Julie Plec|</Writer>
   <absolute_number>29</absolute_number>
   <filename>episodes/95491/2941411.jpg</filename>
-  <lastupdated>1389967061</lastupdated>
+  <lastupdated>1396172806</lastupdated>
   <seasonid>256621</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -979,12 +980,12 @@
   <Overview>An Ancient Presence In Mystic Falls, Stefan and Damon come to Elena’s assistance and, in the process, learn surprising new information about people, vampires and events in the distant past. Jeremy helps Bonnie after she casts a difficult and exhausting spell, and Caroline does what she can to make things easier for Tyler. Finally, Stefan and Damon reach a new understanding.</Overview>
   <ProductionCode>2J5258</ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>99</RatingCount>
+  <RatingCount>102</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Brian Young</Writer>
   <absolute_number>30</absolute_number>
   <filename>episodes/95491/2968991.jpg</filename>
-  <lastupdated>1389967108</lastupdated>
+  <lastupdated>1396172826</lastupdated>
   <seasonid>256621</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -1010,12 +1011,12 @@
   <Overview>Elena puts herself in a dangerous position as she searches for the truth about Katherine’s past and what her own future may hold. Knowing that Stefan would never agree to her plan, Elena swears Caroline to secrecy. Damon uses a new-found confidant to help him try to discover the real purpose and power of the moonstone. Jeremy and Bonnie meet Luka, a new student with a surprising family history.</Overview>
   <ProductionCode>2J5259</ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>93</RatingCount>
+  <RatingCount>96</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Andrew Chambliss</Writer>
   <absolute_number>31</absolute_number>
   <filename>episodes/95491/3052971.jpg</filename>
-  <lastupdated>1389967166</lastupdated>
+  <lastupdated>1396172847</lastupdated>
   <seasonid>256621</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -1041,12 +1042,12 @@
   <Overview>Elena decides to take matters into her own hands and offers a tempting incentive to Rose for her help. When things take an unexpected turn, however, Rose calls on Damon to deal with the plan Elena has set in motion. Jeremy’s reckless attempt to help Bonnie retrieve the moonstone lands him in a life-threatening position and forces Stefan to put himself in danger. Bonnie and Luka form a closer connection. Tyler shows Caroline the Lockwood cellar, where she makes a discovery that leaves them both terrified.</Overview>
   <ProductionCode>2J5260</ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>101</RatingCount>
+  <RatingCount>104</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Caroline Dries</Writer>
   <absolute_number>32</absolute_number>
   <filename>episodes/95491/3053081.jpg</filename>
-  <lastupdated>1389967294</lastupdated>
+  <lastupdated>1396172861</lastupdated>
   <seasonid>256621</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -1072,12 +1073,12 @@
   <Overview>As the full moon approaches, Caroline helps Tyler prepare for the transformation he is powerless to stop. While Stefan and Katherine play mind games on one another, Damon and Alaric are suspicious when a stranger named Jules shows up in Mystic Falls, searching for her missing friend, Mason. Elena is frustrated at the lengths Jeremy and her friends have gone to in order to keep her safe. Bonnie and Luca work together on a spell, while still keeping secrets from one another. Finally, Elijah makes an unexpected appearance with an offer that could change everything.</Overview>
   <ProductionCode>2J5261</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>87</RatingCount>
+  <RatingCount>91</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Mike Daniels</Writer>
   <absolute_number>33</absolute_number>
   <filename>episodes/95491/3053091.jpg</filename>
-  <lastupdated>1389967412</lastupdated>
+  <lastupdated>1396172879</lastupdated>
   <seasonid>256621</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -1103,13 +1104,13 @@
   <Overview>Stefan has his own ideas about Elena’s new plan for the future. While Damon tries to get the truth out of Jules, he asks Elena to keep an eye on Rose, a situation that turns unexpectedly dangerous. Caroline and Matt try to be honest about their feelings for one another, and Tyler’s reaction to Caroline’s generosity comes as a surprise to her... Damon struggles to hide his true feelings when a life-and-death crisis hits him harder than he expected.
 </Overview>
   <ProductionCode>2J5262</ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>93</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>97</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Sarah Fain|Elizabeth Craft|</Writer>
   <absolute_number>34</absolute_number>
   <filename>episodes/95491/3262111.jpg</filename>
-  <lastupdated>1389967460</lastupdated>
+  <lastupdated>1396172900</lastupdated>
   <seasonid>256621</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -1135,12 +1136,12 @@
   <Overview>Johnathan Gilbert’s return to Mystic Falls comes as an unhappy surprise to Elena, Jenna and Damon. Caroline lets Stefan know about her conversation with Tyler, and Stefan does his best to reach out to a confused and conflicted Tyler. Jeremy comforts Bonnie after her disturbing conversation with Jonas... When Jules takes a hostage, the situation quickly escalates into a violent confrontation. </Overview>
   <ProductionCode>2J5263</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>99</RatingCount>
+  <RatingCount>103</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Kevin Williamson|Julie Plec|</Writer>
   <absolute_number>35</absolute_number>
   <filename>episodes/95491/3291381.jpg</filename>
-  <lastupdated>1389967503</lastupdated>
+  <lastupdated>1396172915</lastupdated>
   <seasonid>256621</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -1166,12 +1167,12 @@
   <Overview>Stefan and Elena get away for what they hope will be a romantic weekend at the Gilbert family lake house, not realizing that they’ve been followed. Jenna starts to worry that Alaric isn’t being honest with her. Jules explains the importance of the sun and moon curse to Tyler, but leaves out an important detail. Damon attends a tea at the Historical Society in order to talk to Elijah, but Elijah isn’t giving up any secrets. With help from Caroline and Jeremy, Bonnie uses deceptive measures to get shocking new information out of Luka. Finally, Tyler offers Matt some relationship advice.</Overview>
   <ProductionCode>2J5264</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>91</RatingCount>
+  <RatingCount>95</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Brian Young</Writer>
   <absolute_number>36</absolute_number>
   <filename>episodes/95491/3291391.jpg</filename>
-  <lastupdated>1389967540</lastupdated>
+  <lastupdated>1396172933</lastupdated>
   <seasonid>256621</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -1197,12 +1198,12 @@
   <Overview>Stefan tells Elena about a dark time in his history and the surprising person whose influence changed everything. After getting the truth out of Luka, Jonas makes his feelings clear to Bonnie and Jeremy. Trying to catch Elijah off-guard, Damon arranges a dinner party for him with Jenna, Alaric and Andie, but last-minute information throws Damon’s plan into chaos.</Overview>
   <ProductionCode>2J5265</ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>91</RatingCount>
+  <RatingCount>94</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Andrew Chambliss</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95491/3549801.jpg</filename>
-  <lastupdated>1389967590</lastupdated>
+  <lastupdated>1396172957</lastupdated>
   <seasonid>256621</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -1228,12 +1229,12 @@
   <Overview>Katherine’s mind games are getting on everyone’s nerves, but Damon, Stefan and Elena realize that her knowledge of Mystic Falls history will help them stay alive. Frustrated with her relationship with Matt, Caroline finds a new way to get his attention. Alaric makes a surprising confession to Jenna, and Katherine makes a different kind of confession to Damon. Stefan and Bonnie try to convince Jonas and Luka that they should all be working together, but Jonas’ lack of trust leads to a violent and fiery confrontation.</Overview>
   <ProductionCode>2J5266</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>85</RatingCount>
+  <RatingCount>89</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Caroline Dries</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95491/3549811.jpg</filename>
-  <lastupdated>1389967622</lastupdated>
+  <lastupdated>1396172973</lastupdated>
   <seasonid>256621</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -1259,12 +1260,12 @@
   <Overview>Elena and Alaric both lash out at John when Isobel’s unexpected arrival leaves Jenna devastated. Bonnie works with Damon and Jeremy to find the spell they’ll need to harness her ancestors’ power. A heartbroken Caroline doesn’t know what to do about Matt. Stefan and Damon realize they have a new secret weapon.</Overview>
   <ProductionCode>2J5267</ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>93</RatingCount>
+  <RatingCount>97</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Mike Daniels</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95491/3774221.jpg</filename>
-  <lastupdated>1389967766</lastupdated>
+  <lastupdated>1396172991</lastupdated>
   <seasonid>256621</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -1289,13 +1290,13 @@
   <Language>en</Language>
   <Overview>As the high school prepares to throw a “1960s Decade Dance,” Elena starts receiving disturbing messages from Klaus via an unusual source. Bonnie tries to reassure Jeremy that she is strong enough to help Elena, but a worried Jeremy asks Stefan for advice. Caroline talks Matt into taking her to the dance. Expecting Klaus to show up at the dance, Damon and Alaric attend as chaperones, but Klaus is playing a complicated game that keeps them on edge. Finally, Damon comes up with a new plan of action that shocks and upsets everyone.</Overview>
   <ProductionCode>2J5268</ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>85</RatingCount>
+  <Rating>7.9</Rating>
+  <RatingCount>89</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Michael Narducci</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95491/3968541.jpg</filename>
-  <lastupdated>1389967810</lastupdated>
+  <lastupdated>1396173008</lastupdated>
   <seasonid>256621</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -1321,12 +1322,12 @@
   <Overview>Stefan and Damon are furious when they discover that Elena has defied them both to make a new ally and take control of the plan to out-maneuver Klaus. Disagreement over how to protect Elena leads to growing tension between the Salvatore brothers. Meanwhile, Stefan has his hands full trying to keep a confused and frightened Jenna safe. Flashbacks to 1491 reveal Katherine’s introduction to Elijah and Klaus, along with the origin of the moonstone curse. Elena learns shocking new information about Klaus’ motives.</Overview>
   <ProductionCode>2J5269</ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>83</RatingCount>
+  <RatingCount>88</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Kevin Williamson|Julie Plec|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95491/4032861.jpg</filename>
-  <lastupdated>1389967850</lastupdated>
+  <lastupdated>1396173031</lastupdated>
   <seasonid>256621</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -1352,12 +1353,12 @@
   <Overview>Damon is willing to go to extraordinary lengths to prevent Elena from being a victim of Klaus’ plan to break the curse. Damon’s actions put him at terrible odds with Stefan and the tension that started brewing between the brothers over their differing opinions of how to help save Elena’s life blows up into full-scale conflict. Tyler returns to Mystic Falls after receiving a disturbing phone call. With the full moon marking the arrival of the sacrifice ritual, Stefan and Elena spend a romantic day together — afraid it might be their last.</Overview>
   <ProductionCode>2J5270</ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>89</RatingCount>
+  <RatingCount>93</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Andrew Chambliss|Brian Young|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95491/4065691.jpg</filename>
-  <lastupdated>1389967908</lastupdated>
+  <lastupdated>1396173054</lastupdated>
   <seasonid>256621</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -1383,12 +1384,12 @@
   <Overview>With the arrival of the full moon, Elena tries to prepare for whatever Klaus has planned and Tyler faces his second transformation. The terrifying events quickly spin out of control, despite an unexpected act of courage. Finally, Damon admits the truth to Stefan about a terrible new development they must face...</Overview>
   <ProductionCode>2J5271</ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>88</RatingCount>
+  <RatingCount>92</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Caroline Dries|Mike Daniels|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95491/4052491.jpg</filename>
-  <lastupdated>1389967949</lastupdated>
+  <lastupdated>1396173178</lastupdated>
   <seasonid>256621</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -1413,13 +1414,13 @@
   <Language>en</Language>
   <Overview>Mystic Falls screens &quot;Gone with The Wind&quot; in the town square, and Damon's memories of Katherine in 1864 mix with the reality of present-day Elena. Stefan pays a steep price after trying to prevent a tragedy, and Sheriff Forbes makes a dangerous mistake while trying to keep everyone safe. Multiple lives hang in the balance as the consequences of the sacrifice ritual play out to a horrifying conclusion.</Overview>
   <ProductionCode>2J5272</ProductionCode>
-  <Rating>8.0</Rating>
-  <RatingCount>92</RatingCount>
+  <Rating>7.9</Rating>
+  <RatingCount>96</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Turi Meyer|Al Septien|Michael Narducci|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95491/4052501.jpg</filename>
-  <lastupdated>1389968027</lastupdated>
+  <lastupdated>1396173195</lastupdated>
   <seasonid>256621</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -1444,13 +1445,13 @@
   <Language>en</Language>
   <Overview>On the morning of Elena’s 18th birthday, Caroline is busy planning a party, but Elena is focused on searching for any clues that might help her discover where Stefan is. Damon is also searching for Stefan, while trying to protect Elena and keep her from doing anything that would draw Klaus’ attention. Meanwhile, Klaus and Stefan are busy trailing a werewolf named Ray Sutton. Now working at the Mystic Grill along with Matt, Jeremy is struggling to understand why he keeps seeing the ghosts of Vicki and Anna since he was brought back to life by Bonnie’s magic. Meanwhile, Alaric does his best to watch over Elena and Jeremy, while dealing with his grief over Jenna’s death. Finally, Caroline and Tyler face a new and unexpected challenge.</Overview>
   <ProductionCode>2J6001</ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>92</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>96</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Kevin Williamson|Julie Plec|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95491/4119289.jpg</filename>
-  <lastupdated>1383513779</lastupdated>
+  <lastupdated>1396173303</lastupdated>
   <seasonid>468266</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -1476,12 +1477,12 @@
   <Overview>Klaus puts a plan in motion that will give him even more power, but even with the unwilling participation of werewolf Ray Sutton, things don’t go exactly as Klaus had planned. Damon and Alaric reluctantly go along with Elena’s new strategy to find Stefan, leading Damon into a dangerous fight with an unexpected enemy. Jeremy turns to Matt for help as he continues to try to understand what the ghosts from his past want from him. Unaware that Caroline is in need of his help, Tyler faces an emotional confrontation with his mother.</Overview>
   <ProductionCode>2J6002</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>84</RatingCount>
+  <RatingCount>89</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Al Septien|Turi Meyer|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95491/4161570.jpg</filename>
-  <lastupdated>1383513792</lastupdated>
+  <lastupdated>1396173331</lastupdated>
   <seasonid>468266</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -1507,12 +1508,12 @@
   <Overview>Klaus and Stefan arrive in Chicago, where Stefan is reunited with a vampire who hasn't really moved on from her interest in him decades earlier. In a flashback to Chicago in the 1920s, Stefan comes face-to-face with a shocking chapter from his wild past. After Damon gets a tip on Stefan and Klaus' whereabouts from an unexpected source, he and Elena follow their trail. Back in Mystic Falls, Tyler is concerned about Caroline and turns to Sheriff Forbes for help. </Overview>
   <ProductionCode>2J6003</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>86</RatingCount>
+  <RatingCount>91</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Caroline Dries|L.J. Smith|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95491/4165967.jpg</filename>
-  <lastupdated>1383513806</lastupdated>
+  <lastupdated>1396173358</lastupdated>
   <seasonid>468266</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -1538,12 +1539,12 @@
   <Overview>Still in Chicago, Klaus uses Gloria, a witch he knew long ago, to help him track down missing information that will explain why his plan isn’t working. Gloria’s spells reveal intriguing glimpses of the truth, but she soon realizes she needs Stefan’s knowledge to complete the puzzle. When Stefan suddenly finds himself in danger, help comes from a surprising ally. Back in Mystic Falls, a frustrating new enemy pushes Damon over the brink and he lashes out in a way that will have lasting consequences. Caroline struggles with her own emotional issues, even as she tries to help Elena face her feelings. Jeremy makes a brief but disturbing breakthrough with one of his ghostly visitors, leaving him more confused than ever. Finally, Bonnie has a strange encounter that will affect everyone.</Overview>
   <ProductionCode>2J6004</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>85</RatingCount>
+  <RatingCount>90</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Brian Young</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95491/4171243.jpg</filename>
-  <lastupdated>1383513821</lastupdated>
+  <lastupdated>1396173374</lastupdated>
   <seasonid>468266</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -1569,12 +1570,12 @@
   <Overview>Despite all that has happened, Caroline is determined to see that Elena, Bonnie, Matt and Tyler all enjoy a traditional Senior Prank Night before the school year begins at Mystic Falls High School. However, when uninvited guests show up, it doesn't take long for the evening to take a deadly turn. Damon convinces Jeremy that he can use his new connection to the other side to help find a way to defeat Klaus. Finally, Klaus deepens his hold on Stefan and uses him for increasingly violent and dangerous purposes. </Overview>
   <ProductionCode>2J6005</ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>84</RatingCount>
+  <RatingCount>89</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Michael Narducci</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95491/4179457.jpg</filename>
-  <lastupdated>1383513829</lastupdated>
+  <lastupdated>1396173411</lastupdated>
   <seasonid>468266</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -1600,12 +1601,12 @@
   <Overview>On the first day of their senior year, Elena, Caroline, Bonnie and Matt are still reeling from recent events, while Tyler seems to be enjoying everything a little too much. Damon is annoyed by a new houseguest, and everyone is surprised by the arrival of a new student in Alaric's history class. Matt asks Bonnie for help when he realizes he made a serious mistake. Meanwhile, Stefan continues to carry out his latest assignment from Klaus.</Overview>
   <ProductionCode>2J6006</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>81</RatingCount>
+  <RatingCount>86</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Julie Plec|Caroline Dries|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95491/4179699.jpg</filename>
-  <lastupdated>1383513838</lastupdated>
+  <lastupdated>1396173432</lastupdated>
   <seasonid>468266</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -1631,12 +1632,12 @@
   <Overview>As Mystic Falls prepares to celebrate the traditional Illumination Night, the town is invaded by spirits of the dead. After a particularly violent encounter with an angry spirit, Damon asks Bonnie to find the reason behind the ghosts' surprising power. Elena convinces Jeremy to use his connection to the other side to help her find a new way to reach Stefan, leading Jeremy to a terrible choice. Finally, Alaric discovers a long-hidden clue to the past. </Overview>
   <ProductionCode>2J6007</ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>89</RatingCount>
+  <RatingCount>94</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Rebecca Sonnenshine</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95491/4184270.jpg</filename>
-  <lastupdated>1383513845</lastupdated>
+  <lastupdated>1396173453</lastupdated>
   <seasonid>468266</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -1661,13 +1662,13 @@
   <Language>en</Language>
   <Overview>With help from Elena and Bonnie, Alaric tries to decipher the meaning behind his recent discovery Elena and Rebekah engage in a mean-girl power struggle, until Rebekah finally reveals some of her family's ancient secrets and the violent past she shares with Klaus and Elijah. Damon tries a reckless new approach to make a breakthrough with Stefan, and they're both surprised by an unlikely ally.</Overview>
   <ProductionCode>2J6008</ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>87</RatingCount>
+  <Rating>7.9</Rating>
+  <RatingCount>90</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Nick Wauters</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95491/4187882.jpg</filename>
-  <lastupdated>1383513854</lastupdated>
+  <lastupdated>1396173476</lastupdated>
   <seasonid>468266</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -1693,12 +1694,12 @@
   <Overview>On the night of the Homecoming dance, Rebekah opens up to Elena about why the evening is so important to her, leaving Elena with conflicting emotions. Caroline and Matt are both shocked at Tyler’s behavior throughout the evening. The night takes a surreal turn when Klaus puts his latest plan into action. Determined to outsmart Klaus, Damon enters into a dangerous partnership, leading to a terrifying turn of events.</Overview>
   <ProductionCode>2J6009</ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>87</RatingCount>
+  <RatingCount>90</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Evan Bleiweiss</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95491/4190846.jpg</filename>
-  <lastupdated>1388083018</lastupdated>
+  <lastupdated>1396173492</lastupdated>
   <seasonid>468266</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -1724,12 +1725,12 @@
   <Overview>Stefan has hidden the coffins containing the bodies of Klaus’ family, and Klaus quickly turns to violence to convince Damon and Elena that no one will be safe until he finds Stefan and gets his family back. Tyler continues to make the most of his new abilities as a hybrid, but he has to face the disturbing consequences of his actions as well. After a terrifying incident, Elena and Alaric grow increasingly concerned about Jeremy’s attitude and, ultimately, his safety. Alaric meets the beautiful Dr. Fell, who is intrigued with his amazing ability to heal. While trying to strike a deal with Klaus, Elena delivers news that truly shocks him.</Overview>
   <ProductionCode>2J6010</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>88</RatingCount>
+  <RatingCount>91</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Michael Narducci</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95491/4194696.jpg</filename>
-  <lastupdated>1388083049</lastupdated>
+  <lastupdated>1396173510</lastupdated>
   <seasonid>468266</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -1755,12 +1756,12 @@
   <Overview>Although Caroline is in no mood to celebrate her 18th birthday, Elena, Bonnie and Matt surprise her with a small party in an unusual location. Damon and Stefan disagree on the best way to handle Klaus , and a reckless Stefan decides to test his theory by taking things to dangerous extremes. Bonnie is concerned when Elena tells her about Jeremy's new plans. At a Founder's meeting, Alaric once again runs into Dr. Fell, who is in the middle of an argument with her ex-boyfriend, the medical examiner. Tyler refuses to go along with Klaus' latest demand, and is surprised when Klaus seems to accept his decision.</Overview>
   <ProductionCode>2J6011</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>82</RatingCount>
+  <RatingCount>85</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Rebecca Sonnenshine</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95491/4209843.jpg</filename>
-  <lastupdated>1388083077</lastupdated>
+  <lastupdated>1396173528</lastupdated>
   <seasonid>468266</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -1786,12 +1787,12 @@
   <Overview>Bonnie believes her recurring dreams about Klaus’ coffins will tell her how he can be killed. The dreams also lead Bonnie to a reunion with her mother, Abby, whom Bonnie hasn’t seen for 15 years. At Abby’s remote farmhouse, Bonnie and Elena meet Jamie, the young man Abby took in years earlier. Bonnie’s sudden appearance catches Abby off-guard, but she does her best to explain the past. Tyler turns to an unexpected ally in his quest to regain his free will. Damon is intrigued by Alaric’s new friend, Dr. Fell, and Klaus continues his bitter negotiations with Stefan over control of the coffins containing his family members.</Overview>
   <ProductionCode>2J6012</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>83</RatingCount>
+  <RatingCount>86</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Brian Young</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95491/4215538.jpg</filename>
-  <lastupdated>1386868250</lastupdated>
+  <lastupdated>1396173550</lastupdated>
   <seasonid>468266</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -1816,13 +1817,13 @@
   <Language>en</Language>
   <Overview>Sheriff Forbes delivers some disturbing news to Alaric and Elena about the weapon used in a recent murder. In the Salvatore brothers’ escalating quest to kill Klaus, Stefan turns to Bonnie and Abby, while Damon reaches out to an old acquaintance for help in setting up an elaborate plan. Intent on a plan of his own, Klaus hosts a strange dinner party, where he reveals another story from his family’s violent past until an unexpected guest brings the party to an end. Meanwhile, Caroline is heartbroken when she is unable to stop a tragedy from unfolding.</Overview>
   <ProductionCode>2J6013</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>85</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>88</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Turi Meyer|Al Septien|</Writer>
   <absolute_number>13</absolute_number>
   <filename>episodes/95491/4215539.jpg</filename>
-  <lastupdated>1388083108</lastupdated>
+  <lastupdated>1396173568</lastupdated>
   <seasonid>468266</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -1848,12 +1849,12 @@
   <Overview>Elena is surprised to receive an invitation to a formal ball, and when Damon and Stefan hear the party is being hosted at Klaus’s newly renovated mansion, they both insist on attending the event with her. Caroline and Matt also receive invitations to the ball from unexpected admirers. At the elegant party, Elena learns of a horrifying plan that could lead to numerous deaths and she must decide who she can trust with her new information. Caroline discovers a side of Klaus no one would have suspected. Finally, after an evening of violence and dashed hopes, Damon finds a new way to cope.</Overview>
   <ProductionCode>2J6014</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>86</RatingCount>
+  <RatingCount>88</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Caroline Dries</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95491/4219630.jpg</filename>
-  <lastupdated>1388083135</lastupdated>
+  <lastupdated>1396173608</lastupdated>
   <seasonid>468266</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -1879,12 +1880,12 @@
   <Overview>After starting her day with a startling discovery of Damon’s latest indiscretion, Elena is frustrated to find that none of her friends agree with her on how they should react to the Original family’s internal power struggle. Once again caught up in the destiny of the Bennett witches, Bonnie and Abby find themselves playing a part in a ritual to appease the spirits of nature. When Elijah gives Damon and Stefan a dangerous ultimatum that puts Elena in danger, they turn to Alaric and Meredith for help with a plan that leads them to a terrible choice.</Overview>
   <ProductionCode>2J6015</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>84</RatingCount>
+  <RatingCount>87</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Evan Bleiweiss|Michael Narducci|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95491/4219631.jpg</filename>
-  <lastupdated>1388083153</lastupdated>
+  <lastupdated>1396173638</lastupdated>
   <seasonid>468266</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -1910,12 +1911,12 @@
   <Overview>The present-day murders in Mystic Falls remind Damon of a similar crime spree a century earlier. In flashbacks to 1912, Damon recalls a beautiful vampire, Sage, who showed him a whole new way to exist. Sheriff Forbes warns Damon not to get involved in her investigation, but Damon is convinced she’s going after the wrong suspect. Elena and Matt resort to breaking and entering in their search for evidence to prove Dr. Fell is a murderer. For reasons known only to her, Rebekah, becomes interested in locating one of the town’s oldest landmarks. Finally, Elena comes to a new understanding of the path her life has taken, and Damon makes an emotional confession to Stefan.</Overview>
   <ProductionCode>2J6016</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>77</RatingCount>
+  <RatingCount>80</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Julie Plec|Elisabeth Finch</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95491/4219632.jpg</filename>
-  <lastupdated>1386868318</lastupdated>
+  <lastupdated>1396173656</lastupdated>
   <seasonid>468266</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -1941,12 +1942,12 @@
   <Overview>A century after their first encounter, Damon and Sage meet again at the ceremony to kick-off the restoration of Wickery Bridge. Damon is surprised to learn the reason Sage has returned, and pleased when she devises an unusual method to help him figure out what Rebekah is up to. Abby is having a hard time adjusting to her new reality, despite Bonnie and Caroline’s efforts to help. When Damon informs Elena of Stefan’s latest struggles, she reaches out to Stefan to help her save a friend in danger, in hopes that it will help bring Stefan even closer to his humanity. Finally, when Damon discovers a new secret weapon, he lets Stefan in on the news.</Overview>
   <ProductionCode>2J6017</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>82</RatingCount>
+  <RatingCount>85</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Rebecca Sonnenshine</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95491/4256836.jpg</filename>
-  <lastupdated>1388083176</lastupdated>
+  <lastupdated>1396173673</lastupdated>
   <seasonid>468266</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -1971,13 +1972,13 @@
   <Language>en</Language>
   <Overview>Damon and Stefan focus a new project that will bring them closer to destroying Klaus, and they quickly bring Elena, Caroline and Matt in on the plan. After Klaus threatens someone close to Bonnie, she has no choice but to work on the spell he needs. Meanwhile, Klaus and Rebekah find the perfect motivator to convince Finn to cooperate with them, but Rebekah is more interested in her own brutal plan to take revenge on Damon. Stefan’s emotional turmoil leads him to a dangerous confrontation with Klaus and, later, to a heartbreaking moment with Elena.</Overview>
   <ProductionCode>2J6018</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>79</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>82</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Caroline Dries</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95491/4256837.jpg</filename>
-  <lastupdated>1388083213</lastupdated>
+  <lastupdated>1396173694</lastupdated>
   <seasonid>468266</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -2003,12 +2004,12 @@
   <Overview>Elena and Damon set off together to make sure Jeremy is safe in Denver, and to see if his special abilities can help reveal the information they need about ancient vampire bloodlines. It doesn’t take them long to learn that Jeremy has been hanging with the wrong people. Stefan and Klaus both go to brutal extremes in their search for the missing weapon. Caroline is thrilled when Tyler returns to town, but Tyler soon suspects that something has been going on between Caroline and Klaus. Matt has his hands full trying to keep Rebecca busy organizing the school’s upcoming 1920s Decade Dance.</Overview>
   <ProductionCode>2J6019</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>73</RatingCount>
+  <RatingCount>77</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Brian Young|Evan Bleiweiss|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95491/4256838.jpg</filename>
-  <lastupdated>1388083242</lastupdated>
+  <lastupdated>1396173711</lastupdated>
   <seasonid>468266</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -2034,12 +2035,12 @@
   <Overview>Alaric finds an unexpected ally to guide him on his dangerous new path, while Damon and Meredith try to figure out what their next move should be. At the school’s 1920s Decade Dance, Bonnie asks Jamie to go with her and, at Caroline’s suggestion, Elena asks Stefan to be her date. Caroline is pleasantly surprised when Tyle shows up at the dance determined to sweep her off her feet, but Klaus does his best to come between them. The dance takes a deadly turn when Damon and Stefan realize they need the help of Matt, Jeremy  and especially Bonnie to undo a spell that could prove devastating for everyone.</Overview>
   <ProductionCode>2J6020</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>73</RatingCount>
+  <RatingCount>77</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Michael Narducci</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95491/4256839.jpg</filename>
-  <lastupdated>1388083260</lastupdated>
+  <lastupdated>1396173733</lastupdated>
   <seasonid>468266</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -2065,12 +2066,12 @@
   <Overview>Klaus acts on his intentions to leave town with Elena, but finds resistance from a surprising new enemy. Bonnie calls on Abby to help her with a difficult spell. As events spiral out of control, Elena is determined to protect Caroline, Damon and Stefan enlist Tyler’s help, while Bonnie and Jeremy take a terrifying risk to make sure her spell is effective. Damon and Stefan have a surprisingly candid conversation about the future.</Overview>
   <ProductionCode>2J6021</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>71</RatingCount>
+  <RatingCount>74</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Charlie Charbonneau|Daphne Miles|Caroline Dries|</Writer>
   <absolute_number>65</absolute_number>
   <filename>episodes/95491/4256840.jpg</filename>
-  <lastupdated>1388083275</lastupdated>
+  <lastupdated>1396173749</lastupdated>
   <seasonid>468266</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -2096,12 +2097,12 @@
   <Overview>Determined to protect his sister, Jeremy makes a decision that will change everything. In the harsh reality of the present situation, Elena longs for simpler times when her parents, Grayson and Miranda, and Aunt Jenna were still alive and her biggest concern was her relationship with Matt. Stefan and Damon leave Mystic Falls together on a mission, but soon split up when Elena needs one of them. Caroline and Tyler are forced to make a life-changing decision. Finally, Bonnie makes a secret deal that has heartbreaking consequences.</Overview>
   <ProductionCode>2J6022</ProductionCode>
   <Rating>8.2</Rating>
-  <RatingCount>75</RatingCount>
+  <RatingCount>78</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Brett Matthews|Elisabeth R. Finch|Julie Plec|</Writer>
   <absolute_number>66</absolute_number>
   <filename>episodes/95491/4256841.jpg</filename>
-  <lastupdated>1388083295</lastupdated>
+  <lastupdated>1396173767</lastupdated>
   <seasonid>468266</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -2127,12 +2128,12 @@
   <Overview>Elena awakens on the morning after the accident to find the thing she dreaded most has come true – she died with vampire blood in her system and now must go through the terrible transition to become a vampire…or face certain death. Stefan promises Elena that he and Bonnie will exhaust every possible way out of the situation, but Damon is furious with his brother for letting Elena die in the first place. Bonnie pays a terrible price for her attempt to change Elena’s fate, while Damon takes out his frustration and rage on Matt. In a rare moment of empathy, Rebekah is deeply touched by Stefan and Elena’s devotion to one another. Finally, Pastor Young and the Town Council members begin rounding up the vampires and their supporters, leading to an unexpected tragedy.</Overview>
   <ProductionCode>2J6651</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>73</RatingCount>
+  <RatingCount>77</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Caroline Dries</Writer>
   <absolute_number>67</absolute_number>
   <filename>episodes/95491/4331905.jpg</filename>
-  <lastupdated>1383513279</lastupdated>
+  <lastupdated>1396173811</lastupdated>
   <seasonid>492997</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -2158,12 +2159,12 @@
   <Overview>Elena tries to cope with the extreme highs and lows that are part of becoming a vampire, and Stefan and Damon almost come to blows while arguing about what is best for her. Damon decides to help Elena in his own way and asks her not to tell Stefan. A stranger, Connor Jordan, arrives in town and begins questioning Sheriff Forbes and Mayor Lockwood. Connor’s actions quickly convince Stefan that they are dealing with a dangerous vampire hunter. Jeremy and Matt are surprised to see a girl they used to know, April, has returned to town and is enrolling at Mystic Falls High. At a town gathering, Elena comes close to losing control until Caroline steps in to help her. Finally, Damon confides his feelings to an unexpected friend.</Overview>
   <ProductionCode>2J6652</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>64</RatingCount>
+  <RatingCount>68</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Jose Molina|Julie Plec|</Writer>
   <absolute_number>68</absolute_number>
   <filename>episodes/95491/4366802.jpg</filename>
-  <lastupdated>1383513301</lastupdated>
+  <lastupdated>1396173855</lastupdated>
   <seasonid>492997</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -2189,12 +2190,12 @@
   <Overview>Connor continues his search to uncover the secrets of Mystic Falls and tries to convince Jeremy to work with him. With Dr. Fell’s help, Damon and Klaus question Connor, but the confrontation takes a lethal turn. Trying to keep her new life as normal as possible, Elena is determined to continue her senior year at Mystic Falls High with support from Matt and Caroline. Rebekah’s arrival at school makes it difficult for Elena to control her anger, but she learns that confronting Rebekah can be extremely dangerous. Later, Rebekah realizes how alone she is, and reaches out to April. Stefan takes Elena on a thrilling motorcycle ride in an effort to show her that life can still be fun. Tyler gets a surprise visit from Hayley, a werewolf who helped him through the ordeal of breaking his sire-bond to Klaus. Concerned about Elena, as well as his own emotions, Stefan turns to a sympathetic Caroline for advice.</Overview>
   <ProductionCode>2J6653</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>64</RatingCount>
+  <RatingCount>68</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Brian Young</Writer>
   <absolute_number>69</absolute_number>
   <filename>episodes/95491/4410646.jpg</filename>
-  <lastupdated>1388083326</lastupdated>
+  <lastupdated>1396173895</lastupdated>
   <seasonid>492997</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -2219,13 +2220,13 @@
   <Language>en</Language>
   <Overview>Damon goes with Elena and Bonnie to visit Whitmore College, where Professor Shane is taking over the Occult Studies classes formerly taught by Bonnie’s grandmother. At a fraternity costume party, Damon takes advantage of the wild scene to give Elena a lesson in choosing a victim. Rebekah’s attempt to buy Matt’s forgiveness falls flat, but she is intrigued by unexpected news from Klaus. When Stefan questions Klaus about Connor’s motives, Klaus reveals a long-ago encounter with a powerful group of vampire hunters, but it’s Rebekah who delivers the information that stuns Stefan.</Overview>
   <ProductionCode>2J6654</ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>69</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>73</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Brett Matthews|Rebecca Sonnenshine</Writer>
   <absolute_number>70</absolute_number>
   <filename>episodes/95491/4414926.jpg</filename>
-  <lastupdated>1383513407</lastupdated>
+  <lastupdated>1396173906</lastupdated>
   <seasonid>492997</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -2251,12 +2252,12 @@
   <Overview>Stefan and Klaus form an uneasy alliance to try and contain the danger that Connor has unleashed on the town. When Connor takes Jeremy, Matt and April hostage at the Grill, Stefan and Damon have a serious disagreement about the best course of action, and Elena is again caught between the two brothers. The situation quickly turns violent when Klaus sends one of his hybrids, Dean to stand up to Connor. Caroline is surprised to find Hayley at the Lockwood mansion. Meanwhile, Professor Shane works with Bonnie to help her get past her fear and guilt.</Overview>
   <ProductionCode>2J6655</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>62</RatingCount>
+  <RatingCount>65</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Michael Narducci</Writer>
   <absolute_number>71</absolute_number>
   <filename>episodes/95491/4420007.jpg</filename>
-  <lastupdated>1388083346</lastupdated>
+  <lastupdated>1396173920</lastupdated>
   <seasonid>492997</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -2282,12 +2283,12 @@
   <Overview>Terrifying hallucinations leave Elena shaken and confused, causing her to make a dangerous mistake. After giving Stefan some very disturbing news about Elena, Klaus takes matters into his own hands. Professor Shane reveals a story of ancient witchcraft to Damon and Bonnie. With help from Klaus and Stefan, Jeremy begins a new chapter in his life. Finally, Elena makes a painful personal confession to Stefan, and Matt gives Damon startling new information about Professor Shane.</Overview>
   <ProductionCode>2J6656</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>63</RatingCount>
+  <RatingCount>67</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Evan Bleiweiss|Julie Plec</Writer>
   <absolute_number>72</absolute_number>
   <filename>episodes/95491/4424013.jpg</filename>
-  <lastupdated>1383513442</lastupdated>
+  <lastupdated>1396173932</lastupdated>
   <seasonid>492997</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -2313,12 +2314,12 @@
   <Overview>Caroline does her best to be there for Stefan and Elena in a tough time. Damon tries to convince Stefan to help him uncover Prof. Shane’s motives, but Stefan is intent on carrying out a different plan with Klaus. At the annual Miss Mystic Falls Pageant, Elena and Caroline give April advice on which dress to wear, while Tyler and Hayley work together on a secret project, and Damon confronts Prof. Shane with his suspicions. Alarmed by the vivid nightmares he’s having, Jeremy turns to Matt for help, but the situation escalates sooner than anyone expected.</Overview>
   <ProductionCode>2J6657</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>60</RatingCount>
+  <RatingCount>64</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Caroline Dries|Elisabeth R. Finch|</Writer>
   <absolute_number>73</absolute_number>
   <filename>episodes/95491/4432469.jpg</filename>
-  <lastupdated>1383513453</lastupdated>
+  <lastupdated>1396173944</lastupdated>
   <seasonid>492997</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -2344,12 +2345,12 @@
   <Overview>When Stefan confronts Damon with a suspicion about Elena, Damon has no choice but to help Stefan investigate. Searching for answers, Damon and Stefan visit modern day New Orleans to see if they can find anyone who remembers the events of their last visit in 1942, including one of Damon’s former flames, Charlotte. Elena, Caroline and Bonnie share a girls’ night while the Salvatore brothers are out of town, and emotions run high when Elena delivers some shocking news. At Hayley’s urging, Tyler confronts one of Klaus’ hybrids, Kimberly, and the situation quickly escalates into violence. Finally, Damon is faced with a heartbreaking decision. </Overview>
   <ProductionCode>2J6658</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>52</RatingCount>
+  <RatingCount>56</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Charlie Charbonneau | Jose Molina|</Writer>
   <absolute_number>74</absolute_number>
   <filename>episodes/95491/4432470.jpg</filename>
-  <lastupdated>1383513464</lastupdated>
+  <lastupdated>1396173953</lastupdated>
   <seasonid>492997</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -2375,12 +2376,12 @@
   <Overview>As a Winter Wonderland-themed party fills the streets of Mystic Falls, Stefan and Caroline find themselves at odds with Tyler over his plans for Klaus and his hybrids. When Caroline proposes a solution to their problem, Hayley finds a dramatic way to make it clear that she is not on board. Later, Klaus makes a discovery that leads to chaos and violence. Meanwhile, Elena and Damon retreat to the Gilbert Lake House to help Jeremy conquer some dangerous inner demons with the help of Bonnie and Professor Shane, who reveals a piece of ancient history that leaves them all speechless.</Overview>
   <ProductionCode>2J6659</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>58</RatingCount>
+  <RatingCount>62</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Michael J. Cinquemani|Julie Plec</Writer>
   <absolute_number>75</absolute_number>
   <filename>episodes/95491/4432468.jpg</filename>
-  <lastupdated>1383513487</lastupdated>
+  <lastupdated>1396173966</lastupdated>
   <seasonid>492997</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -2405,13 +2406,13 @@
   <Language>en</Language>
   <Overview>Appearing unexpectedly at Mystic Falls High, Rebekah wastes no time trying to force Stefan, Elena and Caroline to answer her questions about the search for a cure, leading to a bombshell piece of information from Elena. When Bonnie’s father, Rudy Owens, accepts the role of Interim Mayor, he makes it a priority to protect his daughter, who isn’t at all comfortable with the role he suddenly wants to play in her life. Professor Shane continues to encourage Bonnie to believe in her powers, but he soon finds himself in danger when he reveals too much to the wrong person. Later, Caroline does her best to comfort Tyler after a violent confrontation. Meanwhile, at the lake house, Damon and Matt train Jeremy, trying to raise his game as a hunter, but Klaus is impatient with their progress and intervenes to speed up the process.</Overview>
   <ProductionCode>2J6660</ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>50</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>55</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Brett Matthews</Writer>
   <absolute_number>76</absolute_number>
   <filename>episodes/95491/4432817.jpg</filename>
-  <lastupdated>1383513508</lastupdated>
+  <lastupdated>1396173980</lastupdated>
   <seasonid>492997</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -2437,12 +2438,12 @@
   <Overview>Jeremy is furious when Klaus tries to control him by putting Matt’s life in danger. Damon coaches Jeremy as he prepares to take on Klaus’ new vampires, but they find that Kol has beaten them to it. Kol makes it clear that he will stop at nothing to convince everyone to give up the search for the cure. Looking for a new ally, Rebekah reminds Stefan that they were once close friends. When Sheriff Forbes and Mayor Hopkins question Shane about his involvement in the Founders’ Council deaths, Bonnie steps in with questions of her own, and Shane’s responses push Bonnie to the edge of her powers. Elena negotiates with Klaus to keep Jeremy safe, but when danger suddenly appears from a totally unexpected enemy, Elena comes up with her own daring plan for Jeremy.</Overview>
   <ProductionCode>2J6661</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>54</RatingCount>
+  <RatingCount>56</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Brian Young|Michael Narducci</Writer>
   <absolute_number>77</absolute_number>
   <filename>episodes/95491/4467408.jpg</filename>
-  <lastupdated>1383513527</lastupdated>
+  <lastupdated>1396173994</lastupdated>
   <seasonid>492997</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -2468,12 +2469,12 @@
   <Overview>When Rebekah turns down Klaus’ plea to stop Kol  and protect Jeremy, Klaus turns to Stefan for help. After an angry confrontation with her father, Mayor Hopkins, over his unconventional approach to ending the violence in Mystic Falls, Bonnie has a frightening run-in with Kol, followed by an unexpected visitor. Klaus complicates the already tense feelings between Stefan and Damon by revealing a bit of Stefan’s personal life, then surprises Damon by asking for personal advice. Elena tells Stefan about her dangerous plan for Jeremy, leaving Stefan in a difficult spot. When the high school’s 1980s Decade Dance is cancelled by Mayor Hopkins, Stefan finds a charming way to make it up to a disappointed Rebekah.</Overview>
   <ProductionCode>2J6662</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>51</RatingCount>
+  <RatingCount>54</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Rebecca Sonnenshine</Writer>
   <absolute_number>78</absolute_number>
   <filename>episodes/95491/4473619.jpg</filename>
-  <lastupdated>1383513593</lastupdated>
+  <lastupdated>1396174011</lastupdated>
   <seasonid>492997</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -2498,13 +2499,13 @@
   <Language>en</Language>
   <Overview>Shane leads an expedition to a desolate island off the coast of Nova Scotia, where he believes the secret of the cure lies hidden. On the trek to the island’s interior, Rebekah and Elena continue their bitter rivalry, Stefan does his best to keep the peace, and Damon accuses Shane of leading them into a trap. Bonnie and Jeremy try to figure out the message of the Hunter’s mark, while Shane reveals more of the legend of Silas and the witch Qetsiyah, along with his own personal history. Back in Mystic Falls, Tyler confronts Klaus, and Caroline is caught up in the violence that follows.</Overview>
   <ProductionCode>2J6663</ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>53</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>55</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Caroline Dries</Writer>
   <absolute_number>79</absolute_number>
   <filename>episodes/95491/4478390.jpg</filename>
-  <lastupdated>1383513605</lastupdated>
+  <lastupdated>1396174025</lastupdated>
   <seasonid>492997</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -2529,13 +2530,13 @@
   <Language>en</Language>
   <Overview>On the island, Damon has an ugly run-in with a Hunter named Vaughn, and realizes he is one of The Five. Stefan confesses his true feelings about the possibility of becoming human again to Elena. When a stunning new piece of information about the cure is suddenly revealed, it changes the stakes for everyone. Jeremy helps Bonnie recognize what is real and what is an illusion, and Shane is comforted by a woman from his past, Caitlin. Back in Mystic Falls, Caroline and Tyler find that their attempt to translate the code on the Hunter’s Sword is futile without help from Klaus, who has his own reasons for solving the puzzle.</Overview>
   <ProductionCode>2J6664</ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>50</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>52</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Jose Molina</Writer>
   <absolute_number>80</absolute_number>
   <filename>episodes/95491/4480986.jpg</filename>
-  <lastupdated>1388083377</lastupdated>
+  <lastupdated>1396174041</lastupdated>
   <seasonid>492997</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -2560,13 +2561,13 @@
   <Language>en</Language>
   <Overview>When Stefan arrives back in Mystic Falls with Elena and Jeremy, Caroline is immediately worried about Elena’s state of mind. Stefan reaches out to Dr. Fell and Matt for help. Still on the island, Damon relays somber news to Rebekah, and is surprised at her reaction. Together, Damon and Rebekah learn an unexpected bit of recent history from Vaughn. Everyone is horrified when Bonnie reveals the rest of Shane’s plan. Finally, after Damon does his best to help her, Elena comes up with a plan of her own.</Overview>
   <ProductionCode>2J6665</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>46</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>48</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Julie Plec</Writer>
   <absolute_number>81</absolute_number>
   <filename>episodes/95491/4480987.jpg</filename>
-  <lastupdated>1388083397</lastupdated>
+  <lastupdated>1396174051</lastupdated>
   <seasonid>492997</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -2591,13 +2592,13 @@
   <Language>en</Language>
   <Overview>Elena’s new outlook has everyone concerned, leading Stefan and Damon to agree that going back to the normal routine of high school would be the best thing for her. Caroline is pleasantly surprised when Elena decides to rejoin the cheerleading squad, but her pleasure turns to shock when Elena’s behavior proves dangerous. Not giving up on their search for the cure, Damon and Rebekah work together until his unwanted advice catches her off-guard. Klaus tries to use Hayley to get the information he’s after and makes an intriguing discovery in the process. Meanwhile, a bored Elena throws a wild party and gets into an ugly fight.</Overview>
   <ProductionCode>2J6666</ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>47</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>50</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Elisabeth R. Finch|Michael Narducci</Writer>
   <absolute_number>82</absolute_number>
   <filename>episodes/95491/4480985.jpg</filename>
-  <lastupdated>1388083428</lastupdated>
+  <lastupdated>1396174064</lastupdated>
   <seasonid>492997</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -2622,13 +2623,13 @@
   <Language>en</Language>
   <Overview>Realizing that Elena needs some time away from Mystic Falls, Damon takes her to New York City, where he lived and partied hard in the 1970s. When Rebekah also shows up in New York, she’s impressed with Elena’s secret agenda. Flashbacks reveal Damon’s hedonistic life in the underground club scene and a complicated encounter with Lexi. Meanwhile, Caroline and Stefan try to convince Klaus that it would be in his own best interest to help them track Silas down, and Bonnie struggles to keep her grasp on reality and do the right thing.</Overview>
   <ProductionCode>2J6667</ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>46</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>48</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Brian Young|Charlie Charbonneau</Writer>
   <absolute_number>83</absolute_number>
   <filename>episodes/95491/4496371.jpg</filename>
-  <lastupdated>1388083453</lastupdated>
+  <lastupdated>1396174075</lastupdated>
   <seasonid>492997</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -2653,13 +2654,13 @@
   <Language>en</Language>
   <Overview>Elena and Rebekah take off in search of Katherine and find themselves in a small town in Pennsylvania, where Elena has a surprising encounter with another old acquaintance -- Elijah. Stefan and Damon are both concerned about Elena’s state of mind and are determined to do what’s best for her, but she makes it clear that helping her will be difficult.  Damon is not sure how to react when Stefan reveals his unexpected plan for the future.  Meanwhile, in Mystic Falls, Klaus receives Caroline’s reluctant help and comes to a new understanding of Silas’ powers.</Overview>
   <ProductionCode>2J6668</ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>46</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>48</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Evan Bleiweiss|Jose Molina</Writer>
   <absolute_number>84</absolute_number>
   <filename>episodes/95491/4496372.jpg</filename>
-  <lastupdated>1383513680</lastupdated>
+  <lastupdated>1396174085</lastupdated>
   <seasonid>492997</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -2685,12 +2686,12 @@
   <Overview>After making a decision that infuriates Klaus, Elijah proposes a life-changing challenge for Rebekah. Caroline finds that her carefully laid plans for the perfect Senior Prom night are disrupted by Elena, so she turns to an amused Klaus for a solution. Determined to get through to Elena, Damon and Stefan both attend the prom, but the evening begins to spiral out of control despite their efforts. When Elena suddenly lashes out in a way no one could have predicted, Matt turns to Rebekah for help. Finally, Bonnie makes a terrifying discovery, and Klaus receives a message that could change everything.</Overview>
   <ProductionCode>2J6669</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>48</RatingCount>
+  <RatingCount>50</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Neil Reynolds|Caroline Dries</Writer>
   <absolute_number>85</absolute_number>
   <filename>episodes/95491/4507257.jpg</filename>
-  <lastupdated>1383513698</lastupdated>
+  <lastupdated>1400914965</lastupdated>
   <seasonid>492997</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -2716,12 +2717,12 @@
   <Overview>Acting on a mysterious tip that a plot is brewing against him in New Orleans, Klaus makes a trip to the town he and his family helped build. Klaus’ questions lead him to a reunion with his former protégé, Marcel, a charismatic vampire who has total control over the human and supernatural inhabitants of New Orleans. Determined to help his brother find redemption, Elijah follows Klaus and soon learns that Hayley has also come to the French Quarter searching for clues to her family history, and has fallen into the hands of a powerful witch named Sophie. Meanwhile, in Mystic Falls, Damon and Stefan continue with their plan for Elena, while Katherine reveals a surprising vulnerability to Rebekah and asks her to deliver a message.</Overview>
   <ProductionCode>2J6670</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>51</RatingCount>
+  <RatingCount>53</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Julie Plec</Writer>
   <absolute_number>86</absolute_number>
   <filename>episodes/95491/4507258.jpg</filename>
-  <lastupdated>1383513710</lastupdated>
+  <lastupdated>1396174106</lastupdated>
   <seasonid>492997</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -2747,12 +2748,12 @@
   <Overview>Damon and Stefan try a brutal new approach to provoke Elena into turning her humanity back on, and Caroline is frustrated when her attempt to intervene backfires. When Elena figures out a way to call the Salvatore brothers' bluff, they call for backup from a surprising source. Matt gives Rebekah some unsolicited advice on her life choices, and she tries to help him in return. Caroline has a confusing and dangerous encounter with Klaus, and Katherine is suspicious when Bonnie makes her an offer that she promises will benefit them both.</Overview>
   <ProductionCode>2J6671</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>45</RatingCount>
+  <RatingCount>46</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Michael Narducci|Rebecca Sonnenshine</Writer>
   <absolute_number>87</absolute_number>
   <filename>episodes/95491/4517946.jpg</filename>
-  <lastupdated>1383513722</lastupdated>
+  <lastupdated>1396174118</lastupdated>
   <seasonid>492997</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -2778,12 +2779,12 @@
   <Overview>As Graduation Day approaches, Caroline tries to distract Elena by focusing on simple tasks like sending out announcements, but Elena won't be swayed from her new obsession. Sheriff Forbes calls Damon and Stefan to the hospital, where someone has been attacking patients. Still trying to force Katherine to help her, Bonnie refuses to give up on her plan to defeat Silas. As a violent wind storm causes a power outage in Mystic Falls, ghosts suddenly appear - some with good intentions and some bent on revenge.</Overview>
   <ProductionCode>2J6672</ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>45</RatingCount>
+  <RatingCount>47</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Brian Young|Caroline Dries</Writer>
   <absolute_number>88</absolute_number>
   <filename>episodes/95491/4517947.jpg</filename>
-  <lastupdated>1383513733</lastupdated>
+  <lastupdated>1396174129</lastupdated>
   <seasonid>492997</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -2809,12 +2810,12 @@
   <Overview>On Graduation Day, Mystic Falls is overrun with ghosts intent on settling old scores and fulfilling their supernatural destinies. Damon’s life is in danger after a ghostly encounter, while Matt and Rebekah join forces to battle a ghost determined to find the cure. As everyone gathers for the graduation ceremony and the ghosts converge, help comes from an unlikely hero. Caroline receives a touching and unexpected graduation present, and Bonnie’s plan leads to the closing of the veil. Elena makes a decision about the Salvatore brothers and faces an epic confrontation with Katherine. Finally, Stefan discovers a horrifying clue to the mystery surrounding Silas.</Overview>
   <ProductionCode>2J6673</ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>39</RatingCount>
+  <RatingCount>41</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Caroline Dries|Julie Plec</Writer>
   <absolute_number>89</absolute_number>
   <filename>episodes/95491/4517948.jpg</filename>
-  <lastupdated>1388083480</lastupdated>
+  <lastupdated>1396174140</lastupdated>
   <seasonid>492997</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
@@ -2839,13 +2840,13 @@
   <Language>en</Language>
   <Overview>After spending the summer enjoying her passionate relationship with Damon, and making sure that Jeremy is adjusting after his return from the dead, Elena is thrilled to move into the dorm at nearby Whitmore College with her new roommate, Caroline. Still believing that Bonnie has been traveling all summer and will soon join them, Elena and Caroline are surprised when a student named Megan shows up and announces that she will be sharing their dorm room. Katherine makes an unexpected appearance at the Salvatore house and pleads with Damon to help her now that she is human and vulnerable to her enemies. Matt and Rebekah return to Mystic Falls after spending a wild summer in Europe, where they met a mysterious beauty named Nadia. Elena can’t shake the feeling that something is wrong with Stefan, and Silas makes a terrifying appearance at the “End of Summer” party in the town square.</Overview>
   <ProductionCode>#501</ProductionCode>
-  <Rating>7.9</Rating>
-  <RatingCount>32</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>36</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Caroline Dries</Writer>
   <absolute_number>90</absolute_number>
   <filename>episodes/95491/4599504.jpg</filename>
-  <lastupdated>1393784631</lastupdated>
+  <lastupdated>1403035763</lastupdated>
   <seasonid>523338</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added>2013-08-29 18:01:33</thumb_added>
@@ -2870,13 +2871,13 @@
   <Language>en</Language>
   <Overview>Without telling Elena that Stefan is missing, Damon turns to Sheriff Forbes for help finding his brother. Elena and Caroline try to find out who is covering up a campus murder, and a fellow Whitmore student named Jesse gives Elena some intriguing information about Professor Wes Maxfield. While Jeremy struggles to return to his old life, he continues to be the only person who can see and talk to Bonnie, but he can't convince her that it's time to let the others know that she sacrificed her own life for his. After learning that Silas is searching for Katherine, Damon asks Matt and Jeremy to keep her out of sight, but the situation quickly spirals out of control. Finally, Nadia uses violence to make a point about her own agenda.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>29</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>33</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Brian Young</Writer>
   <absolute_number>91</absolute_number>
   <filename>episodes/95491/4661158.jpg</filename>
-  <lastupdated>1393784644</lastupdated>
+  <lastupdated>1403035792</lastupdated>
   <seasonid>523338</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added>2013-09-19 12:56:06</thumb_added>
@@ -2902,13 +2903,13 @@
   <Overview>When Elena and Katherine have the same dream that Stefan is in danger and desperately needs their help, they convince Damon to help them find Stefan. However, their plans are thwarted by a mysterious young woman named Tessa who seems to know everything about Stefan's history. In flashbacks to a distant time and place, Tessa reveals the shocking secrets in her past and what she has planned for the future. She also has a disturbing message for Damon about his own future. Silas forces an unwilling accomplice to help him search for Katherine, leading to a confusing and life-threatening situation for Matt. Finally, Silas reveals the reason he's determined to find Katherine, and Damon and Elena face a disturbing new reality.
 </Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>32</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>36</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Melinda Hsu Taylor|Rebecca Sonnenshine</Writer>
   <absolute_number>92</absolute_number>
   <filename>episodes/95491/4661159.jpg</filename>
-  <lastupdated>1393784654</lastupdated>
+  <lastupdated>1403035827</lastupdated>
   <seasonid>523338</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added>2013-09-26 22:17:19</thumb_added>
@@ -2933,13 +2934,13 @@
   <Language>en</Language>
   <Overview>While Mystic Falls observes its traditional Remembrance Day to honor the dead, Damon and Elena try to help Stefan through a confusing time, a task that ends up taking Elena on an emotional journey of her own. A worried Matt tries to figure out the reason behind his mysterious blackouts, and Caroline makes an effort to get to know Jesse better. Jeremy makes a startling confession that hits Damon hard. Finally, Dr. Maxfield puts a plan in motion that will change everything.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>8.0</Rating>
-  <RatingCount>29</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>33</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Brett Matthews|Elisabeth Finch</Writer>
   <absolute_number>93</absolute_number>
   <filename>episodes/95491/4661160.jpg</filename>
-  <lastupdated>1393784662</lastupdated>
+  <lastupdated>1403035853</lastupdated>
   <seasonid>523338</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added>2013-10-03 18:49:15</thumb_added>
@@ -2964,13 +2965,13 @@
   <Language>en</Language>
   <Overview>On campus, Elena is touched by a sad and secretive student named Aaron. Elena and Damon attend the Whitmore Historical Ball dressed as Anne Boleyn and Henry VIII. At the Ball, Elena shares a dance with Dr. Maxfield, who has a disturbing message for her. Caroline's evening at the Ball takes her from happiness to heartbreak. Meanwhile, Nadia reveals her surprising history to Katherine, and Damon tries to make a deal with Silas. Silas' demand that Damon commit an unthinkable act leads to a violent confrontation.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>32</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>37</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Sonny Postiglione</Writer>
   <absolute_number>94</absolute_number>
   <filename>episodes/95491/4661161.jpg</filename>
-  <lastupdated>1393784694</lastupdated>
+  <lastupdated>1403035929</lastupdated>
   <seasonid>523338</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added>2013-10-17 14:15:14</thumb_added>
@@ -2995,13 +2996,13 @@
   <Language>en</Language>
   <Overview>Silas happily announces his new goal to Damon and Elena, but they are skeptical when he promises to accomplish one important task in return for their help. Tessa confidently tells Stefan about her next move, then realizes that Silas has managed to outsmart her. A desperate Katherine discovers a new and unexpected consequence of becoming human again, and realizes she needs a new place to stay. In exchange for a spot in the dorm room, she offers to show Caroline how to get answers from Dr. Maxfield. Bonnie is touched by Jeremy’s strength and determination to stand by her. Finally, Damon is stunned when he figures out the secret to Tessa’s plan.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>8.0</Rating>
-  <RatingCount>26</RatingCount>
+  <Rating>7.9</Rating>
+  <RatingCount>32</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Caroline Dries|Holly Brix</Writer>
   <absolute_number>95</absolute_number>
   <filename>episodes/95491/4688783.jpg</filename>
-  <lastupdated>1393784709</lastupdated>
+  <lastupdated>1403036076</lastupdated>
   <seasonid>523338</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added>2013-10-17 18:39:19</thumb_added>
@@ -3026,13 +3027,13 @@
   <Language>en</Language>
   <Overview>While Elena and Damon try to explain Amara’s situation to Stefan, Dr. Wes gives Katherine some deeply disturbing news. Nadia shows up at Caroline’s dorm room, searching for Katherine. After a surprising conversation with Amara, Jeremy and Bonnie share a glimmer of hope. Silas fails to keep a promise, causing Damon to turn to Tessa for help with his new plan, and Stefan makes a heartbreaking confession to Damon and Elena.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>25</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>29</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Rebecca Sonnenshine</Writer>
   <absolute_number>96</absolute_number>
   <filename>episodes/95491/4661162.jpg</filename>
-  <lastupdated>1393784747</lastupdated>
+  <lastupdated>1403036112</lastupdated>
   <seasonid>523338</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added>2013-10-31 15:55:32</thumb_added>
@@ -3057,13 +3058,13 @@
   <Language>en</Language>
   <Overview>At Whitmore College, Elena and Caroline decide it's time to throw a big party, but their plans are interrupted when Jesse suddenly needs Caroline's help. At Elena's request, Damon comes up with an effective method to get Wes to answer his questions. At the party, Elena finds that she and Aaron have a lot in common, and Caroline grows more concerned about Jesse. Meanwhile, Katherine does a favor for Matt and manages to get through to Stefan, who is still struggling to overcome the events of the summer. Finally, Bonnie does her best to cope with her new reality, and Damon makes a terrifying discovery about a secret society.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>24</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>27</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Brian Young|Neil Reynolds</Writer>
   <absolute_number>97</absolute_number>
   <filename>episodes/95491/4694732.jpg</filename>
-  <lastupdated>1393784764</lastupdated>
+  <lastupdated>1403036137</lastupdated>
   <seasonid>523338</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added>2013-11-16 11:02:51</thumb_added>
@@ -3089,12 +3090,12 @@
   <Overview>Stefan continues to offer Katherine his support while trying to mask his own pain, until Caroline shows up with an unusual form of therapy. After trying to make amends with Caroline, Elena grows so concerned about Damon that she turns to Aaron for help. Later, when Damon tells Elena about a terrible ordeal in his past that he has kept secret for decades, she shares the disturbing information she just learned about her own family. Finally, Aaron decides on a desperate course of action after a conversation with Dr. Wes.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>23</RatingCount>
+  <RatingCount>27</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Melinda Hsu Taylor</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95491/4709986.jpg</filename>
-  <lastupdated>1393924166</lastupdated>
+  <lastupdated>1403036176</lastupdated>
   <seasonid>523338</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added>2013-11-14 17:52:36</thumb_added>
@@ -3120,12 +3121,12 @@
   <Overview>Damon realizes Elena is in danger and enlists Stefan’s help to find her. The brothers pay a visit to Aaron, and Damon shocks Stefan by revealing his first-hand knowledge of Aaron’s family. In an attempt to stop Damon, Dr. Wes unleashes his secret weapon, forcing Damon to deal with a part of his past he thought was gone forever, as well as the consequences of his decades-long plan for revenge. Meanwhile, Elena is horrified by Dr. Wes’ confessions about the dark history of Whitmore College and his own ultimate goal. Finally, a frantic Katherine turns to Matt for help, until she realizes that Nadia may be the one who can solve her problem.</Overview>
   <ProductionCode>#510</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>21</RatingCount>
+  <RatingCount>25</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Caroline Dries</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95491/4694733.jpg</filename>
-  <lastupdated>1393858738</lastupdated>
+  <lastupdated>1403036219</lastupdated>
   <seasonid>523338</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added>2013-11-16 11:02:13</thumb_added>
@@ -3150,13 +3151,13 @@
   <Language>en</Language>
   <Overview>As she faces a new crisis, Katherine remembers the traumatic night in 1490 when she gave birth to the daughter who was immediately taken from her. Stefan lets Elena, Caroline and Bonnie know that Katherine’s health has taken a turn for the worse, while Damon Matt and Jeremy discuss some of Katherine’s most notorious moments. Nadia comes up with a frightening plan to protect her mother, and Stefan and Elena are forced to help her. Meanwhile, Caroline is mortified when she realizes she forgot to fill Elena in on the latest shocking gossip, then indulges in a little scandalous behavior of her own. Finally, Elena and Katherine share an unexpected moment of connection.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.9</Rating>
-  <RatingCount>21</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>26</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Julie Plec|Caroline Dries</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95491/4724123.jpg</filename>
-  <lastupdated>1391593022</lastupdated>
+  <lastupdated>1403036268</lastupdated>
   <seasonid>523338</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added>2014-01-02 17:35:10</thumb_added>
@@ -3182,12 +3183,12 @@
   <Overview>When Enzo brings Damon a gruesome present and insists that they bond by committing an act of revenge, Damon makes an effort to do the honorable thing. After finding himself in awkward and confusing conversations with Nadia, Matt impulsively decides to throw a party, where Caroline makes a stunning confession to Elena, then has to face the consequence of her actions with Stefan and Tyler. Aaron does his best to make amends for his family's past misdeeds and start a new life for himself. Finally, Elena suddenly finds herself in a life-threatening situation with only minutes to figure out how to save herself.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>16</RatingCount>
+  <RatingCount>21</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Brett Matthews|Sonny Postiglione</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95491/4738666.jpg</filename>
-  <lastupdated>1391937751</lastupdated>
+  <lastupdated>1403370660</lastupdated>
   <seasonid>523338</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added>2014-01-13 18:48:41</thumb_added>
@@ -3213,12 +3214,12 @@
   <Overview>Hoping to help everyone move past recent traumatic events, Caroline convinces Elena and Bonnie to attend Whitmore College’s “Bitter Ball” for broken-hearted students. Bonnie is intrigued with a fellow student named Liv, who appears to be dabbling in witchcraft. Tyler starts to worry about Matt’s relationship with Nadia. After making a disturbing discovery, Stefan has a frustrating conversation with Damon and Enzo. Dr. Wes struggles to continue his research project with help from a new benefactor named Sloan. Still bent on revenge, Damon and Enzo resort to violence to convince Bonnie and Jeremy to help them, but their plan takes an unexpected and horrifying turn.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>17</RatingCount>
+  <RatingCount>21</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Rebecca Sonnenshine|Holly Brix</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95491/4738667.jpg</filename>
-  <lastupdated>1391937770</lastupdated>
+  <lastupdated>1405442328</lastupdated>
   <seasonid>523338</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added>2014-01-16 18:11:41</thumb_added>
@@ -3243,13 +3244,13 @@
   <Language>en</Language>
   <Overview>As Damon’s behavior escalates from destructive to deadly, Stefan begins to regret their last conversation and decides to track Damon down and intervene. For reasons of her own, Elena volunteers to come along. Dr. Wes enlists the Travelers to set a trap that will once again test Damon’s friendship with Enzo. After a heart-to-heart talk with Nadia, Matt enlists Caroline and Tyler’s help to protect Elena, leading to a violent confrontation. Later, when Stefan tries to comfort a dejected Caroline, their conversation leads to a horrifying realization.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>8.1</Rating>
-  <RatingCount>13</RatingCount>
+  <Rating>7.9</Rating>
+  <RatingCount>23</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Brian Young</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95491/4743970.jpg</filename>
-  <lastupdated>1392928212</lastupdated>
+  <lastupdated>1405442360</lastupdated>
   <seasonid>523338</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added>2014-02-20 12:34:32</thumb_added>
@@ -3274,13 +3275,13 @@
   <Language>en</Language>
   <Overview>While Nadia remembers her centuries-long search for her mother, Stefan, Caroline and Matt come up with a desperate new plan to save Elena’s life. For the second time, Bonnie and Jeremy must turn to Liv for help. Damon baits Tyler into a nasty confrontation, then takes off to seek revenge on Dr. Wes. Caroline and Tyler come to a new understanding. Finally, Bonnie learns of a terrifying secret that will threaten the lives of all her friends.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.2</Rating>
-  <RatingCount>6</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>22</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Melinda Hsu Taylor</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95491/4743971.jpg</filename>
-  <lastupdated>1393022520</lastupdated>
+  <lastupdated>1405442377</lastupdated>
   <seasonid>523338</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added>2014-02-21 14:42:00</thumb_added>
@@ -3305,16 +3306,16 @@
   <Language>en</Language>
   <Overview>When Stefan tries to explain recent events to a very sick Elena, her first instinct is to call Damon. At the same time, Damon is trying to figure out how to make a disturbing confession to Elena. While going through Dr. Wes’ files, Caroline discovers a frightening secret, and is surprised when Enzo appears, claiming to have the solution everyone is searching for. At Enzo’s insistence, Caroline asks Stefan to meet her at a mysterious location where they are joined by a group of Travelers, including Sloan, who reveals new information on the importance of doppelgangers. During spring break on a mostly deserted Whitmore campus, Elena runs into Luke, a student who seems to know her, though she has no memory of meeting him. Recently dumped by his boyfriend, Luke proposes that he and Elena spend the break getting drunk together, but she sends him off on an urgent mission to find Bonnie and the “newbie” witch, Liv. Damon finally tells Elena the truth about his recent activities, and they come to a new agreement about their relationship.</Overview>
   <ProductionCode>#516</ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>20</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Caroline Dries</Writer>
   <absolute_number>105</absolute_number>
   <filename>episodes/95491/4743972.jpg</filename>
-  <lastupdated>1394234972</lastupdated>
+  <lastupdated>1403036398</lastupdated>
   <seasonid>523338</seasonid>
   <seriesid>95491</seriesid>
-  <thumb_added>2014-02-28 16:36:55</thumb_added>
+  <thumb_added>2014-03-21 10:32:27</thumb_added>
   <thumb_height>225</thumb_height>
   <thumb_width>400</thumb_width>
 </Episode>
@@ -3336,16 +3337,16 @@
   <Language>en</Language>
   <Overview>In order to keep Stefan from being harmed by Sloan and the Travelers, Caroline and Enzo agree to make a trip to Atlanta to find a newly discovered doppleganger. Caroline is surprised when Enzo opens up to her about his past. Damon and Elena spend an awkward afternoon at Jeremy’s parent-teacher conference, where they hear bad news about his behavior at school. Afterwards, Damon reluctantly tells Elena upsetting news about Jeremy's personal life. Bonnie has an unsettling encounter with Luke, and learns more about his family history. Liv fills Jeremy in on the rumors about the Travelers’ next move and demonstrates her considerable power. Jeremy makes an unexpected deal with Liv, then makes a decision that is devastating to Elena. Stefan and Caroline share a special moment of friendship. Finally, a terrifying turn of events at the Travelers’ camp leads to the appearance of their mysterious leader, Markos.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>19</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Brett Matthews &amp; Neil Reynolds</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95491/4743973.jpg</filename>
-  <lastupdated>1394221657</lastupdated>
+  <lastupdated>1403036420</lastupdated>
   <seasonid>523338</seasonid>
   <seriesid>95491</seriesid>
-  <thumb_added>2014-03-06 14:57:07</thumb_added>
+  <thumb_added>2014-03-28 10:28:20</thumb_added>
   <thumb_height>225</thumb_height>
   <thumb_width>400</thumb_width>
 </Episode>
@@ -3358,27 +3359,27 @@
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
   <Director>Paul Wesley</Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>TBA</EpisodeName>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Resident Evil</EpisodeName>
   <EpisodeNumber>18</EpisodeNumber>
-  <FirstAired>2014-04-10</FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <FirstAired>2014-04-17</FirstAired>
+  <GuestStars>Jasmine Guy|Michael Malarkey|Penelope Mitchell|Chris Brochu|Raffi Barsoumian</GuestStars>
+  <IMDB_ID>tt3244074</IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Overview>Both Stefan and Elena are suddenly having unsettling dreams of an alternate version of the life they might have had together. Bonnie has a disturbing encounter with Grams, who warns her about frightening changes on the Other Side. Enzo gives Damon unwanted relationship advice, then admits he is searching for a woman he loved decades before while he was held captive by the Augustines. Liv enlists Matt, Jeremy and Tyler to help track the Travelers and keep them from taking control of Mystic Falls. Bonnie is hurt and angry when she learns that Jeremy is working with Liv behind her back. Luke shows up at the Salvatore house and explains what he knows about Markos and the Travelers to Damon, Elena and Enzo. Matt has a terrifying encounter with inhabitants of the Other Side. Finally, when Damon finds Markos, he is both relieved and disturbed by what Markos has to tell him.</Overview>
+  <ProductionCode>2J7518</ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>19</RatingCount>
   <SeasonNumber>5</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1392279998</lastupdated>
+  <Writer>Brian Young|Caroline Dries</Writer>
+  <absolute_number>107</absolute_number>
+  <filename>episodes/95491/4749520.jpg</filename>
+  <lastupdated>1403036433</lastupdated>
   <seasonid>523338</seasonid>
   <seriesid>95491</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-04-18 06:25:36</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4818601</id>
@@ -3388,28 +3389,28 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>TBA</EpisodeName>
+  <Director>Michael Allowitz</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Man on Fire</EpisodeName>
   <EpisodeNumber>19</EpisodeNumber>
   <FirstAired>2014-04-24</FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <GuestStars>Michael Malarkey|Heather Hemmens|Penelope Mitchell|Chris Brochu|Raffi Barsoumian|Caitlin McHugh</GuestStars>
+  <IMDB_ID>tt3244076</IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
+  <Overview>Stefan tries to distract Elena from obsessing about the state of her relationship with Damon, while Bonnie does her best to be realistic about how the changes happening on the Other Side will affect her existence as the Anchor. Damon demands the Traveler knife, forcing Jeremy and Matt to admit it has gone missing. Through flashbacks to election night, 1960, Enzo reveals to Elena, Stefan and Bonnie that he has learned what happened to his long-lost love, Maggie, and then, with the unwilling help of Liv and Luke, things take an ugly turn. Trying to calm Enzo down, Damon intervenes, but his words cause Enzo to make a desperate and dangerous decision that leads to a violent confrontation with Stefan. Finally, Markos enlists Sloan’s help in a ritual designed to break an ancient curse against the Travelers. Tyler is forced to play a dangerous part in the ritual, while witnessing the incredible power the Travelers now possess.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>19</RatingCount>
   <SeasonNumber>5</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1394162624</lastupdated>
+  <Writer>Melinda Hsu Taylor|Matthew D’Ambrosio</Writer>
+  <absolute_number>108</absolute_number>
+  <filename>episodes/95491/4818601.jpg</filename>
+  <lastupdated>1403036480</lastupdated>
   <seasonid>523338</seasonid>
   <seriesid>95491</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-04-25 09:21:22</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4818602</id>
@@ -3419,28 +3420,28 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>TBA</EpisodeName>
+  <Director>Joshua Butler</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>What Lies Beneath</EpisodeName>
   <EpisodeNumber>20</EpisodeNumber>
   <FirstAired>2014-05-01</FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <GuestStars>Raffi Barsoumian|Jasmine Guy</GuestStars>
+  <IMDB_ID>tt3244078</IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
+  <Overview>When Tyler turns up at the Salvatore house with the news that Markos’ plan to break the witches’ curse puts Stefan and Elena in imminent danger, Damon suggests they hide out in the remote cabin once owned by Caroline’s father. Once there, it becomes obvious to Caroline that Stefan and Elena are keeping a secret, so Damon comes up with a parlor game designed to expose the truth. A ghostly presence at the cabin uses violence and fire to make itself known. Meanwhile, Matt takes charge of Tyler’s plan to get information from one of the Travelers, and Bonnie continues to keep the truth about the Other Side from Jeremy, despite warnings from Grams.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>16</RatingCount>
   <SeasonNumber>5</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1394162664</lastupdated>
+  <Writer>Elisabeth R. Finch|Holly Brix</Writer>
+  <absolute_number>109</absolute_number>
+  <filename>episodes/95491/4818602.jpg</filename>
+  <lastupdated>1403036499</lastupdated>
   <seasonid>523338</seasonid>
   <seriesid>95491</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-05-02 10:56:51</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4818603</id>
@@ -3450,28 +3451,28 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>TBA</EpisodeName>
+  <Director>Michael Allowitz</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Promised Land</EpisodeName>
   <EpisodeNumber>21</EpisodeNumber>
   <FirstAired>2014-05-08</FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <GuestStars>Chris Brochu|Penelope Mitchell|Raffi Barsoumian</GuestStars>
+  <IMDB_ID>tt3244080</IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Overview>When Stefan and Elena escape from Markos’ control, only to find themselves stranded in a remote location, Stefan gets philosophical with Elena about her relationship with Damon. After their attempt to protect the dopplegangers goes badly, Liv and Luke come up with a dangerous new strategy. Damon recruits Matt and Jeremy to help him set a trap for Markos, who turns out to have a devastating surprise of his own. Bonnie finally admits to Caroline that she’s been keeping the truth about the Other Side from everyone. Finally, while Bonnie searches desperately for a way to stop Markos, Caroline is witness to an unthinkable act of violence by one of the Travelers.</Overview>
+  <ProductionCode>#521</ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>17</RatingCount>
   <SeasonNumber>5</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1394162686</lastupdated>
+  <Writer>Rebecca Sonnenshine</Writer>
+  <absolute_number>110</absolute_number>
+  <filename>episodes/95491/4818603.jpg</filename>
+  <lastupdated>1403036514</lastupdated>
   <seasonid>523338</seasonid>
   <seriesid>95491</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-05-09 09:59:43</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4818604</id>
@@ -3481,11 +3482,42 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>TBA</EpisodeName>
+  <Director>Chris Grismer</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Home</EpisodeName>
   <EpisodeNumber>22</EpisodeNumber>
   <FirstAired>2014-05-15</FirstAired>
+  <GuestStars>Penelope Mithcell|Chris Broshu|Marguerite MacIntyre|Raffi Barsoumian</GuestStars>
+  <IMDB_ID>tt3244082</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Heartbroken by an unexpected tragedy, Damon is focused on holding himself together, while pushing Bonnie harder than ever to find a way to stop the disintegration of the Other Side. Elena takes matters into her own hands and demands that Liv and Luke help her, but Liv refuses to cooperate until Caroline provides her with some personal motivation. Sheriff Forbes is horrified when Markos uses violence against Tyler/Julian to prove that Mystic Falls is now under the control of the Travelers. With new information from Sheriff Forbes, Damon comes up with a dangerous plan that relies on split-second timing from Jeremy and Matt. Liv’s off-hand remark regarding Stefan gets a surprisingly emotional response from Caroline. As conditions on the Other Side worsen, Bonnie takes the opportunity to settle an old score. Finally, Damon’s plan causes a massive explosion in Mystic Falls, and everyone is caught up in the confusion, leaving a trail of heroism, sacrifice, relief and despair.</Overview>
+  <ProductionCode>#522</ProductionCode>
+  <Rating>8.1</Rating>
+  <RatingCount>16</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>Caroline Dries|Brian Young</Writer>
+  <absolute_number>111</absolute_number>
+  <filename>episodes/95491/4818604.jpg</filename>
+  <lastupdated>1403104089</lastupdated>
+  <seasonid>523338</seasonid>
+  <seriesid>95491</seriesid>
+  <thumb_added>2014-05-16 13:53:16</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4917379</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>I’ll Remember</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2014-10-02</FirstAired>
   <GuestStars></GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
@@ -3493,12 +3525,12 @@
   <ProductionCode></ProductionCode>
   <Rating></Rating>
   <RatingCount>0</RatingCount>
-  <SeasonNumber>5</SeasonNumber>
+  <SeasonNumber>6</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename></filename>
-  <lastupdated>1394162721</lastupdated>
-  <seasonid>523338</seasonid>
+  <lastupdated>1405708994</lastupdated>
+  <seasonid>589356</seasonid>
   <seriesid>95491</seriesid>
   <thumb_added></thumb_added>
   <thumb_height></thumb_height>

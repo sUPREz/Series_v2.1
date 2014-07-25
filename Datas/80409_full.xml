@@ -22,8 +22,9 @@
   <addedBy></addedBy>
   <banner>graphical/80409-g.jpg</banner>
   <fanart>fanart/original/80409-4.jpg</fanart>
-  <lastupdated>1387121343</lastupdated>
+  <lastupdated>1405723588</lastupdated>
   <poster>posters/80409-1.jpg</poster>
+  <tms_wanted_old>0</tms_wanted_old>
   <zap2it_id></zap2it_id>
 </Series>
 <Episode>
@@ -2057,8 +2058,39 @@
   <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
-  <id>345941</id>
+  <id>4936870</id>
   <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Frédéric Berthe</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName></EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2002-01-26</FirstAired>
+  <GuestStars>Maureen Dor, Cécile Laligan, Laurent Violet, Philippe Ambrosini, Dominique Marcas</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Bruno Nicolini, Frédéric Proust</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1405723467</lastupdated>
+  <seasonid>29812</seasonid>
+  <seriesid>80409</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>345941</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
   <Combined_season>4</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
@@ -2067,7 +2099,7 @@
   <Director>Frédéric Berthe</Director>
   <EpImgFlag>3</EpImgFlag>
   <EpisodeName>Une histoire de dentiste</EpisodeName>
-  <EpisodeNumber>1</EpisodeNumber>
+  <EpisodeNumber>2</EpisodeNumber>
   <FirstAired>2002-01-26</FirstAired>
   <GuestStars>Maureen Dor, Cécile Laligan, Laurent Violet, Philippe Ambrosini, Dominique Marcas</GuestStars>
   <IMDB_ID></IMDB_ID>
@@ -2080,7 +2112,7 @@
   <Writer>Bruno Nicolini, Frédéric Proust</Writer>
   <absolute_number>61</absolute_number>
   <filename>episodes/80409/345941.jpg</filename>
-  <lastupdated>1366911301</lastupdated>
+  <lastupdated>1405723337</lastupdated>
   <seasonid>29812</seasonid>
   <seriesid>80409</seriesid>
   <thumb_added></thumb_added>
@@ -2089,7 +2121,7 @@
 </Episode>
 <Episode>
   <id>345942</id>
-  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_episodenumber>4</Combined_episodenumber>
   <Combined_season>4</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
@@ -2098,7 +2130,7 @@
   <Director>Charles Némès</Director>
   <EpImgFlag>3</EpImgFlag>
   <EpisodeName>Une histoire de preuves</EpisodeName>
-  <EpisodeNumber>2</EpisodeNumber>
+  <EpisodeNumber>4</EpisodeNumber>
   <FirstAired>2002-02-02</FirstAired>
   <GuestStars>Edgar Givry, Laurence Colussi, Marie-Laurence Tartas, Jacques Bouanich</GuestStars>
   <IMDB_ID></IMDB_ID>
@@ -2111,7 +2143,7 @@
   <Writer>Bruno Nicolini, Frédéric Proust, Jean-Paul Bathany</Writer>
   <absolute_number>62</absolute_number>
   <filename>episodes/80409/345942.jpg</filename>
-  <lastupdated>1364063555</lastupdated>
+  <lastupdated>1405723595</lastupdated>
   <seasonid>29812</seasonid>
   <seriesid>80409</seriesid>
   <thumb_added></thumb_added>
@@ -2151,7 +2183,7 @@
 </Episode>
 <Episode>
   <id>345944</id>
-  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_episodenumber>5</Combined_episodenumber>
   <Combined_season>4</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
@@ -2160,7 +2192,7 @@
   <Director>Charles Némès</Director>
   <EpImgFlag>3</EpImgFlag>
   <EpisodeName>Une histoire de curé</EpisodeName>
-  <EpisodeNumber>4</EpisodeNumber>
+  <EpisodeNumber>5</EpisodeNumber>
   <FirstAired>2002-02-16</FirstAired>
   <GuestStars>Annelise Hesme, Clotilde Baudon, Olivier Balazuc</GuestStars>
   <IMDB_ID></IMDB_ID>
@@ -2173,7 +2205,7 @@
   <Writer>Philippe Giangréco</Writer>
   <absolute_number>64</absolute_number>
   <filename>episodes/80409/345944.jpg</filename>
-  <lastupdated>1366911317</lastupdated>
+  <lastupdated>1405723588</lastupdated>
   <seasonid>29812</seasonid>
   <seriesid>80409</seriesid>
   <thumb_added></thumb_added>
@@ -2182,7 +2214,7 @@
 </Episode>
 <Episode>
   <id>345945</id>
-  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_episodenumber>6</Combined_episodenumber>
   <Combined_season>4</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
@@ -2191,7 +2223,7 @@
   <Director>Charles Némès</Director>
   <EpImgFlag>3</EpImgFlag>
   <EpisodeName>Une histoire de Blanche-Neige</EpisodeName>
-  <EpisodeNumber>5</EpisodeNumber>
+  <EpisodeNumber>6</EpisodeNumber>
   <FirstAired>2002-03-09</FirstAired>
   <GuestStars>Delphine Mc Carty, Marèse Hassani</GuestStars>
   <IMDB_ID></IMDB_ID>
@@ -2204,7 +2236,7 @@
   <Writer>Bruno Nicolini, Frédéric Proust</Writer>
   <absolute_number>65</absolute_number>
   <filename>episodes/80409/345945.jpg</filename>
-  <lastupdated>1364063751</lastupdated>
+  <lastupdated>1405723572</lastupdated>
   <seasonid>29812</seasonid>
   <seriesid>80409</seriesid>
   <thumb_added></thumb_added>
@@ -2213,7 +2245,7 @@
 </Episode>
 <Episode>
   <id>345946</id>
-  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_episodenumber>7</Combined_episodenumber>
   <Combined_season>4</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
@@ -2222,7 +2254,7 @@
   <Director>Charles Némès</Director>
   <EpImgFlag>3</EpImgFlag>
   <EpisodeName>Une histoire de chiot</EpisodeName>
-  <EpisodeNumber>6</EpisodeNumber>
+  <EpisodeNumber>7</EpisodeNumber>
   <FirstAired>2002-03-16</FirstAired>
   <GuestStars></GuestStars>
   <IMDB_ID></IMDB_ID>
@@ -2235,7 +2267,7 @@
   <Writer>Bruno Nicolini, Frédéric Proust</Writer>
   <absolute_number>66</absolute_number>
   <filename>episodes/80409/345946.jpg</filename>
-  <lastupdated>1366911325</lastupdated>
+  <lastupdated>1405723560</lastupdated>
   <seasonid>29812</seasonid>
   <seriesid>80409</seriesid>
   <thumb_added></thumb_added>
@@ -2244,7 +2276,7 @@
 </Episode>
 <Episode>
   <id>345947</id>
-  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_episodenumber>8</Combined_episodenumber>
   <Combined_season>4</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
@@ -2253,7 +2285,7 @@
   <Director>Frédéric Berthe</Director>
   <EpImgFlag>3</EpImgFlag>
   <EpisodeName>Une histoire de détective</EpisodeName>
-  <EpisodeNumber>7</EpisodeNumber>
+  <EpisodeNumber>8</EpisodeNumber>
   <FirstAired>2002-03-23</FirstAired>
   <GuestStars>Edgar Givry, Véronique Boulanger, Lynda Lacoste, Eric Seigne, Joan Titus</GuestStars>
   <IMDB_ID></IMDB_ID>
@@ -2266,7 +2298,7 @@
   <Writer>Philippe Giangréco</Writer>
   <absolute_number>67</absolute_number>
   <filename>episodes/80409/345947.jpg</filename>
-  <lastupdated>1366911330</lastupdated>
+  <lastupdated>1405723548</lastupdated>
   <seasonid>29812</seasonid>
   <seriesid>80409</seriesid>
   <thumb_added></thumb_added>
@@ -2275,7 +2307,7 @@
 </Episode>
 <Episode>
   <id>345948</id>
-  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_episodenumber>9</Combined_episodenumber>
   <Combined_season>4</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
@@ -2284,7 +2316,7 @@
   <Director>Frédéric Berthe</Director>
   <EpImgFlag>3</EpImgFlag>
   <EpisodeName>Une histoire de fraude</EpisodeName>
-  <EpisodeNumber>8</EpisodeNumber>
+  <EpisodeNumber>9</EpisodeNumber>
   <FirstAired>2002-03-30</FirstAired>
   <GuestStars>Alain Bouzigues, Bernard Blancan, Olivier Granier, Laurent Dray, Marc Saez, Jean-Pol Brissart</GuestStars>
   <IMDB_ID></IMDB_ID>
@@ -2297,7 +2329,7 @@
   <Writer>Bruno Nicolini, Frédéric Proust, Jean-Paul Bathany</Writer>
   <absolute_number>68</absolute_number>
   <filename>episodes/80409/345948.jpg</filename>
-  <lastupdated>1366911335</lastupdated>
+  <lastupdated>1405723539</lastupdated>
   <seasonid>29812</seasonid>
   <seriesid>80409</seriesid>
   <thumb_added></thumb_added>
@@ -2306,7 +2338,7 @@
 </Episode>
 <Episode>
   <id>345949</id>
-  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_episodenumber>10</Combined_episodenumber>
   <Combined_season>4</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
@@ -2315,7 +2347,7 @@
   <Director>Frédéric Berthe</Director>
   <EpImgFlag>3</EpImgFlag>
   <EpisodeName>Une histoire de permis</EpisodeName>
-  <EpisodeNumber>9</EpisodeNumber>
+  <EpisodeNumber>10</EpisodeNumber>
   <FirstAired>2002-04-06</FirstAired>
   <GuestStars>Gwendoline Hamon, Lydie Agaesse, Ghristian Moro, Rémy Roubakha, Frédéric Amico, Christian Bujeau, Isabelle Le Nouvel</GuestStars>
   <IMDB_ID></IMDB_ID>
@@ -2328,7 +2360,7 @@
   <Writer>Jean-Paul Bathany, Alexandre Pesle</Writer>
   <absolute_number>69</absolute_number>
   <filename>episodes/80409/345949.jpg</filename>
-  <lastupdated>1364064033</lastupdated>
+  <lastupdated>1405723528</lastupdated>
   <seasonid>29812</seasonid>
   <seriesid>80409</seriesid>
   <thumb_added></thumb_added>
@@ -2337,7 +2369,7 @@
 </Episode>
 <Episode>
   <id>345950</id>
-  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_episodenumber>11</Combined_episodenumber>
   <Combined_season>4</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
@@ -2346,7 +2378,7 @@
   <Director>Charles Némès</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Une histoire d'obsession</EpisodeName>
-  <EpisodeNumber>10</EpisodeNumber>
+  <EpisodeNumber>11</EpisodeNumber>
   <FirstAired>2002-04-13</FirstAired>
   <GuestStars>Sylvie Audcoeur, Marc Fayet, Florence Denou, Anne Charrier</GuestStars>
   <IMDB_ID></IMDB_ID>
@@ -2359,7 +2391,7 @@
   <Writer>Jean-Paul Bathany, Alexandre Pesle</Writer>
   <absolute_number>70</absolute_number>
   <filename>episodes/80409/345950.jpg</filename>
-  <lastupdated>1366911343</lastupdated>
+  <lastupdated>1405723498</lastupdated>
   <seasonid>29812</seasonid>
   <seriesid>80409</seriesid>
   <thumb_added></thumb_added>
@@ -2368,7 +2400,7 @@
 </Episode>
 <Episode>
   <id>345951</id>
-  <Combined_episodenumber>11</Combined_episodenumber>
+  <Combined_episodenumber>12</Combined_episodenumber>
   <Combined_season>4</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
@@ -2377,7 +2409,7 @@
   <Director>Frédéric Berthe</Director>
   <EpImgFlag>3</EpImgFlag>
   <EpisodeName>Une histoire de purgatoire</EpisodeName>
-  <EpisodeNumber>11</EpisodeNumber>
+  <EpisodeNumber>12</EpisodeNumber>
   <FirstAired>2002-04-20</FirstAired>
   <GuestStars>Richard Bohringer, Joey Starr, Louison Roblin, Christophe Rouzaud, Richard Guedj</GuestStars>
   <IMDB_ID></IMDB_ID>
@@ -2390,7 +2422,7 @@
   <Writer>Bruno Nicolini, Frédéric Proust, Jean-Paul Bathany, Alexandre Pesle, Philippe Giangréco</Writer>
   <absolute_number>71</absolute_number>
   <filename>episodes/80409/345951.jpg</filename>
-  <lastupdated>1366911348</lastupdated>
+  <lastupdated>1405723491</lastupdated>
   <seasonid>29812</seasonid>
   <seriesid>80409</seriesid>
   <thumb_added></thumb_added>

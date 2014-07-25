@@ -12,9 +12,9 @@
     <Language>en</Language>
     <Network>NBC</Network>
     <NetworkID></NetworkID>
-    <Overview>From Emmy Award-winner Dan Harmon comes Community, a smart comedy series about higher education – and lower expectations. The student body at Greendale Community College is made up of high-school losers, newly divorced housewives, and old people who want to keep their minds active. Within these not-so-hallowed halls, Community focuses on a band of misfits, at the center of which is a fast-talkin' lawyer whose degree has been revoked (Joel McHale), who form a study group and end up learning a lot more about themselves than they do about their course work.</Overview>
+    <Overview>From Emmy Award-winner Dan Harmon comes &quot;Community&quot;, a smart comedy series about higher education – and lower expectations. The student body at Greendale Community College is made up of high-school losers, newly divorced housewives, and old people who want to keep their minds active. Within these not-so-hallowed halls, Community focuses on a band of misfits, at the center of which is a fast-talkin' lawyer whose degree has been revoked, who form a study group and end up learning a lot more about themselves than they do about their course work.</Overview>
     <Rating>8.8</Rating>
-    <RatingCount>215</RatingCount>
+    <RatingCount>225</RatingCount>
     <Runtime>30</Runtime>
     <SeriesID>76841</SeriesID>
     <SeriesName>Community</SeriesName>
@@ -23,8 +23,9 @@
     <addedBy>5664</addedBy>
     <banner>graphical/94571-g5.jpg</banner>
     <fanart>fanart/original/94571-22.jpg</fanart>
-    <lastupdated>1395013326</lastupdated>
+    <lastupdated>1405844851</lastupdated>
     <poster>posters/94571-2.jpg</poster>
+    <tms_wanted_old>1</tms_wanted_old>
     <zap2it_id>SH01154162</zap2it_id>
   </Series>
 </Data>

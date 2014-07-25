@@ -4,7 +4,7 @@
     <id>73762</id>
     <Actors>|Ellen Pompeo|Sandra Oh|Patrick Dempsey|Katherine Heigl|Kate Walsh|Sara Ramirez|Eric Dane|Chyler Leigh|Jesse Williams|Sarah Drew|T.R. Knight|Justin Chambers|James Pickens Jr.|Chandra Wilson|Kevin McKidd|Jessica Capshaw|Brooke Smith|Tessa Ferrer|Jerrika Hinton|Camilla Luddington|Gaius Charles|Kim Raver|Loretta Devine|Isaiah Washington|</Actors>
     <Airs_DayOfWeek>Thursday</Airs_DayOfWeek>
-    <Airs_Time>9:00 PM</Airs_Time>
+    <Airs_Time>8:00 PM</Airs_Time>
     <ContentRating>TV-14</ContentRating>
     <FirstAired>2005-03-27</FirstAired>
     <Genre>|Drama|Romance|</Genre>
@@ -14,7 +14,7 @@
     <NetworkID></NetworkID>
     <Overview>Meet Meredith Grey, a brilliant first-year surgical intern at Seattle Grace Hospital. Together with her fellow residents-in-training, Meredith navigates her way through the daily traumas and social land mines of the life inside the hospital and out in the real world. Grey's Anatomy is a smart and witty look at young people struggling to be doctors and doctors struggling to be human. </Overview>
     <Rating>8.3</Rating>
-    <RatingCount>182</RatingCount>
+    <RatingCount>185</RatingCount>
     <Runtime>60</Runtime>
     <SeriesID>24440</SeriesID>
     <SeriesName>Grey's Anatomy</SeriesName>
@@ -23,8 +23,9 @@
     <addedBy></addedBy>
     <banner>graphical/73762-g14.jpg</banner>
     <fanart>fanart/original/73762-28.jpg</fanart>
-    <lastupdated>1394333715</lastupdated>
+    <lastupdated>1405871793</lastupdated>
     <poster>posters/73762-13.jpg</poster>
+    <tms_wanted_old>1</tms_wanted_old>
     <zap2it_id>SH732283</zap2it_id>
   </Series>
 </Data>

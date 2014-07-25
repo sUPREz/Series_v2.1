@@ -4,7 +4,7 @@
     <id>258107</id>
     <Actors>|Gillian Anderson|Jamie Dornan|Niamh McGready|Archie Panjabi|Bronagh Waugh|John Lynch|</Actors>
     <Airs_DayOfWeek>Monday</Airs_DayOfWeek>
-    <Airs_Time>21:30</Airs_Time>
+    <Airs_Time>9:30 PM</Airs_Time>
     <ContentRating>TV-MA</ContentRating>
     <FirstAired>2013-05-12</FirstAired>
     <Genre>|Drama|Thriller|</Genre>
@@ -17,7 +17,7 @@
 
 As Gibson travels across from London, we are introduced to the murderer himself; Paul Spector (Jamie Dornan).  The drama follows the police investigation uncovering the intricate story of the lives entangled by a series of murders both within the killers’ and the victims’ families.</Overview>
     <Rating>8.7</Rating>
-    <RatingCount>12</RatingCount>
+    <RatingCount>13</RatingCount>
     <Runtime>60</Runtime>
     <SeriesID></SeriesID>
     <SeriesName>The Fall</SeriesName>
@@ -26,8 +26,9 @@ As Gibson travels across from London, we are introduced to the murderer himself;
     <addedBy>360590</addedBy>
     <banner>graphical/258107-g2.jpg</banner>
     <fanart>fanart/original/258107-2.jpg</fanart>
-    <lastupdated>1393797973</lastupdated>
+    <lastupdated>1405515175</lastupdated>
     <poster>posters/258107-4.jpg</poster>
+    <tms_wanted_old>1</tms_wanted_old>
     <zap2it_id></zap2it_id>
   </Series>
 </Data>

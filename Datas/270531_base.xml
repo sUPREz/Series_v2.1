@@ -2,31 +2,30 @@
 <Data>
   <Series>
     <id>270531</id>
-    <Actors>|Kelly Reilly|Ali Wong|David Ajala|Ditch Davey|Vanessa Redgrave|</Actors>
-    <Airs_DayOfWeek></Airs_DayOfWeek>
-    <Airs_Time></Airs_Time>
-    <ContentRating></ContentRating>
-    <FirstAired></FirstAired>
+    <Actors>|Kelly Reilly|Ditch Davey|Laura Fraser|Ali Wong|David Ajala|David Chisum|Siobhan Williams|Terry Kinney|Vanessa Redgrave|</Actors>
+    <Airs_DayOfWeek>Thursday</Airs_DayOfWeek>
+    <Airs_Time>10:00 PM</Airs_Time>
+    <ContentRating>TV-14</ContentRating>
+    <FirstAired>2014-04-24</FirstAired>
     <Genre>|Drama|</Genre>
     <IMDB_ID>tt2968404</IMDB_ID>
     <Language>en</Language>
     <Network>ABC</Network>
     <NetworkID></NetworkID>
-    <Overview>&quot;The Black Box&quot; revolves around Elizabeth Black, a famed neuroscientist who seems to have it all, with a job at the Center for Neurological Research and Treatment (otherwise known as The Cube), but struggles with mental illness -- one of many secrets she keeps from her fiancé and family.</Overview>
-    <Rating></Rating>
-    <RatingCount>0</RatingCount>
-    <Runtime>60</Runtime>
+    <Overview>Catherine Black is a world-famous neurologist at the state-of-the-art medical institution known as &quot;The Cube&quot;. Catherine is brilliant, beautiful, and at the top of her game, though she's hiding a secret of her own: she's bipolar. Each week, the doctors on staff attempt to unravel the mysteries of the brain and are constantly challenged by cases never-before-seen on television. The medical stories are moving, bizarre and a visual feast. The personal stories are riveting. The patients have rare, highly visual, often hallucinogenic and startling conditions, which we’ll see through their eyes as Catherine diagnoses and treats them.</Overview>
+    <Rating>6.7</Rating>
+    <RatingCount>9</RatingCount>
+    <Runtime>40</Runtime>
     <SeriesID></SeriesID>
-    <SeriesName>The Black Box</SeriesName>
-    <Status></Status>
+    <SeriesName>Black Box</SeriesName>
+    <Status>Continuing</Status>
     <added>2013-06-07 20:03:30</added>
     <addedBy>382000</addedBy>
-    <banner></banner>
-    <fanart></fanart>
-    <lastupdated>1380913364</lastupdated>
-    <poster></poster>
-    <tms_priority>0</tms_priority>
-    <tms_wanted>0</tms_wanted>
-    <zap2it_id></zap2it_id>
+    <banner>graphical/270531-g.jpg</banner>
+    <fanart>fanart/original/270531-1.jpg</fanart>
+    <lastupdated>1405866559</lastupdated>
+    <poster>posters/270531-2.jpg</poster>
+    <tms_wanted_old>0</tms_wanted_old>
+    <zap2it_id>EP01776228</zap2it_id>
   </Series>
 </Data>

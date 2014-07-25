@@ -14,7 +14,7 @@
     <NetworkID></NetworkID>
     <Overview>Chuck Bartowski, ace computer geek at Buy More, is not in his right mind. That's a good thing. Ever since he unwittingly downloaded stolen government secrets into his brain, action, excitement and a cool secret-agent girlfriend have entered his life. It's a bad thing, too. Because now Chuck is in danger 24/7.</Overview>
     <Rating>8.7</Rating>
-    <RatingCount>853</RatingCount>
+    <RatingCount>887</RatingCount>
     <Runtime>60</Runtime>
     <SeriesID>68724</SeriesID>
     <SeriesName>Chuck</SeriesName>
@@ -22,9 +22,10 @@
     <added></added>
     <addedBy></addedBy>
     <banner>graphical/80348-g26.jpg</banner>
-    <fanart>fanart/original/80348-31.jpg</fanart>
-    <lastupdated>1388403316</lastupdated>
+    <fanart>fanart/original/80348-48.jpg</fanart>
+    <lastupdated>1405825294</lastupdated>
     <poster>posters/80348-16.jpg</poster>
+    <tms_wanted_old>1</tms_wanted_old>
     <zap2it_id>EP00930779</zap2it_id>
   </Series>
 </Data>

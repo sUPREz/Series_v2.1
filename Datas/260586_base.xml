@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Data>
+  <Series>
+    <id>260586</id>
+    <Actors>|Dr. Neil deGrasse Tyson|</Actors>
+    <Airs_DayOfWeek>Sunday</Airs_DayOfWeek>
+    <Airs_Time>21:00</Airs_Time>
+    <ContentRating>TV-PG</ContentRating>
+    <FirstAired>2014-03-09</FirstAired>
+    <Genre>|Adventure|Animation|Documentary|Family|Travel|</Genre>
+    <IMDB_ID>tt2395695</IMDB_ID>
+    <Language>en</Language>
+    <Network>FOX</Network>
+    <NetworkID></NetworkID>
+    <Overview>Hosted by renowned astrophysicist Dr. Neil deGrasse Tyson, Cosmos continues from it's 1980 predecessor, exploring how we discovered the laws of nature and found our coordinates in space and time. It brings to life never-before-told stories of the heroic quest for knowledge and transport viewers to new worlds and across the universe for a vision of the cosmos on the grandest scale. The most profound scientific concepts are presented with stunning clarity, uniting skepticism and wonder, and weaving rigorous science with the emotional and spiritual into a transcendent experience.</Overview>
+    <Rating>9.4</Rating>
+    <RatingCount>45</RatingCount>
+    <Runtime>60</Runtime>
+    <SeriesID>81819</SeriesID>
+    <SeriesName>Cosmos: A Spacetime Odyssey</SeriesName>
+    <Status>Ended</Status>
+    <added>2012-07-09 13:37:49</added>
+    <addedBy>6568</addedBy>
+    <banner>graphical/260586-g4.jpg</banner>
+    <fanart>fanart/original/260586-9.jpg</fanart>
+    <lastupdated>1405607687</lastupdated>
+    <poster>posters/260586-3.jpg</poster>
+    <tms_wanted_old>0</tms_wanted_old>
+    <zap2it_id>SH01446110</zap2it_id>
+  </Series>
+</Data>
