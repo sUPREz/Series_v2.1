@@ -11,6 +11,7 @@ $CONTENT_TEXT['SousTitre.euFileNotFound'] =     'Impossible de trouver le fichie
 $CONTENT_TEXT['SousTitre.euFileNotFoundShort'] ="ST.eu _NONE";//'Pas de fichier sous-titres';
 $CONTENT_TEXT['SousTitre.euDown'] =             'Le site <a href="http://www.sous-titres.eu/">www.sous-titres.eu</a> semble inactif.';
 $CONTENT_TEXT['TVDB.Down'] =                    'Le site <a href="http://thetvdb.com/">http://thetvdb.com/</a> semble inactif.';
+$CONTENT_TEXT['addic7ed.fail'] =                'Impossible d\'ouvrir la page <a href="[[URL]]">[[URL]]</a> sur le site <a href="http://www.addic7ed.com/">addic7ed</a>.';
 $CONTENT_TEXT['ErrorFile'] =                    'Impossible d\'ouvrir le fichier "[[FILE]]".';
 $CONTENT_TEXT['BackupMirror'] =                 'Le fichier [[FILE]] a été récupéré sur le mirroir de secours !';
 

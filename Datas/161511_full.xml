@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Data><Series>
   <id>161511</id>
-  <Actors>|Emmy Rossum|William H. Macy|Ethan Cutkosky|Emma Kenney|Cameron Monaghan|Jeremy Allen White|Justin Chatwin|Steve Howey|Shanola Hampton|Stephanie Fantauzzi|Emma Greenwell|Laura Wiggins|Joan Cusack|Noel Fisher|Zach McGowan|</Actors>
+  <Actors>|Emmy Rossum|William H. Macy|Ethan Cutkosky|Emma Kenney|Cameron Monaghan|Jeremy Allen White|Justin Chatwin|Steve Howey|Shanola Hampton|Noel Fisher|Stephanie Fantauzzi|Emma Greenwell|Laura Wiggins|Joan Cusack|Zach McGowan|</Actors>
   <Airs_DayOfWeek>Sunday</Airs_DayOfWeek>
   <Airs_Time>9:00 PM</Airs_Time>
   <ContentRating>TV-MA</ContentRating>
@@ -12,17 +12,17 @@
   <Network>Showtime</Network>
   <NetworkID></NetworkID>
   <Overview>Chicagoan Frank Gallagher is the proud single dad of six smart, industrious, independent kids, who without him would be...perhaps better off. When Frank's not at the bar spending what little money they have, he's passed out on the floor. But the kids have found ways to grow up in spite of him. They may not be like any family you know, but they make no apologies for being exactly who they are.</Overview>
-  <Rating>8.9</Rating>
-  <RatingCount>98</RatingCount>
+  <Rating>8.8</Rating>
+  <RatingCount>103</RatingCount>
   <Runtime>60</Runtime>
   <SeriesID>78143</SeriesID>
   <SeriesName>Shameless (US)</SeriesName>
   <Status>Continuing</Status>
   <added>2010-05-06 13:26:59</added>
   <addedBy>235</addedBy>
-  <banner>graphical/161511-g4.jpg</banner>
+  <banner>graphical/161511-g3.jpg</banner>
   <fanart>fanart/original/161511-7.jpg</fanart>
-  <lastupdated>1405834486</lastupdated>
+  <lastupdated>1414861088</lastupdated>
   <poster>posters/161511-1.jpg</poster>
   <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>SH01347868</zap2it_id>
@@ -230,74 +230,6 @@
   <thumb_added>2014-01-23 08:41:17</thumb_added>
   <thumb_height>225</thumb_height>
   <thumb_width>400</thumb_width>
-</Episode>
-<Episode>
-  <id>4231255</id>
-  <Combined_episodenumber>7</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>Season 1 Deleted Scenes</EpisodeName>
-  <EpisodeNumber>7</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1393683647</lastupdated>
-  <seasonid>242591</seasonid>
-  <seriesid>161511</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4457958</id>
-  <Combined_episodenumber>8</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>Season 2 Deleted Scenes</EpisodeName>
-  <EpisodeNumber>8</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1393683657</lastupdated>
-  <seasonid>242591</seasonid>
-  <seriesid>161511</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
 </Episode>
 <Episode>
   <id>4457959</id>
@@ -674,40 +606,6 @@
   <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
-  <id>4777846</id>
-  <Combined_episodenumber>20</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>Season 3 Deleted Scenes</EpisodeName>
-  <EpisodeNumber>20</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1393683739</lastupdated>
-  <seasonid>242591</seasonid>
-  <seriesid>161511</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
   <id>4780161</id>
   <Combined_episodenumber>21</Combined_episodenumber>
   <Combined_season>0</Combined_season>
@@ -862,7 +760,7 @@
   <Overview>Having her handbag stolen proves to be a blessing for Fiona when a handsome stranger named Steve comes to her rescue. Lip is shocked to discover Ian could be gay and decides his brother should pay a visit to the ever-accommodating Karen Jackson down the block. But the sudden arrival of her furious father Eddie ensures Ian's already-slim chances of happiness with Karen take a severe blow. Meanwhile, Steve buys Fiona a romantic gift, but for some reason she's less than impressed with it.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>78</RatingCount>
+  <RatingCount>80</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Paul Abbott|John Wells</Writer>
   <absolute_number></absolute_number>
@@ -892,8 +790,8 @@
   <Language>en</Language>
   <Overview>Frank has a drunken run-in with Karen's father and takes it out on Ian. The family starts a manhunt when Frank is nowhere to be found on disability check day. </Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>72</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>74</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Paul Abbott</Writer>
   <absolute_number></absolute_number>
@@ -924,7 +822,7 @@
   <Overview>Fiona turns her attentions to Tony, a cop who has had a crush on her since childhood, but Steve isn't willing to give up without a fight; Ian is targeted by the brothers of a girl he spurned; the whole family searches for elderly Aunt Ginger, who owns their house.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.1</Rating>
-  <RatingCount>71</RatingCount>
+  <RatingCount>73</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Nancy Pimental</Writer>
   <absolute_number></absolute_number>
@@ -955,7 +853,7 @@
   <Overview>Debbie, sad and lonely after Aunt Ginger leaves, steals a little boy from a birthday party. In classic Gallagher style, the family hatches a plan to return the toddler safe and sound without attracting attention from the Chicago Police Department, who has made the kidnapping a top priority. Karen, in complete defiance of Eddie, starts to tease Frank sexually. Frank not knowing what to make of it keeps himself busy with booze, picking up Sheila'­s meds from the pharmacy and concentrating on finding the missing boy. What began as an innocent lie for Kevin to protect himself from a hot girl ultimately becomes a proposal of marriage for Veronica.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>67</RatingCount>
+  <RatingCount>69</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Cindy Caponera</Writer>
   <absolute_number></absolute_number>
@@ -1079,7 +977,7 @@
   <Overview>Sheila fears to lose Frank when he gives up drinking. While Lip suspects their dad hasn't changed, Debbie and Carl enjoy having Frank back in their life. Meanwhile, Fiona tries to find a better paying job.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>60</RatingCount>
+  <RatingCount>61</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Nathan Jackson|Nancy Pimental</Writer>
   <absolute_number></absolute_number>
@@ -1110,7 +1008,7 @@
   <Overview>Monica comes back when Frank needs her to sign documents and decides to take Liam with her. Meanwhile, Steve and Fiona move together.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>58</RatingCount>
+  <RatingCount>59</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Paul Abbott|Alex Borstein</Writer>
   <absolute_number></absolute_number>
@@ -1172,7 +1070,7 @@
   <Overview>Tony comes closer to discovering what Steve is doing, while Fiona makes a new friend. In the meantime, Lip helps Ian look for his father.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>66</RatingCount>
+  <RatingCount>67</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Nancy Pimental</Writer>
   <absolute_number></absolute_number>
@@ -1203,7 +1101,7 @@
   <Overview>Steve tries to convince Fiona to skip town with him now that his true livelihood as been discovered; Frank and Karen's secret is revealed, forcing Frank to go into hiding; Fiona tries to figure out how to get Lip and Ian out of jail after their arrest for car theft.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>67</RatingCount>
+  <RatingCount>68</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>John Wells</Writer>
   <absolute_number></absolute_number>
@@ -1239,7 +1137,7 @@
   <Writer>John Wells|LaToya Morgan</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/161511/4145965.jpg</filename>
-  <lastupdated>1394298933</lastupdated>
+  <lastupdated>1406154520</lastupdated>
   <seasonid>471102</seasonid>
   <seriesid>161511</seriesid>
   <thumb_added></thumb_added>
@@ -1265,7 +1163,7 @@
   <Overview>As Sheila conquers her agoraphobia, a worried Frank finds a new financial plan in fellow bar patron Dottie, whose declining health and city pension make her an ideal match; Fiona juggles her job, the kids and her burgeoning love life, and Jasmine tries to help by setting up Fiona with a sugar daddy; Veronica takes some old folks from the home on an excursion; Lip worries about Karen's growing relationship with Jody; Ian tries to land a recently released Mickey a job at the Kash and Grab; Debbie wants her own room; Carl moves into the van.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>63</RatingCount>
+  <RatingCount>64</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Mike O'Malley|LaToya Morgan</Writer>
   <absolute_number></absolute_number>
@@ -1296,7 +1194,7 @@
   <Overview>Fiona hopes her moral compass isn't leading her astray when she reconnects with her married high school crush, but when she finds an abandoned purse with over five hundred dollars inside, she assumes her luck is finally changing; Frank is willing to do just about anything to stay in Dottie's good graces, even marry her; after Harry's passing, Debbie becomes obsessed with death; Kevin thinks about buying the Alibi; Lip meets with a colonel to glean information for Ian about West Point; Jody asks Frank for Karen's hand in marriage.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>59</RatingCount>
+  <RatingCount>60</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Nancy Pimental|LaToya Morgan</Writer>
   <absolute_number></absolute_number>
@@ -1327,7 +1225,7 @@
   <Overview>Fiona deals with the consequences of sleeping with Craig when his angry wife shows up at the door; Debbie develops a stress-rash and Fiona wonders if she's putting too much responsibility on the kids; Sheila has made it all the way to the hair salon and Frank realizes his days in the Jackson household are numbered; no longer having sex with Karen, Lip tries to dig up dirt on Jody; Ian continues on the path to West Point; Carl house-sits with his friend, Little Hank; Ethel meets Malik, a boy on Kevin's youth basketball team.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>60</RatingCount>
+  <RatingCount>61</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Alex Borstein|LaToya Morgan</Writer>
   <absolute_number></absolute_number>
@@ -1358,7 +1256,7 @@
   <Overview>Frank tries to claim Eddie's insurance benefits and pension, despite being a prime suspect in his death; Fiona attends a ritzy wedding with Richard and lies about her background; Lip is devastated by Karen's rejection; Carl rents Frank's room to a hooker.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>59</RatingCount>
+  <RatingCount>60</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Etan Frankel|Stan Frankel|LaToya Morgan</Writer>
   <absolute_number></absolute_number>
@@ -1389,7 +1287,7 @@
   <Overview>Grammy Gallagher shows up on a medical furlough and tries to track down a former meth lab protege that owes her money; Sheila plans Karen's wedding reception; Fiona double dates with Steve and his Brazilian girlfriend, and discovers that Steve is married; Ethel reacts to Clyde's death; Frank discovers the identity of Eddie's insurance beneficiary.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.1</Rating>
-  <RatingCount>60</RatingCount>
+  <RatingCount>61</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>William H. Macy|Steven Schachter|Steven Schaffer|LaToya Morgan|</Writer>
   <absolute_number></absolute_number>
@@ -1420,7 +1318,7 @@
   <Overview>Lip tries to get back in Karen's good graces by crafting a prenuptial agreement for her and Jody, while Ian continues to give Lip the silent treatment; Frank wants to kick Grammy out but Fiona resists until the basement meth lab explodes; Fiona is invited on a boat trip but doesn't realize Steve and his girlfriend are also attending.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>55</RatingCount>
+  <RatingCount>56</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Nancy Pimental|LaToya Morgan|</Writer>
   <absolute_number></absolute_number>
@@ -1482,7 +1380,7 @@
   <Overview>Monica returns to party and plot scams with Frank, but the rest of the family suspects she hasn't returned to stay; Fiona reconsiders her decision to kick Lip out of the house; Grammy's death affects everyone differently, and leaves Frank determined to make sure he gets every last penny his mother left behind; Sheila and Jody think Eddie's ghost is haunting the house.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>55</RatingCount>
+  <RatingCount>57</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Alex Borstein</Writer>
   <absolute_number></absolute_number>
@@ -1513,7 +1411,7 @@
   <Overview>Fiona starts to plan for her future now that Monica is back but her reprieve may be short-lived as Monica falls apart, spends the squirrel fund and gets arrested; Steve conspires to reunite Estefania with her true love so that he can be with Fiona; Lip and Ian learn the true identity of Mandy's baby; Sheila takes in a homeless crack addict.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>52</RatingCount>
+  <RatingCount>54</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Etan Frankel</Writer>
   <absolute_number></absolute_number>
@@ -1544,7 +1442,7 @@
   <Overview>It's a typical Gallagher nontraditional Thanksgiving that includes a suicide attempt by Monica, Carl shooting a bald eagle, and Karen going into labor; Steve agrees to allow Estefania's boyfriend to steal his identity; Ian sleeps with a businessman named Ned; Frank tries to get his share of his mother's money from his brother Clayton.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>55</RatingCount>
+  <RatingCount>57</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Nancy Pimental</Writer>
   <absolute_number>23</absolute_number>
@@ -1574,8 +1472,8 @@
   <Language>en</Language>
   <Overview>A lonely Frank schemes to break Monica out of the psychiatric facility. Jimmy earns his way back into Fiona's good graces and she asks to meet his family while Ian runs into Ned again.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.9</Rating>
-  <RatingCount>50</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>51</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>John Wells</Writer>
   <absolute_number></absolute_number>
@@ -1637,7 +1535,7 @@
   <Overview>Fiona is stressed about the money she used for her club night; Frank makes his way home.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>41</RatingCount>
+  <RatingCount>43</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Nancy Pimental</Writer>
   <absolute_number></absolute_number>
@@ -1668,7 +1566,7 @@
   <Overview>Frank tells Carl he has cancer to scam a charity foundation; Lip hunts down pedophiles in the neighborhood.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>40</RatingCount>
+  <RatingCount>42</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Krista Vernoff</Writer>
   <absolute_number></absolute_number>
@@ -1699,7 +1597,7 @@
   <Overview>Carl says his goodbyes; Frank is on babysitting duty; Sheila wants to introduce Jody to toy time.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>42</RatingCount>
+  <RatingCount>44</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Mike O'Malley</Writer>
   <absolute_number></absolute_number>
@@ -1730,7 +1628,7 @@
   <Overview>The city needs to work on the sewer main and Frank must find Aunt Ginger's bones in the yard before they dig.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>40</RatingCount>
+  <RatingCount>42</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Sheila Callaghan</Writer>
   <absolute_number></absolute_number>
@@ -1761,7 +1659,7 @@
   <Overview>Fiona is desperate to get the children back after the Department of Family Services hauls them away.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>44</RatingCount>
+  <RatingCount>45</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Alex Borstein</Writer>
   <absolute_number></absolute_number>
@@ -1823,7 +1721,7 @@
   <Overview>The family gathers for the real Aunt Ginger's fake funeral.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>36</RatingCount>
+  <RatingCount>37</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Davey Holmes</Writer>
   <absolute_number></absolute_number>
@@ -1885,7 +1783,7 @@
   <Overview>Fiona's job has brought structure ito her life, but when Jimmy drops a bomb on her things fall apart. Frank is happy with his newfound celebrity as the face of the gay rights movement.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>39</RatingCount>
+  <RatingCount>40</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Mike O'Malley</Writer>
   <absolute_number></absolute_number>
@@ -1916,7 +1814,7 @@
   <Overview>Fiona takes the kids on a camping trip. Essentially homeless, Frank seeks out Carl who sneaks him into the Gallagher van for the night.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>36</RatingCount>
+  <RatingCount>37</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Sheila Callaghan</Writer>
   <absolute_number></absolute_number>
@@ -1946,8 +1844,8 @@
   <Language>en</Language>
   <Overview>Fiona and the family prepare a surprise high school,graduation party for Lip. Frank wins a bet and uses the winnings to take Lip out for lobster and some quality father/son time.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>8.0</Rating>
-  <RatingCount>36</RatingCount>
+  <Rating>7.9</Rating>
+  <RatingCount>37</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Etan Frankel|Nancy Pimental</Writer>
   <absolute_number></absolute_number>
@@ -1977,13 +1875,13 @@
   <Language>en</Language>
   <Overview>Frank returns, disrupting life; Lip attends college; Ian is missing; Fiona tries to connect with Debbie and Carl.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.3</Rating>
-  <RatingCount>26</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>30</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>John Wells</Writer>
   <absolute_number>37</absolute_number>
   <filename>episodes/161511/4624133.jpg</filename>
-  <lastupdated>1398873189</lastupdated>
+  <lastupdated>1409764728</lastupdated>
   <seasonid>521899</seasonid>
   <seriesid>161511</seriesid>
   <thumb_added>2013-12-29 12:34:10</thumb_added>
@@ -2009,12 +1907,12 @@
   <Overview>Fiona enjoys living above the poverty line; the company car is damaged; Lip struggles in school.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>26</RatingCount>
+  <RatingCount>31</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Nancy Pimental</Writer>
   <absolute_number>38</absolute_number>
   <filename>episodes/161511/4699149.jpg</filename>
-  <lastupdated>1398873205</lastupdated>
+  <lastupdated>1409764745</lastupdated>
   <seasonid>521899</seasonid>
   <seriesid>161511</seriesid>
   <thumb_added>2014-01-13 19:11:10</thumb_added>
@@ -2040,12 +1938,12 @@
   <Overview>Frank stalks his daughter, Sammi; Fiona and Mike get serious; Carl tries to hear money for Frank; Sheila has a successful date.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>25</RatingCount>
+  <RatingCount>29</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Sheila Callaghan</Writer>
   <absolute_number>39</absolute_number>
   <filename>episodes/161511/4699150.jpg</filename>
-  <lastupdated>1398873223</lastupdated>
+  <lastupdated>1409764758</lastupdated>
   <seasonid>521899</seasonid>
   <seriesid>161511</seriesid>
   <thumb_added>2014-01-17 22:35:38</thumb_added>
@@ -2071,12 +1969,12 @@
   <Overview>Fiona continues her affair with Robbie; Frank wants to construct an accident that will enable him to pay for his transplant.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>21</RatingCount>
+  <RatingCount>24</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Etan Frankel</Writer>
   <absolute_number>40</absolute_number>
   <filename>episodes/161511/4699151.jpg</filename>
-  <lastupdated>1398873238</lastupdated>
+  <lastupdated>1409764776</lastupdated>
   <seasonid>521899</seasonid>
   <seriesid>161511</seriesid>
   <thumb_added>2014-01-23 17:55:58</thumb_added>
@@ -2102,12 +2000,12 @@
   <Overview>Fiona's bad decisions about Robbie come to a head; Frank and Sammi continue their quest for a cure; Lip is visited while at college.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>24</RatingCount>
+  <RatingCount>29</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Davey Holmes</Writer>
   <absolute_number>41</absolute_number>
   <filename>episodes/161511/4699152.jpg</filename>
-  <lastupdated>1399468080</lastupdated>
+  <lastupdated>1412097476</lastupdated>
   <seasonid>521899</seasonid>
   <seriesid>161511</seriesid>
   <thumb_added>2014-01-31 21:22:18</thumb_added>
@@ -2132,13 +2030,13 @@
   <Language>en</Language>
   <Overview>Fiona ends up in jail; the family waits for news about Liam; Frank wakes up in the emergency room.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>25</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>30</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>John Wells</Writer>
   <absolute_number>42</absolute_number>
   <filename>episodes/161511/4699153.jpg</filename>
-  <lastupdated>1399968262</lastupdated>
+  <lastupdated>1412097563</lastupdated>
   <seasonid>521899</seasonid>
   <seriesid>161511</seriesid>
   <thumb_added>2014-02-05 15:36:38</thumb_added>
@@ -2164,12 +2062,12 @@
   <Overview>Fiona is released; Lip takes over guardianship duties, receiving unexpected assistance.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>25</RatingCount>
+  <RatingCount>30</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Nancy Pimental</Writer>
   <absolute_number>43</absolute_number>
   <filename>episodes/161511/4699154.jpg</filename>
-  <lastupdated>1400585332</lastupdated>
+  <lastupdated>1412098837</lastupdated>
   <seasonid>521899</seasonid>
   <seriesid>161511</seriesid>
   <thumb_added>2014-02-11 18:35:28</thumb_added>
@@ -2195,12 +2093,12 @@
   <Overview>To prepare for a visit from her probation officer, Fiona must remove all paraphernalia from the house; Ian is kicked out of Mickey's house.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>23</RatingCount>
+  <RatingCount>28</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Sheila Callaghan</Writer>
   <absolute_number>44</absolute_number>
   <filename>episodes/161511/4699155.jpg</filename>
-  <lastupdated>1403614275</lastupdated>
+  <lastupdated>1412098757</lastupdated>
   <seasonid>521899</seasonid>
   <seriesid>161511</seriesid>
   <thumb_added>2014-02-20 08:12:05</thumb_added>
@@ -2225,13 +2123,13 @@
   <Language>en</Language>
   <Overview>Carl connects with a girl in detention; Lip and Amanda grow closer; Sheila returns with big plans; Fiona searches for a job; Mickey spends time with Ian.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>23</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>28</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Etan Frankel</Writer>
   <absolute_number>45</absolute_number>
   <filename>episodes/161511/4699156.jpg</filename>
-  <lastupdated>1403813992</lastupdated>
+  <lastupdated>1412098691</lastupdated>
   <seasonid>521899</seasonid>
   <seriesid>161511</seriesid>
   <thumb_added>2014-03-04 16:09:39</thumb_added>
@@ -2256,13 +2154,13 @@
   <Language>en</Language>
   <Overview>Fiona violates terms of her probation, sending the family into search party mode.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.9</Rating>
-  <RatingCount>24</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>29</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Davey Holmes</Writer>
   <absolute_number>46</absolute_number>
   <filename>episodes/161511/4699157.jpg</filename>
-  <lastupdated>1403814036</lastupdated>
+  <lastupdated>1412098628</lastupdated>
   <seasonid>521899</seasonid>
   <seriesid>161511</seriesid>
   <thumb_added>2014-03-11 16:55:29</thumb_added>
@@ -2288,12 +2186,12 @@
   <Overview>Fiona is taken to a correctional facility; Frank suffers post-operative delirium; Ian crashes Mickey's son's christening; Amanda's parents use bribery to keep Lip away from her; Debbie meets an older student.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>21</RatingCount>
+  <RatingCount>26</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Nancy Pimental</Writer>
   <absolute_number>47</absolute_number>
   <filename>episodes/161511/4699158.jpg</filename>
-  <lastupdated>1403814062</lastupdated>
+  <lastupdated>1412098562</lastupdated>
   <seasonid>521899</seasonid>
   <seriesid>161511</seriesid>
   <thumb_added>2014-03-20 01:44:27</thumb_added>
@@ -2318,13 +2216,13 @@
   <Language>en</Language>
   <Overview>Sheila fights for custody and clashes with Sammi; Lip catches up on bills; Fiona is released; Frank begins to feel like himself.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>8.0</Rating>
-  <RatingCount>22</RatingCount>
+  <Rating>7.9</Rating>
+  <RatingCount>28</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>John Wells</Writer>
   <absolute_number>48</absolute_number>
   <filename>episodes/161511/4699159.jpg</filename>
-  <lastupdated>1403814096</lastupdated>
+  <lastupdated>1412098418</lastupdated>
   <seasonid>521899</seasonid>
   <seriesid>161511</seriesid>
   <thumb_added>2014-03-24 18:42:31</thumb_added>
@@ -2332,7 +2230,7 @@
   <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
-  <id>4895006</id>
+  <id>5006617</id>
   <Combined_episodenumber>1</Combined_episodenumber>
   <Combined_season>5</Combined_season>
   <DVD_chapter></DVD_chapter>
@@ -2341,11 +2239,11 @@
   <DVD_season></DVD_season>
   <Director></Director>
   <EpImgFlag></EpImgFlag>
-  <EpisodeName>TBA</EpisodeName>
+  <EpisodeName>Nectar of the Gods</EpisodeName>
   <EpisodeNumber>1</EpisodeNumber>
-  <FirstAired></FirstAired>
+  <FirstAired>2015-01-11</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt3547068</IMDB_ID>
   <Language>en</Language>
   <Overview></Overview>
   <ProductionCode></ProductionCode>
@@ -2353,17 +2251,17 @@
   <RatingCount>0</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer></Writer>
-  <absolute_number></absolute_number>
+  <absolute_number>49</absolute_number>
   <filename></filename>
-  <lastupdated>1401510077</lastupdated>
-  <seasonid>583694</seasonid>
+  <lastupdated>1414609306</lastupdated>
+  <seasonid>598780</seasonid>
   <seriesid>161511</seriesid>
   <thumb_added></thumb_added>
   <thumb_height></thumb_height>
   <thumb_width></thumb_width>
 </Episode>
 <Episode>
-  <id>4864710</id>
+  <id>5006633</id>
   <Combined_episodenumber>2</Combined_episodenumber>
   <Combined_season>5</Combined_season>
   <DVD_chapter></DVD_chapter>
@@ -2372,11 +2270,11 @@
   <DVD_season></DVD_season>
   <Director></Director>
   <EpImgFlag></EpImgFlag>
-  <EpisodeName>TBA</EpisodeName>
+  <EpisodeName>I'm the Liver</EpisodeName>
   <EpisodeNumber>2</EpisodeNumber>
-  <FirstAired></FirstAired>
+  <FirstAired>2015-01-18</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt3858936</IMDB_ID>
   <Language>en</Language>
   <Overview></Overview>
   <ProductionCode></ProductionCode>
@@ -2384,10 +2282,320 @@
   <RatingCount>0</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer></Writer>
-  <absolute_number></absolute_number>
+  <absolute_number>50</absolute_number>
   <filename></filename>
-  <lastupdated>1401510067</lastupdated>
-  <seasonid>583694</seasonid>
+  <lastupdated>1414609379</lastupdated>
+  <seasonid>598780</seasonid>
+  <seriesid>161511</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5006634</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>The Two Lisas</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2015-01-25</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3858934</IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>51</absolute_number>
+  <filename></filename>
+  <lastupdated>1414609393</lastupdated>
+  <seasonid>598780</seasonid>
+  <seriesid>161511</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5006635</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>A Night to Remem-- Wait, What?</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3878444</IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>52</absolute_number>
+  <filename></filename>
+  <lastupdated>1414609409</lastupdated>
+  <seasonid>598780</seasonid>
+  <seriesid>161511</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5006636</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Rite of Passage</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3904378</IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>53</absolute_number>
+  <filename></filename>
+  <lastupdated>1414609421</lastupdated>
+  <seasonid>598780</seasonid>
+  <seriesid>161511</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5006637</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Crazy Love</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3953104</IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>54</absolute_number>
+  <filename></filename>
+  <lastupdated>1414609439</lastupdated>
+  <seasonid>598780</seasonid>
+  <seriesid>161511</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5006638</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Tell Me You Fucking Need Me</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3979142</IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>55</absolute_number>
+  <filename></filename>
+  <lastupdated>1414609454</lastupdated>
+  <seasonid>598780</seasonid>
+  <seriesid>161511</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5006639</id>
+  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Uncle Carl</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt4056348</IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>56</absolute_number>
+  <filename></filename>
+  <lastupdated>1414609468</lastupdated>
+  <seasonid>598780</seasonid>
+  <seriesid>161511</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5006640</id>
+  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Carl's First Sentencing</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt4080744</IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>57</absolute_number>
+  <filename></filename>
+  <lastupdated>1414609673</lastupdated>
+  <seasonid>598780</seasonid>
+  <seriesid>161511</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5006641</id>
+  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>South Side Rules</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt4079958</IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>58</absolute_number>
+  <filename></filename>
+  <lastupdated>1414609691</lastupdated>
+  <seasonid>598780</seasonid>
+  <seriesid>161511</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5006642</id>
+  <Combined_episodenumber>11</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Drugs Actually</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt4112036</IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>59</absolute_number>
+  <filename></filename>
+  <lastupdated>1414609507</lastupdated>
+  <seasonid>598780</seasonid>
+  <seriesid>161511</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5006643</id>
+  <Combined_episodenumber>12</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Love Songs</EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3902188</IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>60</absolute_number>
+  <filename></filename>
+  <lastupdated>1414861086</lastupdated>
+  <seasonid>598780</seasonid>
   <seriesid>161511</seriesid>
   <thumb_added></thumb_added>
   <thumb_height></thumb_height>

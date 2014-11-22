@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Data><Series>
   <id>264991</id>
-  <Actors>|Alexandra Roach|Paul Higgins|Nathan Stewart-Jarrett|Fiona O'Shaughnessy|Oliver Woollford|Adeel Akhtar |</Actors>
+  <Actors>|Alexandra Roach|Paul Higgins|Nathan Stewart-Jarrett|Ian McDiarmid|Paul Ready|Emilia Jones|Geraldine James|Neil Maskell|Fiona O'Shaughnessy|Oliver Woollford|Adeel Akhtar |</Actors>
   <Airs_DayOfWeek>Tuesday</Airs_DayOfWeek>
-  <Airs_Time>22:00</Airs_Time>
+  <Airs_Time>10:00 PM</Airs_Time>
   <ContentRating>TV-MA</ContentRating>
   <FirstAired>2013-01-15</FirstAired>
   <Genre>|Drama|Science-Fiction|Thriller|</Genre>
@@ -11,53 +11,47 @@
   <Language>en</Language>
   <Network>Channel 4</Network>
   <NetworkID></NetworkID>
-  <Overview>Utopia is a drama which follows a shadowy unit called The Network and their attempts to recover a strange graphic novel from the four friends who have found it... and discover its true potential.</Overview>
-  <Rating>9.0</Rating>
-  <RatingCount>29</RatingCount>
-  <Runtime>60</Runtime>
+  <Overview>The story follows a small group of people who find themselves in possession of the manuscript sequel of a cult graphic novel called The Utopia Experiments, which is rumoured to have predicted the worst disasters of the last century. This leads them to be targeted by an organisation known as The Network, which they must avoid to survive. Using the manuscript, they must uncover the meaning hidden in its pages before the disasters depicted become reality.</Overview>
+  <Rating>8.8</Rating>
+  <RatingCount>39</RatingCount>
+  <Runtime>55</Runtime>
   <SeriesID>177687</SeriesID>
   <SeriesName>Utopia</SeriesName>
-  <Status>Continuing</Status>
+  <Status>Ended</Status>
   <added>2012-12-19 10:09:02</added>
   <addedBy>373874</addedBy>
   <banner>graphical/264991-g5.jpg</banner>
-  <fanart>fanart/original/264991-4.jpg</fanart>
-  <lastupdated>1405829383</lastupdated>
-  <poster>posters/264991-5.jpg</poster>
+  <fanart>fanart/original/264991-6.jpg</fanart>
+  <lastupdated>1414837498</lastupdated>
+  <poster>posters/264991-6.jpg</poster>
   <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id></zap2it_id>
 </Series>
 <Episode>
   <id>4471351</id>
-  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_episodenumber>1.0</Combined_episodenumber>
   <Combined_season>1</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director>Marc Munden</Director>
+  <DVD_episodenumber>1.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>|Marc Munden|</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Episode 1</EpisodeName>
   <EpisodeNumber>1</EpisodeNumber>
   <FirstAired>2013-01-15</FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <GuestStars>|James Fox|Alistair Petrie|Stephen Rea|Oliver Dimsdale|Ruth Gemmell|Anna Madeley|Paul Ready|Michael Smiley|Mark Stobbart|Gary Cargill|Paapa Essiedu|Simon Farnaby|Hermione Gulliford|Eleanor Matsuura|Gerard Monaco|Stewart Scudamore|</GuestStars>
+  <IMDB_ID>tt2618234</IMDB_ID>
   <Language>en</Language>
-  <Overview>When five strangers from an online comic book forum agree to meet after gaining possession of the original manuscript for the cult graphic novel 'The Utopia Experiments', they find themselves pursued by a shadowy organisation known as The Network who are in pursuit of the manuscript - and they are prepared to kill to track it down.
-
-While three of the forum members - Ian, Becky and Wilson meet in the pub, another is confronted and killed by two Network henchmen. The only witness to the murder is 11-year-old Grant - the fifth forum member - and when he flees with the manuscript, the henchmen give chase.
-
-Ian and Becky soon find they've been set-up for crimes they haven't committed, while Wilson's hacking skills attract the attention of Network henchmen Arby and Lee. As the trio's lives begin to fracture, the world of civil servant Michael Dugdale is also torn apart as he is blackmailed by The Network.
-
-Just as things are looking increasingly desperate for Ian, Becky and Wilson, they come face to face with an enigmatic stranger who claims to offer them a way out...</Overview>
+  <Overview>When five strangers from an online comic book forum agree to meet after gaining possession of the original manuscript for the cult graphic novel 'The Utopia Experiments', they find themselves pursued by a shadowy organisation known as The Network who are in pursuit of the manuscript — and they are prepared to kill to track it down.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>8.1</Rating>
-  <RatingCount>36</RatingCount>
+  <Rating>7.9</Rating>
+  <RatingCount>38</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>Mark Aldridge, Dennis Kelly, Huw Kennair-Jones, Clare McDonald</Writer>
-  <absolute_number></absolute_number>
+  <Writer>|Dennis Kelly|</Writer>
+  <absolute_number>1</absolute_number>
   <filename>episodes/264991/4471351.jpg</filename>
-  <lastupdated>1405657905</lastupdated>
+  <lastupdated>1409935046</lastupdated>
   <seasonid>507598</seasonid>
   <seriesid>264991</seriesid>
   <thumb_added></thumb_added>
@@ -66,29 +60,29 @@ Just as things are looking increasingly desperate for Ian, Becky and Wilson, the
 </Episode>
 <Episode>
   <id>4477746</id>
-  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_episodenumber>2.0</Combined_episodenumber>
   <Combined_season>1</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director>Marc Munden</Director>
+  <DVD_episodenumber>2.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>|Marc Munden|</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Episode 2</EpisodeName>
   <EpisodeNumber>2</EpisodeNumber>
   <FirstAired>2013-01-22</FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <GuestStars>|James Fox|Emilia Jones|Alistair Petrie|Stephen Rea|Lloyd Hutchinson|Ruth Gemmell|Anna Madeley|Paul Ready|David Sibley|Mark Stobbart|Alan Williams|Eleanor Matsuura|</GuestStars>
+  <IMDB_ID>tt2618232</IMDB_ID>
   <Language>en</Language>
   <Overview>Unable to ever return to their old lives, Ian and Becky are forced to face the terrifying reality of life on the run. Meanwhile, Dugdale is drawn deeper and deeper into a plot that threatens to have fatal consequences.</Overview>
-  <ProductionCode>Великобритания</ProductionCode>
-  <Rating>7.9</Rating>
-  <RatingCount>26</RatingCount>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>30</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>Mark Aldridge, Dennis Kelly, Huw Kennair-Jones, Clare McDonald</Writer>
-  <absolute_number></absolute_number>
+  <Writer>|Dennis Kelly|</Writer>
+  <absolute_number>2</absolute_number>
   <filename>episodes/264991/4477746.jpg</filename>
-  <lastupdated>1394146715</lastupdated>
+  <lastupdated>1406104131</lastupdated>
   <seasonid>507598</seasonid>
   <seriesid>264991</seriesid>
   <thumb_added></thumb_added>
@@ -97,29 +91,29 @@ Just as things are looking increasingly desperate for Ian, Becky and Wilson, the
 </Episode>
 <Episode>
   <id>4477747</id>
-  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_episodenumber>3.0</Combined_episodenumber>
   <Combined_season>1</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director>Alex Garcia Lopez, Wayne Che Yip</Director>
+  <DVD_episodenumber>3.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>|Marc Munden|</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Episode 3</EpisodeName>
   <EpisodeNumber>3</EpisodeNumber>
   <FirstAired>2013-01-29</FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <GuestStars>|James Fox|Geraldine James|Emilia Jones|Simon McBurney|Alistair Petrie|Stephen Rea|Ruth Gemmell|Anna Madeley|Eleanor Matsuura|Jay Simpson|</GuestStars>
+  <IMDB_ID>tt2618236</IMDB_ID>
   <Language>en</Language>
   <Overview>The gang feel the full weight of The Network's power as Grant is framed for a shocking crime. With nowhere else to turn, they are forced to make a new ally - but can she really be trusted?</Overview>
-  <ProductionCode>Великобритания</ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>22</RatingCount>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>26</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>Mark Aldridge, Dennis Kelly, Huw Kennair-Jones, Clare McDonald</Writer>
-  <absolute_number></absolute_number>
+  <Writer>|Dennis Kelly|</Writer>
+  <absolute_number>3</absolute_number>
   <filename>episodes/264991/4477747.jpg</filename>
-  <lastupdated>1394146821</lastupdated>
+  <lastupdated>1406104140</lastupdated>
   <seasonid>507598</seasonid>
   <seriesid>264991</seriesid>
   <thumb_added></thumb_added>
@@ -128,29 +122,29 @@ Just as things are looking increasingly desperate for Ian, Becky and Wilson, the
 </Episode>
 <Episode>
   <id>4477748</id>
-  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_episodenumber>4.0</Combined_episodenumber>
   <Combined_season>1</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director>Alex Garcia Lopez, Wayne Che Yip</Director>
+  <DVD_episodenumber>4.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>|Alex Garcia Lopez|Wayne Che Yip|</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Episode 4</EpisodeName>
   <EpisodeNumber>4</EpisodeNumber>
   <FirstAired>2013-02-05</FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <GuestStars>|James Fox|Geraldine James|Emilia Jones|Simon McBurney|Alistair Petrie|Stephen Rea|Ruth Gemmell|Anna Madeley|Paapa Essiedu|Mitchell Mullen|</GuestStars>
+  <IMDB_ID>tt2618238</IMDB_ID>
   <Language>en</Language>
   <Overview>Hidden away in a derelict manor house, the group attempt to decipher the secret meaning of the manuscript. But will uncovering the identity of Mr Rabbit really allow them to return to their former lives?</Overview>
-  <ProductionCode>Великобритания</ProductionCode>
-  <Rating>8.1</Rating>
-  <RatingCount>19</RatingCount>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>23</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>Mark Aldridge, Dennis Kelly, Huw Kennair-Jones, Clare McDonald</Writer>
-  <absolute_number></absolute_number>
+  <Writer>|Dennis Kelly|</Writer>
+  <absolute_number>4</absolute_number>
   <filename>episodes/264991/4477748.jpg</filename>
-  <lastupdated>1394146856</lastupdated>
+  <lastupdated>1406104262</lastupdated>
   <seasonid>507598</seasonid>
   <seriesid>264991</seriesid>
   <thumb_added></thumb_added>
@@ -159,29 +153,29 @@ Just as things are looking increasingly desperate for Ian, Becky and Wilson, the
 </Episode>
 <Episode>
   <id>4477749</id>
-  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_episodenumber>5.0</Combined_episodenumber>
   <Combined_season>1</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director>Alex Garcia Lopez, Wayne Che Yip</Director>
+  <DVD_episodenumber>5.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>|Alex Garcia Lopez|Wayne Che Yip|</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Episode 5</EpisodeName>
   <EpisodeNumber>5</EpisodeNumber>
   <FirstAired>2013-02-12</FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <GuestStars>|James Fox|Geraldine James|Emilia Jones|Simon McBurney|Alistair Petrie|Stephen Rea|Ruth Gemmell|Anna Madeley|</GuestStars>
+  <IMDB_ID>tt2618240</IMDB_ID>
   <Language>en</Language>
   <Overview>The gang's attempt to disrupt The Network's plans backfires leaving one of them in danger. Arby's confession to Jessica has damaging repercussions while Becky is left with an impossible choice.</Overview>
-  <ProductionCode>Великобритания</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>14</RatingCount>
+  <ProductionCode></ProductionCode>
+  <Rating>7.3</Rating>
+  <RatingCount>18</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>Mark Aldridge, Dennis Kelly, Huw Kennair-Jones, Clare McDonald</Writer>
-  <absolute_number></absolute_number>
+  <Writer>|Dennis Kelly|</Writer>
+  <absolute_number>5</absolute_number>
   <filename>episodes/264991/4477749.jpg</filename>
-  <lastupdated>1394146942</lastupdated>
+  <lastupdated>1406104442</lastupdated>
   <seasonid>507598</seasonid>
   <seriesid>264991</seriesid>
   <thumb_added></thumb_added>
@@ -190,29 +184,29 @@ Just as things are looking increasingly desperate for Ian, Becky and Wilson, the
 </Episode>
 <Episode>
   <id>4477750</id>
-  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_episodenumber>6.0</Combined_episodenumber>
   <Combined_season>1</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director>Alex Garcia Lopez, Marc Munden, Wayne Che Yip</Director>
+  <DVD_episodenumber>6.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>|Alex Garcia Lopez|Wayne Che Yip|Marc Munden|</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Episode 6</EpisodeName>
   <EpisodeNumber>6</EpisodeNumber>
   <FirstAired>2013-02-19</FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <GuestStars>|James Fox|Geraldine James|Emilia Jones|Simon McBurney|Alistair Petrie|Ruth Gemmell|Anna Madeley|Alan Williams|</GuestStars>
+  <IMDB_ID>tt2618242</IMDB_ID>
   <Language>en</Language>
   <Overview>Time is running out, the gang must find Mr Rabbit and stop The Network's plan to release Janus. As a daring plan is formed, only one question remains - will the true secrets of Utopia finally be revealed?</Overview>
-  <ProductionCode>Великобритания</ProductionCode>
-  <Rating>8.5</Rating>
-  <RatingCount>15</RatingCount>
+  <ProductionCode></ProductionCode>
+  <Rating>8.1</Rating>
+  <RatingCount>18</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>Mark Aldridge, Dennis Kelly, Huw Kennair-Jones, Clare McDonald</Writer>
-  <absolute_number></absolute_number>
+  <Writer>|Dennis Kelly|</Writer>
+  <absolute_number>6</absolute_number>
   <filename>episodes/264991/4477750.jpg</filename>
-  <lastupdated>1394146913</lastupdated>
+  <lastupdated>1406104641</lastupdated>
   <seasonid>507598</seasonid>
   <seriesid>264991</seriesid>
   <thumb_added></thumb_added>
@@ -227,28 +221,26 @@ Just as things are looking increasingly desperate for Ian, Becky and Wilson, the
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
+  <Director>|Marc Munden|</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Episode 1</EpisodeName>
   <EpisodeNumber>1</EpisodeNumber>
   <FirstAired>2014-07-14</FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <GuestStars>|Tom Burke|Rose Leslie|Anca Androne|Ed Birch|Trystan Gravelle|Tim McInnerny|Kevin Trainor|Clive Wood|William Belchambers|Vincenzo Ferrera|</GuestStars>
+  <IMDB_ID>tt3371724</IMDB_ID>
   <Language>en</Language>
-  <Overview>In 1974, a young scientific genius Philip Carvel meets an idealistic security services agent, Milner at a secret forum of political, industrial, financial and academic leaders. Milner is in charge of a powerful shadowy organisation known only as The Network. Together they hatch a radical plan they believe will save the human race from the horrific ramifications of over-population...
-
-Five years later, in the 1979 winter of discontent Carvel is tormented by his love for his daughter Jessica and his guilt over what he has done to his son and is beginning to lose his mind. He has made an adjustment to Janus and is refusing to release it to Milner. But a determined Milner refuses to let either political events or Carvel's impending breakdown get in the way of their goal.</Overview>
+  <Overview>In 1974, young scientific genius Philip Carvel meets an idealistic security services agent, Milner, at a secret forum of political, industrial, financial and academic leaders. Milner is in charge of a powerful shadowy organisation known only as The Network.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>8.5</Rating>
-  <RatingCount>4</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>10</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
+  <Writer>|Dennis Kelly|</Writer>
+  <absolute_number>7</absolute_number>
   <filename>episodes/264991/4756838.jpg</filename>
-  <lastupdated>1404548057</lastupdated>
+  <lastupdated>1414525068</lastupdated>
   <seasonid>571814</seasonid>
   <seriesid>264991</seriesid>
-  <thumb_added>2014-07-05 01:18:28</thumb_added>
+  <thumb_added>2014-07-23 04:48:04</thumb_added>
   <thumb_height>225</thumb_height>
   <thumb_width>400</thumb_width>
 </Episode>
@@ -260,26 +252,26 @@ Five years later, in the 1979 winter of discontent Carvel is tormented by his lo
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
+  <Director>|Marc Munden|</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Episode 2</EpisodeName>
   <EpisodeNumber>2</EpisodeNumber>
   <FirstAired>2014-07-15</FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <GuestStars>|Geraldine James|Alistair Petrie|Kevin Eldon|Sylvestra Le Touzel|Michael Maloney|Ian McDiarmid|Paul Ready|Allan Corduner|Pixie Davies|Diane Morgan|Gerard Monaco|David Quilter|</GuestStars>
+  <IMDB_ID>tt3850852</IMDB_ID>
   <Language>en</Language>
-  <Overview>In the present day, Jessica has been held captive by Milner who has tortured her in a desperate attempt to find out just what adjustment Carvel made to Janus. Ian and Grant are desperately searching for Becky. </Overview>
+  <Overview>In the present day, Jessica has been held captive by Milner who has tortured her in a desperate attempt to find out just what adjustment Carvel made to Janus. Ian and Grant are desperately searching for Becky. The Network is planning V Day — a strategy to vaccinate the whole world from Russian flu and Geoff is being forced to sell the idea to the nation.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>8.5</Rating>
-  <RatingCount>2</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>8</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
+  <Writer>|Dennis Kelly|</Writer>
+  <absolute_number>8</absolute_number>
   <filename>episodes/264991/4922909.jpg</filename>
-  <lastupdated>1404548121</lastupdated>
+  <lastupdated>1414525085</lastupdated>
   <seasonid>571814</seasonid>
   <seriesid>264991</seriesid>
-  <thumb_added>2014-07-05 01:19:25</thumb_added>
+  <thumb_added>2014-07-23 04:48:21</thumb_added>
   <thumb_height>225</thumb_height>
   <thumb_width>400</thumb_width>
 </Episode>
@@ -291,28 +283,28 @@ Five years later, in the 1979 winter of discontent Carvel is tormented by his lo
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
+  <Director>|Marc Munden|</Director>
+  <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Episode 3</EpisodeName>
   <EpisodeNumber>3</EpisodeNumber>
   <FirstAired>2014-07-22</FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <GuestStars>|Geraldine James|Alistair Petrie|Sylvestra Le Touzel|Michael Maloney|Ian McDiarmid|Paul Ready|Will Attenborough|Allan Corduner|Juliet Cowan|Gerard Monaco|</GuestStars>
+  <IMDB_ID>tt3867850</IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
+  <Overview>The gang are on the run and find a precocious young hacker, who uncovers the key to The Network's new plan: a real global outbreak of weaponised Russian flu that will prompt the entire world to take up their vaccine on V Day.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>8.0</Rating>
+  <RatingCount>8</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1405461932</lastupdated>
+  <Writer>|Dennis Kelly|John Donnelly|</Writer>
+  <absolute_number>9</absolute_number>
+  <filename>episodes/264991/4924678.jpg</filename>
+  <lastupdated>1414525109</lastupdated>
   <seasonid>571814</seasonid>
   <seriesid>264991</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-07-23 01:49:21</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4924679</id>
@@ -322,28 +314,28 @@ Five years later, in the 1979 winter of discontent Carvel is tormented by his lo
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
+  <Director>|Sam Donovan|</Director>
+  <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Episode 4</EpisodeName>
   <EpisodeNumber>4</EpisodeNumber>
   <FirstAired>2014-07-29</FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <GuestStars>|Geraldine James|Alistair Petrie|Emilia Jones|Ruth Gemmell|Sylvestra Le Touzel|Michael Maloney|Ian McDiarmid|Paul Ready|Sacha Dhawan|Sope Dirisu|Emil Hostina|</GuestStars>
+  <IMDB_ID>tt3892828</IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
+  <Overview>A shocked Dugdale reluctantly agrees to harbour Jessica, but who should be scared of who? When Dugdale visits Jen and Alice in a secret prison it's clear he will do whatever The Network asks in order to keep his family alive. Jessica is searching for Ian, as is Milner who is convinced he will lead her to Carvel.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>8.0</Rating>
+  <RatingCount>6</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1405462018</lastupdated>
+  <Writer>|Dennis Kelly|John Donnelly|</Writer>
+  <absolute_number>10</absolute_number>
+  <filename>episodes/264991/4924679.jpg</filename>
+  <lastupdated>1414525126</lastupdated>
   <seasonid>571814</seasonid>
   <seriesid>264991</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-07-23 01:49:41</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4924680</id>
@@ -353,28 +345,28 @@ Five years later, in the 1979 winter of discontent Carvel is tormented by his lo
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
+  <Director>|Sam Donovan|</Director>
+  <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Episode 5</EpisodeName>
   <EpisodeNumber>5</EpisodeNumber>
   <FirstAired>2014-08-05</FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <GuestStars>|Geraldine James|Alistair Petrie|Ruth Gemmell|Emilia Jones|Sylvestra Le Touzel|Ian McDiarmid|Paul Ready|Emil Hostina|Steven Robertson|</GuestStars>
+  <IMDB_ID>tt3902654</IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
+  <Overview>In the penultimate episode, following the revelation that her father is alive, Jessica sets off to find him, with hostage Milner in tow. Meanwhile, Wilson and Leah analyse their information and discover the far darker and more terrifying secret it holds.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>6.8</Rating>
+  <RatingCount>4</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1405462040</lastupdated>
+  <Writer>|Dennis Kelly|</Writer>
+  <absolute_number>11</absolute_number>
+  <filename>episodes/264991/4924680.jpg</filename>
+  <lastupdated>1414525148</lastupdated>
   <seasonid>571814</seasonid>
   <seriesid>264991</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-07-29 14:57:36</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4924681</id>
@@ -384,27 +376,27 @@ Five years later, in the 1979 winter of discontent Carvel is tormented by his lo
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
+  <Director>|Sam Donovan|</Director>
+  <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Episode 6</EpisodeName>
   <EpisodeNumber>6</EpisodeNumber>
   <FirstAired>2014-08-12</FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <GuestStars>|Alistair Petrie|David Calder|Ruth Gemmell|Emil Hostina|Emilia Jones|Sylvestra Le Touzel|Ian McDiarmid|Paul Ready|Steven Robertson|Sacha Dhawan|</GuestStars>
+  <IMDB_ID>tt3916922</IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
+  <Overview>In the final episode the race is on to find out who is going to release the flu. The gang track down Dobri Gorski to a police cell, where he tells them the names of the three people he trained to release the flu. A process of elimination leaves them with Terrence, but they still have to find him. Wilson's new ruthlessness is unnerving - can he be trusted? And what will happen when Becky runs out of Thoraxin?</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>5.0</Rating>
+  <RatingCount>2</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1405462051</lastupdated>
+  <Writer>|Dennis Kelly|</Writer>
+  <absolute_number>12</absolute_number>
+  <filename>episodes/264991/4924681.jpg</filename>
+  <lastupdated>1414525168</lastupdated>
   <seasonid>571814</seasonid>
   <seriesid>264991</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-08-07 15:01:02</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 </Data>

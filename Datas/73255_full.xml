@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Data><Series>
   <id>73255</id>
-  <Actors>|Hugh Laurie|Robert Sean Leonard|Omar Epps|Jennifer Morrison|Lisa Edelstein|Jesse Spencer|Olivia Wilde|Sela Ward|Anne Dudek|Kal Penn|Peter Jacobson|Odette Annable|Charlyne Yi|Amber Tamblyn|Jennifer Stone|Lyndsy Fonseca|Meaghan Martin|Michelle Trachtenberg|</Actors>
+  <Actors>|Hugh Laurie|Robert Sean Leonard|Omar Epps|Jennifer Morrison|Lisa Edelstein|Jesse Spencer|Olivia Wilde|Odette Annable|Charlyne Yi|Anne Dudek|Kal Penn|Peter Jacobson|Sela Ward|Amber Tamblyn|Jennifer Stone|Lyndsy Fonseca|Meaghan Martin|Michelle Trachtenberg|</Actors>
   <Airs_DayOfWeek>Monday</Airs_DayOfWeek>
   <Airs_Time>9:00 PM</Airs_Time>
   <ContentRating>TV-14</ContentRating>
@@ -13,7 +13,7 @@
   <NetworkID></NetworkID>
   <Overview>Go deeper into the medical mysteries of House, TV's most compelling drama. Hugh Laurie stars as the brilliant but sarcastic Dr. Gregory House, a maverick physician who is devoid of bedside manner. While his behavior can border on antisocial, Dr. House thrives on the challenge of solving the medical puzzles that other doctors give up on. Together with his hand-picked team of young medical experts, he'll do whatever it takes in the race against the clock to solve the case.</Overview>
   <Rating>9.1</Rating>
-  <RatingCount>1214</RatingCount>
+  <RatingCount>1240</RatingCount>
   <Runtime>60</Runtime>
   <SeriesID>22374</SeriesID>
   <SeriesName>House</SeriesName>
@@ -22,7 +22,7 @@
   <addedBy></addedBy>
   <banner>graphical/73255-g22.jpg</banner>
   <fanart>fanart/original/73255-1.jpg</fanart>
-  <lastupdated>1405798010</lastupdated>
+  <lastupdated>1415049202</lastupdated>
   <poster>posters/73255-13.jpg</poster>
   <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>EP00688359</zap2it_id>
@@ -217,8 +217,8 @@ Held at The Achademy of Television Arts and Science</Overview>
   <Language>en</Language>
   <Overview>A Kindergarten teacher starts speaking gibberish and passed out in front of her class. What looks like a possible brain tumor does not respond to treatment and provides many more questions than answers for House and his team as they engage in a risky trial-and-error approach to her case. When the young teacher refuses any additional variations of treatment and her life starts slipping away, House must act against his code of conduct and make a personal visit to his patient to convince her to trust him one last time.</Overview>
   <ProductionCode>HOU-101</ProductionCode>
-  <Rating>7.9</Rating>
-  <RatingCount>117</RatingCount>
+  <Rating>8.0</Rating>
+  <RatingCount>118</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>David Shore</Writer>
   <absolute_number>2</absolute_number>
@@ -248,8 +248,8 @@ Held at The Achademy of Television Arts and Science</Overview>
   <Language>en</Language>
   <Overview>When a teenage lacrosse player is stricken with an unidentifiable brain disease, Dr. House and the team hustle to give his parents answers. Chase breaks the bad news, the kid has MS, but the boy's night-terror hallucinations disprove the diagnosis and send House and his team back to square one. As the boy's health deteriorates. House's side-bet on the paternity of the patient infuriates Dr. Cuddy and the teenager's parents, but may just pay off in spades.</Overview>
   <ProductionCode>HOU-105</ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>75</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>76</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Lawrence Kaplow</Writer>
   <absolute_number>3</absolute_number>
@@ -280,7 +280,7 @@ Held at The Achademy of Television Arts and Science</Overview>
   <Overview>A college student collapses after rowdy sex with his girlfriend.  While House and his team attempt to determine the cause, the student's condition continues to deteriorate and his symptoms multiply complicating the diagnosis.</Overview>
   <ProductionCode>HOU-102</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>75</RatingCount>
+  <RatingCount>76</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>David Shore</Writer>
   <absolute_number>4</absolute_number>
@@ -311,7 +311,7 @@ Held at The Achademy of Television Arts and Science</Overview>
   <Overview>When a virus is spreading among the hospital, infecting six babies, House and his team must make decisions that could compromise the lives of the babies.</Overview>
   <ProductionCode>HOU-104</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>76</RatingCount>
+  <RatingCount>77</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Peter Blake (IV)</Writer>
   <absolute_number>5</absolute_number>
@@ -342,7 +342,7 @@ Held at The Achademy of Television Arts and Science</Overview>
   <Overview>A nun whose hands are red, swollen and cracked is sent to House. The nun believes it is stigmata, but House suspects an allergic reaction. He gives her some pills, which cause her to become unable to breathe.  As her condition worsens, her fellow sisters pray for her while House and his team work to discover the cause of her illness while House has to wonder if he misadministered the illness.</Overview>
   <ProductionCode>HOU-106</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>69</RatingCount>
+  <RatingCount>70</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Sara B. Cooper</Writer>
   <absolute_number>6</absolute_number>
@@ -372,8 +372,8 @@ Held at The Achademy of Television Arts and Science</Overview>
   <Language>en</Language>
   <Overview>Dr. House is intrigued by the symptoms of a schizophrenic woman, who displays mixed symptoms, including a tumor, but soon realizes the source of her problems isn't the obvious. House confronts his birthday and Chase confronts his past when the mother's son tries to keep up with her condition.</Overview>
   <ProductionCode>HOU-103</ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>73</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>74</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>John Mankiewicz</Writer>
   <absolute_number>7</absolute_number>
@@ -970,7 +970,7 @@ Held at The Achademy of Television Arts and Science</Overview>
   <Writer>Matt Witten</Writer>
   <absolute_number>26</absolute_number>
   <filename>episodes/73255/306191.jpg</filename>
-  <lastupdated>1323932499</lastupdated>
+  <lastupdated>1407447833</lastupdated>
   <seasonid>5537</seasonid>
   <seriesid>73255</seriesid>
   <thumb_added></thumb_added>
@@ -1002,7 +1002,7 @@ Held at The Achademy of Television Arts and Science</Overview>
   <Writer>David Foster</Writer>
   <absolute_number>27</absolute_number>
   <filename>episodes/73255/306192.jpg</filename>
-  <lastupdated>1323932516</lastupdated>
+  <lastupdated>1407447846</lastupdated>
   <seasonid>5537</seasonid>
   <seriesid>73255</seriesid>
   <thumb_added></thumb_added>
@@ -1098,7 +1098,7 @@ Held at The Achademy of Television Arts and Science</Overview>
   <Writer>Liz Friedman</Writer>
   <absolute_number>30</absolute_number>
   <filename>episodes/73255/306195.jpg</filename>
-  <lastupdated>1323932805</lastupdated>
+  <lastupdated>1407447857</lastupdated>
   <seasonid>5537</seasonid>
   <seriesid>73255</seriesid>
   <thumb_added></thumb_added>
@@ -1162,7 +1162,7 @@ Held at The Achademy of Television Arts and Science</Overview>
   <Writer>Michael R. Perry</Writer>
   <absolute_number>32</absolute_number>
   <filename>episodes/73255/306197.jpg</filename>
-  <lastupdated>1323932956</lastupdated>
+  <lastupdated>1407447865</lastupdated>
   <seasonid>5537</seasonid>
   <seriesid>73255</seriesid>
   <thumb_added></thumb_added>
@@ -1322,7 +1322,7 @@ Held at The Achademy of Television Arts and Science</Overview>
   <Writer>Matt Witten</Writer>
   <absolute_number>37</absolute_number>
   <filename>episodes/73255/306202.jpg</filename>
-  <lastupdated>1323877682</lastupdated>
+  <lastupdated>1407447874</lastupdated>
   <seasonid>5537</seasonid>
   <seriesid>73255</seriesid>
   <thumb_added></thumb_added>
@@ -1354,7 +1354,7 @@ Held at The Achademy of Television Arts and Science</Overview>
   <Writer>Thomas L. Moran</Writer>
   <absolute_number>38</absolute_number>
   <filename>episodes/73255/306203.jpg</filename>
-  <lastupdated>1323933220</lastupdated>
+  <lastupdated>1407447883</lastupdated>
   <seasonid>5537</seasonid>
   <seriesid>73255</seriesid>
   <thumb_added></thumb_added>
@@ -1386,7 +1386,7 @@ Held at The Achademy of Television Arts and Science</Overview>
   <Writer>Peter Blake (IV)</Writer>
   <absolute_number>39</absolute_number>
   <filename>episodes/73255/306204.jpg</filename>
-  <lastupdated>1323933240</lastupdated>
+  <lastupdated>1407447894</lastupdated>
   <seasonid>5537</seasonid>
   <seriesid>73255</seriesid>
   <thumb_added></thumb_added>
@@ -4132,7 +4132,7 @@ Held at The Achademy of Television Arts and Science</Overview>
   <Overview>When a newborn disappears from the nursery, Princeton Plainsboro goes on lockdown, preventing anyone from entering, leaving or moving within the hospital. While House and his team members are trapped in various parts of the building, new insights about the team’s personal histories, relationships and regrets surface.</Overview>
   <ProductionCode>HOU-617</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>201</RatingCount>
+  <RatingCount>202</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>Eli Attie|Peter Blake|Russell Friend|Garrett Lerner</Writer>
   <absolute_number></absolute_number>

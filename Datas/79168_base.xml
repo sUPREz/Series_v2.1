@@ -2,7 +2,7 @@
 <Data>
   <Series>
     <id>79168</id>
-    <Actors>|Jennifer Aniston|Lisa Kudrow|Matt LeBlanc|Matthew Perry|Courteney Cox|David Schwimmer|James Michael Tyler|Emily Osment|</Actors>
+    <Actors>|Jennifer Aniston|Lisa Kudrow|Matt LeBlanc|Matthew Perry|Courteney Cox|David Schwimmer|</Actors>
     <Airs_DayOfWeek>Thursday</Airs_DayOfWeek>
     <Airs_Time>8:00 PM</Airs_Time>
     <ContentRating>TV-14</ContentRating>
@@ -14,17 +14,17 @@
     <NetworkID></NetworkID>
     <Overview>Six young people, on their own and struggling to survive in the real world, find the companionship, comfort and support they get from each other to be the perfect antidote to the pressures of life.</Overview>
     <Rating>9.2</Rating>
-    <RatingCount>254</RatingCount>
+    <RatingCount>262</RatingCount>
     <Runtime>30</Runtime>
     <SeriesID>71</SeriesID>
     <SeriesName>Friends</SeriesName>
     <Status>Ended</Status>
     <added></added>
     <addedBy></addedBy>
-    <banner>text/79168-3.jpg</banner>
-    <fanart>fanart/original/79168-4.jpg</fanart>
-    <lastupdated>1405855745</lastupdated>
-    <poster>posters/79168-3.jpg</poster>
+    <banner>graphical/79168-g5.jpg</banner>
+    <fanart>fanart/original/79168-6.jpg</fanart>
+    <lastupdated>1415039655</lastupdated>
+    <poster>posters/79168-11.jpg</poster>
     <tms_wanted_old>1</tms_wanted_old>
     <zap2it_id>EP00115127</zap2it_id>
   </Series>

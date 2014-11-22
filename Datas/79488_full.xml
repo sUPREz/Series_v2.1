@@ -3,7 +3,7 @@
   <id>79488</id>
   <Actors>|Alec Baldwin|Tina Fey|Jane Krakowski|Scott Adsit|Judah Friedlander|Jack McBrayer|Katrina Bowden|Lonny Ross|Tracy Morgan|John Lutz|Kevin Brown|Maulik Pancholy|Keith Powell|Grizz Chapman|</Actors>
   <Airs_DayOfWeek>Thursday</Airs_DayOfWeek>
-  <Airs_Time>8 PM</Airs_Time>
+  <Airs_Time>8:00 PM</Airs_Time>
   <ContentRating>TV-14</ContentRating>
   <FirstAired>2006-10-11</FirstAired>
   <Genre>|Comedy|</Genre>
@@ -14,7 +14,7 @@
   <Overview>Emmy Award Winner Tina Fey writes, executive produces and stars as Liz Lemon, the head writer of a live variety programme in New York City. Liz's life is turned upside down when brash new network executive Jack Donaghy (Alec Baldwin in his Golden Globe winning role) interferes with her show, bringing the wildly unpredictable Tracy Jordan (Tracy Morgan) into the cast. Now its up to Liz to manage the mayhem and still try to have a life.
 </Overview>
   <Rating>8.6</Rating>
-  <RatingCount>216</RatingCount>
+  <RatingCount>218</RatingCount>
   <Runtime>30</Runtime>
   <SeriesID>58326</SeriesID>
   <SeriesName>30 Rock</SeriesName>
@@ -22,9 +22,9 @@
   <added></added>
   <addedBy></addedBy>
   <banner>graphical/79488-g11.jpg</banner>
-  <fanart>fanart/original/79488-11.jpg</fanart>
-  <lastupdated>1405685375</lastupdated>
-  <poster>posters/79488-7.jpg</poster>
+  <fanart>fanart/original/79488-22.jpg</fanart>
+  <lastupdated>1414767415</lastupdated>
+  <poster>posters/79488-12.jpg</poster>
   <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>EP00848357</zap2it_id>
 </Series>
@@ -186,7 +186,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>Jack continues to tweak The Girlie Show so that eccentric Tracy Jordan is the star of the show. And Liz makes it all much worse when she tries to smooth things over.</Overview>
   <ProductionCode>102</ProductionCode>
   <Rating>7.2</Rating>
-  <RatingCount>64</RatingCount>
+  <RatingCount>65</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Tina Fey</Writer>
   <absolute_number>2</absolute_number>
@@ -712,8 +712,8 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Language>en</Language>
   <Overview>Love is in the air, but Liz is concerned when Jack takes an overwhelming interest in her new boyfriend (Jason Sudeikis).</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>42</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>43</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>John Riggi</Writer>
   <absolute_number>19</absolute_number>
@@ -744,7 +744,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>There are certainly no sparks when Jack asks Liz to take his fiancee, Phoebe (Emily Mortimer), out for a ladies' lunch. But Liz finds a lot more to like when her boyfriend takes her to the great city of Cleveland.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>48</RatingCount>
+  <RatingCount>49</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Robert Carlock|Jack Burditt</Writer>
   <absolute_number>20</absolute_number>
@@ -1388,7 +1388,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Reunion</EpisodeName>
   <EpisodeNumber>5</EpisodeNumber>
-  <FirstAired>2008-11-04</FirstAired>
+  <FirstAired>2008-12-04</FirstAired>
   <GuestStars>|Marion McCorry|Gerrianne Raphael|Jason Kravits|Robyn Lively|</GuestStars>
   <IMDB_ID>tt1248347</IMDB_ID>
   <Language>en</Language>
@@ -1400,7 +1400,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Writer>Matt Hubbard</Writer>
   <absolute_number>41</absolute_number>
   <filename>episodes/79488/407874.jpg</filename>
-  <lastupdated>1396049584</lastupdated>
+  <lastupdated>1409493717</lastupdated>
   <seasonid>36544</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -2140,7 +2140,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
 </Overview>
   <ProductionCode>407</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>58</RatingCount>
+  <RatingCount>59</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Kay Cannon</Writer>
   <absolute_number>65</absolute_number>
@@ -2171,7 +2171,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>Jack reunites with his high school crush, Nancy Donovan (Julianne Moore), thanks to a social networking site. Meanwhile, Liz struggles to find Jack a perfect gift, the writers invent a religion to avoid Kenneth's secret Santa gift swap, and Pete enlists Danny in his crusade for revenge against Jenna.</Overview>
   <ProductionCode>408</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>59</RatingCount>
+  <RatingCount>60</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Tina Fey</Writer>
   <absolute_number>66</absolute_number>
@@ -2202,7 +2202,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>Jack and Kenneth go to great lengths in an effort to erase a drunk voicemail. Jenna agrees to &quot;date&quot; James Franco to help with his public image. Liz's newly outed young cousin unexpectedly turns up in New York. Tracy, expecting a daughter, begins to rethink his treatment of women.</Overview>
   <ProductionCode>409</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>54</RatingCount>
+  <RatingCount>56</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Robert Carlock</Writer>
   <absolute_number>67</absolute_number>
@@ -2263,8 +2263,8 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Language>en</Language>
   <Overview>Jack brings TGS to Boston in an effort to spend time with Nancy. Stuck in a strange and cold city, the staff turns on Liz, who searches for a scapegoat. Meanwhile, Tracy feuds with John Hancock.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>51</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>52</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Vali Chandrasekaran|Tom Ceraulo</Writer>
   <absolute_number>69</absolute_number>
@@ -2295,7 +2295,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>Jack coaches Jenna when her estranged mother, Verna (Jan Hooks), drops by unannounced. Liz and Frank make a pact to kick their respective bad habits. Kenneth intrudes on Pete's quiet time.</Overview>
   <ProductionCode>412</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>57</RatingCount>
+  <RatingCount>58</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Ron Weiner</Writer>
   <absolute_number>70</absolute_number>
@@ -3356,7 +3356,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Writer>Tina Fey|Tracey Wigfield</Writer>
   <absolute_number>104</absolute_number>
   <filename>episodes/79488/4183946.jpg</filename>
-  <lastupdated>1389905726</lastupdated>
+  <lastupdated>1414767145</lastupdated>
   <seasonid>474560</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -3373,7 +3373,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <DVD_season>6</DVD_season>
   <Director>Beth McCarthy-Miller</Director>
   <EpImgFlag>2</EpImgFlag>
-  <EpisodeName>Idiots Are People Two!</EpisodeName>
+  <EpisodeName>Idiots are People Two!</EpisodeName>
   <EpisodeNumber>2</EpisodeNumber>
   <FirstAired>2012-01-19</FirstAired>
   <GuestStars>Kelsey Grammer|Denise Richards|Ann Curry|James Marsden</GuestStars>
@@ -3387,7 +3387,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Writer>Robert Carlock</Writer>
   <absolute_number>105</absolute_number>
   <filename>episodes/79488/4233755.jpg</filename>
-  <lastupdated>1389905767</lastupdated>
+  <lastupdated>1414767158</lastupdated>
   <seasonid>474560</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -3404,7 +3404,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <DVD_season>6</DVD_season>
   <Director>Beth McCarthy-Miller</Director>
   <EpImgFlag>2</EpImgFlag>
-  <EpisodeName>Idiots Are People Three!</EpisodeName>
+  <EpisodeName>Idiots are People Three!</EpisodeName>
   <EpisodeNumber>3</EpisodeNumber>
   <FirstAired>2012-01-26</FirstAired>
   <GuestStars>Kelsey Grammer|Denise Richards|Marceline Hugot|James Marsden|Will Arnett</GuestStars>
@@ -3418,7 +3418,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Writer>Robert Carlock</Writer>
   <absolute_number>106</absolute_number>
   <filename>episodes/79488/4241590.jpg</filename>
-  <lastupdated>1402746301</lastupdated>
+  <lastupdated>1410233245</lastupdated>
   <seasonid>474560</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -3883,7 +3883,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Writer>Robert Carlock|Vali Chandrasekaran</Writer>
   <absolute_number>121</absolute_number>
   <filename>episodes/79488/4291942.jpg</filename>
-  <lastupdated>1389905154</lastupdated>
+  <lastupdated>1407011573</lastupdated>
   <seasonid>474560</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -3978,7 +3978,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Writer>Josh Siegal|Dylan Morgan</Writer>
   <absolute_number>124</absolute_number>
   <filename>episodes/79488/4291945.jpg</filename>
-  <lastupdated>1389906629</lastupdated>
+  <lastupdated>1407684861</lastupdated>
   <seasonid>474560</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -4009,7 +4009,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Writer>Matt Hubbard</Writer>
   <absolute_number>125</absolute_number>
   <filename>episodes/79488/4291946.jpg</filename>
-  <lastupdated>1392421451</lastupdated>
+  <lastupdated>1407684881</lastupdated>
   <seasonid>474560</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -4221,7 +4221,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>After an encounter with Dennis Duffy, Liz and Criss decide to take drastic measures to start a family. As Liz looks toward the future, Jack and Jenna evaluate their own self-worth, and Tracy laments a shocking medical diagnosis.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>34</RatingCount>
+  <RatingCount>35</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer>Tracey Wigfield</Writer>
   <absolute_number></absolute_number>
@@ -4252,7 +4252,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>Jenna annoys Liz with her wedding envy, Jack devises a plan to avoid disappointing his visiting mother and Tracy attempts to cheer up Kenneth.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.0</Rating>
-  <RatingCount>34</RatingCount>
+  <RatingCount>35</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer>Jack Burditt|Colleen McGuinness</Writer>
   <absolute_number></absolute_number>
@@ -4282,8 +4282,8 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Language>en</Language>
   <Overview>Jack asks Devin Banks to help him discredit Kaylie Hooper, Jack's teenage nemesis and KableTown's future CEO. Liz considers her options as she tries to become a mother. Tracy directs Octavia Spencer in his movie.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>35</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>36</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer>Robert Carlock|Sam Means</Writer>
   <absolute_number></absolute_number>
@@ -4314,7 +4314,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>When Jack persuades Liz to go to Florida with him, they make a shocking discovery about his mother. Jenna and Tracy assume responsibility for the show in Liz's absence, resulting in disaster for Kenneth.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>36</RatingCount>
+  <RatingCount>37</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer>Tom Ceraulo|Matt Hubbard</Writer>
   <absolute_number></absolute_number>
@@ -4345,7 +4345,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>As her new kids arrive, Liz scrambles to save TGS from cancellation. Jack finds a new NBC president.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>31</RatingCount>
+  <RatingCount>32</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer>Lang Fisher|Nina Pedrad</Writer>
   <absolute_number></absolute_number>
@@ -4390,11 +4390,11 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
 </Episode>
 <Episode>
   <id>4357934</id>
-  <Combined_episodenumber>13.0</Combined_episodenumber>
+  <Combined_episodenumber>12.1</Combined_episodenumber>
   <Combined_season>7</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber>13.0</DVD_episodenumber>
+  <DVD_episodenumber>12.1</DVD_episodenumber>
   <DVD_season>7</DVD_season>
   <Director>Beth McCarthy-Miller</Director>
   <EpImgFlag>2</EpImgFlag>
@@ -4412,7 +4412,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Writer>|Tina Fey|Tracey Wigfield|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/79488/4357934.jpg</filename>
-  <lastupdated>1390831622</lastupdated>
+  <lastupdated>1412825162</lastupdated>
   <seasonid>494399</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>

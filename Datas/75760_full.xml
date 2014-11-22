@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Data><Series>
   <id>75760</id>
-  <Actors>|Josh Radnor|Neil Patrick Harris|Alyson Hannigan|Jason Segel|Cobie Smulders|Bob Saget|Cristin Milioti|</Actors>
+  <Actors>|Josh Radnor|Neil Patrick Harris|Alyson Hannigan|Jason Segel|Cobie Smulders|Bob Saget|Cristin Milioti|David Henrie|Lyndsy Fonseca|</Actors>
   <Airs_DayOfWeek>Monday</Airs_DayOfWeek>
   <Airs_Time>8:00 PM</Airs_Time>
   <ContentRating>TV-PG</ContentRating>
@@ -13,7 +13,7 @@
   <NetworkID></NetworkID>
   <Overview>The year is 2030. Ted Mosby is relaying the story of how he met his wife to his daughter and son. The story starts in the year 2005, when then twenty-seven year old architect Ted was spurred on to want to get married after his best friends from his college days at Wesleyan, lawyer Marshall Eriksen, who was his roommate at the time and kindergarten teacher Lily Aldrin, got engaged after nine years of dating each other. Ted's new quest in life was much to the dismay of his womanizing friend, Barney Stinson. But soon after Marshall and Lily's engagement, Ted believed that his life mate was going to be news reporter and aspiring news anchor Robin Scherbatsky, who, despite having had a romantic relationship with her after this time, ended up being who the kids know as their &quot;Aunt&quot; Robin. As Ted relays the story to his kids, the constants are that their Uncle Marshall, Aunt Lily, Uncle Barney and Aunt Robin are always in the picture and thus have something to do with how he got together with their mother.</Overview>
   <Rating>9.0</Rating>
-  <RatingCount>553</RatingCount>
+  <RatingCount>564</RatingCount>
   <Runtime>30</Runtime>
   <SeriesID>33700</SeriesID>
   <SeriesName>How I Met Your Mother</SeriesName>
@@ -22,8 +22,8 @@
   <addedBy></addedBy>
   <banner>graphical/75760-g2.jpg</banner>
   <fanart>fanart/original/75760-59.jpg</fanart>
-  <lastupdated>1405789951</lastupdated>
-  <poster>posters/75760-29.jpg</poster>
+  <lastupdated>1415046430</lastupdated>
+  <poster>posters/75760-42.jpg</poster>
   <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>EP00753796</zap2it_id>
 </Series>
@@ -45,8 +45,8 @@
   <Language>en</Language>
   <Overview></Overview>
   <ProductionCode></ProductionCode>
-  <Rating>4.0</Rating>
-  <RatingCount>1</RatingCount>
+  <Rating>5.5</Rating>
+  <RatingCount>2</RatingCount>
   <SeasonNumber>0</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
@@ -79,8 +79,8 @@
   <Language>en</Language>
   <Overview>Music video to go with Episode 03x16 - Sandcastles In the Sand. Full video was originally posted on YouTube: http://www.youtube.com/watch?v=bgBMFwVeIGI</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.0</Rating>
+  <RatingCount>1</RatingCount>
   <SeasonNumber>0</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
@@ -114,7 +114,7 @@
   <Overview></Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.0</Rating>
-  <RatingCount>1</RatingCount>
+  <RatingCount>2</RatingCount>
   <SeasonNumber>0</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
@@ -182,7 +182,7 @@
   <Overview></Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.0</Rating>
-  <RatingCount>1</RatingCount>
+  <RatingCount>2</RatingCount>
   <SeasonNumber>0</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
@@ -386,7 +386,7 @@
   <Overview>It's the year 2030 and an older Ted Mosby is telling the story to his son and daughter about how he met and will eventually marry their mother.  This is where we meet for the first time Ted, Lily, Marshall, Barney and Robin. </Overview>
   <ProductionCode>1ALH79</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>231</RatingCount>
+  <RatingCount>233</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Carter Bays|Craig Thomas</Writer>
   <absolute_number>1</absolute_number>
@@ -418,7 +418,7 @@
 </Overview>
   <ProductionCode>1ALH01</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>197</RatingCount>
+  <RatingCount>199</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Craig Thomas|Carter Bays</Writer>
   <absolute_number>2</absolute_number>
@@ -449,8 +449,8 @@
   <Overview>Ted agrees to let Barney spice up his love life and ends up on a crazy adventure of flying to Philadelphia, encountering the law and visiting the Liberty Bell.
 </Overview>
   <ProductionCode>1ALH02</ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>178</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>180</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Chris Miller|Phil Lord</Writer>
   <absolute_number>3</absolute_number>
@@ -481,8 +481,8 @@
   <Overview>Ted's outlook on his continuing search for love is altered when he rediscovers a shirt that has not seen daylight in years.  Meanwhile, Barney amuses himself by coaxing Robin into sacrificing her job by saying completely outlandish things on air live for a cash reward.
 </Overview>
   <ProductionCode>1ALH03</ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>179</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>181</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Kourtney Kang</Writer>
   <absolute_number>4</absolute_number>
@@ -514,7 +514,7 @@
 </Overview>
   <ProductionCode>1ALH04</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>175</RatingCount>
+  <RatingCount>177</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Chris Harris</Writer>
   <absolute_number>5</absolute_number>
@@ -546,7 +546,7 @@
 </Overview>
   <ProductionCode>1ALH05</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>173</RatingCount>
+  <RatingCount>175</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Brenda  Hsueh</Writer>
   <absolute_number>6</absolute_number>
@@ -577,7 +577,7 @@
   <Overview>When a matchmaker with a 100% success rate turns Ted away because he is not compatible with any of the available women in her database, he is still determined that he is going to find his match.  After getting information from the matchmaker’s computer, Ted pays a visit to a very cute but taken dermatologist in an effort to prove the prediction wrong that there are no women out there for him.  Meanwhile, Marshall and Lily are obsessed with ridding their apartment of a critter.</Overview>
   <ProductionCode>1ALH06</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>167</RatingCount>
+  <RatingCount>169</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Chris Marcil|Sam Johnson</Writer>
   <absolute_number>7</absolute_number>
@@ -609,7 +609,7 @@
 </Overview>
   <ProductionCode>1ALH07</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>161</RatingCount>
+  <RatingCount>164</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Gloria Calderon Kellett</Writer>
   <absolute_number>8</absolute_number>
@@ -641,7 +641,7 @@
 </Overview>
   <ProductionCode>1ALH08</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>166</RatingCount>
+  <RatingCount>168</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Phil Lord|Chris Miller</Writer>
   <absolute_number>9</absolute_number>
@@ -673,7 +673,7 @@
 </Overview>
   <ProductionCode>1ALH09</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>166</RatingCount>
+  <RatingCount>168</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Carter Bays|Craig Thomas|</Writer>
   <absolute_number>10</absolute_number>
@@ -704,8 +704,8 @@
   <Overview>Ted rents a limo to take the gang out to sample five New Year's Eve parties in a quest to find the perfect celebration.
 </Overview>
   <ProductionCode>1ALH10</ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>159</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>161</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Chris Marcil|Sam Johnson|</Writer>
   <absolute_number>11</absolute_number>
@@ -736,7 +736,7 @@
   <Overview>Robin accepts Ted's invite to a friend's wedding, but thanks to Ted, the couple may never make it down the aisle.</Overview>
   <ProductionCode>1ALH11</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>160</RatingCount>
+  <RatingCount>162</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Kourtney Kang</Writer>
   <absolute_number>12</absolute_number>
@@ -768,7 +768,7 @@
 </Overview>
   <ProductionCode>1ALH12</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>167</RatingCount>
+  <RatingCount>169</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Gloria Calderon Kellett</Writer>
   <absolute_number>13</absolute_number>
@@ -800,7 +800,7 @@
 </Overview>
   <ProductionCode>1ALH14</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>162</RatingCount>
+  <RatingCount>164</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Chris Harris</Writer>
   <absolute_number>14</absolute_number>
@@ -832,7 +832,7 @@
 </Overview>
   <ProductionCode>1ALH13</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>161</RatingCount>
+  <RatingCount>163</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Brenda Hsueh</Writer>
   <absolute_number>15</absolute_number>
@@ -863,7 +863,7 @@
   <Overview>Things are going great with Ted and Victoria's relationship, but when Victoria is offered her dream job, the couple have to make serious relationship decisions.  Meanwhile Marshall and Lily set out to purchase their wedding outfits and find out that none can afford what they bought.</Overview>
   <ProductionCode>1ALH15</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>157</RatingCount>
+  <RatingCount>159</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Maria Farrari</Writer>
   <absolute_number>16</absolute_number>
@@ -895,7 +895,7 @@
 </Overview>
   <ProductionCode>1ALH16</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>157</RatingCount>
+  <RatingCount>159</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Carter Bays|Craig Thomas|</Writer>
   <absolute_number>17</absolute_number>
@@ -927,7 +927,7 @@
 </Overview>
   <ProductionCode>1ALH17</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>160</RatingCount>
+  <RatingCount>162</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Carter Bays|Craig Thomas|</Writer>
   <absolute_number>18</absolute_number>
@@ -958,8 +958,8 @@
   <Overview>Robin is nominated to receive an award for a news report and everyone needs a date to take to the show. Barney introduces Ted to Mary as a date that Ted can take to the show. Originally Ted is opposed to the idea of just trying to save face in front of Robin but when she shows up with a date he changes his mind. Robin asks Mary lots of questions, and Ted begins to really like Mary, despite her occupation.
 </Overview>
   <ProductionCode>1ALH18</ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>158</RatingCount>
+  <Rating>7.9</Rating>
+  <RatingCount>160</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Chris Harris</Writer>
   <absolute_number>19</absolute_number>
@@ -991,7 +991,7 @@
 </Overview>
   <ProductionCode>1ALH19</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>162</RatingCount>
+  <RatingCount>164</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Ira Ungerleider</Writer>
   <absolute_number>20</absolute_number>
@@ -1023,7 +1023,7 @@
 </Overview>
   <ProductionCode>1ALH20</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>163</RatingCount>
+  <RatingCount>165</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Carter Bays|Craig Thomas|</Writer>
   <absolute_number>21</absolute_number>
@@ -1055,7 +1055,7 @@
 </Overview>
   <ProductionCode>1ALH21</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>148</RatingCount>
+  <RatingCount>150</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Carter Bays|Craig Thomas|</Writer>
   <absolute_number>22</absolute_number>
@@ -1087,12 +1087,12 @@
 </Overview>
   <ProductionCode>2ALH01</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>170</RatingCount>
+  <RatingCount>172</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Carter Bays|Craig Thomas|</Writer>
   <absolute_number>23</absolute_number>
   <filename>episodes/75760/307598.jpg</filename>
-  <lastupdated>1362324708</lastupdated>
+  <lastupdated>1406241173</lastupdated>
   <seasonid>16294</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -1119,12 +1119,12 @@
 </Overview>
   <ProductionCode>2ALH02</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>153</RatingCount>
+  <RatingCount>155</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Chris Harris</Writer>
   <absolute_number>24</absolute_number>
   <filename>episodes/75760/307599.jpg</filename>
-  <lastupdated>1347804494</lastupdated>
+  <lastupdated>1406241185</lastupdated>
   <seasonid>16294</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -1150,13 +1150,13 @@
   <Overview>Ted's parents visit New York for their anniversary and he learns a family secret. Robin worries that they won't like her. Lily and Marshall try to adjust to the new format of their relationship now that they are no longer together.
 </Overview>
   <ProductionCode>2ALH03</ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>158</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>160</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Stephen Lloyd</Writer>
   <absolute_number>25</absolute_number>
   <filename>episodes/75760/307600.jpg</filename>
-  <lastupdated>1347804508</lastupdated>
+  <lastupdated>1406241195</lastupdated>
   <seasonid>16294</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -1183,12 +1183,12 @@
 </Overview>
   <ProductionCode>2ALH04</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>152</RatingCount>
+  <RatingCount>154</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Kristin Newman</Writer>
   <absolute_number>26</absolute_number>
   <filename>episodes/75760/307601.jpg</filename>
-  <lastupdated>1403311817</lastupdated>
+  <lastupdated>1406241205</lastupdated>
   <seasonid>16294</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -1215,12 +1215,12 @@
 </Overview>
   <ProductionCode>2ALH05</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>162</RatingCount>
+  <RatingCount>164</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Jamie Rhonheimer</Writer>
   <absolute_number>27</absolute_number>
   <filename>episodes/75760/307602.jpg</filename>
-  <lastupdated>1392730594</lastupdated>
+  <lastupdated>1406241218</lastupdated>
   <seasonid>16294</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -1247,12 +1247,12 @@
 </Overview>
   <ProductionCode>2ALH06</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>156</RatingCount>
+  <RatingCount>158</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Brenda Hsueh</Writer>
   <absolute_number>28</absolute_number>
   <filename>episodes/75760/307603.jpg</filename>
-  <lastupdated>1392730592</lastupdated>
+  <lastupdated>1406241228</lastupdated>
   <seasonid>16294</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -1279,12 +1279,12 @@
 </Overview>
   <ProductionCode>2ALH07</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>159</RatingCount>
+  <RatingCount>161</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Greg Malins</Writer>
   <absolute_number>29</absolute_number>
   <filename>episodes/75760/311578.jpg</filename>
-  <lastupdated>1347804599</lastupdated>
+  <lastupdated>1406241244</lastupdated>
   <seasonid>16294</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -1310,13 +1310,13 @@
   <Overview>Marshall and Lily drag the gang to Atlantic City to elope, and their quest to overcome the three-day wait for a marriage license crosses them with some Chinese gamblers, a ship captain, and a sexy novelty shirt.
 </Overview>
   <ProductionCode>2ALH08</ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>156</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>158</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Maria Ferrari</Writer>
   <absolute_number>30</absolute_number>
   <filename>episodes/75760/312115.jpg</filename>
-  <lastupdated>1338527330</lastupdated>
+  <lastupdated>1406241256</lastupdated>
   <seasonid>16294</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -1343,12 +1343,12 @@
 </Overview>
   <ProductionCode>2ALH09</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>170</RatingCount>
+  <RatingCount>172</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Kourtney Kang</Writer>
   <absolute_number>31</absolute_number>
   <filename>episodes/75760/313489.jpg</filename>
-  <lastupdated>1347804626</lastupdated>
+  <lastupdated>1406241275</lastupdated>
   <seasonid>16294</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -1376,12 +1376,12 @@
 </Overview>
   <ProductionCode>2ALH10</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>150</RatingCount>
+  <RatingCount>152</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Kristen Newman</Writer>
   <absolute_number>32</absolute_number>
   <filename>episodes/75760/313490.jpg</filename>
-  <lastupdated>1347804689</lastupdated>
+  <lastupdated>1406241285</lastupdated>
   <seasonid>16294</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -1408,12 +1408,12 @@
 </Overview>
   <ProductionCode>2ALH11</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>159</RatingCount>
+  <RatingCount>161</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Brenda Hsueh</Writer>
   <absolute_number>33</absolute_number>
   <filename>episodes/75760/314958.jpg</filename>
-  <lastupdated>1347804711</lastupdated>
+  <lastupdated>1406241298</lastupdated>
   <seasonid>16294</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -1440,12 +1440,12 @@
 </Overview>
   <ProductionCode>2ALH12</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>164</RatingCount>
+  <RatingCount>166</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Gloria Calderon Kellett</Writer>
   <absolute_number>34</absolute_number>
   <filename>episodes/75760/316735.jpg</filename>
-  <lastupdated>1403311989</lastupdated>
+  <lastupdated>1406241309</lastupdated>
   <seasonid>16294</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -1472,12 +1472,12 @@
 </Overview>
   <ProductionCode>2ALH13</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>156</RatingCount>
+  <RatingCount>158</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Matt Kuhn</Writer>
   <absolute_number>35</absolute_number>
   <filename>episodes/75760/316736.jpg</filename>
-  <lastupdated>1338527443</lastupdated>
+  <lastupdated>1406241320</lastupdated>
   <seasonid>16294</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -1504,12 +1504,12 @@
 </Overview>
   <ProductionCode>2ALH14</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>153</RatingCount>
+  <RatingCount>156</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Carter Bays|Craig Thomas|</Writer>
   <absolute_number>36</absolute_number>
   <filename>episodes/75760/318688.jpg</filename>
-  <lastupdated>1347804750</lastupdated>
+  <lastupdated>1406241332</lastupdated>
   <seasonid>16294</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -1536,12 +1536,12 @@
 </Overview>
   <ProductionCode>2ALH15</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>161</RatingCount>
+  <RatingCount>164</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Jamie Rhonheimer</Writer>
   <absolute_number>37</absolute_number>
   <filename>episodes/75760/318689.jpg</filename>
-  <lastupdated>1347804772</lastupdated>
+  <lastupdated>1406241342</lastupdated>
   <seasonid>16294</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -1568,12 +1568,12 @@
 </Overview>
   <ProductionCode>2ALH16</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>162</RatingCount>
+  <RatingCount>165</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Kourtney Kang</Writer>
   <absolute_number>38</absolute_number>
   <filename>episodes/75760/320164.jpg</filename>
-  <lastupdated>1338527489</lastupdated>
+  <lastupdated>1406241353</lastupdated>
   <seasonid>16294</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -1600,12 +1600,12 @@
 </Overview>
   <ProductionCode>2ALH17</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>163</RatingCount>
+  <RatingCount>166</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Chris Harris</Writer>
   <absolute_number>39</absolute_number>
   <filename>episodes/75760/320165.jpg</filename>
-  <lastupdated>1347804805</lastupdated>
+  <lastupdated>1406241364</lastupdated>
   <seasonid>16294</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -1632,12 +1632,12 @@
 </Overview>
   <ProductionCode>2ALH18</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>157</RatingCount>
+  <RatingCount>160</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Maria Ferrari</Writer>
   <absolute_number>40</absolute_number>
   <filename>episodes/75760/320166.jpg</filename>
-  <lastupdated>1338527566</lastupdated>
+  <lastupdated>1406241374</lastupdated>
   <seasonid>16294</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -1664,13 +1664,13 @@
 
 </Overview>
   <ProductionCode>2ALH19</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>157</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>160</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Carter Bays|Craig Thomas|</Writer>
   <absolute_number>41</absolute_number>
   <filename>episodes/75760/323546.jpg</filename>
-  <lastupdated>1338527582</lastupdated>
+  <lastupdated>1406241384</lastupdated>
   <seasonid>16294</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -1696,12 +1696,12 @@
   <Overview>Thinking that Bob Barker may be his father, Barney is overjoyed to be a contestant on The Price is Right. Marshall and Lily try sleeping apart prior to the wedding.</Overview>
   <ProductionCode>2ALH20</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>157</RatingCount>
+  <RatingCount>160</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Gloria Calderon Kellett</Writer>
   <absolute_number>42</absolute_number>
   <filename>episodes/75760/324761.jpg</filename>
-  <lastupdated>1347804855</lastupdated>
+  <lastupdated>1406241396</lastupdated>
   <seasonid>16294</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -1727,12 +1727,12 @@
   <Overview>With everything going wrong on Lily and Marshall's wedding day, to everyone's surprise it's confirmed bachelor Barney who tries to fix it all.</Overview>
   <ProductionCode>2ALH21</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>162</RatingCount>
+  <RatingCount>165</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Greg Malins</Writer>
   <absolute_number>43</absolute_number>
   <filename>episodes/75760/326982.jpg</filename>
-  <lastupdated>1338527659</lastupdated>
+  <lastupdated>1406241408</lastupdated>
   <seasonid>16294</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -1757,13 +1757,13 @@
   <Language>en</Language>
   <Overview>It's still Marshall and Lily's big wedding day but now we're at the reception. Robin tries to tell a story but keeps getting interrupted. Barney tries his hardest to figure out Ted and Robin's secret.</Overview>
   <ProductionCode>2ALH22</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>153</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>156</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Carter Bays|Craig Thomas|</Writer>
   <absolute_number>44</absolute_number>
   <filename>episodes/75760/327432.jpg</filename>
-  <lastupdated>1385925449</lastupdated>
+  <lastupdated>1406241430</lastupdated>
   <seasonid>16294</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -1772,12 +1772,12 @@
 </Episode>
 <Episode>
   <id>336246</id>
-  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_episodenumber>1.0</Combined_episodenumber>
   <Combined_season>3</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>1.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag></EpImgFlag>
   <EpisodeName>Wait for It</EpisodeName>
@@ -1794,7 +1794,7 @@
   <Writer>|Carter Bays|Craig Thomas|</Writer>
   <absolute_number>45</absolute_number>
   <filename>episodes/75760/336246.jpg</filename>
-  <lastupdated>1403311344</lastupdated>
+  <lastupdated>1414136310</lastupdated>
   <seasonid>28494</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -1803,12 +1803,12 @@
 </Episode>
 <Episode>
   <id>336994</id>
-  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_episodenumber>2.0</Combined_episodenumber>
   <Combined_season>3</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>2.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag></EpImgFlag>
   <EpisodeName>We're Not from Here</EpisodeName>
@@ -1825,7 +1825,7 @@
   <Writer>Chris Harris</Writer>
   <absolute_number>46</absolute_number>
   <filename>episodes/75760/336994.jpg</filename>
-  <lastupdated>1403312108</lastupdated>
+  <lastupdated>1414136329</lastupdated>
   <seasonid>28494</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -1834,12 +1834,12 @@
 </Episode>
 <Episode>
   <id>336996</id>
-  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_episodenumber>3.0</Combined_episodenumber>
   <Combined_season>3</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>3.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Third Wheel</EpisodeName>
@@ -1856,7 +1856,7 @@
   <Writer>David Hemingson</Writer>
   <absolute_number>47</absolute_number>
   <filename>episodes/75760/336996.jpg</filename>
-  <lastupdated>1375650176</lastupdated>
+  <lastupdated>1414136341</lastupdated>
   <seasonid>28494</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -1865,17 +1865,17 @@
 </Episode>
 <Episode>
   <id>336995</id>
-  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_episodenumber>4.0</Combined_episodenumber>
   <Combined_season>3</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>4.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
   <Director>Rob Greenberg</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Little Boys</EpisodeName>
   <EpisodeNumber>4</EpisodeNumber>
-  <FirstAired>2007-10-08</FirstAired>
+  <FirstAired>2007-10-15</FirstAired>
   <GuestStars>Danica McKellar|Busy Philipps|Neil Jackson|Melissa Ordway|Chantelle Berry|Christine Woods</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
@@ -1887,7 +1887,7 @@
   <Writer>David Hemingson</Writer>
   <absolute_number>48</absolute_number>
   <filename>episodes/75760/336995.jpg</filename>
-  <lastupdated>1384516860</lastupdated>
+  <lastupdated>1414159307</lastupdated>
   <seasonid>28494</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -1896,12 +1896,12 @@
 </Episode>
 <Episode>
   <id>336997</id>
-  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_episodenumber>5.0</Combined_episodenumber>
   <Combined_season>3</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>5.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag></EpImgFlag>
   <EpisodeName>How I Met Everyone Else</EpisodeName>
@@ -1913,12 +1913,12 @@
   <Overview>Amid sharing stories with her about how members of the gang met each other, Ted's hot new girlfriend has a reaction to the meeting that gets her a high ranking on Barney's crazy scale.</Overview>
   <ProductionCode>3ALH05</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>168</RatingCount>
+  <RatingCount>169</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Gloria Calderon Kellett</Writer>
   <absolute_number>49</absolute_number>
   <filename>episodes/75760/336997.jpg</filename>
-  <lastupdated>1318196144</lastupdated>
+  <lastupdated>1414159321</lastupdated>
   <seasonid>28494</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -1927,12 +1927,12 @@
 </Episode>
 <Episode>
   <id>336998</id>
-  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_episodenumber>6.0</Combined_episodenumber>
   <Combined_season>3</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>6.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag></EpImgFlag>
   <EpisodeName>I'm Not That Guy</EpisodeName>
@@ -1944,12 +1944,12 @@
   <Overview>Marshall has to contemplate giving up his plan of using his law degree to help the planet when he's courted by a major firm; Lily reveals a secret to Robin that not even Marshall knows; Ted discovers a porn actor is using his name</Overview>
   <ProductionCode>3ALH06</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>169</RatingCount>
+  <RatingCount>171</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Jonathan Groff</Writer>
   <absolute_number>50</absolute_number>
   <filename>episodes/75760/336998.jpg</filename>
-  <lastupdated>1402429880</lastupdated>
+  <lastupdated>1414159330</lastupdated>
   <seasonid>28494</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -1958,12 +1958,12 @@
 </Episode>
 <Episode>
   <id>336999</id>
-  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_episodenumber>7.0</Combined_episodenumber>
   <Combined_season>3</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>7.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Dowisetrepla</EpisodeName>
@@ -1980,7 +1980,7 @@
   <Writer>Brenda Hsueh</Writer>
   <absolute_number>51</absolute_number>
   <filename>episodes/75760/336999.jpg</filename>
-  <lastupdated>1339844547</lastupdated>
+  <lastupdated>1414159348</lastupdated>
   <seasonid>28494</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -1989,12 +1989,12 @@
 </Episode>
 <Episode>
   <id>341994</id>
-  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_episodenumber>8.0</Combined_episodenumber>
   <Combined_season>3</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>8.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag></EpImgFlag>
   <EpisodeName>Spoiler Alert</EpisodeName>
@@ -2011,7 +2011,7 @@
   <Writer>Stephen Lloyd</Writer>
   <absolute_number>52</absolute_number>
   <filename>episodes/75760/341994.jpg</filename>
-  <lastupdated>1386533682</lastupdated>
+  <lastupdated>1414159360</lastupdated>
   <seasonid>28494</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -2020,12 +2020,12 @@
 </Episode>
 <Episode>
   <id>342644</id>
-  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_episodenumber>9.0</Combined_episodenumber>
   <Combined_season>3</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>9.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Slapsgiving</EpisodeName>
@@ -2042,7 +2042,7 @@
   <Writer>Matt Kuhn</Writer>
   <absolute_number>53</absolute_number>
   <filename>episodes/75760/342644.jpg</filename>
-  <lastupdated>1393713524</lastupdated>
+  <lastupdated>1414159371</lastupdated>
   <seasonid>28494</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -2051,12 +2051,12 @@
 </Episode>
 <Episode>
   <id>342791</id>
-  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_episodenumber>10.0</Combined_episodenumber>
   <Combined_season>3</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>10.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag></EpImgFlag>
   <EpisodeName>The Yips</EpisodeName>
@@ -2073,7 +2073,7 @@
   <Writer>Jamie Rhonheimer</Writer>
   <absolute_number>54</absolute_number>
   <filename>episodes/75760/342791.jpg</filename>
-  <lastupdated>1318196417</lastupdated>
+  <lastupdated>1414159396</lastupdated>
   <seasonid>28494</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -2082,12 +2082,12 @@
 </Episode>
 <Episode>
   <id>344925</id>
-  <Combined_episodenumber>11</Combined_episodenumber>
+  <Combined_episodenumber>11.0</Combined_episodenumber>
   <Combined_season>3</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>11.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag></EpImgFlag>
   <EpisodeName>The Platinum Rule</EpisodeName>
@@ -2104,7 +2104,7 @@
   <Writer>|Carter Bays|Craig Thomas|</Writer>
   <absolute_number>55</absolute_number>
   <filename>episodes/75760/344925.jpg</filename>
-  <lastupdated>1318196453</lastupdated>
+  <lastupdated>1414159410</lastupdated>
   <seasonid>28494</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -2113,12 +2113,12 @@
 </Episode>
 <Episode>
   <id>356536</id>
-  <Combined_episodenumber>12</Combined_episodenumber>
+  <Combined_episodenumber>12.0</Combined_episodenumber>
   <Combined_season>3</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>12.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>No Tomorrow</EpisodeName>
@@ -2130,12 +2130,12 @@
   <Overview>Ted lives like there's no tomorrow during a St. Patrick's Day celebration with Barney. Lily and Marshall spend the evening at their new apartment with Robin.</Overview>
   <ProductionCode>3ALH12</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>169</RatingCount>
+  <RatingCount>170</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Carter Bays|Craig Thomas|</Writer>
   <absolute_number>56</absolute_number>
   <filename>episodes/75760/356536.jpg</filename>
-  <lastupdated>1318196496</lastupdated>
+  <lastupdated>1414159423</lastupdated>
   <seasonid>28494</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -2144,12 +2144,12 @@
 </Episode>
 <Episode>
   <id>356864</id>
-  <Combined_episodenumber>13</Combined_episodenumber>
+  <Combined_episodenumber>13.0</Combined_episodenumber>
   <Combined_season>3</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>13.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Ten Sessions</EpisodeName>
@@ -2161,12 +2161,12 @@
   <Overview>Ted pursues a woman named Stella, but only gets attention from her receptionist Abby.</Overview>
   <ProductionCode>3ALH13</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>165</RatingCount>
+  <RatingCount>166</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Chris Harris|Carter Bays|Craig Thomas|</Writer>
   <absolute_number>57</absolute_number>
   <filename>episodes/75760/356864.jpg</filename>
-  <lastupdated>1402429911</lastupdated>
+  <lastupdated>1414159957</lastupdated>
   <seasonid>28494</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -2175,12 +2175,12 @@
 </Episode>
 <Episode>
   <id>356865</id>
-  <Combined_episodenumber>14</Combined_episodenumber>
+  <Combined_episodenumber>14.0</Combined_episodenumber>
   <Combined_season>3</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>14.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>The Bracket</EpisodeName>
@@ -2197,7 +2197,7 @@
   <Writer>Joe Kelly</Writer>
   <absolute_number>58</absolute_number>
   <filename>episodes/75760/356865.jpg</filename>
-  <lastupdated>1402429919</lastupdated>
+  <lastupdated>1414159972</lastupdated>
   <seasonid>28494</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -2206,12 +2206,12 @@
 </Episode>
 <Episode>
   <id>358458</id>
-  <Combined_episodenumber>15</Combined_episodenumber>
+  <Combined_episodenumber>15.0</Combined_episodenumber>
   <Combined_season>3</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>15.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>The Chain of Screaming</EpisodeName>
@@ -2228,7 +2228,7 @@
   <Writer>|Carter Bays|Craig Thomas|</Writer>
   <absolute_number>59</absolute_number>
   <filename>episodes/75760/358458.jpg</filename>
-  <lastupdated>1385154008</lastupdated>
+  <lastupdated>1414159993</lastupdated>
   <seasonid>28494</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -2237,12 +2237,12 @@
 </Episode>
 <Episode>
   <id>358460</id>
-  <Combined_episodenumber>16</Combined_episodenumber>
+  <Combined_episodenumber>16.0</Combined_episodenumber>
   <Combined_season>3</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>16.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Sandcastles in the Sand</EpisodeName>
@@ -2259,7 +2259,7 @@
   <Writer>Kourtney Kang</Writer>
   <absolute_number>60</absolute_number>
   <filename>episodes/75760/358460.jpg</filename>
-  <lastupdated>1385154024</lastupdated>
+  <lastupdated>1414160005</lastupdated>
   <seasonid>28494</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -2268,12 +2268,12 @@
 </Episode>
 <Episode>
   <id>364031</id>
-  <Combined_episodenumber>17</Combined_episodenumber>
+  <Combined_episodenumber>17.0</Combined_episodenumber>
   <Combined_season>3</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>17.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>The Goat</EpisodeName>
@@ -2290,7 +2290,7 @@
   <Writer>Stephen Lloyd</Writer>
   <absolute_number>61</absolute_number>
   <filename>episodes/75760/364031.jpg</filename>
-  <lastupdated>1318196687</lastupdated>
+  <lastupdated>1414160023</lastupdated>
   <seasonid>28494</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -2299,12 +2299,12 @@
 </Episode>
 <Episode>
   <id>365959</id>
-  <Combined_episodenumber>18</Combined_episodenumber>
+  <Combined_episodenumber>18.0</Combined_episodenumber>
   <Combined_season>3</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>18.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Rebound Bro</EpisodeName>
@@ -2321,7 +2321,7 @@
   <Writer>Jamie Rhonheimer</Writer>
   <absolute_number>62</absolute_number>
   <filename>episodes/75760/365959.jpg</filename>
-  <lastupdated>1385154565</lastupdated>
+  <lastupdated>1414160037</lastupdated>
   <seasonid>28494</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -2330,12 +2330,12 @@
 </Episode>
 <Episode>
   <id>365960</id>
-  <Combined_episodenumber>19</Combined_episodenumber>
+  <Combined_episodenumber>19.0</Combined_episodenumber>
   <Combined_season>3</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>19.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Everything Must Go</EpisodeName>
@@ -2352,7 +2352,7 @@
   <Writer>|Jonathan Groff|Chris Harris|</Writer>
   <absolute_number>63</absolute_number>
   <filename>episodes/75760/365960.jpg</filename>
-  <lastupdated>1318196751</lastupdated>
+  <lastupdated>1414160051</lastupdated>
   <seasonid>28494</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -2361,12 +2361,12 @@
 </Episode>
 <Episode>
   <id>365968</id>
-  <Combined_episodenumber>20</Combined_episodenumber>
+  <Combined_episodenumber>20.0</Combined_episodenumber>
   <Combined_season>3</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>20.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Miracles</EpisodeName>
@@ -2383,7 +2383,7 @@
   <Writer>|Carter Bays|Craig Thomas|</Writer>
   <absolute_number>64</absolute_number>
   <filename>episodes/75760/365968.jpg</filename>
-  <lastupdated>1318196786</lastupdated>
+  <lastupdated>1414160070</lastupdated>
   <seasonid>28494</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -2392,12 +2392,12 @@
 </Episode>
 <Episode>
   <id>383453</id>
-  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_episodenumber>1.0</Combined_episodenumber>
   <Combined_season>4</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>1.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Do I Know You?</EpisodeName>
@@ -2414,7 +2414,7 @@
   <Writer>|Carter Bays|Craig Thomas|</Writer>
   <absolute_number>65</absolute_number>
   <filename>episodes/75760/383453.jpg</filename>
-  <lastupdated>1318196867</lastupdated>
+  <lastupdated>1414160335</lastupdated>
   <seasonid>34610</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -2423,12 +2423,12 @@
 </Episode>
 <Episode>
   <id>389043</id>
-  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_episodenumber>2.0</Combined_episodenumber>
   <Combined_season>4</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>2.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>The Best Burger in New York</EpisodeName>
@@ -2445,7 +2445,7 @@
   <Writer>|Carter Bays|Craig Thomas|</Writer>
   <absolute_number>66</absolute_number>
   <filename>episodes/75760/389043.jpg</filename>
-  <lastupdated>1340927118</lastupdated>
+  <lastupdated>1414160347</lastupdated>
   <seasonid>34610</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -2454,12 +2454,12 @@
 </Episode>
 <Episode>
   <id>389893</id>
-  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_episodenumber>3.0</Combined_episodenumber>
   <Combined_season>4</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>3.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>I Heart NJ</EpisodeName>
@@ -2476,7 +2476,7 @@
   <Writer>Greg Malins</Writer>
   <absolute_number>67</absolute_number>
   <filename>episodes/75760/389893.jpg</filename>
-  <lastupdated>1318196947</lastupdated>
+  <lastupdated>1414160379</lastupdated>
   <seasonid>34610</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -2485,12 +2485,12 @@
 </Episode>
 <Episode>
   <id>389891</id>
-  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_episodenumber>4.0</Combined_episodenumber>
   <Combined_season>4</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>4.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
   <Director>Michael J. Shea</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Intervention</EpisodeName>
@@ -2507,7 +2507,7 @@
   <Writer>Stephen Lloyd</Writer>
   <absolute_number>68</absolute_number>
   <filename>episodes/75760/389891.jpg</filename>
-  <lastupdated>1391281789</lastupdated>
+  <lastupdated>1414160395</lastupdated>
   <seasonid>34610</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -2516,12 +2516,12 @@
 </Episode>
 <Episode>
   <id>389892</id>
-  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_episodenumber>5.0</Combined_episodenumber>
   <Combined_season>4</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>5.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Shelter Island</EpisodeName>
@@ -2538,7 +2538,7 @@
   <Writer>Chris Harris</Writer>
   <absolute_number>69</absolute_number>
   <filename>episodes/75760/389892.jpg</filename>
-  <lastupdated>1388091743</lastupdated>
+  <lastupdated>1414160407</lastupdated>
   <seasonid>34610</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -2547,12 +2547,12 @@
 </Episode>
 <Episode>
   <id>395634</id>
-  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_episodenumber>6.0</Combined_episodenumber>
   <Combined_season>4</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>6.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Happily Ever After</EpisodeName>
@@ -2564,12 +2564,12 @@
   <Overview>A serendipitous meeting with someone from his past has Ted thinking about how he would handle running into someone he would prefer to forget.</Overview>
   <ProductionCode>4ALH06</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>167</RatingCount>
+  <RatingCount>168</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Jamie Rhonheimer</Writer>
   <absolute_number>70</absolute_number>
   <filename>episodes/75760/395634.jpg</filename>
-  <lastupdated>1388091763</lastupdated>
+  <lastupdated>1414160431</lastupdated>
   <seasonid>34610</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -2578,12 +2578,12 @@
 </Episode>
 <Episode>
   <id>395635</id>
-  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_episodenumber>7.0</Combined_episodenumber>
   <Combined_season>4</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>7.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Not a Father's Day</EpisodeName>
@@ -2595,12 +2595,12 @@
   <Overview>Barney creates a holiday to celebrate not being a father. Meanwhile, Lily and Marshall are considering having a baby, but Lily first wants advice from Ted and Robin.</Overview>
   <ProductionCode>4ALH07</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>157</RatingCount>
+  <RatingCount>158</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Robia Rashid</Writer>
   <absolute_number>71</absolute_number>
   <filename>episodes/75760/395635.jpg</filename>
-  <lastupdated>1355514430</lastupdated>
+  <lastupdated>1414160478</lastupdated>
   <seasonid>34610</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -2609,12 +2609,12 @@
 </Episode>
 <Episode>
   <id>395636</id>
-  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_episodenumber>8.0</Combined_episodenumber>
   <Combined_season>4</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>8.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Woooo!</EpisodeName>
@@ -2626,12 +2626,12 @@
   <Overview>A birthday party for one of Lily's co-workers leads to Robin connecting with a group of single partiers known as the &quot;Woo Girls&quot;. Ted presents a plan for Goliath National Bank's new HQ.</Overview>
   <ProductionCode>4ALH08</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>164</RatingCount>
+  <RatingCount>165</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Carter Bays|Craig Thomas</Writer>
   <absolute_number>72</absolute_number>
   <filename>episodes/75760/395636.jpg</filename>
-  <lastupdated>1355514451</lastupdated>
+  <lastupdated>1414160517</lastupdated>
   <seasonid>34610</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -2640,12 +2640,12 @@
 </Episode>
 <Episode>
   <id>405238</id>
-  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_episodenumber>9.0</Combined_episodenumber>
   <Combined_season>4</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>9.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>The Naked Man</EpisodeName>
@@ -2662,7 +2662,7 @@
   <Writer>Joe Kelly</Writer>
   <absolute_number>73</absolute_number>
   <filename>episodes/75760/405238.jpg</filename>
-  <lastupdated>1387549224</lastupdated>
+  <lastupdated>1414160527</lastupdated>
   <seasonid>34610</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -2671,12 +2671,12 @@
 </Episode>
 <Episode>
   <id>405239</id>
-  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_episodenumber>10.0</Combined_episodenumber>
   <Combined_season>4</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>10.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>The Fight</EpisodeName>
@@ -2693,7 +2693,7 @@
   <Writer>Theresa Mulligan Rosenthal</Writer>
   <absolute_number>74</absolute_number>
   <filename>episodes/75760/405239.jpg</filename>
-  <lastupdated>1388751955</lastupdated>
+  <lastupdated>1414160537</lastupdated>
   <seasonid>34610</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -2702,12 +2702,12 @@
 </Episode>
 <Episode>
   <id>413503</id>
-  <Combined_episodenumber>11</Combined_episodenumber>
+  <Combined_episodenumber>11.0</Combined_episodenumber>
   <Combined_season>4</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>11.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Little Minnesota</EpisodeName>
@@ -2724,7 +2724,7 @@
   <Writer>Chuck Tatham</Writer>
   <absolute_number>75</absolute_number>
   <filename>episodes/75760/413503.jpg</filename>
-  <lastupdated>1388836042</lastupdated>
+  <lastupdated>1414160622</lastupdated>
   <seasonid>34610</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -2733,12 +2733,12 @@
 </Episode>
 <Episode>
   <id>417814</id>
-  <Combined_episodenumber>12</Combined_episodenumber>
+  <Combined_episodenumber>12.0</Combined_episodenumber>
   <Combined_season>4</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>12.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Benefits</EpisodeName>
@@ -2755,7 +2755,7 @@
   <Writer>Kourtney Kang</Writer>
   <absolute_number>76</absolute_number>
   <filename>episodes/75760/417814.jpg</filename>
-  <lastupdated>1318197368</lastupdated>
+  <lastupdated>1414160636</lastupdated>
   <seasonid>34610</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -2764,12 +2764,12 @@
 </Episode>
 <Episode>
   <id>423101</id>
-  <Combined_episodenumber>13</Combined_episodenumber>
+  <Combined_episodenumber>13.0</Combined_episodenumber>
   <Combined_season>4</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>13.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Three Days of Snow</EpisodeName>
@@ -2786,7 +2786,7 @@
   <Writer>Matt Kuhn</Writer>
   <absolute_number>77</absolute_number>
   <filename>episodes/75760/423101.jpg</filename>
-  <lastupdated>1318197404</lastupdated>
+  <lastupdated>1414160660</lastupdated>
   <seasonid>34610</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -2795,12 +2795,12 @@
 </Episode>
 <Episode>
   <id>423607</id>
-  <Combined_episodenumber>14</Combined_episodenumber>
+  <Combined_episodenumber>14.0</Combined_episodenumber>
   <Combined_season>4</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>14.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>The Possimpible</EpisodeName>
@@ -2817,7 +2817,7 @@
   <Writer>Jonathan Groff</Writer>
   <absolute_number>78</absolute_number>
   <filename>episodes/75760/423607.jpg</filename>
-  <lastupdated>1318197441</lastupdated>
+  <lastupdated>1414160693</lastupdated>
   <seasonid>34610</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -2826,12 +2826,12 @@
 </Episode>
 <Episode>
   <id>430613</id>
-  <Combined_episodenumber>15</Combined_episodenumber>
+  <Combined_episodenumber>15.0</Combined_episodenumber>
   <Combined_season>4</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>15.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>The Stinsons</EpisodeName>
@@ -2848,7 +2848,7 @@
   <Writer>|Carter Bays|Craig Thomas|</Writer>
   <absolute_number>79</absolute_number>
   <filename>episodes/75760/430613.jpg</filename>
-  <lastupdated>1318197479</lastupdated>
+  <lastupdated>1414160711</lastupdated>
   <seasonid>34610</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -2857,12 +2857,12 @@
 </Episode>
 <Episode>
   <id>441084</id>
-  <Combined_episodenumber>16</Combined_episodenumber>
+  <Combined_episodenumber>16.0</Combined_episodenumber>
   <Combined_season>4</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>16.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Sorry, Bro</EpisodeName>
@@ -2879,7 +2879,7 @@
   <Writer>|Craig Gerard|Matthew Zinman|</Writer>
   <absolute_number>80</absolute_number>
   <filename>episodes/75760/441084.jpg</filename>
-  <lastupdated>1381698690</lastupdated>
+  <lastupdated>1414160733</lastupdated>
   <seasonid>34610</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -2888,12 +2888,12 @@
 </Episode>
 <Episode>
   <id>441631</id>
-  <Combined_episodenumber>17</Combined_episodenumber>
+  <Combined_episodenumber>17.0</Combined_episodenumber>
   <Combined_season>4</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>17.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
   <Director>Rob Greenberg</Director>
   <EpImgFlag>7</EpImgFlag>
   <EpisodeName>The Front Porch</EpisodeName>
@@ -2910,7 +2910,7 @@
   <Writer>Chris Harris</Writer>
   <absolute_number>81</absolute_number>
   <filename>episodes/75760/441631.jpg</filename>
-  <lastupdated>1318197554</lastupdated>
+  <lastupdated>1414160746</lastupdated>
   <seasonid>34610</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -2919,12 +2919,12 @@
 </Episode>
 <Episode>
   <id>446079</id>
-  <Combined_episodenumber>18</Combined_episodenumber>
+  <Combined_episodenumber>18.0</Combined_episodenumber>
   <Combined_season>4</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>18.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>3</EpImgFlag>
   <EpisodeName>Old King Clancy</EpisodeName>
@@ -2941,7 +2941,7 @@
   <Writer>Jamie Rhonheimer</Writer>
   <absolute_number>82</absolute_number>
   <filename>episodes/75760/446079.jpg</filename>
-  <lastupdated>1340927145</lastupdated>
+  <lastupdated>1414160777</lastupdated>
   <seasonid>34610</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -2950,12 +2950,12 @@
 </Episode>
 <Episode>
   <id>446080</id>
-  <Combined_episodenumber>19</Combined_episodenumber>
+  <Combined_episodenumber>19.0</Combined_episodenumber>
   <Combined_season>4</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>19.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>7</EpImgFlag>
   <EpisodeName>Murtaugh</EpisodeName>
@@ -2972,7 +2972,7 @@
   <Writer>Joe Kelly</Writer>
   <absolute_number>83</absolute_number>
   <filename>episodes/75760/446080.jpg</filename>
-  <lastupdated>1318197641</lastupdated>
+  <lastupdated>1414160816</lastupdated>
   <seasonid>34610</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -2981,12 +2981,12 @@
 </Episode>
 <Episode>
   <id>446081</id>
-  <Combined_episodenumber>20</Combined_episodenumber>
+  <Combined_episodenumber>20.0</Combined_episodenumber>
   <Combined_season>4</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>20.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>7</EpImgFlag>
   <EpisodeName>Mosbius Designs</EpisodeName>
@@ -2997,13 +2997,13 @@
   <Language>en</Language>
   <Overview>Ted goes out on his own as an architect and hires an intern to help get things started, but the intern gets a little too close to others in the gang.</Overview>
   <ProductionCode>4ALH20</ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>157</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>158</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Kourtney Kang</Writer>
   <absolute_number>84</absolute_number>
   <filename>episodes/75760/446081.jpg</filename>
-  <lastupdated>1390832037</lastupdated>
+  <lastupdated>1414161015</lastupdated>
   <seasonid>34610</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -3012,12 +3012,12 @@
 </Episode>
 <Episode>
   <id>549341</id>
-  <Combined_episodenumber>21</Combined_episodenumber>
+  <Combined_episodenumber>21.0</Combined_episodenumber>
   <Combined_season>4</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>21.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>7</EpImgFlag>
   <EpisodeName>The Three Days Rule</EpisodeName>
@@ -3029,12 +3029,12 @@
   <Overview>Ted breaks one of Barney and Marshall's relationship rules, texting a woman he recently met, so the pair play a joke on Ted by pretending to be the woman.</Overview>
   <ProductionCode>4ALH21</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>165</RatingCount>
+  <RatingCount>166</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Greg Malins</Writer>
   <absolute_number>85</absolute_number>
   <filename>episodes/75760/549341.jpg</filename>
-  <lastupdated>1318197725</lastupdated>
+  <lastupdated>1414161031</lastupdated>
   <seasonid>34610</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -3043,12 +3043,12 @@
 </Episode>
 <Episode>
   <id>588941</id>
-  <Combined_episodenumber>22</Combined_episodenumber>
+  <Combined_episodenumber>22.0</Combined_episodenumber>
   <Combined_season>4</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>22.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>7</EpImgFlag>
   <EpisodeName>Right Place Right Time</EpisodeName>
@@ -3060,12 +3060,12 @@
   <Overview>Ted ponders how being in the right place at the right time can impact a person's life; Barney celebrates his 200th female conquest.</Overview>
   <ProductionCode>4ALH22</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>163</RatingCount>
+  <RatingCount>164</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Stephen Lloyd</Writer>
   <absolute_number>86</absolute_number>
   <filename>episodes/75760/588941.jpg</filename>
-  <lastupdated>1318197757</lastupdated>
+  <lastupdated>1414161075</lastupdated>
   <seasonid>34610</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -3074,12 +3074,12 @@
 </Episode>
 <Episode>
   <id>588951</id>
-  <Combined_episodenumber>23</Combined_episodenumber>
+  <Combined_episodenumber>23.0</Combined_episodenumber>
   <Combined_season>4</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>23.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>7</EpImgFlag>
   <EpisodeName>As Fast as She Can</EpisodeName>
@@ -3096,7 +3096,7 @@
   <Writer>Carter Bays|Craig Thomas</Writer>
   <absolute_number>87</absolute_number>
   <filename>episodes/75760/588951.jpg</filename>
-  <lastupdated>1359134990</lastupdated>
+  <lastupdated>1414161088</lastupdated>
   <seasonid>34610</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -3105,12 +3105,12 @@
 </Episode>
 <Episode>
   <id>588961</id>
-  <Combined_episodenumber>24</Combined_episodenumber>
+  <Combined_episodenumber>24.0</Combined_episodenumber>
   <Combined_season>4</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>24.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>The Leap</EpisodeName>
@@ -3127,7 +3127,7 @@
   <Writer>|Carter Bays|Craig Thomas|</Writer>
   <absolute_number>88</absolute_number>
   <filename>episodes/75760/588961.jpg</filename>
-  <lastupdated>1318197823</lastupdated>
+  <lastupdated>1414161116</lastupdated>
   <seasonid>34610</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -3158,7 +3158,7 @@
   <Writer>|Carter Bays|Craig Thomas|</Writer>
   <absolute_number>89</absolute_number>
   <filename>episodes/75760/792741.jpg</filename>
-  <lastupdated>1341518533</lastupdated>
+  <lastupdated>1406363403</lastupdated>
   <seasonid>82511</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -3189,7 +3189,7 @@
   <Writer>Matt Kuhn</Writer>
   <absolute_number>90</absolute_number>
   <filename>episodes/75760/1088351.jpg</filename>
-  <lastupdated>1341518581</lastupdated>
+  <lastupdated>1406363422</lastupdated>
   <seasonid>82511</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -3220,7 +3220,7 @@
   <Writer>Kourtney Kang</Writer>
   <absolute_number>91</absolute_number>
   <filename>episodes/75760/1089771.jpg</filename>
-  <lastupdated>1401610318</lastupdated>
+  <lastupdated>1406363434</lastupdated>
   <seasonid>82511</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -3251,7 +3251,7 @@
   <Writer>|Carter Bays|Craig Thomas|</Writer>
   <absolute_number>92</absolute_number>
   <filename>episodes/75760/1089781.jpg</filename>
-  <lastupdated>1381698739</lastupdated>
+  <lastupdated>1406363446</lastupdated>
   <seasonid>82511</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -3282,7 +3282,7 @@
   <Writer>Chuck Tatham</Writer>
   <absolute_number>93</absolute_number>
   <filename>episodes/75760/1089791.jpg</filename>
-  <lastupdated>1392933724</lastupdated>
+  <lastupdated>1406363459</lastupdated>
   <seasonid>82511</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -3313,7 +3313,7 @@
   <Writer>Robia Rashid</Writer>
   <absolute_number>94</absolute_number>
   <filename>episodes/75760/1089801.jpg</filename>
-  <lastupdated>1392933754</lastupdated>
+  <lastupdated>1406363471</lastupdated>
   <seasonid>82511</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -3344,7 +3344,7 @@
   <Writer>Chris Harris</Writer>
   <absolute_number>95</absolute_number>
   <filename>episodes/75760/1243321.jpg</filename>
-  <lastupdated>1392933775</lastupdated>
+  <lastupdated>1406363493</lastupdated>
   <seasonid>82511</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -3370,12 +3370,12 @@
   <Overview>After his relationship with Robin ends, Barney dusts off his &quot;playbook&quot; to help him back into the dating scene</Overview>
   <ProductionCode>5ALH08</ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>174</RatingCount>
+  <RatingCount>175</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>|Carter Bays|Craig Thomas|</Writer>
   <absolute_number>96</absolute_number>
   <filename>episodes/75760/1243331.jpg</filename>
-  <lastupdated>1341518654</lastupdated>
+  <lastupdated>1406363509</lastupdated>
   <seasonid>82511</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -3406,7 +3406,7 @@
   <Writer>Jamie Rhonheimer</Writer>
   <absolute_number>97</absolute_number>
   <filename>episodes/75760/1309971.jpg</filename>
-  <lastupdated>1393713556</lastupdated>
+  <lastupdated>1406363523</lastupdated>
   <seasonid>82511</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -3432,12 +3432,12 @@
   <Overview>When a perfect girl finally shows up, the gang tries everything to help Ted, while Marshall takes action when he discovers a letter written by younger himself.</Overview>
   <ProductionCode>5ALH10</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>167</RatingCount>
+  <RatingCount>168</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Joe Kelly</Writer>
   <absolute_number>98</absolute_number>
   <filename>episodes/75760/1312641.jpg</filename>
-  <lastupdated>1341518692</lastupdated>
+  <lastupdated>1406363538</lastupdated>
   <seasonid>82511</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -3468,7 +3468,7 @@
   <Writer>Theresa Mulligan Rosenthal</Writer>
   <absolute_number>99</absolute_number>
   <filename>episodes/75760/1312651.jpg</filename>
-  <lastupdated>1384522500</lastupdated>
+  <lastupdated>1406363559</lastupdated>
   <seasonid>82511</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -3499,7 +3499,7 @@
   <Writer>|Carter Bays|Craig Thomas|</Writer>
   <absolute_number>100</absolute_number>
   <filename>episodes/75760/1312661.jpg</filename>
-  <lastupdated>1384522485</lastupdated>
+  <lastupdated>1406363571</lastupdated>
   <seasonid>82511</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -3530,7 +3530,7 @@
   <Writer>Greg Malins</Writer>
   <absolute_number>101</absolute_number>
   <filename>episodes/75760/1359081.jpg</filename>
-  <lastupdated>1384522910</lastupdated>
+  <lastupdated>1406363588</lastupdated>
   <seasonid>82511</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -3561,7 +3561,7 @@
   <Writer>|Graig Gerard|Matt Zinman|</Writer>
   <absolute_number>102</absolute_number>
   <filename>episodes/75760/1366251.jpg</filename>
-  <lastupdated>1403312476</lastupdated>
+  <lastupdated>1406363614</lastupdated>
   <seasonid>82511</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -3588,12 +3588,12 @@
 Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.</Overview>
   <ProductionCode>5ALH15</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>184</RatingCount>
+  <RatingCount>185</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>|Carter Bays|Craig Thomas|</Writer>
   <absolute_number>103</absolute_number>
   <filename>episodes/75760/1501921.jpg</filename>
-  <lastupdated>1400741508</lastupdated>
+  <lastupdated>1406363629</lastupdated>
   <seasonid>82511</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -3624,7 +3624,7 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Writer>Kourtney Kang</Writer>
   <absolute_number>104</absolute_number>
   <filename>episodes/75760/1502051.jpg</filename>
-  <lastupdated>1341518792</lastupdated>
+  <lastupdated>1406363640</lastupdated>
   <seasonid>82511</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -3655,7 +3655,7 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Writer>Matt Kuhn</Writer>
   <absolute_number>105</absolute_number>
   <filename>episodes/75760/1671031.jpg</filename>
-  <lastupdated>1384523334</lastupdated>
+  <lastupdated>1406363651</lastupdated>
   <seasonid>82511</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -3686,7 +3686,7 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Writer>Robia Rashid</Writer>
   <absolute_number>106</absolute_number>
   <filename>episodes/75760/1580151.jpg</filename>
-  <lastupdated>1384523353</lastupdated>
+  <lastupdated>1406363665</lastupdated>
   <seasonid>82511</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -3717,7 +3717,7 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Writer>Stephen Lloyd</Writer>
   <absolute_number>107</absolute_number>
   <filename>episodes/75760/1940861.jpg</filename>
-  <lastupdated>1341518822</lastupdated>
+  <lastupdated>1406363676</lastupdated>
   <seasonid>82511</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -3748,7 +3748,7 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Writer>Chris Harris</Writer>
   <absolute_number>108</absolute_number>
   <filename>episodes/75760/1947001.jpg</filename>
-  <lastupdated>1341518841</lastupdated>
+  <lastupdated>1406363688</lastupdated>
   <seasonid>82511</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -3779,7 +3779,7 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Writer>Theresa Mulligan Rosenthal</Writer>
   <absolute_number>109</absolute_number>
   <filename>episodes/75760/1975631.jpg</filename>
-  <lastupdated>1341518856</lastupdated>
+  <lastupdated>1406363699</lastupdated>
   <seasonid>82511</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -3810,7 +3810,7 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Writer>Jamie Rhonheimer</Writer>
   <absolute_number>110</absolute_number>
   <filename>episodes/75760/2018471.jpg</filename>
-  <lastupdated>1341518867</lastupdated>
+  <lastupdated>1406363718</lastupdated>
   <seasonid>82511</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -3841,7 +3841,7 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Writer>Stephen Lloyd</Writer>
   <absolute_number>111</absolute_number>
   <filename>episodes/75760/2097141.jpg</filename>
-  <lastupdated>1341518879</lastupdated>
+  <lastupdated>1406363733</lastupdated>
   <seasonid>82511</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -3872,7 +3872,7 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Writer>|Carter Bays|Craig Thomas|</Writer>
   <absolute_number>112</absolute_number>
   <filename>episodes/75760/2097031.jpg</filename>
-  <lastupdated>1341518889</lastupdated>
+  <lastupdated>1406363746</lastupdated>
   <seasonid>82511</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -3888,7 +3888,7 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <DVD_episodenumber>1.0</DVD_episodenumber>
   <DVD_season>6</DVD_season>
   <Director>Pamela Fryman</Director>
-  <EpImgFlag>2</EpImgFlag>
+  <EpImgFlag></EpImgFlag>
   <EpisodeName>Big Days</EpisodeName>
   <EpisodeNumber>1</EpisodeNumber>
   <FirstAired>2010-09-20</FirstAired>
@@ -3902,13 +3902,13 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <SeasonNumber>6</SeasonNumber>
   <Writer>|Carter Bays|Craig Thomas|</Writer>
   <absolute_number>113</absolute_number>
-  <filename>episodes/75760/2545911.jpg</filename>
-  <lastupdated>1396710467</lastupdated>
+  <filename></filename>
+  <lastupdated>1407832376</lastupdated>
   <seasonid>287351</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
-  <thumb_height>225</thumb_height>
-  <thumb_width>400</thumb_width>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
 </Episode>
 <Episode>
   <id>2737691</id>
@@ -3934,7 +3934,7 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Writer>Stephen Lloyd</Writer>
   <absolute_number>114</absolute_number>
   <filename>episodes/75760/2737691.jpg</filename>
-  <lastupdated>1396710365</lastupdated>
+  <lastupdated>1406799844</lastupdated>
   <seasonid>287351</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -3965,7 +3965,7 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Writer>Jamie Rhonheimer</Writer>
   <absolute_number>115</absolute_number>
   <filename>episodes/75760/2764221.jpg</filename>
-  <lastupdated>1396710387</lastupdated>
+  <lastupdated>1406799861</lastupdated>
   <seasonid>287351</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -3996,7 +3996,7 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Writer>Chris Harris</Writer>
   <absolute_number>116</absolute_number>
   <filename>episodes/75760/2764231.jpg</filename>
-  <lastupdated>1396710398</lastupdated>
+  <lastupdated>1406799871</lastupdated>
   <seasonid>287351</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -4027,7 +4027,7 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Writer>|Carter Bays|Craig Thomas|</Writer>
   <absolute_number>117</absolute_number>
   <filename>episodes/75760/2764241.jpg</filename>
-  <lastupdated>1385749636</lastupdated>
+  <lastupdated>1406799883</lastupdated>
   <seasonid>287351</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -4058,7 +4058,7 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Writer>Joe Kelly</Writer>
   <absolute_number>118</absolute_number>
   <filename>episodes/75760/2964591.jpg</filename>
-  <lastupdated>1389918294</lastupdated>
+  <lastupdated>1406799893</lastupdated>
   <seasonid>287351</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -4084,12 +4084,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Overview>When Zoey enrolls in Ted's class, she manipulates his students into taking her side in the fight to save the building being torn down to make room for his project. Meanwhile, Marshall and Lily spot Robin marching in the Halloween parade of shame.</Overview>
   <ProductionCode>6ALH06</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>230</RatingCount>
+  <RatingCount>231</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>Chuck Tatham</Writer>
   <absolute_number>119</absolute_number>
   <filename>episodes/75760/2916431.jpg</filename>
-  <lastupdated>1385749906</lastupdated>
+  <lastupdated>1406799905</lastupdated>
   <seasonid>287351</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -4120,7 +4120,7 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Writer>|Carter Bays|Craig Thomas|</Writer>
   <absolute_number>120</absolute_number>
   <filename>episodes/75760/2994871.jpg</filename>
-  <lastupdated>1385749931</lastupdated>
+  <lastupdated>1406799918</lastupdated>
   <seasonid>287351</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -4146,12 +4146,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Overview>Barney's discovery of a Canadian kids show called Space Teens, that Robin appeared on as Robin Sparkles, leads the gang to get her to reach out to her co-star, Jessica Glitter.</Overview>
   <ProductionCode>6ALH09</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>231</RatingCount>
+  <RatingCount>232</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>Kourtney Kang</Writer>
   <absolute_number>121</absolute_number>
   <filename>episodes/75760/3052941.jpg</filename>
-  <lastupdated>1385750183</lastupdated>
+  <lastupdated>1406799929</lastupdated>
   <seasonid>287351</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -4177,12 +4177,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Overview>When Ted leaves the bar early to prepare a Thanksgiving feast for his friends, the gang winds up partying all night with The Blitz, an old friend from college who has bad luck. As a result Ted is forced to spend Thanksgiving with Zoey.</Overview>
   <ProductionCode>6ALH10</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>240</RatingCount>
+  <RatingCount>241</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>Theresa Mulligan Rosenthal</Writer>
   <absolute_number>122</absolute_number>
   <filename>episodes/75760/3055601.jpg</filename>
-  <lastupdated>1385750199</lastupdated>
+  <lastupdated>1406799941</lastupdated>
   <seasonid>287351</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -4213,7 +4213,7 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Writer>Robia Rashid</Writer>
   <absolute_number>123</absolute_number>
   <filename>episodes/75760/3171951.jpg</filename>
-  <lastupdated>1385750336</lastupdated>
+  <lastupdated>1406799951</lastupdated>
   <seasonid>287351</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -4244,7 +4244,7 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Writer>|Craig Gerard|Matthew Zinman|</Writer>
   <absolute_number>124</absolute_number>
   <filename>episodes/75760/3193551.jpg</filename>
-  <lastupdated>1385750347</lastupdated>
+  <lastupdated>1406799960</lastupdated>
   <seasonid>287351</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -4270,12 +4270,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Overview>Afraid they will never get pregnant, Lily and Marshall decide to see a specialist. Robin begins her new job.</Overview>
   <ProductionCode>6ALH13</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>235</RatingCount>
+  <RatingCount>236</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>Jennifer Hendriks</Writer>
   <absolute_number>125</absolute_number>
   <filename>episodes/75760/3233191.jpg</filename>
-  <lastupdated>1385750580</lastupdated>
+  <lastupdated>1406799970</lastupdated>
   <seasonid>287351</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -4301,12 +4301,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Overview>While on a trip to Minnesota, Ted and Barney try anything to make Marshall laugh. Marshall runs into an old nemesis from high school.</Overview>
   <ProductionCode>6ALH14</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>230</RatingCount>
+  <RatingCount>231</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>|Carter Bays|Craig Thomas|</Writer>
   <absolute_number>126</absolute_number>
   <filename>episodes/75760/3406451.jpg</filename>
-  <lastupdated>1385750594</lastupdated>
+  <lastupdated>1406799981</lastupdated>
   <seasonid>287351</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -4337,7 +4337,7 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Writer>|Carter Bays|Craig Thomas|</Writer>
   <absolute_number>127</absolute_number>
   <filename>episodes/75760/3497811.jpg</filename>
-  <lastupdated>1386270750</lastupdated>
+  <lastupdated>1406799996</lastupdated>
   <seasonid>287351</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -4363,12 +4363,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Overview>Barney declares February 13th a holiday for desperate women. Marshall receives a Valentine's Day surprise from Lily. Zoey and Ted work on figuring out their relationship.</Overview>
   <ProductionCode>6ALH16</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>239</RatingCount>
+  <RatingCount>240</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>Tami Sagher</Writer>
   <absolute_number>128</absolute_number>
   <filename>episodes/75760/3653951.jpg</filename>
-  <lastupdated>1386270772</lastupdated>
+  <lastupdated>1406800007</lastupdated>
   <seasonid>287351</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -4394,12 +4394,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Overview>Marshall becomes obsessed with saving the environment after seeing a documentary on garbage. Ted runs into The Captain. Barney admits he has feelings for a woman.</Overview>
   <ProductionCode>6ALH17</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>231</RatingCount>
+  <RatingCount>232</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>Tom Ruprecht</Writer>
   <absolute_number>129</absolute_number>
   <filename>episodes/75760/3653961.jpg</filename>
-  <lastupdated>1391283621</lastupdated>
+  <lastupdated>1406800017</lastupdated>
   <seasonid>287351</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -4430,7 +4430,7 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Writer>Matt Kuhn</Writer>
   <absolute_number>130</absolute_number>
   <filename>episodes/75760/3696911.jpg</filename>
-  <lastupdated>1386271092</lastupdated>
+  <lastupdated>1406800028</lastupdated>
   <seasonid>287351</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -4461,7 +4461,7 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Writer>|Doug Mand|Dan Gregor|</Writer>
   <absolute_number>131</absolute_number>
   <filename>episodes/75760/3696921.jpg</filename>
-  <lastupdated>1386271291</lastupdated>
+  <lastupdated>1406800050</lastupdated>
   <seasonid>287351</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -4492,7 +4492,7 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Writer>Steven Lloyd</Writer>
   <absolute_number>132</absolute_number>
   <filename>episodes/75760/3696931.jpg</filename>
-  <lastupdated>1386271302</lastupdated>
+  <lastupdated>1406800067</lastupdated>
   <seasonid>287351</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -4523,7 +4523,7 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Writer>Pamela Fryman</Writer>
   <absolute_number>133</absolute_number>
   <filename>episodes/75760/3950721.jpg</filename>
-  <lastupdated>1386271567</lastupdated>
+  <lastupdated>1406800077</lastupdated>
   <seasonid>287351</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -4554,7 +4554,7 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Writer>Joe Kelly</Writer>
   <absolute_number>134</absolute_number>
   <filename>episodes/75760/3696941.jpg</filename>
-  <lastupdated>1386271577</lastupdated>
+  <lastupdated>1406800086</lastupdated>
   <seasonid>287351</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -4563,12 +4563,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
 </Episode>
 <Episode>
   <id>3950731</id>
-  <Combined_episodenumber>23</Combined_episodenumber>
+  <Combined_episodenumber>23.0</Combined_episodenumber>
   <Combined_season>6</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>23.0</DVD_episodenumber>
+  <DVD_season>6</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Landmarks</EpisodeName>
@@ -4585,7 +4585,7 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Writer>|Carter Bays|Craig Thomas|</Writer>
   <absolute_number>135</absolute_number>
   <filename>episodes/75760/3950731.jpg</filename>
-  <lastupdated>1401265009</lastupdated>
+  <lastupdated>1414136186</lastupdated>
   <seasonid>287351</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -4616,7 +4616,7 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Writer>|Carter Bays|Craig Thomas|</Writer>
   <absolute_number>136</absolute_number>
   <filename>episodes/75760/3950741.jpg</filename>
-  <lastupdated>1401265031</lastupdated>
+  <lastupdated>1406800130</lastupdated>
   <seasonid>287351</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -4625,12 +4625,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
 </Episode>
 <Episode>
   <id>4120781</id>
-  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_episodenumber>1.0</Combined_episodenumber>
   <Combined_season>7</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>1.0</DVD_episodenumber>
+  <DVD_season>7</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>The Best Man</EpisodeName>
@@ -4647,7 +4647,7 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Writer>|Carter Bays|Craig Thomas|</Writer>
   <absolute_number>137</absolute_number>
   <filename>episodes/75760/4120781.jpg</filename>
-  <lastupdated>1387104832</lastupdated>
+  <lastupdated>1414161223</lastupdated>
   <seasonid>468478</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -4656,12 +4656,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
 </Episode>
 <Episode>
   <id>4123348</id>
-  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_episodenumber>2.0</Combined_episodenumber>
   <Combined_season>7</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>2.0</DVD_episodenumber>
+  <DVD_season>7</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>The Naked Truth</EpisodeName>
@@ -4678,7 +4678,7 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Writer>Stephen Lloyd</Writer>
   <absolute_number>138</absolute_number>
   <filename>episodes/75760/4123348.jpg</filename>
-  <lastupdated>1387104878</lastupdated>
+  <lastupdated>1414161294</lastupdated>
   <seasonid>468478</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -4687,12 +4687,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
 </Episode>
 <Episode>
   <id>4154006</id>
-  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_episodenumber>3.0</Combined_episodenumber>
   <Combined_season>7</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>3.0</DVD_episodenumber>
+  <DVD_season>7</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Ducky Tie</EpisodeName>
@@ -4707,9 +4707,9 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <RatingCount>218</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer>|Carter Bays|Craig Thomas|</Writer>
-  <absolute_number>139</absolute_number>
+  <absolute_number></absolute_number>
   <filename>episodes/75760/4154006.jpg</filename>
-  <lastupdated>1387105253</lastupdated>
+  <lastupdated>1414161319</lastupdated>
   <seasonid>468478</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -4718,12 +4718,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
 </Episode>
 <Episode>
   <id>4154007</id>
-  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_episodenumber>4.0</Combined_episodenumber>
   <Combined_season>7</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>4.0</DVD_episodenumber>
+  <DVD_season>7</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>The Stinson Missile Crisis</EpisodeName>
@@ -4740,7 +4740,7 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Writer>Kourtney Kang</Writer>
   <absolute_number>140</absolute_number>
   <filename>episodes/75760/4154007.jpg</filename>
-  <lastupdated>1387105272</lastupdated>
+  <lastupdated>1414161343</lastupdated>
   <seasonid>468478</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -4749,12 +4749,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
 </Episode>
 <Episode>
   <id>4155042</id>
-  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_episodenumber>5.0</Combined_episodenumber>
   <Combined_season>7</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>5.0</DVD_episodenumber>
+  <DVD_season>7</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Field Trip</EpisodeName>
@@ -4771,7 +4771,7 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Writer>Jamie Rhonheimer</Writer>
   <absolute_number>141</absolute_number>
   <filename>episodes/75760/4155042.jpg</filename>
-  <lastupdated>1387105900</lastupdated>
+  <lastupdated>1414161369</lastupdated>
   <seasonid>468478</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -4780,12 +4780,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
 </Episode>
 <Episode>
   <id>4179645</id>
-  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_episodenumber>6.0</Combined_episodenumber>
   <Combined_season>7</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>6.0</DVD_episodenumber>
+  <DVD_season>7</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Mystery Vs. History</EpisodeName>
@@ -4802,7 +4802,7 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Writer>Chuck Tatham</Writer>
   <absolute_number>142</absolute_number>
   <filename>episodes/75760/4179645.jpg</filename>
-  <lastupdated>1403312850</lastupdated>
+  <lastupdated>1414161421</lastupdated>
   <seasonid>468478</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -4811,12 +4811,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
 </Episode>
 <Episode>
   <id>4186890</id>
-  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_episodenumber>7.0</Combined_episodenumber>
   <Combined_season>7</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>7.0</DVD_episodenumber>
+  <DVD_season>7</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Noretta</EpisodeName>
@@ -4833,7 +4833,7 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Writer>Matt Kuhn</Writer>
   <absolute_number>143</absolute_number>
   <filename>episodes/75760/4186890.jpg</filename>
-  <lastupdated>1389191959</lastupdated>
+  <lastupdated>1414161466</lastupdated>
   <seasonid>468478</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -4842,12 +4842,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
 </Episode>
 <Episode>
   <id>4186891</id>
-  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_episodenumber>8.0</Combined_episodenumber>
   <Combined_season>7</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>8.0</DVD_episodenumber>
+  <DVD_season>7</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>The Slutty Pumpkin Returns</EpisodeName>
@@ -4865,7 +4865,7 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Writer>Tami Sagher</Writer>
   <absolute_number>144</absolute_number>
   <filename>episodes/75760/4186891.jpg</filename>
-  <lastupdated>1387106011</lastupdated>
+  <lastupdated>1414161727</lastupdated>
   <seasonid>468478</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -4874,12 +4874,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
 </Episode>
 <Episode>
   <id>4186892</id>
-  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_episodenumber>9.0</Combined_episodenumber>
   <Combined_season>7</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>9.0</DVD_episodenumber>
+  <DVD_season>7</DVD_season>
   <Director>Michael J. Shea</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Disaster Averted</EpisodeName>
@@ -4896,7 +4896,7 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Writer>Robia Rashid</Writer>
   <absolute_number>145</absolute_number>
   <filename>episodes/75760/4186892.jpg</filename>
-  <lastupdated>1391283654</lastupdated>
+  <lastupdated>1414161844</lastupdated>
   <seasonid>468478</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -4905,12 +4905,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
 </Episode>
 <Episode>
   <id>4194100</id>
-  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_episodenumber>10.0</Combined_episodenumber>
   <Combined_season>7</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>10.0</DVD_episodenumber>
+  <DVD_season>7</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Tick Tick Tick</EpisodeName>
@@ -4927,7 +4927,7 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Writer>Chris Harris</Writer>
   <absolute_number>146</absolute_number>
   <filename>episodes/75760/4194100.jpg</filename>
-  <lastupdated>1403312897</lastupdated>
+  <lastupdated>1414161936</lastupdated>
   <seasonid>468478</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -4936,12 +4936,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
 </Episode>
 <Episode>
   <id>4195866</id>
-  <Combined_episodenumber>11</Combined_episodenumber>
+  <Combined_episodenumber>11.0</Combined_episodenumber>
   <Combined_season>7</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>11.0</DVD_episodenumber>
+  <DVD_season>7</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>The Rebound Girl</EpisodeName>
@@ -4958,7 +4958,7 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Writer>|Carter Bays|Craig Thomas|</Writer>
   <absolute_number>147</absolute_number>
   <filename>episodes/75760/4195866.jpg</filename>
-  <lastupdated>1387573231</lastupdated>
+  <lastupdated>1414162330</lastupdated>
   <seasonid>468478</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -4967,12 +4967,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
 </Episode>
 <Episode>
   <id>4195867</id>
-  <Combined_episodenumber>12</Combined_episodenumber>
+  <Combined_episodenumber>12.0</Combined_episodenumber>
   <Combined_season>7</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>12.0</DVD_episodenumber>
+  <DVD_season>7</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Symphony of Illumination</EpisodeName>
@@ -4989,7 +4989,7 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Writer>Joe Kelly</Writer>
   <absolute_number>148</absolute_number>
   <filename>episodes/75760/4195867.jpg</filename>
-  <lastupdated>1387573246</lastupdated>
+  <lastupdated>1414162486</lastupdated>
   <seasonid>468478</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -4998,12 +4998,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
 </Episode>
 <Episode>
   <id>4218702</id>
-  <Combined_episodenumber>13</Combined_episodenumber>
+  <Combined_episodenumber>13.0</Combined_episodenumber>
   <Combined_season>7</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>13.0</DVD_episodenumber>
+  <DVD_season>7</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Tailgate</EpisodeName>
@@ -5020,7 +5020,7 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Writer>Carter Bays|Craig Thomas</Writer>
   <absolute_number>149</absolute_number>
   <filename>episodes/75760/4218702.jpg</filename>
-  <lastupdated>1389192011</lastupdated>
+  <lastupdated>1414162566</lastupdated>
   <seasonid>468478</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -5029,12 +5029,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
 </Episode>
 <Episode>
   <id>4232096</id>
-  <Combined_episodenumber>14</Combined_episodenumber>
+  <Combined_episodenumber>14.0</Combined_episodenumber>
   <Combined_season>7</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>14.0</DVD_episodenumber>
+  <DVD_season>7</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>46 Minutes</EpisodeName>
@@ -5051,7 +5051,7 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Writer>Dan Gregor|Doug Mand</Writer>
   <absolute_number>150</absolute_number>
   <filename>episodes/75760/4232096.jpg</filename>
-  <lastupdated>1389192026</lastupdated>
+  <lastupdated>1414162575</lastupdated>
   <seasonid>468478</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -5060,12 +5060,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
 </Episode>
 <Episode>
   <id>4254101</id>
-  <Combined_episodenumber>15</Combined_episodenumber>
+  <Combined_episodenumber>15.0</Combined_episodenumber>
   <Combined_season>7</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>15.0</DVD_episodenumber>
+  <DVD_season>7</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>The Burning Beekeeper</EpisodeName>
@@ -5082,7 +5082,7 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Writer>Carter Bays|Craig Thomas</Writer>
   <absolute_number>151</absolute_number>
   <filename>episodes/75760/4254101.jpg</filename>
-  <lastupdated>1389192043</lastupdated>
+  <lastupdated>1414162591</lastupdated>
   <seasonid>468478</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -5091,12 +5091,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
 </Episode>
 <Episode>
   <id>4238933</id>
-  <Combined_episodenumber>16</Combined_episodenumber>
+  <Combined_episodenumber>16.0</Combined_episodenumber>
   <Combined_season>7</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>16.0</DVD_episodenumber>
+  <DVD_season>7</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>The Drunk Train</EpisodeName>
@@ -5113,7 +5113,7 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Writer>Craig Gerard|Matthew Zinman</Writer>
   <absolute_number>152</absolute_number>
   <filename>episodes/75760/4238933.jpg</filename>
-  <lastupdated>1387573364</lastupdated>
+  <lastupdated>1414162608</lastupdated>
   <seasonid>468478</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -5122,12 +5122,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
 </Episode>
 <Episode>
   <id>4253057</id>
-  <Combined_episodenumber>17</Combined_episodenumber>
+  <Combined_episodenumber>17.0</Combined_episodenumber>
   <Combined_season>7</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>17.0</DVD_episodenumber>
+  <DVD_season>7</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>No Pressure</EpisodeName>
@@ -5144,7 +5144,7 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Writer>George Sloan</Writer>
   <absolute_number>153</absolute_number>
   <filename>episodes/75760/4253057.jpg</filename>
-  <lastupdated>1387573378</lastupdated>
+  <lastupdated>1414162621</lastupdated>
   <seasonid>468478</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -5153,12 +5153,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
 </Episode>
 <Episode>
   <id>4256950</id>
-  <Combined_episodenumber>18</Combined_episodenumber>
+  <Combined_episodenumber>18.0</Combined_episodenumber>
   <Combined_season>7</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>18.0</DVD_episodenumber>
+  <DVD_season>7</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Karma</EpisodeName>
@@ -5175,7 +5175,7 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Writer>Stephen Lloyd</Writer>
   <absolute_number>154</absolute_number>
   <filename>episodes/75760/4256950.jpg</filename>
-  <lastupdated>1387573400</lastupdated>
+  <lastupdated>1414162633</lastupdated>
   <seasonid>468478</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -5184,12 +5184,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
 </Episode>
 <Episode>
   <id>4272471</id>
-  <Combined_episodenumber>19</Combined_episodenumber>
+  <Combined_episodenumber>19.0</Combined_episodenumber>
   <Combined_season>7</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>19.0</DVD_episodenumber>
+  <DVD_season>7</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>The Broath</EpisodeName>
@@ -5206,7 +5206,7 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Writer>Carter Bays|Craig Thomas</Writer>
   <absolute_number>155</absolute_number>
   <filename>episodes/75760/4272471.jpg</filename>
-  <lastupdated>1387573418</lastupdated>
+  <lastupdated>1414162645</lastupdated>
   <seasonid>468478</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -5215,12 +5215,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
 </Episode>
 <Episode>
   <id>4284540</id>
-  <Combined_episodenumber>20</Combined_episodenumber>
+  <Combined_episodenumber>20.0</Combined_episodenumber>
   <Combined_season>7</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>20.0</DVD_episodenumber>
+  <DVD_season>7</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Trilogy Time</EpisodeName>
@@ -5237,7 +5237,7 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Writer>Kourtney Kang</Writer>
   <absolute_number>156</absolute_number>
   <filename>episodes/75760/4284540.jpg</filename>
-  <lastupdated>1399225606</lastupdated>
+  <lastupdated>1414162656</lastupdated>
   <seasonid>468478</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -5246,12 +5246,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
 </Episode>
 <Episode>
   <id>4284537</id>
-  <Combined_episodenumber>21</Combined_episodenumber>
+  <Combined_episodenumber>21.0</Combined_episodenumber>
   <Combined_season>7</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>21.0</DVD_episodenumber>
+  <DVD_season>7</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Now We're Even</EpisodeName>
@@ -5268,7 +5268,7 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Writer>Chuck Tatham</Writer>
   <absolute_number>157</absolute_number>
   <filename>episodes/75760/4284537.jpg</filename>
-  <lastupdated>1403313006</lastupdated>
+  <lastupdated>1414162664</lastupdated>
   <seasonid>468478</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -5277,12 +5277,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
 </Episode>
 <Episode>
   <id>4277264</id>
-  <Combined_episodenumber>22</Combined_episodenumber>
+  <Combined_episodenumber>22.0</Combined_episodenumber>
   <Combined_season>7</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>22.0</DVD_episodenumber>
+  <DVD_season>7</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Good Crazy</EpisodeName>
@@ -5299,7 +5299,7 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Writer>Carter Bays|Craig Thomas</Writer>
   <absolute_number>158</absolute_number>
   <filename>episodes/75760/4277264.jpg</filename>
-  <lastupdated>1388093107</lastupdated>
+  <lastupdated>1414162672</lastupdated>
   <seasonid>468478</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -5308,12 +5308,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
 </Episode>
 <Episode>
   <id>4292733</id>
-  <Combined_episodenumber>23</Combined_episodenumber>
+  <Combined_episodenumber>23.1</Combined_episodenumber>
   <Combined_season>7</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>23.1</DVD_episodenumber>
+  <DVD_season>7</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>The Magician's Code: Part One</EpisodeName>
@@ -5330,7 +5330,7 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Writer>Jennifer Hendriks</Writer>
   <absolute_number>159</absolute_number>
   <filename>episodes/75760/4292733.jpg</filename>
-  <lastupdated>1403322660</lastupdated>
+  <lastupdated>1414162683</lastupdated>
   <seasonid>468478</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -5339,12 +5339,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
 </Episode>
 <Episode>
   <id>4292734</id>
-  <Combined_episodenumber>24</Combined_episodenumber>
+  <Combined_episodenumber>23.2</Combined_episodenumber>
   <Combined_season>7</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>23.2</DVD_episodenumber>
+  <DVD_season>7</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>The Magician's Code: Part Two</EpisodeName>
@@ -5361,7 +5361,7 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Writer>Carter Bays|Craig Thomas</Writer>
   <absolute_number>160</absolute_number>
   <filename>episodes/75760/4292734.jpg</filename>
-  <lastupdated>1403322519</lastupdated>
+  <lastupdated>1414162691</lastupdated>
   <seasonid>468478</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -5387,7 +5387,7 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Overview>Barney attempts to hide the fact that he and Robin used to date, but Quinn finds out when sleep-deprived Marshall and Lily accidentally blurt it out. Meanwhile, Ted forces Victoria to write a left-at-the-altar note to Klaus explaining why she ran out on their wedding.</Overview>
   <ProductionCode>8alh01</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>154</RatingCount>
+  <RatingCount>155</RatingCount>
   <SeasonNumber>8</SeasonNumber>
   <Writer>Carter Bays|Craig Thomas</Writer>
   <absolute_number>161</absolute_number>
@@ -5418,7 +5418,7 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Overview>When Barney designs an extensive pre-nup, the guys take note and propose their own relationship amendments to their significant others. Meanwhile, Quinn is outraged and draws up a pre-nup of her own, which causes friction between the sexes.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>147</RatingCount>
+  <RatingCount>148</RatingCount>
   <SeasonNumber>8</SeasonNumber>
   <Writer>Carter Bays|Craig Thomas</Writer>
   <absolute_number>162</absolute_number>
@@ -5449,7 +5449,7 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Overview>When Lily and Marshall have trouble finding a nanny, they learn it’s because of an elaborate scheme Barney came up with to meet girls. Meanwhile, Robin and Ted butt heads over who has a more serious relationship.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>146</RatingCount>
+  <RatingCount>147</RatingCount>
   <SeasonNumber>8</SeasonNumber>
   <Writer>Chuck Tatham</Writer>
   <absolute_number>163</absolute_number>
@@ -5480,7 +5480,7 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Overview>When Lily and Marshall can’t decide on godparents for Marvin, they put the gang to the test to see who would make the best one.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>147</RatingCount>
+  <RatingCount>148</RatingCount>
   <SeasonNumber>8</SeasonNumber>
   <Writer>Matt Kuhn</Writer>
   <absolute_number>164</absolute_number>
@@ -5511,7 +5511,7 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Overview>As the season of break-ups continues, Ted and Victoria must choose the next step in their long and complicated relationship. Meanwhile, Robin worries about Barney when he chooses a dog to be his wingman.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>153</RatingCount>
+  <RatingCount>154</RatingCount>
   <SeasonNumber>8</SeasonNumber>
   <Writer>Kourtney Kang</Writer>
   <absolute_number>165</absolute_number>
@@ -5573,7 +5573,7 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Overview>Marshall recommends his old law school classmate Brad for a job at his firm, but the interview goes awry, leaving Marshall to do damage control with his boss. Meanwhile, Robin helps negotiate Barney’s return to the strip club circuit.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>146</RatingCount>
+  <RatingCount>147</RatingCount>
   <SeasonNumber>8</SeasonNumber>
   <Writer>Tami Sagher</Writer>
   <absolute_number>167</absolute_number>
@@ -5604,7 +5604,7 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Overview>Marshall takes on his old friend/new nemesis Brad in the biggest case of his career. Meanwhile, the gang reminisces about their own run-ins with the law, leading to a debate over who was the biggest delinquent as a teenager.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>139</RatingCount>
+  <RatingCount>141</RatingCount>
   <SeasonNumber>8</SeasonNumber>
   <Writer>Eric Falconer|Eric Romanski</Writer>
   <absolute_number>168</absolute_number>
@@ -5635,7 +5635,7 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Overview>Robin is determined to get Barney back no matter what it takes. Meanwhile, Ted fills in as Marvin’s Nanny, leading Marshall and Lily to realize that Ted is using baby Marvin to replace his other baby, the GNB building.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>139</RatingCount>
+  <RatingCount>141</RatingCount>
   <SeasonNumber>8</SeasonNumber>
   <Writer>Barbara Feldman</Writer>
   <absolute_number>169</absolute_number>
@@ -5666,7 +5666,7 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Overview>Barney's developing relationship with Patrice leaves Robin questioning his motives. Marshall's widowed mother gets back into the dating pool, but he thinks she may be swimming with a shark.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>141</RatingCount>
+  <RatingCount>143</RatingCount>
   <SeasonNumber>8</SeasonNumber>
   <Writer>Craig Gerard|Matthew Zinman</Writer>
   <absolute_number>170</absolute_number>
@@ -5680,11 +5680,11 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
 </Episode>
 <Episode>
   <id>4440720</id>
-  <Combined_episodenumber>11.0</Combined_episodenumber>
+  <Combined_episodenumber>11.1</Combined_episodenumber>
   <Combined_season>8</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber>11.0</DVD_episodenumber>
+  <DVD_episodenumber>11.1</DVD_episodenumber>
   <DVD_season>8</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
@@ -5697,12 +5697,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Overview>Robin takes steps to have Patrice fired from WWN, while Marshall puts a jinx on Barney. Later, Ted invites his architecture professor to the dedication of the GNB building, and Marshall and Lily bump into an oddball acquaintance from college.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>133</RatingCount>
+  <RatingCount>135</RatingCount>
   <SeasonNumber>8</SeasonNumber>
   <Writer>Daniel Gregor|Doug Mand</Writer>
   <absolute_number>171</absolute_number>
   <filename>episodes/75760/4440720.jpg</filename>
-  <lastupdated>1403313342</lastupdated>
+  <lastupdated>1414162764</lastupdated>
   <seasonid>496187</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -5711,11 +5711,11 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
 </Episode>
 <Episode>
   <id>4440721</id>
-  <Combined_episodenumber>12.0</Combined_episodenumber>
+  <Combined_episodenumber>11.2</Combined_episodenumber>
   <Combined_season>8</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber>12.0</DVD_episodenumber>
+  <DVD_episodenumber>11.2</DVD_episodenumber>
   <DVD_season>8</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
@@ -5728,12 +5728,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Overview>Christmas approaches and Ted wrestles with whether to tell Robin about Barney's intentions involving Patrice, while Marshall and Lily get an early Yule gift, a night away from Marvin, but a case of separation anxiety strikes and threatens to ruin the evening.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.1</Rating>
-  <RatingCount>57</RatingCount>
+  <RatingCount>59</RatingCount>
   <SeasonNumber>8</SeasonNumber>
   <Writer>Carter Bays|Craig Thomas</Writer>
   <absolute_number>172</absolute_number>
   <filename>episodes/75760/4440721.jpg</filename>
-  <lastupdated>1403313379</lastupdated>
+  <lastupdated>1414162772</lastupdated>
   <seasonid>496187</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -5742,11 +5742,11 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
 </Episode>
 <Episode>
   <id>4443834</id>
-  <Combined_episodenumber>13.0</Combined_episodenumber>
+  <Combined_episodenumber>12.0</Combined_episodenumber>
   <Combined_season>8</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber>13.0</DVD_episodenumber>
+  <DVD_episodenumber>12.0</DVD_episodenumber>
   <DVD_season>8</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
@@ -5759,12 +5759,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Overview>When Robin learns that Barney never asked her father’s permission before proposing, she insists that he seek his approval before announcing their engagement. Meanwhile, Ted keeps his feelings concealed by throwing himself into planning their wedding.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>119</RatingCount>
+  <RatingCount>122</RatingCount>
   <SeasonNumber>8</SeasonNumber>
   <Writer>Carter Bays|Craig Thomas</Writer>
   <absolute_number>173</absolute_number>
   <filename>episodes/75760/4443834.jpg</filename>
-  <lastupdated>1390796817</lastupdated>
+  <lastupdated>1414162781</lastupdated>
   <seasonid>496187</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -5773,11 +5773,11 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
 </Episode>
 <Episode>
   <id>4443835</id>
-  <Combined_episodenumber>14.0</Combined_episodenumber>
+  <Combined_episodenumber>13.0</Combined_episodenumber>
   <Combined_season>8</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber>14.0</DVD_episodenumber>
+  <DVD_episodenumber>13.0</DVD_episodenumber>
   <DVD_season>8</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
@@ -5790,12 +5790,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Overview>Barney begs Ted to continue seeing his much younger, much wilder girlfriend, even though Ted has nothing in common with her. Meanwhile, Robin must adjust to the power of the bling.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>131</RatingCount>
+  <RatingCount>132</RatingCount>
   <SeasonNumber>8</SeasonNumber>
   <Writer>Jennifer Hendriks</Writer>
   <absolute_number>174</absolute_number>
   <filename>episodes/75760/4443835.jpg</filename>
-  <lastupdated>1403313463</lastupdated>
+  <lastupdated>1414162788</lastupdated>
   <seasonid>496187</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -5804,11 +5804,11 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
 </Episode>
 <Episode>
   <id>4467901</id>
-  <Combined_episodenumber>15.0</Combined_episodenumber>
+  <Combined_episodenumber>14.0</Combined_episodenumber>
   <Combined_season>8</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber>15.0</DVD_episodenumber>
+  <DVD_episodenumber>14.0</DVD_episodenumber>
   <DVD_season>8</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
@@ -5821,12 +5821,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Overview>Barney uncovers the lost episode of Robin’s “Underneath the Tunes” as Robin Sparkles. Meanwhile, Marshall and Lily are concerned that Ted’s new girlfriend is a stalker.</Overview>
   <ProductionCode>8ALH15</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>128</RatingCount>
+  <RatingCount>129</RatingCount>
   <SeasonNumber>8</SeasonNumber>
   <Writer>Carter Bays|Craig Thomas</Writer>
   <absolute_number>175</absolute_number>
   <filename>episodes/75760/4467901.jpg</filename>
-  <lastupdated>1391811639</lastupdated>
+  <lastupdated>1414162795</lastupdated>
   <seasonid>496187</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -5835,11 +5835,11 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
 </Episode>
 <Episode>
   <id>4473865</id>
-  <Combined_episodenumber>16.0</Combined_episodenumber>
+  <Combined_episodenumber>15.0</Combined_episodenumber>
   <Combined_season>8</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber>16.0</DVD_episodenumber>
+  <DVD_episodenumber>15.0</DVD_episodenumber>
   <DVD_season>8</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
@@ -5852,12 +5852,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Overview>Ted is reluctant to break up with his crazy girlfriend Jeanette. Meanwhile, Robin becomes attached to Marvin after finally holding him for the first time.</Overview>
   <ProductionCode>8ALH16</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>126</RatingCount>
+  <RatingCount>127</RatingCount>
   <SeasonNumber>8</SeasonNumber>
   <Writer>Carter Bays|Craig Thomas</Writer>
   <absolute_number>176</absolute_number>
   <filename>episodes/75760/4473865.jpg</filename>
-  <lastupdated>1391170076</lastupdated>
+  <lastupdated>1414162805</lastupdated>
   <seasonid>496187</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -5866,11 +5866,11 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
 </Episode>
 <Episode>
   <id>4478866</id>
-  <Combined_episodenumber>17.0</Combined_episodenumber>
+  <Combined_episodenumber>16.0</Combined_episodenumber>
   <Combined_season>8</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber>17.0</DVD_episodenumber>
+  <DVD_episodenumber>16.0</DVD_episodenumber>
   <DVD_season>8</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
@@ -5883,12 +5883,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Overview>Ted gets a weird and surprising call from the Captain, which launches the gang into a series of recollections about the last perplexing encounter they had with him.</Overview>
   <ProductionCode>8ALH18</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>111</RatingCount>
+  <RatingCount>112</RatingCount>
   <SeasonNumber>8</SeasonNumber>
   <Writer>Carter Bays|Craig Thomas</Writer>
   <absolute_number>177</absolute_number>
   <filename>episodes/75760/4478866.jpg</filename>
-  <lastupdated>1390002166</lastupdated>
+  <lastupdated>1414162823</lastupdated>
   <seasonid>496187</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -5897,11 +5897,11 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
 </Episode>
 <Episode>
   <id>4496094</id>
-  <Combined_episodenumber>18.0</Combined_episodenumber>
+  <Combined_episodenumber>17.0</Combined_episodenumber>
   <Combined_season>8</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber>18.0</DVD_episodenumber>
+  <DVD_episodenumber>17.0</DVD_episodenumber>
   <DVD_season>8</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
@@ -5919,7 +5919,7 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Writer>George Sloan</Writer>
   <absolute_number>178</absolute_number>
   <filename>episodes/75760/4496094.jpg</filename>
-  <lastupdated>1398102096</lastupdated>
+  <lastupdated>1414162834</lastupdated>
   <seasonid>496187</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -5928,11 +5928,11 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
 </Episode>
 <Episode>
   <id>4496095</id>
-  <Combined_episodenumber>19.0</Combined_episodenumber>
+  <Combined_episodenumber>18.0</Combined_episodenumber>
   <Combined_season>8</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber>19.0</DVD_episodenumber>
+  <DVD_episodenumber>18.0</DVD_episodenumber>
   <DVD_season>8</DVD_season>
   <Director>Michael J. Shea</Director>
   <EpImgFlag>2</EpImgFlag>
@@ -5945,12 +5945,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Overview>Barney reluctantly attempts to sell his apartment by holding an open house, during which Ted and Marshall get mistaken for a couple. Tension arises between Lily and Marshall when her new job causes her to spend less time at home.</Overview>
   <ProductionCode>8ALH19</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>127</RatingCount>
+  <RatingCount>128</RatingCount>
   <SeasonNumber>8</SeasonNumber>
   <Writer>Stephen Llyod</Writer>
   <absolute_number>179</absolute_number>
   <filename>episodes/75760/4496095.jpg</filename>
-  <lastupdated>1391487452</lastupdated>
+  <lastupdated>1414162850</lastupdated>
   <seasonid>496187</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -5959,11 +5959,11 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
 </Episode>
 <Episode>
   <id>4496096</id>
-  <Combined_episodenumber>20.0</Combined_episodenumber>
+  <Combined_episodenumber>19.0</Combined_episodenumber>
   <Combined_season>8</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber>20.0</DVD_episodenumber>
+  <DVD_episodenumber>19.0</DVD_episodenumber>
   <DVD_season>8</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
@@ -5976,12 +5976,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Overview>Ted and Barney's future versions attempt to persuade present day Ted to go see Robots Versus Wrestlers. Marshall and Robin have a dance-off.</Overview>
   <ProductionCode>8ALH20</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>133</RatingCount>
+  <RatingCount>134</RatingCount>
   <SeasonNumber>8</SeasonNumber>
   <Writer>Carter Bays|Craig Thomas</Writer>
   <absolute_number>180</absolute_number>
   <filename>episodes/75760/4496096.jpg</filename>
-  <lastupdated>1398102212</lastupdated>
+  <lastupdated>1414162860</lastupdated>
   <seasonid>496187</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -5990,11 +5990,11 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
 </Episode>
 <Episode>
   <id>4506067</id>
-  <Combined_episodenumber>21.0</Combined_episodenumber>
+  <Combined_episodenumber>20.0</Combined_episodenumber>
   <Combined_season>8</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber>21.0</DVD_episodenumber>
+  <DVD_episodenumber>20.0</DVD_episodenumber>
   <DVD_season>8</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
@@ -6007,12 +6007,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Overview>When The Captain asks Lily to move to Rome for a year as his art consultant, she fears that Marshall will resent her. Meanwhile, Ted and Barney become obsessed with a girl who is hiding her amazing body under a puffy coat.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>115</RatingCount>
+  <RatingCount>116</RatingCount>
   <SeasonNumber>8</SeasonNumber>
   <Writer>Chuck Tatham</Writer>
   <absolute_number>181</absolute_number>
   <filename>episodes/75760/4506067.jpg</filename>
-  <lastupdated>1390604060</lastupdated>
+  <lastupdated>1414162870</lastupdated>
   <seasonid>496187</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -6021,11 +6021,11 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
 </Episode>
 <Episode>
   <id>4518962</id>
-  <Combined_episodenumber>22.0</Combined_episodenumber>
+  <Combined_episodenumber>21.0</Combined_episodenumber>
   <Combined_season>8</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber>22.0</DVD_episodenumber>
+  <DVD_episodenumber>21.0</DVD_episodenumber>
   <DVD_season>8</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
@@ -6038,12 +6038,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Overview>The gang works together to plan a legendary bachelor party for Barney.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>125</RatingCount>
+  <RatingCount>126</RatingCount>
   <SeasonNumber>8</SeasonNumber>
   <Writer>Chris Harris</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75760/4518962.jpg</filename>
-  <lastupdated>1391728086</lastupdated>
+  <lastupdated>1414162885</lastupdated>
   <seasonid>496187</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -6052,11 +6052,11 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
 </Episode>
 <Episode>
   <id>4521867</id>
-  <Combined_episodenumber>23.0</Combined_episodenumber>
+  <Combined_episodenumber>22.0</Combined_episodenumber>
   <Combined_season>8</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber>23.0</DVD_episodenumber>
+  <DVD_episodenumber>22.0</DVD_episodenumber>
   <DVD_season>8</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
@@ -6069,12 +6069,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Overview>Robin desperately tries to locate the item that she buried in Central Park years earlier to wear as her &quot;Something Old&quot; for the wedding. Meanwhile, Marshall and Lily ask Ted to help them pack for Italy, and Barney invites Robin's father to play Laser Tag in order to bond with him.</Overview>
   <ProductionCode>8ALH23</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>113</RatingCount>
+  <RatingCount>114</RatingCount>
   <SeasonNumber>8</SeasonNumber>
   <Writer>Carter Bays|Craig Thomas</Writer>
   <absolute_number>183</absolute_number>
   <filename>episodes/75760/4521867.jpg</filename>
-  <lastupdated>1392026487</lastupdated>
+  <lastupdated>1414162897</lastupdated>
   <seasonid>496187</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -6083,11 +6083,11 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
 </Episode>
 <Episode>
   <id>4529513</id>
-  <Combined_episodenumber>24.0</Combined_episodenumber>
+  <Combined_episodenumber>23.0</Combined_episodenumber>
   <Combined_season>8</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber>24.0</DVD_episodenumber>
+  <DVD_episodenumber>23.0</DVD_episodenumber>
   <DVD_season>8</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
@@ -6099,13 +6099,13 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Language>en</Language>
   <Overview>As the gang prepares to go to Robin and Barney’s wedding, Ted invites Lily to see the house he's finally finished fixing up. Meanwhile, Robin and Barney’s night of relaxation is ruined by an obnoxious couple, and Marshall takes the baby on a last-minute trip to Minnesota to see his family.</Overview>
   <ProductionCode>8ALH24</ProductionCode>
-  <Rating>7.9</Rating>
-  <RatingCount>105</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>106</RatingCount>
   <SeasonNumber>8</SeasonNumber>
   <Writer>Carter Bays|Craig Thomas</Writer>
   <absolute_number>184</absolute_number>
   <filename>episodes/75760/4529513.jpg</filename>
-  <lastupdated>1391728179</lastupdated>
+  <lastupdated>1414162905</lastupdated>
   <seasonid>496187</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added></thumb_added>
@@ -6114,12 +6114,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
 </Episode>
 <Episode>
   <id>4594865</id>
-  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_episodenumber>1.0</Combined_episodenumber>
   <Combined_season>9</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>1.0</DVD_episodenumber>
+  <DVD_season>9</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>The Locket</EpisodeName>
@@ -6131,12 +6131,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Overview>On their way to Long Island for their wedding weekend, Robin and Barney come across a startling family discovery. Meanwhile, Marshall sees something online that changes the course of his journey east, while Lily confronts Ted about letting go of Robin.</Overview>
   <ProductionCode>9ALH01</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>104</RatingCount>
+  <RatingCount>110</RatingCount>
   <SeasonNumber>9</SeasonNumber>
   <Writer>Carter Bays|Craig Thomas</Writer>
   <absolute_number>185</absolute_number>
   <filename>episodes/75760/4594865.jpg</filename>
-  <lastupdated>1401002309</lastupdated>
+  <lastupdated>1409247006</lastupdated>
   <seasonid>522807</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added>2013-08-27 12:24:20</thumb_added>
@@ -6145,12 +6145,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
 </Episode>
 <Episode>
   <id>4594932</id>
-  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_episodenumber>2.0</Combined_episodenumber>
   <Combined_season>9</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>2.0</DVD_episodenumber>
+  <DVD_season>9</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Coming Back</EpisodeName>
@@ -6162,12 +6162,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Overview>When James reveals that he is getting divorced, Robin worries about how Barney will take the news. Meanwhile, Marshall races to find a way to get to New York in time for the wedding, and Ted deals with being alone at a romantic hotel.</Overview>
   <ProductionCode>9ALH02</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>56</RatingCount>
+  <RatingCount>61</RatingCount>
   <SeasonNumber>9</SeasonNumber>
   <Writer>Carter Bays|Craig Thomas</Writer>
   <absolute_number>186</absolute_number>
   <filename>episodes/75760/4594932.jpg</filename>
-  <lastupdated>1392755286</lastupdated>
+  <lastupdated>1414162949</lastupdated>
   <seasonid>522807</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added>2013-08-29 16:35:16</thumb_added>
@@ -6176,12 +6176,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
 </Episode>
 <Episode>
   <id>4621493</id>
-  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_episodenumber>3.0</Combined_episodenumber>
   <Combined_season>9</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>3.0</DVD_episodenumber>
+  <DVD_season>9</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Last Time in New York</EpisodeName>
@@ -6193,12 +6193,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Overview>When Lily discovers Ted’s list of things he wants to do in New York before he moves for Chicago, she becomes frustrated that she is the only person who knows about his plans. Meanwhile, Robin and Barney realize they have very little time together before their relatives arrive for their wedding.</Overview>
   <ProductionCode>9ALH04</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>87</RatingCount>
+  <RatingCount>92</RatingCount>
   <SeasonNumber>9</SeasonNumber>
   <Writer>Craig Gerard|Matthew Zinman</Writer>
   <absolute_number>187</absolute_number>
   <filename>episodes/75760/4621493.jpg</filename>
-  <lastupdated>1401002358</lastupdated>
+  <lastupdated>1409247109</lastupdated>
   <seasonid>522807</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added>2013-09-29 05:01:58</thumb_added>
@@ -6207,12 +6207,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
 </Episode>
 <Episode>
   <id>4611513</id>
-  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_episodenumber>4.0</Combined_episodenumber>
   <Combined_season>9</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>4.0</DVD_episodenumber>
+  <DVD_season>9</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>The Broken Code</EpisodeName>
@@ -6224,12 +6224,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Overview>While Barney works through his anger at Ted after finding out he still has feelings for Robin, Marshall Skypes in to act as a judge and help settle their dispute. Meanwhile, Lily realizes she is Robin’s only girlfriend.</Overview>
   <ProductionCode>9ALH03</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>86</RatingCount>
+  <RatingCount>93</RatingCount>
   <SeasonNumber>9</SeasonNumber>
   <Writer>Matthew Kuhn</Writer>
   <absolute_number>188</absolute_number>
   <filename>episodes/75760/4611513.jpg</filename>
-  <lastupdated>1401002388</lastupdated>
+  <lastupdated>1409247141</lastupdated>
   <seasonid>522807</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added>2013-10-06 04:20:50</thumb_added>
@@ -6238,12 +6238,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
 </Episode>
 <Episode>
   <id>4621494</id>
-  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_episodenumber>5.0</Combined_episodenumber>
   <Combined_season>9</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>5.0</DVD_episodenumber>
+  <DVD_season>9</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>The Poker Game</EpisodeName>
@@ -6255,12 +6255,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Overview>When Barney is forced to pick sides in a fight between Robin and his mother, Lily coaches him on how not to ruin his relationship. Meanwhile, Ted and Marshall get into a dispute over wedding gifts and thank-you notes.</Overview>
   <ProductionCode>9ALH05</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>85</RatingCount>
+  <RatingCount>90</RatingCount>
   <SeasonNumber>9</SeasonNumber>
   <Writer>|Dan Gregor|Doug Mand|</Writer>
   <absolute_number>189</absolute_number>
   <filename>episodes/75760/4621494.jpg</filename>
-  <lastupdated>1401002414</lastupdated>
+  <lastupdated>1409247199</lastupdated>
   <seasonid>522807</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added>2013-10-07 22:19:13</thumb_added>
@@ -6269,12 +6269,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
 </Episode>
 <Episode>
   <id>4630011</id>
-  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_episodenumber>6.0</Combined_episodenumber>
   <Combined_season>9</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>6.0</DVD_episodenumber>
+  <DVD_season>9</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Knight Vision</EpisodeName>
@@ -6286,12 +6286,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Overview>When Ted finds himself with three prospects to be his date for the wedding weekend, he chooses poorly. Meanwhile, Barney and Robin have a confrontation with their minister, and Marshall learns more about his driving companion, Daphne.</Overview>
   <ProductionCode>9ALH07</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>87</RatingCount>
+  <RatingCount>92</RatingCount>
   <SeasonNumber>9</SeasonNumber>
   <Writer>Chris Harris</Writer>
   <absolute_number>190</absolute_number>
   <filename>episodes/75760/4630011.jpg</filename>
-  <lastupdated>1401002441</lastupdated>
+  <lastupdated>1414162971</lastupdated>
   <seasonid>522807</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added>2013-10-05 02:05:17</thumb_added>
@@ -6300,12 +6300,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
 </Episode>
 <Episode>
   <id>4621495</id>
-  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_episodenumber>7.0</Combined_episodenumber>
   <Combined_season>9</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>7.0</DVD_episodenumber>
+  <DVD_season>9</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>No Questions Asked</EpisodeName>
@@ -6317,12 +6317,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Overview>When Daphne sends a troubling text message to Lily, Marshall enlists the gang’s help to remove the message while enforcing the “No Questions Asked” rule.</Overview>
   <ProductionCode>9ALH06</ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>81</RatingCount>
+  <RatingCount>86</RatingCount>
   <SeasonNumber>9</SeasonNumber>
   <Writer>Stephen Lloyd</Writer>
   <absolute_number>191</absolute_number>
   <filename>episodes/75760/4621495.jpg</filename>
-  <lastupdated>1401002466</lastupdated>
+  <lastupdated>1414162983</lastupdated>
   <seasonid>522807</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added>2013-10-10 20:25:09</thumb_added>
@@ -6331,12 +6331,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
 </Episode>
 <Episode>
   <id>4632232</id>
-  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_episodenumber>8.0</Combined_episodenumber>
   <Combined_season>9</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>8.0</DVD_episodenumber>
+  <DVD_season>9</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>The Lighthouse</EpisodeName>
@@ -6348,12 +6348,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Overview>When Robin and Loretta's conflict escalates, Barney is caught in the middle. Meanwhile, Marshall and Daphne deal with a stowaway on their road trip, and Ted and Cassie try to enjoy a trip to a lighthouse.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>84</RatingCount>
+  <RatingCount>88</RatingCount>
   <SeasonNumber>9</SeasonNumber>
   <Writer>Rachel Axler</Writer>
   <absolute_number>192</absolute_number>
   <filename>episodes/75760/4632232.jpg</filename>
-  <lastupdated>1401002491</lastupdated>
+  <lastupdated>1414163000</lastupdated>
   <seasonid>522807</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added>2013-10-28 13:49:18</thumb_added>
@@ -6362,12 +6362,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
 </Episode>
 <Episode>
   <id>4659012</id>
-  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_episodenumber>9.0</Combined_episodenumber>
   <Combined_season>9</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>9.0</DVD_episodenumber>
+  <DVD_season>9</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Platonish</EpisodeName>
@@ -6378,13 +6378,13 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Language>en</Language>
   <Overview>In a flashback episode, the gang ponders the future of the Ted, Robin and Barney love triangle. Meanwhile, Barney accepts a series of challenges from Lily and Robin.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>82</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>87</RatingCount>
   <SeasonNumber>9</SeasonNumber>
   <Writer>George Sloan</Writer>
   <absolute_number>193</absolute_number>
   <filename>episodes/75760/4659012.jpg</filename>
-  <lastupdated>1401002517</lastupdated>
+  <lastupdated>1414163012</lastupdated>
   <seasonid>522807</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added>2013-11-02 14:18:43</thumb_added>
@@ -6393,12 +6393,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
 </Episode>
 <Episode>
   <id>4632233</id>
-  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_episodenumber>10.0</Combined_episodenumber>
   <Combined_season>9</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>10.0</DVD_episodenumber>
+  <DVD_season>9</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Mom and Dad</EpisodeName>
@@ -6410,12 +6410,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Overview>When Barney’s father arrives at the hotel, Barney devises a plan that makes Robin very nervous. Meanwhile, Ted is convinced someone framed him by messing up a wedding-related duty.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>90</RatingCount>
+  <RatingCount>96</RatingCount>
   <SeasonNumber>9</SeasonNumber>
   <Writer>|Carter Bays|Craig Thomas|</Writer>
   <absolute_number>194</absolute_number>
   <filename>episodes/75760/4632233.jpg</filename>
-  <lastupdated>1401002544</lastupdated>
+  <lastupdated>1414163022</lastupdated>
   <seasonid>522807</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added>2013-11-14 23:20:51</thumb_added>
@@ -6424,12 +6424,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
 </Episode>
 <Episode>
   <id>4669991</id>
-  <Combined_episodenumber>11</Combined_episodenumber>
+  <Combined_episodenumber>11.0</Combined_episodenumber>
   <Combined_season>9</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>11.0</DVD_episodenumber>
+  <DVD_season>9</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Bedtime Stories</EpisodeName>
@@ -6440,13 +6440,13 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Language>en</Language>
   <Overview>Marshall tries to get Marvin to sleep by reciting three rhyming bedtime tales about his friends as they wind down their epic cross-country journey.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.2</Rating>
-  <RatingCount>89</RatingCount>
+  <Rating>7.1</Rating>
+  <RatingCount>95</RatingCount>
   <SeasonNumber>9</SeasonNumber>
   <Writer>|Carter Bays|Craig Thomas|</Writer>
   <absolute_number>195</absolute_number>
   <filename>episodes/75760/4669991.jpg</filename>
-  <lastupdated>1401002567</lastupdated>
+  <lastupdated>1414163030</lastupdated>
   <seasonid>522807</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added>2013-11-25 20:25:08</thumb_added>
@@ -6455,12 +6455,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
 </Episode>
 <Episode>
   <id>4632235</id>
-  <Combined_episodenumber>12</Combined_episodenumber>
+  <Combined_episodenumber>12.0</Combined_episodenumber>
   <Combined_season>9</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>12.0</DVD_episodenumber>
+  <DVD_season>9</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>The Rehearsal Dinner</EpisodeName>
@@ -6471,13 +6471,13 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Language>en</Language>
   <Overview>Barney is shooting to have the rehearsal dinner at a laser-tag venue, while Lily is upset when Ted fails to live up to a promise.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>85</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>91</RatingCount>
   <SeasonNumber>9</SeasonNumber>
   <Writer>Chuck Tatham</Writer>
   <absolute_number>196</absolute_number>
   <filename>episodes/75760/4632235.jpg</filename>
-  <lastupdated>1401002601</lastupdated>
+  <lastupdated>1414163042</lastupdated>
   <seasonid>522807</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added>2014-02-18 08:23:46</thumb_added>
@@ -6486,12 +6486,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
 </Episode>
 <Episode>
   <id>4632234</id>
-  <Combined_episodenumber>13</Combined_episodenumber>
+  <Combined_episodenumber>13.0</Combined_episodenumber>
   <Combined_season>9</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>13.0</DVD_episodenumber>
+  <DVD_season>9</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Bass Player Wanted</EpisodeName>
@@ -6503,12 +6503,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Overview>The gang encounters a guy at the wedding who intentionally stirs up trouble among them, and Marshall finally arrives at the Farhampton Inn.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>88</RatingCount>
+  <RatingCount>95</RatingCount>
   <SeasonNumber>9</SeasonNumber>
   <Writer>|Carter Bays|Craig Thomas|</Writer>
   <absolute_number>197</absolute_number>
   <filename>episodes/75760/4632234.jpg</filename>
-  <lastupdated>1401002628</lastupdated>
+  <lastupdated>1414163057</lastupdated>
   <seasonid>522807</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added>2013-12-12 11:32:20</thumb_added>
@@ -6517,12 +6517,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
 </Episode>
 <Episode>
   <id>4659008</id>
-  <Combined_episodenumber>14</Combined_episodenumber>
+  <Combined_episodenumber>14.0</Combined_episodenumber>
   <Combined_season>9</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>14.0</DVD_episodenumber>
+  <DVD_season>9</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Slapsgiving 3: Slappointment in Slapmarra</EpisodeName>
@@ -6534,12 +6534,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Overview>In an attempt to deliver a devastating final slap to Barney, Marshall explains how he mastered the Slap of A Million Exploding Suns.</Overview>
   <ProductionCode>9ALH15</ProductionCode>
   <Rating>7.2</Rating>
-  <RatingCount>80</RatingCount>
+  <RatingCount>88</RatingCount>
   <SeasonNumber>9</SeasonNumber>
   <Writer>Craig Thomas|Carter Bays</Writer>
   <absolute_number>198</absolute_number>
   <filename>episodes/75760/4659008.jpg</filename>
-  <lastupdated>1404410681</lastupdated>
+  <lastupdated>1414215027</lastupdated>
   <seasonid>522807</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added>2014-01-16 11:51:17</thumb_added>
@@ -6548,12 +6548,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
 </Episode>
 <Episode>
   <id>4669992</id>
-  <Combined_episodenumber>15</Combined_episodenumber>
+  <Combined_episodenumber>15.0</Combined_episodenumber>
   <Combined_season>9</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>15.0</DVD_episodenumber>
+  <DVD_season>9</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Unpause</EpisodeName>
@@ -6564,13 +6564,13 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Language>en</Language>
   <Overview>When Barney drinks too much, Ted and Robin take advantage of him and get him to reveal secrets he’s been hiding for years. Meanwhile, Marshall does everything he can to avoid fighting with Lily.</Overview>
   <ProductionCode>9ALH14</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>87</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>94</RatingCount>
   <SeasonNumber>9</SeasonNumber>
   <Writer>Chris Harris</Writer>
   <absolute_number>199</absolute_number>
   <filename>episodes/75760/4669992.jpg</filename>
-  <lastupdated>1401903045</lastupdated>
+  <lastupdated>1414163255</lastupdated>
   <seasonid>522807</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added>2014-01-20 09:15:23</thumb_added>
@@ -6579,12 +6579,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
 </Episode>
 <Episode>
   <id>4659009</id>
-  <Combined_episodenumber>16</Combined_episodenumber>
+  <Combined_episodenumber>16.0</Combined_episodenumber>
   <Combined_season>9</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>16.0</DVD_episodenumber>
+  <DVD_season>9</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>How Your Mother Met Me</EpisodeName>
@@ -6596,12 +6596,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Overview>On the 200th episode, The Mother recounts how she met Ted and what she’s been up to for the past eight years.</Overview>
   <ProductionCode>9ALH16</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>82</RatingCount>
+  <RatingCount>90</RatingCount>
   <SeasonNumber>9</SeasonNumber>
   <Writer>Carter Bays|Craig Thomas</Writer>
   <absolute_number>200</absolute_number>
   <filename>episodes/75760/4659009.jpg</filename>
-  <lastupdated>1401902982</lastupdated>
+  <lastupdated>1414163197</lastupdated>
   <seasonid>522807</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added>2014-01-23 10:46:28</thumb_added>
@@ -6610,12 +6610,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
 </Episode>
 <Episode>
   <id>4669993</id>
-  <Combined_episodenumber>17</Combined_episodenumber>
+  <Combined_episodenumber>17.0</Combined_episodenumber>
   <Combined_season>9</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>17.0</DVD_episodenumber>
+  <DVD_season>9</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Sunrise</EpisodeName>
@@ -6626,13 +6626,13 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Language>en</Language>
   <Overview>Robin and Ted reminisce about past relationships as they search for a drunken Barney on the day of the wedding. Lily and Marshall come to a resolution. Barney befriends two men who are eager to meet women.</Overview>
   <ProductionCode>9ALH18</ProductionCode>
-  <Rating>7.2</Rating>
-  <RatingCount>71</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>79</RatingCount>
   <SeasonNumber>9</SeasonNumber>
   <Writer>Carter Bays|Craig Thomas</Writer>
   <absolute_number>201</absolute_number>
   <filename>episodes/75760/4669993.jpg</filename>
-  <lastupdated>1404410710</lastupdated>
+  <lastupdated>1414163296</lastupdated>
   <seasonid>522807</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added>2014-02-18 08:15:49</thumb_added>
@@ -6641,12 +6641,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
 </Episode>
 <Episode>
   <id>4659010</id>
-  <Combined_episodenumber>18</Combined_episodenumber>
+  <Combined_episodenumber>18.0</Combined_episodenumber>
   <Combined_season>9</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>18.0</DVD_episodenumber>
+  <DVD_season>9</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Rally</EpisodeName>
@@ -6658,12 +6658,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Overview>When Barney suffers from the world’s worst hangover the morning of his wedding, the gang tries to figure out the far-fetched ingredients to concoct the Stinson Hangover Fixer Elixir.</Overview>
   <ProductionCode>9ALH17</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>59</RatingCount>
+  <RatingCount>70</RatingCount>
   <SeasonNumber>9</SeasonNumber>
   <Writer>Carter Bays|Craig Thomas</Writer>
   <absolute_number>202</absolute_number>
   <filename>episodes/75760/4659010.jpg</filename>
-  <lastupdated>1404410737</lastupdated>
+  <lastupdated>1414163315</lastupdated>
   <seasonid>522807</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added>2014-02-18 08:14:14</thumb_added>
@@ -6672,12 +6672,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
 </Episode>
 <Episode>
   <id>4669994</id>
-  <Combined_episodenumber>19</Combined_episodenumber>
+  <Combined_episodenumber>19.0</Combined_episodenumber>
   <Combined_season>9</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>19.0</DVD_episodenumber>
+  <DVD_season>9</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Vesuvius</EpisodeName>
@@ -6688,13 +6688,13 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Language>en</Language>
   <Overview>On the morning of the wedding, Lily and Robin have a fight and Barney freaks out about which suit to wear. Meanwhile, the gang watches a movie Ted has forbidden them to see.</Overview>
   <ProductionCode>9ALH19</ProductionCode>
-  <Rating>7.1</Rating>
-  <RatingCount>55</RatingCount>
+  <Rating>7.2</Rating>
+  <RatingCount>66</RatingCount>
   <SeasonNumber>9</SeasonNumber>
   <Writer>Barbara Adler</Writer>
   <absolute_number>203</absolute_number>
   <filename>episodes/75760/4669994.jpg</filename>
-  <lastupdated>1404410756</lastupdated>
+  <lastupdated>1414163324</lastupdated>
   <seasonid>522807</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added>2014-03-06 13:02:51</thumb_added>
@@ -6703,12 +6703,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
 </Episode>
 <Episode>
   <id>4659011</id>
-  <Combined_episodenumber>20</Combined_episodenumber>
+  <Combined_episodenumber>20.0</Combined_episodenumber>
   <Combined_season>9</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>20.0</DVD_episodenumber>
+  <DVD_season>9</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Daisy</EpisodeName>
@@ -6720,12 +6720,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Overview>Marshall enlists Ted and Barney to help him figure out where Lily went when she left in the middle of their fight.</Overview>
   <ProductionCode>9ALH20</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>60</RatingCount>
+  <RatingCount>68</RatingCount>
   <SeasonNumber>9</SeasonNumber>
   <Writer>Carter Bays|Craig Thomas</Writer>
   <absolute_number>204</absolute_number>
   <filename>episodes/75760/4659011.jpg</filename>
-  <lastupdated>1405620758</lastupdated>
+  <lastupdated>1414163334</lastupdated>
   <seasonid>522807</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added>2014-03-06 13:01:19</thumb_added>
@@ -6734,12 +6734,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
 </Episode>
 <Episode>
   <id>4742877</id>
-  <Combined_episodenumber>21</Combined_episodenumber>
+  <Combined_episodenumber>21.0</Combined_episodenumber>
   <Combined_season>9</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>21.0</DVD_episodenumber>
+  <DVD_season>9</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Gary Blauman</EpisodeName>
@@ -6751,12 +6751,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Overview>Gary Blauman shows up at Barney and Robin's wedding, sending the gang into a frenzy about which table to seat him at. Through their debate, they realize each of them either hates or loves Gary. Meanwhile, in the year 2014, Ted and The Mother go out on their first date.</Overview>
   <ProductionCode>9ALH22</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>59</RatingCount>
+  <RatingCount>68</RatingCount>
   <SeasonNumber>9</SeasonNumber>
   <Writer>Kourtney Kang</Writer>
   <absolute_number>205</absolute_number>
   <filename>episodes/75760/4742877.jpg</filename>
-  <lastupdated>1405620837</lastupdated>
+  <lastupdated>1414163341</lastupdated>
   <seasonid>522807</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added>2014-03-06 13:05:49</thumb_added>
@@ -6765,12 +6765,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
 </Episode>
 <Episode>
   <id>4742878</id>
-  <Combined_episodenumber>22</Combined_episodenumber>
+  <Combined_episodenumber>22.0</Combined_episodenumber>
   <Combined_season>9</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>22.0</DVD_episodenumber>
+  <DVD_season>9</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>The End of the Aisle</EpisodeName>
@@ -6781,13 +6781,13 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Language>en</Language>
   <Overview>With only a half-hour to go, both Barney and Robin have panic attacks about their upcoming nuptials. Meanwhile, Marshall and Lily rewrite their old wedding vows.</Overview>
   <ProductionCode>9ALH21</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>56</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>66</RatingCount>
   <SeasonNumber>9</SeasonNumber>
   <Writer>Carter Bays|Craig Thomas</Writer>
   <absolute_number>206</absolute_number>
   <filename>episodes/75760/4742878.jpg</filename>
-  <lastupdated>1405789949</lastupdated>
+  <lastupdated>1414163354</lastupdated>
   <seasonid>522807</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added>2014-03-13 04:17:10</thumb_added>
@@ -6796,12 +6796,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
 </Episode>
 <Episode>
   <id>4742879</id>
-  <Combined_episodenumber>23</Combined_episodenumber>
+  <Combined_episodenumber>23.1</Combined_episodenumber>
   <Combined_season>9</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>23.1</DVD_episodenumber>
+  <DVD_season>9</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Last Forever (1)</EpisodeName>
@@ -6813,12 +6813,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Overview>Ted finally finishes telling his kids the story of how he met their mother.</Overview>
   <ProductionCode>9ALH23</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>58</RatingCount>
+  <RatingCount>69</RatingCount>
   <SeasonNumber>9</SeasonNumber>
   <Writer>Carter Bays|Craig Thomas</Writer>
   <absolute_number>207</absolute_number>
   <filename>episodes/75760/4742879.jpg</filename>
-  <lastupdated>1405776510</lastupdated>
+  <lastupdated>1414163371</lastupdated>
   <seasonid>522807</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added>2014-03-15 05:15:58</thumb_added>
@@ -6827,12 +6827,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
 </Episode>
 <Episode>
   <id>4844181</id>
-  <Combined_episodenumber>24</Combined_episodenumber>
+  <Combined_episodenumber>23.2</Combined_episodenumber>
   <Combined_season>9</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>23.2</DVD_episodenumber>
+  <DVD_season>9</DVD_season>
   <Director>Pamela Fryman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Last Forever (2)</EpisodeName>
@@ -6844,12 +6844,12 @@ Meanwhile, Robin's obnoxious colleague invites her to a party at his apartment.<
   <Overview>Ted finally finishes telling his kids the story of how he met their mother.</Overview>
   <ProductionCode>9ALH24</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>26</RatingCount>
+  <RatingCount>35</RatingCount>
   <SeasonNumber>9</SeasonNumber>
   <Writer>Carter Bays|Craig Thomas</Writer>
   <absolute_number>208</absolute_number>
   <filename>episodes/75760/4844181.jpg</filename>
-  <lastupdated>1405776527</lastupdated>
+  <lastupdated>1414163381</lastupdated>
   <seasonid>522807</seasonid>
   <seriesid>75760</seriesid>
   <thumb_added>2014-04-01 09:36:01</thumb_added>

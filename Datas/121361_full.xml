@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Data><Series>
   <id>121361</id>
-  <Actors>|Peter Dinklage|Emilia Clarke|Lena Headey|Charles Dance|Sophie Turner|Rory McCann|Maisie Williams|Iain Glen|Kit Harington|Nikolaj Coster-Waldau|Dean-Charles Chapman|Paul Kaye|Clive Russell|Ellie Kendrick|Jacob Anderson|Kerry Ingram|Ciarán Hinds|Iwan Rheon|Pedro Pascal|Michael McElhatton|Art Parkinson|Nathalie Emmanuel|Mackenzie Crook|Roy Dotrice|James Cosmo|Hannah Murray|Amrita Acharia|Aimee Richardson|Eugene Simon|Joseph Mawle|Ron Donachie|Lino Facioli|Elyes Gabel|Nonso Anozie|Oona Chaplin|Kate Dickie|Peter Vaughan|Patrick Malahide|Rose Leslie|Natalia Tena|Julian Glover|Joe Dempsie|Tom Wlaschiha|Finn Jones|Kristian Nairn|Donald Sumpter|Sibel Kekilli|John Bradley|Esmé Bianco|Gethin Anthony|Natalie Dormer|Jerome Flynn|Gwendoline Christie|Gemma Whelan|Liam Cunningham|Carice van Houten|Stephen Dillane|Conleth Hill|Richard Madden|Mark Addy|Jack Gleeson|Alfie Allen|Aidan Gillen|Harry Lloyd|Isaac Hempstead-Wright|Jason Momoa|Michelle Fairley|Sean Bean|</Actors>
+  <Actors>|Emilia Clarke|Lena Headey|Natalie Dormer|Peter Dinklage|Tobias Menzies|Charles Dance|Sophie Turner|Rory McCann|Maisie Williams|Iain Glen|Kit Harington|Nikolaj Coster-Waldau|Dean-Charles Chapman|Paul Kaye|Clive Russell|Ellie Kendrick|Jacob Anderson|Kerry Ingram|Ciarán Hinds|Iwan Rheon|Pedro Pascal|Michael McElhatton|Art Parkinson|Nathalie Emmanuel|Mackenzie Crook|Roy Dotrice|James Cosmo|Hannah Murray|Amrita Acharia|Aimee Richardson|Eugene Simon|Joseph Mawle|Ron Donachie|Lino Facioli|Elyes Gabel|Nonso Anozie|Oona Chaplin|Kate Dickie|Peter Vaughan|Patrick Malahide|Rose Leslie|Natalia Tena|Julian Glover|Joe Dempsie|Tom Wlaschiha|Finn Jones|Kristian Nairn|Donald Sumpter|Sibel Kekilli|John Bradley|Esmé Bianco|Gethin Anthony|Jerome Flynn|Gwendoline Christie|Gemma Whelan|Liam Cunningham|Carice van Houten|Stephen Dillane|Conleth Hill|Richard Madden|Mark Addy|Jack Gleeson|Alfie Allen|Aidan Gillen|Harry Lloyd|Isaac Hempstead-Wright|Jason Momoa|Michelle Fairley|Sean Bean|Thomas Sangster|</Actors>
   <Airs_DayOfWeek>Sunday</Airs_DayOfWeek>
   <Airs_Time>9:00 PM</Airs_Time>
   <ContentRating>TV-MA</ContentRating>
   <FirstAired>2011-04-17</FirstAired>
-  <Genre>|Action|Adventure|Drama|Fantasy|</Genre>
+  <Genre>|Adventure|Drama|Fantasy|</Genre>
   <IMDB_ID>tt0944947</IMDB_ID>
   <Language>en</Language>
   <Network>HBO</Network>
   <NetworkID></NetworkID>
   <Overview>Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.</Overview>
   <Rating>9.4</Rating>
-  <RatingCount>772</RatingCount>
+  <RatingCount>807</RatingCount>
   <Runtime>60</Runtime>
   <SeriesID>77121</SeriesID>
   <SeriesName>Game of Thrones</SeriesName>
@@ -22,8 +22,8 @@
   <addedBy>10072</addedBy>
   <banner>graphical/121361-g19.jpg</banner>
   <fanart>fanart/original/121361-15.jpg</fanart>
-  <lastupdated>1405879673</lastupdated>
-  <poster>posters/121361-4.jpg</poster>
+  <lastupdated>1415032898</lastupdated>
+  <poster>posters/121361-30.jpg</poster>
   <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>SH01389809</zap2it_id>
 </Series>
@@ -318,7 +318,7 @@
   <Overview>Take a look back and a look forward to the fourth season of the hit HBO series, the show features clips from upcoming episodes, behind the scenes footage, interviews with talent, and cast members' answers to questions posed by fans.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>12</RatingCount>
+  <RatingCount>13</RatingCount>
   <SeasonNumber>0</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
@@ -386,7 +386,7 @@
   <Overview>Ned Stark, Lord of Winterfell learns that his mentor, Jon Arryn, has died and that King Robert is on his way north to offer Ned Arryn’s position as the King’s Hand. Across the Narrow Sea in Pentos, Viserys Targaryen plans to wed his sister Daenerys to the nomadic Dothraki warrior leader, Khal Drogo to forge an alliance to take the throne.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>631</RatingCount>
+  <RatingCount>644</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>David Benioff|D. B. Weiss</Writer>
   <absolute_number>1</absolute_number>
@@ -417,7 +417,7 @@
   <Overview>Having agreed to become the King’s Hand, Ned leaves Winterfell with daughters Sansa and Arya, while Catelyn stays behind in Winterfell. Jon Snow heads north to join the brotherhood of the Night’s Watch. Tyrion decides to forego the trip south with his family, instead joining Jon in the entourage heading to the Wall. Viserys bides his time in hopes of winning back the throne, while Daenerys focuses her attention on learning how to please her new husband, Drogo.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>576</RatingCount>
+  <RatingCount>585</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>David Benioff|D. B. Weiss</Writer>
   <absolute_number>2</absolute_number>
@@ -448,7 +448,7 @@
   <Overview>Arriving at King’s Landing, Ned is shocked to learn of the Crown’s profligacy from his new advisors. At Castle Black, Jon Snow impresses Tyrion at the expense of greener recruits. Suspecting the Lannisters had a hand in Bran’s fall, Catelyn covertly follows her husband to King’s Landing, where she is intercepted by Petyr Baelish, a.k.a. “Littlefinger,” a shrewd longtime ally and brothel owner. Cersei and Jaime ponder the implications of Bran’s recovery; Arya studies swordsmanship. On the road to Vaes Dothrak, Daenerys finds herself at odds with Viserys.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>534</RatingCount>
+  <RatingCount>540</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>David Benioff|D. B. Weiss</Writer>
   <absolute_number>3</absolute_number>
@@ -479,7 +479,7 @@
   <Overview>Ned looks for clues to the death of his predecessor, and uncovers one of King Robert’s bastards. Robert and his guests witness a tournament honoring Ned. Jon takes measures to protect Sam from further abuse at Castle Black; a frustrated Viserys clashes with Daenerys in Vaes Dothrak; Sansa imagines her future as a queen, while Arya envisions a far different future. Catelyn rallies her husband’s allies to make a point, while Tyrion finds himself caught in the wrong place at the wrong time.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>508</RatingCount>
+  <RatingCount>512</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Bryan Cogman</Writer>
   <absolute_number>4</absolute_number>
@@ -510,7 +510,7 @@
   <Overview>Incensed over news of Daenerys’ alliance with the Dothrakis, Robert orders a preemptive strike on the Targaryens that drives a wedge in his relationship with Ned. A captive Tyrion helps Catelyn, but receives a cold reception at the Eyrie from her sister, Jon Arryn’s widow Lysa. Sansa is charmed by the dashing Ser Loras Tyrell, a.k.a. the Knight of Flowers. Arya overhears a plot against her father.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>516</RatingCount>
+  <RatingCount>523</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>David Benioff|D. B. Weiss</Writer>
   <absolute_number>5</absolute_number>
@@ -541,7 +541,7 @@
   <Overview>Reinstated as the Hand, Ned sits for the King while Robert is on a hunt. Ned issues a decree that could have long-term consequences throughout the Seven Kingdoms. At the Eyrie, Tyrion confesses to his &quot;crimes,&quot; and demands that Lysa give him a trial by combat. Joffrey apologizes to Sansa. Viserys receives his final payment for Daenerys from Drogo.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.2</Rating>
-  <RatingCount>492</RatingCount>
+  <RatingCount>501</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Jane Espenson|David Benioff|D. B. Weiss</Writer>
   <absolute_number>6</absolute_number>
@@ -572,7 +572,7 @@
   <Overview>Explaining that the future of the Lannisters is at stake, Tywin presses Jaime to “be the man you were meant to be” as they prepare for battle. Ned confronts Cersei about the secrets that killed Jon Arryn. With the fate of the missing Benjen very much on his mind, Jon takes his Night’s Watch vows, though not with the assignment he coveted. After Ser Jorah saves Daenerys from treachery, an enraged Drogo vows to lead the Dothraki where they’ve never gone before. An injured Robert takes pains to ensure an orderly transition at King’s Landing.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.1</Rating>
-  <RatingCount>523</RatingCount>
+  <RatingCount>530</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>David Benioff|D. B. Weiss</Writer>
   <absolute_number>7</absolute_number>
@@ -603,7 +603,7 @@
   <Overview>In the aftermath of Ned's capture, Syrio and Arya face off against Lannister guards, while Cersei manipulates Sansa to her own ends. Robb rallies his father's northern allies against Tywin Lannister and heads south to war. Tyrion forms an uneasy alliance with the hill tribes and reunites with his father. Jon lashes out at Ser Alliser Thorne and battles a mysterious attacker from beyond the Wall. Dany is forced to reconcile her desire to conquer Westeros with Drogo's savagery after the Dothraki raid a peaceful village.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>482</RatingCount>
+  <RatingCount>489</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>George R. R. Martin</Writer>
   <absolute_number>8</absolute_number>
@@ -634,7 +634,7 @@
   <Overview>With Sansa's life in danger, Ned makes a fateful decision. Catelyn brokers an unsavory deal with the slippery Walder Frey. Tyrion acquires a mistress and is forced by his father to fight on the front lines. Robb wins his first major victory and captures a prized prisoner. Jon is rewarded for his valor and discovers a dark secret about Maester Aemon. As Drogo's wound festers, Dany defies her bloodrider Qotho and puts her trust in the enslaved witch Mirri Maz Duur.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.2</Rating>
-  <RatingCount>489</RatingCount>
+  <RatingCount>496</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>David Benioff|D. B. Weiss</Writer>
   <absolute_number>9</absolute_number>
@@ -665,7 +665,7 @@
   <Overview>As tragic news spreads across the Seven Kingdoms, Bran and Rickon share a prophetic dream, Catelyn interrogates Jamie about her son's fall, and Robb's destiny is forever changed. After a surprising decision by his father, Tyrion heads south. Arya assumes a new identity in an attempt to escape King's Landing, and Sansa is terrorized by Joffrey. At the Wall, Jon is forced to choose between the Night's Watch and the family he left behind. Across the sea, Dany pays a terrible price for her love, but finds new hope.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.5</Rating>
-  <RatingCount>477</RatingCount>
+  <RatingCount>484</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>David Benioff|D. B. Weiss</Writer>
   <absolute_number>10</absolute_number>
@@ -695,8 +695,8 @@
   <Language>en</Language>
   <Overview>As Robb Stark and his northern army continue the war against the Lannisters, Tyrion arrives in King’s Landing to counsel Joffrey and temper the young king’s excesses.  On the island of Dragonstone, Stannis Baratheon plots an invasion to claim his late brother’s throne, allying himself with the fiery Melisandre, a strange priestess of a stranger god.  Across the sea, Daenerys, her three young dragons, and the khalasar trek through the Red Waste in search of allies, or water.  In the North, Bran presides over a threadbare Winterfell, while beyond the Wall, Jon Snow and the Night’s Watch must shelter with a devious wildling.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>8.0</Rating>
-  <RatingCount>421</RatingCount>
+  <Rating>7.9</Rating>
+  <RatingCount>430</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>David Benioff|D.B. Weiss</Writer>
   <absolute_number>11</absolute_number>
@@ -727,7 +727,7 @@
   <Overview>In the wake of a bloody purge in the capital, Tyrion chastens Cersei for alienating the king’s subjects.  On the road north, Arya shares a secret with Gendry, a Night’s Watch recruit.  With supplies dwindling, one of Dany’s scouts returns with news of their position.  After nine years as a Stark ward, Theon Greyjoy reunites with his father Balon, who wants to restore the ancient Kingdom of the Iron Islands.  Davos enlists Salladhor Saan, a pirate, to join forces with Stannis and Melisandre for a naval invasion of King’s Landing.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>415</RatingCount>
+  <RatingCount>424</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>David Benioff|D.B. Weiss</Writer>
   <absolute_number>12</absolute_number>
@@ -758,7 +758,7 @@
   <Overview>At the Red Keep, Tyrion plots three alliances through the promise of marriage.  Catelyn arrives in the Stormlands to forge an alliance of her own, but King Renly, his new wife Margaery, and her brother Loras Tyrell have other plans.  At Winterfell, Luwin tries to decipher Bran’s dreams.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>403</RatingCount>
+  <RatingCount>410</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Bryan Cogman</Writer>
   <absolute_number>13</absolute_number>
@@ -789,7 +789,7 @@
   <Overview>Joffrey punishes Sansa for Robb’s victories, and Tyrion scrambles to temper the king’s cruelty. Catelyn entreats Stannis and Renly to unite against the Lannisters. Dany and her khalasar arrive at the prosperous city of Qarth. Tyrion coerces a relative into being his eyes and ears. Arya and Gendry are taken to Harrenhal, where their lives are in the hands of Ser Gregor Clegane. Stannis orders Davos to smuggle Melisandre into a secret cove.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>400</RatingCount>
+  <RatingCount>407</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Vanessa Taylor</Writer>
   <absolute_number>14</absolute_number>
@@ -820,7 +820,7 @@
   <Overview>The Baratheon rivalry ends, driving Catelyn to flee and Littlefinger to act. At King’s Landing, Tyrion’s source alerts him to Joffrey’s defense plan - and a mysterious secret weapon. Theon sails to the Stony Shore to prove he’s worthy to be called Ironborn. At Harrenhal, Arya receives a promise from Jaqen H’ghar, one of the prisoners she saved from the Gold Cloaks. The Night’s Watch arrive at the Fist of the First Men, an ancient ringfort where they hope to stem the wildings' advance.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>396</RatingCount>
+  <RatingCount>405</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>David Benioff|D.B. Weiss</Writer>
   <absolute_number>15</absolute_number>
@@ -851,7 +851,7 @@
   <Overview>Theon completes his master stroke. In King's Landing, the Lannisters send Myrcella off to be married. Arya comes face to face with a surprise visitor. Dany vows to take what is hers. Robb and Catelyn receive crucial news. Qhorin gives Jon a chance to prove himself.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>395</RatingCount>
+  <RatingCount>403</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Vanessa Taylor</Writer>
   <absolute_number>16</absolute_number>
@@ -882,7 +882,7 @@
   <Overview>Jamie meets a distant relative. Daenerys receives an invitation to the House of the Undying. Theon leads a search party. Jon loses his way in the wilderness. Cersei counsels Sansa.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>399</RatingCount>
+  <RatingCount>408</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>David Benioff|D.B. Weiss</Writer>
   <absolute_number>17</absolute_number>
@@ -913,7 +913,7 @@
   <Overview>Theon receives a visitor. Arya asks her third and last death from Jaqen. While Stannis' army is reaching its destination, Davos is offered a reward.  Betrayal befalls Robb.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>390</RatingCount>
+  <RatingCount>398</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>David Benioff|D.B. Weiss</Writer>
   <absolute_number>18</absolute_number>
@@ -944,7 +944,7 @@
   <Overview>Tyrion and the Lannisters fight for their lives as Stannis’ fleet assaults King’s Landing.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.3</Rating>
-  <RatingCount>405</RatingCount>
+  <RatingCount>412</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>George R. R. Martin</Writer>
   <absolute_number>19</absolute_number>
@@ -975,7 +975,7 @@
   <Overview>Tyrion awakens to a changed situation. King Joffrey doles out rewards to his subjects. As Theon stirs his men to action, Luwin offers some final advice. Brienne silences Jaime. Arya receives a gift from Jaqen. Dany goes to a strange place. Jon proves himself to Qhorin.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.3</Rating>
-  <RatingCount>368</RatingCount>
+  <RatingCount>375</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>David Benioff|D.B. Weiss</Writer>
   <absolute_number>20</absolute_number>
@@ -1006,7 +1006,7 @@
   <Overview>Jon meets the King-Beyond-the-Wall while his Night Watch Brothers flee south. In King's Landing, Tyrion wants a reward, Margaery shows her charitable nature, Cersei arranges a dinner party, and Littlefinger offers to help Sansa. Across the Narrow Sea, Daenerys starts her journey west.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>325</RatingCount>
+  <RatingCount>332</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>David Benioff|D. B. Weiss</Writer>
   <absolute_number>21</absolute_number>
@@ -1037,7 +1037,7 @@
   <Overview>Sansa says too much. Shae asks Tyrion for a favor. Jaime finds a way to pass the time, while Arya encounters the Brotherhood Without Banners.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>309</RatingCount>
+  <RatingCount>316</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Vanessa Taylor</Writer>
   <absolute_number>22</absolute_number>
@@ -1068,7 +1068,7 @@
   <Overview>Tyrion shoulders new responsibilities. Jon is taken to the Fist of the First Men. Daenerys meets with the slavers. Jaime strikes a deal with his captors.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>307</RatingCount>
+  <RatingCount>317</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>David Benioff|D.B. Weiss</Writer>
   <absolute_number>23</absolute_number>
@@ -1099,7 +1099,7 @@
   <Overview>Trouble brews among the Night's Watch at Craster's. Margaery takes Joffrey out of his comfort zone. Arya meets the leader of the Brotherhood. Varys plots revenge on an old foe. Theon mournfully recalls his missteps. Daenerys deftly orchestrates her exit from Astapor.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.3</Rating>
-  <RatingCount>304</RatingCount>
+  <RatingCount>312</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>David Benioff|D.B. Weiss</Writer>
   <absolute_number>24</absolute_number>
@@ -1130,7 +1130,7 @@
   <Overview>The Hound is judged by the gods. Jaime is judged by men. Jon proves himself. Robb is betrayed. Tyrion learns the cost of weddings.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>284</RatingCount>
+  <RatingCount>291</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Bryan Cogman</Writer>
   <absolute_number>25</absolute_number>
@@ -1161,7 +1161,7 @@
   <Overview>Tywin plans strategic unions for the Lannisters. Melisandre pays a visit to the Riverlands. Robb weighs a compromise to repair his alliance with House Frey. Roose Bolton decides what to do with Jaime Lannister. Jon, Ygritte, and the Wildlings face a daunting climb.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>275</RatingCount>
+  <RatingCount>283</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>David Benioff|D.B. Weiss</Writer>
   <absolute_number>26</absolute_number>
@@ -1192,7 +1192,7 @@
   <Overview>Daenerys exchanges gifts with a slave lord outside of Yunkai. As Sansa frets about her prospects, Shae chafes at Tyrion’s new situation. Tywin counsels the king, and Melisandre reveals a secret to Gendry. Brienne faces a formidable foe in Harrenhal.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>276</RatingCount>
+  <RatingCount>285</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>George R.R. Martin</Writer>
   <absolute_number>27</absolute_number>
@@ -1223,7 +1223,7 @@
   <Overview>King’s Landing hosts a wedding, and Tyrion and Sansa spend the night together. Daenerys meets the Titan’s Bastard. Davos demands proof from Melisandre. Sam and Gilly meet an older gentleman.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>270</RatingCount>
+  <RatingCount>278</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>David Benioff|D.B. Weiss</Writer>
   <absolute_number>28</absolute_number>
@@ -1254,7 +1254,7 @@
   <Overview>Robb presents himself to Walder Frey, and Edmure meets his bride. Jon faces his harshest test yet. Bran discovers a new gift. Daario and Jorah debate how to take Yunkai. House Frey joins with House Tully.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.1</Rating>
-  <RatingCount>268</RatingCount>
+  <RatingCount>277</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>David Benioff|D.B. Weiss</Writer>
   <absolute_number>29</absolute_number>
@@ -1285,7 +1285,7 @@
   <Overview>Joffrey challenges Tywin. Bran tells a ghost story. In Dragonstone, mercy comes from strange quarters. Daenerys waits to see if she is a conqueror or a liberator.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>239</RatingCount>
+  <RatingCount>248</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>David Benioff|D.B. Weiss</Writer>
   <absolute_number>30</absolute_number>
@@ -1316,12 +1316,12 @@
   <Overview>Tyrion welcomes a surprise guest to King’s Landing for the royal wedding, but fears he’s come to the Red Keep for something else. Meanwhile, Jon warns his skeptical Night’s Watch superiors about an impending attack. Jaime struggles to regain his status at home. Arya encounters a face from her past, and Daario Naharis discusses strategy with Daenerys on the journey to the slave city Meereen.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.1</Rating>
-  <RatingCount>160</RatingCount>
+  <RatingCount>181</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>David Benioff|D.B. Weiss</Writer>
   <absolute_number>31</absolute_number>
   <filename>episodes/121361/4721938.jpg</filename>
-  <lastupdated>1405037447</lastupdated>
+  <lastupdated>1411939563</lastupdated>
   <seasonid>568657</seasonid>
   <seriesid>121361</seriesid>
   <thumb_added>2014-05-01 16:24:04</thumb_added>
@@ -1347,12 +1347,12 @@
   <Overview>A who’s who of honored guests turns out for Joffrey and Margaery’s wedding in King’s Landing, but the king’s taste in entertainment rubs many of them the wrong way. Meanwhile, Bronn gives a lesson to an unlikely pupil; Bran’s vision helps map out his journey; Stannis loses patience with Davos; and Ramsay takes a perverse delight in his new pet.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.3</Rating>
-  <RatingCount>163</RatingCount>
+  <RatingCount>186</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>George R. R. Martin</Writer>
   <absolute_number>32</absolute_number>
   <filename>episodes/121361/4801602.jpg</filename>
-  <lastupdated>1403041980</lastupdated>
+  <lastupdated>1411939575</lastupdated>
   <seasonid>568657</seasonid>
   <seriesid>121361</seriesid>
   <thumb_added>2014-04-09 14:44:14</thumb_added>
@@ -1378,12 +1378,12 @@
   <Overview>In the frenzied aftermath of the royal wedding, Tyrion gets a visit from a loyal subject, but wonders if anyone in his family will help him out of his current predicament. Meanwhile, Tywin offers to work for the common good with a presumed enemy. Sam takes stock of the personnel at Castle Black. The Hound gives another life lesson to Arya, and Daenerys makes a decision outside the walls of Meereen.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>147</RatingCount>
+  <RatingCount>172</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>David Benioff|D.B. Weiss</Writer>
   <absolute_number>33</absolute_number>
   <filename>episodes/121361/4801603.jpg</filename>
-  <lastupdated>1403041963</lastupdated>
+  <lastupdated>1411939594</lastupdated>
   <seasonid>568657</seasonid>
   <seriesid>121361</seriesid>
   <thumb_added>2014-05-02 01:02:04</thumb_added>
@@ -1409,12 +1409,12 @@
   <Overview>Jon welcomes volunteers. Bran, Jojen, Meera and Hodor seek shelter. Jaime and Brienne discuss his honor. Daenerys balances justice and mercy.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>146</RatingCount>
+  <RatingCount>167</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Bryan Cogman</Writer>
   <absolute_number>34</absolute_number>
   <filename>episodes/121361/4801604.jpg</filename>
-  <lastupdated>1403041946</lastupdated>
+  <lastupdated>1411939609</lastupdated>
   <seasonid>568657</seasonid>
   <seriesid>121361</seriesid>
   <thumb_added>2014-04-25 09:07:09</thumb_added>
@@ -1440,12 +1440,12 @@
   <Overview>Jon starts a new mission. Cersei and Tywin consider the next move for the Crown. Daenerys makes plans for the future after hearing the latest news from King's Landing. Lord Baelish and Sansa reach their destination.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>155</RatingCount>
+  <RatingCount>179</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>David Benioff|D.B. Weiss</Writer>
   <absolute_number>35</absolute_number>
   <filename>episodes/121361/4801605.jpg</filename>
-  <lastupdated>1404926077</lastupdated>
+  <lastupdated>1411939622</lastupdated>
   <seasonid>568657</seasonid>
   <seriesid>121361</seriesid>
   <thumb_added>2014-05-02 14:26:50</thumb_added>
@@ -1470,13 +1470,13 @@
   <Language>en</Language>
   <Overview>Tyrion faces his father in the throne room. Stannis and Davos put their faith in a new strategy. Daenerys' sphere of influence expands.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>8.1</Rating>
-  <RatingCount>153</RatingCount>
+  <Rating>8.0</Rating>
+  <RatingCount>178</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Bryan Cogman</Writer>
   <absolute_number>36</absolute_number>
   <filename>episodes/121361/4801606.jpg</filename>
-  <lastupdated>1403602458</lastupdated>
+  <lastupdated>1411939635</lastupdated>
   <seasonid>568657</seasonid>
   <seriesid>121361</seriesid>
   <thumb_added>2014-05-09 10:06:58</thumb_added>
@@ -1502,12 +1502,12 @@
   <Overview>Tyrion gains an unlikely ally. Daario asks Daenerys to allow him to do what he does best. Jon's warnings about the vulnerability of the Wall are ignored. Brienne follows a new lead. Arya and The Hound come across Rorge. Sansa discovers Littlefinger's true intentions for The Eyrie.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.1</Rating>
-  <RatingCount>135</RatingCount>
+  <RatingCount>162</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>David Benioff|D.B. Weiss</Writer>
   <absolute_number>37</absolute_number>
   <filename>episodes/121361/4801607.jpg</filename>
-  <lastupdated>1403602540</lastupdated>
+  <lastupdated>1411939649</lastupdated>
   <seasonid>568657</seasonid>
   <seriesid>121361</seriesid>
   <thumb_added>2014-05-11 19:47:41</thumb_added>
@@ -1533,12 +1533,12 @@
   <Overview>Unexpected visitors arrive in Mole's Town. Sam questions his decision regarding Gilly. Littlefinger's motives are questioned. Sansa is interrogated by Lord Royce. Arya and The Hound arrive at the Bloody Gate. Ramsay tries to prove himself to his father. Tyrion's fate is decided.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.2</Rating>
-  <RatingCount>128</RatingCount>
+  <RatingCount>158</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>David Benioff|D.B. Weiss</Writer>
   <absolute_number>38</absolute_number>
   <filename>episodes/121361/4801608.jpg</filename>
-  <lastupdated>1403602665</lastupdated>
+  <lastupdated>1411939661</lastupdated>
   <seasonid>568657</seasonid>
   <seriesid>121361</seriesid>
   <thumb_added>2014-05-18 19:54:03</thumb_added>
@@ -1564,12 +1564,12 @@
   <Overview>The Night's Watch attempts to defend Castle Black against Mance Rayder's massive wildling army, who plan to siege the fortress from the north, while a secret garrison of wildlings, including Ygritte, are poised to launch a surprise attack from the south.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>139</RatingCount>
+  <RatingCount>172</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>David Benioff|D.B. Weiss</Writer>
   <absolute_number>39</absolute_number>
   <filename>episodes/121361/4801609.jpg</filename>
-  <lastupdated>1403602771</lastupdated>
+  <lastupdated>1411939677</lastupdated>
   <seasonid>568657</seasonid>
   <seriesid>121361</seriesid>
   <thumb_added>2014-06-01 21:31:33</thumb_added>
@@ -1595,12 +1595,12 @@
   <Overview>Circumstances change after an unexpected arrival from north of the Wall. Daenerys must face harsh realities. Bran learns more about his destiny. Tyrion sees the truth about his situation.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.2</Rating>
-  <RatingCount>125</RatingCount>
+  <RatingCount>159</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>David Benioff|D.B. Weiss</Writer>
   <absolute_number>40</absolute_number>
   <filename>episodes/121361/4801610.jpg</filename>
-  <lastupdated>1403771119</lastupdated>
+  <lastupdated>1411939711</lastupdated>
   <seasonid>568657</seasonid>
   <seriesid>121361</seriesid>
   <thumb_added>2014-06-08 21:07:31</thumb_added>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Data><Series>
   <id>73762</id>
-  <Actors>|Ellen Pompeo|Sandra Oh|Patrick Dempsey|Katherine Heigl|Kate Walsh|Sara Ramirez|Eric Dane|Chyler Leigh|Jesse Williams|Sarah Drew|T.R. Knight|Justin Chambers|James Pickens Jr.|Chandra Wilson|Kevin McKidd|Jessica Capshaw|Brooke Smith|Tessa Ferrer|Jerrika Hinton|Camilla Luddington|Gaius Charles|Kim Raver|Loretta Devine|Isaiah Washington|</Actors>
+  <Actors>|Ellen Pompeo|Patrick Dempsey|Justin Chambers|James Pickens Jr.|Chandra Wilson|Kate Walsh|Sara Ramirez|Eric Dane|Brooke Smith|Chyler Leigh|Kelly McCreary|Caterina Scorsone|Tessa Ferrer|Jerrika Hinton|Camilla Luddington|Gaius Charles|Kim Raver|Jesse Williams|Sarah Drew|Loretta Devine|Isaiah Washington|Sandra Oh|T.R. Knight|Katherine Heigl|Kevin McKidd|Jessica Capshaw|</Actors>
   <Airs_DayOfWeek>Thursday</Airs_DayOfWeek>
   <Airs_Time>8:00 PM</Airs_Time>
   <ContentRating>TV-14</ContentRating>
@@ -13,1620 +13,20 @@
   <NetworkID></NetworkID>
   <Overview>Meet Meredith Grey, a brilliant first-year surgical intern at Seattle Grace Hospital. Together with her fellow residents-in-training, Meredith navigates her way through the daily traumas and social land mines of the life inside the hospital and out in the real world. Grey's Anatomy is a smart and witty look at young people struggling to be doctors and doctors struggling to be human. </Overview>
   <Rating>8.3</Rating>
-  <RatingCount>185</RatingCount>
+  <RatingCount>187</RatingCount>
   <Runtime>60</Runtime>
   <SeriesID>24440</SeriesID>
   <SeriesName>Grey's Anatomy</SeriesName>
   <Status>Continuing</Status>
   <added></added>
   <addedBy></addedBy>
-  <banner>graphical/73762-g14.jpg</banner>
+  <banner>graphical/73762-g25.jpg</banner>
   <fanart>fanart/original/73762-28.jpg</fanart>
-  <lastupdated>1405871793</lastupdated>
-  <poster>posters/73762-13.jpg</poster>
+  <lastupdated>1415026806</lastupdated>
+  <poster>posters/73762-5.jpg</poster>
   <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>SH732283</zap2it_id>
 </Series>
-<Episode>
-  <id>1399501</id>
-  <Combined_episodenumber>6</Combined_episodenumber>
-  <Combined_season>1</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season>1</DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>Under The Knife: Behind The Scenes</EpisodeName>
-  <EpisodeNumber>6</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1365828591</lastupdated>
-  <seasonid>21224</seasonid>
-  <seriesid>73762</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>2895681</id>
-  <Combined_episodenumber>8</Combined_episodenumber>
-  <Combined_season>3</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season>3</DVD_season>
-  <Director></Director>
-  <EpImgFlag>1</EpImgFlag>
-  <EpisodeName>Dissecting Grey's Anatomy: Unaired Scenes</EpisodeName>
-  <EpisodeNumber>8</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename>episodes/73762/2895681.jpg</filename>
-  <lastupdated>1365830597</lastupdated>
-  <seasonid>21224</seasonid>
-  <seriesid>73762</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height>300</thumb_height>
-  <thumb_width>400</thumb_width>
-</Episode>
-<Episode>
-  <id>2895691</id>
-  <Combined_episodenumber>9</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag>1</EpImgFlag>
-  <EpisodeName>Jimmy Kimmel on Grey's Anatomy</EpisodeName>
-  <EpisodeNumber>9</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename>episodes/73762/2895691.jpg</filename>
-  <lastupdated>1365830140</lastupdated>
-  <seasonid>21224</seasonid>
-  <seriesid>73762</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height>300</thumb_height>
-  <thumb_width>400</thumb_width>
-</Episode>
-<Episode>
-  <id>2895701</id>
-  <Combined_episodenumber>10</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag>1</EpImgFlag>
-  <EpisodeName>Set Tour</EpisodeName>
-  <EpisodeNumber>10</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename>episodes/73762/2895701.jpg</filename>
-  <lastupdated>1365829633</lastupdated>
-  <seasonid>21224</seasonid>
-  <seriesid>73762</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height>300</thumb_height>
-  <thumb_width>400</thumb_width>
-</Episode>
-<Episode>
-  <id>2895711</id>
-  <Combined_episodenumber>11</Combined_episodenumber>
-  <Combined_season>2</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season>2</DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>The Grey's Cast answers America's Questions</EpisodeName>
-  <EpisodeNumber>11</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1365829483</lastupdated>
-  <seasonid>21224</seasonid>
-  <seriesid>73762</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>2895721</id>
-  <Combined_episodenumber>12</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag>1</EpImgFlag>
-  <EpisodeName>The Softer Side of Bailey</EpisodeName>
-  <EpisodeNumber>12</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename>episodes/73762/2895721.jpg</filename>
-  <lastupdated>1365829550</lastupdated>
-  <seasonid>21224</seasonid>
-  <seriesid>73762</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height>300</thumb_height>
-  <thumb_width>400</thumb_width>
-</Episode>
-<Episode>
-  <id>3002451</id>
-  <Combined_episodenumber>25.0</Combined_episodenumber>
-  <Combined_season>6</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber>25.0</DVD_episodenumber>
-  <DVD_season>6</DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>Death and All His Friends (Extended)</EpisodeName>
-  <EpisodeNumber>13</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview>DVD extra extended episode &quot;Death and All His Friends&quot;</Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season>6</airsafter_season>
-  <airsbefore_episode>24</airsbefore_episode>
-  <airsbefore_season>6</airsbefore_season>
-  <filename></filename>
-  <lastupdated>1388343940</lastupdated>
-  <seasonid>21224</seasonid>
-  <seriesid>73762</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>3019711</id>
-  <Combined_episodenumber>14</Combined_episodenumber>
-  <Combined_season>1</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season>1</DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>Anatomy Of A Pilot</EpisodeName>
-  <EpisodeNumber>14</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1365828665</lastupdated>
-  <seasonid>21224</seasonid>
-  <seriesid>73762</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>3019721</id>
-  <Combined_episodenumber>15</Combined_episodenumber>
-  <Combined_season>4</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season>4</DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>New Docs On The Block</EpisodeName>
-  <EpisodeNumber>15</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1365850690</lastupdated>
-  <seasonid>21224</seasonid>
-  <seriesid>73762</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>3553081</id>
-  <Combined_episodenumber>16</Combined_episodenumber>
-  <Combined_season>6</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season>6</DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>Season Six Gag Reel</EpisodeName>
-  <EpisodeNumber>16</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1365919874</lastupdated>
-  <seasonid>21224</seasonid>
-  <seriesid>73762</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4171020</id>
-  <Combined_episodenumber>17</Combined_episodenumber>
-  <Combined_season>4</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season>4</DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>On Set With Patrick and Eric</EpisodeName>
-  <EpisodeNumber>17</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1365830889</lastupdated>
-  <seasonid>21224</seasonid>
-  <seriesid>73762</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4171021</id>
-  <Combined_episodenumber>18</Combined_episodenumber>
-  <Combined_season>4</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season>4</DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>Good Medicine: Favorite Scenes</EpisodeName>
-  <EpisodeNumber>18</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1365847582</lastupdated>
-  <seasonid>21224</seasonid>
-  <seriesid>73762</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4171022</id>
-  <Combined_episodenumber>19</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>In Stitches: Season Four Outtakes</EpisodeName>
-  <EpisodeNumber>19</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1365850922</lastupdated>
-  <seasonid>21224</seasonid>
-  <seriesid>73762</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4395851</id>
-  <Combined_episodenumber>20</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>Ipecac</EpisodeName>
-  <EpisodeNumber>20</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview>Back story of the on-set prop named Ipecac
-
-Hidden Easter Egg in Season 1 DVD set</Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season>1</airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1347410936</lastupdated>
-  <seasonid>21224</seasonid>
-  <seriesid>73762</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4395859</id>
-  <Combined_episodenumber>21</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>Creating </EpisodeName>
-  <EpisodeNumber>21</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1365830167</lastupdated>
-  <seasonid>21224</seasonid>
-  <seriesid>73762</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4545159</id>
-  <Combined_episodenumber>22</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director>Rob Corn</Director>
-  <EpImgFlag>2</EpImgFlag>
-  <EpisodeName>Beyond the Musical</EpisodeName>
-  <EpisodeNumber>22</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season>7</airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename>episodes/73762/4545159.jpg</filename>
-  <lastupdated>1372342190</lastupdated>
-  <seasonid>21224</seasonid>
-  <seriesid>73762</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height>225</thumb_height>
-  <thumb_width>400</thumb_width>
-</Episode>
-<Episode>
-  <id>4545221</id>
-  <Combined_episodenumber>23</Combined_episodenumber>
-  <Combined_season>3</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season>3</DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName></EpisodeName>
-  <EpisodeNumber>23</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1365830497</lastupdated>
-  <seasonid>21224</seasonid>
-  <seriesid>73762</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4545222</id>
-  <Combined_episodenumber>24</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName></EpisodeName>
-  <EpisodeNumber>24</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1365830399</lastupdated>
-  <seasonid>21224</seasonid>
-  <seriesid>73762</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4545223</id>
-  <Combined_episodenumber>25</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName></EpisodeName>
-  <EpisodeNumber>25</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1365830367</lastupdated>
-  <seasonid>21224</seasonid>
-  <seriesid>73762</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4545224</id>
-  <Combined_episodenumber>26</Combined_episodenumber>
-  <Combined_season>3</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season>3</DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName></EpisodeName>
-  <EpisodeNumber>26</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1365830554</lastupdated>
-  <seasonid>21224</seasonid>
-  <seriesid>73762</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4545225</id>
-  <Combined_episodenumber>27</Combined_episodenumber>
-  <Combined_season>4</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season>4</DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName></EpisodeName>
-  <EpisodeNumber>27</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1365830425</lastupdated>
-  <seasonid>21224</seasonid>
-  <seriesid>73762</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4545226</id>
-  <Combined_episodenumber>28</Combined_episodenumber>
-  <Combined_season>4</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season>4</DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName></EpisodeName>
-  <EpisodeNumber>28</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1365851250</lastupdated>
-  <seasonid>21224</seasonid>
-  <seriesid>73762</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4545227</id>
-  <Combined_episodenumber>29</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName></EpisodeName>
-  <EpisodeNumber>29</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1365851230</lastupdated>
-  <seasonid>21224</seasonid>
-  <seriesid>73762</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4545538</id>
-  <Combined_episodenumber>30</Combined_episodenumber>
-  <Combined_season>4</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season>4</DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName></EpisodeName>
-  <EpisodeNumber>30</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1365851339</lastupdated>
-  <seasonid>21224</seasonid>
-  <seriesid>73762</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4545554</id>
-  <Combined_episodenumber>31</Combined_episodenumber>
-  <Combined_season>5</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season>5</DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName></EpisodeName>
-  <EpisodeNumber>31</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1365852436</lastupdated>
-  <seasonid>21224</seasonid>
-  <seriesid>73762</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4545707</id>
-  <Combined_episodenumber>32</Combined_episodenumber>
-  <Combined_season>5</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season>5</DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName></EpisodeName>
-  <EpisodeNumber>32</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1365864566</lastupdated>
-  <seasonid>21224</seasonid>
-  <seriesid>73762</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4545708</id>
-  <Combined_episodenumber>33</Combined_episodenumber>
-  <Combined_season>5</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season>5</DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName></EpisodeName>
-  <EpisodeNumber>33</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1365864597</lastupdated>
-  <seasonid>21224</seasonid>
-  <seriesid>73762</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4546048</id>
-  <Combined_episodenumber>34</Combined_episodenumber>
-  <Combined_season>6</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season>6</DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName></EpisodeName>
-  <EpisodeNumber>34</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1365887929</lastupdated>
-  <seasonid>21224</seasonid>
-  <seriesid>73762</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4546644</id>
-  <Combined_episodenumber>35</Combined_episodenumber>
-  <Combined_season>7</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season>7</DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName></EpisodeName>
-  <EpisodeNumber>35</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1365919301</lastupdated>
-  <seasonid>21224</seasonid>
-  <seriesid>73762</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4546645</id>
-  <Combined_episodenumber>36</Combined_episodenumber>
-  <Combined_season>7</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season>7</DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName></EpisodeName>
-  <EpisodeNumber>36</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1365919380</lastupdated>
-  <seasonid>21224</seasonid>
-  <seriesid>73762</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4546646</id>
-  <Combined_episodenumber>37</Combined_episodenumber>
-  <Combined_season>7</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season>7</DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName></EpisodeName>
-  <EpisodeNumber>37</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1365919914</lastupdated>
-  <seasonid>21224</seasonid>
-  <seriesid>73762</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4546655</id>
-  <Combined_episodenumber>38</Combined_episodenumber>
-  <Combined_season>7</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season>7</DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName></EpisodeName>
-  <EpisodeNumber>38</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1365920924</lastupdated>
-  <seasonid>21224</seasonid>
-  <seriesid>73762</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4555402</id>
-  <Combined_episodenumber>39</Combined_episodenumber>
-  <Combined_season>8</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season>8</DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName></EpisodeName>
-  <EpisodeNumber>39</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1367131424</lastupdated>
-  <seasonid>21224</seasonid>
-  <seriesid>73762</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4631157</id>
-  <Combined_episodenumber>40</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName></EpisodeName>
-  <EpisodeNumber>40</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season>8</airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1376074831</lastupdated>
-  <seasonid>21224</seasonid>
-  <seriesid>73762</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4631158</id>
-  <Combined_episodenumber>41</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName></EpisodeName>
-  <EpisodeNumber>41</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season>8</airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1376074839</lastupdated>
-  <seasonid>21224</seasonid>
-  <seriesid>73762</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4631159</id>
-  <Combined_episodenumber>42</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName></EpisodeName>
-  <EpisodeNumber>42</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season>8</airsafter_season>
-  <airsbefore_episode>8</airsbefore_episode>
-  <airsbefore_season>8</airsbefore_season>
-  <filename></filename>
-  <lastupdated>1376074631</lastupdated>
-  <seasonid>21224</seasonid>
-  <seriesid>73762</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4631160</id>
-  <Combined_episodenumber>43</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName></EpisodeName>
-  <EpisodeNumber>43</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season>8</airsafter_season>
-  <airsbefore_episode>11</airsbefore_episode>
-  <airsbefore_season>8</airsbefore_season>
-  <filename></filename>
-  <lastupdated>1376074654</lastupdated>
-  <seasonid>21224</seasonid>
-  <seriesid>73762</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4631161</id>
-  <Combined_episodenumber>44</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName></EpisodeName>
-  <EpisodeNumber>44</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season>8</airsafter_season>
-  <airsbefore_episode>11</airsbefore_episode>
-  <airsbefore_season>8</airsbefore_season>
-  <filename></filename>
-  <lastupdated>1376074686</lastupdated>
-  <seasonid>21224</seasonid>
-  <seriesid>73762</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4631162</id>
-  <Combined_episodenumber>45</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName></EpisodeName>
-  <EpisodeNumber>45</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season>8</airsafter_season>
-  <airsbefore_episode>11</airsbefore_episode>
-  <airsbefore_season>8</airsbefore_season>
-  <filename></filename>
-  <lastupdated>1376074707</lastupdated>
-  <seasonid>21224</seasonid>
-  <seriesid>73762</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4631163</id>
-  <Combined_episodenumber>46</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName></EpisodeName>
-  <EpisodeNumber>46</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season>8</airsafter_season>
-  <airsbefore_episode>15</airsbefore_episode>
-  <airsbefore_season>8</airsbefore_season>
-  <filename></filename>
-  <lastupdated>1376074727</lastupdated>
-  <seasonid>21224</seasonid>
-  <seriesid>73762</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4631164</id>
-  <Combined_episodenumber>47</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName></EpisodeName>
-  <EpisodeNumber>47</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season>8</airsafter_season>
-  <airsbefore_episode>16</airsbefore_episode>
-  <airsbefore_season>8</airsbefore_season>
-  <filename></filename>
-  <lastupdated>1376074745</lastupdated>
-  <seasonid>21224</seasonid>
-  <seriesid>73762</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4631165</id>
-  <Combined_episodenumber>48</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName></EpisodeName>
-  <EpisodeNumber>48</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season>8</airsafter_season>
-  <airsbefore_episode>19</airsbefore_episode>
-  <airsbefore_season>8</airsbefore_season>
-  <filename></filename>
-  <lastupdated>1376074762</lastupdated>
-  <seasonid>21224</seasonid>
-  <seriesid>73762</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4631166</id>
-  <Combined_episodenumber>49</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName></EpisodeName>
-  <EpisodeNumber>49</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season>8</airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1376074774</lastupdated>
-  <seasonid>21224</seasonid>
-  <seriesid>73762</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4631168</id>
-  <Combined_episodenumber>50</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName></EpisodeName>
-  <EpisodeNumber>50</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season>8</airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1376074783</lastupdated>
-  <seasonid>21224</seasonid>
-  <seriesid>73762</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4631169</id>
-  <Combined_episodenumber>51</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName></EpisodeName>
-  <EpisodeNumber>51</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season>8</airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1376074792</lastupdated>
-  <seasonid>21224</seasonid>
-  <seriesid>73762</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4631170</id>
-  <Combined_episodenumber>52</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName></EpisodeName>
-  <EpisodeNumber>52</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season>8</airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1376074799</lastupdated>
-  <seasonid>21224</seasonid>
-  <seriesid>73762</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4631174</id>
-  <Combined_episodenumber>53</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName></EpisodeName>
-  <EpisodeNumber>53</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season>8</airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1376074806</lastupdated>
-  <seasonid>21224</seasonid>
-  <seriesid>73762</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
 <Episode>
   <id>316950</id>
   <Combined_episodenumber>1</Combined_episodenumber>
@@ -1862,11 +262,11 @@ Hidden Easter Egg in Season 1 DVD set</Overview>
 </Episode>
 <Episode>
   <id>127740</id>
-  <Combined_episodenumber>4.0</Combined_episodenumber>
+  <Combined_episodenumber>3.0</Combined_episodenumber>
   <Combined_season>1</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid>1</DVD_discid>
-  <DVD_episodenumber>4.0</DVD_episodenumber>
+  <DVD_episodenumber>3.0</DVD_episodenumber>
   <DVD_season>1</DVD_season>
   <Director>|Tony Goldwyn|</Director>
   <EpImgFlag></EpImgFlag>
@@ -1884,7 +284,7 @@ Hidden Easter Egg in Season 1 DVD set</Overview>
   <Writer>|Shonda Rhimes|</Writer>
   <absolute_number>3</absolute_number>
   <filename>episodes/73762/127740.jpg</filename>
-  <lastupdated>1392663534</lastupdated>
+  <lastupdated>1413630044</lastupdated>
   <seasonid>6388</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -1893,11 +293,11 @@ Hidden Easter Egg in Season 1 DVD set</Overview>
 </Episode>
 <Episode>
   <id>127741</id>
-  <Combined_episodenumber>6.0</Combined_episodenumber>
+  <Combined_episodenumber>4.0</Combined_episodenumber>
   <Combined_season>1</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid>1</DVD_discid>
-  <DVD_episodenumber>6.0</DVD_episodenumber>
+  <DVD_episodenumber>4.0</DVD_episodenumber>
   <DVD_season>1</DVD_season>
   <Director>|Adam Davidson|</Director>
   <EpImgFlag></EpImgFlag>
@@ -1915,7 +315,7 @@ Hidden Easter Egg in Season 1 DVD set</Overview>
   <Writer>|James D. Parriott|</Writer>
   <absolute_number>4</absolute_number>
   <filename>episodes/73762/127741.jpg</filename>
-  <lastupdated>1392663547</lastupdated>
+  <lastupdated>1413630065</lastupdated>
   <seasonid>6388</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -1924,11 +324,11 @@ Hidden Easter Egg in Season 1 DVD set</Overview>
 </Episode>
 <Episode>
   <id>127742</id>
-  <Combined_episodenumber>3.0</Combined_episodenumber>
+  <Combined_episodenumber>5.0</Combined_episodenumber>
   <Combined_season>1</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid>1</DVD_discid>
-  <DVD_episodenumber>3.0</DVD_episodenumber>
+  <DVD_episodenumber>5.0</DVD_episodenumber>
   <DVD_season>1</DVD_season>
   <Director>|John David Coles|</Director>
   <EpImgFlag></EpImgFlag>
@@ -1946,7 +346,7 @@ Hidden Easter Egg in Season 1 DVD set</Overview>
   <Writer>|Ann Hamilton|</Writer>
   <absolute_number>5</absolute_number>
   <filename>episodes/73762/127742.jpg</filename>
-  <lastupdated>1385904591</lastupdated>
+  <lastupdated>1413630076</lastupdated>
   <seasonid>6388</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -1955,11 +355,11 @@ Hidden Easter Egg in Season 1 DVD set</Overview>
 </Episode>
 <Episode>
   <id>127743</id>
-  <Combined_episodenumber>5.0</Combined_episodenumber>
+  <Combined_episodenumber>6.0</Combined_episodenumber>
   <Combined_season>1</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid>2</DVD_discid>
-  <DVD_episodenumber>5.0</DVD_episodenumber>
+  <DVD_episodenumber>6.0</DVD_episodenumber>
   <DVD_season>1</DVD_season>
   <Director>|Scott Brazil|</Director>
   <EpImgFlag></EpImgFlag>
@@ -1977,7 +377,7 @@ Hidden Easter Egg in Season 1 DVD set</Overview>
   <Writer>|Krista Vernoff|</Writer>
   <absolute_number>6</absolute_number>
   <filename>episodes/73762/127743.jpg</filename>
-  <lastupdated>1385904608</lastupdated>
+  <lastupdated>1413630091</lastupdated>
   <seasonid>6388</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -1986,11 +386,11 @@ Hidden Easter Egg in Season 1 DVD set</Overview>
 </Episode>
 <Episode>
   <id>306057</id>
-  <Combined_episodenumber>8.0</Combined_episodenumber>
+  <Combined_episodenumber>7.0</Combined_episodenumber>
   <Combined_season>1</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid>2</DVD_discid>
-  <DVD_episodenumber>8.0</DVD_episodenumber>
+  <DVD_episodenumber>7.0</DVD_episodenumber>
   <DVD_season>1</DVD_season>
   <Director>|Darnell Martin|</Director>
   <EpImgFlag></EpImgFlag>
@@ -2008,7 +408,7 @@ Hidden Easter Egg in Season 1 DVD set</Overview>
   <Writer>|Kip Koenig|</Writer>
   <absolute_number>7</absolute_number>
   <filename>episodes/73762/306057.jpg</filename>
-  <lastupdated>1392663560</lastupdated>
+  <lastupdated>1413630108</lastupdated>
   <seasonid>6388</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -2017,11 +417,11 @@ Hidden Easter Egg in Season 1 DVD set</Overview>
 </Episode>
 <Episode>
   <id>306058</id>
-  <Combined_episodenumber>7.0</Combined_episodenumber>
+  <Combined_episodenumber>8.0</Combined_episodenumber>
   <Combined_season>1</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid>2</DVD_discid>
-  <DVD_episodenumber>7.0</DVD_episodenumber>
+  <DVD_episodenumber>8.0</DVD_episodenumber>
   <DVD_season>1</DVD_season>
   <Director>|Sarah Pia Anderson|</Director>
   <EpImgFlag></EpImgFlag>
@@ -2039,7 +439,7 @@ Hidden Easter Egg in Season 1 DVD set</Overview>
   <Writer>|Mimi Schmir|</Writer>
   <absolute_number>8</absolute_number>
   <filename>episodes/73762/306058.jpg</filename>
-  <lastupdated>1385904648</lastupdated>
+  <lastupdated>1413630119</lastupdated>
   <seasonid>6388</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -2070,7 +470,7 @@ Hidden Easter Egg in Season 1 DVD set</Overview>
   <Writer>|Gabrielle Stanton|Harry Werksman|</Writer>
   <absolute_number>9</absolute_number>
   <filename>episodes/73762/306059.jpg</filename>
-  <lastupdated>1385904668</lastupdated>
+  <lastupdated>1409912937</lastupdated>
   <seasonid>6388</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -2096,12 +496,12 @@ Hidden Easter Egg in Season 1 DVD set</Overview>
   <Overview>Picks up where the last episode left off. Meredith attempts to work with Addison Shepard. George is pimped out to relay the hospital gossip back to Webber. Meredith and Cristina relate at Emerald City Bar about what dating their respective attendings is like. Cristina ponders her relationship with Burke while trying to make a decision. Meredith is devastated by the latest blow to her love life. Meanwhile, Joe the bartender collapses.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>24</RatingCount>
+  <RatingCount>25</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Stacy McKee|</Writer>
   <absolute_number>10</absolute_number>
   <filename>episodes/73762/299549.jpg</filename>
-  <lastupdated>1398528931</lastupdated>
+  <lastupdated>1407425275</lastupdated>
   <seasonid>6389</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -2127,12 +527,12 @@ Hidden Easter Egg in Season 1 DVD set</Overview>
   <Overview>There's tension between Meredith and Addison. We find out why Derek and Addison aren't together. Bailey puts George on an impossible case. The rest of the interns operate on a family that was just in a car accident.</Overview>
   <ProductionCode>111</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>17</RatingCount>
+  <RatingCount>18</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|James D. Parriott|</Writer>
   <absolute_number>11</absolute_number>
   <filename>episodes/73762/300430.jpg</filename>
-  <lastupdated>1385904750</lastupdated>
+  <lastupdated>1407425329</lastupdated>
   <seasonid>6389</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -2158,12 +558,12 @@ Hidden Easter Egg in Season 1 DVD set</Overview>
   <Overview>Cristina and Meredith try to figure out if Cristina should tell Burke that she's pregnant right before Cristina faces an emergency. Alex and Izzie get closer while Meredith's mother gets too close.</Overview>
   <ProductionCode>112</ProductionCode>
   <Rating>7.2</Rating>
-  <RatingCount>21</RatingCount>
+  <RatingCount>22</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Krista Vernoff|</Writer>
   <absolute_number>12</absolute_number>
   <filename>episodes/73762/300431.jpg</filename>
-  <lastupdated>1392663594</lastupdated>
+  <lastupdated>1407425395</lastupdated>
   <seasonid>6389</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -2189,12 +589,12 @@ Hidden Easter Egg in Season 1 DVD set</Overview>
   <Overview>As Cristina tries to recover, she proves to be a very difficult patient, and a visit from her mother doesn't improve her demeanor any. And Meredith's mother, Dr. Ellis Grey, has the hospital staff running in circles.</Overview>
   <ProductionCode>113</ProductionCode>
   <Rating>7.0</Rating>
-  <RatingCount>22</RatingCount>
+  <RatingCount>23</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Zoanne Clack|</Writer>
   <absolute_number>13</absolute_number>
   <filename>episodes/73762/300432.jpg</filename>
-  <lastupdated>1392663608</lastupdated>
+  <lastupdated>1407425406</lastupdated>
   <seasonid>6389</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -2219,13 +619,13 @@ Hidden Easter Egg in Season 1 DVD set</Overview>
   <Language>en</Language>
   <Overview>Cristina goes right back to working right after being discharged. Izzie isn't talking to Alex. Derek and Meredith treat a patient. George and Alex get stuck in an elevator.</Overview>
   <ProductionCode>201</ProductionCode>
-  <Rating>7.1</Rating>
-  <RatingCount>20</RatingCount>
+  <Rating>7.0</Rating>
+  <RatingCount>21</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Shonda Rhimes|</Writer>
   <absolute_number>14</absolute_number>
   <filename>episodes/73762/300433.jpg</filename>
-  <lastupdated>1391192766</lastupdated>
+  <lastupdated>1407425422</lastupdated>
   <seasonid>6389</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -2251,12 +651,12 @@ Hidden Easter Egg in Season 1 DVD set</Overview>
   <Overview>Train Wreck victims come to Seattle Grace and all staff gets called in. Everyone deals with really weird cases. Except Addison and Izzie. They work with a woman who is pregnant.</Overview>
   <ProductionCode>202</ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>19</RatingCount>
+  <RatingCount>20</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Krista Vernoff|</Writer>
   <absolute_number>15</absolute_number>
   <filename>episodes/73762/300434.jpg</filename>
-  <lastupdated>1391192787</lastupdated>
+  <lastupdated>1407425434</lastupdated>
   <seasonid>6389</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -2281,13 +681,13 @@ Hidden Easter Egg in Season 1 DVD set</Overview>
   <Language>en</Language>
   <Overview>Cristina, Izzie and Meredith take care of Shane, a man who appears to be crazy and claims that he is pregnant. Shane's case induces a spreading fascination among the staff. George relates to a patient's husband.</Overview>
   <ProductionCode>203</ProductionCode>
-  <Rating>6.9</Rating>
-  <RatingCount>19</RatingCount>
+  <Rating>7.0</Rating>
+  <RatingCount>20</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Stacy McKee|</Writer>
   <absolute_number>16</absolute_number>
   <filename>episodes/73762/300435.jpg</filename>
-  <lastupdated>1392663622</lastupdated>
+  <lastupdated>1407432975</lastupdated>
   <seasonid>6389</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -2313,12 +713,12 @@ Hidden Easter Egg in Season 1 DVD set</Overview>
   <Overview>Meredith tries to avoid the Shepherds. Cristina and Burke go out on a date and end up getting caught up in their jobs. Derek asks Meredith not to ignore him until Addison comes walking around the corner.</Overview>
   <ProductionCode>204</ProductionCode>
   <Rating>7.2</Rating>
-  <RatingCount>18</RatingCount>
+  <RatingCount>19</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Mimi Schmir|</Writer>
   <absolute_number>17</absolute_number>
   <filename>episodes/73762/300436.jpg</filename>
-  <lastupdated>1391192827</lastupdated>
+  <lastupdated>1407425463</lastupdated>
   <seasonid>6389</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -2344,12 +744,12 @@ Hidden Easter Egg in Season 1 DVD set</Overview>
   <Overview>It's Thanksgiving at Seattle Grace Hospital but the holiday's festivites are less than in order. Meredith and Derek try to counsel a family after their relative has had a seriously traumatic accident.</Overview>
   <ProductionCode>205</ProductionCode>
   <Rating>7.0</Rating>
-  <RatingCount>22</RatingCount>
+  <RatingCount>23</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Shonda Rhimes|</Writer>
   <absolute_number>18</absolute_number>
   <filename>episodes/73762/300437.jpg</filename>
-  <lastupdated>1391192848</lastupdated>
+  <lastupdated>1407425471</lastupdated>
   <seasonid>6389</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -2375,12 +775,12 @@ Hidden Easter Egg in Season 1 DVD set</Overview>
   <Overview>Dorie Russell is waiting for quintuplets, all 5 girls. Her husband seems more concerned than she is but she is set to bring her babies to their term of 36 weeks. All the departments are on call for the quintuplets as three of them have developped problems of different kinds.    Meredith last night's stand shows up at the hospital with priapism and they need to call Derek Sheperd for a consult which puts Meredith in a very embarassing position. Alex and Derek must take care of a patient who has a tumor inducing thirst as a side effect.   On the love side, Alex and Izzie are having some slight sexual problems, while Meredith goes on adding one night stands and Cristina is thrown off course by being &quot;keyed.&quot;</Overview>
   <ProductionCode>206</ProductionCode>
   <Rating>7.1</Rating>
-  <RatingCount>20</RatingCount>
+  <RatingCount>21</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Harry Werksman|Gabrielle Stanton|</Writer>
   <absolute_number>19</absolute_number>
   <filename>episodes/73762/306113.jpg</filename>
-  <lastupdated>1392663636</lastupdated>
+  <lastupdated>1407425483</lastupdated>
   <seasonid>6389</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -2406,12 +806,12 @@ Hidden Easter Egg in Season 1 DVD set</Overview>
   <Overview>Cristina Yang has little sympathy for Constance Ferguson (special guest star Rosanna Arquette), a prison inmate who jeopardizes her health just to get out of solitary confinement. Meanwhile the interns all keep careful watch on the family of premature quintuplets with a variety of serious health challenges, Izzie's anger at Alex reaches boiling point, and Dr. Addison Shepherd decides to teach Izzie a very painful lesson.</Overview>
   <ProductionCode>207</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>18</RatingCount>
+  <RatingCount>19</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Mark Wilding|</Writer>
   <absolute_number>20</absolute_number>
   <filename>episodes/73762/306114.jpg</filename>
-  <lastupdated>1392664197</lastupdated>
+  <lastupdated>1407425524</lastupdated>
   <seasonid>6389</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -2436,13 +836,13 @@ Hidden Easter Egg in Season 1 DVD set</Overview>
   <Language>en</Language>
   <Overview>The holiday season has started but not everyone is in a festive mood. This is Alex's last day in the hospital unless he passes his boards practical exam the next day, thus everyone helps him to review so that he succeeds. However, Izzie is not happy about the others helping him and Meredith has to remind her of the true spirit of the Christmas holiday. Justin is in need of a new heart. One is available but he does not want it because he does not believe Santa gave it to him as his mother said. Cristina and Burke, both handling Justin's case, have opposing views on the matter due to their different stances on religion. Despite a reconciliation with his wife, Derek isn't in a festive mood. George has a simple case of a woman who has a bleeding ulcer, he realizes that the ulcer is caused by her entourage but fails to keep them away, with the consequence that it perforates.</Overview>
   <ProductionCode>208</ProductionCode>
-  <Rating>7.3</Rating>
-  <RatingCount>20</RatingCount>
+  <Rating>7.2</Rating>
+  <RatingCount>21</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Krista Vernoff</Writer>
   <absolute_number>21</absolute_number>
   <filename>episodes/73762/306060.jpg</filename>
-  <lastupdated>1391192926</lastupdated>
+  <lastupdated>1407425536</lastupdated>
   <seasonid>6389</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -2468,12 +868,12 @@ Hidden Easter Egg in Season 1 DVD set</Overview>
   <Overview>Cristina is bothered by a new year's mandatory work limit. Izzie patient, Denny Duquette, wants two things: 1. a heart transplant, 2. Izzie. Addison detests Derek's trailer, Derek visits Meredith's mom, George treats a young teen hermaphrodite frustrated by her  pre-pubescence. Other news includes patients doing uncanny things and relationship havoc being wrecked between the doctors, as per usual.</Overview>
   <ProductionCode>209</ProductionCode>
   <Rating>7.1</Rating>
-  <RatingCount>21</RatingCount>
+  <RatingCount>22</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Kip Koenig|</Writer>
   <absolute_number>22</absolute_number>
   <filename>episodes/73762/306061.jpg</filename>
-  <lastupdated>1391192944</lastupdated>
+  <lastupdated>1407425547</lastupdated>
   <seasonid>6389</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -2498,13 +898,13 @@ Hidden Easter Egg in Season 1 DVD set</Overview>
   <Language>en</Language>
   <Overview>Meredith and Cristina lie to each other and themselves about their relationships with McDreamy and Burke, respectively.  George is given a hard task to expel a discharged and defiant woman from the hospital. Alex learns his fate after re-taking his medical exams. At the same time Izzie is trying to stop Alex from making stupid decisions when a patient that doesn't speak English is lied to by her coach. George, Cristina, and Alex compete in a hot dog eating competition.</Overview>
   <ProductionCode>210</ProductionCode>
-  <Rating>7.1</Rating>
-  <RatingCount>20</RatingCount>
+  <Rating>7.0</Rating>
+  <RatingCount>21</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Joan Rater, Tony Phelan</Writer>
   <absolute_number>23</absolute_number>
   <filename>episodes/73762/306063.jpg</filename>
-  <lastupdated>1392664372</lastupdated>
+  <lastupdated>1407425556</lastupdated>
   <seasonid>6389</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -2530,12 +930,12 @@ Hidden Easter Egg in Season 1 DVD set</Overview>
   <Overview>All the nurses at Seattle Grace Hospital go on strike, leaving the doctors to fend for themselves. George refuses to cross the picket line and finally joins the nurses on their strike while Alex, Cristina, Izzie and Meredith meets Bailey's stand-in: Dr. Cindy Aaron, the complete opposite of Miranda Bailey. Izzie agrees to work on a difficult pregnancy case with Addison, while Cristina and Alex are in the pit attending to a young married woman with a real bad case of rash. Meredith happens on an old woman that she needs to intubate and then learns she was DNR.</Overview>
   <ProductionCode>211</ProductionCode>
   <Rating>7.1</Rating>
-  <RatingCount>20</RatingCount>
+  <RatingCount>21</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Zoanne Clack</Writer>
   <absolute_number>24</absolute_number>
   <filename>episodes/73762/306064.jpg</filename>
-  <lastupdated>1392664381</lastupdated>
+  <lastupdated>1407425568</lastupdated>
   <seasonid>6389</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -2561,12 +961,12 @@ Hidden Easter Egg in Season 1 DVD set</Overview>
   <Overview>An explosive case arrives at the O.R. that might endanger all the lives of the people working there, which leads Dr. Burke to declare a &quot;Code Black&quot; for the hospital. Bailey worries where her husband is as she is in labor.  Also Izzie and Alex may be creating some heat.</Overview>
   <ProductionCode>212</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>19</RatingCount>
+  <RatingCount>20</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Shonda Rhimes</Writer>
   <absolute_number>25</absolute_number>
   <filename>episodes/73762/306065.jpg</filename>
-  <lastupdated>1391197593</lastupdated>
+  <lastupdated>1411839750</lastupdated>
   <seasonid>6389</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -2591,13 +991,13 @@ Hidden Easter Egg in Season 1 DVD set</Overview>
   <Language>en</Language>
   <Overview>Derek is still operating when he finds out about Meredith's current situation. Meredith is freaking out about her situation. Webber and Bailey are dealing with medical health issues. Cristina and Izzie have their own issues to deal with because of Meredith's situation. Addison freaks out when George tries to find a solution to Bailey's impromtu postponement. Overall, Seattle Grace Hospital is still under code black and the situation is getting worse.</Overview>
   <ProductionCode>213</ProductionCode>
-  <Rating>7.3</Rating>
-  <RatingCount>16</RatingCount>
+  <Rating>7.2</Rating>
+  <RatingCount>17</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Shonda Rhimes</Writer>
   <absolute_number>26</absolute_number>
   <filename>episodes/73762/306066.jpg</filename>
-  <lastupdated>1401730744</lastupdated>
+  <lastupdated>1411839760</lastupdated>
   <seasonid>6389</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -2623,12 +1023,12 @@ Hidden Easter Egg in Season 1 DVD set</Overview>
   <Overview>Derek and Addison's relationship is rocked to the core when a former friend comes to Seattle Grace and his presence promises to shake things up for a few members of the staff. Burke and Cristina's relationship is affected when one of her secrets is outted. Alex and Izzie are having similar reactions to their closet scenes during the Code Black crisis. On top of this a cocky doctor shows up to piss Derek off in all kinds of ways. A patient is suffering from constant orgasms and her condition sparks interesting conversations among the staff. George is trying to figure out how to get Meredith to see him as more than just a housemate. Another patient, that Derek is treating, is dealing with a rare disorder and needs his parents support and understanding. Burke has a patient who inspires him to talk to Meredith and Cristina about doing what they say they will. Meanwhile, Meredith learns more about her family (in fact maybe more than she may have wanted to know) through her parents.</Overview>
   <ProductionCode>214</ProductionCode>
   <Rating>7.2</Rating>
-  <RatingCount>20</RatingCount>
+  <RatingCount>21</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Krista Vernoff</Writer>
   <absolute_number>27</absolute_number>
   <filename>episodes/73762/306067.jpg</filename>
-  <lastupdated>1391197619</lastupdated>
+  <lastupdated>1407425599</lastupdated>
   <seasonid>6389</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -2654,12 +1054,12 @@ Hidden Easter Egg in Season 1 DVD set</Overview>
   <Overview>Meredith and George are experiencing  morning-after tension at home and at work and it has the rest of the doctors wondering what's up. Derek and Addison are experiencing their own version of morning-after tension as a result of Mark's visit to Seattle. Bailey, returning the favor that was done for her during the Code Black situation, must treat Addison for a specific feminine problem. Izzie and Alex are making headway in their relationship until Denny Duquette comes back. Soon Alex is not-so-oddly jealous of the attention Izzie is showing to Denny. Someone finds comfort in confiding in a patient who is going through an ordeal of his own. Burke deals with a patient and gets to observe the patient's unstable relationship with his fiancée.</Overview>
   <ProductionCode>215</ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>18</RatingCount>
+  <RatingCount>19</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Stacy McKee</Writer>
   <absolute_number>28</absolute_number>
   <filename>episodes/73762/306068.jpg</filename>
-  <lastupdated>1405871127</lastupdated>
+  <lastupdated>1409912920</lastupdated>
   <seasonid>6389</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -2690,7 +1090,7 @@ Hidden Easter Egg in Season 1 DVD set</Overview>
   <Writer>Harry Werksman Jr., Gabrielle Stanton</Writer>
   <absolute_number>29</absolute_number>
   <filename>episodes/73762/306069.jpg</filename>
-  <lastupdated>1391197692</lastupdated>
+  <lastupdated>1407425619</lastupdated>
   <seasonid>6389</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -2721,7 +1121,7 @@ Hidden Easter Egg in Season 1 DVD set</Overview>
   <Writer>James D. Parriott</Writer>
   <absolute_number>30</absolute_number>
   <filename>episodes/73762/306070.jpg</filename>
-  <lastupdated>1391197715</lastupdated>
+  <lastupdated>1407425630</lastupdated>
   <seasonid>6389</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -2752,7 +1152,7 @@ Hidden Easter Egg in Season 1 DVD set</Overview>
   <Writer>Blythe Robe</Writer>
   <absolute_number>31</absolute_number>
   <filename>episodes/73762/306071.jpg</filename>
-  <lastupdated>1391197730</lastupdated>
+  <lastupdated>1407425643</lastupdated>
   <seasonid>6389</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -2783,7 +1183,7 @@ Hidden Easter Egg in Season 1 DVD set</Overview>
   <Writer>Elizabeth J.B. Klaviter</Writer>
   <absolute_number>32</absolute_number>
   <filename>episodes/73762/307177.jpg</filename>
-  <lastupdated>1391197752</lastupdated>
+  <lastupdated>1407425654</lastupdated>
   <seasonid>6389</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -2814,7 +1214,7 @@ Hidden Easter Egg in Season 1 DVD set</Overview>
   <Writer>Mimi Schmir</Writer>
   <absolute_number>33</absolute_number>
   <filename>episodes/73762/307178.jpg</filename>
-  <lastupdated>1391197774</lastupdated>
+  <lastupdated>1407425667</lastupdated>
   <seasonid>6389</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -2845,7 +1245,7 @@ Hidden Easter Egg in Season 1 DVD set</Overview>
   <Writer>Mark Wilding</Writer>
   <absolute_number>34</absolute_number>
   <filename>episodes/73762/307911.jpg</filename>
-  <lastupdated>1391197790</lastupdated>
+  <lastupdated>1407425728</lastupdated>
   <seasonid>6389</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -2876,7 +1276,7 @@ Hidden Easter Egg in Season 1 DVD set</Overview>
   <Writer>Joan Rater, Tony Phelan</Writer>
   <absolute_number>35</absolute_number>
   <filename>episodes/73762/307912.jpg</filename>
-  <lastupdated>1392664395</lastupdated>
+  <lastupdated>1407425719</lastupdated>
   <seasonid>6389</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -2907,7 +1307,7 @@ Hidden Easter Egg in Season 1 DVD set</Overview>
   <Writer>Shonda Rhimes</Writer>
   <absolute_number>36</absolute_number>
   <filename>episodes/73762/307910.jpg</filename>
-  <lastupdated>1401879486</lastupdated>
+  <lastupdated>1407425743</lastupdated>
   <seasonid>6389</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -2939,7 +1339,7 @@ Hidden Easter Egg in Season 1 DVD set</Overview>
   <Writer>Shonda Rhimes</Writer>
   <absolute_number>37</absolute_number>
   <filename>episodes/73762/312510.jpg</filename>
-  <lastupdated>1385905480</lastupdated>
+  <lastupdated>1407427224</lastupdated>
   <seasonid>16334</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -2971,7 +1371,7 @@ Hidden Easter Egg in Season 1 DVD set</Overview>
   <Writer>Krista Vernoff</Writer>
   <absolute_number>38</absolute_number>
   <filename>episodes/73762/312511.jpg</filename>
-  <lastupdated>1385905010</lastupdated>
+  <lastupdated>1407427233</lastupdated>
   <seasonid>16334</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -3003,7 +1403,7 @@ Hidden Easter Egg in Season 1 DVD set</Overview>
   <Writer>Debora Cahn</Writer>
   <absolute_number>39</absolute_number>
   <filename>episodes/73762/313653.jpg</filename>
-  <lastupdated>1385905063</lastupdated>
+  <lastupdated>1407427243</lastupdated>
   <seasonid>16334</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -3035,7 +1435,7 @@ Hidden Easter Egg in Season 1 DVD set</Overview>
   <Writer>Allan Heinberg</Writer>
   <absolute_number>40</absolute_number>
   <filename>episodes/73762/313654.jpg</filename>
-  <lastupdated>1401879536</lastupdated>
+  <lastupdated>1407427253</lastupdated>
   <seasonid>16334</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -3067,7 +1467,7 @@ Hidden Easter Egg in Season 1 DVD set</Overview>
   <Writer>Allan Heinberg</Writer>
   <absolute_number>41</absolute_number>
   <filename>episodes/73762/313655.jpg</filename>
-  <lastupdated>1401896138</lastupdated>
+  <lastupdated>1407427264</lastupdated>
   <seasonid>16334</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -3099,7 +1499,7 @@ Hidden Easter Egg in Season 1 DVD set</Overview>
   <Writer>Stacy McKee</Writer>
   <absolute_number>42</absolute_number>
   <filename>episodes/73762/314562.jpg</filename>
-  <lastupdated>1385905134</lastupdated>
+  <lastupdated>1407427277</lastupdated>
   <seasonid>16334</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -3131,7 +1531,7 @@ Hidden Easter Egg in Season 1 DVD set</Overview>
   <Writer>Mark Wilding</Writer>
   <absolute_number>43</absolute_number>
   <filename>episodes/73762/316742.jpg</filename>
-  <lastupdated>1401904064</lastupdated>
+  <lastupdated>1407427283</lastupdated>
   <seasonid>16334</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -3163,7 +1563,7 @@ Hidden Easter Egg in Season 1 DVD set</Overview>
   <Writer>Gabrielle Stanton e Harry Werksman</Writer>
   <absolute_number>44</absolute_number>
   <filename>episodes/73762/316743.jpg</filename>
-  <lastupdated>1401904809</lastupdated>
+  <lastupdated>1407427306</lastupdated>
   <seasonid>16334</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -3195,7 +1595,7 @@ Hidden Easter Egg in Season 1 DVD set</Overview>
   <Writer>Kip Koenig</Writer>
   <absolute_number>45</absolute_number>
   <filename>episodes/73762/316744.jpg</filename>
-  <lastupdated>1385905193</lastupdated>
+  <lastupdated>1407427317</lastupdated>
   <seasonid>16334</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -3227,7 +1627,7 @@ Hidden Easter Egg in Season 1 DVD set</Overview>
   <Writer>Carolina Paiz</Writer>
   <absolute_number>46</absolute_number>
   <filename>episodes/73762/318335.jpg</filename>
-  <lastupdated>1385905210</lastupdated>
+  <lastupdated>1407427325</lastupdated>
   <seasonid>16334</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -3259,7 +1659,7 @@ Hidden Easter Egg in Season 1 DVD set</Overview>
   <Writer>Krista Vernoff</Writer>
   <absolute_number>47</absolute_number>
   <filename>episodes/73762/319010.jpg</filename>
-  <lastupdated>1405871010</lastupdated>
+  <lastupdated>1411839785</lastupdated>
   <seasonid>16334</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -3291,7 +1691,7 @@ Hidden Easter Egg in Season 1 DVD set</Overview>
   <Writer>Krista Vernoff</Writer>
   <absolute_number>48</absolute_number>
   <filename>episodes/73762/319011.jpg</filename>
-  <lastupdated>1405871022</lastupdated>
+  <lastupdated>1411839796</lastupdated>
   <seasonid>16334</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -3323,7 +1723,7 @@ Hidden Easter Egg in Season 1 DVD set</Overview>
   <Writer>Eric Buchman</Writer>
   <absolute_number>49</absolute_number>
   <filename>episodes/73762/319359.jpg</filename>
-  <lastupdated>1391197921</lastupdated>
+  <lastupdated>1407427356</lastupdated>
   <seasonid>16334</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -3355,7 +1755,7 @@ Hidden Easter Egg in Season 1 DVD set</Overview>
   <Writer>|Tony Phelan|Joan Rater|</Writer>
   <absolute_number>50</absolute_number>
   <filename>episodes/73762/319360.jpg</filename>
-  <lastupdated>1401908639</lastupdated>
+  <lastupdated>1407427366</lastupdated>
   <seasonid>16334</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -3387,7 +1787,7 @@ Hidden Easter Egg in Season 1 DVD set</Overview>
   <Writer>Shonda Rhimes</Writer>
   <absolute_number>51</absolute_number>
   <filename>episodes/73762/320560.jpg</filename>
-  <lastupdated>1385905344</lastupdated>
+  <lastupdated>1407427375</lastupdated>
   <seasonid>16334</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -3419,7 +1819,7 @@ Hidden Easter Egg in Season 1 DVD set</Overview>
   <Writer>Shonda Rhimes</Writer>
   <absolute_number>52</absolute_number>
   <filename>episodes/73762/320561.jpg</filename>
-  <lastupdated>1385905364</lastupdated>
+  <lastupdated>1407427381</lastupdated>
   <seasonid>16334</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -3452,7 +1852,7 @@ People are still dealing with the fallout from the ferry disaster. A young man n
   <Writer>Shonda Rhimes|Marti Noxon</Writer>
   <absolute_number>53</absolute_number>
   <filename>episodes/73762/307901.jpg</filename>
-  <lastupdated>1385905386</lastupdated>
+  <lastupdated>1407427389</lastupdated>
   <seasonid>16334</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -3484,7 +1884,7 @@ People are still dealing with the fallout from the ferry disaster. A young man n
   <Writer>Debora Cahn</Writer>
   <absolute_number>54</absolute_number>
   <filename>episodes/73762/307899.jpg</filename>
-  <lastupdated>1391197952</lastupdated>
+  <lastupdated>1407427397</lastupdated>
   <seasonid>16334</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -3516,7 +1916,7 @@ People are still dealing with the fallout from the ferry disaster. A young man n
   <Writer>Charles Van Dusen</Writer>
   <absolute_number>55</absolute_number>
   <filename>episodes/73762/323685.jpg</filename>
-  <lastupdated>1391198003</lastupdated>
+  <lastupdated>1407427405</lastupdated>
   <seasonid>16334</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -3548,7 +1948,7 @@ People are still dealing with the fallout from the ferry disaster. A young man n
   <Writer>Stacy McKee</Writer>
   <absolute_number>56</absolute_number>
   <filename>episodes/73762/324358.jpg</filename>
-  <lastupdated>1385905416</lastupdated>
+  <lastupdated>1407427413</lastupdated>
   <seasonid>16334</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -3581,7 +1981,7 @@ People are still dealing with the fallout from the ferry disaster. A young man n
   <Writer>Mark Wilding</Writer>
   <absolute_number>57</absolute_number>
   <filename>episodes/73762/324359.jpg</filename>
-  <lastupdated>1391198024</lastupdated>
+  <lastupdated>1407427420</lastupdated>
   <seasonid>16334</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -3613,7 +2013,7 @@ People are still dealing with the fallout from the ferry disaster. A young man n
   <Writer>Shonda Rhimes</Writer>
   <absolute_number>58</absolute_number>
   <filename>episodes/73762/325095.jpg</filename>
-  <lastupdated>1405871037</lastupdated>
+  <lastupdated>1411839813</lastupdated>
   <seasonid>16334</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -3644,7 +2044,7 @@ People are still dealing with the fallout from the ferry disaster. A young man n
   <Writer>Shonda Rhimes</Writer>
   <absolute_number>59</absolute_number>
   <filename>episodes/73762/327166.jpg</filename>
-  <lastupdated>1405871048</lastupdated>
+  <lastupdated>1411839823</lastupdated>
   <seasonid>16334</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -3676,7 +2076,7 @@ People are still dealing with the fallout from the ferry disaster. A young man n
   <Writer>Allan Heinberg</Writer>
   <absolute_number>60</absolute_number>
   <filename>episodes/73762/326696.jpg</filename>
-  <lastupdated>1391198089</lastupdated>
+  <lastupdated>1407427444</lastupdated>
   <seasonid>16334</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -3707,7 +2107,7 @@ People are still dealing with the fallout from the ferry disaster. A young man n
   <Writer>|Tony Phelan|Joan Rater|</Writer>
   <absolute_number>61</absolute_number>
   <filename>episodes/73762/328948.jpg</filename>
-  <lastupdated>1405871067</lastupdated>
+  <lastupdated>1409853888</lastupdated>
   <seasonid>16334</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -3739,7 +2139,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Shonda Rhimes</Writer>
   <absolute_number>62</absolute_number>
   <filename>episodes/73762/335584.jpg</filename>
-  <lastupdated>1392464650</lastupdated>
+  <lastupdated>1414023518</lastupdated>
   <seasonid>28467</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -3770,7 +2170,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Debora Cahn e Rob Corn</Writer>
   <absolute_number>63</absolute_number>
   <filename>episodes/73762/335728.jpg</filename>
-  <lastupdated>1392464700</lastupdated>
+  <lastupdated>1414023179</lastupdated>
   <seasonid>28467</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -3802,7 +2202,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Mark Wilding</Writer>
   <absolute_number>64</absolute_number>
   <filename>episodes/73762/335729.jpg</filename>
-  <lastupdated>1392464719</lastupdated>
+  <lastupdated>1414023208</lastupdated>
   <seasonid>28467</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -3833,7 +2233,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Allan Heinberg</Writer>
   <absolute_number>65</absolute_number>
   <filename>episodes/73762/335730.jpg</filename>
-  <lastupdated>1392464759</lastupdated>
+  <lastupdated>1411839628</lastupdated>
   <seasonid>28467</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -3864,7 +2264,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Krista Vernoff</Writer>
   <absolute_number>66</absolute_number>
   <filename>episodes/73762/336602.jpg</filename>
-  <lastupdated>1392464783</lastupdated>
+  <lastupdated>1411839659</lastupdated>
   <seasonid>28467</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -3895,7 +2295,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Stacy McKee</Writer>
   <absolute_number>67</absolute_number>
   <filename>episodes/73762/336603.jpg</filename>
-  <lastupdated>1392464825</lastupdated>
+  <lastupdated>1407427538</lastupdated>
   <seasonid>28467</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -3926,7 +2326,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>|Tony Phelan|Joan Rater|</Writer>
   <absolute_number>68</absolute_number>
   <filename>episodes/73762/336604.jpg</filename>
-  <lastupdated>1405870934</lastupdated>
+  <lastupdated>1415026353</lastupdated>
   <seasonid>28467</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -3957,7 +2357,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Mark Wilding</Writer>
   <absolute_number>69</absolute_number>
   <filename>episodes/73762/336605.jpg</filename>
-  <lastupdated>1392464867</lastupdated>
+  <lastupdated>1407427561</lastupdated>
   <seasonid>28467</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -3988,7 +2388,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>|Shonda Rhimes|Krista Vernoff|</Writer>
   <absolute_number>70</absolute_number>
   <filename>episodes/73762/339966.jpg</filename>
-  <lastupdated>1405870954</lastupdated>
+  <lastupdated>1415026430</lastupdated>
   <seasonid>28467</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -4019,7 +2419,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>|Shonda Rhimes|Krista Vernoff|</Writer>
   <absolute_number>71</absolute_number>
   <filename>episodes/73762/343230.jpg</filename>
-  <lastupdated>1405870967</lastupdated>
+  <lastupdated>1415026487</lastupdated>
   <seasonid>28467</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -4050,7 +2450,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Allan Heinberg</Writer>
   <absolute_number>72</absolute_number>
   <filename>episodes/73762/347850.jpg</filename>
-  <lastupdated>1392464972</lastupdated>
+  <lastupdated>1415026547</lastupdated>
   <seasonid>28467</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -4081,7 +2481,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Zoanne Clack</Writer>
   <absolute_number>73</absolute_number>
   <filename>episodes/73762/356809.jpg</filename>
-  <lastupdated>1392465018</lastupdated>
+  <lastupdated>1407427602</lastupdated>
   <seasonid>28467</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -4112,7 +2512,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Stacy McKee</Writer>
   <absolute_number>74</absolute_number>
   <filename>episodes/73762/364352.jpg</filename>
-  <lastupdated>1392465039</lastupdated>
+  <lastupdated>1407427610</lastupdated>
   <seasonid>28467</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -4143,7 +2543,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Tony Phelan|Joan Rater</Writer>
   <absolute_number>75</absolute_number>
   <filename>episodes/73762/364353.jpg</filename>
-  <lastupdated>1403008030</lastupdated>
+  <lastupdated>1407427618</lastupdated>
   <seasonid>28467</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -4174,7 +2574,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Debora Cahn</Writer>
   <absolute_number>76</absolute_number>
   <filename>episodes/73762/364354.jpg</filename>
-  <lastupdated>1403008023</lastupdated>
+  <lastupdated>1407427626</lastupdated>
   <seasonid>28467</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -4205,7 +2605,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Shonda Rhimes</Writer>
   <absolute_number>77</absolute_number>
   <filename>episodes/73762/364896.jpg</filename>
-  <lastupdated>1405870981</lastupdated>
+  <lastupdated>1409853965</lastupdated>
   <seasonid>28467</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -4236,7 +2636,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Shonda Rhimes</Writer>
   <absolute_number>78</absolute_number>
   <filename>episodes/73762/368584.jpg</filename>
-  <lastupdated>1405870994</lastupdated>
+  <lastupdated>1409853952</lastupdated>
   <seasonid>28467</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -4267,7 +2667,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Shonda Rhimes</Writer>
   <absolute_number>79</absolute_number>
   <filename>episodes/73762/376962.jpg</filename>
-  <lastupdated>1405870896</lastupdated>
+  <lastupdated>1409854075</lastupdated>
   <seasonid>33904</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -4298,7 +2698,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Shonda Rhimes</Writer>
   <absolute_number>80</absolute_number>
   <filename>episodes/73762/390586.jpg</filename>
-  <lastupdated>1405870910</lastupdated>
+  <lastupdated>1409854069</lastupdated>
   <seasonid>33904</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -4329,7 +2729,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Krista Vernoff</Writer>
   <absolute_number>81</absolute_number>
   <filename>episodes/73762/390587.jpg</filename>
-  <lastupdated>1403305258</lastupdated>
+  <lastupdated>1407432689</lastupdated>
   <seasonid>33904</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -4360,7 +2760,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Debora Cahn</Writer>
   <absolute_number>82</absolute_number>
   <filename>episodes/73762/395810.jpg</filename>
-  <lastupdated>1392470816</lastupdated>
+  <lastupdated>1407432696</lastupdated>
   <seasonid>33904</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -4391,7 +2791,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Jenna Bans</Writer>
   <absolute_number>83</absolute_number>
   <filename>episodes/73762/398410.jpg</filename>
-  <lastupdated>1392471467</lastupdated>
+  <lastupdated>1409912990</lastupdated>
   <seasonid>33904</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -4422,7 +2822,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Mark Wilding</Writer>
   <absolute_number>84</absolute_number>
   <filename>episodes/73762/398411.jpg</filename>
-  <lastupdated>1403627032</lastupdated>
+  <lastupdated>1407432758</lastupdated>
   <seasonid>33904</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -4453,7 +2853,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>William Jackson Harper</Writer>
   <absolute_number>85</absolute_number>
   <filename>episodes/73762/401675.jpg</filename>
-  <lastupdated>1403626984</lastupdated>
+  <lastupdated>1407432747</lastupdated>
   <seasonid>33904</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -4484,7 +2884,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Stacey McKee</Writer>
   <absolute_number>86</absolute_number>
   <filename>episodes/73762/403514.jpg</filename>
-  <lastupdated>1392470901</lastupdated>
+  <lastupdated>1407432737</lastupdated>
   <seasonid>33904</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -4515,7 +2915,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Tony Phelan|Joan Rater</Writer>
   <absolute_number>87</absolute_number>
   <filename>episodes/73762/403515.jpg</filename>
-  <lastupdated>1392470919</lastupdated>
+  <lastupdated>1407432776</lastupdated>
   <seasonid>33904</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -4546,7 +2946,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Peter Nowalk</Writer>
   <absolute_number>88</absolute_number>
   <filename>episodes/73762/408049.jpg</filename>
-  <lastupdated>1392470936</lastupdated>
+  <lastupdated>1407432783</lastupdated>
   <seasonid>33904</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -4577,7 +2977,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Debora Cahn</Writer>
   <absolute_number>89</absolute_number>
   <filename>episodes/73762/412090.jpg</filename>
-  <lastupdated>1392470960</lastupdated>
+  <lastupdated>1407432796</lastupdated>
   <seasonid>33904</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -4608,7 +3008,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Jenna Bans</Writer>
   <absolute_number>90</absolute_number>
   <filename>episodes/73762/417746.jpg</filename>
-  <lastupdated>1392470981</lastupdated>
+  <lastupdated>1407432804</lastupdated>
   <seasonid>33904</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -4639,7 +3039,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Mark Wilding</Writer>
   <absolute_number>91</absolute_number>
   <filename>episodes/73762/417747.jpg</filename>
-  <lastupdated>1405709851</lastupdated>
+  <lastupdated>1407432812</lastupdated>
   <seasonid>33904</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -4670,7 +3070,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>William Harper</Writer>
   <absolute_number>92</absolute_number>
   <filename>episodes/73762/426935.jpg</filename>
-  <lastupdated>1392471043</lastupdated>
+  <lastupdated>1407432819</lastupdated>
   <seasonid>33904</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -4701,7 +3101,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Tony Phelan|Joan Rater</Writer>
   <absolute_number>93</absolute_number>
   <filename>episodes/73762/427231.jpg</filename>
-  <lastupdated>1405710134</lastupdated>
+  <lastupdated>1407432829</lastupdated>
   <seasonid>33904</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -4732,7 +3132,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Peter Nowalk</Writer>
   <absolute_number>94</absolute_number>
   <filename>episodes/73762/432058.jpg</filename>
-  <lastupdated>1392471079</lastupdated>
+  <lastupdated>1407432837</lastupdated>
   <seasonid>33904</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -4763,7 +3163,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Jenna Bans</Writer>
   <absolute_number>95</absolute_number>
   <filename>episodes/73762/432059.jpg</filename>
-  <lastupdated>1392471102</lastupdated>
+  <lastupdated>1407432846</lastupdated>
   <seasonid>33904</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -4794,7 +3194,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Zoanne Clack</Writer>
   <absolute_number>96</absolute_number>
   <filename>episodes/73762/440644.jpg</filename>
-  <lastupdated>1392471118</lastupdated>
+  <lastupdated>1407432854</lastupdated>
   <seasonid>33904</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -4825,7 +3225,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Stacy McKee</Writer>
   <absolute_number>97</absolute_number>
   <filename>episodes/73762/440645.jpg</filename>
-  <lastupdated>1392471151</lastupdated>
+  <lastupdated>1407432886</lastupdated>
   <seasonid>33904</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -4856,7 +3256,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Sonay Washington</Writer>
   <absolute_number>98</absolute_number>
   <filename>episodes/73762/552401.jpg</filename>
-  <lastupdated>1392471173</lastupdated>
+  <lastupdated>1407432895</lastupdated>
   <seasonid>33904</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -4887,7 +3287,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Krista Vernoff</Writer>
   <absolute_number>99</absolute_number>
   <filename>episodes/73762/552411.jpg</filename>
-  <lastupdated>1405870646</lastupdated>
+  <lastupdated>1409854060</lastupdated>
   <seasonid>33904</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -4918,7 +3318,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Shonda Rhimes</Writer>
   <absolute_number>100</absolute_number>
   <filename>episodes/73762/552421.jpg</filename>
-  <lastupdated>1405801107</lastupdated>
+  <lastupdated>1407432920</lastupdated>
   <seasonid>33904</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -4949,7 +3349,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Allan Heinberg</Writer>
   <absolute_number>101</absolute_number>
   <filename>episodes/73762/552431.jpg</filename>
-  <lastupdated>1392471324</lastupdated>
+  <lastupdated>1407432926</lastupdated>
   <seasonid>33904</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -4980,7 +3380,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Debora Cahn</Writer>
   <absolute_number>102</absolute_number>
   <filename>episodes/73762/552441.jpg</filename>
-  <lastupdated>1403305330</lastupdated>
+  <lastupdated>1407432937</lastupdated>
   <seasonid>33904</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -5011,7 +3411,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Krista Vernoff</Writer>
   <absolute_number>103</absolute_number>
   <filename>episodes/73762/766271.jpg</filename>
-  <lastupdated>1392471513</lastupdated>
+  <lastupdated>1407431793</lastupdated>
   <seasonid>79611</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -5042,7 +3442,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Krista Vernoff</Writer>
   <absolute_number>104</absolute_number>
   <filename>episodes/73762/1062081.jpg</filename>
-  <lastupdated>1403305353</lastupdated>
+  <lastupdated>1407431804</lastupdated>
   <seasonid>79611</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -5073,7 +3473,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Tony Phelan|Joan Rater</Writer>
   <absolute_number>105</absolute_number>
   <filename>episodes/73762/1120551.jpg</filename>
-  <lastupdated>1392471576</lastupdated>
+  <lastupdated>1407431819</lastupdated>
   <seasonid>79611</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -5104,7 +3504,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Jenna Bans</Writer>
   <absolute_number>106</absolute_number>
   <filename>episodes/73762/1120561.jpg</filename>
-  <lastupdated>1392472302</lastupdated>
+  <lastupdated>1407431828</lastupdated>
   <seasonid>79611</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -5135,7 +3535,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Mark Wilding</Writer>
   <absolute_number>107</absolute_number>
   <filename>episodes/73762/1154931.jpg</filename>
-  <lastupdated>1392472348</lastupdated>
+  <lastupdated>1407431836</lastupdated>
   <seasonid>79611</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -5166,7 +3566,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>William Harper</Writer>
   <absolute_number>108</absolute_number>
   <filename>episodes/73762/1154941.jpg</filename>
-  <lastupdated>1392472375</lastupdated>
+  <lastupdated>1407431843</lastupdated>
   <seasonid>79611</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -5191,13 +3591,13 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Language>en</Language>
   <Overview>When Isaac has an inoperable tumor wrapped around his spine, he wants Derek to do the impossible. Derek tests the Chief's authority when Richard objects to moving forward with the risky surgery.</Overview>
   <ProductionCode>607</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>47</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>48</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>Peter Nowalk</Writer>
   <absolute_number>109</absolute_number>
   <filename>episodes/73762/1230581.jpg</filename>
-  <lastupdated>1392472402</lastupdated>
+  <lastupdated>1407431852</lastupdated>
   <seasonid>79611</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -5228,7 +3628,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Shonda Rhimes, Stacy McKee</Writer>
   <absolute_number>110</absolute_number>
   <filename>episodes/73762/1230591.jpg</filename>
-  <lastupdated>1392472428</lastupdated>
+  <lastupdated>1407431859</lastupdated>
   <seasonid>79611</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -5259,7 +3659,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Allan Heinberg</Writer>
   <absolute_number>111</absolute_number>
   <filename>episodes/73762/1270721.jpg</filename>
-  <lastupdated>1392472456</lastupdated>
+  <lastupdated>1407431866</lastupdated>
   <seasonid>79611</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -5290,7 +3690,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Krista Vernoff</Writer>
   <absolute_number>112</absolute_number>
   <filename>episodes/73762/1270731.jpg</filename>
-  <lastupdated>1392472490</lastupdated>
+  <lastupdated>1407431873</lastupdated>
   <seasonid>79611</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -5321,7 +3721,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Debora Cahn</Writer>
   <absolute_number>113</absolute_number>
   <filename>episodes/73762/1387531.jpg</filename>
-  <lastupdated>1392472508</lastupdated>
+  <lastupdated>1407431880</lastupdated>
   <seasonid>79611</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -5352,7 +3752,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>|Tony Phelan|Joan Rater|</Writer>
   <absolute_number>114</absolute_number>
   <filename>episodes/73762/1391341.jpg</filename>
-  <lastupdated>1392472593</lastupdated>
+  <lastupdated>1407431886</lastupdated>
   <seasonid>79611</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -5383,7 +3783,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Stacy McKee</Writer>
   <absolute_number>115</absolute_number>
   <filename>episodes/73762/1558901.jpg</filename>
-  <lastupdated>1392472566</lastupdated>
+  <lastupdated>1407431894</lastupdated>
   <seasonid>79611</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -5414,7 +3814,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>William Harper</Writer>
   <absolute_number>116</absolute_number>
   <filename>episodes/73762/1597451.jpg</filename>
-  <lastupdated>1392472638</lastupdated>
+  <lastupdated>1407431902</lastupdated>
   <seasonid>79611</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -5445,7 +3845,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Zoanne Clack</Writer>
   <absolute_number>117</absolute_number>
   <filename>episodes/73762/1597441.jpg</filename>
-  <lastupdated>1392472669</lastupdated>
+  <lastupdated>1407431909</lastupdated>
   <seasonid>79611</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -5476,7 +3876,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Peter Nowalk</Writer>
   <absolute_number>118</absolute_number>
   <filename>episodes/73762/1724491.jpg</filename>
-  <lastupdated>1392472691</lastupdated>
+  <lastupdated>1407431915</lastupdated>
   <seasonid>79611</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -5508,7 +3908,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Deborah Cahn</Writer>
   <absolute_number>119</absolute_number>
   <filename>episodes/73762/1733391.jpg</filename>
-  <lastupdated>1392472880</lastupdated>
+  <lastupdated>1407431923</lastupdated>
   <seasonid>79611</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -5539,7 +3939,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>|Tony Phelan|Joan Rater|</Writer>
   <absolute_number>120</absolute_number>
   <filename>episodes/73762/1748211.jpg</filename>
-  <lastupdated>1392472917</lastupdated>
+  <lastupdated>1407431929</lastupdated>
   <seasonid>79611</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -5570,7 +3970,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Allan Heinberg</Writer>
   <absolute_number>121</absolute_number>
   <filename>episodes/73762/1837171.jpg</filename>
-  <lastupdated>1392472933</lastupdated>
+  <lastupdated>1407431938</lastupdated>
   <seasonid>79611</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -5601,7 +4001,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Meg Marinis</Writer>
   <absolute_number>122</absolute_number>
   <filename>episodes/73762/1837181.jpg</filename>
-  <lastupdated>1392472996</lastupdated>
+  <lastupdated>1407431947</lastupdated>
   <seasonid>79611</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -5632,7 +4032,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>William Harper</Writer>
   <absolute_number>123</absolute_number>
   <filename>episodes/73762/1993981.jpg</filename>
-  <lastupdated>1392473035</lastupdated>
+  <lastupdated>1407431956</lastupdated>
   <seasonid>79611</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -5663,7 +4063,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>|Zoanne Clack|Peter Nowalk|</Writer>
   <absolute_number>124</absolute_number>
   <filename>episodes/73762/1993991.jpg</filename>
-  <lastupdated>1392473061</lastupdated>
+  <lastupdated>1407431963</lastupdated>
   <seasonid>79611</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -5694,7 +4094,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Shonda Rhimes</Writer>
   <absolute_number>125</absolute_number>
   <filename>episodes/73762/2086191.jpg</filename>
-  <lastupdated>1405626235</lastupdated>
+  <lastupdated>1407431970</lastupdated>
   <seasonid>79611</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -5725,7 +4125,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Shonda Rhimes</Writer>
   <absolute_number>126</absolute_number>
   <filename>episodes/73762/2086221.jpg</filename>
-  <lastupdated>1392473106</lastupdated>
+  <lastupdated>1407431978</lastupdated>
   <seasonid>79611</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -5756,7 +4156,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Krista Vernoff</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/2452171.jpg</filename>
-  <lastupdated>1392473165</lastupdated>
+  <lastupdated>1407431545</lastupdated>
   <seasonid>268581</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -5787,7 +4187,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>William Harper</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/2600851.jpg</filename>
-  <lastupdated>1392473179</lastupdated>
+  <lastupdated>1407431564</lastupdated>
   <seasonid>268581</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -5818,7 +4218,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Mark Wilding</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/2845701.jpg</filename>
-  <lastupdated>1392473204</lastupdated>
+  <lastupdated>1407431575</lastupdated>
   <seasonid>268581</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -5849,7 +4249,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Peter Nowalk</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/2903371.jpg</filename>
-  <lastupdated>1392473225</lastupdated>
+  <lastupdated>1407431587</lastupdated>
   <seasonid>268581</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -5880,7 +4280,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Brian Tanen</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/2944761.jpg</filename>
-  <lastupdated>1392473243</lastupdated>
+  <lastupdated>1407431596</lastupdated>
   <seasonid>268581</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -5911,7 +4311,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Stacy McKee</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/2969781.jpg</filename>
-  <lastupdated>1392473260</lastupdated>
+  <lastupdated>1407431605</lastupdated>
   <seasonid>268581</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -5942,7 +4342,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Austin Guzman</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/2996021.jpg</filename>
-  <lastupdated>1392473284</lastupdated>
+  <lastupdated>1407431613</lastupdated>
   <seasonid>268581</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -5973,7 +4373,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>William Harper</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/3011261.jpg</filename>
-  <lastupdated>1392473313</lastupdated>
+  <lastupdated>1407431621</lastupdated>
   <seasonid>268581</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -6004,7 +4404,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Zoanne Clack</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/3011271.jpg</filename>
-  <lastupdated>1392473337</lastupdated>
+  <lastupdated>1407431635</lastupdated>
   <seasonid>268581</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -6035,7 +4435,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Tony Phelan | Joan Rater</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/3112871.jpg</filename>
-  <lastupdated>1392473358</lastupdated>
+  <lastupdated>1407431642</lastupdated>
   <seasonid>268581</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -6066,7 +4466,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Krista Vernoff</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/3271231.jpg</filename>
-  <lastupdated>1392473383</lastupdated>
+  <lastupdated>1407431649</lastupdated>
   <seasonid>268581</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -6092,12 +4492,12 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Overview>Arizona tries to reconcile with Callie, who has big news to share; Teddy faces an important decision; the residents receive new interns; the Chief makes an announcement.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>104</RatingCount>
+  <RatingCount>105</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer>Natalie Krinsky</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/3384181.jpg</filename>
-  <lastupdated>1392473403</lastupdated>
+  <lastupdated>1407431657</lastupdated>
   <seasonid>268581</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -6123,12 +4523,12 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Overview>Derek breaks ground on his Alzheimer's clinical trial and Meredith can't help but feel left out; Bailey's attempt to take the hospital into the age of new media with live tweets from the OR does not go over well with the Chief; and Callie, Mark and Arizona must learn to navigate through the pregnancy together, which starts off with Callie driving her new obstetrician crazy. </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>95</RatingCount>
+  <RatingCount>96</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer>Mark Wilding</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/3488891.jpg</filename>
-  <lastupdated>1405870693</lastupdated>
+  <lastupdated>1409854120</lastupdated>
   <seasonid>268581</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -6160,7 +4560,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Austin Guzman</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/3488901.jpg</filename>
-  <lastupdated>1405870719</lastupdated>
+  <lastupdated>1409854224</lastupdated>
   <seasonid>268581</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -6191,7 +4591,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Stacy McKee</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/3567771.jpg</filename>
-  <lastupdated>1392473478</lastupdated>
+  <lastupdated>1407431680</lastupdated>
   <seasonid>268581</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -6223,7 +4623,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Debora Cahn</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/3761411.jpg</filename>
-  <lastupdated>1392473509</lastupdated>
+  <lastupdated>1407431690</lastupdated>
   <seasonid>268581</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -6249,12 +4649,12 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Overview>Richard is desperate for Derek and Meredith to accept Adele into their Alzheimer's trial, but will Adele stand in her own way? Meanwhile Mark and Arizona have conflicting ideas of the kind of baby shower Callie wants, Teddy is freaked out when Henry has another health complication -- leaving them both a little exposed -- and the competitiveness amongst the residents for the Chief Resident position is amplified when Richard receives the green light for his diabetes clinical trial.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>84</RatingCount>
+  <RatingCount>85</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer>Peter Nowalk</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/3821161.jpg</filename>
-  <lastupdated>1392473524</lastupdated>
+  <lastupdated>1407431696</lastupdated>
   <seasonid>268581</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -6285,7 +4685,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Shonda Rhimes</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/3821171.jpg</filename>
-  <lastupdated>1392473542</lastupdated>
+  <lastupdated>1407431703</lastupdated>
   <seasonid>268581</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -6311,12 +4711,12 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Overview>Everyone pulls together to help Callie and baby Sofia on their painstaking journeys to recovery in hopes of allowing mother and baby to finally meet; the sudden death of a clinical trial patient has Derek proceeding with more caution while Meredith makes a calculated and risky move; Alex treats a cranky old rich woman dying of cancer and gets an idea for a grandiose endeavor that is sure to get him the Chief Resident spot; and Teddy is pleasantly surprised by the return of a familiar face.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>81</RatingCount>
+  <RatingCount>82</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer>William Harper</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/4048761.jpg</filename>
-  <lastupdated>1392473560</lastupdated>
+  <lastupdated>1407431710</lastupdated>
   <seasonid>268581</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -6347,7 +4747,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Stacy McKee</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/4048771.jpg</filename>
-  <lastupdated>1392473576</lastupdated>
+  <lastupdated>1407431717</lastupdated>
   <seasonid>268581</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -6378,7 +4778,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Zoanne Clack</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/4048781.jpg</filename>
-  <lastupdated>1392473590</lastupdated>
+  <lastupdated>1407431724</lastupdated>
   <seasonid>268581</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -6409,7 +4809,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>Debora Cahn</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/4096148.jpg</filename>
-  <lastupdated>1392473635</lastupdated>
+  <lastupdated>1407431748</lastupdated>
   <seasonid>268581</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -6440,7 +4840,7 @@ Another two new interns will be introduced in this season premiere. And they'll 
   <Writer>|Tony Phelan|Joan Rater|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/4122145.jpg</filename>
-  <lastupdated>1392473673</lastupdated>
+  <lastupdated>1411839956</lastupdated>
   <seasonid>468654</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -6473,7 +4873,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Writer>|Shona Rhimes|Debora Cahn|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/4164578.jpg</filename>
-  <lastupdated>1392474313</lastupdated>
+  <lastupdated>1411840077</lastupdated>
   <seasonid>468654</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -6504,7 +4904,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Writer>|Shona Rhimes|William Harper|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/4164579.jpg</filename>
-  <lastupdated>1392474334</lastupdated>
+  <lastupdated>1411844476</lastupdated>
   <seasonid>468654</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -6535,7 +4935,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Writer>|Shona Rhimes|Stacy McKee|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/4172778.jpg</filename>
-  <lastupdated>1405870744</lastupdated>
+  <lastupdated>1411844498</lastupdated>
   <seasonid>468654</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -6566,7 +4966,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Writer>Denise Hahn</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/4180636.jpg</filename>
-  <lastupdated>1392474388</lastupdated>
+  <lastupdated>1411844516</lastupdated>
   <seasonid>468654</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -6597,7 +4997,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Writer>Peter Nowalk</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/4184234.jpg</filename>
-  <lastupdated>1392474427</lastupdated>
+  <lastupdated>1411844538</lastupdated>
   <seasonid>468654</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -6628,7 +5028,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Writer>Jeannine Renshaw</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/4185400.jpg</filename>
-  <lastupdated>1392474448</lastupdated>
+  <lastupdated>1411844556</lastupdated>
   <seasonid>468654</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -6659,7 +5059,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Writer>Austin Guzman</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/4185401.jpg</filename>
-  <lastupdated>1392474468</lastupdated>
+  <lastupdated>1411844581</lastupdated>
   <seasonid>468654</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -6690,7 +5090,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Writer>Debora Cahn</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/4195040.jpg</filename>
-  <lastupdated>1392474487</lastupdated>
+  <lastupdated>1411844602</lastupdated>
   <seasonid>468654</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -6722,7 +5122,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Writer>Stacy McKee</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/4199758.jpg</filename>
-  <lastupdated>1392474504</lastupdated>
+  <lastupdated>1411844619</lastupdated>
   <seasonid>468654</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -6754,7 +5154,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Writer>Zoanne Clack</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/4199760.jpg</filename>
-  <lastupdated>1392474522</lastupdated>
+  <lastupdated>1411844636</lastupdated>
   <seasonid>468654</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -6785,7 +5185,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Writer>Peter Nowalk</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/4236890.jpg</filename>
-  <lastupdated>1392474540</lastupdated>
+  <lastupdated>1411844654</lastupdated>
   <seasonid>468654</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -6816,7 +5216,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Writer>William Harper</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/4245791.jpg</filename>
-  <lastupdated>1392474562</lastupdated>
+  <lastupdated>1411844673</lastupdated>
   <seasonid>468654</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -6847,7 +5247,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Writer>Jeannine Renshaw</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/4245792.jpg</filename>
-  <lastupdated>1392474614</lastupdated>
+  <lastupdated>1411844690</lastupdated>
   <seasonid>468654</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -6878,7 +5278,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Writer>Austin Guzman</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/4245793.jpg</filename>
-  <lastupdated>1405870770</lastupdated>
+  <lastupdated>1411844709</lastupdated>
   <seasonid>468654</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -6910,7 +5310,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Writer>Matt Byrne</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/4245794.jpg</filename>
-  <lastupdated>1392474720</lastupdated>
+  <lastupdated>1411844727</lastupdated>
   <seasonid>468654</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -6943,7 +5343,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Writer>William Harper</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/4245795.jpg</filename>
-  <lastupdated>1392474737</lastupdated>
+  <lastupdated>1411844748</lastupdated>
   <seasonid>468654</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -6976,7 +5376,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Writer>Stacy McKee</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/4245796.jpg</filename>
-  <lastupdated>1392474757</lastupdated>
+  <lastupdated>1411844765</lastupdated>
   <seasonid>468654</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -7007,7 +5407,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Writer>Heather Mitchell</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/4245797.jpg</filename>
-  <lastupdated>1392474783</lastupdated>
+  <lastupdated>1411844784</lastupdated>
   <seasonid>468654</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -7038,7 +5438,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Writer>Peter Nowalk</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/4245798.jpg</filename>
-  <lastupdated>1392474812</lastupdated>
+  <lastupdated>1411844803</lastupdated>
   <seasonid>468654</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -7069,7 +5469,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Writer>Zakiyyah Alexander</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/4245799.jpg</filename>
-  <lastupdated>1392474837</lastupdated>
+  <lastupdated>1411844820</lastupdated>
   <seasonid>468654</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -7100,7 +5500,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Writer>Matt Byrne</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/4245800.jpg</filename>
-  <lastupdated>1392474858</lastupdated>
+  <lastupdated>1411844840</lastupdated>
   <seasonid>468654</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -7131,7 +5531,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Writer>|Mark Wilding|Jenna Bans|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/4245801.jpg</filename>
-  <lastupdated>1392474904</lastupdated>
+  <lastupdated>1411844865</lastupdated>
   <seasonid>468654</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -7162,7 +5562,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Writer>Shonda Rhimes</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/4245802.jpg</filename>
-  <lastupdated>1392474953</lastupdated>
+  <lastupdated>1411844884</lastupdated>
   <seasonid>468654</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -7189,12 +5589,12 @@ This is an historic episode that finally crosses a long-standing barrier.
 </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>74</RatingCount>
+  <RatingCount>75</RatingCount>
   <SeasonNumber>9</SeasonNumber>
   <Writer>Stacy McKee</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/4329440.jpg</filename>
-  <lastupdated>1392474997</lastupdated>
+  <lastupdated>1411844918</lastupdated>
   <seasonid>492751</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -7226,7 +5626,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Writer>William Harper</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/4392159.jpg</filename>
-  <lastupdated>1392475031</lastupdated>
+  <lastupdated>1411844935</lastupdated>
   <seasonid>492751</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -7258,7 +5658,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Writer>Zoanne Clack</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/4400866.jpg</filename>
-  <lastupdated>1392475073</lastupdated>
+  <lastupdated>1411844953</lastupdated>
   <seasonid>492751</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -7290,7 +5690,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Writer>Austin Guzman</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/4400867.jpg</filename>
-  <lastupdated>1392475093</lastupdated>
+  <lastupdated>1411844970</lastupdated>
   <seasonid>492751</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -7321,7 +5721,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Writer>Jeannine Renshaw</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/4400868.jpg</filename>
-  <lastupdated>1392475116</lastupdated>
+  <lastupdated>1411844988</lastupdated>
   <seasonid>492751</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -7352,7 +5752,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Writer>William Harper</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/4400869.jpg</filename>
-  <lastupdated>1392475137</lastupdated>
+  <lastupdated>1411845006</lastupdated>
   <seasonid>492751</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -7384,7 +5784,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Writer>Peter Nowalk</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/4402652.jpg</filename>
-  <lastupdated>1392475160</lastupdated>
+  <lastupdated>1411845022</lastupdated>
   <seasonid>492751</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -7416,7 +5816,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Writer>Stacy McKee</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/4436674.jpg</filename>
-  <lastupdated>1392475184</lastupdated>
+  <lastupdated>1411845041</lastupdated>
   <seasonid>492751</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -7447,7 +5847,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Writer>Debora Cahn</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/4436675.jpg</filename>
-  <lastupdated>1392475220</lastupdated>
+  <lastupdated>1411845057</lastupdated>
   <seasonid>492751</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -7478,7 +5878,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Writer>Austin Guzman</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/4436676.jpg</filename>
-  <lastupdated>1393696372</lastupdated>
+  <lastupdated>1411845076</lastupdated>
   <seasonid>492751</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -7509,7 +5909,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Writer>Joan Rater</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/4436677.jpg</filename>
-  <lastupdated>1392475306</lastupdated>
+  <lastupdated>1411845092</lastupdated>
   <seasonid>492751</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -7540,7 +5940,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Writer>Tia Napolitano</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/4454292.jpg</filename>
-  <lastupdated>1392475325</lastupdated>
+  <lastupdated>1411845107</lastupdated>
   <seasonid>492751</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -7571,7 +5971,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Writer>Jeannine Renshaw</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/4457897.jpg</filename>
-  <lastupdated>1392475346</lastupdated>
+  <lastupdated>1411845124</lastupdated>
   <seasonid>492751</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -7602,7 +6002,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Writer>Stacy McKee</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/4457898.jpg</filename>
-  <lastupdated>1392475363</lastupdated>
+  <lastupdated>1411845142</lastupdated>
   <seasonid>492751</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -7633,7 +6033,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Writer>William Harper</Writer>
   <absolute_number>187</absolute_number>
   <filename>episodes/73762/4457899.jpg</filename>
-  <lastupdated>1392475385</lastupdated>
+  <lastupdated>1411845162</lastupdated>
   <seasonid>492751</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -7664,7 +6064,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Writer>Austin Guzman</Writer>
   <absolute_number>188</absolute_number>
   <filename>episodes/73762/4457900.jpg</filename>
-  <lastupdated>1392475410</lastupdated>
+  <lastupdated>1411845179</lastupdated>
   <seasonid>492751</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -7695,7 +6095,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Writer>Zoanne Clack</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/4457901.jpg</filename>
-  <lastupdated>1392475442</lastupdated>
+  <lastupdated>1411845195</lastupdated>
   <seasonid>492751</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -7726,7 +6126,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Writer>Gabriel Llanas</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/4457902.jpg</filename>
-  <lastupdated>1392475514</lastupdated>
+  <lastupdated>1411845216</lastupdated>
   <seasonid>492751</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -7757,7 +6157,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Writer>Meg Marinis</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/4457903.jpg</filename>
-  <lastupdated>1392475530</lastupdated>
+  <lastupdated>1411845232</lastupdated>
   <seasonid>492751</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -7788,7 +6188,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Writer>Debora Cahn</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/4457904.jpg</filename>
-  <lastupdated>1392475546</lastupdated>
+  <lastupdated>1411845249</lastupdated>
   <seasonid>492751</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -7819,7 +6219,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Writer>Browyn Garrity</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/4488821.jpg</filename>
-  <lastupdated>1404231044</lastupdated>
+  <lastupdated>1411845267</lastupdated>
   <seasonid>492751</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -7850,7 +6250,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Writer>Dan Bucatinsky</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/4488822.jpg</filename>
-  <lastupdated>1405870850</lastupdated>
+  <lastupdated>1411845355</lastupdated>
   <seasonid>492751</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -7881,7 +6281,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Writer>William Harper</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/4488823.jpg</filename>
-  <lastupdated>1404231092</lastupdated>
+  <lastupdated>1411845303</lastupdated>
   <seasonid>492751</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -7912,7 +6312,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Writer>Stacy McKee</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/4488824.jpg</filename>
-  <lastupdated>1404231108</lastupdated>
+  <lastupdated>1411845321</lastupdated>
   <seasonid>492751</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>
@@ -7943,7 +6343,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Writer>Joan Rater</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/4610273.jpg</filename>
-  <lastupdated>1403291806</lastupdated>
+  <lastupdated>1411918396</lastupdated>
   <seasonid>524499</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added>2013-09-26 20:06:05</thumb_added>
@@ -7974,7 +6374,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Writer>Debora Cahn</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/4625979.jpg</filename>
-  <lastupdated>1402778497</lastupdated>
+  <lastupdated>1411918420</lastupdated>
   <seasonid>524499</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added>2013-09-26 20:06:13</thumb_added>
@@ -8005,7 +6405,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Writer>Tia Napolitano</Writer>
   <absolute_number>199</absolute_number>
   <filename>episodes/73762/4652600.jpg</filename>
-  <lastupdated>1402778528</lastupdated>
+  <lastupdated>1411918449</lastupdated>
   <seasonid>524499</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added>2013-10-03 20:45:42</thumb_added>
@@ -8036,7 +6436,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Writer>Austin Guzman</Writer>
   <absolute_number>200</absolute_number>
   <filename>episodes/73762/4652601.jpg</filename>
-  <lastupdated>1402778572</lastupdated>
+  <lastupdated>1407431637</lastupdated>
   <seasonid>524499</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added>2013-10-08 15:36:19</thumb_added>
@@ -8067,7 +6467,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Writer>Jeannine Renshaw</Writer>
   <absolute_number>201</absolute_number>
   <filename>episodes/73762/4652602.jpg</filename>
-  <lastupdated>1402778602</lastupdated>
+  <lastupdated>1407431645</lastupdated>
   <seasonid>524499</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added>2013-10-08 15:41:16</thumb_added>
@@ -8098,7 +6498,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Writer>Bill Harper</Writer>
   <absolute_number>202</absolute_number>
   <filename>episodes/73762/4655116.jpg</filename>
-  <lastupdated>1402778642</lastupdated>
+  <lastupdated>1407430526</lastupdated>
   <seasonid>524499</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added>2013-10-08 15:45:03</thumb_added>
@@ -8129,7 +6529,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Writer>Gabriel Llanas</Writer>
   <absolute_number>203</absolute_number>
   <filename>episodes/73762/4655117.jpg</filename>
-  <lastupdated>1402778674</lastupdated>
+  <lastupdated>1407431656</lastupdated>
   <seasonid>524499</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added>2013-10-19 17:53:39</thumb_added>
@@ -8160,7 +6560,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Writer>Meg Marinis</Writer>
   <absolute_number>204</absolute_number>
   <filename>episodes/73762/4655119.jpg</filename>
-  <lastupdated>1402778723</lastupdated>
+  <lastupdated>1407430501</lastupdated>
   <seasonid>524499</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added>2013-11-07 21:04:16</thumb_added>
@@ -8185,13 +6585,13 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Language>en</Language>
   <Overview>When an unexpected malpractice suit turns Callie's world upside down, her supportive father  arrives and shares an interesting secret with her. Meanwhile, through flashbacks, we learn some surprising details about Callie and Arizona's marriage.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>34</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>35</RatingCount>
   <SeasonNumber>10</SeasonNumber>
   <Writer>Stacy McKee</Writer>
   <absolute_number>205</absolute_number>
   <filename>episodes/73762/4655120.jpg</filename>
-  <lastupdated>1403291845</lastupdated>
+  <lastupdated>1407430463</lastupdated>
   <seasonid>524499</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added>2013-11-06 17:51:06</thumb_added>
@@ -8217,12 +6617,12 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Overview>Ben worries that a casual conversation with Derek could potentially cause issues for Bailey, Cristina turns to Shane as tension grows with Meredith, and April's upcoming wedding makes for an uncomfortable situation between Jackson and Stephanie. Meanwhile, Meredith plans a Thanksgiving dinner at her house.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>29</RatingCount>
+  <RatingCount>30</RatingCount>
   <SeasonNumber>10</SeasonNumber>
   <Writer>Deborah Cahn</Writer>
   <absolute_number>206</absolute_number>
   <filename>episodes/73762/4655121.jpg</filename>
-  <lastupdated>1402778832</lastupdated>
+  <lastupdated>1407430445</lastupdated>
   <seasonid>524499</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added>2013-11-14 23:02:26</thumb_added>
@@ -8247,13 +6647,13 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Language>en</Language>
   <Overview>April’s sisters arrive to help celebrate April’s upcoming nuptials and quickly get on her nerves. Matthew and Jackson are forced to work together when they witness a terrible accident, Callie and Arizona work hard to reestablish their relationship and Cristina is pressured to live stream an upcoming surgery. Meanwhile, a familiar face returns to the hospital.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>27</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>28</RatingCount>
   <SeasonNumber>10</SeasonNumber>
   <Writer>Elizabeth J.B. Klaviter</Writer>
   <absolute_number>207</absolute_number>
   <filename>episodes/73762/4710826.jpg</filename>
-  <lastupdated>1402778903</lastupdated>
+  <lastupdated>1407430427</lastupdated>
   <seasonid>524499</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added>2013-11-27 14:01:26</thumb_added>
@@ -8279,12 +6679,12 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Overview>On the day of April's wedding, the Grey Sloan Memorial doctors are all preoccupied with their own drama. Meredith and Cristina continue to argue about their research and careers, Bailey comes clean to Ben about her feelings regarding him moving back to Seattle, and Shane puts himself in a risky situation. Meanwhile, Derek gets a phone call that will change his life.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>26</RatingCount>
+  <RatingCount>27</RatingCount>
   <SeasonNumber>10</SeasonNumber>
   <Writer>William Harper</Writer>
   <absolute_number>208</absolute_number>
   <filename>episodes/73762/4710827.jpg</filename>
-  <lastupdated>1402778964</lastupdated>
+  <lastupdated>1407430401</lastupdated>
   <seasonid>524499</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added>2013-12-12 16:08:53</thumb_added>
@@ -8309,13 +6709,13 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Language>en</Language>
   <Overview>The doctors face the consequences of the events that took place at April’s wedding. Meredith feels betrayed when Derek goes back on a promise, Alex is furious after returning to the hospital and hearing the news about his father, and Arizona and Callie decide whether or not to move forward together. Meanwhile, Bailey realizes she was wrong about the motive behind Ben’s decision to move back to Seattle.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>24</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>27</RatingCount>
   <SeasonNumber>10</SeasonNumber>
   <Writer>Austin Guzman</Writer>
   <absolute_number>209</absolute_number>
   <filename>episodes/73762/4721153.jpg</filename>
-  <lastupdated>1402778989</lastupdated>
+  <lastupdated>1408605080</lastupdated>
   <seasonid>524499</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added>2014-02-13 09:04:14</thumb_added>
@@ -8341,12 +6741,12 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Overview>After an anonymous complaint is issued by one of their own, the hospital implements a non-fraternizing policy causing the couples to panic. Meanwhile, Emma and Owen talk about the future, Cristina and Meredith enjoy a little girl time, and Richard enlists the residents to help research a rare cancer case.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>19</RatingCount>
+  <RatingCount>23</RatingCount>
   <SeasonNumber>10</SeasonNumber>
   <Writer>Tia Napolitano</Writer>
   <absolute_number>210</absolute_number>
   <filename>episodes/73762/4769749.jpg</filename>
-  <lastupdated>1402779019</lastupdated>
+  <lastupdated>1408605046</lastupdated>
   <seasonid>524499</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added>2014-02-19 06:40:40</thumb_added>
@@ -8371,13 +6771,13 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Language>en</Language>
   <Overview>Arizona has a bad day which escalates when she advises one of Callie's patients on a potential double amputation. Derek goes back on a promise to Callie, and Jo and Stephanie come across an abandoned baby outside the hospital. Meanwhile, the doctors deal with the repercussions of the non-fraternization rule, which include meetings with HR and one doctor's suspension. </Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>23</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>27</RatingCount>
   <SeasonNumber>10</SeasonNumber>
   <Writer>Joan Rater</Writer>
   <absolute_number>211</absolute_number>
   <filename>episodes/73762/4801658.jpg</filename>
-  <lastupdated>1402779044</lastupdated>
+  <lastupdated>1408621345</lastupdated>
   <seasonid>524499</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added>2014-02-25 07:08:13</thumb_added>
@@ -8403,13 +6803,13 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Overview>It's Richard's birthday and Bailey invites him to scrub in on the case of a lifetime. Meredith hires a research assistant to help with her portal vein project. A scorned Callie gives Derek quite the shock. Meanwhile, Shane helps screen candidates for Cristina's clinical trial and meets a young expectant mother who needs his help.
 </Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.1</Rating>
-  <RatingCount>20</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>25</RatingCount>
   <SeasonNumber>10</SeasonNumber>
   <Writer>Jeannine Renshaw</Writer>
   <absolute_number>212</absolute_number>
   <filename>episodes/73762/4807843.jpg</filename>
-  <lastupdated>1402779077</lastupdated>
+  <lastupdated>1408621364</lastupdated>
   <seasonid>524499</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added>2014-03-06 07:27:06</thumb_added>
@@ -8434,13 +6834,13 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Language>en</Language>
   <Overview>Cristina imagines the two routes her life can take based on one decision she makes. Meanwhile one of the hospital’s patients decides whether or not to live.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.0</Rating>
-  <RatingCount>18</RatingCount>
+  <Rating>7.1</Rating>
+  <RatingCount>23</RatingCount>
   <SeasonNumber>10</SeasonNumber>
   <Writer>Stacy McKee</Writer>
   <absolute_number>213</absolute_number>
   <filename>episodes/73762/4807844.jpg</filename>
-  <lastupdated>1405870822</lastupdated>
+  <lastupdated>1409854268</lastupdated>
   <seasonid>524499</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added>2014-03-10 14:25:36</thumb_added>
@@ -8465,13 +6865,13 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Language>en</Language>
   <Overview>The hospital gets inundated with flu infected patients, which causes the doctors to slowly fall ill one by one. Derek must fight off the sickness as he prepares to give a speech on brain mapping and the residents place bets on who will fall ill first. Meanwhile, a new doctor at the hospital gives Alex a glimpse into an alternate form of medical practice.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.2</Rating>
-  <RatingCount>18</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>23</RatingCount>
   <SeasonNumber>10</SeasonNumber>
   <Writer>Zoanne Clack</Writer>
   <absolute_number>214</absolute_number>
   <filename>episodes/73762/4808440.jpg</filename>
-  <lastupdated>1402779140</lastupdated>
+  <lastupdated>1408621410</lastupdated>
   <seasonid>524499</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added>2014-03-17 18:03:46</thumb_added>
@@ -8496,13 +6896,13 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Language>en</Language>
   <Overview>Cristina is nominated for a Harper Avery and although most of her fellow doctors are ecstatic, she won’t let herself get too excited. Bailey continues to work on a young boy without an immune system -- Alex considers making a change, and Derek and Callie work with a machine that can recognize emotions. Meanwhile, Richard gives the residents a pep talk about the exciting projects going on around the hospital.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>16</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>21</RatingCount>
   <SeasonNumber>10</SeasonNumber>
   <Writer>Joan Rater</Writer>
   <absolute_number>215</absolute_number>
   <filename>episodes/73762/4808441.jpg</filename>
-  <lastupdated>1402779163</lastupdated>
+  <lastupdated>1408621434</lastupdated>
   <seasonid>524499</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added>2014-03-25 07:02:21</thumb_added>
@@ -8527,13 +6927,13 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Language>en</Language>
   <Overview>Cristina enlists Meredith to help her prepare an acceptance speech for her possible Harper Avery win and while Owen offers to attend the ceremony with her, she insists on going alone. Meanwhile, Derek feels overwhelmed between his responsibilities at home and at the hospital. April and Jackson come to a disagreement on children and religion, and Callie and Arizona try to reconnect in their marriage.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.3</Rating>
-  <RatingCount>19</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>24</RatingCount>
   <SeasonNumber>10</SeasonNumber>
   <Writer>Lauren Barnett</Writer>
   <absolute_number>216</absolute_number>
   <filename>episodes/73762/4818745.jpg</filename>
-  <lastupdated>1402958078</lastupdated>
+  <lastupdated>1412708611</lastupdated>
   <seasonid>524499</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added>2014-04-07 17:22:06</thumb_added>
@@ -8559,12 +6959,12 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Overview>Jackson is given the daunting task of delivering disappointing news to the doctors. Meanwhile, Derek's sister Amelia drops by for a surprise visit, Richard surprises Catherine in Boston and when Bailey gets frustrated by the slow pace of her research, she makes a risky decision.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>20</RatingCount>
+  <RatingCount>24</RatingCount>
   <SeasonNumber>10</SeasonNumber>
   <Writer>Meg Marinis</Writer>
-  <absolute_number></absolute_number>
+  <absolute_number>217</absolute_number>
   <filename>episodes/73762/4818746.jpg</filename>
-  <lastupdated>1403715429</lastupdated>
+  <lastupdated>1412708622</lastupdated>
   <seasonid>524499</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added>2014-04-10 14:41:43</thumb_added>
@@ -8590,12 +6990,12 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Overview>Cristina looks to Meredith for advice as she assesses her future at the hospital. Derek and Amelia work together on a difficult surgery involving conjoined twins. Meanwhile, Jo is spread too thin when she tries to work on several cases at once and Stephanie realizes the truth about Bailey’s bubble boy case.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>17</RatingCount>
+  <RatingCount>22</RatingCount>
   <SeasonNumber>10</SeasonNumber>
   <Writer>Joan Rater</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/4818747.jpg</filename>
-  <lastupdated>1403782092</lastupdated>
+  <lastupdated>1412708552</lastupdated>
   <seasonid>524499</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added>2014-04-15 15:29:07</thumb_added>
@@ -8621,12 +7021,12 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Overview>With Derek away, Meredith spends time with Amelia and finds out her true feelings about her time in Seattle. Bailey deals with the ramifications of her actions and Callie receives devastating news. Meanwhile, the residents panic after hearing that one of them will be fired.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.2</Rating>
-  <RatingCount>13</RatingCount>
+  <RatingCount>17</RatingCount>
   <SeasonNumber>10</SeasonNumber>
   <Writer>Austin Guzman</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73762/4818748.jpg</filename>
-  <lastupdated>1403782122</lastupdated>
+  <lastupdated>1412708531</lastupdated>
   <seasonid>524499</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added>2014-04-28 12:04:54</thumb_added>
@@ -8651,13 +7051,13 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Language>en</Language>
   <Overview>The doctors of Grey Sloan Memorial Hospital bid an emotional farewell to the beloved Cristina Yang. A possible act of terrorism rocks Seattle and causes chaos at the hospital. Meanwhile, Meredith makes a life changing decision and one doctor receives shocking news.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>16</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>20</RatingCount>
   <SeasonNumber>10</SeasonNumber>
   <Writer>Shonda Rhimes</Writer>
-  <absolute_number></absolute_number>
+  <absolute_number>220</absolute_number>
   <filename>episodes/73762/4818749.jpg</filename>
-  <lastupdated>1405870801</lastupdated>
+  <lastupdated>1412708500</lastupdated>
   <seasonid>524499</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added>2014-04-28 12:09:32</thumb_added>
@@ -8672,11 +7072,259 @@ This is an historic episode that finally crosses a long-standing barrier.
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>TBA</EpisodeName>
+  <Director>Kevin McKidd</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>I Must Have Lost It On the Wind</EpisodeName>
   <EpisodeNumber>1</EpisodeNumber>
   <FirstAired>2014-09-25</FirstAired>
+  <GuestStars>Kate Burton, Geena Davis</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>With Cristina gone, a new doctor, Maggie Pierce, making the rounds and Derek wanting to move to Washington DC, Meredith struggles to regain a sense of normalcy both at home and in the hospital. Meanwhile, Callie and Arizona come to a decision about surrogacy, Amelia overhears a big secret, Bailey realizes she will have to fight Alex for Cristina’s board seat and a freak accident causes two teenagers to be caught in a very compromising position.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.2</Rating>
+  <RatingCount>11</RatingCount>
+  <SeasonNumber>11</SeasonNumber>
+  <Writer>Stacy McKee</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73762/4933956.jpg</filename>
+  <lastupdated>1415016512</lastupdated>
+  <seasonid>591139</seasonid>
+  <seriesid>73762</seriesid>
+  <thumb_added>2014-09-09 13:31:38</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4977781</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>11</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Rob Corn</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Puzzle With a Piece Missing</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2014-10-02</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>In this Maggie centric episode, she continues to try to make a positive impression at the hospital but finds herself in extremely unfortunate situations. Meanwhile, Richard continues to hold onto his secret and the doctors work with a dying woman who is being kept alive by her daughter.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.3</Rating>
+  <RatingCount>13</RatingCount>
+  <SeasonNumber>11</SeasonNumber>
+  <Writer>William Harper</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73762/4977781.jpg</filename>
+  <lastupdated>1415016529</lastupdated>
+  <seasonid>591139</seasonid>
+  <seriesid>73762</seriesid>
+  <thumb_added>2014-09-17 14:41:05</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4983468</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>11</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Rob Corn</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Got to Be Real</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2014-10-09</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Owen tries to get Callie to help Veterans Hospital patients with the robotic limb lab. Alex and Meredith's friendship makes Jo jealous. Alex and Bailey prepare to go in front of the board.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>11</RatingCount>
+  <SeasonNumber>11</SeasonNumber>
+  <Writer>Zoanne Clack</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73762/4983468.jpg</filename>
+  <lastupdated>1415016550</lastupdated>
+  <seasonid>591139</seasonid>
+  <seriesid>73762</seriesid>
+  <thumb_added>2014-09-24 02:19:13</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5002956</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>11</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Nicole Rubio</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Only Mama Knows</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2014-10-16</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Secrets from Ellis Grey’s past come to light when Meredith watches old videos and reads through her mother’s journals. Meanwhile, Maggie rocks the hospital with an unexpected announcement; Alex gets new responsibilities and Callie focuses her attention on the Veterans’ project.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.3</Rating>
+  <RatingCount>10</RatingCount>
+  <SeasonNumber>11</SeasonNumber>
+  <Writer>Mark Driscoll</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73762/5002956.jpg</filename>
+  <lastupdated>1415016638</lastupdated>
+  <seasonid>591139</seasonid>
+  <seriesid>73762</seriesid>
+  <thumb_added>2014-09-30 14:28:12</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5002957</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>11</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Jesse Bochco</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Bend &amp; Break</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2014-10-23</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>In this Callie and Arizona centric episode, the couple takes a look into the problems that have contributed to their troubled marriage. At work, Callie immerses herself in the Veterans’ project, and Arizona struggles to impress Dr. Herman. Meanwhile, Richard leans on Bailey for advice.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>8</RatingCount>
+  <SeasonNumber>11</SeasonNumber>
+  <Writer>Meg Marinis</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73762/5002957.jpg</filename>
+  <lastupdated>1415016622</lastupdated>
+  <seasonid>591139</seasonid>
+  <seriesid>73762</seriesid>
+  <thumb_added>2014-10-06 14:19:43</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5013112</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>11</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Rob Greenlea</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Don't Let's Start</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2014-11-06</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Owen becomes invested in a patient when he realizes she may have served in the military, April's mother pays her daughter a visit and bonds with Jackson, and Derek plans a family dinner. Meanwhile, a patient's diagnosis causes Bailey to reconsider her own health issues and Dr. Herman drops a bombshell on Arizona.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>11</SeasonNumber>
+  <Writer>Austin Guzman</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73762/5013112.jpg</filename>
+  <lastupdated>1414195356</lastupdated>
+  <seasonid>591139</seasonid>
+  <seriesid>73762</seriesid>
+  <thumb_added>2014-10-24 17:02:36</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5027710</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>11</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Bobby Roth</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Could We Start Again, Please?</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2014-11-13</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Secrets about Amelia’s past addictions come to light and cause problems for her at the hospital; Bailey oversees Jo’s first solo surgery; and Arizona must make an executive decision in Dr. Herman’s absence. Meanwhile, the doctors spring into action when a couple arrives at the emergency room after escaping a fire.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>11</SeasonNumber>
+  <Writer>Andy Reaser</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73762/5027710.jpg</filename>
+  <lastupdated>1414765252</lastupdated>
+  <seasonid>591139</seasonid>
+  <seriesid>73762</seriesid>
+  <thumb_added>2014-10-31 07:25:10</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5031717</id>
+  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_season>11</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Risk</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2014-11-20</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Maggie and Meredith disagree with Derek about the best way to approach a patient’s case, which leads to a bigger argument between the couple. Meanwhile Callie feels responsible when one of her veterans is pushed too far and one doctor’s routine procedure results in a devastating diagnosis.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>11</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1414622235</lastupdated>
+  <seasonid>591139</seasonid>
+  <seriesid>73762</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5031718</id>
+  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_season>11</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Where Do We Go From Here?</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired></FirstAired>
   <GuestStars></GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
@@ -8688,7 +7336,7 @@ This is an historic episode that finally crosses a long-standing barrier.
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename></filename>
-  <lastupdated>1405444503</lastupdated>
+  <lastupdated>1414623460</lastupdated>
   <seasonid>591139</seasonid>
   <seriesid>73762</seriesid>
   <thumb_added></thumb_added>

@@ -75,7 +75,7 @@ function get_final_url( $url, $timeout = 5 )
 {
     $url = str_replace( "&amp;", "&", urldecode(trim($url)) );
 
-    $cookie = tempnam ("/tmp", "CURLCOOKIE");
+    $cookie = tempnam ("/test", "CURLCOOKIE");
     $ch = curl_init();
     curl_setopt( $ch, CURLOPT_USERAGENT, "Mozilla/5.0 (Windows; U; Windows NT 5.1; rv:1.7.3) Gecko/20041001 Firefox/0.10.1" );
     curl_setopt( $ch, CURLOPT_URL, $url );

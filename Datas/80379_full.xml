@@ -2,7 +2,7 @@
 <Data><Series>
   <id>80379</id>
   <Actors>|Jim Parsons|Johnny Galecki|Kaley Cuoco-Sweeting|Simon Helberg|Kunal Nayyar|Melissa Rauch|Mayim Bialik|</Actors>
-  <Airs_DayOfWeek>Monday</Airs_DayOfWeek>
+  <Airs_DayOfWeek>Thursday</Airs_DayOfWeek>
   <Airs_Time>8:00 PM</Airs_Time>
   <ContentRating>TV-PG</ContentRating>
   <FirstAired>2007-09-24</FirstAired>
@@ -13,428 +13,20 @@
   <NetworkID></NetworkID>
   <Overview>What happens when hyperintelligent roommates Sheldon and Leonard meet Penny, a free-spirited beauty moving in next door, and realize they know next to nothing about life outside of the lab. Rounding out the crew are the smarmy Wolowitz, who thinks he's as sexy as he is brainy, and Koothrappali, who suffers from an inability to speak in the presence of a woman.</Overview>
   <Rating>9.2</Rating>
-  <RatingCount>980</RatingCount>
+  <RatingCount>1015</RatingCount>
   <Runtime>30</Runtime>
   <SeriesID>58056</SeriesID>
   <SeriesName>The Big Bang Theory</SeriesName>
   <Status>Continuing</Status>
   <added></added>
   <addedBy></addedBy>
-  <banner>graphical/80379-g15.jpg</banner>
+  <banner>graphical/80379-g26.jpg</banner>
   <fanart>fanart/original/80379-38.jpg</fanart>
-  <lastupdated>1405874092</lastupdated>
+  <lastupdated>1415047766</lastupdated>
   <poster>posters/80379-9.jpg</poster>
   <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>EP00931182</zap2it_id>
 </Series>
-<Episode>
-  <id>4879955</id>
-  <Combined_episodenumber>2</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName></EpisodeName>
-  <EpisodeNumber>2</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1399720510</lastupdated>
-  <seasonid>585183</seasonid>
-  <seriesid>80379</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4879956</id>
-  <Combined_episodenumber>3</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName></EpisodeName>
-  <EpisodeNumber>3</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1399720512</lastupdated>
-  <seasonid>585183</seasonid>
-  <seriesid>80379</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4879957</id>
-  <Combined_episodenumber>4</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName></EpisodeName>
-  <EpisodeNumber>4</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1399720514</lastupdated>
-  <seasonid>585183</seasonid>
-  <seriesid>80379</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4879958</id>
-  <Combined_episodenumber>5</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName></EpisodeName>
-  <EpisodeNumber>5</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1399720516</lastupdated>
-  <seasonid>585183</seasonid>
-  <seriesid>80379</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4879959</id>
-  <Combined_episodenumber>6</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName></EpisodeName>
-  <EpisodeNumber>6</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1399720517</lastupdated>
-  <seasonid>585183</seasonid>
-  <seriesid>80379</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4879960</id>
-  <Combined_episodenumber>7</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName></EpisodeName>
-  <EpisodeNumber>7</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1399720519</lastupdated>
-  <seasonid>585183</seasonid>
-  <seriesid>80379</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4879962</id>
-  <Combined_episodenumber>8</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName></EpisodeName>
-  <EpisodeNumber>8</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1399720521</lastupdated>
-  <seasonid>585183</seasonid>
-  <seriesid>80379</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4879963</id>
-  <Combined_episodenumber>9</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName></EpisodeName>
-  <EpisodeNumber>9</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1399720523</lastupdated>
-  <seasonid>585183</seasonid>
-  <seriesid>80379</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4879964</id>
-  <Combined_episodenumber>10</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName></EpisodeName>
-  <EpisodeNumber>10</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1399720524</lastupdated>
-  <seasonid>585183</seasonid>
-  <seriesid>80379</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4879965</id>
-  <Combined_episodenumber>11</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName></EpisodeName>
-  <EpisodeNumber>11</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1399720528</lastupdated>
-  <seasonid>585183</seasonid>
-  <seriesid>80379</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4879966</id>
-  <Combined_episodenumber>12</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName></EpisodeName>
-  <EpisodeNumber>12</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1399720530</lastupdated>
-  <seasonid>585183</seasonid>
-  <seriesid>80379</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4879967</id>
-  <Combined_episodenumber>13</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName></EpisodeName>
-  <EpisodeNumber>13</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1399720532</lastupdated>
-  <seasonid>585183</seasonid>
-  <seriesid>80379</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
 <Episode>
   <id>2321301</id>
   <Combined_episodenumber>1</Combined_episodenumber>
@@ -560,7 +152,7 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>Brilliant physicist roommates Leonard and Sheldon meet their new neighbor Penny, who begins showing them that as much as they know about science, they know little about actual living.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>431</RatingCount>
+  <RatingCount>434</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Chuck Lorre|Bill Prady</Writer>
   <absolute_number></absolute_number>
@@ -591,7 +183,7 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>Leonard volunteers to sign for a package in an attempt to make a good impression on Penny, but when he enlists Sheldon for help, his attempt at chivalry goes terribly awry.</Overview>
   <ProductionCode>3T6601</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>365</RatingCount>
+  <RatingCount>366</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Chuck Lorre|Bill Prady</Writer>
   <absolute_number></absolute_number>
@@ -684,7 +276,7 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>Fearing he's wasting his time on Penny, Leonard ends up making a connection with Leslie.</Overview>
   <ProductionCode>3T6604</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>346</RatingCount>
+  <RatingCount>347</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Steven Molaro|Jennifer Glickman|David Goetsch</Writer>
   <absolute_number></absolute_number>
@@ -715,7 +307,7 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>Penny hosts a Hallowe'en party, putting Leonard, Sheldon, Wolowitz, and Koothrappali through a new test of their social skills.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>338</RatingCount>
+  <RatingCount>339</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>David Goetsch</Writer>
   <absolute_number></absolute_number>
@@ -746,7 +338,7 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>With Wolowitz AWOL with one of her friends, Penny's recruited to fill in for him on the guys' Halo team</Overview>
   <ProductionCode>3T6606</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>347</RatingCount>
+  <RatingCount>348</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Bill Prady|Chuck Lorre</Writer>
   <absolute_number></absolute_number>
@@ -777,7 +369,7 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>Raj's parents set him up on a blind date, but just when he discovers he can talk to her, she shows interest in Sheldon.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>333</RatingCount>
+  <RatingCount>334</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>David Goetsch|Steven Molaro</Writer>
   <absolute_number></absolute_number>
@@ -839,7 +431,7 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>Leonard and Sheldon each lie to avoid seeing Penny's concert, but Sheldon's is a bit too complicated for his own good.</Overview>
   <ProductionCode>3T6609</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>331</RatingCount>
+  <RatingCount>332</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Chuck Lorre</Writer>
   <absolute_number>10</absolute_number>
@@ -870,7 +462,7 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>With his friends knowing how sour he acts when sick—and avoiding him as a result—Sheldon is nursed by Penny, who hasn't a clue what she's in for.</Overview>
   <ProductionCode>3T6610</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>336</RatingCount>
+  <RatingCount>337</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Chuck Lorre|Lee Aronsohn</Writer>
   <absolute_number>11</absolute_number>
@@ -901,7 +493,7 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>With Sheldon rattled over meeting Dennis, a 15-year-old physicist who's smarter than he, Leonard helps him look for a way to debunk Dennis's research.</Overview>
   <ProductionCode>3T6611</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>336</RatingCount>
+  <RatingCount>339</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Jennifer Glickman|Stephen Engel</Writer>
   <absolute_number></absolute_number>
@@ -932,7 +524,7 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>Sheldon finds himself booted from the gang's Physics Bowl team and replaced with Leslie, so he forms his own team, hoping to prove he's superior.</Overview>
   <ProductionCode>3T6612</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>325</RatingCount>
+  <RatingCount>328</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Stephen Engel|Jennifer Glickman</Writer>
   <absolute_number></absolute_number>
@@ -963,7 +555,7 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>When delivery of another collectible leads to Penny's lashing out at Leonard, he decides it's time to give up his habit, much to his friends' protestation.</Overview>
   <ProductionCode>3T6613</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>313</RatingCount>
+  <RatingCount>316</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Bill Prady</Writer>
   <absolute_number></absolute_number>
@@ -994,7 +586,7 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>The rest of the gang fall for Sheldon's twin sister, and Leonard's plan to win her heart is derailed when Sheldon declares he'll be the one to decide who can date her.</Overview>
   <ProductionCode>3T6614</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>325</RatingCount>
+  <RatingCount>328</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Chuck Lorre</Writer>
   <absolute_number></absolute_number>
@@ -1026,7 +618,7 @@ The actors share their favourite moments and reveal a few secrets about the maki
 </Overview>
   <ProductionCode>3T6615</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>324</RatingCount>
+  <RatingCount>328</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Lee Aronsohn, Bill Prady</Writer>
   <absolute_number></absolute_number>
@@ -1057,7 +649,7 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>Penny's break-up spurs Leonard to summon the courage to ask her out, and each goes to Sheldon for advice on their upcoming date.</Overview>
   <ProductionCode>3T6616</ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>324</RatingCount>
+  <RatingCount>327</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Lee Aronsohn|Steven Molaro|Chuck Lorre|Bill Prady</Writer>
   <absolute_number></absolute_number>
@@ -1088,7 +680,7 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>Penny's first date with Leonard goes awry; Penny finds Sheldon to be an unwilling confidant.</Overview>
   <ProductionCode>3T7351</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>346</RatingCount>
+  <RatingCount>349</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Bill Prady|Dave Goetsch|Steven Molaro|</Writer>
   <absolute_number></absolute_number>
@@ -1119,7 +711,7 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>A jealous Leonard reacts to Penny's new guy by rebounding with Leslie.</Overview>
   <ProductionCode>3T7352</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>350</RatingCount>
+  <RatingCount>353</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Lee Aronsohn|Bill Prady|Chuck Lorre|</Writer>
   <absolute_number></absolute_number>
@@ -1150,7 +742,7 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>Sheldon creates a monster when he introduces Penny to online gaming.</Overview>
   <ProductionCode>3T7353</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>338</RatingCount>
+  <RatingCount>342</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Chuck Lorre|Steven Molaro|Eric Kaplan|</Writer>
   <absolute_number></absolute_number>
@@ -1181,7 +773,7 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>Raj gets an inflated ego and makes a play for Penny after being referenced in a magazine article.</Overview>
   <ProductionCode>3T7354</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>330</RatingCount>
+  <RatingCount>332</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Bill Prady|Chuck Lorre|Stephen Engel|Tim Doyle|</Writer>
   <absolute_number></absolute_number>
@@ -1212,7 +804,7 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>Leonard and his friends stage an intervention to force Sheldon to face his fear of driving.</Overview>
   <ProductionCode>3T7355</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>335</RatingCount>
+  <RatingCount>338</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Bill Prady|Steven Molaro|Lee Aronsohn|Dave Goetsch|</Writer>
   <absolute_number></absolute_number>
@@ -1243,7 +835,7 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>Sheldon and the gang are confused when a young grad student is attracted to him.</Overview>
   <ProductionCode>3T7356</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>312</RatingCount>
+  <RatingCount>314</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Stephen Engel|Daley Haggar|Tim Doyle|Richard Rosenstock|</Writer>
   <absolute_number></absolute_number>
@@ -1274,7 +866,7 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>When Sheldon bans Penny from the apartment for numerous minor infractions, she decides to retaliate.</Overview>
   <ProductionCode>3T7357</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>329</RatingCount>
+  <RatingCount>331</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Bill Prady|Tim Doyle|Jennifer Glickman|Steven Molaro|</Writer>
   <absolute_number></absolute_number>
@@ -1305,7 +897,7 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>Leonard inadvertently steals away the new woman Wolowitz thinks is the love of his life.</Overview>
   <ProductionCode>3T7358</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>312</RatingCount>
+  <RatingCount>315</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Bill Prady|Dave Goetsch|Jennifer Glickman|</Writer>
   <absolute_number></absolute_number>
@@ -1367,7 +959,7 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>Leonard asks Penny for advice when his new relationship starts moving too fast.</Overview>
   <ProductionCode>3T7360</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>312</RatingCount>
+  <RatingCount>314</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Chuck Lorre|Steven Molaro|Bill Prady|Richard Rosenstock|Mark Cendrowski|</Writer>
   <absolute_number></absolute_number>
@@ -1397,8 +989,8 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Language>en</Language>
   <Overview>Penny starts dating Leonard's handsome colleague; Leonard and his friends are tortured by Sheldon's obsession with gift-giving etiquette.</Overview>
   <ProductionCode>3T7361</ProductionCode>
-  <Rating>8.2</Rating>
-  <RatingCount>342</RatingCount>
+  <Rating>8.1</Rating>
+  <RatingCount>344</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Bill Prady|Richard Rosenstock|Stephen Engel|Eric Kaplan|</Writer>
   <absolute_number></absolute_number>
@@ -1429,7 +1021,7 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>Penny's criticism of Wolowitz's romantic life pushes him into depression and AWOL for a fighting robot battle the rest of guys are depending on him for.</Overview>
   <ProductionCode>3T7362</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>329</RatingCount>
+  <RatingCount>331</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Daley Haggar|Steven Molaro|Richard Rosenstock|Bill Prady|</Writer>
   <absolute_number></absolute_number>
@@ -1460,7 +1052,7 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>Sheldon creates a scientific procedure for making friends.</Overview>
   <ProductionCode>3T7363</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>310</RatingCount>
+  <RatingCount>312</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Bill Prady|Richard Rosenstock|Chuck Lorre|Steven Molaro|</Writer>
   <absolute_number></absolute_number>
@@ -1491,7 +1083,7 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>Sheldon's solution to Penny's financial difficulty leads to a confrontation between Leonard and Penny's ex-boyfriend.</Overview>
   <ProductionCode>3T7364</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>319</RatingCount>
+  <RatingCount>321</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Chuck Lorre|Steven Molaro|Richard Rosenstock|Eric Kaplan|</Writer>
   <absolute_number></absolute_number>
@@ -1522,7 +1114,7 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>Leonard and Penny are drawn together after a disastrous visit from Leonard's mother.</Overview>
   <ProductionCode>3T7365</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>321</RatingCount>
+  <RatingCount>322</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Chuck Lorre|Bill Prady|Richard Rosenstock|Steven Molaro|</Writer>
   <absolute_number></absolute_number>
@@ -1553,7 +1145,7 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>A paintball game leads to a fight between Sheldon and Penny, and romance for Leslie and Wolowitz.</Overview>
   <ProductionCode>3T7366</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>311</RatingCount>
+  <RatingCount>313</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Chuck Lorre|Bill Prady|Lee Aronsohn|</Writer>
   <absolute_number></absolute_number>
@@ -1584,7 +1176,7 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>Leonard, Sheldon and Wolowitz are ecstatic to learn that a famous science-fiction actress (Summer Glau) is on board the train they are taking to San Francisco.</Overview>
   <ProductionCode>3T7367</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>320</RatingCount>
+  <RatingCount>321</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Bill Prady|Dave Goetsch|Tim Doyle|Stephen Engel</Writer>
   <absolute_number></absolute_number>
@@ -1615,7 +1207,7 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>Penny's home business turns into a complete nightmare when Sheldon takes over.</Overview>
   <ProductionCode>3T7368</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>312</RatingCount>
+  <RatingCount>314</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Bill Prady|Lee Aronsohn|Dave Goetsch|Richard Rosenstock|</Writer>
   <absolute_number></absolute_number>
@@ -1708,7 +1300,7 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>Leonard and Koothrappali escort a heartbroken Wolowitz to Las Vegas, and Sheldon becomes locked out of his apartment and must stay with Penny.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>302</RatingCount>
+  <RatingCount>305</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Jessica Ambrosetti|Nicole Lorre|Andrew Roth</Writer>
   <absolute_number></absolute_number>
@@ -1739,7 +1331,7 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>Penny's second date with Stuart sees her making a comment that gives Leonard new hope for a relationship with her. Wolowitz realizes there's a crucial error in a NASA project he's working on.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>328</RatingCount>
+  <RatingCount>330</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Chuck Lorre|Lee Aronsohn</Writer>
   <absolute_number></absolute_number>
@@ -1770,7 +1362,7 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>The guys' plan to work over the summer at the North Pole makes Penny revaluate her feelings for Leonard.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>322</RatingCount>
+  <RatingCount>324</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Richard Rosenstock|Eric Kaplan|</Writer>
   <absolute_number></absolute_number>
@@ -1801,7 +1393,7 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>When Sheldon learns the guys tampered with his expedition data he got from the arctic, he leaves to Texas in disgrace. This results in the guys following him, which threatens Leonard's hope for some romantic time with Penny and the guys' friendship with Sheldon. </Overview>
   <ProductionCode>301</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>370</RatingCount>
+  <RatingCount>372</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Steven Molaro</Writer>
   <absolute_number></absolute_number>
@@ -1832,7 +1424,7 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>Leonard and Penny struggle to recover from an awkward first hookup while Sheldon and Howard stake their best comic books on a bet to determine the species of a cricket. </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>351</RatingCount>
+  <RatingCount>352</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Jim Reynolds</Writer>
   <absolute_number></absolute_number>
@@ -1863,7 +1455,7 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>Howard and Raj visit a Goth nightclub to pick up women while Sheldon attempts to build a better Penny using chocolate-based behavior modification. </Overview>
   <ProductionCode>303</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>350</RatingCount>
+  <RatingCount>351</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Maria Ferrari | Bill Prady</Writer>
   <absolute_number></absolute_number>
@@ -1894,7 +1486,7 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>Raj must find a new job or be sent back to India, but Sheldon has a solution, which leaves Leonard and Penny dealing with Howard as a third wheel.</Overview>
   <ProductionCode>304</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>339</RatingCount>
+  <RatingCount>341</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Steve Holland</Writer>
   <absolute_number></absolute_number>
@@ -1924,7 +1516,7 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Language>en</Language>
   <Overview>After overhearing that Wil Wheaton is entering a trading-card competition, Sheldon decides to enter it himself. Meanwhile, Penny sets up one of her friends on a date with Wolowitz.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.7</Rating>
+  <Rating>7.6</Rating>
   <RatingCount>342</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Steven Molaro|Lee Aronsohn|Bill Prady|Chuck Lorre</Writer>
@@ -1956,7 +1548,7 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>Sheldon becomes Leonard's teacher in order to understand football, while an incident with flying a kite threatens Howard and Raj's friendship.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>328</RatingCount>
+  <RatingCount>329</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Richard Rosenstock|David Goetsch|Steven Molaro|Bill Prady|</Writer>
   <absolute_number></absolute_number>
@@ -1987,7 +1579,7 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>A squabble between Leonard and Penny sees Sheldon playing mediator, though out of his own incovenience from the sitiation rather than altruism.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>340</RatingCount>
+  <RatingCount>341</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Jim Reynolds|Richard Rosenstock|Bill Prady|Lee Aronsohn|Chuck Lorre|</Writer>
   <absolute_number></absolute_number>
@@ -2018,7 +1610,7 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>With Leonard, Howard and Raj away camping in the desert, an injured Penny has only Sheldon to rely on.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>347</RatingCount>
+  <RatingCount>348</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Chuck Lorre|Bill Prady|David Goetsch|</Writer>
   <absolute_number></absolute_number>
@@ -2049,7 +1641,7 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>After he's humiliated on National Public Radio, Sheldon vows to destroy Kripke, while Wolowitz tries not to destroy his new relationship with Bernadette.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>354</RatingCount>
+  <RatingCount>356</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Chuck Lorre|Maria Ferrari|</Writer>
   <absolute_number></absolute_number>
@@ -2111,7 +1703,7 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>A Christmas visit from his mother has Leonard discovering she's kept a lot of news from him that she shares with Sheldon and worrying if she'll approve of his romance with Penny.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>332</RatingCount>
+  <RatingCount>334</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Lee Aronsohn|Steven Molaro|Richard Rosenstock|Maria Ferrari|</Writer>
   <absolute_number></absolute_number>
@@ -2141,8 +1733,8 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Language>en</Language>
   <Overview>Leonard is aghast to find out a secret of Penny's: she believes in psychics. Meanwhile, Sheldon tries to assist Koothrappali in picking up a girl at a university mixer.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>341</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>342</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Lee Aronsohn|Steven Molaro|</Writer>
   <absolute_number></absolute_number>
@@ -2173,7 +1765,7 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>When their apartment is robbed, Leonard and Sheldon turn to their friends to create a state-of-the-art security system.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>357</RatingCount>
+  <RatingCount>360</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Bill Prady|Lee Aronsohn|Jim Reynolds|</Writer>
   <absolute_number></absolute_number>
@@ -2204,7 +1796,7 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>Sheldon's search for the answer to a physics problem leads him to work at the Cheesecake Factory with Penny.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>358</RatingCount>
+  <RatingCount>361</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Lee Aronsohn|Dave Goetsch|Steve Holland|</Writer>
   <absolute_number></absolute_number>
@@ -2235,7 +1827,7 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>Leonard can only bring one guest on a trip to see CERN's Large Hadron Collider (the world's largest and highest energy particle accelerator) in Switzerland on Valentine's Day.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>340</RatingCount>
+  <RatingCount>343</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Chuck Lorre|Steven Molaro|Jim Reynolds|</Writer>
   <absolute_number></absolute_number>
@@ -2266,7 +1858,7 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>Sheldon winds up in traffic court when he gets a ticket because of Penny.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>357</RatingCount>
+  <RatingCount>360</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Bill Prady|Steve Holland|Maria Ferrari|</Writer>
   <absolute_number></absolute_number>
@@ -2297,7 +1889,7 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>When the guys find a ring from &quot;The Lord of the Rings&quot; at a garage sale, it threatens to tear them apart.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>364</RatingCount>
+  <RatingCount>365</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Lee Aronsohn|Eric Kaplan|Maria Ferrari|</Writer>
   <absolute_number></absolute_number>
@@ -2328,7 +1920,7 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>Sheldon's friends come to his aid when his fear of public speaking stands between him and a coveted award.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>370</RatingCount>
+  <RatingCount>372</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Chuck Lorre|Bill Prady|Steve Holland|</Writer>
   <absolute_number></absolute_number>
@@ -2359,7 +1951,7 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>A fight between Leonard and Penny threatens their relationship, while Sheldon battles Wil Wheaton in bowling.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>369</RatingCount>
+  <RatingCount>370</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Chuck Lorre|Steven Molaro|Nicole Lorre|Jessica Ambrosetti|</Writer>
   <absolute_number></absolute_number>
@@ -2390,7 +1982,7 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>When Leonard and Penny aren't speaking, Sheldon goes to extremes to keep them both happy.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>376</RatingCount>
+  <RatingCount>378</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Chuck Lorre|Bill Prady|Lee Aronsohn|Steven Molaro|</Writer>
   <absolute_number></absolute_number>
@@ -2421,7 +2013,7 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>Leonard and Sheldon compete for the attention of a famous female physicist.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>387</RatingCount>
+  <RatingCount>389</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Chuck Lorre|Bill Prady|Lee Aronsohn|</Writer>
   <absolute_number></absolute_number>
@@ -2452,7 +2044,7 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>Leonard tells Penny about how he met Sheldon for the first time...and what happened to the elevator.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>396</RatingCount>
+  <RatingCount>398</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Lee Aronsohn|Steven Molaro|Steve Holland|</Writer>
   <absolute_number></absolute_number>
@@ -2483,7 +2075,7 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>While Penny worries that dating Leonard has ruined her for normal guys, Wolowitz and Koothrappali search for Sheldon's perfect match online.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>369</RatingCount>
+  <RatingCount>372</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Chuck Lorre|Bill Prady|Maria Ferrari|</Writer>
   <absolute_number></absolute_number>
@@ -2514,12 +2106,12 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>Penny tags along on Sheldon's first ever date; Wolowitz finds a new use for a robotic arm.</Overview>
   <ProductionCode>401</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>451</RatingCount>
+  <RatingCount>454</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Steven Molaro|Eric Kaplan|Steve Holland|</Writer>
   <absolute_number>64</absolute_number>
   <filename>episodes/80379/2405541.jpg</filename>
-  <lastupdated>1376058685</lastupdated>
+  <lastupdated>1411582036</lastupdated>
   <seasonid>261421</seasonid>
   <seriesid>80379</seriesid>
   <thumb_added></thumb_added>
@@ -2545,12 +2137,12 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>Realizing he will not live long enough to download his consciousness into a robot body, Sheldon tries to extend his life span.</Overview>
   <ProductionCode>402</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>460</RatingCount>
+  <RatingCount>462</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Steven Molaro|Chuck Lorre|Jim Reynolds|</Writer>
   <absolute_number>65</absolute_number>
   <filename>episodes/80379/2813551.jpg</filename>
-  <lastupdated>1376058694</lastupdated>
+  <lastupdated>1411582047</lastupdated>
   <seasonid>261421</seasonid>
   <seriesid>80379</seriesid>
   <thumb_added></thumb_added>
@@ -2576,12 +2168,12 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>The guys are concerned as Sheldon searches for an alternative to human companionship.</Overview>
   <ProductionCode>403</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>428</RatingCount>
+  <RatingCount>430</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Lee Aronsohn|Steven Molaro|Maria Ferrari|</Writer>
   <absolute_number>66</absolute_number>
   <filename>episodes/80379/2828801.jpg</filename>
-  <lastupdated>1376058707</lastupdated>
+  <lastupdated>1411582057</lastupdated>
   <seasonid>261421</seasonid>
   <seriesid>80379</seriesid>
   <thumb_added></thumb_added>
@@ -2607,12 +2199,12 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>An embarrassing secret of Wolowitz's comes to light, while Sheldon and Raj have a small war at work.</Overview>
   <ProductionCode>404</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>421</RatingCount>
+  <RatingCount>423</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Chuck Lorre|Steven Molaro|Adam Faberman|Bill Prady|Lee Aronsohn|Maria Ferrari</Writer>
   <absolute_number>67</absolute_number>
   <filename>episodes/80379/2828811.jpg</filename>
-  <lastupdated>1376058718</lastupdated>
+  <lastupdated>1411582082</lastupdated>
   <seasonid>261421</seasonid>
   <seriesid>80379</seriesid>
   <thumb_added></thumb_added>
@@ -2638,12 +2230,12 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>Leonard realizes he’s the only one without a girlfriend, while Sheldon wants to get rid of his.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>422</RatingCount>
+  <RatingCount>424</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Lee Aronsohn, David Goetsch, Bill Prady</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80379/2903361.jpg</filename>
-  <lastupdated>1376058727</lastupdated>
+  <lastupdated>1411582108</lastupdated>
   <seasonid>261421</seasonid>
   <seriesid>80379</seriesid>
   <thumb_added></thumb_added>
@@ -2669,12 +2261,12 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>Leonard keeps an affair a secret from Sheldon, Howard and Raj.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>421</RatingCount>
+  <RatingCount>422</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Chuck Lorre|Lee Aronsohn|Steven Molaro|Maria Ferrari|Eric Kaplan|Bill Prady</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80379/2969761.jpg</filename>
-  <lastupdated>1376058737</lastupdated>
+  <lastupdated>1411582122</lastupdated>
   <seasonid>261421</seasonid>
   <seriesid>80379</seriesid>
   <thumb_added></thumb_added>
@@ -2700,12 +2292,12 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>Sheldon's answers during an FBI interview put Wolowitz's security clearance in jeopardy.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>400</RatingCount>
+  <RatingCount>403</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Chuck Lorre|Maria Ferrari|Lee Aronsohn|Steve Holland|Steven Molaro|Bill Prady</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80379/2995711.jpg</filename>
-  <lastupdated>1384783405</lastupdated>
+  <lastupdated>1411582134</lastupdated>
   <seasonid>261421</seasonid>
   <seriesid>80379</seriesid>
   <thumb_added></thumb_added>
@@ -2731,12 +2323,12 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>While the guys camp in line for a long-awaited movie screening, Penny and Bernadette invite Amy to her first slumber party.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>406</RatingCount>
+  <RatingCount>408</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Chuck Lorre|Lee Aronsohn</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80379/3066471.jpg</filename>
-  <lastupdated>1384783393</lastupdated>
+  <lastupdated>1411582144</lastupdated>
   <seasonid>261421</seasonid>
   <seriesid>80379</seriesid>
   <thumb_added></thumb_added>
@@ -2762,12 +2354,12 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>Penny asks Leonard to lie to her father, while Howard, Raj and Bernadette pull an all-nighter at a telescope.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>432</RatingCount>
+  <RatingCount>434</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Lee Aronsohn|Jim Reynolds|Chuck Lorre|Steven Molaro|David Goetsch|Bill Prady</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80379/3110921.jpg</filename>
-  <lastupdated>1384783384</lastupdated>
+  <lastupdated>1411582156</lastupdated>
   <seasonid>261421</seasonid>
   <seriesid>80379</seriesid>
   <thumb_added></thumb_added>
@@ -2792,13 +2384,13 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Language>en</Language>
   <Overview>Amy finds she has sexual feelings for Penny's ex, while Koothrappali and Wolowitz try to prove who would be the better superhero.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>428</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>429</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Chuck Lorre|Steven Molaro|Steve Holland|Lee Aronsohn|Jim Reynolds|Maria Ferrari</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80379/3168381.jpg</filename>
-  <lastupdated>1384783372</lastupdated>
+  <lastupdated>1411582170</lastupdated>
   <seasonid>261421</seasonid>
   <seriesid>80379</seriesid>
   <thumb_added></thumb_added>
@@ -2824,12 +2416,12 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>The guys find a &quot;super&quot; use for Penny's new boyfriend, Zack, when they enter a costume contest as the Justice League. </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>419</RatingCount>
+  <RatingCount>421</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Chuck Lorre|Lee Aronsohn|Maria Ferrari|Bill Prady|Steven Molaro|Steve Holland</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80379/3198011.jpg</filename>
-  <lastupdated>1384783351</lastupdated>
+  <lastupdated>1411582189</lastupdated>
   <seasonid>261421</seasonid>
   <seriesid>80379</seriesid>
   <thumb_added></thumb_added>
@@ -2855,12 +2447,12 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>Leonard's idea for a smartphone app derails his friendship with Sheldon.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>404</RatingCount>
+  <RatingCount>406</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Chuck Lorre|Steven Molaro|Maria Ferrari|Lee Aronsohn|Eric Kaplan|Bill Prady</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80379/3270941.jpg</filename>
-  <lastupdated>1384783342</lastupdated>
+  <lastupdated>1411582201</lastupdated>
   <seasonid>261421</seasonid>
   <seriesid>80379</seriesid>
   <thumb_added></thumb_added>
@@ -2886,12 +2478,12 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>Bernadette runs into her ex-boyfriend while attending a science event with Wolowitz.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>391</RatingCount>
+  <RatingCount>392</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Steve Holland|Lee Aronsohn|Steven Molaro|Bill Prady|Chuck Lorre|David Goetsch</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80379/3392921.jpg</filename>
-  <lastupdated>1384783333</lastupdated>
+  <lastupdated>1411582212</lastupdated>
   <seasonid>261421</seasonid>
   <seriesid>80379</seriesid>
   <thumb_added></thumb_added>
@@ -2917,12 +2509,12 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>Hoping it will make him a better teacher, Sheldon has Penny give him acting lessons. Raj has fantasies about a friend's girlfriend.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>404</RatingCount>
+  <RatingCount>406</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Chuck Lorre|Steven Molaro|Bill Prady|Jim Reynolds|Chuck Lorre|Lee Aronsohn</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80379/3473151.jpg</filename>
-  <lastupdated>1384783325</lastupdated>
+  <lastupdated>1411582226</lastupdated>
   <seasonid>261421</seasonid>
   <seriesid>80379</seriesid>
   <thumb_added></thumb_added>
@@ -2948,12 +2540,12 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>A wealthy donor to the university makes Leonard consider how far he's willing to go for the sake of science.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>399</RatingCount>
+  <RatingCount>400</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>David Goetsch|Steve Holland</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80379/3509831.jpg</filename>
-  <lastupdated>1384783315</lastupdated>
+  <lastupdated>1411582238</lastupdated>
   <seasonid>261421</seasonid>
   <seriesid>80379</seriesid>
   <thumb_added></thumb_added>
@@ -2979,12 +2571,12 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>As Wolowitz contemplates taking things with Bernadette to the next level, Leonard rekindles his relationship with Raj's sister.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>394</RatingCount>
+  <RatingCount>396</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>David Goetsch|Jim Reynolds</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80379/3616341.jpg</filename>
-  <lastupdated>1384783305</lastupdated>
+  <lastupdated>1411582248</lastupdated>
   <seasonid>261421</seasonid>
   <seriesid>80379</seriesid>
   <thumb_added></thumb_added>
@@ -3010,12 +2602,12 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>Sheldon becomes concerned when everybody begins to hang out at Raj's apartment and discovers Leonard is the center of the group.</Overview>
   <ProductionCode>3X6667</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>380</RatingCount>
+  <RatingCount>382</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>David Goetsch|Jim Reynolds</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80379/3682891.jpg</filename>
-  <lastupdated>1384783295</lastupdated>
+  <lastupdated>1411582260</lastupdated>
   <seasonid>261421</seasonid>
   <seriesid>80379</seriesid>
   <thumb_added></thumb_added>
@@ -3041,12 +2633,12 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>Sheldon is baffled by Wolowitz's magic trick. Meanwhile, Leonard realizes dating Priya may make it impossible to continue being friends with Penny.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>368</RatingCount>
+  <RatingCount>370</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Eddie Gorodetsky</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80379/3770211.jpg</filename>
-  <lastupdated>1384783284</lastupdated>
+  <lastupdated>1411582273</lastupdated>
   <seasonid>261421</seasonid>
   <seriesid>80379</seriesid>
   <thumb_added></thumb_added>
@@ -3072,12 +2664,12 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>Sheldon's World of Warcraft online game account is hacked and he is determined to find out who did it. Also Penny shares some girl talk with her friends about Leonard and his new girlfriend. When Howard discovers who hacked the account, the guys depart for a quest to Carlsbad, California where the hacker, Todd Zarnecki, lives in order to retrieve the stolen account, along with &quot;enchanted weapons, gladiator armor, gold, and a battle ostrich, Glenn&quot;. Despite Sheldon carrying his Bat'leth with him they fail miserably. On the way back their car engine breaks down, and they're saved by Penny, who came to drive them home and upon hearing about their failure promises to show them &quot;How we finish quests in Nebraska&quot; and forces Zarnecki to give up kicking him below waist.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>396</RatingCount>
+  <RatingCount>397</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Chuck Lorre|Steven Molaro|Maria Ferrari</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80379/3892111.jpg</filename>
-  <lastupdated>1384783273</lastupdated>
+  <lastupdated>1411582284</lastupdated>
   <seasonid>261421</seasonid>
   <seriesid>80379</seriesid>
   <thumb_added></thumb_added>
@@ -3103,12 +2695,12 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>Sheldon and Amy decide to start several rumors about the others as a test. Meanwhile, Howard takes his relationship with Bernadette to even higher level.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>377</RatingCount>
+  <RatingCount>379</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Chuck Lorre|Eric Kaplan|Eddie Gorodetsky|Bill Prady|Steven Molaro|Steve Holland</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80379/3911231.jpg</filename>
-  <lastupdated>1384783263</lastupdated>
+  <lastupdated>1411582295</lastupdated>
   <seasonid>261421</seasonid>
   <seriesid>80379</seriesid>
   <thumb_added></thumb_added>
@@ -3134,12 +2726,12 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>When Leonard spends too much time in the shower with Priya, Sheldon charges Leonard with two violations of the roommate agreement. However, before he can get too far, Priya uses her skills as a lawyer to nullify the charges due to the agreement's vague wording, much to Sheldon's dismay. When the guys take advantage of Priya's skills in order to eat Greek food on pizza night, Sheldon goes to Penny, who invites him to a girls' night out with Amy and Bernadette, which Sheldon agrees to after Penny mentions that they may be talking trash about Priya. After the girls drink some cocktails, they decide to take Sheldon dancing, which Sheldon reluctantly goes along with. After dancing, Sheldon takes an intoxicated Amy back to her apartment and as well as talking about Priya, meets a monkey who is addicted to smoking cigarettes. Amy tells Sheldon not to give in to Priya's law skills, before kissing him and going to her bathroom to vomit.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>402</RatingCount>
+  <RatingCount>403</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Bill Prady|Dave Goetsch|Eddie Gorodetsky</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80379/4062871.jpg</filename>
-  <lastupdated>1384783254</lastupdated>
+  <lastupdated>1411582306</lastupdated>
   <seasonid>261421</seasonid>
   <seriesid>80379</seriesid>
   <thumb_added></thumb_added>
@@ -3165,12 +2757,12 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>Raj attempts to cure his social anxiety disorder while Penny uses Bernadette to spy on Leonard and his girlfriend.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>380</RatingCount>
+  <RatingCount>382</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Eric Kaplan|Chuck Lorre|Steven Molaro|Bill Prady|Eddie Gorodetsky|Maria Ferrari</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80379/4066721.jpg</filename>
-  <lastupdated>1384783242</lastupdated>
+  <lastupdated>1411582318</lastupdated>
   <seasonid>261421</seasonid>
   <seriesid>80379</seriesid>
   <thumb_added></thumb_added>
@@ -3196,12 +2788,12 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>When Howard finally breaks the news to his mom that he's engaged to Bernadette, it lands her in the hospital.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>385</RatingCount>
+  <RatingCount>386</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Bill Prady|Eric Kaplan|Jim Reynolds|Steven Molaro|Chuck Lorre|Steve Holland</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80379/4066741.jpg</filename>
-  <lastupdated>1384783231</lastupdated>
+  <lastupdated>1411582328</lastupdated>
   <seasonid>261421</seasonid>
   <seriesid>80379</seriesid>
   <thumb_added></thumb_added>
@@ -3226,13 +2818,13 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Language>en</Language>
   <Overview>When Bernadette receives her PhD, Wolowitz feels emasculated. Raj and Leonard swap places and Penny does something she's regrets.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>8.1</Rating>
-  <RatingCount>393</RatingCount>
+  <Rating>8.0</Rating>
+  <RatingCount>394</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Eddie Gorodetsky|Jim Reynolds</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80379/4066751.jpg</filename>
-  <lastupdated>1384783214</lastupdated>
+  <lastupdated>1411582342</lastupdated>
   <seasonid>261421</seasonid>
   <seriesid>80379</seriesid>
   <thumb_added></thumb_added>
@@ -3259,7 +2851,7 @@ The actors share their favourite moments and reveal a few secrets about the maki
 </Overview>
   <ProductionCode>3X6851</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>383</RatingCount>
+  <RatingCount>386</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>|Chuck Lorre|Bill Prady|Steven Molaro|Eric Kaplan|Maria Ferrari|Anthony Del Broccoio|</Writer>
   <absolute_number>88</absolute_number>
@@ -3290,7 +2882,7 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>A fight between Sheldon and Penny leaves Amy caught in the middle, while Leonard tries to spice up his long-distance relationship with Priya.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>365</RatingCount>
+  <RatingCount>368</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Chuck Lorre|Bill Prady|Steven Molaro|Maria Ferrari|Jim Reynolds</Writer>
   <absolute_number>89</absolute_number>
@@ -3321,7 +2913,7 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>Leonard and Amy get to know each other better, while Howard and Bernadette spend the weekend with Mrs. Wolowitz.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>358</RatingCount>
+  <RatingCount>360</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Bill Prady|Steven Molaro|Dave Goetsch|Chuck Lorre|Eric Kaplan|Jim Reynolds</Writer>
   <absolute_number>90</absolute_number>
@@ -3352,7 +2944,7 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>Penny plays Matchmaker for Raj, which results in him finding a girl he is comfortable talking to.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>365</RatingCount>
+  <RatingCount>369</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Chuck Lorre|David Goetsch|Anthony Del Broccolo|Bill Prady|Steven Molaro|Steve Holland</Writer>
   <absolute_number>91</absolute_number>
@@ -3383,7 +2975,7 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>Sheldon and Leonard get invited to a party at Wil Wheaton's house, and Howard gets an out-of-this-world opportunity.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>345</RatingCount>
+  <RatingCount>349</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Bill Prady|Steven Molaro|Jim Reynolds|Chuck Lorre|Eric Kaplan|Maria Ferrari</Writer>
   <absolute_number>92</absolute_number>
@@ -3414,7 +3006,7 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>Sheldon's mother, Mary Cooper, comes to visit, but Sheldon is annoyed that she also spends time with the rest of the gang, instead of catering to his every demand. </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>342</RatingCount>
+  <RatingCount>345</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Chuck Lorre|Eric Kaplan|Steve Holland|Bill Prady|Steven Molaro|Jim Reynolds</Writer>
   <absolute_number>93</absolute_number>
@@ -3445,7 +3037,7 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>A cute comic book artist puts Leonard and Priya’s relationship to the test, while Sheldon tries to scare the guys for Halloween.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>360</RatingCount>
+  <RatingCount>364</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Chuck Lorre|Dave Goetsch|Maria Ferrari|Bill Prady|Steven Molaro|Jim Reynolds</Writer>
   <absolute_number>94</absolute_number>
@@ -3476,7 +3068,7 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>Amy becomes heartbroken when she discovers that Penny and Bernadette went wedding dress shopping without her. </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>335</RatingCount>
+  <RatingCount>338</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Chuck Lorre|Eric Kaplan|Tara Hernandez|Bill Prady|Steven Molaro|Steve Holland</Writer>
   <absolute_number>95</absolute_number>
@@ -3506,8 +3098,8 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Language>en</Language>
   <Overview>Leonard and Penny try hanging out as friends on a 'non-date', but end up purposely ruining each others chances with perspective dates. Meanwhile, Sheldon enlists the help of Bernadette and Amy to overcome his fear of birds.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>344</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>345</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Chuck Lorre|Dave Goetsch|Anthony Del Broccolo</Writer>
   <absolute_number>96</absolute_number>
@@ -3538,7 +3130,7 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>Sheldon considers taking his relationship with Amy to the next level when Stuart from the comic book store asks her out on a date.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>345</RatingCount>
+  <RatingCount>347</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>David Goetsch|Steve Holland|Chuck Lorre|Steven Molaro|Bill Prady</Writer>
   <absolute_number>97</absolute_number>
@@ -3569,7 +3161,7 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>Leonard must face his fears after being contacted by his high school tormentor.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>336</RatingCount>
+  <RatingCount>338</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>|Chuck Lorre|Bill Prady|Steve Holland|Steven Molaro|Eric Kaplan|Anthony Del Broccolo|</Writer>
   <absolute_number>98</absolute_number>
@@ -3600,7 +3192,7 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>Sheldon gets in trouble with Amy when he isn't impressed by her recent accomplishment, and Howard must come to grips with Bernadette's dislike of children.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>336</RatingCount>
+  <RatingCount>338</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>|Chuck Lorre|Steve Holland|Tara Hernandez|Bill Prady|Jim Reynolds|Steven Molaro|</Writer>
   <absolute_number>99</absolute_number>
@@ -3631,7 +3223,7 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>Leonard, who broke up with Priya, asks Penny out to a spur-of the-moment romantic dinner for two, and the duo contemplates on their relationship. </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>333</RatingCount>
+  <RatingCount>336</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>|Chuck Lorre|Bill Prady|Steven Molaro|</Writer>
   <absolute_number>100</absolute_number>
@@ -3661,8 +3253,8 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Language>en</Language>
   <Overview>Leonard and Penny deal with the idea of starting a relationship again and Raj finally finds a &quot;woman&quot; he can talk to without being drunk, in the form of Siri on his new phone. Meanwhile, Sheldon decides to start a YouTube series entitled &quot;Sheldon Cooper presents Fun with Flags&quot; with the help of Amy. </Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.9</Rating>
-  <RatingCount>329</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>331</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>|Chuck Lorre|Steven Molaro|Eric Kaplan|Bill Prady|Dave Goetsch|Maria Ferrari|</Writer>
   <absolute_number>101</absolute_number>
@@ -3693,7 +3285,7 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>Sheldon's selfish demands force Leonard to reconsider their friendship. Meanwhile, Wolowitz tries to pick his astronaut nickname.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>334</RatingCount>
+  <RatingCount>336</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>|Chuck Lorre|Eric Kaplan|Jim Reynolds|Bill Prady|Steven Malaro|Steve Holland|</Writer>
   <absolute_number>102</absolute_number>
@@ -3724,7 +3316,7 @@ The actors share their favourite moments and reveal a few secrets about the maki
   <Overview>When Sheldon is forced to take his vacation, he goes to work with Amy in her neurobiology lab.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>317</RatingCount>
+  <RatingCount>318</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Chuck Lorre|Anthony Del Broccolo|Tara Hernandez|Bill Prady|Steven Molaro|Maria Ferrari</Writer>
   <absolute_number>103</absolute_number>
@@ -3756,7 +3348,7 @@ The actors share their favourite moments and reveal a few secrets about the maki
 When the deranged Professor Rothman is forced to retire, both Sheldon and Kripke vie for his office. President Siebert refuses to resolve the dispute, so Leonard arranges a one-on-one basketball game to decide (since they're both equally bad at sports). Neither one can even make a single basket, so they end up deciding by seeing who can bounce the ball the highest. Sheldon wins; unfortunately, the office is not what he'd hoped for: the thermostat is located in the office of a professor going through the hot flashes of menopause (thus Sheldon is too cold), the mockingbird outside his window is off-key with the annoying windchimes, the perpetually naked Professor Rothman refuses to vacate, and the Geology Department upstairs makes too much noise. Finally, Sheldon gets his head stuck in the wall in an existing hole, after which Leonard takes his picture before he goes for help.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>326</RatingCount>
+  <RatingCount>329</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>|Chuck Lorre|Bill Prady|Steve Holland|Steven Molaro|Eric Kaplan|Jim Reynolds|</Writer>
   <absolute_number>104</absolute_number>
@@ -3787,7 +3379,7 @@ When the deranged Professor Rothman is forced to retire, both Sheldon and Kripke
   <Overview>Sheldon becomes agitated when his regular barber is out sick. Astronaut training causes Howard to reconsider wanting to go into space. Penny beats Leonard in chess, the first time she plays.</Overview>
   <ProductionCode>3X6868</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>316</RatingCount>
+  <RatingCount>317</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Chuck Lorre|Todd Craig|Gary Torvinen|Bill Prady|Steven Molaro|Jim Reynolds|Maria Ferrari</Writer>
   <absolute_number>105</absolute_number>
@@ -3818,7 +3410,7 @@ When the deranged Professor Rothman is forced to retire, both Sheldon and Kripke
   <Overview>Sheldon must choose between joining Amy at her aunt's birthday party or playing videogames all weekend with the guys.</Overview>
   <ProductionCode>3X6869</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>320</RatingCount>
+  <RatingCount>324</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Chuck Lorre|Bill Prady|Tara Hernandez</Writer>
   <absolute_number>106</absolute_number>
@@ -3848,8 +3440,8 @@ When the deranged Professor Rothman is forced to retire, both Sheldon and Kripke
   <Language>en</Language>
   <Overview>Penny buys Leonard and Sheldon “Star Trek” collectibles as a thank-you, leading Sheldon to be haunted by Mr. Spock. Meanwhile, Raj decides he has met the “Future Mrs. Koothrappali” after his parents set him up on a date.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>309</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>312</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Chuck Lorre|Bill Prady|Maria Ferrari</Writer>
   <absolute_number>107</absolute_number>
@@ -3880,7 +3472,7 @@ When the deranged Professor Rothman is forced to retire, both Sheldon and Kripke
   <Overview>When Wolowitz gets to work with Stephen Hawking, Sheldon is willing to do anything to meet his hero.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>308</RatingCount>
+  <RatingCount>312</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Steve Holland|Steven Molaro|Bill Prady|Chuck Lorre|Eric Kaplan|Maria Ferrari</Writer>
   <absolute_number>108</absolute_number>
@@ -3911,7 +3503,7 @@ When the deranged Professor Rothman is forced to retire, both Sheldon and Kripke
   <Overview>After the guys throw Howard a bachelor party, Bernadette reconsiders marrying him after learning about his sexual history.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>295</RatingCount>
+  <RatingCount>298</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Chuck Lorre|Steven Molaro|Jim Reynolds</Writer>
   <absolute_number>109</absolute_number>
@@ -3942,12 +3534,12 @@ When the deranged Professor Rothman is forced to retire, both Sheldon and Kripke
   <Overview>When NASA moves up Howard's mission, he must face his fears and Bernadette's dad, thus putting the wedding plans in jeopardy. Meanwhile, Leonard says something surprising to Penny in the bedroom.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>294</RatingCount>
+  <RatingCount>298</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Chuck Lorre|Steven Molaro|Jim Reynolds|Bill Prady|Steve Holland|Maria Ferrari</Writer>
   <absolute_number>110</absolute_number>
   <filename>episodes/80379/4293934.jpg</filename>
-  <lastupdated>1389256709</lastupdated>
+  <lastupdated>1407939780</lastupdated>
   <seasonid>468774</seasonid>
   <seriesid>80379</seriesid>
   <thumb_added></thumb_added>
@@ -3973,7 +3565,7 @@ When the deranged Professor Rothman is forced to retire, both Sheldon and Kripke
   <Overview>The fifth season ends with Howard and Bernadette deciding to get married before his NASA mission, causing the gang to scurry into overdrive in an effort to stage the wedding. NASA astronaut Mike Massimino has a cameo as himself.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>305</RatingCount>
+  <RatingCount>309</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>|Bill Prady|Eric Kaplan|Steve Holland|</Writer>
   <absolute_number>111</absolute_number>
@@ -4004,7 +3596,7 @@ When the deranged Professor Rothman is forced to retire, both Sheldon and Kripke
   <Overview>Raj faces his loneliness when his friends are out on dates; while in space, Wolowitz gets drawn into a fight between Bernadette and his mom.</Overview>
   <ProductionCode>3X7601</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>280</RatingCount>
+  <RatingCount>282</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>|Steven Molaro|Jim Reynolds|Maria Ferrari|</Writer>
   <absolute_number>112</absolute_number>
@@ -4034,7 +3626,7 @@ When the deranged Professor Rothman is forced to retire, both Sheldon and Kripke
   <Language>en</Language>
   <Overview>Sheldon tries to intervene when he learns that Penny is thinking about breaking up with Leonard; Howard is picked on.</Overview>
   <ProductionCode>3X7602</ProductionCode>
-  <Rating>7.8</Rating>
+  <Rating>7.7</Rating>
   <RatingCount>274</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>|Steven Molaro|Eric Kaplan|Steve Holland|</Writer>
@@ -4065,8 +3657,8 @@ When the deranged Professor Rothman is forced to retire, both Sheldon and Kripke
   <Language>en</Language>
   <Overview>Amy feels threatened by Sheldon's new assistant; Wolowitz starts to feel the pressures of being in space.</Overview>
   <ProductionCode>3X7603</ProductionCode>
-  <Rating>7.9</Rating>
-  <RatingCount>273</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>277</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>|Chuck Lorre|Jim Reynolds|Maria Ferrari|</Writer>
   <absolute_number>114</absolute_number>
@@ -4096,8 +3688,8 @@ When the deranged Professor Rothman is forced to retire, both Sheldon and Kripke
   <Language>en</Language>
   <Overview>Wolowitz's return from space isn't all he expected; game night becomes a gender war.</Overview>
   <ProductionCode>3X7604</ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>269</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>272</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>|Chuck Lorre|Steven Molaro|Eric Kaplan|</Writer>
   <absolute_number>115</absolute_number>
@@ -4128,7 +3720,7 @@ When the deranged Professor Rothman is forced to retire, both Sheldon and Kripke
   <Overview>The gang heads to Stuart's comic book store to celebrate Halloween; Leonard uses science to seduce Penny.</Overview>
   <ProductionCode>3X7605</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>268</RatingCount>
+  <RatingCount>271</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>|Steven Molaro|Steve Holland|Maria Ferrari|</Writer>
   <absolute_number>116</absolute_number>
@@ -4159,7 +3751,7 @@ When the deranged Professor Rothman is forced to retire, both Sheldon and Kripke
   <Overview>A game threatens Sheldon's relationship with Stephen Hawking; Penny secretly signs up for a college class.</Overview>
   <ProductionCode>3X7606</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>273</RatingCount>
+  <RatingCount>275</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>|Chuck Lorre|Bill Prady|Steve Holland|</Writer>
   <absolute_number>117</absolute_number>
@@ -4189,8 +3781,8 @@ When the deranged Professor Rothman is forced to retire, both Sheldon and Kripke
   <Language>en</Language>
   <Overview>Bernadette wants Wolowitz to move out of his mom's house; Sheldon is caught in the middle of Amy and Wil Wheaton's argument.</Overview>
   <ProductionCode>3X7607</ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>263</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>267</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>|Chuck Lorre|Eric Kaplan|Jim Reynolds|</Writer>
   <absolute_number>118</absolute_number>
@@ -4221,7 +3813,7 @@ When the deranged Professor Rothman is forced to retire, both Sheldon and Kripke
   <Overview>Raj and Howard try to to figure out why Sheldon disappears at 2:45 every afternoon; jealousy arises in Penny and Leonard's relationship.</Overview>
   <ProductionCode>3X7608</ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>257</RatingCount>
+  <RatingCount>259</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>|Chuck Lorre|Dave Goetsch|Anthony Del Broccolo|</Writer>
   <absolute_number>119</absolute_number>
@@ -4251,8 +3843,8 @@ When the deranged Professor Rothman is forced to retire, both Sheldon and Kripke
   <Language>en</Language>
   <Overview>Sheldon and Wolowitz's fight over a parking spot at the university impacts the whole gang.</Overview>
   <ProductionCode>3X7609</ProductionCode>
-  <Rating>7.9</Rating>
-  <RatingCount>249</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>251</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>|Chuck Lorre|Eric Kaplan|Adam Faberman|</Writer>
   <absolute_number>120</absolute_number>
@@ -4283,12 +3875,12 @@ When the deranged Professor Rothman is forced to retire, both Sheldon and Kripke
   <Overview>When Amy gets sick, Sheldon tries to nurse her back to health; Wolowitz and his father-in-law plan a fishing trip.</Overview>
   <ProductionCode>3X7610</ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>249</RatingCount>
+  <RatingCount>251</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>|Chuck Lorre|Bill Prady|Tara Hernandez|Steven Molaro|Eric Kaplan|Jim Reynolds|</Writer>
   <absolute_number>121</absolute_number>
   <filename>episodes/80379/4437045.jpg</filename>
-  <lastupdated>1401137030</lastupdated>
+  <lastupdated>1410058355</lastupdated>
   <seasonid>494401</seasonid>
   <seriesid>80379</seriesid>
   <thumb_added></thumb_added>
@@ -4314,7 +3906,7 @@ When the deranged Professor Rothman is forced to retire, both Sheldon and Kripke
   <Overview>During a game, Sheldon revisits Christmas memories; Amy, Penny and Bernadette look for a date for Koothrappali.</Overview>
   <ProductionCode>3X7611</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>231</RatingCount>
+  <RatingCount>234</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>|Chuck Lorre|Eric Kaplan|Steve Holland|Steven Molaro|Jim Reynolds|Maria Ferrari|</Writer>
   <absolute_number>122</absolute_number>
@@ -4345,7 +3937,7 @@ When the deranged Professor Rothman is forced to retire, both Sheldon and Kripke
   <Overview>When Sheldon is accused of sexual harassment, he ends up getting Raj, Leonard and Wolowitz in trouble.</Overview>
   <ProductionCode>3X7612</ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>219</RatingCount>
+  <RatingCount>221</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>|Chuck Lorre|Eric Kaplan|Jim Reynolds|</Writer>
   <absolute_number>123</absolute_number>
@@ -4376,7 +3968,7 @@ When the deranged Professor Rothman is forced to retire, both Sheldon and Kripke
   <Overview>As the guys don costumes and go on a road trip to a comic book convention, the ladies decide to stay home and try to interpret a comic book.</Overview>
   <ProductionCode>3X7613</ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>223</RatingCount>
+  <RatingCount>227</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>|Chuck Lorre|Jim Reynolds|Steve Holland|</Writer>
   <absolute_number>124</absolute_number>
@@ -4407,7 +3999,7 @@ When the deranged Professor Rothman is forced to retire, both Sheldon and Kripke
   <Overview>Sheldon faces a crisis of confidence when he is forced to work with his nemesis, Barry Kripke; Raj and Howard buy expensive action figures of themselves.</Overview>
   <ProductionCode>3X7614</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>218</RatingCount>
+  <RatingCount>219</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>|Chuck Lorre|Eric Kaplan|Anthony Del Broccolo|</Writer>
   <absolute_number>125</absolute_number>
@@ -4443,7 +4035,7 @@ When the deranged Professor Rothman is forced to retire, both Sheldon and Kripke
   <Writer>|Chuck Lorre|Eric Kaplan|Steve Holland|</Writer>
   <absolute_number>126</absolute_number>
   <filename>episodes/80379/4453067.jpg</filename>
-  <lastupdated>1404518897</lastupdated>
+  <lastupdated>1411397605</lastupdated>
   <seasonid>494401</seasonid>
   <seriesid>80379</seriesid>
   <thumb_added></thumb_added>
@@ -4469,12 +4061,12 @@ When the deranged Professor Rothman is forced to retire, both Sheldon and Kripke
   <Overview>The guys search for a perfect Valentine's Day gift for their significant others; Stuart and Raj host a &quot;lonely people&quot; party at the comic book store.</Overview>
   <ProductionCode>3X7616</ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>221</RatingCount>
+  <RatingCount>222</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>|Chuck Lorre|Bill Prady|Steve Holland|</Writer>
   <absolute_number>127</absolute_number>
   <filename>episodes/80379/4485780.jpg</filename>
-  <lastupdated>1404518943</lastupdated>
+  <lastupdated>1411397565</lastupdated>
   <seasonid>494401</seasonid>
   <seriesid>80379</seriesid>
   <thumb_added></thumb_added>
@@ -4500,12 +4092,12 @@ When the deranged Professor Rothman is forced to retire, both Sheldon and Kripke
   <Overview>After a bad date, Koothrappali decides to never leave his apartment; Penny's acting skills impress Sheldon.</Overview>
   <ProductionCode>3X7617</ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>219</RatingCount>
+  <RatingCount>221</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>|Chuck Lorre|Dave Goetsch|Maria Ferrari|Steven Molaro|Eric Kaplan|Steve Holland|</Writer>
   <absolute_number>128</absolute_number>
   <filename>episodes/80379/4496358.jpg</filename>
-  <lastupdated>1404518987</lastupdated>
+  <lastupdated>1411397547</lastupdated>
   <seasonid>494401</seasonid>
   <seriesid>80379</seriesid>
   <thumb_added></thumb_added>
@@ -4530,13 +4122,13 @@ When the deranged Professor Rothman is forced to retire, both Sheldon and Kripke
   <Language>en</Language>
   <Overview>Leonard, Sheldon and Wolowitz talk to junior high girls about science-related careers; Raj plans a date with Lucy.</Overview>
   <ProductionCode>3X7618</ProductionCode>
-  <Rating>7.9</Rating>
-  <RatingCount>219</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>220</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>|Chuck Lorre|Eric Kaplan|Steve Holland|Steven Molaro|Jim Reynolds|Maria Ferrari|</Writer>
   <absolute_number>129</absolute_number>
   <filename>episodes/80379/4498291.jpg</filename>
-  <lastupdated>1404519036</lastupdated>
+  <lastupdated>1411397525</lastupdated>
   <seasonid>494401</seasonid>
   <seriesid>80379</seriesid>
   <thumb_added></thumb_added>
@@ -4562,12 +4154,12 @@ When the deranged Professor Rothman is forced to retire, both Sheldon and Kripke
   <Overview>Howard considers whether or not he should open a letter from his father; Penny and Leonard host a &quot;grown-up&quot; cocktail party.</Overview>
   <ProductionCode>3X7619</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>205</RatingCount>
+  <RatingCount>207</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>|Steven Molaro|Steve Holland|Eric Kaplan|</Writer>
   <absolute_number>130</absolute_number>
   <filename>episodes/80379/4513651.jpg</filename>
-  <lastupdated>1404519076</lastupdated>
+  <lastupdated>1411397507</lastupdated>
   <seasonid>494401</seasonid>
   <seriesid>80379</seriesid>
   <thumb_added></thumb_added>
@@ -4593,12 +4185,12 @@ When the deranged Professor Rothman is forced to retire, both Sheldon and Kripke
   <Overview>The girls get involved when Leonard, Sheldon and Raj compete for tenure at the University.</Overview>
   <ProductionCode>3X7620</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>211</RatingCount>
+  <RatingCount>214</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>|Chuck Lorre|Steve Holland|Jim Reynolds|</Writer>
   <absolute_number>131</absolute_number>
   <filename>episodes/80379/4513973.jpg</filename>
-  <lastupdated>1404519102</lastupdated>
+  <lastupdated>1411397488</lastupdated>
   <seasonid>494401</seasonid>
   <seriesid>80379</seriesid>
   <thumb_added></thumb_added>
@@ -4624,12 +4216,12 @@ When the deranged Professor Rothman is forced to retire, both Sheldon and Kripke
   <Overview>Amy tries to help Sheldon get over his compulsive need for closure when one of his favorite TV shows is canceled; Raj discovers a secret about Lucy.</Overview>
   <ProductionCode>3X7621</ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>197</RatingCount>
+  <RatingCount>199</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>|Steven Molaro|Jim Reynolds|Steve Holland|</Writer>
   <absolute_number>132</absolute_number>
   <filename>episodes/80379/4516557.jpg</filename>
-  <lastupdated>1404519266</lastupdated>
+  <lastupdated>1411397471</lastupdated>
   <seasonid>494401</seasonid>
   <seriesid>80379</seriesid>
   <thumb_added></thumb_added>
@@ -4655,12 +4247,12 @@ When the deranged Professor Rothman is forced to retire, both Sheldon and Kripke
   <Overview>Leonard and Sheldon hire the host (Bob Newhart) of their favorite childhood TV show to perform; Bernadette and Howard run into trouble while dog-sitting for Raj's pet.</Overview>
   <ProductionCode>3X7622</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>198</RatingCount>
+  <RatingCount>199</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>|Chuck Lorre|Jim Reynolds|Steve Holland|</Writer>
   <absolute_number>133</absolute_number>
   <filename>episodes/80379/4516558.jpg</filename>
-  <lastupdated>1404519295</lastupdated>
+  <lastupdated>1411397452</lastupdated>
   <seasonid>494401</seasonid>
   <seriesid>80379</seriesid>
   <thumb_added></thumb_added>
@@ -4686,12 +4278,12 @@ When the deranged Professor Rothman is forced to retire, both Sheldon and Kripke
   <Overview>Amy and Sheldon's relationship takes a surprising turn during a game of &quot;Dungeons &amp; Dragons&quot;; Lucy and Koothrappali have an awkward date.</Overview>
   <ProductionCode>3X7623</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>201</RatingCount>
+  <RatingCount>203</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>|Chuck Lorre|Jim Reynolds|Maria Ferrari|</Writer>
   <absolute_number>134</absolute_number>
   <filename>episodes/80379/4516559.jpg</filename>
-  <lastupdated>1404519326</lastupdated>
+  <lastupdated>1411397429</lastupdated>
   <seasonid>494401</seasonid>
   <seriesid>80379</seriesid>
   <thumb_added></thumb_added>
@@ -4717,12 +4309,12 @@ When the deranged Professor Rothman is forced to retire, both Sheldon and Kripke
   <Overview>When Leonard is considered for an exciting research opportunity, Sheldon becomes jealous and tries to scare him into backing out.  Meanwhile, Raj's relationship with Lucy is strained when he tries to get her to meet his friends.</Overview>
   <ProductionCode>3X7624</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>192</RatingCount>
+  <RatingCount>193</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>|Steven Molaro|Steve Holland|Tara Hernandz|</Writer>
   <absolute_number>135</absolute_number>
   <filename>episodes/80379/4516560.jpg</filename>
-  <lastupdated>1404519346</lastupdated>
+  <lastupdated>1411397407</lastupdated>
   <seasonid>494401</seasonid>
   <seriesid>80379</seriesid>
   <thumb_added></thumb_added>
@@ -4745,15 +4337,15 @@ When the deranged Professor Rothman is forced to retire, both Sheldon and Kripke
   <GuestStars>|Regina King|Sophie Oda|Aaron Takahashi|Alex Ball|</GuestStars>
   <IMDB_ID>tt3111660</IMDB_ID>
   <Language>en</Language>
-  <Overview>Sheldon and Penny share secrets while Leonard is away; Wolowitz helps Raj get over his ex.</Overview>
+  <Overview>In the first part of the one-hour seventh season premiere, Sheldon and Penny bond in Leonard's absence, but it's Sheldon's feelings that are crushed when Leonard returns from the North Sea. Guest star Regina King returns as Mrs. Davis, the University's Director of Employee Relations.</Overview>
   <ProductionCode>4X5301</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>155</RatingCount>
+  <RatingCount>160</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer>|Chuck Lorre|Steve Molaro|Tara Hernandez|</Writer>
   <absolute_number>136</absolute_number>
   <filename>episodes/80379/4594867.jpg</filename>
-  <lastupdated>1403461808</lastupdated>
+  <lastupdated>1413693735</lastupdated>
   <seasonid>522809</seasonid>
   <seriesid>80379</seriesid>
   <thumb_added>2013-08-30 11:15:21</thumb_added>
@@ -4776,15 +4368,15 @@ When the deranged Professor Rothman is forced to retire, both Sheldon and Kripke
   <GuestStars>|Kevin Sussman|Barak Hardley|</GuestStars>
   <IMDB_ID>tt2933998</IMDB_ID>
   <Language>en</Language>
-  <Overview>Leonard and Sheldon's friendship is tested; Wolowitz's relationship with his mom causes a threat to his masculinity.</Overview>
+  <Overview>On the second part of the one-hour seventh season premiere, Raj gets consoled about his ex-girlfriend and Howard's relationship with his mother causes an unusual threat to his masculinity. Kevin Sussman returns as Stuart, the comic book store owner.</Overview>
   <ProductionCode>4X5302</ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>157</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>162</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer>|Chuck Lorre|Eric Kaplan|Jim Reynolds|</Writer>
   <absolute_number>137</absolute_number>
   <filename>episodes/80379/4623192.jpg</filename>
-  <lastupdated>1403461839</lastupdated>
+  <lastupdated>1413756649</lastupdated>
   <seasonid>522809</seasonid>
   <seriesid>80379</seriesid>
   <thumb_added>2013-09-26 00:34:16</thumb_added>
@@ -4807,15 +4399,15 @@ When the deranged Professor Rothman is forced to retire, both Sheldon and Kripke
   <GuestStars>Kevin Sussman</GuestStars>
   <IMDB_ID>tt3218670</IMDB_ID>
   <Language>en</Language>
-  <Overview>Raj designs a scavenger hunt that brings out the best -- and the worst -- in the whole gang.</Overview>
+  <Overview>When the entire gang competes in a cutthroat scavenger hunt designed by Raj that tests their science knowledge and street smarts, it brings out the best – and worst – in everyone.</Overview>
   <ProductionCode>4X5303</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>161</RatingCount>
+  <RatingCount>166</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer>|Dave Goetsch|Eric Kaplan|Steve Holland|</Writer>
   <absolute_number>138</absolute_number>
   <filename>episodes/80379/4635786.jpg</filename>
-  <lastupdated>1401138473</lastupdated>
+  <lastupdated>1411636758</lastupdated>
   <seasonid>522809</seasonid>
   <seriesid>80379</seriesid>
   <thumb_added>2013-10-03 01:31:43</thumb_added>
@@ -4838,15 +4430,15 @@ When the deranged Professor Rothman is forced to retire, both Sheldon and Kripke
   <GuestStars>|Christine Baranski|Kevin Sussman|Christine Corpuz|</GuestStars>
   <IMDB_ID>tt3221722</IMDB_ID>
   <Language>en</Language>
-  <Overview>Sheldon wants revenge after Amy ruins one of his favorite films; Leonard finds a way to get Penny to do anything; Stuart and Raj make online dating profiles.</Overview>
+  <Overview>After Amy ruins one of Sheldon's favorite movies – Raiders of the Lost Ark – he gets defensive, seeking revenge. Meanwhile, Leonard discovers a way to get Penny to do anything; and Raj and Stuart create online dating profiles.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>157</RatingCount>
+  <RatingCount>165</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer>|Chuck Lorre|Jim Reynolds|Tara Hernandez|</Writer>
   <absolute_number>139</absolute_number>
   <filename>episodes/80379/4635787.jpg</filename>
-  <lastupdated>1401138521</lastupdated>
+  <lastupdated>1411641946</lastupdated>
   <seasonid>522809</seasonid>
   <seriesid>80379</seriesid>
   <thumb_added>2013-10-08 09:02:03</thumb_added>
@@ -4869,15 +4461,15 @@ When the deranged Professor Rothman is forced to retire, both Sheldon and Kripke
   <GuestStars>|Todd Eric Andrews|Ayumi Iizuka|</GuestStars>
   <IMDB_ID>tt3229392</IMDB_ID>
   <Language>en</Language>
-  <Overview>Sheldon and Amy's relationship is tested when she takes a job at his university; a fight with Bernadette leaves Howard sleeping on Raj's couch.</Overview>
+  <Overview>Sheldon must decide how much &quot;Amy time&quot; is too much after she takes a job at his university, and their relationship is put to the test. Meanwhile, Howard finds himself sleeping on Raj's couch after a fight with Bernadette.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>155</RatingCount>
+  <RatingCount>162</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer>|Steven Molaro|Steve Holland|Maria Ferrari|Chuck Lorre|Eric Kaplan|Jim Reynolds|</Writer>
   <absolute_number>140</absolute_number>
   <filename>episodes/80379/4668379.jpg</filename>
-  <lastupdated>1401138550</lastupdated>
+  <lastupdated>1411641974</lastupdated>
   <seasonid>522809</seasonid>
   <seriesid>80379</seriesid>
   <thumb_added>2013-10-09 22:05:47</thumb_added>
@@ -4900,15 +4492,15 @@ When the deranged Professor Rothman is forced to retire, both Sheldon and Kripke
   <GuestStars>|Andrew Hill Newman|John Apicella|Nick Ullett|Tom Fonss|</GuestStars>
   <IMDB_ID>tt3229394</IMDB_ID>
   <Language>en</Language>
-  <Overview>Sheldon’s major scientific breakthrough makes him feel like a fraud. Meanwhile, Howard’s romantic gesture to Bernadette causes Penny to step up her game with Leonard.</Overview>
+  <Overview>Sheldon's latest scientific breakthrough makes him feel like a fraud – and threatens to haunt him forever. Meanwhile, Howard's romantic gesture to Bernadette causes Penny to step up her game with Leonard.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>158</RatingCount>
+  <RatingCount>165</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer>|Eric Kaplan|Jim Reynolds|Tara Hernandez|Steven Molaro|Steve Holland|Maria Ferrari|</Writer>
   <absolute_number>141</absolute_number>
   <filename>episodes/80379/4668380.jpg</filename>
-  <lastupdated>1401138609</lastupdated>
+  <lastupdated>1411642119</lastupdated>
   <seasonid>522809</seasonid>
   <seriesid>80379</seriesid>
   <thumb_added>2013-10-19 20:11:55</thumb_added>
@@ -4931,15 +4523,15 @@ When the deranged Professor Rothman is forced to retire, both Sheldon and Kripke
   <GuestStars>|Bob Newhart|Bill Nye|</GuestStars>
   <IMDB_ID>tt3229396</IMDB_ID>
   <Language>en</Language>
-  <Overview>When Professor Proton asks Leonard for help with an experiment, Sheldon retaliates by befriending Proton's rival, Bill Nye.</Overview>
+  <Overview>Sheldon feels slighted when Professor Proton (recurring guest star Bob Newhart) seeks advice from Leonard instead of him, and he seeks revenge by befriending a rival science TV host, Bill Nye (guest starring as himself). Meanwhile, Raj gets jealous when Howard crashes &quot;girls' night.&quot;</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>143</RatingCount>
+  <RatingCount>150</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer>|Chuck Lorre|Maria Ferrari|Anthony del Broccolo|</Writer>
   <absolute_number>142</absolute_number>
   <filename>episodes/80379/4694392.jpg</filename>
-  <lastupdated>1401137376</lastupdated>
+  <lastupdated>1411642176</lastupdated>
   <seasonid>522809</seasonid>
   <seriesid>80379</seriesid>
   <thumb_added>2013-10-25 21:54:38</thumb_added>
@@ -4962,15 +4554,15 @@ When the deranged Professor Rothman is forced to retire, both Sheldon and Kripke
   <GuestStars>|Kate Micucci|Morgan Hewitt|</GuestStars>
   <IMDB_ID>tt3303726</IMDB_ID>
   <Language>en</Language>
-  <Overview>When a mistake comes to light, Sheldon makes Leonard walk a mile in his shoes; Penny decides to confront Raj's ex.</Overview>
+  <Overview>Leonard tries to keep Sheldon from overreacting when a past mistake comes to light, but Sheldon punishes Leonard by making him &quot;walk a mile in his shoes.&quot; Meanwhile, Penny confronts Raj's ex-girlfriend, Lucy (guest star Kate Micucci).</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>148</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>155</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer>|Steven Molaro|Bill Prady|Jim Reynolds|Eric Kaplan|Steve Holland|Maria Ferrari|</Writer>
   <absolute_number>143</absolute_number>
   <filename>episodes/80379/4700015.jpg</filename>
-  <lastupdated>1401137401</lastupdated>
+  <lastupdated>1411642240</lastupdated>
   <seasonid>522809</seasonid>
   <seriesid>80379</seriesid>
   <thumb_added>2013-11-05 09:22:40</thumb_added>
@@ -4993,15 +4585,15 @@ When the deranged Professor Rothman is forced to retire, both Sheldon and Kripke
   <GuestStars>|Carol Ann Susi|Casey Sander|Brian Thomas Smith|</GuestStars>
   <IMDB_ID>tt3309570</IMDB_ID>
   <Language>en</Language>
-  <Overview>When the gang decides to spend Thanksgiving at Mrs. Wolowitz's house, Sheldon protests; Leonard and Penny deal with an error from her past.</Overview>
+  <Overview>An upset Sheldon protests when the entire gang drags him to Mrs. Wolowitz's house for Thanksgiving. Meanwhile, Penny and Leonard must deal with a mistake from her past.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>8.2</Rating>
-  <RatingCount>142</RatingCount>
+  <Rating>8.1</Rating>
+  <RatingCount>148</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer>|Eric Kaplan|Steve Holland|Maria Ferrari|Steven Molaro|Jim Reynolds|Jeremy Howe|</Writer>
   <absolute_number>144</absolute_number>
   <filename>episodes/80379/4705246.jpg</filename>
-  <lastupdated>1401137421</lastupdated>
+  <lastupdated>1411642292</lastupdated>
   <seasonid>522809</seasonid>
   <seriesid>80379</seriesid>
   <thumb_added>2013-11-07 15:05:57</thumb_added>
@@ -5024,15 +4616,15 @@ When the deranged Professor Rothman is forced to retire, both Sheldon and Kripke
   <GuestStars>|Ira Flatow|Wil Wheaton|John Ross Bowie|</GuestStars>
   <IMDB_ID>tt3338358</IMDB_ID>
   <Language>en</Language>
-  <Overview>Amy and Leonard try to help Sheldon deal with his shame; Raj stays with Bernadette and Howard for a week.</Overview>
+  <Overview>Sheldon faces a crisis after Leonard disproves his accidental scientific discovery. Meanwhile, Raj must stay with Howard &amp; Bernadette for a week.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>137</RatingCount>
+  <RatingCount>143</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer>|Eric Kaplan|Jim Reynolds|Maria Ferrari|Steven Molaro|Steve Holland|Adam Faberman|</Writer>
   <absolute_number>145</absolute_number>
   <filename>episodes/80379/4714074.jpg</filename>
-  <lastupdated>1403514465</lastupdated>
+  <lastupdated>1411827409</lastupdated>
   <seasonid>522809</seasonid>
   <seriesid>80379</seriesid>
   <thumb_added>2013-11-21 22:20:02</thumb_added>
@@ -5058,12 +4650,12 @@ When the deranged Professor Rothman is forced to retire, both Sheldon and Kripke
   <Overview>While Sheldon is in Texas, the rest of the gang realize how much he has changed their lives as they decorate the apartment Christmas tree.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>125</RatingCount>
+  <RatingCount>131</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer>|Jim Reynolds|Steve Holland|Tara Hernandez|</Writer>
   <absolute_number>146</absolute_number>
   <filename>episodes/80379/4720503.jpg</filename>
-  <lastupdated>1401137450</lastupdated>
+  <lastupdated>1408179215</lastupdated>
   <seasonid>522809</seasonid>
   <seriesid>80379</seriesid>
   <thumb_added>2013-12-09 15:05:05</thumb_added>
@@ -5089,12 +4681,12 @@ When the deranged Professor Rothman is forced to retire, both Sheldon and Kripke
   <Overview>As Leonard tries to help Penny with a disappointment, Penny asks him a bold question about their relationship; Sheldon wants to learn how to be funny.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>128</RatingCount>
+  <RatingCount>135</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer>|Dave Goetsch|Jim Reynolds|Tara Hernandez|Steve Molaro|Steve Holland|Maria Ferrari|</Writer>
   <absolute_number>147</absolute_number>
   <filename>episodes/80379/4720502.jpg</filename>
-  <lastupdated>1404011774</lastupdated>
+  <lastupdated>1408179194</lastupdated>
   <seasonid>522809</seasonid>
   <seriesid>80379</seriesid>
   <thumb_added>2014-01-02 07:41:46</thumb_added>
@@ -5120,12 +4712,12 @@ When the deranged Professor Rothman is forced to retire, both Sheldon and Kripke
   <Overview>Sheldon must learn how to relax when he is forced to take a vacation; Leonard tries to support Penny when she quits her job; Bernadette needs to replace one of Stuart's comic books.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>112</RatingCount>
+  <RatingCount>127</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer>|Eric Kaplan|Maria Ferrari|Tara Hernandez|Steven Molaro|Jim Reynolds|Steve Holland|</Writer>
   <absolute_number>148</absolute_number>
   <filename>episodes/80379/4749334.jpg</filename>
-  <lastupdated>1404011876</lastupdated>
+  <lastupdated>1408179172</lastupdated>
   <seasonid>522809</seasonid>
   <seriesid>80379</seriesid>
   <thumb_added>2014-01-12 05:31:35</thumb_added>
@@ -5150,13 +4742,13 @@ When the deranged Professor Rothman is forced to retire, both Sheldon and Kripke
   <Language>en</Language>
   <Overview>Unable to get Comic-Con tickets, Sheldon tries to hold his own convention and ends up spending a wild evening with James Earl Jones; the ladies try to act maturely.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>110</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>124</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer>|Eric Kaplan|Jim Reynolds|Adam Faberman|</Writer>
   <absolute_number>149</absolute_number>
   <filename>episodes/80379/4764530.jpg</filename>
-  <lastupdated>1404011892</lastupdated>
+  <lastupdated>1410291072</lastupdated>
   <seasonid>522809</seasonid>
   <seriesid>80379</seriesid>
   <thumb_added>2014-01-30 06:11:07</thumb_added>
@@ -5182,12 +4774,12 @@ When the deranged Professor Rothman is forced to retire, both Sheldon and Kripke
   <Overview>Sheldon and Amy go on a trip to wine country with Howard and Bernadette; Penny and Leonard rush Raj's dog to the vet</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>112</RatingCount>
+  <RatingCount>128</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer>|Jim Reynolds|Steve Holland|Tara Hernandez|</Writer>
   <absolute_number>150</absolute_number>
   <filename>episodes/80379/4773931.jpg</filename>
-  <lastupdated>1402666722</lastupdated>
+  <lastupdated>1410291129</lastupdated>
   <seasonid>522809</seasonid>
   <seriesid>80379</seriesid>
   <thumb_added>2014-02-04 13:51:05</thumb_added>
@@ -5212,13 +4804,13 @@ When the deranged Professor Rothman is forced to retire, both Sheldon and Kripke
   <Language>en</Language>
   <Overview>When Leonard buys a dining room table, Sheldon re-evaluates the changes in his life; Bernadette is torn when Wolowitz gets the chance to go back to space.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>108</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>119</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer>Steven Molaro|Maria Ferrari|Tara Hernandez</Writer>
   <absolute_number>151</absolute_number>
   <filename>episodes/80379/4783271.jpg</filename>
-  <lastupdated>1404813810</lastupdated>
+  <lastupdated>1410291153</lastupdated>
   <seasonid>522809</seasonid>
   <seriesid>80379</seriesid>
   <thumb_added>2014-02-27 18:34:01</thumb_added>
@@ -5243,13 +4835,13 @@ When the deranged Professor Rothman is forced to retire, both Sheldon and Kripke
   <Language>en</Language>
   <Overview>Bernadette tries to negotiate peace between Sheldon and Wolowitz; Penny receives an embarrassing offer; Raj wants Amy to write to a woman on his behalf.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>97</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>110</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer>|Jim Reynolds|Steve Holland|Tara Hernandez|</Writer>
   <absolute_number>152</absolute_number>
   <filename>episodes/80379/4792591.jpg</filename>
-  <lastupdated>1404813792</lastupdated>
+  <lastupdated>1410291273</lastupdated>
   <seasonid>522809</seasonid>
   <seriesid>80379</seriesid>
   <thumb_added>2014-03-05 13:30:52</thumb_added>
@@ -5275,12 +4867,12 @@ When the deranged Professor Rothman is forced to retire, both Sheldon and Kripke
   <Overview>Sheldon is faced with a new reality when he visits his mom in Houston; a murder mystery party starts arguments.</Overview>
   <ProductionCode>4X5318</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>99</RatingCount>
+  <RatingCount>110</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer>Jim Reynolds|Steve Holland|Maria Ferrari| Steven Molaro|Eric Kaplan|Anthony Del Broccolo</Writer>
   <absolute_number>153</absolute_number>
   <filename>episodes/80379/4792592.jpg</filename>
-  <lastupdated>1404560810</lastupdated>
+  <lastupdated>1410291323</lastupdated>
   <seasonid>522809</seasonid>
   <seriesid>80379</seriesid>
   <thumb_added>2014-03-08 08:06:34</thumb_added>
@@ -5306,12 +4898,12 @@ When the deranged Professor Rothman is forced to retire, both Sheldon and Kripke
   <Overview>Raj struggles with guilt when he dates two women at once; Penny has a chance to play a part in a cheesy movie; Sheldon is torn between two gaming systems.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>97</RatingCount>
+  <RatingCount>110</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer>Bill Prady|Eric Kaplan|Jim Reynolds|Steven Molaro|David Goetsch|Steve Holland</Writer>
   <absolute_number>154</absolute_number>
   <filename>episodes/80379/4792593.jpg</filename>
-  <lastupdated>1404560840</lastupdated>
+  <lastupdated>1410291355</lastupdated>
   <seasonid>522809</seasonid>
   <seriesid>80379</seriesid>
   <thumb_added>2014-03-31 13:20:45</thumb_added>
@@ -5337,12 +4929,12 @@ When the deranged Professor Rothman is forced to retire, both Sheldon and Kripke
   <Overview>Sheldon has a personal crisis when he decides string theory is a waste of his time; a double date ends in embarrassment for Howard.</Overview>
   <ProductionCode>4X5321</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>93</RatingCount>
+  <RatingCount>102</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer>Steven Molaro|Bill Prady|Jim Reynolds</Writer>
   <absolute_number>155</absolute_number>
   <filename>episodes/80379/4840057.jpg</filename>
-  <lastupdated>1404813839</lastupdated>
+  <lastupdated>1410702467</lastupdated>
   <seasonid>522809</seasonid>
   <seriesid>80379</seriesid>
   <thumb_added>2014-04-07 11:39:40</thumb_added>
@@ -5368,12 +4960,12 @@ When the deranged Professor Rothman is forced to retire, both Sheldon and Kripke
   <Overview>Sheldon gives spontaneity a try, which causes unexpected friction for Penny, Bernadette and Amy; Raj asks Howard for help with preparation for a date with Emily.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>94</RatingCount>
+  <RatingCount>106</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer>Steven Molaro|Eric Kaplan|Adam Faberman|Jim Reynolds|Steve Holland|Tara Hernandez</Writer>
   <absolute_number>156</absolute_number>
   <filename>episodes/80379/4840951.jpg</filename>
-  <lastupdated>1404934726</lastupdated>
+  <lastupdated>1411152936</lastupdated>
   <seasonid>522809</seasonid>
   <seriesid>80379</seriesid>
   <thumb_added>2014-04-24 01:19:52</thumb_added>
@@ -5399,12 +4991,12 @@ When the deranged Professor Rothman is forced to retire, both Sheldon and Kripke
   <Overview>Professor Proton helps Sheldon deal with grief; Leonard gets into a competition with Penny; Bernadette and Amy prepare a &quot;Star Wars Day&quot; gift for the guys.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>85</RatingCount>
+  <RatingCount>92</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer>Jim Reynolds|Maria Ferrari|Jeremy Howe|Steven Molaro|Eric Kaplan|Steve Holland</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80379/4840952.jpg</filename>
-  <lastupdated>1404934783</lastupdated>
+  <lastupdated>1412022638</lastupdated>
   <seasonid>522809</seasonid>
   <seriesid>80379</seriesid>
   <thumb_added>2014-04-28 12:48:20</thumb_added>
@@ -5430,12 +5022,12 @@ When the deranged Professor Rothman is forced to retire, both Sheldon and Kripke
   <Overview>A bad day compels Penny to re-evaluate her choices -- including Leonard; Bernadette and Howard must care for Mrs. Wolowitz; Sheldon gives Raj advice on relationships.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>87</RatingCount>
+  <RatingCount>95</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer>Chuck Lorre|Jim Reynolds|Jeremy Howe</Writer>
   <absolute_number>158</absolute_number>
   <filename>episodes/80379/4840953.jpg</filename>
-  <lastupdated>1405554620</lastupdated>
+  <lastupdated>1412109521</lastupdated>
   <seasonid>522809</seasonid>
   <seriesid>80379</seriesid>
   <thumb_added>2014-05-02 01:32:45</thumb_added>
@@ -5455,18 +5047,18 @@ When the deranged Professor Rothman is forced to retire, both Sheldon and Kripke
   <EpisodeName>The Status Quo Combustion</EpisodeName>
   <EpisodeNumber>24</EpisodeNumber>
   <FirstAired>2014-05-15</FirstAired>
-  <GuestStars></GuestStars>
+  <GuestStars>Christine Baranski|Carol Ann Susi|Kevin Sussman|Monica Garcia</GuestStars>
   <IMDB_ID>tt3572184</IMDB_ID>
   <Language>en</Language>
   <Overview>Faced with an uncertain future, Sheldon considers a major change; Emily and Raj decide to take things to the next level.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>83</RatingCount>
+  <RatingCount>97</RatingCount>
   <SeasonNumber>7</SeasonNumber>
-  <Writer>|Eric Kaplan|Jim Reynolds|Jeremy Howe|</Writer>
+  <Writer>Eric Kaplan|Jim Reynolds|Jeremy Howe</Writer>
   <absolute_number>159</absolute_number>
   <filename>episodes/80379/4840954.jpg</filename>
-  <lastupdated>1405456881</lastupdated>
+  <lastupdated>1412109610</lastupdated>
   <seasonid>522809</seasonid>
   <seriesid>80379</seriesid>
   <thumb_added>2014-05-15 20:32:39</thumb_added>
@@ -5481,28 +5073,28 @@ When the deranged Professor Rothman is forced to retire, both Sheldon and Kripke
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>TBA</EpisodeName>
+  <Director>|Mark Cendrowski|</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Locomotion Interruption</EpisodeName>
   <EpisodeNumber>1</EpisodeNumber>
   <FirstAired>2014-09-22</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt3603372</IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Overview>Leonard and Amy make an unexpected trip to Arizona to fetch Sheldon; Penny interviews for a job at Bernadette's company; Stuart's relationship with Mrs. Wolowitz disturbs Howard.</Overview>
+  <ProductionCode>4X6751</ProductionCode>
+  <Rating>7.3</Rating>
+  <RatingCount>75</RatingCount>
   <SeasonNumber>8</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1403638546</lastupdated>
+  <Writer>|Jim Reynolds|Maria Ferrari|Tara Hernandez|</Writer>
+  <absolute_number>160</absolute_number>
+  <filename>episodes/80379/4917009.jpg</filename>
+  <lastupdated>1414438701</lastupdated>
   <seasonid>589268</seasonid>
   <seriesid>80379</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-09-10 00:38:34</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4917010</id>
@@ -5512,28 +5104,28 @@ When the deranged Professor Rothman is forced to retire, both Sheldon and Kripke
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>TBA</EpisodeName>
+  <Director>|Mark Cendrowski|</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Junior Professor Solution</EpisodeName>
   <EpisodeNumber>2</EpisodeNumber>
   <FirstAired>2014-09-22</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt3807172</IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Overview>When Sheldon must teach a class, Howard decides to take it; Amy takes advantage of the tension between Penny and Bernadette.</Overview>
+  <ProductionCode>4X6752</ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>75</RatingCount>
   <SeasonNumber>8</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1403638570</lastupdated>
+  <Writer>|Steven Molaro|Eric Kaplan|Steve Holland|</Writer>
+  <absolute_number>161</absolute_number>
+  <filename>episodes/80379/4917010.jpg</filename>
+  <lastupdated>1414438722</lastupdated>
   <seasonid>589268</seasonid>
   <seriesid>80379</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-09-10 00:37:36</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4917011</id>
@@ -5543,15 +5135,201 @@ When the deranged Professor Rothman is forced to retire, both Sheldon and Kripke
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>TBA</EpisodeName>
+  <Director>|Mark Cendrowski|</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The First Pitch Insufficiency</EpisodeName>
   <EpisodeNumber>3</EpisodeNumber>
   <FirstAired>2014-09-29</FirstAired>
+  <GuestStars>|Mike Massimino|</GuestStars>
+  <IMDB_ID>tt3811812</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Wolowitz feels nervous when he is asked to throw the first pitch at a Los Angeles Angels game; Penny and Leonard want to prove Sheldon wrong after he says he and Amy are the better couple.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.3</Rating>
+  <RatingCount>71</RatingCount>
+  <SeasonNumber>8</SeasonNumber>
+  <Writer>|Chuck Lorre|Jim Reynolds|Anthony Del Broccolo|</Writer>
+  <absolute_number>162</absolute_number>
+  <filename>episodes/80379/4917011.jpg</filename>
+  <lastupdated>1414438745</lastupdated>
+  <seasonid>589268</seasonid>
+  <seriesid>80379</seriesid>
+  <thumb_added>2014-10-01 04:55:52</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4996845</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>8</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>|Mark Cendrowski|</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Hook-Up Reverberation</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2014-10-06</FirstAired>
+  <GuestStars>|Laura Spencer|</GuestStars>
+  <IMDB_ID>tt3811814</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Raj's honesty comes back to haunt him when his new girlfriend is unfriendly to Penny; the guys think about becoming part owners in Stuart's store.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>68</RatingCount>
+  <SeasonNumber>8</SeasonNumber>
+  <Writer>|Steven Molaro|Eric Kaplan|Jim Reynolds|</Writer>
+  <absolute_number>163</absolute_number>
+  <filename>episodes/80379/4996845.jpg</filename>
+  <lastupdated>1415042021</lastupdated>
+  <seasonid>589268</seasonid>
+  <seriesid>80379</seriesid>
+  <thumb_added>2014-10-13 13:46:01</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4997386</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>8</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Focus Attenuation</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2014-10-13</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3811816</IMDB_ID>
+  <Language>en</Language>
+  <Overview>During their weekend in Las Vegas, Bernadette and Amy accuse Penny of being a buzz kill; the guys try to invent the next big thing.</Overview>
+  <ProductionCode>|Mark Cendrowski|</ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>66</RatingCount>
+  <SeasonNumber>8</SeasonNumber>
+  <Writer>|Steven Molaro|Eric Kaplan|Steve Holland|Jim Reynolds|Maria Ferrari|Adam Faberman|</Writer>
+  <absolute_number>164</absolute_number>
+  <filename>episodes/80379/4997386.jpg</filename>
+  <lastupdated>1414438824</lastupdated>
+  <seasonid>589268</seasonid>
+  <seriesid>80379</seriesid>
+  <thumb_added>2014-10-13 16:41:51</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4997387</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>8</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Expedition Approximation</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2014-10-20</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3823240</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Sheldon and Raj test whether they could survive a dark-matter research expedition in a salt mine by simulating the conditions in a steam tunnel deep underground. Leonard and Penny seek advice from Howard and Bernadette after they fight about money.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>52</RatingCount>
+  <SeasonNumber>8</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>165</absolute_number>
+  <filename>episodes/80379/4997387.jpg</filename>
+  <lastupdated>1415042187</lastupdated>
+  <seasonid>589268</seasonid>
+  <seriesid>80379</seriesid>
+  <thumb_added>2014-10-20 21:44:57</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5021431</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>8</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Mark Cendrowski</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Misinterpretation Agitation</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2014-10-30</FirstAired>
+  <GuestStars>Billy Bob Thornton</GuestStars>
+  <IMDB_ID>tt3823244</IMDB_ID>
+  <Language>en</Language>
+  <Overview>The guys try to help Penny out of an awkward work dilemma, when a smitten doctor shows up at her door after her flirtatious sales techniques work a little too well. Meanwhile, Amy and Bernadette argue over whether or not female scientists should play up their sexuality.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>34</RatingCount>
+  <SeasonNumber>8</SeasonNumber>
+  <Writer>Chuck Lorre|Eric Kaplan|Jim Reynolds|Steven Molaro|Steve Holland|Maria Ferrari</Writer>
+  <absolute_number>166</absolute_number>
+  <filename>episodes/80379/5021431.jpg</filename>
+  <lastupdated>1414767379</lastupdated>
+  <seasonid>589268</seasonid>
+  <seriesid>80379</seriesid>
+  <thumb_added>2014-10-30 20:00:17</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5002091</id>
+  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_season>8</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Prom Equivalency</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2014-11-06</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3823242</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Amy, Bernadette and Penny decide to re-enact their high school proms with their respective fellows. Raj, Emily and Stuart are included too.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>8</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>167</absolute_number>
+  <filename>episodes/80379/5002091.jpg</filename>
+  <lastupdated>1414750844</lastupdated>
+  <seasonid>589268</seasonid>
+  <seriesid>80379</seriesid>
+  <thumb_added>2014-10-28 14:11:09</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5033323</id>
+  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_season>8</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>The Septum Deviation</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2014-11-13</FirstAired>
   <GuestStars></GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
+  <Overview>Both Leonard and Sheldon end up in the hospital while Raj has to deal with the divorce of his parents.</Overview>
   <ProductionCode></ProductionCode>
   <Rating></Rating>
   <RatingCount>0</RatingCount>
@@ -5559,7 +5337,7 @@ When the deranged Professor Rothman is forced to retire, both Sheldon and Kripke
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename></filename>
-  <lastupdated>1403638591</lastupdated>
+  <lastupdated>1414761932</lastupdated>
   <seasonid>589268</seasonid>
   <seriesid>80379</seriesid>
   <thumb_added></thumb_added>

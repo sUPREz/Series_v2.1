@@ -1,67 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Data><Series>
   <id>273690</id>
-  <Actors>|Matt Ryan|Angélica Celaya|Lucy Griffiths|Harold Perrineau|Charles Halford|</Actors>
+  <Actors>|Matt Ryan|Angélica Celaya|Charles Halford|Harold Perrineau|Emmett J. Scanlan |Michael James Shaw|</Actors>
   <Airs_DayOfWeek>Friday</Airs_DayOfWeek>
   <Airs_Time>10:00 p.m.</Airs_Time>
-  <ContentRating></ContentRating>
+  <ContentRating>TV-14</ContentRating>
   <FirstAired>2014-10-24</FirstAired>
   <Genre>|Action|Adventure|Fantasy|Horror|Thriller|</Genre>
   <IMDB_ID>tt3489184</IMDB_ID>
   <Language>en</Language>
   <Network>NBC</Network>
   <NetworkID></NetworkID>
-  <Overview>Based on the wildly popular  DC Comics series Hellblazer. The series focuses on seasoned demon hunter and master of the occult John Constantine, a dark magician who is struggling with his past sins as he tries to protect humanity from a gathering supernatural threat, John Constantine specializes in giving hell… hell. 
-Armed with a ferocious knowledge of the dark arts and his wickedly naughty wit, he fights the good fight or at least he did. With his soul already damned to hell, he’s decided to leave his do-gooder life behind, but when demons target Liv, the daughter of one of Constantine’s oldest friends, he’s reluctantly thrust back into the fray and he’ll do whatever it takes to save her. Before long, it’s revealed that Liv’s second sight, an ability to see the worlds behind our world and predict Supernatural occurrences is a threat to a mysterious new evil that’s rising in the shadows. Now it’s not just Liv who needs protection, the angels are starting get worried too. Together, Constantine and Liv must use her power and his skills to travel the country, find the demons that threaten there world and send them back where they belong. After that, who knows… maybe there’s hope for him and his soul after all.</Overview>
-  <Rating>6.0</Rating>
-  <RatingCount>2</RatingCount>
+  <Overview>Based on the DC Comics series &quot;Hellblazer&quot;, this series focuses on seasoned Demon Hunter and Master of The Occult John Constantine, a Dark Magician who is struggling with his past sins as he tries to protect humanity from a gathering supernatural threat. Constantine specializes in giving Hell…hell. Armed with a ferocious knowledge of The Dark Arts and his wickedly naughty dry British wit, he fights against the forces of Darkness.</Overview>
+  <Rating>8.7</Rating>
+  <RatingCount>7</RatingCount>
   <Runtime>60</Runtime>
   <SeriesID>193994</SeriesID>
   <SeriesName>Constantine</SeriesName>
   <Status>Continuing</Status>
   <added>2013-09-29 06:35:06</added>
   <addedBy>394890</addedBy>
-  <banner>graphical/273690-g2.jpg</banner>
+  <banner>graphical/273690-g4.jpg</banner>
   <fanart>fanart/original/273690-1.jpg</fanart>
-  <lastupdated>1405855973</lastupdated>
+  <lastupdated>1415045079</lastupdated>
   <poster>posters/273690-2.jpg</poster>
   <tms_wanted_old>0</tms_wanted_old>
-  <zap2it_id></zap2it_id>
+  <zap2it_id>EP01921172</zap2it_id>
 </Series>
-<Episode>
-  <id>4923336</id>
-  <Combined_episodenumber>1</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>Preair</EpisodeName>
-  <EpisodeNumber>1</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1404410981</lastupdated>
-  <seasonid>563030</seasonid>
-  <seriesid>273690</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
 <Episode>
   <id>4859540</id>
   <Combined_episodenumber>1</Combined_episodenumber>
@@ -72,30 +37,273 @@ Armed with a ferocious knowledge of the dark arts and his wickedly naughty wit, 
   <DVD_season></DVD_season>
   <Director>Neil Marshall</Director>
   <EpImgFlag>2</EpImgFlag>
-  <EpisodeName>Pilot</EpisodeName>
+  <EpisodeName>Non Est Asylum</EpisodeName>
   <EpisodeNumber>1</EpisodeNumber>
   <FirstAired>2014-10-24</FirstAired>
-  <GuestStars></GuestStars>
+  <GuestStars>Jeremy Davies|Lucy Griffiths</GuestStars>
   <IMDB_ID>tt3807952</IMDB_ID>
   <Language>en</Language>
-  <Overview>Constantine has checked himself into Ravenscar Asylum following the loss of a 9-year-old girl, Astra to the demon Nergal. 
-The loss of her soul, along with his own, has been tormenting him. 
-Naturally, he'll have to snap out of it. 
-That moment comes six months later when a possessing spirit sends him a disturbing message.
-
-John is on a mission to save the daughter of a friend who is being targeted by a demonic antagonist.</Overview>
+  <Overview>Constantine has checked himself into Ravenscar Asylum following the loss of a 9-year-old girl, Astra to the demon Nergal. The loss of her soul, along with his own, has been tormenting him. Naturally, he'll have to snap out of it. That moment comes six months later when a possessing spirit sends him a disturbing message. John is on a mission to save the daughter of a friend who is being targeted by a demonic antagonist.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>8.0</Rating>
-  <RatingCount>6</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>22</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>Daniel Cerone, David Goyer</Writer>
-  <absolute_number></absolute_number>
+  <Writer>Daniel Cerone|David Goyer</Writer>
+  <absolute_number>1</absolute_number>
   <filename>episodes/273690/4859540.jpg</filename>
-  <lastupdated>1404673926</lastupdated>
+  <lastupdated>1414708200</lastupdated>
   <seasonid>583150</seasonid>
   <seriesid>273690</seriesid>
   <thumb_added>2014-06-30 10:29:02</thumb_added>
   <thumb_height>225</thumb_height>
   <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5017370</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Steve Shill</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Darkness Beneath</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2014-10-31</FirstAired>
+  <GuestStars>James Legros</GuestStars>
+  <IMDB_ID>tt3912242</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Deep in the mountains of Western Pennsylvania, John is a small mining community's only defense against an ancient Welsh spirit. In the course of protecting these isolated innocents, John finds a vital new ally in a mysterious young woman named Zed.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.1</Rating>
+  <RatingCount>10</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Rockne S. O'Bannon</Writer>
+  <absolute_number>2</absolute_number>
+  <filename>episodes/273690/5017370.jpg</filename>
+  <lastupdated>1415045073</lastupdated>
+  <seasonid>583150</seasonid>
+  <seriesid>273690</seriesid>
+  <thumb_added>2014-10-22 13:42:41</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5020233</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>The Devil's Vinyl</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2014-11-07</FirstAired>
+  <GuestStars>Michael James Shaw</GuestStars>
+  <IMDB_ID>tt4016678</IMDB_ID>
+  <Language>en</Language>
+  <Overview>John and Zed engage in a dangerous confrontation to save a woman and her family from sinister forces. John's efforts force him to confront the darkness in his own life - while also coming face to face with a new powerful adversary in Papa Midnite.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>3</absolute_number>
+  <filename></filename>
+  <lastupdated>1415024594</lastupdated>
+  <seasonid>583150</seasonid>
+  <seriesid>273690</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5025154</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>A Feast of Friends</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2014-11-14</FirstAired>
+  <GuestStars>Jonjo O'Neill</GuestStars>
+  <IMDB_ID>tt4004102</IMDB_ID>
+  <Language>en</Language>
+  <Overview>When Constantine's old friend Gary Lester accidentally releases a powerful demon in Atlanta, John is forced to determine exactly what he is prepared to sacrifice in his battle with the underworld. </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>4</absolute_number>
+  <filename></filename>
+  <lastupdated>1415024609</lastupdated>
+  <seasonid>583150</seasonid>
+  <seriesid>273690</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5025155</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>John Showalter</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Danse Vaudou</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2014-11-21</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3988254</IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Cameron Welsh</Writer>
+  <absolute_number>5</absolute_number>
+  <filename></filename>
+  <lastupdated>1415024643</lastupdated>
+  <seasonid>583150</seasonid>
+  <seriesid>273690</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5025156</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>TBA</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2014-11-28</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3999272</IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>6</absolute_number>
+  <filename></filename>
+  <lastupdated>1415024685</lastupdated>
+  <seasonid>583150</seasonid>
+  <seriesid>273690</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5025157</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Blessed Are the Damned</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2014-12-05</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt4015994</IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>7</absolute_number>
+  <filename></filename>
+  <lastupdated>1415024701</lastupdated>
+  <seasonid>583150</seasonid>
+  <seriesid>273690</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5025158</id>
+  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>The Saint of Last Resorts (1)</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2014-12-12</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt4067964</IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>8</absolute_number>
+  <filename></filename>
+  <lastupdated>1415024764</lastupdated>
+  <seasonid>583150</seasonid>
+  <seriesid>273690</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5025159</id>
+  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>The Saint of Last Resorts (2)</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2014-12-19</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt4117366</IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>9</absolute_number>
+  <filename></filename>
+  <lastupdated>1415024755</lastupdated>
+  <seasonid>583150</seasonid>
+  <seriesid>273690</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
 </Episode>
 </Data>

@@ -12,17 +12,17 @@
   <Network>AMC</Network>
   <NetworkID></NetworkID>
   <Overview>In the early 1980s a visionary, an engineer and a prodigy combine to confront the corporate behemoths of the time. Their personal and professional lives will be challenged by greed and ego while charting the changing culture in Texas' Silicon Prairie.</Overview>
-  <Rating>8.5</Rating>
-  <RatingCount>13</RatingCount>
+  <Rating>8.4</Rating>
+  <RatingCount>18</RatingCount>
   <Runtime>40</Runtime>
   <SeriesID>187158</SeriesID>
   <SeriesName>Halt and Catch Fire</SeriesName>
   <Status>Continuing</Status>
   <added>2013-07-30 09:28:51</added>
   <addedBy>354773</addedBy>
-  <banner>graphical/271910-g.jpg</banner>
+  <banner>graphical/271910-g6.jpg</banner>
   <fanart>fanart/original/271910-2.jpg</fanart>
-  <lastupdated>1405874495</lastupdated>
+  <lastupdated>1414753244</lastupdated>
   <poster>posters/271910-3.jpg</poster>
   <tms_wanted_old>0</tms_wanted_old>
   <zap2it_id>SH01863199</zap2it_id>
@@ -45,13 +45,13 @@
   <Language>en</Language>
   <Overview>The Texan company Cardiff Electronics gets a new employee from New York. He's apparently working for IBM, but after the he gets the new job it gets clear that he has a hidden agenda, and is not exactly what he claims to be.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>8.1</Rating>
-  <RatingCount>14</RatingCount>
+  <Rating>8.2</Rating>
+  <RatingCount>16</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Christopher Cantwell|Christopher C. Rogers|</Writer>
   <absolute_number>1</absolute_number>
   <filename>episodes/271910/4656713.jpg</filename>
-  <lastupdated>1403168352</lastupdated>
+  <lastupdated>1413482189</lastupdated>
   <seasonid>529315</seasonid>
   <seriesid>271910</seriesid>
   <thumb_added>2014-03-07 14:30:15</thumb_added>
@@ -76,13 +76,13 @@
   <Language>en</Language>
   <Overview>After surviving a visit from IBM, Joe's team must overcome internal differences and begin the technical feat of building the new machine.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>8.0</Rating>
-  <RatingCount>13</RatingCount>
+  <Rating>7.9</Rating>
+  <RatingCount>17</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Christopher Cantwell|Christopher C. Rogers|</Writer>
   <absolute_number>2</absolute_number>
   <filename>episodes/271910/4750417.jpg</filename>
-  <lastupdated>1403167723</lastupdated>
+  <lastupdated>1413482208</lastupdated>
   <seasonid>529315</seasonid>
   <seriesid>271910</seriesid>
   <thumb_added>2014-06-02 09:00:27</thumb_added>
@@ -107,13 +107,13 @@
   <Language>en</Language>
   <Overview>Gordon and Cameron struggle to make Joe's vision a reality; Joe and Bosworth seek the funds to make the new machine.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.3</Rating>
-  <RatingCount>12</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>16</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Jason Cahill</Writer>
   <absolute_number>3</absolute_number>
   <filename>episodes/271910/4853842.jpg</filename>
-  <lastupdated>1403167128</lastupdated>
+  <lastupdated>1413616118</lastupdated>
   <seasonid>529315</seasonid>
   <seriesid>271910</seriesid>
   <thumb_added>2014-06-09 09:31:16</thumb_added>
@@ -139,12 +139,12 @@
   <Overview>As Cameron nears completion of the BIOS, a crisis threatens the project's future and requires all hands on deck to save the machine.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>10</RatingCount>
+  <RatingCount>13</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Jonathan Lisco</Writer>
   <absolute_number>4</absolute_number>
   <filename>episodes/271910/4853843.jpg</filename>
-  <lastupdated>1403866359</lastupdated>
+  <lastupdated>1413482235</lastupdated>
   <seasonid>529315</seasonid>
   <seriesid>271910</seriesid>
   <thumb_added>2014-06-16 08:26:19</thumb_added>
@@ -169,13 +169,13 @@
   <Language>en</Language>
   <Overview>Cameron bristles under a new manager as Joe and Gordon attempt to procure a key piece of new technology for the computer.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>9</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>12</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Dahvi Waller</Writer>
   <absolute_number>5</absolute_number>
   <filename>episodes/271910/4853846.jpg</filename>
-  <lastupdated>1404575959</lastupdated>
+  <lastupdated>1413482255</lastupdated>
   <seasonid>529315</seasonid>
   <seriesid>271910</seriesid>
   <thumb_added>2014-06-30 21:29:31</thumb_added>
@@ -190,23 +190,23 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
+  <Director>Larysa Kondracki</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Landfall</EpisodeName>
   <EpisodeNumber>6</EpisodeNumber>
   <FirstAired>2014-07-06</FirstAired>
-  <GuestStars></GuestStars>
+  <GuestStars>|Scott Michael Foster|</GuestStars>
   <IMDB_ID>tt3517700</IMDB_ID>
   <Language>en</Language>
   <Overview>A breakthrough by Cameron places her at odds with Gordon, leaving Joe to make a tough decision. Meanwhile, Hurricane Alicia spurs some personal revelations.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>8.1</Rating>
-  <RatingCount>8</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>13</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer></Writer>
+  <Writer>Zack Whedon</Writer>
   <absolute_number>6</absolute_number>
   <filename>episodes/271910/4853850.jpg</filename>
-  <lastupdated>1405102547</lastupdated>
+  <lastupdated>1413482272</lastupdated>
   <seasonid>529315</seasonid>
   <seriesid>271910</seriesid>
   <thumb_added>2014-06-30 18:56:00</thumb_added>
@@ -221,7 +221,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
+  <Director>Jon Amiel</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Giant</EpisodeName>
   <EpisodeNumber>7</EpisodeNumber>
@@ -231,13 +231,13 @@
   <Language>en</Language>
   <Overview>A visitor from Joe's past threatens his newfound connection with Cameron. Meanwhile, with Donna out of town, the toll of Gordon's work catches up with him.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.9</Rating>
-  <RatingCount>7</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>10</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer></Writer>
+  <Writer>Jamie Pachino</Writer>
   <absolute_number>7</absolute_number>
   <filename>episodes/271910/4853854.jpg</filename>
-  <lastupdated>1405690928</lastupdated>
+  <lastupdated>1413482288</lastupdated>
   <seasonid>529315</seasonid>
   <seriesid>271910</seriesid>
   <thumb_added>2014-07-08 13:02:24</thumb_added>
@@ -252,7 +252,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
+  <Director>|Daisy von Scherler Mayer|</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>The 214s</EpisodeName>
   <EpisodeNumber>8</EpisodeNumber>
@@ -260,16 +260,15 @@
   <GuestStars></GuestStars>
   <IMDB_ID>tt3566354</IMDB_ID>
   <Language>en</Language>
-  <Overview>The team finalizes preparations for COMDEX; Bosworth makes a sacrifice for the good of the program.
-</Overview>
+  <Overview>Scandal hits Cardiff Electric as the team finalizes preparations for COMDEX. Meanwhile, Bosworth makes a sacrifice for the good of the PC program.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>11</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer></Writer>
+  <Writer>|Dahvi Waller|Zack Whedon|</Writer>
   <absolute_number>8</absolute_number>
   <filename>episodes/271910/4853855.jpg</filename>
-  <lastupdated>1405357659</lastupdated>
+  <lastupdated>1413482301</lastupdated>
   <seasonid>529315</seasonid>
   <seriesid>271910</seriesid>
   <thumb_added>2014-07-14 10:11:56</thumb_added>
@@ -285,28 +284,27 @@
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
   <Director>Terry McDonough</Director>
-  <EpImgFlag></EpImgFlag>
+  <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Up Helly Aa</EpisodeName>
   <EpisodeNumber>9</EpisodeNumber>
   <FirstAired>2014-07-27</FirstAired>
   <GuestStars></GuestStars>
   <IMDB_ID>tt3566360</IMDB_ID>
   <Language>en</Language>
-  <Overview>Unanticipated adversaries and increased complications hinder the team's progress.
-</Overview>
+  <Overview>Unforeseen opponents and new complications threaten to derail the Cardiff Electric team's work at COMDEX.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.2</Rating>
+  <RatingCount>10</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Jason Cahill</Writer>
   <absolute_number>9</absolute_number>
-  <filename></filename>
-  <lastupdated>1404336047</lastupdated>
+  <filename>episodes/271910/4853856.jpg</filename>
+  <lastupdated>1413482316</lastupdated>
   <seasonid>529315</seasonid>
   <seriesid>271910</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-07-21 11:42:40</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4853857</id>
@@ -317,7 +315,7 @@
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
   <Director></Director>
-  <EpImgFlag></EpImgFlag>
+  <EpImgFlag>2</EpImgFlag>
   <EpisodeName>1984</EpisodeName>
   <EpisodeNumber>10</EpisodeNumber>
   <FirstAired>2014-08-03</FirstAired>
@@ -327,17 +325,17 @@
   <Overview>Gordon and Joe prepare to transport the Giant; a suspicious defect causes a rift in the partnership.
 </Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>8</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer></Writer>
   <absolute_number>10</absolute_number>
-  <filename></filename>
-  <lastupdated>1404336064</lastupdated>
+  <filename>episodes/271910/4853857.jpg</filename>
+  <lastupdated>1413482331</lastupdated>
   <seasonid>529315</seasonid>
   <seriesid>271910</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-07-28 21:18:33</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 </Data>

@@ -14,22 +14,22 @@
   <Overview>House of Cards is an American political drama series developed and produced by Beau Willimon. It is an adaptation of a previous BBC miniseries of the same name which is based on the novel by Michael Dobbs.
 Set in present day Washington, D.C., House of Cards is the story of Frank Underwood (Kevin Spacey), a Democrat from South Carolina's 5th congressional district and the House Majority Whip, who, after getting passed over for promotion to Secretary of State, decides to exact his revenge on those who betrayed him. The series also stars Robin Wright, Kate Mara and Corey Stoll in lead roles.</Overview>
   <Rating>9.0</Rating>
-  <RatingCount>77</RatingCount>
-  <Runtime>60</Runtime>
+  <RatingCount>89</RatingCount>
+  <Runtime>55</Runtime>
   <SeriesID>81065</SeriesID>
   <SeriesName>House of Cards (US)</SeriesName>
   <Status>Continuing</Status>
   <added>2012-10-04 16:08:09</added>
   <addedBy>79791</addedBy>
-  <banner>graphical/262980-g4.jpg</banner>
-  <fanart>fanart/original/262980-2.jpg</fanart>
-  <lastupdated>1405865645</lastupdated>
-  <poster>posters/262980-3.jpg</poster>
+  <banner>graphical/262980-g5.jpg</banner>
+  <fanart>fanart/original/262980-8.jpg</fanart>
+  <lastupdated>1415048727</lastupdated>
+  <poster>posters/262980-5.jpg</poster>
   <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>EP01676454</zap2it_id>
 </Series>
 <Episode>
-  <id>4850977</id>
+  <id>5014036</id>
   <Combined_episodenumber>2</Combined_episodenumber>
   <Combined_season>0</Combined_season>
   <DVD_chapter></DVD_chapter>
@@ -55,15 +55,15 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <airsbefore_episode></airsbefore_episode>
   <airsbefore_season></airsbefore_season>
   <filename></filename>
-  <lastupdated>1396985264</lastupdated>
-  <seasonid>582144</seasonid>
+  <lastupdated>1413473149</lastupdated>
+  <seasonid>599640</seasonid>
   <seriesid>262980</seriesid>
   <thumb_added></thumb_added>
   <thumb_height></thumb_height>
   <thumb_width></thumb_width>
 </Episode>
 <Episode>
-  <id>4850978</id>
+  <id>5014037</id>
   <Combined_episodenumber>3</Combined_episodenumber>
   <Combined_season>0</Combined_season>
   <DVD_chapter></DVD_chapter>
@@ -89,15 +89,15 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <airsbefore_episode></airsbefore_episode>
   <airsbefore_season></airsbefore_season>
   <filename></filename>
-  <lastupdated>1396985275</lastupdated>
-  <seasonid>582144</seasonid>
+  <lastupdated>1413473159</lastupdated>
+  <seasonid>599640</seasonid>
   <seriesid>262980</seriesid>
   <thumb_added></thumb_added>
   <thumb_height></thumb_height>
   <thumb_width></thumb_width>
 </Episode>
 <Episode>
-  <id>4850979</id>
+  <id>5014038</id>
   <Combined_episodenumber>4</Combined_episodenumber>
   <Combined_season>0</Combined_season>
   <DVD_chapter></DVD_chapter>
@@ -123,8 +123,314 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <airsbefore_episode></airsbefore_episode>
   <airsbefore_season></airsbefore_season>
   <filename></filename>
-  <lastupdated>1396985281</lastupdated>
-  <seasonid>582144</seasonid>
+  <lastupdated>1413473172</lastupdated>
+  <seasonid>599640</seasonid>
+  <seriesid>262980</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5014039</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Chapter 31</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1413473185</lastupdated>
+  <seasonid>599640</seasonid>
+  <seriesid>262980</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5014040</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Chapter 32</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1413473195</lastupdated>
+  <seasonid>599640</seasonid>
+  <seriesid>262980</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5014041</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Chapter 33</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1413473202</lastupdated>
+  <seasonid>599640</seasonid>
+  <seriesid>262980</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5014042</id>
+  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Chapter 34</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1413473210</lastupdated>
+  <seasonid>599640</seasonid>
+  <seriesid>262980</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5014043</id>
+  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Chapter 35</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1413473219</lastupdated>
+  <seasonid>599640</seasonid>
+  <seriesid>262980</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5014044</id>
+  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Chapter 36</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1413473226</lastupdated>
+  <seasonid>599640</seasonid>
+  <seriesid>262980</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5014045</id>
+  <Combined_episodenumber>11</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Chapter 37</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1413473234</lastupdated>
+  <seasonid>599640</seasonid>
+  <seriesid>262980</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5014046</id>
+  <Combined_episodenumber>12</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Chapter 38</EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1413473244</lastupdated>
+  <seasonid>599640</seasonid>
+  <seriesid>262980</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5014047</id>
+  <Combined_episodenumber>13</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Chapter 39</EpisodeName>
+  <EpisodeNumber>13</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1413473270</lastupdated>
+  <seasonid>599640</seasonid>
   <seriesid>262980</seriesid>
   <thumb_added></thumb_added>
   <thumb_height></thumb_height>
@@ -149,7 +455,7 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <Overview>When the newly elected President reneges on a promise, Francis and Claire decide to sever all allegiances and toss the rules out the window.</Overview>
   <ProductionCode>HOC-101</ProductionCode>
   <Rating>8.1</Rating>
-  <RatingCount>102</RatingCount>
+  <RatingCount>107</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Beau Willimon</Writer>
   <absolute_number>1</absolute_number>
@@ -180,7 +486,7 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <Overview>Francis and Doug plan to frame Secretary of State nominee, Michael Kern. Meanwhile, Zoe's popularity at the Washington Herald continues to grow.</Overview>
   <ProductionCode>HOC-102</ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>97</RatingCount>
+  <RatingCount>101</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Beau Willimon</Writer>
   <absolute_number>2</absolute_number>
@@ -211,7 +517,7 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <Overview>Francis heads for his hometown to deal with a crisis. Zoe negotiates the politics of being a journalist on the rise. Claire finds herself a new business partner.</Overview>
   <ProductionCode>HOC-103</ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>85</RatingCount>
+  <RatingCount>89</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Keith Huff|Beau Willimon</Writer>
   <absolute_number>3</absolute_number>
@@ -242,7 +548,7 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <Overview>Francis shakes down the Congressional leadership. Zoe is offered the promotion of White House Correspondent and doesn't know if she should take it or not.</Overview>
   <ProductionCode>HOC-104</ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>91</RatingCount>
+  <RatingCount>96</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Rick Cleveland|Beau Willimon</Writer>
   <absolute_number>4</absolute_number>
@@ -272,8 +578,8 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <Language>en</Language>
   <Overview>A feud starts between Francis and Marty Spinella. Russo goes into depression about the job losses at the shipyards.</Overview>
   <ProductionCode>HOC-105</ProductionCode>
-  <Rating>7.9</Rating>
-  <RatingCount>87</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>92</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Sarah Treem</Writer>
   <absolute_number>5</absolute_number>
@@ -303,8 +609,8 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <Language>en</Language>
   <Overview>The strike between Frank and Marty starts to get out of hand. Russo has decided to run for Governor of Pennsylvania.</Overview>
   <ProductionCode>HOC-106</ProductionCode>
-  <Rating>8.0</Rating>
-  <RatingCount>81</RatingCount>
+  <Rating>7.9</Rating>
+  <RatingCount>87</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Sam Forman</Writer>
   <absolute_number>6</absolute_number>
@@ -335,7 +641,7 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <Overview>Frank helps Peter get ready for his governor race, but Peter is starting to have second thoughts. Doug tries to help a young hooker in trouble.</Overview>
   <ProductionCode>HOC-107</ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>84</RatingCount>
+  <RatingCount>91</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Kate Barnow|Beau Willimon</Writer>
   <absolute_number>7</absolute_number>
@@ -365,8 +671,8 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <Language>en</Language>
   <Overview>Frank has a library named after him at his old military school. Peter tries to win back the support of his hometown.</Overview>
   <ProductionCode>HOC-108</ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>82</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>91</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Beau Willimon</Writer>
   <absolute_number>8</absolute_number>
@@ -397,7 +703,7 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <Overview>Frank tries to do whatever it takes to get the new bill passed congress. Russo goes on a bus campaign with the Vice President, but the VP is not making it an easy trip for him. Zoe's relationship with Frank gets a little bumpy.</Overview>
   <ProductionCode>HOC-109</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>70</RatingCount>
+  <RatingCount>78</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Rick Cleveland|Beau Willimon</Writer>
   <absolute_number>9</absolute_number>
@@ -427,8 +733,8 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <Language>en</Language>
   <Overview>Claire fuels an old flame. Peter wrestles with his demons. Francis crosses the point of no return.</Overview>
   <ProductionCode>HOC-110</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>78</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>87</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Sarah Treem</Writer>
   <absolute_number>10</absolute_number>
@@ -458,8 +764,8 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <Language>en</Language>
   <Overview>Zoe extends her time away from The Hill while Francis tracks down Russo and engages in damage control. </Overview>
   <ProductionCode>HOC-111</ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>76</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>80</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Keith Huff|Kate Barnow|Beau Willimon</Writer>
   <absolute_number>11</absolute_number>
@@ -490,7 +796,7 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <Overview>The President sends Frank to St. Louis to persuade Raymond Tusk into becoming the new Vice President. Zoe and Janine investigate Peter Russo's death.</Overview>
   <ProductionCode>HOC-112</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>67</RatingCount>
+  <RatingCount>74</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Gina Gionfriddo|Beau Willimon</Writer>
   <absolute_number>12</absolute_number>
@@ -521,7 +827,7 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <Overview>Frank scrambles to keep his plan on track. Gillian is planning to sue Claire. Zoe, Janine, and Lucas investigate Rachel Posner and her relationship with Peter Russo.</Overview>
   <ProductionCode>HOC-113</ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>70</RatingCount>
+  <RatingCount>76</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Beau Willimon</Writer>
   <absolute_number>13</absolute_number>
@@ -552,7 +858,7 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <Overview>The Underwoods tackle two threats that could bring their plans to ruin. Francis grooms his replacement as Whip. Claire goes on the offensive.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>56</RatingCount>
+  <RatingCount>65</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Beau Willimon</Writer>
   <absolute_number></absolute_number>
@@ -583,7 +889,7 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <Overview>Amid turmoil in the home, Frank takes office. Foreign relations become entangled as Durant's team bungles a meeting. As foes negotiate to thwart her, Jackie maneuvers to strengthen her position. Lucas acquires new skills in order to pursue his secret investigation. </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>58</RatingCount>
+  <RatingCount>65</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Beau Willimon</Writer>
   <absolute_number></absolute_number>
@@ -614,7 +920,7 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <Overview>Tension rises between Francis and Raymond Tusk as the situation with China deteriorates. A battle in the Senate pits Francis against the Republicans.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>53</RatingCount>
+  <RatingCount>62</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Bill Cain</Writer>
   <absolute_number></absolute_number>
@@ -644,8 +950,8 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <Language>en</Language>
   <Overview>A terror scare at the Capitol traps Francis with a resentful Donald Blythe. Claire gives a live interview that rocks the media.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>48</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>58</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Laura Eason</Writer>
   <absolute_number></absolute_number>
@@ -676,7 +982,7 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <Overview>Francis back-channels with a Chinese billionaire. Lucas uses extreme measures to expose the Vice President. A shadowy figure joins Team Underwood.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>50</RatingCount>
+  <RatingCount>62</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Kenneth Lin</Writer>
   <absolute_number></absolute_number>
@@ -707,7 +1013,7 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <Overview>Amidst an energy crisis, Francis and Tusk end their shaky alliance. Lucas must make a difficult choice. Stamper grows closer to Rachel.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>49</RatingCount>
+  <RatingCount>59</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>John Mankiewicz</Writer>
   <absolute_number></absolute_number>
@@ -738,7 +1044,7 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <Overview>Despite some friction, the Walkers deepen their friendship with the Underwoods. But it's all-out war between Francis and Tusk.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>46</RatingCount>
+  <RatingCount>58</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>David Manson</Writer>
   <absolute_number></absolute_number>
@@ -769,7 +1075,7 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <Overview>The war with Tusk intensifies. Claire influences Tricia Walker politically and domestically. Francis has a show-down with Linda Vasquez.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>53</RatingCount>
+  <RatingCount>66</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Bill Kennedy</Writer>
   <absolute_number></absolute_number>
@@ -800,7 +1106,7 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <Overview>Things get personal when Tusk blindsides the Underwoods with a scandal. Freddy and his BBQ joint get caught up in the mix.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>50</RatingCount>
+  <RatingCount>64</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Beau Willimon</Writer>
   <absolute_number></absolute_number>
@@ -831,7 +1137,7 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <Overview>With a military stand-off overseas and potential violence at home, Francis wants to finish off Tusk for good. Claire and Jackie Sharp collide.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>41</RatingCount>
+  <RatingCount>55</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Laura Eason|Beau Willimon</Writer>
   <absolute_number></absolute_number>
@@ -862,7 +1168,7 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <Overview>A Special Prosecutor interrogates Francis. Remy Danton tries to keep his options open. Stamper wrestles with his demons.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>42</RatingCount>
+  <RatingCount>56</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>John Mankiewicz|Beau Willimon</Writer>
   <absolute_number></absolute_number>
@@ -893,7 +1199,7 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <Overview>Francis finds himself shut out and Claire makes a difficult sacrifice. Stamper tries to regain control.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>46</RatingCount>
+  <RatingCount>62</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Beau Willimon</Writer>
   <absolute_number></absolute_number>
@@ -924,7 +1230,7 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <Overview>Francis faces annihilation while the nation is in an uproar. Stamper must tie up loose ends. Claire feels the cost of ruthlessness.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>47</RatingCount>
+  <RatingCount>59</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Beau Willimon</Writer>
   <absolute_number></absolute_number>

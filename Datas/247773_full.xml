@@ -13,20 +13,54 @@
   <NetworkID></NetworkID>
   <Overview>Switched at Birth, a one-hour scripted drama, tells the story of two teenage girls who discover they were accidentally switched as newborns in the hospital. Bay Kennish grew up in a wealthy family with two parents and a brother, while Daphne Vasquez, who lost her hearing at an early age due to a case of meningitis, grew up with a single mother in a working-class neighborhood. Things come to a dramatic head when both families meet and struggle to learn how to live together for the sake of the girls.</Overview>
   <Rating>8.0</Rating>
-  <RatingCount>20</RatingCount>
+  <RatingCount>21</RatingCount>
   <Runtime>60</Runtime>
   <SeriesID>80187</SeriesID>
   <SeriesName>Switched at Birth</SeriesName>
   <Status>Continuing</Status>
   <added>2011-04-08 22:39:16</added>
   <addedBy>134361</addedBy>
-  <banner>graphical/247773-g.jpg</banner>
+  <banner>graphical/247773-g3.jpg</banner>
   <fanart>fanart/original/247773-7.jpg</fanart>
-  <lastupdated>1405853421</lastupdated>
+  <lastupdated>1414137404</lastupdated>
   <poster>posters/247773-3.jpg</poster>
   <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>SH01384566</zap2it_id>
 </Series>
+<Episode>
+  <id>4968070</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Michael Grossman</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Yuletide Fortune Tellers</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2014-12-08</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>As the holidays approach, Bay bristles at Kathryn’s festive holiday spirit, complete with homemade peanut brittle and Christmas karaoke, while Daphne is frustrated with Regina’s usual tradition of movies and Chinese food for Christmas. Then, after a joint family dinner including “magical” garlic knots, they wake to discover that the switch never happened. In this alternate life, Bay  is an Olympic hopeful and Daphne  is a successful artist with an upcoming exhibit. Is it the Christmas miracle they’ve always wanted? Could they even get back if they tried?</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer>Terrence Coli | Lizzy Weiss</Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>3</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1413840721</lastupdated>
+  <seasonid>547873</seasonid>
+  <seriesid>247773</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
 <Episode>
   <id>4077755</id>
   <Combined_episodenumber>1</Combined_episodenumber>
@@ -828,7 +862,7 @@
   <Writer>Ariel Rubin|Michael V. Ross</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/247773/4355402.jpg</filename>
-  <lastupdated>1400004385</lastupdated>
+  <lastupdated>1406568878</lastupdated>
   <seasonid>463717</seasonid>
   <seriesid>247773</seriesid>
   <thumb_added></thumb_added>
@@ -859,7 +893,7 @@
   <Writer>Anne Kenney</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/247773/4355403.jpg</filename>
-  <lastupdated>1400004403</lastupdated>
+  <lastupdated>1406568896</lastupdated>
   <seasonid>463717</seasonid>
   <seriesid>247773</seriesid>
   <thumb_added></thumb_added>
@@ -890,7 +924,7 @@
   <Writer>Henry Robles</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/247773/4355400.jpg</filename>
-  <lastupdated>1400004470</lastupdated>
+  <lastupdated>1406568915</lastupdated>
   <seasonid>463717</seasonid>
   <seriesid>247773</seriesid>
   <thumb_added></thumb_added>
@@ -921,7 +955,7 @@
   <Writer>Joy Gregory|Becky Hartman Edwards</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/247773/4355404.jpg</filename>
-  <lastupdated>1400004540</lastupdated>
+  <lastupdated>1406568931</lastupdated>
   <seasonid>463717</seasonid>
   <seriesid>247773</seriesid>
   <thumb_added></thumb_added>
@@ -952,7 +986,7 @@
   <Writer>Lizzy Weiss</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/247773/4355405.jpg</filename>
-  <lastupdated>1400004579</lastupdated>
+  <lastupdated>1406568951</lastupdated>
   <seasonid>463717</seasonid>
   <seriesid>247773</seriesid>
   <thumb_added></thumb_added>
@@ -973,7 +1007,7 @@
   <EpisodeNumber>1</EpisodeNumber>
   <FirstAired>2013-01-07</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt2341888</IMDB_ID>
   <Language>en</Language>
   <Overview>In the second-season opener, a newly wealthy Angelo buys expensive presents for everyone. Meanwhile, John and Kathryn contemplate entering the political arena; Bay faces cheating accusations; and Daphne lands in hot water because of Jeff. </Overview>
   <ProductionCode>201</ProductionCode>
@@ -983,7 +1017,7 @@
   <Writer>Lizzy Weiss</Writer>
   <absolute_number>31</absolute_number>
   <filename>episodes/247773/4427066.jpg</filename>
-  <lastupdated>1394378654</lastupdated>
+  <lastupdated>1406569024</lastupdated>
   <seasonid>504266</seasonid>
   <seriesid>247773</seriesid>
   <thumb_added></thumb_added>
@@ -1004,7 +1038,7 @@
   <EpisodeNumber>2</EpisodeNumber>
   <FirstAired>2013-01-14</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt2606760</IMDB_ID>
   <Language>en</Language>
   <Overview>Regina is shocked when Angelo tells her about Lana and the baby. After convincing her parents to let her attend Carlton School for the Deaf, Bay discovers that the transition is not as easy as she had expected. Meanwhile, Toby and Nikki's relationship hits a bump when Emmett sees something from Nikki's past that makes Toby question exactly who this girl is. 
 </Overview>
@@ -1015,7 +1049,7 @@
   <Writer>Joy Gregory|Bekah Brunsetter</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/247773/4427067.jpg</filename>
-  <lastupdated>1394378692</lastupdated>
+  <lastupdated>1410299357</lastupdated>
   <seasonid>504266</seasonid>
   <seriesid>247773</seriesid>
   <thumb_added></thumb_added>
@@ -1036,7 +1070,7 @@
   <EpisodeNumber>3</EpisodeNumber>
   <FirstAired>2013-01-21</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt2621604</IMDB_ID>
   <Language>en</Language>
   <Overview>Bay finds herself on the wrong end of Natalie's wrath, forcing Melody to take everyone on a Tolerance Retreat to help bridge the divide between them. Meanwhile, Kathryn possibly hurts John's campaign during a radio interview. Regina gets bad news about her health. Toby and Lana bond.</Overview>
   <ProductionCode></ProductionCode>
@@ -1046,7 +1080,7 @@
   <Writer>Anne Kenney</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/247773/4453083.jpg</filename>
-  <lastupdated>1402430322</lastupdated>
+  <lastupdated>1410299394</lastupdated>
   <seasonid>504266</seasonid>
   <seriesid>247773</seriesid>
   <thumb_added></thumb_added>
@@ -1067,7 +1101,7 @@
   <EpisodeNumber>4</EpisodeNumber>
   <FirstAired>2013-01-28</FirstAired>
   <GuestStars>Annie Ilonzeh</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt2549168</IMDB_ID>
   <Language>en</Language>
   <Overview>Looking to give Bay an opportunity to meet the mother of her soon-to-be-born half-sister, Toby invites Lana to dinner at the Kennish house. Meanwhile, Daphne tries to help Travis (guest star Ryan Lane) with his problems at home. </Overview>
   <ProductionCode></ProductionCode>
@@ -1077,7 +1111,7 @@
   <Writer>James Stoteraux | Chad Fiveash</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/247773/4453084.jpg</filename>
-  <lastupdated>1402430284</lastupdated>
+  <lastupdated>1410299423</lastupdated>
   <seasonid>504266</seasonid>
   <seriesid>247773</seriesid>
   <thumb_added></thumb_added>
@@ -1098,7 +1132,7 @@
   <EpisodeNumber>5</EpisodeNumber>
   <FirstAired>2013-02-04</FirstAired>
   <GuestStars>William Lucking</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt2650888</IMDB_ID>
   <Language>en</Language>
   <Overview>Daphne may have taken on more than she can handle, while Kathryn volunteers to direct the play at Bay's new school. Meanwhile, Toby approaches his grandfather for a college recommendation.</Overview>
   <ProductionCode></ProductionCode>
@@ -1108,7 +1142,7 @@
   <Writer>Joy Gregory / Henry Robles</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/247773/4453085.jpg</filename>
-  <lastupdated>1402430308</lastupdated>
+  <lastupdated>1411582449</lastupdated>
   <seasonid>504266</seasonid>
   <seriesid>247773</seriesid>
   <thumb_added></thumb_added>
@@ -1129,7 +1163,7 @@
   <EpisodeNumber>6</EpisodeNumber>
   <FirstAired>2013-02-11</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt2662256</IMDB_ID>
   <Language>en</Language>
   <Overview>Bay throws an Anti-Valentine's Day party, inviting both her hearing and deaf friends, which leads to a heated confrontation between Noah and Travis. Angelo and Lana call a truce long enough to chaperone the event. Meanwhile, Regina butts heads with John and Kathryn over how to handle the situation with Daphne and the food truck.</Overview>
   <ProductionCode></ProductionCode>
@@ -1139,7 +1173,7 @@
   <Writer>Lizzy Weiss|Bekah Brunsetter</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/247773/4480330.jpg</filename>
-  <lastupdated>1394378857</lastupdated>
+  <lastupdated>1411582468</lastupdated>
   <seasonid>504266</seasonid>
   <seriesid>247773</seriesid>
   <thumb_added></thumb_added>
@@ -1160,7 +1194,7 @@
   <EpisodeNumber>7</EpisodeNumber>
   <FirstAired>2013-02-18</FirstAired>
   <GuestStars>Zoey Deutch</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt2679928</IMDB_ID>
   <Language>en</Language>
   <Overview>Daphne and Travis have a falling out that sets off a series of events that neither of them saw coming. Bay and Noah's relationship blossoms, but Emmett won't give up without a fight. Meanwhile, Toby meets a new girl at his father's campaign headquarters. Zoey Deutch guest stars as Elisa, a volunteer with a secret agenda.</Overview>
   <ProductionCode></ProductionCode>
@@ -1170,7 +1204,7 @@
   <Writer>James Stoteraux | Chad Fiveash</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/247773/4480331.jpg</filename>
-  <lastupdated>1394378878</lastupdated>
+  <lastupdated>1411582497</lastupdated>
   <seasonid>504266</seasonid>
   <seriesid>247773</seriesid>
   <thumb_added></thumb_added>
@@ -1191,7 +1225,7 @@
   <EpisodeNumber>8</EpisodeNumber>
   <FirstAired>2013-02-25</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt2707026</IMDB_ID>
   <Language>en</Language>
   <Overview>Daphne feels torn when the deaf students at Carlton rally the school board to prevent even more hearing kids from attending through the pilot program. Meanwhile, Bay questions Regina's behavior, Daphne gets the lead in the play and Toby grows closer to Elisa.</Overview>
   <ProductionCode></ProductionCode>
@@ -1201,7 +1235,7 @@
   <Writer>Anne Kenney|Henry Robles</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/247773/4480332.jpg</filename>
-  <lastupdated>1394378901</lastupdated>
+  <lastupdated>1411582518</lastupdated>
   <seasonid>504266</seasonid>
   <seriesid>247773</seriesid>
   <thumb_added></thumb_added>
@@ -1222,7 +1256,7 @@
   <EpisodeNumber>9</EpisodeNumber>
   <FirstAired>2013-03-04</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt2721120</IMDB_ID>
   <Language>en</Language>
   <Overview>When news of the school's closing spreads throughout campus, Daphne leads the students of Carlton School for the Deaf in arranging a demonstration to take place on the eve of the &quot;Romeo and Juliet&quot; play, in which Daphne has the lead role. Meanwhile, as one of a handful of hearing students in the school, Bay's attempt to be part of the campaign is challenged.</Overview>
   <ProductionCode></ProductionCode>
@@ -1232,7 +1266,7 @@
   <Writer>Lizzy Weiss</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/247773/4501459.jpg</filename>
-  <lastupdated>1377512482</lastupdated>
+  <lastupdated>1411582543</lastupdated>
   <seasonid>504266</seasonid>
   <seriesid>247773</seriesid>
   <thumb_added></thumb_added>
@@ -1253,7 +1287,7 @@
   <EpisodeNumber>10</EpisodeNumber>
   <FirstAired>2013-03-11</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt2711310</IMDB_ID>
   <Language>en</Language>
   <Overview>Daphne and the students of Carlton School for the Deaf find out if their protest will keep the school open, and deaf. Lana goes into labor, Toby makes a surprise announcement, and John's campaign for office ends unexpectedly. Meanwhile, an intoxicated Regina shows up at Angelo's. And, will Emmett tell Bay about the kiss between Daphne and Noah?</Overview>
   <ProductionCode></ProductionCode>
@@ -1263,7 +1297,7 @@
   <Writer>Becky Hartman Edwards|Lizzy Weiss</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/247773/4510641.jpg</filename>
-  <lastupdated>1377512455</lastupdated>
+  <lastupdated>1411582599</lastupdated>
   <seasonid>504266</seasonid>
   <seriesid>247773</seriesid>
   <thumb_added></thumb_added>
@@ -1284,7 +1318,7 @@
   <EpisodeNumber>11</EpisodeNumber>
   <FirstAired>2013-06-10</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt2767620</IMDB_ID>
   <Language>en</Language>
   <Overview>While Regina has been away at rehab, Daphne has grown closer to the Kennish family, spending her days at their country club and her nights in their guest room. This new family dynamic does not sit well with Regina, who unexpectedly returns home early in hopes of spending more time with Daphne. Bay begrudgingly starts working at her dad's office and, when her car breaks down near a local carnival, runs into her ex-boyfriend, Ty, who has returned from serving in Afghanistan. Meanwhile, Travis talks Emmett into bringing some girls over to the house while Melody is out of town, and Kathryn's elaborate ideas for Toby and Nikki's rehearsal dinner rubs Nikki the wrong way. </Overview>
   <ProductionCode></ProductionCode>
@@ -1294,7 +1328,7 @@
   <Writer>Lizzy Weiss</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/247773/4520856.jpg</filename>
-  <lastupdated>1370921858</lastupdated>
+  <lastupdated>1411582629</lastupdated>
   <seasonid>504266</seasonid>
   <seriesid>247773</seriesid>
   <thumb_added></thumb_added>
@@ -1315,7 +1349,7 @@
   <EpisodeNumber>12</EpisodeNumber>
   <FirstAired>2013-06-17</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt2990394</IMDB_ID>
   <Language>en</Language>
   <Overview>Just as Bay and Ty begin to reconnect, Bay learns some shocking news about Ty's experiences in Afghanistan and after he returned home. John is torn when both Toby and Travis approach him about a manager position at the car wash. Meanwhile, Kathryn and Daphne have a hard time coming to terms with Bay's request to stay with Regina.</Overview>
   <ProductionCode></ProductionCode>
@@ -1325,7 +1359,7 @@
   <Writer>Joy Gregory|Henry Robles</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/247773/4559325.jpg</filename>
-  <lastupdated>1371532352</lastupdated>
+  <lastupdated>1411582658</lastupdated>
   <seasonid>504266</seasonid>
   <seriesid>247773</seriesid>
   <thumb_added></thumb_added>
@@ -1356,7 +1390,7 @@
   <Writer>Becky Hartman Edwards|Bekah Brunsetter</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/247773/4559326.jpg</filename>
-  <lastupdated>1372127050</lastupdated>
+  <lastupdated>1414136873</lastupdated>
   <seasonid>504266</seasonid>
   <seriesid>247773</seriesid>
   <thumb_added></thumb_added>
@@ -1387,7 +1421,7 @@
   <Writer>Lizzy Weiss|Michael V. Ross</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/247773/4597382.jpg</filename>
-  <lastupdated>1372734200</lastupdated>
+  <lastupdated>1414137145</lastupdated>
   <seasonid>504266</seasonid>
   <seriesid>247773</seriesid>
   <thumb_added></thumb_added>
@@ -1629,8 +1663,8 @@
   <Language>en</Language>
   <Overview>Senior year means big changes for Bay and Daphne, as the Carlton School for the Deaf receives an influx of hearing students who are not happy to be there. Daphne begins working at a free clinic as part of her probation from the Senator Coto blackmail scandal, and bonds with a pre-med student with a spinal injury. Bay is inspired by her art teacher and surprised by her jock classmate, when she takes an art class at a local college. Toby tries to unite a divided Carlton by coaching girls' field hockey, and Kathryn dips her toes into new territory when she makes friends with a gregarious tap dancer.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>3</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>4</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Lizzy Weiss</Writer>
   <absolute_number></absolute_number>
@@ -1660,8 +1694,8 @@
   <Language>en</Language>
   <Overview>When her art teacher proves to not be easily impressed, Bay is pushed to re-examine her talents. And adding to her discomfort is her forced commitment to the new Carlton field hockey team. Daphne makes a mistake at the clinic, and Campbell helps her correct it. Kathryn introduces her new friend Renzo to John.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.3</Rating>
-  <RatingCount>3</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>4</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>James Stoteraux|Chad Fiveash</Writer>
   <absolute_number></absolute_number>
@@ -1692,8 +1726,8 @@
   <Overview>Daphne's attempt at building a friendship with her field hockey teammate, Sharee, has been met with lukewarm reception at best, and it takes a turn for the worse when Sharee gets in trouble at school. Bay agrees to help her art teacher Teresa set up a showing at a Minneapolis gallery, in an effort to get a letter of recommendation for her art school application. Meanwhile, a business opportunity puts Regina in a conflicted position.
 </Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>4</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>5</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Joy Gregory|Terrence Coli</Writer>
   <absolute_number></absolute_number>
@@ -1723,8 +1757,8 @@
   <Language>en</Language>
   <Overview>Bay is surprised by her feelings when she learns that Emmett has started dating again. Jorge asks Daphne to join him at a family function. Regina and Angelo have a heart-to-heart over their business ventures. Meanwhile, John surprises the family when he makes an unusual purchase.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>4</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>5</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Linda Gase|Henry Robles</Writer>
   <absolute_number></absolute_number>
@@ -1754,8 +1788,8 @@
   <Language>en</Language>
   <Overview>Kathryn is thrilled to get a second chance at being an author when Renzo sets up a pitch meeting with his book editor friend. Bay worries that Tank may have a crush on her. Daphne is concerned when she learns more about Sharee’s home life. Meanwhile, John, and Nikki’s mom Jennice hide some bad news from Toby while they help him move into his new place.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>3</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>4</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Bekah Brunsetter</Writer>
   <absolute_number></absolute_number>
@@ -1786,7 +1820,7 @@
   <Overview>Kathryn’s murder mystery party quickly gets complicated when both John and Kathryn discover something about each other. Bay tries to get an invite to Tank’s fraternity luau. Meanwhile, Daphne plans a 21st birthday party for Campbell</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>4</RatingCount>
+  <RatingCount>5</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>James Stoteraux|Chad Fiveash</Writer>
   <absolute_number></absolute_number>
@@ -1817,7 +1851,7 @@
   <Overview>Daphne tries to convince Sharee that she needs to find help for her mother. Bay and Toby hatch a plan to get their parents on the same page. Adrianna is at odds with Regina over her new project. Meanwhile, Melody is confused by Travis’s behavior.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>3</RatingCount>
+  <RatingCount>4</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Terrence Coli</Writer>
   <absolute_number></absolute_number>
@@ -1847,8 +1881,8 @@
   <Language>en</Language>
   <Overview>Daphne dances with the idea of pre-med studies and asks for more responsibility at the free clinic, but is it too much too soon? Worried that his hearing girlfriend will lose interest, Travis hesitantly invites her to a school formal even though he doesn’t know how to dance. Bay is left spinning when her teacher demands more of her art, despite her injury. Meanwhile, John jumps at the chance to win Kathryn over.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.3</Rating>
-  <RatingCount>3</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>4</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Lizzy Weiss|Michael V. Ross</Writer>
   <absolute_number></absolute_number>
@@ -1879,7 +1913,7 @@
   <Overview>Daphne tries to help out Angelo at the clinic's fundraiser, all while juggling the attention of Jorge and Campbell. Bay must deal with MaryBeth's feelings about Tank. Toby tutors Sharee to keep her eligible for the field hockey team. Meanwhile, John and Kathryn invite one of John's old baseball colleagues over to get some dish for Kathryn's book.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>2</RatingCount>
+  <RatingCount>3</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Joy Gregory</Writer>
   <absolute_number></absolute_number>
@@ -1910,7 +1944,7 @@
   <Overview>Bay enlists Tank to help her strike back when the rivalry between the Carlton and Buckner field hockey teams gets heated. Toby gets a surprise visit from Nikki. Regina's relationships in her old neighborhood become an asset at work. Meanwhile, Daphne chooses whether to date Jorge or Campbell.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>1</RatingCount>
+  <RatingCount>2</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Henry Robles|Bekah Brunstetter</Writer>
   <absolute_number></absolute_number>
@@ -1941,7 +1975,7 @@
   <Overview>Bay sets out to find out The Real Story behind Emmett's girlfriend. Daphne questions her ability to volunteer at the clinic when she runs into someone from her past. Feeling guilty about her actions, Regina takes a chance at work. Meanwhile, Kathryn is shocked to discover that her book has been leaked ahead of publication.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>2</RatingCount>
+  <RatingCount>3</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Linda Gase|Lizzy Weiss</Writer>
   <absolute_number></absolute_number>
@@ -1972,7 +2006,7 @@
   <Overview>Bay faces the consequences of her unplanned romantic encounter with Emmett. Will she break up with Tank? Will Bay and Emmett start a new life together? Meanwhile, Daphne sets out to find the person who vandalized her mom’s design studio. And Matthew continues to bully Emmett.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>1</RatingCount>
+  <RatingCount>2</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Lizzy Weiss</Writer>
   <absolute_number></absolute_number>
@@ -2002,8 +2036,8 @@
   <Language>en</Language>
   <Overview>Bay and Emmett work together to combat Matthew's blackmail threat and make an unexpected discovery. Daphne gets a big opportunity at the clinic but worries about how it affects her boyfriend Campbell. Meanwhile, Kathryn enjoys the perks of being the author of a highly-anticipated book, until someone from her past threatens its publication.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>2</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>3</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>James Stoteraux|Chad Fiveash</Writer>
   <absolute_number></absolute_number>
@@ -2033,8 +2067,8 @@
   <Language>en</Language>
   <Overview>When she discovers Melody is considering an out-of-state move that would take Emmett with her, Bay encourages Emmett to strengthen his relationship with his father. But a visit with Emmett’s dad reveals news that may change their relationship altogether. Kathryn and John clash with Regina over funding Daphne’s college expenses, while Daphne interviews for a Latina college scholarship. Meanwhile, Mary Beth surprises Travis when she tracks down his hero, Super Bowl Champion Derrick Coleman, at a local restaurant.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.0</Rating>
-  <RatingCount>2</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>3</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Henry Robles</Writer>
   <absolute_number></absolute_number>
@@ -2065,7 +2099,7 @@
   <Overview>Back from a soul-searching trip to Iceland after his failed marriage, Toby returns with a new perspective on life and a surprising new aspiration for his career. Bay’s college dreams are knocked for a loop when she doesn’t get the news she expected. Angelo helps Daphne redirect her senior year stresses with a baking challenge. Meanwhile, Regina’s participation in the East Riverside project brings her to yet another moral crossroad.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>1</RatingCount>
+  <RatingCount>2</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Joy Gregory|Alexander Georgakis</Writer>
   <absolute_number></absolute_number>
@@ -2126,8 +2160,8 @@
   <Language>en</Language>
   <Overview>When John starts feeling a sense of built-up anxiety in Bay and Daphne, he suggests that a trip to Chicago to find Bay’s second cousin is a perfect opportunity for her to become more in touch with her roots and give Daphne a chance to tour prospective colleges. But the trip goes south when Daphne uses the opportunity to act out, and Bay discovers alarming news about Angelo’s family past. Meanwhile, Kathryn tries to kindle a spark between two love-seeking candidates looking for something missing in their lives.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.0</Rating>
+  <RatingCount>2</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Lizzy Weiss|Bekah Brunsetter</Writer>
   <absolute_number></absolute_number>
@@ -2148,7 +2182,7 @@
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
   <Director>Ron Lagomarsino</Director>
-  <EpImgFlag></EpImgFlag>
+  <EpImgFlag>2</EpImgFlag>
   <EpisodeName>It Isn't What You Think</EpisodeName>
   <EpisodeNumber>18</EpisodeNumber>
   <FirstAired>2014-07-28</FirstAired>
@@ -2157,18 +2191,18 @@
   <Language>en</Language>
   <Overview>When Bay offers to be moral support for Tank as he meets his father for dinner, she finds that she may have bitten off more than she can chew. Toby continues to stir things up with Lily, yet a conflict regarding a make-up test for Sharee raises unwanted confrontation between the two. Meanwhile, Daphne and Travis make life-changing decisions when they find out their admission results from Gallaudet University.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>2</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Henry Robles|J.R. Phillips</Writer>
   <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1405853163</lastupdated>
+  <filename>episodes/247773/4900863.jpg</filename>
+  <lastupdated>1406132719</lastupdated>
   <seasonid>565097</seasonid>
   <seriesid>247773</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-07-23 09:29:36</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4920614</id>
@@ -2179,7 +2213,7 @@
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
   <Director>Michael Lange</Director>
-  <EpImgFlag></EpImgFlag>
+  <EpImgFlag>2</EpImgFlag>
   <EpisodeName>You Will Not Escape</EpisodeName>
   <EpisodeNumber>19</EpisodeNumber>
   <FirstAired>2014-08-04</FirstAired>
@@ -2188,18 +2222,18 @@
   <Language>en</Language>
   <Overview>Looking for a distraction, Daphne organizes a senior ditch day for her Carlton classmates, but things get out of hand. Bay meets with Angelo’s doctor to discuss their family medical history. Meanwhile, Kathryn brings Regina to her book publisher’s author party in New York. </Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>8.0</Rating>
+  <RatingCount>2</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Joy Gregory</Writer>
   <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1405852756</lastupdated>
+  <filename>episodes/247773/4920614.jpg</filename>
+  <lastupdated>1406693716</lastupdated>
   <seasonid>565097</seasonid>
   <seriesid>247773</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-07-29 21:15:16</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4920615</id>
@@ -2209,28 +2243,28 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
+  <Director>D.W. Moffett</Director>
+  <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Girl on the Cliff</EpisodeName>
   <EpisodeNumber>20</EpisodeNumber>
   <FirstAired>2014-08-11</FirstAired>
   <GuestStars></GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
+  <Overview>Regina, Kathryn and John are shocked when Bay tells them about the extent of Daphne’s self-destructive behavior, prompting the parents to set some ground rules. Bay reconsiders attending the prom when the school board implements a new rule regarding dance dress code. Daphne continues her downward spiral when a bad decision puts her job at the clinic in jeopardy. Meanwhile, Tank helps Toby grow his deejay business, but their bromance is tested when Toby is offered a gig at Omega Psi.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>8.0</Rating>
+  <RatingCount>2</RatingCount>
   <SeasonNumber>3</SeasonNumber>
-  <Writer></Writer>
+  <Writer>Linda Gase</Writer>
   <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1404122401</lastupdated>
+  <filename>episodes/247773/4920615.jpg</filename>
+  <lastupdated>1407338304</lastupdated>
   <seasonid>565097</seasonid>
   <seriesid>247773</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-08-06 08:18:24</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4920616</id>
@@ -2240,11 +2274,42 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
+  <Director>Melanie Mayron</Director>
+  <EpImgFlag>2</EpImgFlag>
   <EpisodeName>And Life Begins Right Away</EpisodeName>
   <EpisodeNumber>21</EpisodeNumber>
   <FirstAired>2014-08-18</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Everyone is looking forward to commencement until shocking news about Carlton threatens to overshadow their special day. Daphne fears her future is in jeopardy when her past catches up with her. John and Kathryn are not happy when they learn about Bay’s non-traditional post-graduation plans. Meanwhile, Mary Beth is pleased when Travis’s wish comes true. </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.5</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Lizzy Weiss|William H. Brown</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/247773/4920616.jpg</filename>
+  <lastupdated>1407869702</lastupdated>
+  <seasonid>565097</seasonid>
+  <seriesid>247773</seriesid>
+  <thumb_added>2014-08-12 11:55:02</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4998209</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>And It Cannot Be Changed</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired></FirstAired>
   <GuestStars></GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
@@ -2252,12 +2317,12 @@
   <ProductionCode></ProductionCode>
   <Rating></Rating>
   <RatingCount>0</RatingCount>
-  <SeasonNumber>3</SeasonNumber>
-  <Writer></Writer>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Lizzy Weiss</Writer>
   <absolute_number></absolute_number>
   <filename></filename>
-  <lastupdated>1404122419</lastupdated>
-  <seasonid>565097</seasonid>
+  <lastupdated>1411227362</lastupdated>
+  <seasonid>597816</seasonid>
   <seriesid>247773</seriesid>
   <thumb_added></thumb_added>
   <thumb_height></thumb_height>

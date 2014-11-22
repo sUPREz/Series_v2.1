@@ -50,7 +50,7 @@ if( isset($_GET['Area']) )
 
 <body>
 <?php
-echo $_SERVER["REMOTE_ADDR"];
+//echo $_SERVER["REMOTE_ADDR"];
 ?>
 <script language="JavaScript" src="functions.js" type="text/javascript"></script>
 <script language="JavaScript" src="../TextEditor/TextEditor/TextEditor.js" type="text/javascript"></script>

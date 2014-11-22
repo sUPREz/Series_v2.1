@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Data><Series>
   <id>268094</id>
-  <Actors>|Adam Rayner|Jennifer Finnigan|Alice Krige|Anne Winters|Noah Silver|Salim Daw|Mehdi Dehbi|Fares Fares|Ashraf Barhom|Moran Atias|Justin Kirk|</Actors>
+  <Actors>|Adam Rayner|Ashraf Barhom|Jennifer Finnigan|Moran Atias|Salim Daw|Mehdi Dehbi|Fares Fares|Alice Krige|Anne Winters|Noah Silver|Justin Kirk|</Actors>
   <Airs_DayOfWeek>Tuesday</Airs_DayOfWeek>
   <Airs_Time>10:00 pm</Airs_Time>
   <ContentRating>TV-MA</ContentRating>
@@ -12,8 +12,8 @@
   <Network>FX</Network>
   <NetworkID></NetworkID>
   <Overview>The series tells the story of an unassuming American family drawn into the workings of a turbulent Middle Eastern nation. Bassam &quot;Barry&quot; Al Fayeed, the younger son of the dictator of a war-torn nation, ends a self-imposed 20-year exile to return to his homeland, accompanied by his American wife and children, for his nephew's wedding. Barry’s reluctant homecoming leads to a dramatic clash of cultures as he is thrown back into the familial and national politics of his youth.</Overview>
-  <Rating>9.8</Rating>
-  <RatingCount>4</RatingCount>
+  <Rating>8.1</Rating>
+  <RatingCount>14</RatingCount>
   <Runtime>60</Runtime>
   <SeriesID>176198</SeriesID>
   <SeriesName>Tyrant</SeriesName>
@@ -21,8 +21,8 @@
   <added>2013-03-25 10:03:23</added>
   <addedBy>95341</addedBy>
   <banner>graphical/268094-g3.jpg</banner>
-  <fanart>fanart/original/268094-5.jpg</fanart>
-  <lastupdated>1405857889</lastupdated>
+  <fanart>fanart/original/268094-4.jpg</fanart>
+  <lastupdated>1415051573</lastupdated>
   <poster>posters/268094-1.jpg</poster>
   <tms_wanted_old>0</tms_wanted_old>
   <zap2it_id>SH01863216</zap2it_id>
@@ -41,17 +41,17 @@
   <EpisodeNumber>1</EpisodeNumber>
   <FirstAired>2014-06-24</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt3816256</IMDB_ID>
   <Language>en</Language>
   <Overview>Barry Al-Fayeed is a California pediatrician who also happens to be the second son of a Middle Eastern dictator. Barry reluctantly agrees to return home with his American family for his nephew's wedding. Events thrust him into the complex and turbulent growing pains of a nation straining to break free from dictatorial rule.</Overview>
   <ProductionCode>178</ProductionCode>
-  <Rating>7.1</Rating>
-  <RatingCount>12</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>18</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Gideon Raff|</Writer>
   <absolute_number>1</absolute_number>
   <filename>episodes/268094/4596686.jpg</filename>
-  <lastupdated>1404137111</lastupdated>
+  <lastupdated>1411818458</lastupdated>
   <seasonid>523003</seasonid>
   <seriesid>268094</seriesid>
   <thumb_added>2014-01-15 23:58:57</thumb_added>
@@ -76,13 +76,13 @@
   <Language>en</Language>
   <Overview>When Barry's older brother, Jamal, the newly appointed President of Abbudin, is incapacitated, Barry must put his plans to return to America on hold. His life is further complicated, when his nephew's new bride is kidnapped by terrorists. </Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>10</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>16</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Howard Gordon|Craig Wright|</Writer>
   <absolute_number>2</absolute_number>
   <filename>episodes/268094/4900258.jpg</filename>
-  <lastupdated>1404471334</lastupdated>
+  <lastupdated>1411818474</lastupdated>
   <seasonid>523003</seasonid>
   <seriesid>268094</seriesid>
   <thumb_added>2014-06-30 21:10:07</thumb_added>
@@ -103,17 +103,17 @@
   <EpisodeNumber>3</EpisodeNumber>
   <FirstAired>2014-07-08</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt3816268</IMDB_ID>
   <Language>en</Language>
   <Overview>While Barry’s decision to stay in Abbudin is met with mixed emotion, the discovery of new evidence connected to the attempted murder of Jamal threatens to drive a wedge between the two brothers.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>5</RatingCount>
+  <RatingCount>13</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Glenn Gordon Caron</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/268094/4904603.jpg</filename>
-  <lastupdated>1405102578</lastupdated>
+  <lastupdated>1411818489</lastupdated>
   <seasonid>523003</seasonid>
   <seriesid>268094</seriesid>
   <thumb_added>2014-07-08 13:22:35</thumb_added>
@@ -134,17 +134,17 @@
   <EpisodeNumber>4</EpisodeNumber>
   <FirstAired>2014-07-15</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt3816272</IMDB_ID>
   <Language>en</Language>
   <Overview>Tensions boil as the 20th anniversary of the chemical attack ordered by Barry's father, President Khaled Al-Fayeed looms. Barry’s plan to defuse the situation runs into heavy resistance. Meanwhile, Jamal struggles to regain confidence in the bedroom. </Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.0</Rating>
-  <RatingCount>4</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>12</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Peter Noah</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/268094/4910273.jpg</filename>
-  <lastupdated>1405690885</lastupdated>
+  <lastupdated>1412426856</lastupdated>
   <seasonid>523003</seasonid>
   <seriesid>268094</seriesid>
   <thumb_added>2014-07-15 08:27:43</thumb_added>
@@ -165,17 +165,17 @@
   <EpisodeNumber>5</EpisodeNumber>
   <FirstAired>2014-07-22</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt3824568</IMDB_ID>
   <Language>en</Language>
   <Overview>As Jamal prepares to throw down the gauntlet on the thousands of citizens gathered in the Plaza to protest his reign, Barry scrambles to put together a summit in the hopes of avoiding violence and bloodshed.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>10</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Chris Levinson</Writer>
   <absolute_number>5</absolute_number>
   <filename>episodes/268094/4914748.jpg</filename>
-  <lastupdated>1405653780</lastupdated>
+  <lastupdated>1406186063</lastupdated>
   <seasonid>523003</seasonid>
   <seriesid>268094</seriesid>
   <thumb_added>2014-07-17 20:23:00</thumb_added>
@@ -191,27 +191,27 @@
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
   <Director>Tucker Gates</Director>
-  <EpImgFlag></EpImgFlag>
+  <EpImgFlag>2</EpImgFlag>
   <EpisodeName>What the World Needs Now</EpisodeName>
   <EpisodeNumber>6</EpisodeNumber>
   <FirstAired>2014-07-29</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt3863600</IMDB_ID>
   <Language>en</Language>
   <Overview>Barry convinces Jamal to meet with exiled opposition leader Sheik Rashid. But when the meeting takes a turn for the worse, Jamal is forced to make a difficult decision that will impact the lives of his family and his country forever.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>8.0</Rating>
+  <RatingCount>9</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Arika Lisanne Mittman|Glenn Gordon Caron|</Writer>
   <absolute_number>6</absolute_number>
-  <filename></filename>
-  <lastupdated>1405016581</lastupdated>
+  <filename>episodes/268094/4914749.jpg</filename>
+  <lastupdated>1413762967</lastupdated>
   <seasonid>523003</seasonid>
   <seriesid>268094</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-07-23 16:06:41</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4914750</id>
@@ -222,27 +222,27 @@
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
   <Director>Marcos Siega</Director>
-  <EpImgFlag></EpImgFlag>
+  <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Preventative Medicine</EpisodeName>
   <EpisodeNumber>7</EpisodeNumber>
   <FirstAired>2014-08-05</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt3863618</IMDB_ID>
   <Language>en</Language>
   <Overview>Jamal is terrified to discover that Sheik Rashid may actually survive Jamal's brutal attack, while Amira's disclosure of a twenty year old secret leads Barry to question everything he's ever believed about his father. </Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>9</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Arika Lisanne Mittman</Writer>
   <absolute_number>7</absolute_number>
-  <filename></filename>
-  <lastupdated>1405016606</lastupdated>
+  <filename>episodes/268094/4914750.jpg</filename>
+  <lastupdated>1414259594</lastupdated>
   <seasonid>523003</seasonid>
   <seriesid>268094</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-07-30 11:37:53</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4914751</id>
@@ -253,7 +253,7 @@
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
   <Director>Charlotte Sieling</Director>
-  <EpImgFlag></EpImgFlag>
+  <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Meet the New Boss</EpisodeName>
   <EpisodeNumber>8</EpisodeNumber>
   <FirstAired>2014-08-12</FirstAired>
@@ -262,18 +262,18 @@
   <Language>en</Language>
   <Overview>Fed up with Jamal's unpredictable and violent nature, Barry conspires to start a coup and remove his brother from office; while at the same time Jamal is so moved by Barry's willingness to do the unthinkable and hasten Sheik Rashid's demise, that he stops at nothing to prove his worth to his brother. </Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.0</Rating>
+  <RatingCount>7</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>David Matthews</Writer>
   <absolute_number>8</absolute_number>
-  <filename></filename>
-  <lastupdated>1405394471</lastupdated>
+  <filename>episodes/268094/4914751.jpg</filename>
+  <lastupdated>1414869907</lastupdated>
   <seasonid>523003</seasonid>
   <seriesid>268094</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-08-06 08:32:59</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4914752</id>
@@ -283,28 +283,28 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName></EpisodeName>
+  <Director>|Gwyneth Horder - Payton|</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Gaslight</EpisodeName>
   <EpisodeNumber>9</EpisodeNumber>
   <FirstAired>2014-08-19</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt3866686</IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
+  <Overview>As the plans for the coup continue to take shape, Jamal proves how far he will go to punish those who oppose him, and Barry's relationship with Molly is pushed to the limit after she learns of the repercussions that await their family.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>8</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1403418199</lastupdated>
+  <Writer>|Chris Levinson|Peter Noah|Nadia Conners|</Writer>
+  <absolute_number>9</absolute_number>
+  <filename>episodes/268094/4914752.jpg</filename>
+  <lastupdated>1408783031</lastupdated>
   <seasonid>523003</seasonid>
   <seriesid>268094</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-08-13 18:42:54</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4914753</id>
@@ -314,27 +314,27 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName></EpisodeName>
+  <Director>Michael Lehmann</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Gone Fishing</EpisodeName>
   <EpisodeNumber>10</EpisodeNumber>
   <FirstAired>2014-08-26</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt3866690</IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
+  <Overview>On the verge of betraying and displacing Jamal, Barry receives troublesome news that threatens to destroy everything he's worked so hard for. Meanwhile, Jamal's rising suspicions lead him to question the loyalty of those closest to him.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.2</Rating>
+  <RatingCount>6</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer></Writer>
+  <Writer>|Howard Gordon|Chris Keyser|</Writer>
   <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1403418209</lastupdated>
+  <filename>episodes/268094/4914753.jpg</filename>
+  <lastupdated>1409081020</lastupdated>
   <seasonid>523003</seasonid>
   <seriesid>268094</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-08-26 12:27:58</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 </Data>

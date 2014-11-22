@@ -11,10 +11,10 @@
   <Language>en</Language>
   <Network>FOX</Network>
   <NetworkID></NetworkID>
-  <Overview>In 1963, all the prisoners and guards mysteriously disappear from Alcatraz. In the present day, they resurface and a secret agency are tasked with re-capturing them.</Overview>
+  <Overview>On March 21, 1963, the inmates and guards at Alcatraz prison mysteriously disappear. To cover up the problem, the government reported the prison has been closed because of unsafe conditions. A secret government unit was set up to find the prisoners. Now, in the present-day, the inmates begin returning - unaged and unaware of where they have spent the missing decades - and continue their criminal ways. They are acting out of character and appear to be searching for specific objects. A federal agent employs a police officer and a conspiracy theory novelist to help track them down.</Overview>
   <Rating>8.2</Rating>
-  <RatingCount>75</RatingCount>
-  <Runtime>60</Runtime>
+  <RatingCount>76</RatingCount>
+  <Runtime>45</Runtime>
   <SeriesID>80121</SeriesID>
   <SeriesName>Alcatraz</SeriesName>
   <Status>Ended</Status>
@@ -22,7 +22,7 @@
   <addedBy>342859</addedBy>
   <banner>graphical/248646-g11.jpg</banner>
   <fanart>fanart/original/248646-10.jpg</fanart>
-  <lastupdated>1405429768</lastupdated>
+  <lastupdated>1412889226</lastupdated>
   <poster>posters/248646-6.jpg</poster>
   <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>EP01419230</zap2it_id>
@@ -58,40 +58,6 @@
   <seasonid>465695</seasonid>
   <seriesid>248646</seriesid>
   <thumb_added></thumb_added>
-  <thumb_height>225</thumb_height>
-  <thumb_width>400</thumb_width>
-</Episode>
-<Episode>
-  <id>4694297</id>
-  <Combined_episodenumber>2</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag>2</EpImgFlag>
-  <EpisodeName>Island of Intrigue</EpisodeName>
-  <EpisodeNumber>2</EpisodeNumber>
-  <FirstAired>2012-10-16</FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview>A promo piece featuring cast and crew talking glowingly about making the series.</Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season>1</airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename>episodes/248646/4694297.jpg</filename>
-  <lastupdated>1382650254</lastupdated>
-  <seasonid>465695</seasonid>
-  <seriesid>248646</seriesid>
-  <thumb_added>2013-10-24 14:30:50</thumb_added>
   <thumb_height>225</thumb_height>
   <thumb_width>400</thumb_width>
 </Episode>
@@ -305,7 +271,7 @@
   <Writer>Toni Graphia</Writer>
   <absolute_number>7</absolute_number>
   <filename>episodes/248646/4218961.jpg</filename>
-  <lastupdated>1354205931</lastupdated>
+  <lastupdated>1410146402</lastupdated>
   <seasonid>465765</seasonid>
   <seriesid>248646</seriesid>
   <thumb_added></thumb_added>
@@ -336,7 +302,7 @@
   <Writer>Robert Hull</Writer>
   <absolute_number>9</absolute_number>
   <filename>episodes/248646/4242009.jpg</filename>
-  <lastupdated>1354205915</lastupdated>
+  <lastupdated>1410146424</lastupdated>
   <seasonid>465765</seasonid>
   <seriesid>248646</seriesid>
   <thumb_added></thumb_added>
@@ -367,7 +333,7 @@
   <Writer>Toni Graphia</Writer>
   <absolute_number>10</absolute_number>
   <filename>episodes/248646/4240668.jpg</filename>
-  <lastupdated>1354205893</lastupdated>
+  <lastupdated>1410146435</lastupdated>
   <seasonid>465765</seasonid>
   <seriesid>248646</seriesid>
   <thumb_added></thumb_added>
@@ -403,7 +369,7 @@ It will air again on March 12.</Overview>
   <Writer>Leigh Dana Jackson</Writer>
   <absolute_number>8</absolute_number>
   <filename>episodes/248646/4251974.jpg</filename>
-  <lastupdated>1354205876</lastupdated>
+  <lastupdated>1410146452</lastupdated>
   <seasonid>465765</seasonid>
   <seriesid>248646</seriesid>
   <thumb_added></thumb_added>
@@ -434,7 +400,7 @@ It will air again on March 12.</Overview>
   <Writer>Steven Lilien |Bryan Wynbrandt</Writer>
   <absolute_number>11</absolute_number>
   <filename>episodes/248646/4251975.jpg</filename>
-  <lastupdated>1363629959</lastupdated>
+  <lastupdated>1410146466</lastupdated>
   <seasonid>465765</seasonid>
   <seriesid>248646</seriesid>
   <thumb_added></thumb_added>
@@ -465,7 +431,7 @@ It will air again on March 12.</Overview>
   <Writer>Leigh Dana Jackson|Coleman Herbert</Writer>
   <absolute_number>12</absolute_number>
   <filename>episodes/248646/4253440.jpg</filename>
-  <lastupdated>1354205846</lastupdated>
+  <lastupdated>1410146477</lastupdated>
   <seasonid>465765</seasonid>
   <seriesid>248646</seriesid>
   <thumb_added></thumb_added>
@@ -496,7 +462,7 @@ It will air again on March 12.</Overview>
   <Writer>Jennifer Johnson|Daniel Pyne</Writer>
   <absolute_number>13</absolute_number>
   <filename>episodes/248646/4253441.jpg</filename>
-  <lastupdated>1354205827</lastupdated>
+  <lastupdated>1410146489</lastupdated>
   <seasonid>465765</seasonid>
   <seriesid>248646</seriesid>
   <thumb_added></thumb_added>

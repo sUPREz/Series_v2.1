@@ -13,7 +13,7 @@
   <NetworkID></NetworkID>
   <Overview>Heroes is a cult serial saga about people all over the world discovering that they have superpowers and trying to deal with how this change affects their lives. Not only are they discovering what having superpowers means to them but also the larger picture of where those powers come from and what they might mean to the rest of the world.</Overview>
   <Rating>8.4</Rating>
-  <RatingCount>521</RatingCount>
+  <RatingCount>530</RatingCount>
   <Runtime>45</Runtime>
   <SeriesID>17552</SeriesID>
   <SeriesName>Heroes</SeriesName>
@@ -22,8 +22,8 @@
   <addedBy></addedBy>
   <banner>graphical/79501-g10.jpg</banner>
   <fanart>fanart/original/79501-18.jpg</fanart>
-  <lastupdated>1405631906</lastupdated>
-  <poster>posters/79501-2.jpg</poster>
+  <lastupdated>1414083414</lastupdated>
+  <poster>posters/79501-12.jpg</poster>
   <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>SH00848361</zap2it_id>
 </Series>
@@ -376,7 +376,7 @@
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
   <Director></Director>
-  <EpImgFlag>3</EpImgFlag>
+  <EpImgFlag>2</EpImgFlag>
   <EpisodeName>The Recruit - We Do What We Have To Do - Part 3</EpisodeName>
   <EpisodeNumber>12</EpisodeNumber>
   <FirstAired>2008-12-22</FirstAired>
@@ -394,10 +394,10 @@
   <airsbefore_episode>14</airsbefore_episode>
   <airsbefore_season>3</airsbefore_season>
   <filename>episodes/79501/562541.jpg</filename>
-  <lastupdated>1378282793</lastupdated>
+  <lastupdated>1413750126</lastupdated>
   <seasonid>26930</seasonid>
   <seriesid>79501</seriesid>
-  <thumb_added></thumb_added>
+  <thumb_added>2014-10-19 13:26:24</thumb_added>
   <thumb_height>225</thumb_height>
   <thumb_width>400</thumb_width>
 </Episode>
@@ -410,7 +410,7 @@
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
   <Director></Director>
-  <EpImgFlag>3</EpImgFlag>
+  <EpImgFlag>1</EpImgFlag>
   <EpisodeName>The Recruit - Day of Reckoning - Part 4</EpisodeName>
   <EpisodeNumber>13</EpisodeNumber>
   <FirstAired>2008-12-22</FirstAired>
@@ -428,11 +428,11 @@
   <airsbefore_episode>14</airsbefore_episode>
   <airsbefore_season>3</airsbefore_season>
   <filename>episodes/79501/562551.jpg</filename>
-  <lastupdated>1378282811</lastupdated>
+  <lastupdated>1413749741</lastupdated>
   <seasonid>26930</seasonid>
   <seriesid>79501</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height>225</thumb_height>
+  <thumb_added>2014-10-19 13:20:01</thumb_added>
+  <thumb_height>300</thumb_height>
   <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
@@ -546,7 +546,7 @@
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
   <Director></Director>
-  <EpImgFlag>3</EpImgFlag>
+  <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Hard Knox - Fear - Part 3</EpisodeName>
   <EpisodeNumber>17</EpisodeNumber>
   <FirstAired>2009-01-05</FirstAired>
@@ -564,11 +564,11 @@
   <airsbefore_episode>14</airsbefore_episode>
   <airsbefore_season>3</airsbefore_season>
   <filename>episodes/79501/562591.jpg</filename>
-  <lastupdated>1378282873</lastupdated>
+  <lastupdated>1413749648</lastupdated>
   <seasonid>26930</seasonid>
   <seriesid>79501</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height>300</thumb_height>
+  <thumb_added>2014-10-19 13:18:25</thumb_added>
+  <thumb_height>225</thumb_height>
   <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
@@ -580,7 +580,7 @@
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
   <Director></Director>
-  <EpImgFlag>3</EpImgFlag>
+  <EpImgFlag></EpImgFlag>
   <EpisodeName>Hard Knox - The Main Man Now - Part 4</EpisodeName>
   <EpisodeNumber>18</EpisodeNumber>
   <FirstAired>2009-01-12</FirstAired>
@@ -597,13 +597,13 @@
   <airsafter_season></airsafter_season>
   <airsbefore_episode>14</airsbefore_episode>
   <airsbefore_season>3</airsbefore_season>
-  <filename>episodes/79501/562601.jpg</filename>
-  <lastupdated>1378282885</lastupdated>
+  <filename></filename>
+  <lastupdated>1413750211</lastupdated>
   <seasonid>26930</seasonid>
   <seriesid>79501</seriesid>
   <thumb_added></thumb_added>
-  <thumb_height>300</thumb_height>
-  <thumb_width>400</thumb_width>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
 </Episode>
 <Episode>
   <id>632881</id>
@@ -2287,7 +2287,7 @@
   <Overview>Sylar goes to the Company and inadvertently releases 12 super-powered criminals in a fight with Elle. Future Peter tries to fix his mistake. Angela takes over the company. Claire learns more about her powers. Hiro and Ando travel to Paris to track down the speedster who robbed them. Maya discovers that Mohinder's injection has changed him. Matt meats Usutu, an African with a familiar power.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>57</RatingCount>
+  <RatingCount>58</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Tim Kring</Writer>
   <absolute_number></absolute_number>

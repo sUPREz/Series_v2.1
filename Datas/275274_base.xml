@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Data>
+  <Series>
+    <id>275274</id>
+    <Actors>|Justin Roiland |Chris Parnell|Spencer Grammer|Sarah Chalke|</Actors>
+    <Airs_DayOfWeek>Monday</Airs_DayOfWeek>
+    <Airs_Time>10:30 PM</Airs_Time>
+    <ContentRating>TV-14</ContentRating>
+    <FirstAired>2013-12-02</FirstAired>
+    <Genre>|Animation|Comedy|Science-Fiction|</Genre>
+    <IMDB_ID>tt2861424</IMDB_ID>
+    <Language>en</Language>
+    <Network>Adult Swim</Network>
+    <NetworkID></NetworkID>
+    <Overview>A sociopathic scientist drags his unintelligent grandson on insanely dangerous adventures across the universe.</Overview>
+    <Rating>8.9</Rating>
+    <RatingCount>20</RatingCount>
+    <Runtime>25</Runtime>
+    <SeriesID></SeriesID>
+    <SeriesName>Rick and Morty</SeriesName>
+    <Status>Continuing</Status>
+    <added>2013-11-13 09:41:13</added>
+    <addedBy>346515</addedBy>
+    <banner>graphical/275274-g5.jpg</banner>
+    <fanart>fanart/original/275274-2.jpg</fanart>
+    <lastupdated>1414984499</lastupdated>
+    <poster>posters/275274-2.jpg</poster>
+    <tms_wanted_old>0</tms_wanted_old>
+    <zap2it_id>EP01833673</zap2it_id>
+  </Series>
+</Data>

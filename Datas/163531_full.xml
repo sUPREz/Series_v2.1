@@ -13,7 +13,7 @@
   <NetworkID></NetworkID>
   <Overview>The Event is an emotional, high-octane conspiracy thriller that follows Sean Walker, an everyman who investigates the mysterious disappearance of his would-be fiancée Leila, and unwittingly begins to expose the biggest cover-up in U.S. history.</Overview>
   <Rating>8.0</Rating>
-  <RatingCount>92</RatingCount>
+  <RatingCount>93</RatingCount>
   <Runtime>60</Runtime>
   <SeriesID>78485</SeriesID>
   <SeriesName>The Event</SeriesName>
@@ -22,8 +22,8 @@
   <addedBy>6560</addedBy>
   <banner>graphical/163531-g.jpg</banner>
   <fanart>fanart/original/163531-3.jpg</fanart>
-  <lastupdated>1405157146</lastupdated>
-  <poster>posters/163531-2.jpg</poster>
+  <lastupdated>1414932163</lastupdated>
+  <poster>posters/163531-6.jpg</poster>
   <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>SH01266581</zap2it_id>
 </Series>
@@ -85,7 +85,7 @@
   <Writer>Nick Wauters</Writer>
   <absolute_number>1</absolute_number>
   <filename>episodes/163531/2526111.jpg</filename>
-  <lastupdated>1364034903</lastupdated>
+  <lastupdated>1406030631</lastupdated>
   <seasonid>285101</seasonid>
   <seriesid>163531</seriesid>
   <thumb_added></thumb_added>
@@ -116,7 +116,7 @@
   <Writer>Evan Katz|Nick Wauters</Writer>
   <absolute_number>2</absolute_number>
   <filename>episodes/163531/2737011.jpg</filename>
-  <lastupdated>1355557930</lastupdated>
+  <lastupdated>1406030647</lastupdated>
   <seasonid>285101</seasonid>
   <seriesid>163531</seriesid>
   <thumb_added></thumb_added>
@@ -147,7 +147,7 @@
   <Writer>David H. Goodman|James Wong</Writer>
   <absolute_number>3</absolute_number>
   <filename>episodes/163531/2757241.jpg</filename>
-  <lastupdated>1355557962</lastupdated>
+  <lastupdated>1406030659</lastupdated>
   <seasonid>285101</seasonid>
   <seriesid>163531</seriesid>
   <thumb_added></thumb_added>
@@ -178,7 +178,7 @@
   <Writer>David Schulner|Lisa Zwerling</Writer>
   <absolute_number>4</absolute_number>
   <filename>episodes/163531/2764251.jpg</filename>
-  <lastupdated>1328601858</lastupdated>
+  <lastupdated>1406030683</lastupdated>
   <seasonid>285101</seasonid>
   <seriesid>163531</seriesid>
   <thumb_added></thumb_added>
@@ -209,7 +209,7 @@
   <Writer>|Dan Dworkin|Jay Beattie|</Writer>
   <absolute_number>5</absolute_number>
   <filename>episodes/163531/2764261.jpg</filename>
-  <lastupdated>1329112715</lastupdated>
+  <lastupdated>1406030694</lastupdated>
   <seasonid>285101</seasonid>
   <seriesid>163531</seriesid>
   <thumb_added></thumb_added>
@@ -266,12 +266,12 @@
   <Overview>President Martinez orders Director of National Intelligence, Blake Sterling, to root out the mole from their staff, which causes Sterling to question his judgment of people close to him. Sophia reasserts her power over Thomas and the other detainees, and she prepares them for the next leg of their mission. Elsewhere, with the aid of Madeline, Sean continues his hunt for answers, all the while trying to stay one step ahead of the covert agents who trail him.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>156</RatingCount>
+  <RatingCount>157</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Evan Katz|Lisa Zwerling|</Writer>
   <absolute_number>7</absolute_number>
   <filename>episodes/163531/2997671.jpg</filename>
-  <lastupdated>1329595713</lastupdated>
+  <lastupdated>1406030712</lastupdated>
   <seasonid>285101</seasonid>
   <seriesid>163531</seriesid>
   <thumb_added></thumb_added>
@@ -297,12 +297,12 @@
   <Overview>President Martinez, furious about recent security failures, demands answers from Director of National Intelligence, Blake Sterling. When he doesn't receive the progress that he desires, Martinez decides to personally interrogate Michael Buchanan about his involvement in the assassination attempt. While Michael holds to his claim that he doesn't know who is involved, he inadvertently reveals incriminating evidence about someone deep inside the President's staff. Meanwhile, Dempsey dispatches Vicky on a new clandestine mission. And, elsewhere, Sean and Leila  scramble to stay ahead of the covert ops that are trying to silence them and what they know.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>161</RatingCount>
+  <RatingCount>162</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|David H. Goodman|James Wong|</Writer>
   <absolute_number>8</absolute_number>
   <filename>episodes/163531/2997681.jpg</filename>
-  <lastupdated>1329595761</lastupdated>
+  <lastupdated>1406030729</lastupdated>
   <seasonid>285101</seasonid>
   <seriesid>163531</seriesid>
   <thumb_added></thumb_added>
@@ -333,7 +333,7 @@
   <Writer>|Dan Dworkin|Jay Beattie|</Writer>
   <absolute_number>9</absolute_number>
   <filename>episodes/163531/2997691.jpg</filename>
-  <lastupdated>1330207393</lastupdated>
+  <lastupdated>1406030746</lastupdated>
   <seasonid>285101</seasonid>
   <seriesid>163531</seriesid>
   <thumb_added></thumb_added>
@@ -364,7 +364,7 @@
   <Writer>|David Schulner|Nick Wauters|</Writer>
   <absolute_number>10</absolute_number>
   <filename>episodes/163531/3039151.jpg</filename>
-  <lastupdated>1330295786</lastupdated>
+  <lastupdated>1406030755</lastupdated>
   <seasonid>285101</seasonid>
   <seriesid>163531</seriesid>
   <thumb_added></thumb_added>
@@ -390,12 +390,12 @@
   <Overview>Martinez and his Chief of Staff order their intelligence departments to determine the nature of Thomas' message and who it was sent to. Meanwhile, Thomas launches a surprise attack, Alaskan Senator Catherine Lewis threatens to go on national television to alert the public to the enemy among them, and Sean and Leila get a fresh lead on Samantha's location.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>127</RatingCount>
+  <RatingCount>128</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Leyani Diaz|Vanessa Rojas|David H. Goodman</Writer>
   <absolute_number>11</absolute_number>
   <filename>episodes/163531/3150021.jpg</filename>
-  <lastupdated>1330841121</lastupdated>
+  <lastupdated>1406031081</lastupdated>
   <seasonid>285101</seasonid>
   <seriesid>163531</seriesid>
   <thumb_added></thumb_added>
@@ -426,7 +426,7 @@
   <Writer>David Schulner|Dan Dworkin|Jay Beattie</Writer>
   <absolute_number>12</absolute_number>
   <filename>episodes/163531/3302511.jpg</filename>
-  <lastupdated>1330841167</lastupdated>
+  <lastupdated>1406031144</lastupdated>
   <seasonid>285101</seasonid>
   <seriesid>163531</seriesid>
   <thumb_added></thumb_added>
@@ -488,7 +488,7 @@
   <Writer>David H. Goodman|Nick Wauters</Writer>
   <absolute_number>14</absolute_number>
   <filename>episodes/163531/3832411.jpg</filename>
-  <lastupdated>1331496874</lastupdated>
+  <lastupdated>1406030817</lastupdated>
   <seasonid>285101</seasonid>
   <seriesid>163531</seriesid>
   <thumb_added></thumb_added>
@@ -519,7 +519,7 @@
   <Writer>David Schulner|Lisa Zwerling</Writer>
   <absolute_number>15</absolute_number>
   <filename>episodes/163531/3900061.jpg</filename>
-  <lastupdated>1385810156</lastupdated>
+  <lastupdated>1406030829</lastupdated>
   <seasonid>285101</seasonid>
   <seriesid>163531</seriesid>
   <thumb_added></thumb_added>
@@ -550,7 +550,7 @@
   <Writer>Dan Dworkin|Jay Beattie</Writer>
   <absolute_number>16</absolute_number>
   <filename>episodes/163531/3900101.jpg</filename>
-  <lastupdated>1385810146</lastupdated>
+  <lastupdated>1406030842</lastupdated>
   <seasonid>285101</seasonid>
   <seriesid>163531</seriesid>
   <thumb_added></thumb_added>
@@ -581,7 +581,7 @@
   <Writer>Evan Katz|James Wong</Writer>
   <absolute_number>17</absolute_number>
   <filename>episodes/163531/4048651.jpg</filename>
-  <lastupdated>1333259146</lastupdated>
+  <lastupdated>1406030852</lastupdated>
   <seasonid>285101</seasonid>
   <seriesid>163531</seriesid>
   <thumb_added></thumb_added>
@@ -612,7 +612,7 @@
   <Writer>Dan Dworkin|Jay Beattie</Writer>
   <absolute_number>18</absolute_number>
   <filename>episodes/163531/4065681.jpg</filename>
-  <lastupdated>1385810078</lastupdated>
+  <lastupdated>1406030861</lastupdated>
   <seasonid>285101</seasonid>
   <seriesid>163531</seriesid>
   <thumb_added></thumb_added>
@@ -643,7 +643,7 @@
   <Writer>David H. Goodman</Writer>
   <absolute_number>19</absolute_number>
   <filename>episodes/163531/4078243.jpg</filename>
-  <lastupdated>1385810027</lastupdated>
+  <lastupdated>1406030874</lastupdated>
   <seasonid>285101</seasonid>
   <seriesid>163531</seriesid>
   <thumb_added></thumb_added>
@@ -675,7 +675,7 @@
   <Writer>David Schulner</Writer>
   <absolute_number>20</absolute_number>
   <filename>episodes/163531/4081067.jpg</filename>
-  <lastupdated>1385810015</lastupdated>
+  <lastupdated>1406030891</lastupdated>
   <seasonid>285101</seasonid>
   <seriesid>163531</seriesid>
   <thumb_added></thumb_added>
@@ -706,7 +706,7 @@
   <Writer>Leyani Diaz|Vanessa Rojas</Writer>
   <absolute_number>21</absolute_number>
   <filename>episodes/163531/4085153.jpg</filename>
-  <lastupdated>1386331834</lastupdated>
+  <lastupdated>1406030909</lastupdated>
   <seasonid>285101</seasonid>
   <seriesid>163531</seriesid>
   <thumb_added></thumb_added>

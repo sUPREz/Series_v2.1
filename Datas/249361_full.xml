@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Data><Series>
   <id>249361</id>
-  <Actors>|Kelsey Grammer|Connie Neilsen|Hannah Ware|Jeff Hephner|Kathleen Robertson|Troy Garity|Rotimi Akinosho|James Vincent Meredith|Martin Donovan|Francis Guinan|Nicole Forester|Jonathan Groff|Sanaa Lathan|Karen Aldridge|Amy Morton|Tip &quot;T.I&quot; Harris||||||||||</Actors>
+  <Actors>|Kelsey Grammer|Connie Neilsen|Hannah Ware|Jeff Hephner|Kathleen Robertson|Troy Garity|Rotimi Akinosho|James Vincent Meredith|Martin Donovan|Francis Guinan|Nicole Forester|Jonathan Groff|Sanaa Lathan|Karen Aldridge|Amy Morton|Tip &quot;T.I&quot; Harris|</Actors>
   <Airs_DayOfWeek>Friday</Airs_DayOfWeek>
   <Airs_Time>10:00 PM</Airs_Time>
   <ContentRating>TV-MA</ContentRating>
@@ -22,7 +22,7 @@
   <addedBy>76261</addedBy>
   <banner>graphical/249361-g2.jpg</banner>
   <fanart>fanart/original/249361-3.jpg</fanart>
-  <lastupdated>1405558175</lastupdated>
+  <lastupdated>1414949832</lastupdated>
   <poster>posters/249361-1.jpg</poster>
   <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>SH01416046</zap2it_id>
@@ -299,7 +299,7 @@
   <Writer>Dee Johnson</Writer>
   <absolute_number>9</absolute_number>
   <filename>episodes/249361/4351826.jpg</filename>
-  <lastupdated>1391032487</lastupdated>
+  <lastupdated>1414949009</lastupdated>
   <seasonid>495536</seasonid>
   <seriesid>249361</seriesid>
   <thumb_added></thumb_added>
@@ -330,7 +330,7 @@
   <Writer>Bradford Winters</Writer>
   <absolute_number>10</absolute_number>
   <filename>episodes/249361/4351827.jpg</filename>
-  <lastupdated>1391032525</lastupdated>
+  <lastupdated>1414949043</lastupdated>
   <seasonid>495536</seasonid>
   <seriesid>249361</seriesid>
   <thumb_added></thumb_added>
@@ -361,7 +361,7 @@
   <Writer>Angelina Burnett</Writer>
   <absolute_number>11</absolute_number>
   <filename>episodes/249361/4351828.jpg</filename>
-  <lastupdated>1391032552</lastupdated>
+  <lastupdated>1414949116</lastupdated>
   <seasonid>495536</seasonid>
   <seriesid>249361</seriesid>
   <thumb_added></thumb_added>
@@ -392,7 +392,7 @@
   <Writer>Julie Hébert</Writer>
   <absolute_number>12</absolute_number>
   <filename>episodes/249361/4351829.jpg</filename>
-  <lastupdated>1391032568</lastupdated>
+  <lastupdated>1414949179</lastupdated>
   <seasonid>495536</seasonid>
   <seriesid>249361</seriesid>
   <thumb_added></thumb_added>
@@ -423,7 +423,7 @@
   <Writer>Kevin J. Hynes</Writer>
   <absolute_number>13</absolute_number>
   <filename>episodes/249361/4351830.jpg</filename>
-  <lastupdated>1391032588</lastupdated>
+  <lastupdated>1414949242</lastupdated>
   <seasonid>495536</seasonid>
   <seriesid>249361</seriesid>
   <thumb_added></thumb_added>
@@ -454,7 +454,7 @@
   <Writer>Bradford Winters</Writer>
   <absolute_number>14</absolute_number>
   <filename>episodes/249361/4351831.jpg</filename>
-  <lastupdated>1391032623</lastupdated>
+  <lastupdated>1414949329</lastupdated>
   <seasonid>495536</seasonid>
   <seriesid>249361</seriesid>
   <thumb_added></thumb_added>
@@ -485,7 +485,7 @@
   <Writer>Angelina Burnett</Writer>
   <absolute_number>15</absolute_number>
   <filename>episodes/249361/4351832.jpg</filename>
-  <lastupdated>1391032643</lastupdated>
+  <lastupdated>1414949403</lastupdated>
   <seasonid>495536</seasonid>
   <seriesid>249361</seriesid>
   <thumb_added></thumb_added>
@@ -516,7 +516,7 @@
   <Writer>Paul Keables</Writer>
   <absolute_number>16</absolute_number>
   <filename>episodes/249361/4351833.jpg</filename>
-  <lastupdated>1391032662</lastupdated>
+  <lastupdated>1414949458</lastupdated>
   <seasonid>495536</seasonid>
   <seriesid>249361</seriesid>
   <thumb_added></thumb_added>
@@ -547,7 +547,7 @@
   <Writer>Julie Hébert</Writer>
   <absolute_number>17</absolute_number>
   <filename>episodes/249361/4351834.jpg</filename>
-  <lastupdated>1391032680</lastupdated>
+  <lastupdated>1414949531</lastupdated>
   <seasonid>495536</seasonid>
   <seriesid>249361</seriesid>
   <thumb_added></thumb_added>
@@ -578,7 +578,7 @@
   <Writer>Dee Johnson</Writer>
   <absolute_number>18</absolute_number>
   <filename>episodes/249361/4351835.jpg</filename>
-  <lastupdated>1391032726</lastupdated>
+  <lastupdated>1414949570</lastupdated>
   <seasonid>495536</seasonid>
   <seriesid>249361</seriesid>
   <thumb_added></thumb_added>

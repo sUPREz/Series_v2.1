@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Data><Series>
+  <id>281622</id>
+  <Actors>||</Actors>
+  <Airs_DayOfWeek></Airs_DayOfWeek>
+  <Airs_Time></Airs_Time>
+  <ContentRating></ContentRating>
+  <FirstAired></FirstAired>
+  <Genre>|Comedy|</Genre>
+  <IMDB_ID>tt3230454</IMDB_ID>
+  <Language>en</Language>
+  <Network>FOX</Network>
+  <NetworkID></NetworkID>
+  <Overview>Will Forte created and stars in this comedy series about two strangers who, after the apocalypse, must put aside their differences to ensure the survival of the human race. </Overview>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <Runtime>30</Runtime>
+  <SeriesID></SeriesID>
+  <SeriesName>The Last Man on Earth</SeriesName>
+  <Status>Continuing</Status>
+  <added>2014-05-12 06:52:24</added>
+  <addedBy>356771</addedBy>
+  <banner>graphical/281622-g2.jpg</banner>
+  <fanart>fanart/original/281622-1.jpg</fanart>
+  <lastupdated>1412618051</lastupdated>
+  <poster>posters/281622-1.jpg</poster>
+  <tms_wanted_old>0</tms_wanted_old>
+  <zap2it_id></zap2it_id>
+</Series>
+<Episode>
+  <id>4881985</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Pilot</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1408772185</lastupdated>
+  <seasonid>585440</seasonid>
+  <seriesid>281622</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+</Data>

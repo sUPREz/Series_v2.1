@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Data><Series>
   <id>76156</id>
-  <Actors>|Zach Braff|Donald Faison|Sarah Chalke|Christa Miller|Aloma Wright|Robert Maschio|Sam Lloyd|Neil Flynn|Ken Jenkins|Judy Reyes|John C. McGinley|Travis Schuldt|Johnny Kastl|Heather Graham|Michael Mosley|Kerry Bishé|Dave Franco|Eliza Coupe|</Actors>
+  <Actors>|Zach Braff|Donald Faison|Sarah Chalke|Judy Reyes|John C. McGinley|Neil Flynn|Ken Jenkins|Christa Miller|Aloma Wright|Robert Maschio|Sam Lloyd|Travis Schuldt|Johnny Kastl|Heather Graham|Michael Mosley|Kerry Bishé|Dave Franco|Eliza Coupe|</Actors>
   <Airs_DayOfWeek>Wednesday</Airs_DayOfWeek>
   <Airs_Time>8:00 PM</Airs_Time>
   <ContentRating>TV-PG</ContentRating>
@@ -13,7 +13,7 @@
   <NetworkID></NetworkID>
   <Overview>Scrubs focuses on the lives of several people working at Sacred Heart, a teaching hospital. It features fast-paced dialogue, slapstick, and surreal vignettes presented mostly as the daydreams of the central character, Dr. John Michael &quot;J.D.&quot; Dorian.</Overview>
   <Rating>9.0</Rating>
-  <RatingCount>266</RatingCount>
+  <RatingCount>268</RatingCount>
   <Runtime>30</Runtime>
   <SeriesID>3613</SeriesID>
   <SeriesName>Scrubs</SeriesName>
@@ -22,7 +22,7 @@
   <addedBy></addedBy>
   <banner>graphical/76156-g9.jpg</banner>
   <fanart>fanart/original/76156-11.jpg</fanart>
-  <lastupdated>1405516930</lastupdated>
+  <lastupdated>1414966782</lastupdated>
   <poster>posters/76156-6.jpg</poster>
   <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>EP00446160</zap2it_id>
@@ -513,7 +513,7 @@ As Sunny states that she has to give the camcorder to her sister so she can reco
   <Overview>John Dorian, &quot;J.D.&quot; to friends, is a boyishly handsome, self-deprecatingly funny, likeable guy who would be confident if he only realized his assets. Four years of medical school have prepared J.D. for his first day as an intern at Sacred Heart Hospital - but he has his doubts. As J.D. is thrown into the chaotic world of hospital life, we not only get to see the quirky characters that he encounters, but also hear the humorous commentary of thoughts streaming through J.D.'s head. By J.D.'s side is his best friend since college, the handsome and confident Chris Turk. As a new surgical intern, Turk struts around with a gregarious and cocky demeanor that hides a terror that he only admits to J.D. Both guys initially have the hots for their attractive fellow intern, Elliot Reid, but J.D. quickly finds out her beauty is only surpassed by her hyper-competitive attitude. Guiding the interns' education are those with more medical experience. Dr. Robert &quot;Bob&quot; Kelso, Chief of Medicine, wants the interns to think they can count on him. On the other side of the personality spectrum is Dr. Percival &quot;Perry&quot; Cox, a steamroller of a man short on patience. Watching over the interns with a caustically teasing but caring demeanor, is nurse Carla Espinosa, a woman who is motherly and sexy at the same time - which appeals mightily to Turk.</Overview>
   <ProductionCode>535G</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>84</RatingCount>
+  <RatingCount>85</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Bill Lawrence</Writer>
   <absolute_number>1</absolute_number>
@@ -545,7 +545,7 @@ As Sunny states that she has to give the camcorder to her sister so she can reco
 </Overview>
   <ProductionCode>S101</ProductionCode>
   <Rating>7.2</Rating>
-  <RatingCount>69</RatingCount>
+  <RatingCount>70</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Bill Lawrence</Writer>
   <absolute_number>2</absolute_number>
@@ -609,7 +609,7 @@ As Sunny states that she has to give the camcorder to her sister so she can reco
 </Overview>
   <ProductionCode>S103</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>53</RatingCount>
+  <RatingCount>54</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Matt Tarses</Writer>
   <absolute_number>4</absolute_number>
@@ -641,7 +641,7 @@ As Sunny states that she has to give the camcorder to her sister so she can reco
 </Overview>
   <ProductionCode>S104</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>61</RatingCount>
+  <RatingCount>62</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Garrett Donovan|Neil Goldman|</Writer>
   <absolute_number>5</absolute_number>
@@ -673,8 +673,8 @@ As Sunny states that she has to give the camcorder to her sister so she can reco
 Meanwhile, Elliot is assigned to take care of a shrink whose jaw has been wired shut, and for whom she ends up becoming a patient. Carla's mom makes a scandal after Turk spends the night at Carla's, and when she breaks her leg, Carla blames Turk for it.
 </Overview>
   <ProductionCode>S105</ProductionCode>
-  <Rating>7.3</Rating>
-  <RatingCount>54</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>55</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Gabrielle Allan</Writer>
   <absolute_number>6</absolute_number>
@@ -707,7 +707,7 @@ Meanwhile, Turk is having problems at the operation table and doesn't tell Carla
 And Dr. Cox gives Turk a very unique suggestion on how to calm down before surgery.</Overview>
   <ProductionCode>106</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>52</RatingCount>
+  <RatingCount>53</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Mike Schwartz</Writer>
   <absolute_number>7</absolute_number>
@@ -739,8 +739,8 @@ And Dr. Cox gives Turk a very unique suggestion on how to calm down before surge
 Meanwhile, J.D. worries about his evaluation. Elliot is going out with Carla, but in the last minute she blows her off and later Elliot runs into her in a bar.
 </Overview>
   <ProductionCode>S108</ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>52</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>53</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Eric Weinberg</Writer>
   <absolute_number>8</absolute_number>
@@ -773,7 +773,7 @@ Meanwhile, Dr. Cox is trying to show off to his mentor, Dr. Benson, the ex-chief
 </Overview>
   <ProductionCode>S107</ProductionCode>
   <Rating>7.2</Rating>
-  <RatingCount>51</RatingCount>
+  <RatingCount>52</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Janae Bakken</Writer>
   <absolute_number>9</absolute_number>
@@ -806,7 +806,7 @@ Elsewhere, Dr. Cox gives Elliot the evil eye when she won't discharge a troubles
 </Overview>
   <ProductionCode>S110</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>54</RatingCount>
+  <RatingCount>55</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Bill Lawrence</Writer>
   <absolute_number>10</absolute_number>
@@ -838,8 +838,8 @@ Elsewhere, Dr. Cox gives Elliot the evil eye when she won't discharge a troubles
 Dr. Cox has J.D. videotape the birth of the child of one of his friends.
 </Overview>
   <ProductionCode>S109</ProductionCode>
-  <Rating>7.3</Rating>
-  <RatingCount>53</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>54</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Debra Fordham</Writer>
   <absolute_number>11</absolute_number>
@@ -872,7 +872,7 @@ Elliot is desperate for some attention from Dr. Cox. Meanwhile, Turk snaps at Ca
 </Overview>
   <ProductionCode>S112</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>52</RatingCount>
+  <RatingCount>53</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Mark Stegemann</Writer>
   <absolute_number>12</absolute_number>
@@ -904,7 +904,7 @@ Elliot is desperate for some attention from Dr. Cox. Meanwhile, Turk snaps at Ca
 </Overview>
   <ProductionCode>S113</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>50</RatingCount>
+  <RatingCount>51</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Neil Goldman|Garrett Donovan|</Writer>
   <absolute_number>13</absolute_number>
@@ -968,8 +968,8 @@ Meanwhile, Dr. Kelso gives Carla a ride to work and she sees a totally different
   <Overview>After going to bed and spending an entire day having sex, J.D. and Elliot go to work trying to hide their new secret romance, but everybody already knows it.
 </Overview>
   <ProductionCode>S115</ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>54</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>55</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Gabrielle Allan</Writer>
   <absolute_number>15</absolute_number>
@@ -1001,7 +1001,7 @@ Meanwhile, Dr. Kelso gives Carla a ride to work and she sees a totally different
 </Overview>
   <ProductionCode>S116</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>46</RatingCount>
+  <RatingCount>47</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Mike Schwartz</Writer>
   <absolute_number>16</absolute_number>
@@ -1065,7 +1065,7 @@ Meanwhile, Dr. Kelso gives Carla a ride to work and she sees a totally different
 Meanwhile, Elliot is convinced that Dr. Kelso is the one singing a song called &quot;Tuscaloosa Heart&quot; on a tape given to her by a patient who claims he went to college with Bob. And Dr. Cox finds himself trapped in a love square: He's falling in love with Kristen Murphy, his intern, just as his ex-wife reappears demanding sex – and there's also his crush on Carla.</Overview>
   <ProductionCode>S117</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>48</RatingCount>
+  <RatingCount>49</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Debra Fordham|Mark Stegemann|</Writer>
   <absolute_number>18</absolute_number>
@@ -1097,7 +1097,7 @@ Meanwhile, Elliot is convinced that Dr. Kelso is the one singing a song called &
 </Overview>
   <ProductionCode>S120</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>48</RatingCount>
+  <RatingCount>49</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Matt Tarses</Writer>
   <absolute_number>19</absolute_number>
@@ -1130,7 +1130,7 @@ Meanwhile, Dr. Cox finally has a taste of good coffee, but thanks to his feud wi
 </Overview>
   <ProductionCode>S118</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>45</RatingCount>
+  <RatingCount>46</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Eric Weinberg</Writer>
   <absolute_number>20</absolute_number>
@@ -1163,7 +1163,7 @@ Meanwhile, Elliot has a hard time combining her new relationship and keeping up 
 </Overview>
   <ProductionCode>S119</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>42</RatingCount>
+  <RatingCount>43</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Janae Bakken|Mark Stegemann|</Writer>
   <absolute_number>21</absolute_number>
@@ -1195,7 +1195,7 @@ Meanwhile, Elliot has a hard time combining her new relationship and keeping up 
 </Overview>
   <ProductionCode>S122</ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>44</RatingCount>
+  <RatingCount>45</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Bill Lawrence</Writer>
   <absolute_number>22</absolute_number>
@@ -1227,8 +1227,8 @@ Meanwhile, Elliot has a hard time combining her new relationship and keeping up 
 Meanwhile, Turk and Elliot have their own issues to deal with. Turk is upset because he wasn't chosen to assist on a difficult surgery and Elliot is criticized during rounds by Dr. Kelso for the 100th time.
 </Overview>
   <ProductionCode>S123</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>45</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>46</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Garrett Donovan|Neil Goldman|</Writer>
   <absolute_number>23</absolute_number>
@@ -1261,7 +1261,7 @@ Jordan has returned to get a physical and a new patient, Mr. Bober, has been adm
 </Overview>
   <ProductionCode>S121</ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>48</RatingCount>
+  <RatingCount>49</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Mike Schwartz|Gabrielle Allan|</Writer>
   <absolute_number>24</absolute_number>
@@ -1293,7 +1293,7 @@ Jordan has returned to get a physical and a new patient, Mr. Bober, has been adm
 </Overview>
   <ProductionCode>S126</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>49</RatingCount>
+  <RatingCount>50</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Bill Lawrence</Writer>
   <absolute_number>25</absolute_number>
@@ -1326,7 +1326,7 @@ Meanwhile, Dr. Cox doesn't know what to do, when he realizes that he has feeling
 </Overview>
   <ProductionCode>S128</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>44</RatingCount>
+  <RatingCount>45</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Eric Weinberg</Writer>
   <absolute_number>26</absolute_number>
@@ -1359,7 +1359,7 @@ In the meantime, Turk misses his opportunity to ask for a new laser on the one d
 </Overview>
   <ProductionCode>S129</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>43</RatingCount>
+  <RatingCount>44</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Gabrielle Allan</Writer>
   <absolute_number>27</absolute_number>
@@ -1391,7 +1391,7 @@ In the meantime, Turk misses his opportunity to ask for a new laser on the one d
 </Overview>
   <ProductionCode>S125</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>43</RatingCount>
+  <RatingCount>44</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Mark Stegemann</Writer>
   <absolute_number>28</absolute_number>
@@ -1423,7 +1423,7 @@ In the meantime, Turk misses his opportunity to ask for a new laser on the one d
 </Overview>
   <ProductionCode>S127</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>48</RatingCount>
+  <RatingCount>49</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Matt Tarses</Writer>
   <absolute_number>29</absolute_number>
@@ -1455,7 +1455,7 @@ In the meantime, Turk misses his opportunity to ask for a new laser on the one d
 </Overview>
   <ProductionCode>S130</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>41</RatingCount>
+  <RatingCount>42</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Tim Hobert</Writer>
   <absolute_number>30</absolute_number>
@@ -1488,7 +1488,7 @@ Meanwhile, J.D. and Elliot argue over a risky decision regarding one of Elliot's
 </Overview>
   <ProductionCode>S131</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>37</RatingCount>
+  <RatingCount>38</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Mike Schwartz</Writer>
   <absolute_number>31</absolute_number>
@@ -1519,8 +1519,8 @@ Meanwhile, J.D. and Elliot argue over a risky decision regarding one of Elliot's
   <Overview>When an expectant Jordan shows up unexpectedly, Cox is forced to choose between her and his new love, Julie.
 Meanwhile, J.D. and Turk take advantage of the hospital's supply closet for sleep, when they take on extra shifts at a free clinic to supplement their income. Carla encourages Elliot to stand up to her father, when he pressures her to pick a specialty more &quot;suitable for a woman.&quot;</Overview>
   <ProductionCode>S132</ProductionCode>
-  <Rating>7.3</Rating>
-  <RatingCount>38</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>39</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Janae Bakken</Writer>
   <absolute_number>32</absolute_number>
@@ -1553,7 +1553,7 @@ Meanwhile, J.D. has a fight with Dr. Cox and the two dispute over who gets to gi
 </Overview>
   <ProductionCode>S133</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>40</RatingCount>
+  <RatingCount>41</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Debra Fordham</Writer>
   <absolute_number>33</absolute_number>
@@ -1585,7 +1585,7 @@ Meanwhile, J.D. has a fight with Dr. Cox and the two dispute over who gets to gi
 </Overview>
   <ProductionCode>S135</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>41</RatingCount>
+  <RatingCount>42</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Angela Nissel</Writer>
   <absolute_number>34</absolute_number>
@@ -1616,8 +1616,8 @@ Meanwhile, J.D. has a fight with Dr. Cox and the two dispute over who gets to gi
   <Overview>Renewed sex with J.D. calms Elliot, who's facing personal and professional dilemmas: She's broke, and patients are bailing out on her.
 </Overview>
   <ProductionCode>S134</ProductionCode>
-  <Rating>7.3</Rating>
-  <RatingCount>39</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>40</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Garrett Donovan|Neil Goldman|</Writer>
   <absolute_number>35</absolute_number>
@@ -1649,7 +1649,7 @@ Meanwhile, J.D. has a fight with Dr. Cox and the two dispute over who gets to gi
 </Overview>
   <ProductionCode>S136</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>37</RatingCount>
+  <RatingCount>38</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Gabrielle Allan</Writer>
   <absolute_number>36</absolute_number>
@@ -1680,8 +1680,8 @@ Meanwhile, J.D. has a fight with Dr. Cox and the two dispute over who gets to gi
   <Overview>J.D. bonds with a patient, who is waiting for a heart transplant and discusses with her their idea of what death must be like. Elliot puts her foot down and demands a feminine locker room from Dr. Kelso. Turk decides it's time to propose to Carla, but a kid swallows the engagement ring.
 </Overview>
   <ProductionCode>S137</ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>41</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>42</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Matt Tarses|Tim Hobbes|</Writer>
   <absolute_number>37</absolute_number>
@@ -1714,7 +1714,7 @@ Elliot accidentally finds out the sex of Jordan's baby, becoming the object of D
 </Overview>
   <ProductionCode>S138</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>37</RatingCount>
+  <RatingCount>38</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Eric Weinberg</Writer>
   <absolute_number>38</absolute_number>
@@ -1746,7 +1746,7 @@ Elliot accidentally finds out the sex of Jordan's baby, becoming the object of D
 </Overview>
   <ProductionCode>S139</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>36</RatingCount>
+  <RatingCount>37</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Bonnie Schneider|Hadley Davis|</Writer>
   <absolute_number>39</absolute_number>
@@ -1777,8 +1777,8 @@ Elliot accidentally finds out the sex of Jordan's baby, becoming the object of D
   <Overview>J.D. and Turk think they've got bad karma after hitting a car and causing an accident, while playing golf on the hospital roof. Dr. Cox bends over backwards to give Jordan as much comfort as possible on her labor day, and she confesses to J.D. that Dr. Cox is the real father. Elliot seeks advice from Carla on how to tell Paul that she's crazy, because they're getting more intimate and she can't hide it anymore. But Carla is feeling too crazy herself with the upcoming wedding.
 </Overview>
   <ProductionCode>S141</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>36</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>37</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Janae Bakken|Debra Fordham|</Writer>
   <absolute_number>40</absolute_number>
@@ -1809,8 +1809,8 @@ Elliot accidentally finds out the sex of Jordan's baby, becoming the object of D
   <Overview>A personal secret of Dr. Cox is revealed during hospital visitations by a cocky MD (Jay Mohr), who establishes a rapport with J.D.
 </Overview>
   <ProductionCode>S140</ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>39</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>40</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Angela Nissel|Mark Stegemann|</Writer>
   <absolute_number>41</absolute_number>
@@ -1842,7 +1842,7 @@ Elliot accidentally finds out the sex of Jordan's baby, becoming the object of D
 </Overview>
   <ProductionCode>S142</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>40</RatingCount>
+  <RatingCount>41</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Bill Lawrence</Writer>
   <absolute_number>42</absolute_number>
@@ -1873,8 +1873,8 @@ Elliot accidentally finds out the sex of Jordan's baby, becoming the object of D
   <Overview>Turk takes J.D. up to surgery, and right from the start J.D. steps all over Turk when trying not to be the geek among the surgeons. Paul hears Elliot say &quot;I love U2&quot; while she was rearranging her CDs and thinks she said &quot;I love you too.&quot; Dr. Cox decides to get even with Dr. Kelso by telling everyone he's dead, revealing what people really think of him.
 </Overview>
   <ProductionCode>S143</ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>39</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>40</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>April Pesa</Writer>
   <absolute_number>43</absolute_number>
@@ -1905,8 +1905,8 @@ Elliot accidentally finds out the sex of Jordan's baby, becoming the object of D
   <Overview>Jamie's (T.C.W.) husband died, and J.D. struggles with the ethical issues involved in starting a relationship with her. Dr. Cox babysits his son, whom Jordan still hasn't chosen a name for, and is disturbed that he feels nothing for the baby. Turk is haunted by erotic dreams about Elliot, which gets him into hot water with Carla.
 </Overview>
   <ProductionCode>S144</ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>39</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>40</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Garrett Donovan|Neil Goldman|</Writer>
   <absolute_number>44</absolute_number>
@@ -1937,8 +1937,8 @@ Elliot accidentally finds out the sex of Jordan's baby, becoming the object of D
   <Overview>J.D. carries on with his romance with Jamie, but finds himself at a dead end after realizing she's a drama queen. Dr. Kelso makes Dr. Cox give a class on how to approach the patients nicely in order to prevent possible law suits. Carla's mother dies and she wants to get married.
 </Overview>
   <ProductionCode>S145</ProductionCode>
-  <Rating>7.3</Rating>
-  <RatingCount>43</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>44</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Will Berson</Writer>
   <absolute_number>45</absolute_number>
@@ -2002,7 +2002,7 @@ Meanwhile, J.D. gets stuck with a patient, whose diagnosis he can't quite pin do
 </Overview>
   <ProductionCode>301</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>50</RatingCount>
+  <RatingCount>51</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Bill Lawrence</Writer>
   <absolute_number>47</absolute_number>
@@ -2035,7 +2035,7 @@ Meanwhile, Carla is driven crazy over an unidentified urine sample, and Elliot t
 </Overview>
   <ProductionCode>302</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>41</RatingCount>
+  <RatingCount>42</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Tim Hobert</Writer>
   <absolute_number>48</absolute_number>
@@ -2067,8 +2067,8 @@ Meanwhile, Carla is driven crazy over an unidentified urine sample, and Elliot t
 Dr. Cox finds the ideal pediatrician for his son: Dr. Norris, who acts and looks just like him. However, Dr. Cox is quick to find a problem with him once Jack develops a cough that scares both him and Jordan.
 </Overview>
   <ProductionCode>303</ProductionCode>
-  <Rating>7.3</Rating>
-  <RatingCount>38</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>39</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Eric Weinberg</Writer>
   <absolute_number>50</absolute_number>
@@ -2101,8 +2101,8 @@ Dr. Cox. is forced to swallow his pride and actually ask for help when he decide
 Carla picks up an extra shift as a surgical nurse, which allows her to spend the day working alongside with Turk, to his great annoyance.
 </Overview>
   <ProductionCode>304</ProductionCode>
-  <Rating>7.2</Rating>
-  <RatingCount>39</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>40</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Garrett Donovan|Neil Goldman|</Writer>
   <absolute_number>51</absolute_number>
@@ -2135,7 +2135,7 @@ Elliot tries to deal with her own problems of a long distance relationship and d
 </Overview>
   <ProductionCode>305</ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>41</RatingCount>
+  <RatingCount>42</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Mike Schwartz</Writer>
   <absolute_number>52</absolute_number>
@@ -2169,7 +2169,7 @@ At the hospital, Dr. Cox relishes his new job promotion but is surprised when J.
 </Overview>
   <ProductionCode>306</ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>45</RatingCount>
+  <RatingCount>46</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Debra Fordham</Writer>
   <absolute_number>53</absolute_number>
@@ -2202,8 +2202,8 @@ Meanwhile, as they each deal with problems in their own relationships, Carla and
 Dr. Kelso accidentally punctures his eardrums giving the hospital staff an opportunity to tell him how they truly feel about him.
 </Overview>
   <ProductionCode>307</ProductionCode>
-  <Rating>7.3</Rating>
-  <RatingCount>43</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>44</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Mark Stegemann</Writer>
   <absolute_number>54</absolute_number>
@@ -2236,8 +2236,8 @@ Dr. Cox dreads the fact that he is getting older.
 J.D. also makes a discovery as he finds out that many of the hospital staff don't know the Janitor as he does.
 </Overview>
   <ProductionCode>308</ProductionCode>
-  <Rating>7.2</Rating>
-  <RatingCount>42</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>43</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Gabrielle Allan</Writer>
   <absolute_number>55</absolute_number>
@@ -2368,8 +2368,8 @@ Dr. Cox suddenly becomes a nice guy and Elliot changes back to her old self afte
 Meanwhile, the Janitor and his new assistant help Kelso out with a garbage problem.
 </Overview>
   <ProductionCode>312</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>42</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>43</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Bill Lawrence</Writer>
   <absolute_number>58</absolute_number>
@@ -2402,7 +2402,7 @@ Meanwhile, Turk asks J.D. to be his best man at his wedding, which sends J.D. in
 </Overview>
   <ProductionCode>313</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>39</RatingCount>
+  <RatingCount>40</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Tim Hobert|Eric Weinberg|</Writer>
   <absolute_number>59</absolute_number>
@@ -2434,7 +2434,7 @@ Meanwhile, Turk asks J.D. to be his best man at his wedding, which sends J.D. in
 </Overview>
   <ProductionCode>314</ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>48</RatingCount>
+  <RatingCount>49</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Neil Goldman|Garrett Donovan|</Writer>
   <absolute_number>60</absolute_number>
@@ -2466,8 +2466,8 @@ Meanwhile, Turk asks J.D. to be his best man at his wedding, which sends J.D. in
 Meanwhile, Turk tries to impress the new female surgeon, Dr. Miller, but his first encounter serves only to leave him baffled by the opposite sex yet again. Attempting to reinforce the policy on sexual harassment at Sacred Heart, Carla is forced to teach a course where Dr. Kelso is the number-one student.
 </Overview>
   <ProductionCode>315</ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>46</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>47</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Gabrielle Allan</Writer>
   <absolute_number>61</absolute_number>
@@ -2499,7 +2499,7 @@ Meanwhile, Turk tries to impress the new female surgeon, Dr. Miller, but his fir
 </Overview>
   <ProductionCode>316</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>44</RatingCount>
+  <RatingCount>45</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Justin Spitzer</Writer>
   <absolute_number>62</absolute_number>
@@ -2532,8 +2532,8 @@ Meanwhile, on the other side of the argument, Carla hounds Turk for checking out
 Elliot is also on the spot as Dr. Cox and Dr. Kelso both advise her not to give her patient drugs as they suspect he is an addict faking pain.
 </Overview>
   <ProductionCode>317</ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>38</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>39</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Rich Eustis</Writer>
   <absolute_number>63</absolute_number>
@@ -2566,7 +2566,7 @@ Meanwhile, one of Elliot's patients unintentionally teaches her a lesson about h
 </Overview>
   <ProductionCode>318</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>42</RatingCount>
+  <RatingCount>43</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Mark Stegemann</Writer>
   <absolute_number>64</absolute_number>
@@ -2599,7 +2599,7 @@ Meanwhile, Dr. Cox realizes, that he might actually have a crush on the one doct
 </Overview>
   <ProductionCode>319</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>43</RatingCount>
+  <RatingCount>44</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Mike Schwartz</Writer>
   <absolute_number>65</absolute_number>
@@ -2633,7 +2633,7 @@ Dr. Kelso outrages Dr. Cox when he announces that Sacred Heart will begin doing 
 </Overview>
   <ProductionCode>320</ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>42</RatingCount>
+  <RatingCount>43</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Debra Fordham</Writer>
   <absolute_number>66</absolute_number>
@@ -2667,7 +2667,7 @@ Carla's brother Marc constantly puts Turk in a tough situation, when Turk forget
 </Overview>
   <ProductionCode>321</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>42</RatingCount>
+  <RatingCount>43</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Janae Bakken</Writer>
   <absolute_number>67</absolute_number>
@@ -2700,7 +2700,7 @@ With Elliot still angry at him, J.D. attempts to reconcile her with Sean as a wa
 </Overview>
   <ProductionCode>322</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>45</RatingCount>
+  <RatingCount>46</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Tim Hobert|Eric Weinberg|</Writer>
   <absolute_number>68</absolute_number>
@@ -2731,12 +2731,12 @@ With Elliot still angry at him, J.D. attempts to reconcile her with Sean as a wa
   <Overview>The new Dr. Clock arrives with her spaced out personality and doesn't cease to call J.D. &quot;Johnny.&quot; But J.D. is fine with it, because there is nothing that is going to bring down his last week of being a resident before he officially becomes a full fledged doctor.</Overview>
   <ProductionCode>401</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>45</RatingCount>
+  <RatingCount>46</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Eric Weinberg</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76156/184671.jpg</filename>
-  <lastupdated>1299262198</lastupdated>
+  <lastupdated>1406455116</lastupdated>
   <seasonid>9775</seasonid>
   <seriesid>76156</seriesid>
   <thumb_added></thumb_added>
@@ -2763,8 +2763,8 @@ With Elliot still angry at him, J.D. attempts to reconcile her with Sean as a wa
 Meanwhile, Dr. Cox, Turk and the Janitor are forced to work together to help a patient.
 </Overview>
   <ProductionCode>402</ProductionCode>
-  <Rating>7.3</Rating>
-  <RatingCount>50</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>51</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Matt Tarses</Writer>
   <absolute_number></absolute_number>
@@ -2799,7 +2799,7 @@ Dr. Cox and Molly spar about her involvement in his patients.
 </Overview>
   <ProductionCode>403</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>43</RatingCount>
+  <RatingCount>44</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Gabrielle Allan</Writer>
   <absolute_number></absolute_number>
@@ -2833,7 +2833,7 @@ Carla loses Rowdy and she and the Janitor go looking for him.
 </Overview>
   <ProductionCode>404</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>41</RatingCount>
+  <RatingCount>42</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Tad Quill</Writer>
   <absolute_number></absolute_number>
@@ -2867,7 +2867,7 @@ Carla and Turk try to come to an agreement when Turk continuously wakes Carla up
 </Overview>
   <ProductionCode>405</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>44</RatingCount>
+  <RatingCount>45</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Angela Nissel</Writer>
   <absolute_number></absolute_number>
@@ -2899,8 +2899,8 @@ Carla and Turk try to come to an agreement when Turk continuously wakes Carla up
 Meanwhile, Dan sits drunk in the bath tub the whole day and Turk finds out he has Type II Diabetes.
 </Overview>
   <ProductionCode>406</ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>40</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>41</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Neil Goldman|Garrett Donovan|</Writer>
   <absolute_number></absolute_number>
@@ -2933,7 +2933,7 @@ Dr. Cox and Dr. Kelso unite to try and torment their common enemy: Dr. Clock.
 </Overview>
   <ProductionCode>407</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>45</RatingCount>
+  <RatingCount>46</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Bill Callahan</Writer>
   <absolute_number></absolute_number>
@@ -2965,8 +2965,8 @@ Dr. Cox and Dr. Kelso unite to try and torment their common enemy: Dr. Clock.
 Dr. Cox goes on ambulance duty with a maniac, who he eventually finds out is a woman who has lost her son to an accident.
 </Overview>
   <ProductionCode>408</ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>43</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>44</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Mike Schwartz</Writer>
   <absolute_number></absolute_number>
@@ -2999,7 +2999,7 @@ Meanwhile, Elliot guides Doug to a new career path and Turk struggles to avoid a
 </Overview>
   <ProductionCode>409</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>44</RatingCount>
+  <RatingCount>45</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Janae Bakken</Writer>
   <absolute_number></absolute_number>
@@ -3032,7 +3032,7 @@ Elliot sets out to prove she isn't the doctor she was four years ago and doesn't
 </Overview>
   <ProductionCode>410</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>45</RatingCount>
+  <RatingCount>46</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Debra Fordham</Writer>
   <absolute_number></absolute_number>
@@ -3065,7 +3065,7 @@ Meanwhile, Elliot is fed up with coworkers not taking her serious and discovers,
 </Overview>
   <ProductionCode>411</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>42</RatingCount>
+  <RatingCount>43</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Tad Quill|Gabrielle Allan|</Writer>
   <absolute_number></absolute_number>
@@ -3098,7 +3098,7 @@ Meanwhile, Elliot is forced to face her fear of children, when she must befriend
 </Overview>
   <ProductionCode>412</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>41</RatingCount>
+  <RatingCount>42</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Angela Nissel</Writer>
   <absolute_number></absolute_number>
@@ -3130,8 +3130,8 @@ Meanwhile, Elliot is forced to face her fear of children, when she must befriend
 Turk starts taking his diabetes more serious, when he realizes the dire consequences of the disease.
 </Overview>
   <ProductionCode>413</ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>47</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>48</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Mark Stegemann</Writer>
   <absolute_number></absolute_number>
@@ -3162,8 +3162,8 @@ Turk starts taking his diabetes more serious, when he realizes the dire conseque
   <Overview>A man injured in a bar fight teaches Turk and J.D. a lesson about living life to the fullest.
 </Overview>
   <ProductionCode>414</ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>48</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>49</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Mike Schwartz</Writer>
   <absolute_number></absolute_number>
@@ -3196,7 +3196,7 @@ Elliot decides to take a stand against Dr. Kelso with one of her patients. And D
 </Overview>
   <ProductionCode>415</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>43</RatingCount>
+  <RatingCount>44</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Tim Hobert</Writer>
   <absolute_number></absolute_number>
@@ -3230,7 +3230,7 @@ The Janitor makes a bet with Dr. Kelso, who is starving, that will make him pay 
 Also, Danni Sullivan returns to annoy everyone, causing a constant fight between Ted and Doug.</Overview>
   <ProductionCode>416</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>39</RatingCount>
+  <RatingCount>40</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Tad Quill</Writer>
   <absolute_number></absolute_number>
@@ -3262,8 +3262,8 @@ Also, Danni Sullivan returns to annoy everyone, causing a constant fight between
 Back in reality, Cox is relunctant to fire an amiable cafeteria worker, while Turk and Carla struggle to keep their promise of constant romantic affection afloat.
 </Overview>
   <ProductionCode>417</ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>44</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>45</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Debra Fordham</Writer>
   <absolute_number></absolute_number>
@@ -3296,8 +3296,8 @@ Turk and Carla continue to struggle to keep the romance alive.
 Dr. Cox has reason to believe that the son of an old buddy is autistic.
 </Overview>
   <ProductionCode>418</ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>41</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>42</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Tim Hobert</Writer>
   <absolute_number></absolute_number>
@@ -3331,7 +3331,7 @@ The Janitor and Dr. Cox make a wager over Elliot.
 </Overview>
   <ProductionCode>419</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>45</RatingCount>
+  <RatingCount>46</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Bill Callahan</Writer>
   <absolute_number></absolute_number>
@@ -3364,7 +3364,7 @@ J.D. and Turk party, while Carla struggles to find solace in Elliot.
 </Overview>
   <ProductionCode>420</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>42</RatingCount>
+  <RatingCount>43</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Mark Stegemann</Writer>
   <absolute_number></absolute_number>
@@ -3398,7 +3398,7 @@ Elliot has trouble with a male patient, who has taken enhancement pills.
 </Overview>
   <ProductionCode>421</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>44</RatingCount>
+  <RatingCount>45</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Janae Bakken</Writer>
   <absolute_number></absolute_number>
@@ -3433,7 +3433,7 @@ Jordan trys Botox.
 </Overview>
   <ProductionCode>422</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>40</RatingCount>
+  <RatingCount>41</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Bonnie Sikowitz</Writer>
   <absolute_number></absolute_number>
@@ -3468,7 +3468,7 @@ The Janitor accidently lets a bunch of rats run around Sacred Heart.
 </Overview>
   <ProductionCode>423</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>46</RatingCount>
+  <RatingCount>47</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>David Feinberg</Writer>
   <absolute_number></absolute_number>
@@ -3500,8 +3500,8 @@ The Janitor accidently lets a bunch of rats run around Sacred Heart.
 Dr. Cox teaches Turk about having a healthy ego and Dr. Kelso and the Janitor fight over who gets to use the motorized cart.
 </Overview>
   <ProductionCode>424</ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>41</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>42</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Angela Nissel</Writer>
   <absolute_number></absolute_number>
@@ -3534,8 +3534,8 @@ Jordan is hired to handle some paperwork for Kelso, which annoys Cox.
 Elliot has a job interview at a different hospital thanks to her boyfriend Jake.
 </Overview>
   <ProductionCode>425</ProductionCode>
-  <Rating>7.3</Rating>
-  <RatingCount>39</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>40</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Bill Lawrence</Writer>
   <absolute_number></absolute_number>
@@ -3567,7 +3567,7 @@ Elliot has a job interview at a different hospital thanks to her boyfriend Jake.
 </Overview>
   <ProductionCode>501</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>46</RatingCount>
+  <RatingCount>47</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Bill Lawrence</Writer>
   <absolute_number></absolute_number>
@@ -3600,7 +3600,7 @@ Everyone at the hospital is avoiding Jordan to get rid of her except for Turk. A
 </Overview>
   <ProductionCode>502</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>48</RatingCount>
+  <RatingCount>49</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Janae Bakken</Writer>
   <absolute_number></absolute_number>
@@ -3631,7 +3631,7 @@ Everyone at the hospital is avoiding Jordan to get rid of her except for Turk. A
   <Overview>While planning his birthday, J.D. finds a list of things he wanted to accomplish, before he turned 30. He enters a triathlon to begin. Meanwhile, Elliot discovers a side of her boyfriend Jake, that freaks her out. And Turk is working hard to impress his bosses and takes on a patient, who wants to be hypnotized during surgery in effort to be promoted.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>51</RatingCount>
+  <RatingCount>52</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Eric Weinberg</Writer>
   <absolute_number></absolute_number>
@@ -4229,7 +4229,7 @@ Turk starts his new rotation with orthopedic surgery, but isn't so fond of his a
   <DVD_season>5</DVD_season>
   <Director>Linda Mendoza</Director>
   <EpImgFlag></EpImgFlag>
-  <EpisodeName>My Deja Vu, My Deja Vu</EpisodeName>
+  <EpisodeName>My Déjà Vu, My Déjà Vu</EpisodeName>
   <EpisodeNumber>22</EpisodeNumber>
   <FirstAired>2006-05-09</FirstAired>
   <GuestStars>|Greg Wittman| Randall Winston| Carole Goldman| John David Conti| Matt Bush| Yvonne Arias| Keith Allan| Joe Rose| Jay Kenneth Johnson|</GuestStars>
@@ -4244,7 +4244,7 @@ Turk starts his new rotation with orthopedic surgery, but isn't so fond of his a
   <Writer>Mike Schwartz</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76156/307111.jpg</filename>
-  <lastupdated>1380664260</lastupdated>
+  <lastupdated>1408573048</lastupdated>
   <seasonid>9776</seasonid>
   <seriesid>76156</seriesid>
   <thumb_added></thumb_added>
@@ -6179,7 +6179,7 @@ Other people featuring are the Janitor as the giant, Keith as the prince, Dr. Ke
   <Writer>Leila Strachan</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76156/1309781.jpg</filename>
-  <lastupdated>1402851238</lastupdated>
+  <lastupdated>1406153413</lastupdated>
   <seasonid>70641</seasonid>
   <seriesid>76156</seriesid>
   <thumb_added></thumb_added>
@@ -6241,7 +6241,7 @@ Other people featuring are the Janitor as the giant, Keith as the prince, Dr. Ke
   <Writer>|Corey Nickerson|Kevin Etten|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/76156/1379741.jpg</filename>
-  <lastupdated>1403806557</lastupdated>
+  <lastupdated>1406153393</lastupdated>
   <seasonid>70641</seasonid>
   <seriesid>76156</seriesid>
   <thumb_added></thumb_added>

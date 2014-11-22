@@ -2,7 +2,7 @@
 <Data>
   <Series>
     <id>95451</id>
-    <Actors>|Julianna Margulies|Archie Panjabi|Josh Charles|Matthew Goode|Mary Beth Peil|Graham Phillips|Makenzie Vega|Alan Cumming|Matt Czuchry|Christine Baranski|Chris Noth|Zach Grenier|</Actors>
+    <Actors>|Julianna Margulies|Archie Panjabi|Josh Charles|Matthew Goode|Zach Grenier|Mary Beth Peil|Graham Phillips|Makenzie Vega|Alan Cumming|Matt Czuchry|Christine Baranski|Chris Noth|</Actors>
     <Airs_DayOfWeek>Sunday</Airs_DayOfWeek>
     <Airs_Time>9:00 PM</Airs_Time>
     <ContentRating>TV-14</ContentRating>
@@ -14,17 +14,17 @@
     <NetworkID></NetworkID>
     <Overview>The Good Wife is a drama starring Emmy Award winner Julianna Margulies as a wife and mother who must assume full responsibility for her family and re-enter the workforce after her husband's very public sex and political corruption scandal lands him in jail.</Overview>
     <Rating>8.6</Rating>
-    <RatingCount>99</RatingCount>
+    <RatingCount>104</RatingCount>
     <Runtime>60</Runtime>
     <SeriesID>76761</SeriesID>
     <SeriesName>The Good Wife</SeriesName>
     <Status>Continuing</Status>
     <added>2009-05-22 03:03:24</added>
     <addedBy>5664</addedBy>
-    <banner>graphical/95451-g10.jpg</banner>
-    <fanart>fanart/original/95451-23.jpg</fanart>
-    <lastupdated>1405598038</lastupdated>
-    <poster>posters/95451-8.jpg</poster>
+    <banner>graphical/95451-g9.jpg</banner>
+    <fanart>fanart/original/95451-6.jpg</fanart>
+    <lastupdated>1415048445</lastupdated>
+    <poster>posters/95451-6.jpg</poster>
     <tms_wanted_old>1</tms_wanted_old>
     <zap2it_id>EP01158384</zap2it_id>
   </Series>

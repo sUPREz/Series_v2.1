@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Data><Series>
   <id>250487</id>
-  <Actors>|Jessica Lange|Sarah Paulson|Evan Peters|Taissa Farmiga|Clea Duvall|Adam Levine|Chloë Sevigny|Joseph Fiennes|Lizzie Brocheré|Zachary Quinto|Lily Rabe|James Cromwell|Alex Breckenridge|Frances Conroy|Connie Britton|Zachary Quinto|Evan Peters|Denis O'Hare|Alexander Dreymon|Angela Bassett|Bodhi Schulz|Britne Oldford|Christine Estabrook|Dylan McDermott|Emma Roberts|Fredric Lehne|Gabourey Sidibe|Jamie Brewer|Jenna Dewan-Tatum|Jessica Lange|Josh Hamilton|Kai Schulz|Kate Mara|Kathy Bates|Matt Ross|Morris Chestnut|Naomi Grossman|Patti LuPone|Riley Schmidt|Teddy Sears|</Actors>
+  <Actors>|Jessica Lange|Sarah Paulson|Evan Peters|Taissa Farmiga|Angela Bassett|Kathy Bates|Emma Roberts|Clea Duvall|Adam Levine|Chloë Sevigny|Joseph Fiennes|Lizzie Brocheré|Zachary Quinto|Lily Rabe|James Cromwell|Alex Breckenridge|Denis O'Hare|Alexander Dreymon|Bodhi Schulz|Britne Oldford|Christine Estabrook|Connie Britton|Dylan McDermott|Evan Peters|Frances Conroy|Fredric Lehne|Gabourey Sidibe|Jamie Brewer|Jenna Dewan-Tatum|Jessica Lange|Josh Hamilton|Kai Schulz|Kate Mara|Matt Ross|Morris Chestnut|Naomi Grossman|Patti LuPone|Riley Schmidt|Teddy Sears|Zachary Quinto|</Actors>
   <Airs_DayOfWeek>Wednesday</Airs_DayOfWeek>
   <Airs_Time>10:00 PM</Airs_Time>
   <ContentRating>TV-MA</ContentRating>
@@ -13,710 +13,28 @@
   <NetworkID></NetworkID>
   <Overview>American Horror Story is a horror-drama television franchise created and produced by Ryan Murphy and Brad Falchuk. Described as an anthology series, each season is conceived as a self-contained miniseries, following a disparate set of characters and settings, and a storyline with its own &quot;beginning, middle and end&quot;.</Overview>
   <Rating>8.5</Rating>
-  <RatingCount>112</RatingCount>
+  <RatingCount>124</RatingCount>
   <Runtime>60</Runtime>
   <SeriesID>81011</SeriesID>
   <SeriesName>American Horror Story</SeriesName>
   <Status>Continuing</Status>
   <added>2011-07-26 07:19:34</added>
   <addedBy>346503</addedBy>
-  <banner>graphical/250487-g4.jpg</banner>
-  <fanart>fanart/original/250487-33.jpg</fanart>
-  <lastupdated>1405556444</lastupdated>
-  <poster>posters/250487-10.jpg</poster>
+  <banner>graphical/250487-g21.jpg</banner>
+  <fanart>fanart/original/250487-14.jpg</fanart>
+  <lastupdated>1414983545</lastupdated>
+  <poster>posters/250487-18.jpg</poster>
   <tms_wanted_old>1</tms_wanted_old>
-  <zap2it_id>SH01466178</zap2it_id>
+  <zap2it_id>EP01605266</zap2it_id>
 </Series>
 <Episode>
-  <id>4705909</id>
-  <Combined_episodenumber>2</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>Episode 4x02</EpisodeName>
-  <EpisodeNumber>2</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1383868261</lastupdated>
-  <seasonid>566642</seasonid>
-  <seriesid>250487</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4705910</id>
-  <Combined_episodenumber>3</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>Episode 4x03</EpisodeName>
-  <EpisodeNumber>3</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1383868271</lastupdated>
-  <seasonid>566642</seasonid>
-  <seriesid>250487</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4705911</id>
-  <Combined_episodenumber>4</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>Episode 4x04</EpisodeName>
-  <EpisodeNumber>4</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1383868280</lastupdated>
-  <seasonid>566642</seasonid>
-  <seriesid>250487</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4705912</id>
-  <Combined_episodenumber>5</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>Episode 4x05</EpisodeName>
-  <EpisodeNumber>5</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1383868383</lastupdated>
-  <seasonid>566642</seasonid>
-  <seriesid>250487</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4705913</id>
-  <Combined_episodenumber>6</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>Episode 4x06</EpisodeName>
-  <EpisodeNumber>6</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1383868471</lastupdated>
-  <seasonid>566642</seasonid>
-  <seriesid>250487</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4705914</id>
-  <Combined_episodenumber>7</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>Episode 4x07</EpisodeName>
-  <EpisodeNumber>7</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1383868482</lastupdated>
-  <seasonid>566642</seasonid>
-  <seriesid>250487</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4705915</id>
-  <Combined_episodenumber>8</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>Episode 4x08</EpisodeName>
-  <EpisodeNumber>8</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1383868494</lastupdated>
-  <seasonid>566642</seasonid>
-  <seriesid>250487</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4705916</id>
-  <Combined_episodenumber>9</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>Episode 4x09</EpisodeName>
-  <EpisodeNumber>9</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1383868510</lastupdated>
-  <seasonid>566642</seasonid>
-  <seriesid>250487</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4705924</id>
-  <Combined_episodenumber>10</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>Episode 4x10</EpisodeName>
-  <EpisodeNumber>10</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1383868687</lastupdated>
-  <seasonid>566642</seasonid>
-  <seriesid>250487</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4705925</id>
-  <Combined_episodenumber>11</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>Episode 4x11</EpisodeName>
-  <EpisodeNumber>11</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1383868696</lastupdated>
-  <seasonid>566642</seasonid>
-  <seriesid>250487</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4705926</id>
-  <Combined_episodenumber>12</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>Episode 4x12</EpisodeName>
-  <EpisodeNumber>12</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1383868705</lastupdated>
-  <seasonid>566642</seasonid>
-  <seriesid>250487</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4705927</id>
-  <Combined_episodenumber>13</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>Episode 4x13</EpisodeName>
-  <EpisodeNumber>13</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1383868748</lastupdated>
-  <seasonid>566642</seasonid>
-  <seriesid>250487</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4885022</id>
-  <Combined_episodenumber>1</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag>2</EpImgFlag>
-  <EpisodeName>The Murder House: Presented by Eternal Darkness Tours of Hollywood</EpisodeName>
-  <EpisodeNumber>1</EpisodeNumber>
-  <FirstAired>2012-09-25</FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview>A fake guided tour through the &quot;Murder House,&quot; with an overview of the mansion's horrid history. Edited with glitchy abandon.</Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season>1</airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename>episodes/250487/4885022.jpg</filename>
-  <lastupdated>1400641082</lastupdated>
-  <seasonid>549348</seasonid>
-  <seriesid>250487</seriesid>
-  <thumb_added>2014-05-20 19:58:02</thumb_added>
-  <thumb_height>225</thumb_height>
-  <thumb_width>400</thumb_width>
-</Episode>
-<Episode>
-  <id>4885023</id>
-  <Combined_episodenumber>2</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag>2</EpImgFlag>
-  <EpisodeName>Behind the Fright: The Making of American Horror Story</EpisodeName>
-  <EpisodeNumber>2</EpisodeNumber>
-  <FirstAired>2012-09-25</FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview>An excellent, nearly half-hour- long behind-the-scenes documentary, featuring interviews with nearly everyone involved and covering the show's creation, the casting, the horror and sexuality, the makeup, the costuming, and more.</Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season>1</airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename>episodes/250487/4885023.jpg</filename>
-  <lastupdated>1400641085</lastupdated>
-  <seasonid>549348</seasonid>
-  <seriesid>250487</seriesid>
-  <thumb_added>2014-05-20 19:58:05</thumb_added>
-  <thumb_height>225</thumb_height>
-  <thumb_width>400</thumb_width>
-</Episode>
-<Episode>
-  <id>4885024</id>
-  <Combined_episodenumber>3</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag>2</EpImgFlag>
-  <EpisodeName>Overture to Horror: Creating the Title Sequence</EpisodeName>
-  <EpisodeNumber>3</EpisodeNumber>
-  <FirstAired>2012-09-25</FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview>Main title designer Kyle Cooper and composers Cesar Davila-Irizarry and Charlie Clouser—former Nine Inch Nails keyboardist—break down the work that went into making the creepiest title sequence on television.</Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season>1</airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename>episodes/250487/4885024.jpg</filename>
-  <lastupdated>1400641089</lastupdated>
-  <seasonid>549348</seasonid>
-  <seriesid>250487</seriesid>
-  <thumb_added>2014-05-20 19:58:09</thumb_added>
-  <thumb_height>225</thumb_height>
-  <thumb_width>400</thumb_width>
-</Episode>
-<Episode>
-  <id>4885025</id>
-  <Combined_episodenumber>4</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag>2</EpImgFlag>
-  <EpisodeName>Out of the Shadows: Meet the House Ghosts</EpisodeName>
-  <EpisodeNumber>4</EpisodeNumber>
-  <FirstAired>2012-09-25</FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview>Interviews with all the of the ghosts who inhabit the Harmon house.</Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season>1</airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename>episodes/250487/4885025.jpg</filename>
-  <lastupdated>1400641094</lastupdated>
-  <seasonid>549348</seasonid>
-  <seriesid>250487</seriesid>
-  <thumb_added>2014-05-20 19:58:14</thumb_added>
-  <thumb_height>225</thumb_height>
-  <thumb_width>400</thumb_width>
-</Episode>
-<Episode>
-  <id>4885026</id>
-  <Combined_episodenumber>5</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag>2</EpImgFlag>
-  <EpisodeName>The Orderly</EpisodeName>
-  <EpisodeNumber>5</EpisodeNumber>
-  <FirstAired>2013-10-08</FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview>A short featuring an orderly being interviewed by an unseen woman, leading to disastrous results with Bloody Face. </Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season>2</airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename>episodes/250487/4885026.jpg</filename>
-  <lastupdated>1400641097</lastupdated>
-  <seasonid>549348</seasonid>
-  <seriesid>250487</seriesid>
-  <thumb_added>2014-05-20 19:58:17</thumb_added>
-  <thumb_height>225</thumb_height>
-  <thumb_width>400</thumb_width>
-</Episode>
-<Episode>
-  <id>4885027</id>
-  <Combined_episodenumber>6</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag>2</EpImgFlag>
-  <EpisodeName>What Is American Horror Story: Asylum?</EpisodeName>
-  <EpisodeNumber>6</EpisodeNumber>
-  <FirstAired>2013-10-08</FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview>A compendium of interviews and snippets from the season. </Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season>2</airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename>episodes/250487/4885027.jpg</filename>
-  <lastupdated>1400641101</lastupdated>
-  <seasonid>549348</seasonid>
-  <seriesid>250487</seriesid>
-  <thumb_added>2014-05-20 19:58:21</thumb_added>
-  <thumb_height>225</thumb_height>
-  <thumb_width>400</thumb_width>
-</Episode>
-<Episode>
-  <id>4885028</id>
-  <Combined_episodenumber>7</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag>2</EpImgFlag>
-  <EpisodeName>Welcome to Briarcliff Manor</EpisodeName>
-  <EpisodeNumber>7</EpisodeNumber>
-  <FirstAired>2013-10-08</FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview>Focuses on the series' incredible production design. </Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season>2</airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename>episodes/250487/4885028.jpg</filename>
-  <lastupdated>1400641105</lastupdated>
-  <seasonid>549348</seasonid>
-  <seriesid>250487</seriesid>
-  <thumb_added>2014-05-20 19:58:25</thumb_added>
-  <thumb_height>225</thumb_height>
-  <thumb_width>400</thumb_width>
-</Episode>
-<Episode>
-  <id>4885029</id>
-  <Combined_episodenumber>8</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag>2</EpImgFlag>
-  <EpisodeName>The Creatures</EpisodeName>
-  <EpisodeNumber>8</EpisodeNumber>
-  <FirstAired>2013-10-08</FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview>Takes us to Tinsley Studios, which does all of the make-up and prosthetics effects.
-
-</Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season>2</airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename>episodes/250487/4885029.jpg</filename>
-  <lastupdated>1400641109</lastupdated>
-  <seasonid>549348</seasonid>
-  <seriesid>250487</seriesid>
-  <thumb_added>2014-05-20 19:58:29</thumb_added>
-  <thumb_height>225</thumb_height>
-  <thumb_width>400</thumb_width>
-</Episode>
-<Episode>
   <id>4147673</id>
-  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_episodenumber>1.0</Combined_episodenumber>
   <Combined_season>1</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>1.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
   <Director>Ryan Murphy</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Pilot</EpisodeName>
@@ -728,12 +46,12 @@
   <Overview>A therapist and his family move across the country to escape their troubled past but quickly discover that their new home comes with its own horrific baggage.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>164</RatingCount>
+  <RatingCount>166</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Ryan Murphy|Brad Falchuk|</Writer>
   <absolute_number>1</absolute_number>
   <filename>episodes/250487/4147673.jpg</filename>
-  <lastupdated>1401262795</lastupdated>
+  <lastupdated>1408732450</lastupdated>
   <seasonid>471302</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added></thumb_added>
@@ -759,12 +77,12 @@
   <Overview>Vivien and Violet get themselves caught in a dangerous situation. Meanwhile, Ben goes back to Boston to fix a mistake that he made. </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>150</RatingCount>
+  <RatingCount>152</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Ryan Murphy|Brad Falchuk|</Writer>
   <absolute_number>2</absolute_number>
   <filename>episodes/250487/4180231.jpg</filename>
-  <lastupdated>1401263011</lastupdated>
+  <lastupdated>1407356305</lastupdated>
   <seasonid>471302</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added></thumb_added>
@@ -790,12 +108,12 @@
   <Overview>Vivien learns the horrific truth about the house's first residents and Ben's visitor causes him to further unravel about what really happened in the haunted house. Constance and Moira have their history revealed.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>139</RatingCount>
+  <RatingCount>141</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Jennifer Salt</Writer>
   <absolute_number>3</absolute_number>
   <filename>episodes/250487/4183585.jpg</filename>
-  <lastupdated>1401263033</lastupdated>
+  <lastupdated>1407356344</lastupdated>
   <seasonid>471302</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added></thumb_added>
@@ -812,7 +130,7 @@
   <DVD_season></DVD_season>
   <Director>David Semel</Director>
   <EpImgFlag>2</EpImgFlag>
-  <EpisodeName>Halloween - Part 1</EpisodeName>
+  <EpisodeName>Halloween (1)</EpisodeName>
   <EpisodeNumber>4</EpisodeNumber>
   <FirstAired>2011-10-26</FirstAired>
   <GuestStars></GuestStars>
@@ -821,12 +139,12 @@
   <Overview>The line between the living and the dead blurs on Halloween. Two of the house's previous residents give the Harmons decorating advice.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>127</RatingCount>
+  <RatingCount>129</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>James Wong</Writer>
   <absolute_number>4</absolute_number>
   <filename>episodes/250487/4189066.jpg</filename>
-  <lastupdated>1401263055</lastupdated>
+  <lastupdated>1410071101</lastupdated>
   <seasonid>471302</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added></thumb_added>
@@ -843,7 +161,7 @@
   <DVD_season></DVD_season>
   <Director>David Semel</Director>
   <EpImgFlag>2</EpImgFlag>
-  <EpisodeName>Halloween - Part 2</EpisodeName>
+  <EpisodeName>Halloween (2)</EpisodeName>
   <EpisodeNumber>5</EpisodeNumber>
   <FirstAired>2011-11-02</FirstAired>
   <GuestStars></GuestStars>
@@ -852,12 +170,12 @@
   <Overview>Tate comes face to face with his past, and Ben and Vivien are haunted by a new houseguest before Halloween night comes to an end.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>128</RatingCount>
+  <RatingCount>130</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Tim Minear</Writer>
   <absolute_number>5</absolute_number>
   <filename>episodes/250487/4191655.jpg</filename>
-  <lastupdated>1401263102</lastupdated>
+  <lastupdated>1410071107</lastupdated>
   <seasonid>471302</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added></thumb_added>
@@ -883,12 +201,12 @@
   <Overview>Constance enlists Violet's assistance with Tate. Ben helps a new patient confront his fears.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>115</RatingCount>
+  <RatingCount>117</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Jessica Sharzer</Writer>
   <absolute_number>6</absolute_number>
   <filename>episodes/250487/4194085.jpg</filename>
-  <lastupdated>1401741462</lastupdated>
+  <lastupdated>1407356438</lastupdated>
   <seasonid>471302</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added></thumb_added>
@@ -914,12 +232,12 @@
   <Overview>Moira persuades a buyer to make an offer while Constance and Larry work against her efforts.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>113</RatingCount>
+  <RatingCount>114</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Brad Falchuk</Writer>
   <absolute_number>7</absolute_number>
   <filename>episodes/250487/4194086.jpg</filename>
-  <lastupdated>1401741495</lastupdated>
+  <lastupdated>1407356474</lastupdated>
   <seasonid>471302</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added></thumb_added>
@@ -944,13 +262,13 @@
   <Language>en</Language>
   <Overview>The man in the rubber suit is revealed.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>105</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>106</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Ryan Murphy</Writer>
   <absolute_number>8</absolute_number>
   <filename>episodes/250487/4195857.jpg</filename>
-  <lastupdated>1404160698</lastupdated>
+  <lastupdated>1407356504</lastupdated>
   <seasonid>471302</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added></thumb_added>
@@ -976,12 +294,12 @@
   <Overview>One of history's most famous murder victims pays the house a visit. Constance discovers more of Tate's bad behavior.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>103</RatingCount>
+  <RatingCount>105</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Jennifer Salt</Writer>
   <absolute_number>9</absolute_number>
   <filename>episodes/250487/4195858.jpg</filename>
-  <lastupdated>1404160663</lastupdated>
+  <lastupdated>1407356551</lastupdated>
   <seasonid>471302</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added></thumb_added>
@@ -1007,12 +325,12 @@
   <Overview>Violet learns about the rules of the house. The truth about Larry's condition is explained. Constance is interrogated by the police.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>103</RatingCount>
+  <RatingCount>105</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>James Wong</Writer>
   <absolute_number>10</absolute_number>
   <filename>episodes/250487/4207785.jpg</filename>
-  <lastupdated>1402426586</lastupdated>
+  <lastupdated>1407356588</lastupdated>
   <seasonid>471302</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added></thumb_added>
@@ -1038,12 +356,12 @@
   <Overview>Vivien gives birth. Tate and Violet attempt to rid the house of some of its ghosts for good.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>92</RatingCount>
+  <RatingCount>93</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Tim Minear</Writer>
   <absolute_number>11</absolute_number>
   <filename>episodes/250487/4207786.jpg</filename>
-  <lastupdated>1402426602</lastupdated>
+  <lastupdated>1407356631</lastupdated>
   <seasonid>471302</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added></thumb_added>
@@ -1069,12 +387,12 @@
   <Overview>In the aftermath of family tragedy, Ben tries to take his child out of the Murder House. Meanwhile, Violet and Vivien accustom themselves to their new living arrangements, Constance raises Tate's child as her own and a new family buys the house.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>92</RatingCount>
+  <RatingCount>93</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Jessica Sharzer</Writer>
   <absolute_number>12</absolute_number>
   <filename>episodes/250487/4207787.jpg</filename>
-  <lastupdated>1402426622</lastupdated>
+  <lastupdated>1407356644</lastupdated>
   <seasonid>471302</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added></thumb_added>
@@ -1100,12 +418,12 @@
   <Overview>Terrifying evils blur the boundaries between reality and insanity at the Briarcliff Manor.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>76</RatingCount>
+  <RatingCount>77</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Tim Minear</Writer>
   <absolute_number>13</absolute_number>
   <filename>episodes/250487/4386604.jpg</filename>
-  <lastupdated>1402426668</lastupdated>
+  <lastupdated>1407357309</lastupdated>
   <seasonid>497727</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added></thumb_added>
@@ -1131,12 +449,12 @@
   <Overview>An exorcist is called to Briarcliff to help save a troubled farm boy; Sister Jude's darkest secret is revealed.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>73</RatingCount>
+  <RatingCount>75</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>James Wong</Writer>
   <absolute_number>14</absolute_number>
   <filename>episodes/250487/4391585.jpg</filename>
-  <lastupdated>1402783301</lastupdated>
+  <lastupdated>1407357389</lastupdated>
   <seasonid>497727</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added></thumb_added>
@@ -1161,13 +479,13 @@
   <Language>en</Language>
   <Overview>A violent storm allows a group of patients to plan a daring escape; Sister Jude is haunted by her past.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>73</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>74</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Jennifer Salt</Writer>
   <absolute_number>15</absolute_number>
   <filename>episodes/250487/4395925.jpg</filename>
-  <lastupdated>1402783336</lastupdated>
+  <lastupdated>1407357446</lastupdated>
   <seasonid>497727</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added></thumb_added>
@@ -1184,7 +502,7 @@
   <DVD_season></DVD_season>
   <Director>Michael Uppendahl</Director>
   <EpImgFlag>2</EpImgFlag>
-  <EpisodeName>I Am Anne Frank - Part 1</EpisodeName>
+  <EpisodeName>I Am Anne Frank (1)</EpisodeName>
   <EpisodeNumber>4</EpisodeNumber>
   <FirstAired>2012-11-07</FirstAired>
   <GuestStars>|Mark Consuelos|Fredric Lehne|Franka Potente|Matthew John Armstrong|John Lee Ames|</GuestStars>
@@ -1193,12 +511,12 @@
   <Overview>A new patient exposes Arden's past; Kit learns why Grace was admitted to Briarcliff.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>74</RatingCount>
+  <RatingCount>75</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Jessica Sharzer</Writer>
   <absolute_number>16</absolute_number>
   <filename>episodes/250487/4395926.jpg</filename>
-  <lastupdated>1402783359</lastupdated>
+  <lastupdated>1410071059</lastupdated>
   <seasonid>497727</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added></thumb_added>
@@ -1215,7 +533,7 @@
   <DVD_season></DVD_season>
   <Director>Alfonso Gomez-Rejon</Director>
   <EpImgFlag>2</EpImgFlag>
-  <EpisodeName>I Am Anne Frank - Part 2</EpisodeName>
+  <EpisodeName>I Am Anne Frank (2)</EpisodeName>
   <EpisodeNumber>5</EpisodeNumber>
   <FirstAired>2012-11-14</FirstAired>
   <GuestStars>|Fredric Lehne|Matthew John Armstrong|Franka Potente|Valorie Hubbard|</GuestStars>
@@ -1224,12 +542,12 @@
   <Overview>Sister Jude employs a renowned Nazi hunter to gather evidence against Arden; Kit makes a surprising confession; Bloody Face is unmasked.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.1</Rating>
-  <RatingCount>72</RatingCount>
+  <RatingCount>73</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Brad Falchuk</Writer>
   <absolute_number>17</absolute_number>
   <filename>episodes/250487/4395927.jpg</filename>
-  <lastupdated>1403178882</lastupdated>
+  <lastupdated>1410071067</lastupdated>
   <seasonid>497727</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added></thumb_added>
@@ -1255,12 +573,12 @@
   <Overview>A mysterious little girl is abandoned at Briarcliff; the Monsignor makes a Faustian pact with Dr. Arden; the origin of Bloody Face is revealed.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>59</RatingCount>
+  <RatingCount>60</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Ryan Murphy</Writer>
   <absolute_number>18</absolute_number>
   <filename>episodes/250487/4395928.jpg</filename>
-  <lastupdated>1403178921</lastupdated>
+  <lastupdated>1407357584</lastupdated>
   <seasonid>497727</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added></thumb_added>
@@ -1286,12 +604,12 @@
   <Overview>Sister Mary Eunice is terrified to discover a dark angel at Briarcliff; Kit makes a bold move to be reunited with Grace.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>66</RatingCount>
+  <RatingCount>67</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Tim Minear</Writer>
   <absolute_number>19</absolute_number>
   <filename>episodes/250487/4420013.jpg</filename>
-  <lastupdated>1403178953</lastupdated>
+  <lastupdated>1407357618</lastupdated>
   <seasonid>497727</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added></thumb_added>
@@ -1317,12 +635,12 @@
   <Overview>A murderous Santa wreaks havoc on Briarcliff; Sister Jude faces off with the devil; Arden has a shocking encounter in the death chute.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>61</RatingCount>
+  <RatingCount>62</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>James Wong</Writer>
   <absolute_number>20</absolute_number>
   <filename>episodes/250487/4428050.jpg</filename>
-  <lastupdated>1403178980</lastupdated>
+  <lastupdated>1407357657</lastupdated>
   <seasonid>497727</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added></thumb_added>
@@ -1348,12 +666,12 @@
   <Overview>The Monsignor takes an unlikely convert under his wing; Lana secures a new piece of evidence that can exonerate Kit; Dr. Arden witnesses a miraculous return.</Overview>
   <ProductionCode>2ATS09</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>57</RatingCount>
+  <RatingCount>58</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Jennifer Salt</Writer>
   <absolute_number>21</absolute_number>
   <filename>episodes/250487/4428051.jpg</filename>
-  <lastupdated>1403632014</lastupdated>
+  <lastupdated>1407357697</lastupdated>
   <seasonid>497727</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added></thumb_added>
@@ -1379,12 +697,12 @@
   <Overview>The Monsignor confronts the Devil. Dr. Arden’s experiments reach a shocking conclusion. Dr. Thredson facilitates a surprising reunion for Kit.</Overview>
   <ProductionCode>2ATS10</ProductionCode>
   <Rating>8.1</Rating>
-  <RatingCount>55</RatingCount>
+  <RatingCount>56</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Jessica Sharzer</Writer>
   <absolute_number>22</absolute_number>
   <filename>episodes/250487/4428052.jpg</filename>
-  <lastupdated>1403631975</lastupdated>
+  <lastupdated>1407357773</lastupdated>
   <seasonid>497727</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added></thumb_added>
@@ -1410,12 +728,12 @@
   <Overview>Grace tells Kit devastating news about the aliens' experiments on Alma; Dr. Thredson receives an unexpected visitor; the Monsignor goes to extreme lengths to silence Jude.</Overview>
   <ProductionCode>2ATS11</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>61</RatingCount>
+  <RatingCount>63</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Brad Falchuk</Writer>
   <absolute_number>23</absolute_number>
   <filename>episodes/250487/4428053.jpg</filename>
-  <lastupdated>1404160447</lastupdated>
+  <lastupdated>1407357867</lastupdated>
   <seasonid>497727</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added></thumb_added>
@@ -1441,12 +759,12 @@
   <Overview>A deadly new inmate threatens Sister Jude's chance of release; Grace's obsession with the aliens turns violent.</Overview>
   <ProductionCode>2ATS12</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>52</RatingCount>
+  <RatingCount>54</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Ryan Murphy</Writer>
   <absolute_number>24</absolute_number>
   <filename>episodes/250487/4428054.jpg</filename>
-  <lastupdated>1404160466</lastupdated>
+  <lastupdated>1407357916</lastupdated>
   <seasonid>497727</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added></thumb_added>
@@ -1472,12 +790,12 @@
   <Overview>Johnny sets out to complete his father's work; Lana leads the charge to finally shut down Briarcliff.</Overview>
   <ProductionCode>2ATS13</ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>53</RatingCount>
+  <RatingCount>55</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Tim Minear</Writer>
   <absolute_number>25</absolute_number>
   <filename>episodes/250487/4431749.jpg</filename>
-  <lastupdated>1404160489</lastupdated>
+  <lastupdated>1407357987</lastupdated>
   <seasonid>497727</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added></thumb_added>
@@ -1503,12 +821,12 @@
   <Overview>A young girl discovers she possesses a strange genetic affliction tracing back to the dark days of Salem; Fiona Goode returns to town.</Overview>
   <ProductionCode>3ATS01</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>41</RatingCount>
+  <RatingCount>42</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Ryan Murphy|Brad Falchuk|</Writer>
   <absolute_number>26</absolute_number>
   <filename>episodes/250487/4558764.jpg</filename>
-  <lastupdated>1396781324</lastupdated>
+  <lastupdated>1407358130</lastupdated>
   <seasonid>518858</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added>2013-09-12 10:26:13</thumb_added>
@@ -1534,12 +852,12 @@
   <Overview>Fiona helps Zoe and Madison deal with a horrible tragedy; Delphine LaLaurie struggles to adjust to modern life; Cordelia faces a dark decision about her family.</Overview>
   <ProductionCode>3ATS02</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>32</RatingCount>
+  <RatingCount>33</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Tim Minear</Writer>
   <absolute_number>27</absolute_number>
   <filename>episodes/250487/4626059.jpg</filename>
-  <lastupdated>1396781359</lastupdated>
+  <lastupdated>1407358238</lastupdated>
   <seasonid>518858</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added>2013-10-10 14:51:16</thumb_added>
@@ -1565,12 +883,12 @@
   <Overview>Fiona takes on an unlikely protégé; a guilt-ridden Zoe tries to give Kyle his old life back; Madison has a fiery exchange with Joan Ramsey.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>36</RatingCount>
+  <RatingCount>37</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>James Wong</Writer>
   <absolute_number>28</absolute_number>
   <filename>episodes/250487/4626060.jpg</filename>
-  <lastupdated>1404470352</lastupdated>
+  <lastupdated>1407358267</lastupdated>
   <seasonid>518858</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added>2013-10-18 01:03:31</thumb_added>
@@ -1595,8 +913,8 @@
   <Language>en</Language>
   <Overview>Fiona's choices rattle a decades-long truce between the Salem witches and Marie Laveau; the Council of Witchcraft pays a surprise visit to the academy with disturbing allegations.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>28</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>31</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Jennifer Salt</Writer>
   <absolute_number>29</absolute_number>
@@ -1626,13 +944,13 @@
   <Language>en</Language>
   <Overview>Besieged by Marie Laveau's army, Zoe unleashes a new power; Fiona and Myrtle clash over control of the coven; Madame LaLaurie is confronted by old ghosts.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>31</RatingCount>
+  <Rating>7.9</Rating>
+  <RatingCount>33</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Jessica Sharzer</Writer>
   <absolute_number>30</absolute_number>
   <filename>episodes/250487/4644381.jpg</filename>
-  <lastupdated>1404470445</lastupdated>
+  <lastupdated>1407358300</lastupdated>
   <seasonid>518858</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added>2013-11-01 13:04:24</thumb_added>
@@ -1657,13 +975,13 @@
   <Language>en</Language>
   <Overview>Zoe, Queenie and Nan make contact with a dark spirit trapped in the academy; Cordelia's new power brings on a heartbreaking revelation.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>22</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>24</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Douglas Petrie</Writer>
   <absolute_number>31</absolute_number>
   <filename>episodes/250487/4665655.jpg</filename>
-  <lastupdated>1404470472</lastupdated>
+  <lastupdated>1407358320</lastupdated>
   <seasonid>518858</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added>2013-11-10 12:33:08</thumb_added>
@@ -1688,13 +1006,13 @@
   <Language>en</Language>
   <Overview>Fiona finds purpose in a dangerous love affair; Queenie questions her place in the Coven; Cordelia makes a decision about her mother.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.3</Rating>
-  <RatingCount>29</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>31</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Brad Falchuk</Writer>
   <absolute_number>32</absolute_number>
   <filename>episodes/250487/4671833.jpg</filename>
-  <lastupdated>1404930217</lastupdated>
+  <lastupdated>1407358336</lastupdated>
   <seasonid>518858</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added>2013-11-15 14:16:17</thumb_added>
@@ -1719,8 +1037,8 @@
   <Language>en</Language>
   <Overview>Cordelia rallies the girls in the fight to stop Fiona; a dangerous new enemy puts Misty in the cross hairs; the rivalry between Marie Laveau and Delphine comes to a head.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>31</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>34</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Ryan Murphy</Writer>
   <absolute_number>33</absolute_number>
@@ -1751,12 +1069,12 @@
   <Overview>Cordelia’s attacker is revealed. Fiona looks to form an alliance with Marie Laveau. Nan learns a disturbing truth about Luke’s past.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>25</RatingCount>
+  <RatingCount>26</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Tim Minear</Writer>
   <absolute_number>34</absolute_number>
   <filename>episodes/250487/4708823.jpg</filename>
-  <lastupdated>1404930278</lastupdated>
+  <lastupdated>1407358368</lastupdated>
   <seasonid>518858</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added>2013-12-06 09:26:26</thumb_added>
@@ -1782,12 +1100,12 @@
   <Overview>Fiona attempts to out the new supreme with a visit from Stevie Nicks; Cordelia learns the truth about Hank and the witch hunters; Madison tries to eliminate her competition for the supremacy.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>32</RatingCount>
+  <RatingCount>33</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|James Wong|</Writer>
   <absolute_number>35</absolute_number>
   <filename>episodes/250487/4708824.jpg</filename>
-  <lastupdated>1405094236</lastupdated>
+  <lastupdated>1407358390</lastupdated>
   <seasonid>518858</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added>2014-01-09 00:49:56</thumb_added>
@@ -1813,12 +1131,12 @@
   <Overview>Fiona and Laveau have a deadly face off with The Corporation; Cordelia makes a desperate sacrifice.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.2</Rating>
-  <RatingCount>22</RatingCount>
+  <RatingCount>23</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Jennifer Salt</Writer>
   <absolute_number>36</absolute_number>
   <filename>episodes/250487/4708825.jpg</filename>
-  <lastupdated>1405094303</lastupdated>
+  <lastupdated>1407358409</lastupdated>
   <seasonid>518858</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added>2014-01-14 16:59:05</thumb_added>
@@ -1844,12 +1162,12 @@
   <Overview>Cordelia's latest vision puts the coven's future in question; the girls manifest powerful new gifts; Queenie's search for Marie Laveau leads her to hell and back.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>29</RatingCount>
+  <RatingCount>30</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Jessica Sharzer</Writer>
   <absolute_number>37</absolute_number>
   <filename>episodes/250487/4708826.jpg</filename>
-  <lastupdated>1396781778</lastupdated>
+  <lastupdated>1407358430</lastupdated>
   <seasonid>518858</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added>2014-01-18 08:30:12</thumb_added>
@@ -1875,16 +1193,295 @@
   <Overview>A new Supreme rises.</Overview>
   <ProductionCode>#313</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>25</RatingCount>
+  <RatingCount>26</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Douglas Petrie</Writer>
   <absolute_number>38</absolute_number>
   <filename>episodes/250487/4708827.jpg</filename>
-  <lastupdated>1398971369</lastupdated>
+  <lastupdated>1407358525</lastupdated>
   <seasonid>518858</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added>2014-01-25 17:09:39</thumb_added>
   <thumb_height>225</thumb_height>
   <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4964295</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Ryan Murphy</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Monsters Among Us</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2014-10-08</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3317604</IMDB_ID>
+  <Language>en</Language>
+  <Overview>One of the only surviving sideshows in the country struggles to stay in business during the dawning era of television; police make a terrifying discovery at a local farmhouse.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.2</Rating>
+  <RatingCount>10</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>|Ryan Murphy|Brad Falchuk|</Writer>
+  <absolute_number>39</absolute_number>
+  <filename>episodes/250487/4964295.jpg</filename>
+  <lastupdated>1413398445</lastupdated>
+  <seasonid>593869</seasonid>
+  <seriesid>250487</seriesid>
+  <thumb_added>2014-10-07 09:29:04</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4977788</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>|Alfonso Gomez-Rejon||</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Massacres and Matinees</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2014-10-15</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3687726</IMDB_ID>
+  <Language>en</Language>
+  <Overview>A citywide curfew threatens to shut down the freak show; a strongman from Ethel's troubled past arrives at camp; Gloria arranges a terrifying play date for Dandy; the Tattler Twins reveal a talent that could knock Elsa from the spotlight.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.2</Rating>
+  <RatingCount>10</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>|Tim Minear|</Writer>
+  <absolute_number>40</absolute_number>
+  <filename>episodes/250487/4977788.jpg</filename>
+  <lastupdated>1413702441</lastupdated>
+  <seasonid>593869</seasonid>
+  <seriesid>250487</seriesid>
+  <thumb_added>2014-10-09 07:52:06</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4977793</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>|Michael Uppendahl|</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Edward Mordrake (1)</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2014-10-22</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3687728</IMDB_ID>
+  <Language>en</Language>
+  <Overview>The freaks refuse to perform on Halloween due to an old carny superstition; Jimmy is smitten by a woman claiming to be a fortuneteller; Ethel receives life-changing news.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.2</Rating>
+  <RatingCount>5</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>|James Wong|</Writer>
+  <absolute_number>41</absolute_number>
+  <filename>episodes/250487/4977793.jpg</filename>
+  <lastupdated>1414362417</lastupdated>
+  <seasonid>593869</seasonid>
+  <seriesid>250487</seriesid>
+  <thumb_added>2014-10-26 15:31:14</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4977795</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Howard Deutch</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Edward Mordrake (2)</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2014-10-29</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Edward Mordrake continues his search for a Freak to add to his ghostly coterie. Elsa tells the grisly story of her days in Germany. Jimmy and Maggie have a run-in with the Twisted Clown. </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Jennifer Salt</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/250487/4977795.jpg</filename>
+  <lastupdated>1414352498</lastupdated>
+  <seasonid>593869</seasonid>
+  <seriesid>250487</seriesid>
+  <thumb_added>2014-10-22 13:38:51</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4977797</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Michael Uppendahl</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Pink Cupcakes</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2014-11-05</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Stanley and Maggie hatch a plan to murder the Freaks. Gloria hides the evidence of Dandy's gruesome new hobby. A health scare reveals Desiree may not be the oddity she once thought.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Jessica Sharzer</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/250487/4977797.jpg</filename>
+  <lastupdated>1414683590</lastupdated>
+  <seasonid>593869</seasonid>
+  <seriesid>250487</seriesid>
+  <thumb_added>2014-10-30 08:39:50</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4995960</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Bullseye</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2014-11-12</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Elsa unveils a dangerous new act. Stanley puts pressure on Maggie to murder Jimmy. Paul indulges in a secret romance. </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1413441218</lastupdated>
+  <seasonid>593869</seasonid>
+  <seriesid>250487</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5000975</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Test of Strength</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2014-11-19</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>The women of the Freak Show rally against Dell after his latest act of violence. A strange encounter with Dandy raises Jimmy’s suspicion about the clown murders.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1414096243</lastupdated>
+  <seasonid>593869</seasonid>
+  <seriesid>250487</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5018383</id>
+  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Blood Bath</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2014-12-03</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1413977933</lastupdated>
+  <seasonid>593869</seasonid>
+  <seriesid>250487</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5024360</id>
+  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>The Fat Lady Sings</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2014-12-10</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1414188540</lastupdated>
+  <seasonid>593869</seasonid>
+  <seriesid>250487</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
 </Episode>
 </Data>

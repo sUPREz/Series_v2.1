@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Data><Series>
   <id>258107</id>
-  <Actors>|Gillian Anderson|Jamie Dornan|Niamh McGready|Archie Panjabi|Bronagh Waugh|John Lynch|</Actors>
+  <Actors>|Jamie Dornan|Gillian Anderson|Niamh McGready|Archie Panjabi|Bronagh Waugh|John Lynch|</Actors>
   <Airs_DayOfWeek>Monday</Airs_DayOfWeek>
   <Airs_Time>9:30 PM</Airs_Time>
   <ContentRating>TV-MA</ContentRating>
@@ -9,14 +9,14 @@
   <Genre>|Drama|Thriller|</Genre>
   <IMDB_ID>tt2294189</IMDB_ID>
   <Language>en</Language>
-  <Network>BBC Two</Network>
+  <Network>RTÉ One</Network>
   <NetworkID></NetworkID>
   <Overview>Gillian Anderson stars as Detective Superintendent Stella Gibson who is brought in from the London Metropolitan Police to help catch the killer when a murder in Belfast remains unsolved.
  
 
 As Gibson travels across from London, we are introduced to the murderer himself; Paul Spector (Jamie Dornan).  The drama follows the police investigation uncovering the intricate story of the lives entangled by a series of murders both within the killers’ and the victims’ families.</Overview>
-  <Rating>8.7</Rating>
-  <RatingCount>13</RatingCount>
+  <Rating>8.1</Rating>
+  <RatingCount>16</RatingCount>
   <Runtime>60</Runtime>
   <SeriesID></SeriesID>
   <SeriesName>The Fall</SeriesName>
@@ -24,12 +24,43 @@ As Gibson travels across from London, we are introduced to the murderer himself;
   <added>2012-04-12 19:03:18</added>
   <addedBy>360590</addedBy>
   <banner>graphical/258107-g2.jpg</banner>
-  <fanart>fanart/original/258107-2.jpg</fanart>
-  <lastupdated>1405515175</lastupdated>
+  <fanart>fanart/original/258107-6.jpg</fanart>
+  <lastupdated>1414720436</lastupdated>
   <poster>posters/258107-4.jpg</poster>
   <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id></zap2it_id>
 </Series>
+<Episode>
+  <id>4970570</id>
+  <Combined_episodenumber>0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName></EpisodeName>
+  <EpisodeNumber>0</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1414720396</lastupdated>
+  <seasonid>490027</seasonid>
+  <seriesid>258107</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
 <Episode>
   <id>4305995</id>
   <Combined_episodenumber>1</Combined_episodenumber>
@@ -42,7 +73,7 @@ As Gibson travels across from London, we are introduced to the murderer himself;
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Dark Descent</EpisodeName>
   <EpisodeNumber>1</EpisodeNumber>
-  <FirstAired>2013-05-13</FirstAired>
+  <FirstAired>2013-05-12</FirstAired>
   <GuestStars></GuestStars>
   <IMDB_ID>tt2307993</IMDB_ID>
   <Language>en</Language>
@@ -54,7 +85,7 @@ As Gibson travels across from London, we are introduced to the murderer himself;
   <Writer>Allan Cubitt</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/258107/4305995.jpg</filename>
-  <lastupdated>1395954442</lastupdated>
+  <lastupdated>1408666945</lastupdated>
   <seasonid>490027</seasonid>
   <seriesid>258107</seriesid>
   <thumb_added></thumb_added>
@@ -73,7 +104,7 @@ As Gibson travels across from London, we are introduced to the murderer himself;
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Darkness Visible</EpisodeName>
   <EpisodeNumber>2</EpisodeNumber>
-  <FirstAired>2013-05-20</FirstAired>
+  <FirstAired>2013-05-19</FirstAired>
   <GuestStars></GuestStars>
   <IMDB_ID>tt2307995</IMDB_ID>
   <Language>en</Language>
@@ -85,7 +116,7 @@ As Gibson travels across from London, we are introduced to the murderer himself;
   <Writer>Allan Cubitt</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/258107/4305996.jpg</filename>
-  <lastupdated>1395954477</lastupdated>
+  <lastupdated>1408666978</lastupdated>
   <seasonid>490027</seasonid>
   <seriesid>258107</seriesid>
   <thumb_added></thumb_added>
@@ -104,7 +135,7 @@ As Gibson travels across from London, we are introduced to the murderer himself;
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Insolence &amp; Wine</EpisodeName>
   <EpisodeNumber>3</EpisodeNumber>
-  <FirstAired>2013-05-27</FirstAired>
+  <FirstAired>2013-05-26</FirstAired>
   <GuestStars></GuestStars>
   <IMDB_ID>tt2307997</IMDB_ID>
   <Language>en</Language>
@@ -116,7 +147,7 @@ As Gibson travels across from London, we are introduced to the murderer himself;
   <Writer>Allan Cubitt</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/258107/4305997.jpg</filename>
-  <lastupdated>1395954650</lastupdated>
+  <lastupdated>1408666984</lastupdated>
   <seasonid>490027</seasonid>
   <seriesid>258107</seriesid>
   <thumb_added></thumb_added>
@@ -135,19 +166,19 @@ As Gibson travels across from London, we are introduced to the murderer himself;
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>My Adventurous Song</EpisodeName>
   <EpisodeNumber>4</EpisodeNumber>
-  <FirstAired>2013-06-03</FirstAired>
+  <FirstAired>2013-06-02</FirstAired>
   <GuestStars></GuestStars>
   <IMDB_ID>tt2307999</IMDB_ID>
   <Language>en</Language>
   <Overview>When Eastwood's investigation into Olson's murder throws open some uncomfortable truths for Burns, Gibson comes under increased pressure in her hunt for Belfast's killer.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>25</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>27</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Allan Cubitt</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/258107/4305998.jpg</filename>
-  <lastupdated>1395954671</lastupdated>
+  <lastupdated>1408666996</lastupdated>
   <seasonid>490027</seasonid>
   <seriesid>258107</seriesid>
   <thumb_added></thumb_added>
@@ -166,7 +197,7 @@ As Gibson travels across from London, we are introduced to the murderer himself;
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>The Vast Abyss</EpisodeName>
   <EpisodeNumber>5</EpisodeNumber>
-  <FirstAired>2013-06-10</FirstAired>
+  <FirstAired>2013-06-09</FirstAired>
   <GuestStars></GuestStars>
   <IMDB_ID>tt2308001</IMDB_ID>
   <Language>en</Language>
@@ -178,7 +209,7 @@ As Gibson travels across from London, we are introduced to the murderer himself;
   <Writer>Allan Cubitt</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/258107/4305999.jpg</filename>
-  <lastupdated>1395954701</lastupdated>
+  <lastupdated>1408667028</lastupdated>
   <seasonid>490027</seasonid>
   <seriesid>258107</seriesid>
   <thumb_added></thumb_added>
@@ -186,7 +217,7 @@ As Gibson travels across from London, we are introduced to the murderer himself;
   <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
-  <id>4924230</id>
+  <id>5000734</id>
   <Combined_episodenumber>1</Combined_episodenumber>
   <Combined_season>2</Combined_season>
   <DVD_chapter></DVD_chapter>
@@ -195,13 +226,13 @@ As Gibson travels across from London, we are introduced to the murderer himself;
   <DVD_season></DVD_season>
   <Director></Director>
   <EpImgFlag></EpImgFlag>
-  <EpisodeName>TBC</EpisodeName>
+  <EpisodeName>Episode 1</EpisodeName>
   <EpisodeNumber>1</EpisodeNumber>
-  <FirstAired></FirstAired>
+  <FirstAired>2014-11-13</FirstAired>
   <GuestStars></GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
+  <Overview>It has been ten days since Paul Spector told DSI Stella Gibson that she would never catch him. As Gibson tries in vain to help Spector’s surviving victim to remember the identity of her attacker, Spector is forced to deal with the lose ends that he left behind in Belfast.</Overview>
   <ProductionCode></ProductionCode>
   <Rating></Rating>
   <RatingCount>0</RatingCount>
@@ -209,8 +240,8 @@ As Gibson travels across from London, we are introduced to the murderer himself;
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename></filename>
-  <lastupdated>1404525399</lastupdated>
-  <seasonid>590153</seasonid>
+  <lastupdated>1414720320</lastupdated>
+  <seasonid>598098</seasonid>
   <seriesid>258107</seriesid>
   <thumb_added></thumb_added>
   <thumb_height></thumb_height>
