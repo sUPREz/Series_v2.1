@@ -1,0 +1,870 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Data><Series>
+  <id>276564</id>
+  <Actors>|Corey Stoll|David Bradley|Mia Maestro|Sean Astin|Richard Sammel|Natalie Brown|Miguel Gomez|Jonathan Hyde|Jack Kesy|Ben Hyland|Kevin Durand|</Actors>
+  <Airs_DayOfWeek>Sunday</Airs_DayOfWeek>
+  <Airs_Time>10:00 PM</Airs_Time>
+  <ContentRating>TV-14</ContentRating>
+  <FirstAired>2014-07-13</FirstAired>
+  <Genre>|Drama|Horror|</Genre>
+  <IMDB_ID>tt2654620</IMDB_ID>
+  <Language>en</Language>
+  <Network>FX</Network>
+  <NetworkID></NetworkID>
+  <Overview>The Strain is a high concept thriller that tells the story of Dr. Ephraim Goodweather, the head of the Center for Disease Control Canary Team in New York City. He and his team are called upon to investigate a mysterious viral outbreak with hallmarks of an ancient and evil strain of vampirism. As the strain spreads, Eph, his team, and an assembly of everyday New Yorkers, wage war for the fate of humanity itself.</Overview>
+  <Rating>8.0</Rating>
+  <RatingCount>46</RatingCount>
+  <Runtime>60</Runtime>
+  <SeriesID>179638</SeriesID>
+  <SeriesName>The Strain</SeriesName>
+  <Status>Continuing</Status>
+  <added>2013-12-26 18:25:50</added>
+  <addedBy>10110</addedBy>
+  <banner>graphical/276564-g10.jpg</banner>
+  <fanart>fanart/original/276564-16.jpg</fanart>
+  <lastupdated>1434806850</lastupdated>
+  <poster>posters/276564-5.jpg</poster>
+  <tms_wanted_old>0</tms_wanted_old>
+  <zap2it_id>SH01836850</zap2it_id>
+</Series>
+<Episode>
+  <id>4932475</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Survivor</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2014-07-11</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Something dangerous lurks in the forest. See the thrilling, animated prequel of The Strain.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode>1</airsbefore_episode>
+  <airsbefore_season>1</airsbefore_season>
+  <filename>episodes/276564/4932475.jpg</filename>
+  <lastupdated>1429457058</lastupdated>
+  <seasonid>571055</seasonid>
+  <seriesid>276564</seriesid>
+  <thumb_added>2014-07-13 08:36:01</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4750432</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Guillermo del Toro</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Night Zero</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2014-07-13</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt2654620</IMDB_ID>
+  <Language>en</Language>
+  <Overview>When a plane lands in New York City with everyone on board dead, Dr. Ephraim 'Eph' Goodweather, head of the CDC’s Canary Project, and his team are called upon to investigate. What looks at first like a mysterious viral outbreak might be the beginning of something infinitely more sinister. </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.1</Rating>
+  <RatingCount>60</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Guillermo del Toro &amp; Chuck Hogan</Writer>
+  <absolute_number>1</absolute_number>
+  <filename>episodes/276564/4750432.jpg</filename>
+  <lastupdated>1434806850</lastupdated>
+  <seasonid>571056</seasonid>
+  <seriesid>276564</seriesid>
+  <thumb_added>2014-01-16 00:26:31</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4768417</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>David Semel</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Box</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2014-07-20</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3480884</IMDB_ID>
+  <Language>en</Language>
+  <Overview>The four survivors begin manifesting strange symptoms, but Eph and Nora's attempt to quarantine them is thwarted as the disinformation campaign begins. Setrakian receives a surprise visit from an old – a very old – acquaintance.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>48</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|David Weddle|Bradley Thompson|</Writer>
+  <absolute_number>2</absolute_number>
+  <filename>episodes/276564/4768417.jpg</filename>
+  <lastupdated>1424379815</lastupdated>
+  <seasonid>571056</seasonid>
+  <seriesid>276564</seriesid>
+  <thumb_added>2014-07-16 16:45:06</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4768418</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>David Semel</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Gone Smooth</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2014-07-27</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3428146</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Eph and Nora fight to save Captain Redfern's life before coming face-to-face with the horrifying effects of the virus. A spike in rat attacks signals Fet that something inexplicable is happening deep below the city. Released from jail, Setrakian begins his own merciless plan to stop the spread of the disease. </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>46</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Chuck Hogan</Writer>
+  <absolute_number>3</absolute_number>
+  <filename>episodes/276564/4768418.jpg</filename>
+  <lastupdated>1425364913</lastupdated>
+  <seasonid>571056</seasonid>
+  <seriesid>276564</seriesid>
+  <thumb_added>2014-07-21 11:48:01</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4768419</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Keith Gordon</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>It's Not for Everyone</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2014-08-03</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3410216</IMDB_ID>
+  <Language>en</Language>
+  <Overview>A secret autopsy demonstrates the bizarre progression of the mystery virus, prompting Jim to make a startling confession. Eph and Nora race to find the father of the youngest victim of the plane tragedy, but someone unexpected beats them to it. Ansel, in the grip of disease, takes desperate measures to protect his family.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>50</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Regina Corrado</Writer>
+  <absolute_number>4</absolute_number>
+  <filename>episodes/276564/4768419.jpg</filename>
+  <lastupdated>1431277993</lastupdated>
+  <seasonid>571056</seasonid>
+  <seriesid>276564</seriesid>
+  <thumb_added>2014-07-28 19:10:19</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4768420</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Peter Weller</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Runaways</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2014-08-10</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3475844</IMDB_ID>
+  <Language>en</Language>
+  <Overview>With Nora gone, Eph reluctantly joins Setrakian's quest in hopes of gathering enough evidence to warrant a citywide quarantine. Fet encounters the unexpected inside the subway tunnels. A medical emergency threatens Palmer's master plan.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>47</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Gennifer Hutchison</Writer>
+  <absolute_number>5</absolute_number>
+  <filename>episodes/276564/4768420.jpg</filename>
+  <lastupdated>1426673536</lastupdated>
+  <seasonid>571056</seasonid>
+  <seriesid>276564</seriesid>
+  <thumb_added>2014-08-04 17:38:37</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4768421</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Peter Weller</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Occultation</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2014-08-17</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3613468</IMDB_ID>
+  <Language>en</Language>
+  <Overview>After warning Kelly to leave the city with Zack ahead of the spreading plague, Eph is arrested by the FBI. Eichhorst has one final job for Gus. Setrakian realizes that the coming eclipse is the tipping point for virus infection and the beginning of the end. </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>47</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Justin Britt-Gibson</Writer>
+  <absolute_number>6</absolute_number>
+  <filename>episodes/276564/4768421.jpg</filename>
+  <lastupdated>1426846492</lastupdated>
+  <seasonid>571056</seasonid>
+  <seriesid>276564</seriesid>
+  <thumb_added>2014-08-11 09:30:39</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4768422</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Charlotte Sieling</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>For Services Rendered</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2014-08-24</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3515200</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Setrakian, Eph and Nora formulate a plan to track down the Master using Jim as bait. Eichhorst and Setrakian’s pasts are revealed. At the Luss home, Neeva struggles to protect the children while encountering a mysterious stranger whose help she may not want.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.2</Rating>
+  <RatingCount>42</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|Bradley Thompson|David Weddle|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/276564/4768422.jpg</filename>
+  <lastupdated>1431278014</lastupdated>
+  <seasonid>571056</seasonid>
+  <seriesid>276564</seriesid>
+  <thumb_added>2014-08-18 11:38:29</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4768423</id>
+  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Guy Ferland</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Creatures of the Night</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2014-08-31</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3646160</IMDB_ID>
+  <Language>en</Language>
+  <Overview>After discovering the potency of ultraviolet light against the strigoi, Setrakian gains a new and unlikely disciple. A quick trip to a Brooklyn convenience store turns into a deadly all-night siege.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>42</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Chuck Hogan</Writer>
+  <absolute_number>8</absolute_number>
+  <filename>episodes/276564/4768423.jpg</filename>
+  <lastupdated>1427469097</lastupdated>
+  <seasonid>571056</seasonid>
+  <seriesid>276564</seriesid>
+  <thumb_added>2014-09-01 15:17:14</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4768424</id>
+  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Charlotte Sieling</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Disappeared</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2014-09-07</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3515202</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Eph races to safeguard his family, only to learn that Kelly is missing. Dutch reveals her role in Palmer’s plan. Gus is forced to make a difficult decision about Felix. </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>42</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Regina Corrado</Writer>
+  <absolute_number>9</absolute_number>
+  <filename>episodes/276564/4768424.jpg</filename>
+  <lastupdated>1428318108</lastupdated>
+  <seasonid>571056</seasonid>
+  <seriesid>276564</seriesid>
+  <thumb_added>2014-09-01 15:22:06</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4768425</id>
+  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>John Dahl</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Loved Ones</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2014-09-14</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3699810</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Eph investigates Kelly’s disappearance and struggles with what he finds. Dutch pursues a plan to retaliate against Palmer. Fitzwilliam makes a surprising choice.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>39</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Gennifer Hutchison</Writer>
+  <absolute_number>10</absolute_number>
+  <filename>episodes/276564/4768425.jpg</filename>
+  <lastupdated>1431278006</lastupdated>
+  <seasonid>571056</seasonid>
+  <seriesid>276564</seriesid>
+  <thumb_added>2014-09-14 11:48:40</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4768426</id>
+  <Combined_episodenumber>11</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Deran Sarafian</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Third Rail</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired>2014-09-21</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3630746</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Setrakian leads Eph, Fet and Nora in the hunt for the Master's lair. Left behind at the pawnshop with Mariela, Zack risks his safety for Mariela's sake. </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>38</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|Justin Britt-Gibson|Chuck Hogan|</Writer>
+  <absolute_number>11</absolute_number>
+  <filename>episodes/276564/4768426.jpg</filename>
+  <lastupdated>1431277986</lastupdated>
+  <seasonid>571056</seasonid>
+  <seriesid>276564</seriesid>
+  <thumb_added>2014-09-21 22:15:10</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4768427</id>
+  <Combined_episodenumber>12</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Peter Weller</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Last Rites</EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired>2014-09-28</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3675166</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Dutch returns with a plan to broadcast Eph’s warning about the vampiric plague, but they face a new threat when Eichhorst launches his own attack against the pawn shop. Palmer receives a special visitor. Gus gears up for the on-coming fight but discovers there’s another mysterious factor involved.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>35</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|Carlton Cuse|David Weddle|Bradley Thompson|</Writer>
+  <absolute_number>12</absolute_number>
+  <filename>episodes/276564/4768427.jpg</filename>
+  <lastupdated>1431277981</lastupdated>
+  <seasonid>571056</seasonid>
+  <seriesid>276564</seriesid>
+  <thumb_added>2014-09-22 11:41:13</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4768429</id>
+  <Combined_episodenumber>13</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Phil Abraham</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Master</EpisodeName>
+  <EpisodeNumber>13</EpisodeNumber>
+  <FirstAired>2014-10-05</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3742970</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Eph and Fet recon for an all-out assault that Setrakian assures them will finally kill the Master. Gus aligns himself with a strange new force, one that may swing the fight in an unforeseen direction.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>36</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|Carlton Cuse|Chuck Hogan|</Writer>
+  <absolute_number>13</absolute_number>
+  <filename>episodes/276564/4768429.jpg</filename>
+  <lastupdated>1431876445</lastupdated>
+  <seasonid>571056</seasonid>
+  <seriesid>276564</seriesid>
+  <thumb_added>2014-10-07 09:28:04</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5075671</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gregory Hoblit</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>BK, N.Y.</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2015-07-12</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3969926</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Eph and Nora work on a biological weapon to kill the strigoi, and Setrakian risks the lives of the entire group to find information about a closely guarded secret text. The Master begins the next phase of his own plan, by creating a terrifying new breed of creature and placing them under the control of Kelly. </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>|Carlton Cuse|Chuck Hogan|</Writer>
+  <absolute_number>14</absolute_number>
+  <filename></filename>
+  <lastupdated>1433786397</lastupdated>
+  <seasonid>606536</seasonid>
+  <seriesid>276564</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5075672</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>TJ Scott</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>By Any Means</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2015-07-19</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt4174890</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Eph and Nora experiment on their newfound patients. Fet and Dutch grow closer as they clear out the neighborhood buildings, and Kelly begins her hunt for Zack. </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>|Bradley Thompson|David Weddle|</Writer>
+  <absolute_number>15</absolute_number>
+  <filename></filename>
+  <lastupdated>1434397751</lastupdated>
+  <seasonid>606536</seasonid>
+  <seriesid>276564</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5075673</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Fort Defiance</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2015-07-26</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt4229936</IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1432373975</lastupdated>
+  <seasonid>606536</seasonid>
+  <seriesid>276564</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5203861</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>The Silver Angel</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2015-08-02</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1432373994</lastupdated>
+  <seasonid>606536</seasonid>
+  <seriesid>276564</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5203862</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Quick and Painless</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2015-08-09</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1432374003</lastupdated>
+  <seasonid>606536</seasonid>
+  <seriesid>276564</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5176808</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Identity</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2015-08-16</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1432374012</lastupdated>
+  <seasonid>606536</seasonid>
+  <seriesid>276564</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5203863</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>The Born</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2015-08-23</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1432374027</lastupdated>
+  <seasonid>606536</seasonid>
+  <seriesid>276564</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5203864</id>
+  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Intruders</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2015-08-30</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1432374035</lastupdated>
+  <seasonid>606536</seasonid>
+  <seriesid>276564</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5203865</id>
+  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>The Battle for Red Rock</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2015-09-06</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1432374052</lastupdated>
+  <seasonid>606536</seasonid>
+  <seriesid>276564</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5203866</id>
+  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>The Assassin</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2015-09-13</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1432374059</lastupdated>
+  <seasonid>606536</seasonid>
+  <seriesid>276564</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5203867</id>
+  <Combined_episodenumber>11</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Dead End</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired>2015-09-20</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1432374068</lastupdated>
+  <seasonid>606536</seasonid>
+  <seriesid>276564</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5176809</id>
+  <Combined_episodenumber>12</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Fallen Light</EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired>2015-09-27</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1432374077</lastupdated>
+  <seasonid>606536</seasonid>
+  <seriesid>276564</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5203868</id>
+  <Combined_episodenumber>13</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Night Train</EpisodeName>
+  <EpisodeNumber>13</EpisodeNumber>
+  <FirstAired>2015-10-04</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1432374092</lastupdated>
+  <seasonid>606536</seasonid>
+  <seriesid>276564</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+</Data>

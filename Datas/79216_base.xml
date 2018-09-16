@@ -3,8 +3,8 @@
   <Series>
     <id>79216</id>
     <Actors>|Chris O'Dowd|Katherine Parkinson|Richard Ayoade|Matt Berry|Chris Morris|Noel Fielding|</Actors>
-    <Airs_DayOfWeek>Friday</Airs_DayOfWeek>
-    <Airs_Time>9:30 PM</Airs_Time>
+    <Airs_DayOfWeek></Airs_DayOfWeek>
+    <Airs_Time></Airs_Time>
     <ContentRating>TV-14</ContentRating>
     <FirstAired>2006-02-03</FirstAired>
     <Genre>|Comedy|</Genre>
@@ -16,8 +16,8 @@
 
 The IT Crowd is a playful and somewhat surreal look at what it's really like to be the underclass of every company - the IT Department.</Overview>
     <Rating>8.9</Rating>
-    <RatingCount>239</RatingCount>
-    <Runtime>30</Runtime>
+    <RatingCount>247</RatingCount>
+    <Runtime>25</Runtime>
     <SeriesID>54188</SeriesID>
     <SeriesName>The IT Crowd</SeriesName>
     <Status>Ended</Status>
@@ -25,7 +25,7 @@ The IT Crowd is a playful and somewhat surreal look at what it's really like to 
     <addedBy></addedBy>
     <banner>graphical/79216-g8.jpg</banner>
     <fanart>fanart/original/79216-18.jpg</fanart>
-    <lastupdated>1405648516</lastupdated>
+    <lastupdated>1430834711</lastupdated>
     <poster>posters/79216-1.jpg</poster>
     <tms_wanted_old>1</tms_wanted_old>
     <zap2it_id>EP00930794</zap2it_id>

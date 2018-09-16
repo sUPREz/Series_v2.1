@@ -3,7 +3,7 @@
   <id>79488</id>
   <Actors>|Alec Baldwin|Tina Fey|Jane Krakowski|Scott Adsit|Judah Friedlander|Jack McBrayer|Katrina Bowden|Lonny Ross|Tracy Morgan|John Lutz|Kevin Brown|Maulik Pancholy|Keith Powell|Grizz Chapman|</Actors>
   <Airs_DayOfWeek>Thursday</Airs_DayOfWeek>
-  <Airs_Time>8 PM</Airs_Time>
+  <Airs_Time>8:00 PM</Airs_Time>
   <ContentRating>TV-14</ContentRating>
   <FirstAired>2006-10-11</FirstAired>
   <Genre>|Comedy|</Genre>
@@ -14,17 +14,17 @@
   <Overview>Emmy Award Winner Tina Fey writes, executive produces and stars as Liz Lemon, the head writer of a live variety programme in New York City. Liz's life is turned upside down when brash new network executive Jack Donaghy (Alec Baldwin in his Golden Globe winning role) interferes with her show, bringing the wildly unpredictable Tracy Jordan (Tracy Morgan) into the cast. Now its up to Liz to manage the mayhem and still try to have a life.
 </Overview>
   <Rating>8.6</Rating>
-  <RatingCount>216</RatingCount>
+  <RatingCount>220</RatingCount>
   <Runtime>30</Runtime>
   <SeriesID>58326</SeriesID>
   <SeriesName>30 Rock</SeriesName>
   <Status>Ended</Status>
   <added></added>
   <addedBy></addedBy>
-  <banner>graphical/79488-g11.jpg</banner>
-  <fanart>fanart/original/79488-11.jpg</fanart>
-  <lastupdated>1405685375</lastupdated>
-  <poster>posters/79488-7.jpg</poster>
+  <banner>graphical/79488-g7.jpg</banner>
+  <fanart>fanart/original/79488-25.jpg</fanart>
+  <lastupdated>1434878991</lastupdated>
+  <poster>posters/79488-12.jpg</poster>
   <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>EP00848357</zap2it_id>
 </Series>
@@ -41,7 +41,7 @@
   <EpisodeName>Unaired Pilot</EpisodeName>
   <EpisodeNumber>1</EpisodeNumber>
   <FirstAired>2005-06-27</FirstAired>
-  <GuestStars>Richard Brevard|Joseph Brondo|Stewart Brodian|Gary Cowling</GuestStars>
+  <GuestStars>|Richard Brevard|Joseph Brondo|Stewart Brodian|Gary Cowling|</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>Liz Lemon is the head writer on a demanding, live TV program in New York City. However, things begin to get complicated when her new boss insists that a wild and unpredictable movie star joins the cast.This episode was pretty similar to the one that aired, with only some differences in terms of the direction of the show. Perhaps the most notable difference is the fact that Rachel Dratch had a starring role, from which she was replaced due to creative reasons and given different recurring roles.</Overview>
@@ -52,10 +52,10 @@
   <Writer>Tina Fey</Writer>
   <absolute_number></absolute_number>
   <airsafter_season></airsafter_season>
-  <airsbefore_episode>1</airsbefore_episode>
-  <airsbefore_season>1</airsbefore_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
   <filename>episodes/79488/338392.jpg</filename>
-  <lastupdated>1333352332</lastupdated>
+  <lastupdated>1433640843</lastupdated>
   <seasonid>26917</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -123,13 +123,13 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Rating>8.3</Rating>
   <RatingCount>3</RatingCount>
   <SeasonNumber>0</SeasonNumber>
-  <Writer>Jack Burditt|Tina Fey</Writer>
+  <Writer>|Jack Burditt|Tina Fey|</Writer>
   <absolute_number>122</absolute_number>
   <airsafter_season></airsafter_season>
-  <airsbefore_episode>20</airsbefore_episode>
-  <airsbefore_season>6</airsbefore_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
   <filename>episodes/79488/4315448.jpg</filename>
-  <lastupdated>1343678085</lastupdated>
+  <lastupdated>1433640800</lastupdated>
   <seasonid>26917</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -155,7 +155,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>Liz Lemon is called upstairs to meet the new network exec, Jack Donaghy, who instructs her to hire movie star Tracy Jordan to draw a young male audience to 'The Girlie Show'.</Overview>
   <ProductionCode>101</ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>88</RatingCount>
+  <RatingCount>90</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Tina Fey</Writer>
   <absolute_number>1</absolute_number>
@@ -185,8 +185,8 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Language>en</Language>
   <Overview>Jack continues to tweak The Girlie Show so that eccentric Tracy Jordan is the star of the show. And Liz makes it all much worse when she tries to smooth things over.</Overview>
   <ProductionCode>102</ProductionCode>
-  <Rating>7.2</Rating>
-  <RatingCount>64</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>68</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Tina Fey</Writer>
   <absolute_number>2</absolute_number>
@@ -217,7 +217,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>Cupid has a new rival when Jack insists on sending Liz on a blind date with his out of town friend, Thomas.</Overview>
   <ProductionCode>103</ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>60</RatingCount>
+  <RatingCount>62</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Tina Fey</Writer>
   <absolute_number>3</absolute_number>
@@ -247,8 +247,8 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Language>en</Language>
   <Overview>Lines are drawn when Jack decides to sit in on the writers' room and Kenneth the page tries to deal with Tracy's difficult demands.</Overview>
   <ProductionCode>104</ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>56</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>59</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>John Riggi</Writer>
   <absolute_number>4</absolute_number>
@@ -279,7 +279,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>Jack is determined to act in a sketch on the show. Liz suspects Tracy may be illiterate.</Overview>
   <ProductionCode>107</ProductionCode>
   <Rating>7.2</Rating>
-  <RatingCount>58</RatingCount>
+  <RatingCount>59</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Robert Carlock</Writer>
   <absolute_number>5</absolute_number>
@@ -310,7 +310,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>Liz reconnects with her ex-boyfriend Dennis, the last remaining pager salesman in New York. Meanwhile, Jenna and Tracy try to &quot;enhance&quot; their appearances for career reasons.</Overview>
   <ProductionCode>105</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>54</RatingCount>
+  <RatingCount>55</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Robert Carlock</Writer>
   <absolute_number>6</absolute_number>
@@ -341,7 +341,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>It's a star showdown when a dazed and confused Tracy bumps Jenna from her scheduled appearance on Late Night with Conan O'brien.</Overview>
   <ProductionCode>108</ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>48</RatingCount>
+  <RatingCount>49</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Jack Burditt</Writer>
   <absolute_number>7</absolute_number>
@@ -372,7 +372,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>At the urging of everyone, Liz finally breaks up with her beeper salesman boyfriend, but the path back to &quot;single and loving it&quot; proves to be filled with unforeseen obstacles.</Overview>
   <ProductionCode>109</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>49</RatingCount>
+  <RatingCount>50</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Tina Fey</Writer>
   <absolute_number>8</absolute_number>
@@ -402,13 +402,13 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Language>en</Language>
   <Overview>There are mommy issues on the set when Jenna tells everyone that Liz wants to get pregnant, and Jack gives her some very personal parental advice.</Overview>
   <ProductionCode>110</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>51</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>52</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>Brett Baer|Dave Finkel</Writer>
+  <Writer>|Brett Baer|Dave Finkel|</Writer>
   <absolute_number>9</absolute_number>
   <filename>episodes/79488/311604.jpg</filename>
-  <lastupdated>1396003748</lastupdated>
+  <lastupdated>1431124190</lastupdated>
   <seasonid>16439</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -428,18 +428,18 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <EpisodeName>The Rural Juror</EpisodeName>
   <EpisodeNumber>10</EpisodeNumber>
   <FirstAired>2007-01-11</FirstAired>
-  <GuestStars>|Lonny Ross|Kevin Kelly Brown|Chris Parnell| Keith Powell|Maulik Pancholy|Rachel Dratch|</GuestStars>
+  <GuestStars>|Lonny Ross|Kevin Kelly Brown|Chris Parnell|Keith Powell|Maulik Pancholy|Rachel Dratch|</GuestStars>
   <IMDB_ID>tt0915758</IMDB_ID>
   <Language>en</Language>
   <Overview>Jenna can't wait for her new movie to open, but Liz won't tell her what she really thinks of her performance.</Overview>
   <ProductionCode>111</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>46</RatingCount>
+  <RatingCount>48</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Jack Burditt</Writer>
   <absolute_number>10</absolute_number>
   <filename>episodes/79488/316764.jpg</filename>
-  <lastupdated>1396003779</lastupdated>
+  <lastupdated>1431124155</lastupdated>
   <seasonid>16439</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -465,7 +465,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>There are some new power players around when Jack and Kenneth the page switch roles for the day and Liz finds herself clicking with a gorgeous hunk.</Overview>
   <ProductionCode>112</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>45</RatingCount>
+  <RatingCount>47</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Matt Hubbard</Writer>
   <absolute_number>11</absolute_number>
@@ -496,12 +496,12 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>Liz, Jack and Jenna rub elbows with the upper crust at a prince's (Paul Reubens) birthday party. But the end of the evening finds Liz lying low after Jack's ex-wife (Isabella Rossellini) shows up.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>47</RatingCount>
+  <RatingCount>49</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>John Riggi|Tina Fey</Writer>
+  <Writer>|John Riggi|Tina Fey|</Writer>
   <absolute_number>12</absolute_number>
   <filename>episodes/79488/320192.jpg</filename>
-  <lastupdated>1396003830</lastupdated>
+  <lastupdated>1431124141</lastupdated>
   <seasonid>16439</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -527,7 +527,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>Valentine's Day is much more than candy and flowers when Jack celebrates the finalization of his divorce and the writers are forced to pull an all-nighter.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>52</RatingCount>
+  <RatingCount>53</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Tina Fey|Kay Cannon|</Writer>
   <absolute_number>13</absolute_number>
@@ -552,18 +552,18 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <EpisodeName>The 'C' Word</EpisodeName>
   <EpisodeNumber>14</EpisodeNumber>
   <FirstAired>2007-02-15</FirstAired>
-  <GuestStars>Darlene J. Camille|Paul Doherty|Tamara Fay|Rachel Hamilton|Kevin Miller|Charlene Yi|Teresa Yenque|Tom Treadwell|Sam Kitchin|Justin Badger</GuestStars>
+  <GuestStars>|Darlene J. Camille|Paul Doherty|Tamara Fay|Rachel Hamilton|Kevin Miller|Charlene Yi|Teresa Yenque|Tom Treadwell|Sam Kitchin|Justin Badger|</GuestStars>
   <IMDB_ID>tt0892439</IMDB_ID>
   <Language>en</Language>
   <Overview>Being the boss isn't all it's cracked up to be when Liz overhears the writers discussing her management style and Jack tries to impress CEO Don Geiss (Rip Torn) at a charity golf tournament by bringing Tracy along.</Overview>
   <ProductionCode>108</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>52</RatingCount>
+  <RatingCount>53</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Tina Fey</Writer>
   <absolute_number>14</absolute_number>
   <filename>episodes/79488/320677.jpg</filename>
-  <lastupdated>1396003871</lastupdated>
+  <lastupdated>1431124413</lastupdated>
   <seasonid>16439</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -583,18 +583,18 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <EpisodeName>Hard Ball</EpisodeName>
   <EpisodeNumber>15</EpisodeNumber>
   <FirstAired>2007-02-22</FirstAired>
-  <GuestStars>David Alan Basche|Gregory Wooddell|Gregg Bello</GuestStars>
+  <GuestStars>|David Alan Basche|Gregory Wooddell|Gregg Bello|</GuestStars>
   <IMDB_ID>tt0944244</IMDB_ID>
   <Language>en</Language>
   <Overview>It's negotiation time, and Jack plans to teach Liz a thing or two about how to handle Josh's new contract. Jenna makes several big publicity mistakes.</Overview>
   <ProductionCode>115</ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>46</RatingCount>
+  <RatingCount>47</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Matt Hubbard</Writer>
   <absolute_number>15</absolute_number>
   <filename>episodes/79488/320885.jpg</filename>
-  <lastupdated>1396003896</lastupdated>
+  <lastupdated>1431124376</lastupdated>
   <seasonid>16439</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -614,18 +614,18 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <EpisodeName>The Source Awards</EpisodeName>
   <EpisodeNumber>16</EpisodeNumber>
   <FirstAired>2007-03-01</FirstAired>
-  <GuestStars>|Lonny Ross| Kevin Brown| Chris Matthews| Tucker Carlson| Keith Powell| Gregg Bello| Gregory Wooddell| David Alan Basche| Katrina Bowden|</GuestStars>
+  <GuestStars>|Lonny Ross|Kevin Brown|Chris Matthews|Tucker Carlson|Keith Powell|Gregg Bello|Gregory Wooddell|David Alan Basche|Katrina Bowden|</GuestStars>
   <IMDB_ID>tt0971260</IMDB_ID>
   <Language>en</Language>
   <Overview>It's lights, camera, aggravation when Liz finds herself locked in a relationship with Tracy's determined new manager and Jack forces Tracy to host The Source Awards (special guests L.L. Cool J and Wayne Brady).</Overview>
   <ProductionCode>116</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>44</RatingCount>
+  <RatingCount>45</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Matt Hubbard</Writer>
   <absolute_number>16</absolute_number>
   <filename>episodes/79488/323243.jpg</filename>
-  <lastupdated>1376952019</lastupdated>
+  <lastupdated>1431124245</lastupdated>
   <seasonid>16439</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -651,12 +651,12 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>Family matters move front and centre when Jack is reunited with his down-and-out brother (Nathan Lane) and Liz has a tough time making staff cutbacks.</Overview>
   <ProductionCode>117</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>47</RatingCount>
+  <RatingCount>49</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>Robert Carlock|Daisy  Gardner</Writer>
+  <Writer>|Robert Carlock|Daisy Gardner|</Writer>
   <absolute_number>17</absolute_number>
   <filename>episodes/79488/324051.jpg</filename>
-  <lastupdated>1396003944</lastupdated>
+  <lastupdated>1431124321</lastupdated>
   <seasonid>16439</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -682,7 +682,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>Sparks are flying when Jack uses Kenneth the page to thwart an aggressive west coast NBC exec (Will Arnett) and Liz follows her crush to an AA meeting.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>47</RatingCount>
+  <RatingCount>48</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Jack Burditt</Writer>
   <absolute_number>18</absolute_number>
@@ -713,7 +713,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>Love is in the air, but Liz is concerned when Jack takes an overwhelming interest in her new boyfriend (Jason Sudeikis).</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>42</RatingCount>
+  <RatingCount>44</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>John Riggi</Writer>
   <absolute_number>19</absolute_number>
@@ -738,18 +738,18 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <EpisodeName>Cleveland</EpisodeName>
   <EpisodeNumber>20</EpisodeNumber>
   <FirstAired>2007-04-19</FirstAired>
-  <GuestStars>|Emily Mortimer|</GuestStars>
+  <GuestStars>Emily Mortimer</GuestStars>
   <IMDB_ID>tt1001595</IMDB_ID>
   <Language>en</Language>
   <Overview>There are certainly no sparks when Jack asks Liz to take his fiancee, Phoebe (Emily Mortimer), out for a ladies' lunch. But Liz finds a lot more to like when her boyfriend takes her to the great city of Cleveland.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>48</RatingCount>
+  <RatingCount>50</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>Robert Carlock|Jack Burditt</Writer>
+  <Writer>|Robert Carlock|Jack Burditt|</Writer>
   <absolute_number>20</absolute_number>
   <filename>episodes/79488/327698.jpg</filename>
-  <lastupdated>1376952182</lastupdated>
+  <lastupdated>1431124046</lastupdated>
   <seasonid>16439</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -775,7 +775,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>Tracy, on the run from the Black Crusaders, goes into hiding with Kenneth's cousin Jessie (Sean Hayes), and the pressure's on Liz to make the show work after Jack's mother (Elaine Stritch) arrives and Jack ends up in the hospital.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>46</RatingCount>
+  <RatingCount>47</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Tina Fey</Writer>
   <absolute_number>21</absolute_number>
@@ -800,18 +800,18 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <EpisodeName>Seinfeld Vision</EpisodeName>
   <EpisodeNumber>1</EpisodeNumber>
   <FirstAired>2007-10-04</FirstAired>
-  <GuestStars>Michal Antonov|Oksana Lada</GuestStars>
+  <GuestStars>|Michal Antonov|Oksana Lada|</GuestStars>
   <IMDB_ID>tt1001572</IMDB_ID>
   <Language>en</Language>
   <Overview>As the cast and crew of TGS with Tracy Jordan returns for a new season, Liz is excited to see Jack again. However, her excitement quickly fades as Jack insists that Liz is still not over Floyd. Meanwhile, Jerry Seinfeld shows up at Jack's office in an upset mood after Jack announces his newest plan. Finally, Kenneth becomes Tracy's office wife when Tracy separates from his wife and Jenna returns to set a whole lot heavier now that she has been involved in Mystic Pizza: The Musical!.</Overview>
   <ProductionCode>201</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>60</RatingCount>
+  <RatingCount>61</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Tina Fey</Writer>
   <absolute_number>22</absolute_number>
   <filename>episodes/79488/336606.jpg</filename>
-  <lastupdated>1344085302</lastupdated>
+  <lastupdated>1433640774</lastupdated>
   <seasonid>28650</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -831,18 +831,18 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <EpisodeName>Jack Gets in the Game</EpisodeName>
   <EpisodeNumber>2</EpisodeNumber>
   <FirstAired>2007-10-11</FirstAired>
-  <GuestStars>Erin Hilgartner|Marceline Hugot|Jean Morgan|Fajer Al-Kaisi|Matt Lauria</GuestStars>
+  <GuestStars>|Erin Hilgartner|Marceline Hugot|Jean Morgan|Fajer Al-Kaisi|Matt Lauria|</GuestStars>
   <IMDB_ID>tt1001584</IMDB_ID>
   <Language>en</Language>
   <Overview>When Jack discovers that his boss is retiring, he decides to get in the competition for his position. Meanwhile, Jenna begins to enjoy her fame for being fat and along with Jack encourages Liz to get her act together. Finally, Kenneth makes it his mission to get Tracy and Angie back together.</Overview>
   <ProductionCode>202</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>52</RatingCount>
+  <RatingCount>53</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Robert Carlock</Writer>
   <absolute_number>23</absolute_number>
   <filename>episodes/79488/337903.jpg</filename>
-  <lastupdated>1344085316</lastupdated>
+  <lastupdated>1433640837</lastupdated>
   <seasonid>28650</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -862,18 +862,18 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <EpisodeName>The Collection</EpisodeName>
   <EpisodeNumber>3</EpisodeNumber>
   <FirstAired>2007-10-18</FirstAired>
-  <GuestStars>David Titus|Lucelina Sierra</GuestStars>
+  <GuestStars>|David Titus|Lucelina Sierra|</GuestStars>
   <IMDB_ID>tt1001588</IMDB_ID>
   <Language>en</Language>
   <Overview>Jack hires his own private investigator to lead GE in the wrong direction so that they will not be able to find any dirt on him that might put him in a compromising position. However, when he is asked to give up his cookie jar collection, Jack finds the task too much of a challenge. Meanwhile, Angie announces that she will follow Tracy at all times to keep him in line, which Liz believes to be good until she covers for Tracy and gets on Angie's bad side. Finally, Jenna starts to worry once she starts to lose all the weight she gained over the summer and her popularity begins to hang on the line.</Overview>
   <ProductionCode>203</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>50</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>51</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Matt Hubbard</Writer>
   <absolute_number>24</absolute_number>
   <filename>episodes/79488/337904.jpg</filename>
-  <lastupdated>1344085325</lastupdated>
+  <lastupdated>1433640786</lastupdated>
   <seasonid>28650</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -893,18 +893,18 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <EpisodeName>Rosemary's Baby</EpisodeName>
   <EpisodeNumber>4</EpisodeNumber>
   <FirstAired>2007-10-25</FirstAired>
-  <GuestStars>Carrie Fisher|Megan Blake Stevenson|Stuart Zagnit|Marcella Roy|Paul Scheer|Jean Villepique|Elijah Cook</GuestStars>
+  <GuestStars>|Carrie Fisher|Megan Blake Stevenson|Stuart Zagnit|Marcella Roy|Paul Scheer|Jean Villepique|Elijah Cook|</GuestStars>
   <IMDB_ID>tt1001589</IMDB_ID>
   <Language>en</Language>
   <Overview>Liz meets her longtime idol, Rosemary Howard, and invites her to be a guest writer on &quot;TGS with Tracy Jordan&quot;. However, Rosemary's ideas turn out to be too much for the show, prompting Jack to pressure Liz into firing her. Meanwhile, Jack takes Tracy to a therapist to explain to him why he must do the opposite of what he is told, and Jenna ruins Kenneth's page jacket, causing him to compete in a page-off to keep his job.</Overview>
   <ProductionCode>204</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>46</RatingCount>
+  <RatingCount>47</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Jack Burditt</Writer>
   <absolute_number>25</absolute_number>
   <filename>episodes/79488/337905.jpg</filename>
-  <lastupdated>1344085338</lastupdated>
+  <lastupdated>1433640849</lastupdated>
   <seasonid>28650</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -924,18 +924,18 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <EpisodeName>Greenzo</EpisodeName>
   <EpisodeNumber>5</EpisodeNumber>
   <FirstAired>2007-11-08</FirstAired>
-  <GuestStars>Madison McKinley|Paula Pell|Dion Sapp|David Schwimmer|Al Gore</GuestStars>
+  <GuestStars>|Madison McKinley|Paula Pell|Dion Sapp|David Schwimmer|Al Gore|</GuestStars>
   <IMDB_ID>tt1001590</IMDB_ID>
   <Language>en</Language>
   <Overview>It's time for Kenneth's annual house party, but he may be the only one excited about it. The soiree has only been attended by Liz in the past, so in order to get a better turnout Tracy spreads rumors that ultimately get out of hand.  Meanwhile, Jack deals with NBC's new environmentally-friendly mascot, whose new-found stardom goes to his head.</Overview>
   <ProductionCode>205</ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>44</RatingCount>
+  <RatingCount>45</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Jon Pollack</Writer>
   <absolute_number>26</absolute_number>
   <filename>episodes/79488/337906.jpg</filename>
-  <lastupdated>1344085351</lastupdated>
+  <lastupdated>1433640862</lastupdated>
   <seasonid>28650</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -955,18 +955,18 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <EpisodeName>Somebody to Love</EpisodeName>
   <EpisodeNumber>6</EpisodeNumber>
   <FirstAired>2007-11-15</FirstAired>
-  <GuestStars>Matthieu Cornillon||Michael Devine|Kristen Wiig|Richard Esposito|Chris Caniglia|Christianne Tisdale|Edie Falco|Fred Armisen</GuestStars>
+  <GuestStars>|Matthieu Cornillon|Michael Devine|Kristen Wiig|Richard Esposito|Chris Caniglia|Christianne Tisdale|Edie Falco|Fred Armisen|</GuestStars>
   <IMDB_ID>tt1001591</IMDB_ID>
   <Language>en</Language>
   <Overview>Jack falls for a congresswoman he meets at a cocktail party and despite the fact that they hold opposite views, the couple agrees to put politics aside and have a secret affair. Meanwhile, Liz believes her Middle Eastern neighbor to be a terrorist and tips off Homeland Security, creating a big mess.</Overview>
   <ProductionCode>207</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>49</RatingCount>
+  <RatingCount>50</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>Tina Fey|Kay Cannon</Writer>
+  <Writer>|Tina Fey|Kay Cannon|</Writer>
   <absolute_number>27</absolute_number>
   <filename>episodes/79488/337907.jpg</filename>
-  <lastupdated>1344085364</lastupdated>
+  <lastupdated>1433640815</lastupdated>
   <seasonid>28650</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -986,18 +986,18 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <EpisodeName>Cougars</EpisodeName>
   <EpisodeNumber>7</EpisodeNumber>
   <FirstAired>2007-11-29</FirstAired>
-  <GuestStars>Ian Hyland|Val Matt Emmich|Laura Berrios|Mark Viera|Sean J. Moran|Ralph Peavy III|Blake Tyler Benitez|Craig Radioman|Alan H. Green|Greg Scarnici</GuestStars>
+  <GuestStars>|Ian Hyland|Val Matt Emmich|Laura Berrios|Mark Viera|Sean J. Moran|Ralph Peavy III|Blake Tyler Benitez|Craig Radioman|Alan H. Green|Greg Scarnici|</GuestStars>
   <IMDB_ID>tt1001592</IMDB_ID>
   <Language>en</Language>
   <Overview>As part of his community service, Tracy must coach a little league team. All goes well until Jack takes interest in the team and turmoil starts from there. Meanwhile, Liz is asked out on a date by Jamie, the new coffee boy, who thinks Liz is actually younger than she truly is.</Overview>
   <ProductionCode>CFD06</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>46</RatingCount>
+  <RatingCount>47</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>John Riggi</Writer>
   <absolute_number>28</absolute_number>
   <filename>episodes/79488/342291.jpg</filename>
-  <lastupdated>1344085377</lastupdated>
+  <lastupdated>1433640794</lastupdated>
   <seasonid>28650</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -1017,18 +1017,18 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <EpisodeName>Secrets &amp; Lies</EpisodeName>
   <EpisodeNumber>8</EpisodeNumber>
   <FirstAired>2007-12-06</FirstAired>
-  <GuestStars>Erich McCall|Blaine Horton|Jabari Gray|Andrew Polk|Darlene Violette|Melissa Gallagher|Tom Treadwell|Paul Eichel|Reshma Shetty|Reathel Bean</GuestStars>
+  <GuestStars>|Erich McCall|Blaine Horton|Jabari Gray|Andrew Polk|Darlene Violette|Melissa Gallagher|Tom Treadwell|Paul Eichel|Reshma Shetty|Reathel Bean|</GuestStars>
   <IMDB_ID>tt1001593</IMDB_ID>
   <Language>en</Language>
   <Overview>C.C. and Jack face a block in their relationship when C.C. decides to go public about the affair but Jack refuses. Meanwhile, Liz struggles to keep both Tracy and Jenna happy when the two find it hard to share the spotlight, while Frank makes fun of Toofer's Harvard education with bizarre results.</Overview>
   <ProductionCode>208</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>45</RatingCount>
+  <RatingCount>46</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Ron Weiner</Writer>
   <absolute_number>29</absolute_number>
   <filename>episodes/79488/343234.jpg</filename>
-  <lastupdated>1344085389</lastupdated>
+  <lastupdated>1433640870</lastupdated>
   <seasonid>28650</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -1048,18 +1048,18 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <EpisodeName>Episode 209</EpisodeName>
   <EpisodeNumber>9</EpisodeNumber>
   <FirstAired>2007-12-13</FirstAired>
-  <GuestStars>Buck Henry|Anita Gillette|Andy Richter|Elaine Stritch|John Lutz|Kay Cannon|John F. Mooney|Selena Gonzalez</GuestStars>
+  <GuestStars>|Buck Henry|Anita Gillette|Andy Richter|Elaine Stritch|John Lutz|Kay Cannon|John F. Mooney|Selena Gonzalez|</GuestStars>
   <IMDB_ID>tt1001594</IMDB_ID>
   <Language>en</Language>
   <Overview>Jack gets attached to Liz's nurturing parents because they provide the love and support he never got from his mom. The staffers get ready for their raunchy holiday party, but Kenneth changes their plans at the last minute.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>50</RatingCount>
+  <RatingCount>51</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Tami Sagher</Writer>
   <absolute_number>30</absolute_number>
   <filename>episodes/79488/345107.jpg</filename>
-  <lastupdated>1344085404</lastupdated>
+  <lastupdated>1433640808</lastupdated>
   <seasonid>28650</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -1079,18 +1079,18 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <EpisodeName>Episode 210</EpisodeName>
   <EpisodeNumber>10</EpisodeNumber>
   <FirstAired>2008-01-10</FirstAired>
-  <GuestStars>James Cavanagh Burke|James Arden|Julia Barnett|Toby Huss</GuestStars>
+  <GuestStars>|James Cavanagh Burke|James Arden|Julia Barnett|Toby Huss|</GuestStars>
   <IMDB_ID>tt1001574</IMDB_ID>
   <Language>en</Language>
   <Overview>Jack and C.C. try to make their long distance romance work, Liz decides to invest in real estate, and Kenneth becomes addicted to caffeine.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>49</RatingCount>
+  <RatingCount>50</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>Robert Carlock|Donald Glover II</Writer>
+  <Writer>|Robert Carlock|Donald Glover II|</Writer>
   <absolute_number>31</absolute_number>
   <filename>episodes/79488/347835.jpg</filename>
-  <lastupdated>1344085414</lastupdated>
+  <lastupdated>1433640767</lastupdated>
   <seasonid>28650</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -1110,18 +1110,18 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <EpisodeName>MILF Island</EpisodeName>
   <EpisodeNumber>11</EpisodeNumber>
   <FirstAired>2008-04-10</FirstAired>
-  <GuestStars>Christina Ianelli|Rob Huebel|Timothy Adams|Pierra Francesca|Deidre Goodwin</GuestStars>
+  <GuestStars>|Christina Ianelli|Rob Huebel|Timothy Adams|Pierra Francesca|Deidre Goodwin|</GuestStars>
   <IMDB_ID>tt1001575</IMDB_ID>
   <Language>en</Language>
   <Overview>When someone on the 'TGS with Tracy Jordan' staff insults Jack in a newspaper article about the season finale of 'MILF Island', he frantically sends Jonathan to interrogate everyone on 'TGS' until the culprit is found.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>51</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>52</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>Tina Fey|Matt Hubbard</Writer>
+  <Writer>|Tina Fey|Matt Hubbard|</Writer>
   <absolute_number>32</absolute_number>
   <filename>episodes/79488/359110.jpg</filename>
-  <lastupdated>1344085425</lastupdated>
+  <lastupdated>1433640781</lastupdated>
   <seasonid>28650</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -1141,7 +1141,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <EpisodeName>Subway Hero</EpisodeName>
   <EpisodeNumber>12</EpisodeNumber>
   <FirstAired>2008-04-17</FirstAired>
-  <GuestStars>Tim Conway|Dean Winters</GuestStars>
+  <GuestStars>|Tim Conway|Dean Winters|</GuestStars>
   <IMDB_ID>tt1001576</IMDB_ID>
   <Language>en</Language>
   <Overview>Dennis becomes a New York City celebrity after jumping in front of a train and saving someone who fell on the tracks. Meanwhile, Jack desperately tries to persuade Tracy to become the celebrity face of the Republican Party.</Overview>
@@ -1149,10 +1149,10 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Rating>7.5</Rating>
   <RatingCount>45</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>Jack Burditt|Robert Carlock</Writer>
+  <Writer>|Jack Burditt|Robert Carlock|</Writer>
   <absolute_number>33</absolute_number>
   <filename>episodes/79488/359111.jpg</filename>
-  <lastupdated>1344085435</lastupdated>
+  <lastupdated>1433640822</lastupdated>
   <seasonid>28650</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -1172,18 +1172,18 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <EpisodeName>Succession</EpisodeName>
   <EpisodeNumber>13</EpisodeNumber>
   <FirstAired>2008-04-24</FirstAired>
-  <GuestStars>Will Arnett|Rip Torn</GuestStars>
+  <GuestStars>|Will Arnett|Rip Torn|</GuestStars>
   <IMDB_ID>tt1001577</IMDB_ID>
   <Language>en</Language>
   <Overview>When Don decides to promote Jack and make him his successor over Devon, Jack decides to give his old job to Liz because she always has his back. However, a turn of events concerning Don's health compromises Jack's promotion. Meanwhile, Tracy thinks that his son is embarrassed of his career because he did not invite him to fathers day at school.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>48</RatingCount>
+  <RatingCount>49</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>John Riggi|Andrew Guest</Writer>
+  <Writer>|John Riggi|Andrew Guest|</Writer>
   <absolute_number>34</absolute_number>
   <filename>episodes/79488/359112.jpg</filename>
-  <lastupdated>1344085446</lastupdated>
+  <lastupdated>1433640857</lastupdated>
   <seasonid>28650</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -1209,12 +1209,12 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>Floyd stays at Liz's place overnight when his flight is canceled. Meanwhile, Jack is demoted to the 12th floor, causing him to question his future status at the company. Finally, the staff celebrates Annual Sandwich Day with mysterious sandwiches from a secret location in Brooklyn.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>50</RatingCount>
+  <RatingCount>51</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>Robert Carlock|Jack Burditt</Writer>
+  <Writer>|Robert Carlock|Jack Burditt|</Writer>
   <absolute_number>35</absolute_number>
   <filename>episodes/79488/364835.jpg</filename>
-  <lastupdated>1344085524</lastupdated>
+  <lastupdated>1433640828</lastupdated>
   <seasonid>28650</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -1234,18 +1234,18 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <EpisodeName>Cooter</EpisodeName>
   <EpisodeNumber>15</EpisodeNumber>
   <FirstAired>2008-05-08</FirstAired>
-  <GuestStars>Paul Scheer|Matthew Broderick</GuestStars>
+  <GuestStars>|Paul Scheer|Matthew Broderick|</GuestStars>
   <IMDB_ID>tt1001579</IMDB_ID>
   <Language>en</Language>
   <Overview>In the second season finale, Jack moves on to a new job involving politics in Washington, but the position is not quite what he anticipated. Meanwhile, Liz suffers a pregnancy scare, Kenneth confronts rival page Donny when applying for a summer job, and Tracy works on his latest invention.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>45</RatingCount>
+  <RatingCount>46</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Tina Fey</Writer>
   <absolute_number>36</absolute_number>
   <filename>episodes/79488/364975.jpg</filename>
-  <lastupdated>1344085517</lastupdated>
+  <lastupdated>1433640759</lastupdated>
   <seasonid>28650</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -1271,7 +1271,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>Liz tries to keep the TGS staff from ruining her chances at adoption when an evaluator (Megan Mullally) drops by the job. Jack is back at 30 Rock to reclaim his position from Devin Banks (Will Arnett), but quickly learns the task won't be easy when he is given a sizeable demotion.</Overview>
   <ProductionCode>301</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>63</RatingCount>
+  <RatingCount>64</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Tina Fey</Writer>
   <absolute_number>37</absolute_number>
@@ -1302,7 +1302,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>On a flight back from Chicago, Liz spills her soul to Oprah Winfrey. Meanwhile, Tracy and Jenna butt heads as they try to determine whose life is harder and Jack's morality is tested by Kenneth after an Olympics snafu.</Overview>
   <ProductionCode>302</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>53</RatingCount>
+  <RatingCount>54</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Robert Carlock</Writer>
   <absolute_number>38</absolute_number>
@@ -1327,18 +1327,18 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <EpisodeName>The One with the Cast of 'Night Court'</EpisodeName>
   <EpisodeNumber>3</EpisodeNumber>
   <FirstAired>2008-11-13</FirstAired>
-  <GuestStars>|Ako|Markie Post|Charles Robinson|Harry Anderson|Jennifer Aniston |Christopher Stadulis|</GuestStars>
+  <GuestStars>|Ako|Markie Post|Charles Robinson|Harry Anderson|Jennifer Aniston|Christopher Stadulis|</GuestStars>
   <IMDB_ID>tt1248345</IMDB_ID>
   <Language>en</Language>
   <Overview>Liz and Jenna's free-spirited friend Claire (Jennifer Aniston) visits New York and falls hard for Jack. Kenneth, distressed over the new page uniforms, turns to Tracy who cheers him up with a surprise involving the cast of Night Court.</Overview>
   <ProductionCode>303</ProductionCode>
-  <Rating>7.1</Rating>
+  <Rating>7.2</Rating>
   <RatingCount>62</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Jack Burditt</Writer>
   <absolute_number>39</absolute_number>
   <filename>episodes/79488/402806.jpg</filename>
-  <lastupdated>1381549240</lastupdated>
+  <lastupdated>1431124171</lastupdated>
   <seasonid>36544</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -1364,7 +1364,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>Eccentric businessman Gavin Volure (Steve Martin) becomes enamored with Liz. Meanwhile, Tracy fears his kids may have sinister plans and Kenneth entrusts Jack to invest his savings in Gavin's business venture.</Overview>
   <ProductionCode>304</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>54</RatingCount>
+  <RatingCount>55</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>John Riggi</Writer>
   <absolute_number>40</absolute_number>
@@ -1388,19 +1388,19 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Reunion</EpisodeName>
   <EpisodeNumber>5</EpisodeNumber>
-  <FirstAired>2008-11-04</FirstAired>
+  <FirstAired>2008-12-04</FirstAired>
   <GuestStars>|Marion McCorry|Gerrianne Raphael|Jason Kravits|Robyn Lively|</GuestStars>
   <IMDB_ID>tt1248347</IMDB_ID>
   <Language>en</Language>
   <Overview>Liz is opposed to going to her high school reunion, but Jack manages to convince her otherwise. Meanwhile, Don Geiss (Rip Torn) wake up from his coma only to shock Jack with his declaration of who will be GE's CEO.</Overview>
   <ProductionCode>305</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>59</RatingCount>
+  <RatingCount>60</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Matt Hubbard</Writer>
   <absolute_number>41</absolute_number>
   <filename>episodes/79488/407874.jpg</filename>
-  <lastupdated>1396049584</lastupdated>
+  <lastupdated>1409493717</lastupdated>
   <seasonid>36544</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -1426,7 +1426,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>Liz participates in a charity program to help underprivileged kids celebrate Christmas. Meanwhile, Jack takes his frustration out on the TGS staff when his plans for a dream holiday vacation away from his overbearing mother are crushed.</Overview>
   <ProductionCode>306</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>53</RatingCount>
+  <RatingCount>54</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Kay Cannon|Tina Fey|</Writer>
   <absolute_number>42</absolute_number>
@@ -1457,7 +1457,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>Jenna is concerned that Liz's attraction to a new guy (Peter Dinklage) has to do with her longing to have a child. Jack hits it off with his mother's nurse. Elisa (Salma Hayek) helps Tracy and Angie (Sherry Shepherd) arrange a post-nip, and tries to get Jenna an audition for the title role in a Janis Joplin biopic.</Overview>
   <ProductionCode>307</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>54</RatingCount>
+  <RatingCount>55</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Ron Weiner</Writer>
   <absolute_number>43</absolute_number>
@@ -1488,7 +1488,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>Liz fights for the staff's rights to flu shots from Dr. Spaceman (Chris Parnell). Meanwhile, Elisa is working seven days a week, so Jack must be creative about finding ways to spend time with her.</Overview>
   <ProductionCode>308</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>52</RatingCount>
+  <RatingCount>53</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Jon Pollack</Writer>
   <absolute_number>44</absolute_number>
@@ -1518,8 +1518,8 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Language>en</Language>
   <Overview>Nervous about the corporate retreat, Jack recruits Liz to accompany him for support. Jenna decides to take up method acting to prepare for her Janis Joplin role. Kenneth must convince Tracy that diabetes is affected by his diet.</Overview>
   <ProductionCode>309</ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>50</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>51</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Tami Sagher</Writer>
   <absolute_number>45</absolute_number>
@@ -1550,7 +1550,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>Liz discovers she has a handsome and single neighbour (John Hamm) after receiving his mail by mistake. Due to Jack's striking resemblance to a spanish soap villain, Elisa's grandmother disapproves of their relationship. The new TGS interns invite Tracy out for a night of partying.</Overview>
   <ProductionCode>310</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>52</RatingCount>
+  <RatingCount>53</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Robert Carlock</Writer>
   <absolute_number>46</absolute_number>
@@ -1581,7 +1581,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>Liz unintentionally insists her and Drew (John Hamm) have their first official date on Valentine's Day. Jack goes to church with girlfriend Elisa and Tracy helps Kenneth win the affection of a new staffer.</Overview>
   <ProductionCode>311</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>50</RatingCount>
+  <RatingCount>51</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Jack Burditt|Tina Fey|</Writer>
   <absolute_number>47</absolute_number>
@@ -1612,7 +1612,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>Jack considers taking the next step with Elisa while Tracy's interview on Larry King Live sends New York City into a panic. Liz recruits Kenneth to accompany her to chaotic Queens to retrieve her lost cell phone.</Overview>
   <ProductionCode>312</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>53</RatingCount>
+  <RatingCount>54</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Matt Hubbard</Writer>
   <absolute_number>48</absolute_number>
@@ -1643,7 +1643,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>Liz befriends a pregnant teen in an attempt to adopt her baby. Jenna vies for more attention but Kenneth's plan to combine her birthday party with one for Tracy derails her efforts. Jack goes out with the guys and bonds with Frank over daddy issues.</Overview>
   <ProductionCode>313</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>58</RatingCount>
+  <RatingCount>59</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Ron Weiner</Writer>
   <absolute_number>49</absolute_number>
@@ -1674,7 +1674,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>When Liz can't scheme her way out of jury duty, chaos ensues on the set of TGS. With no one in charge, Tracy and Jenna begin to act irresponsibly, while Jack becomes absorbed in launching a lucrative new product.</Overview>
   <ProductionCode>314</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>50</RatingCount>
+  <RatingCount>51</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Donald Glover II|Tom Ceraulo|</Writer>
   <absolute_number>50</absolute_number>
@@ -1704,8 +1704,8 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Language>en</Language>
   <Overview>Liz spends more time with her boyfriend Drew (John Hamm) and finds that his handsomeness allows him to bypass many of the usual frustrations of daily life. Jack must find a way to convince Tracy to stay on at TGS after his contract expires and Jenna considers a new hairstyle to attract public attention.</Overview>
   <ProductionCode>315</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>51</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>52</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Tina Fey</Writer>
   <absolute_number>51</absolute_number>
@@ -1736,7 +1736,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>While Jack plans the perfect 50th birthday party for himself, he watches old home videos that inspire him to recreate one of the happiest moments he had a young boy. Liz's ex-boyfriend Dennis decides to come clean about an addiction, stirring up drama between Liz and Jenna.</Overview>
   <ProductionCode>316</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>52</RatingCount>
+  <RatingCount>53</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Robert Carlock</Writer>
   <absolute_number>52</absolute_number>
@@ -1766,8 +1766,8 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Language>en</Language>
   <Overview>Excitement for TGS's 50th show is quickly replaced by concern about company budget cuts. When Jack is forced to hand out pink slips, Liz does some personal bartering to save her staff.</Overview>
   <ProductionCode>317</ProductionCode>
-  <Rating>7.3</Rating>
-  <RatingCount>55</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>56</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Matt Hubbard</Writer>
   <absolute_number>53</absolute_number>
@@ -1797,8 +1797,8 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Language>en</Language>
   <Overview>Suspended from work, Liz must learn to live without TGS. Meanwhile, when the film studio has second thoughts about releasing Jenna's Janis Joplin biopic, Jack needs Jenna to create some promotional buzz using her celebrity status.</Overview>
   <ProductionCode>318</ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>50</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>51</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Kay Cannon|Tracey Wigfield|</Writer>
   <absolute_number>54</absolute_number>
@@ -1829,7 +1829,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>When Jack and Elisa (Salma Hayek) think seriously about their engagement, he seeks advice from Tracy about the reality of married life. Elisa divulges to Liz she is keeping a secret. A prank results in an injury back at TGS and Jenna loses her cool over an attractive EMT.</Overview>
   <ProductionCode>319</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>50</RatingCount>
+  <RatingCount>51</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Jack Burditt</Writer>
   <absolute_number>55</absolute_number>
@@ -1860,7 +1860,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>Tracy and Liz stop receiving preferential treatment and experience what it means to be each other's equals. Jack's mother reveals unpleasant memories about Jack's father leaving the family. Jenna adopts a pet gibbon and learns the perils of motherhood.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>45</RatingCount>
+  <RatingCount>46</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Tina Fey|John Riggi|</Writer>
   <absolute_number>56</absolute_number>
@@ -1885,18 +1885,18 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <EpisodeName>Mamma Mia</EpisodeName>
   <EpisodeNumber>21</EpisodeNumber>
   <FirstAired>2009-05-07</FirstAired>
-  <GuestStars>Steve Buscemi, Alan Alda</GuestStars>
+  <GuestStars>|Steve Buscemi|Alan Alda|</GuestStars>
   <IMDB_ID>tt1248343</IMDB_ID>
   <Language>en</Language>
   <Overview>Liz and Tracy convince Jack to begin the search for his real father (Alan Alda) and Tracy discovers an illegitimate son. Meanwhile, Jenna and Liz fight for the spotlight when Jenna gets recognition for one of Liz's ideas.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>54</RatingCount>
+  <RatingCount>55</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Ron Weiner</Writer>
   <absolute_number>57</absolute_number>
   <filename>episodes/79488/534631.jpg</filename>
-  <lastupdated>1400840998</lastupdated>
+  <lastupdated>1431124347</lastupdated>
   <seasonid>36544</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -1921,8 +1921,8 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Language>en</Language>
   <Overview>The TGS staff rallies as Jack's father's (Alan Alda) health hangs in the balance. Liz enjoys newfound fame as a relationship expert. When Tracy's high school invites him to speak at graduation, Kenneth helps him overcome embarrassing memories.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>49</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>50</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Jack Burditt|Robert Carlock|</Writer>
   <absolute_number>58</absolute_number>
@@ -1953,7 +1953,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>When Jack orders them to find a new cast member, Liz and Pete are forced to fake an affair to keep their talent search a secret. Meanwhile, a dispute over timecards prompts Kenneth to lead a page strike. Jenna &quot;goes country,&quot; and Tracy tries to reconnect with the common man.</Overview>
   <ProductionCode>401</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>65</RatingCount>
+  <RatingCount>66</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Tina Fey</Writer>
   <absolute_number>59</absolute_number>
@@ -1984,7 +1984,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>Jack finds himself answering to Devin Banks (Will Arnett) and the government's microwave oven task force. Tracy seeks retribution from Liz when he discovers that most of the relationship &quot;deal breakers&quot; in her book were based on him still angry about a  potential new cast member. Jenna abandons TGS to shoot a werewolf movie in Iceland.</Overview>
   <ProductionCode>402</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>61</RatingCount>
+  <RatingCount>63</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Robert Carlock</Writer>
   <absolute_number>60</absolute_number>
@@ -2015,7 +2015,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>Liz and Jack engage in a clash of world views as they search for talent in Kenneth's Georgia hometown. Tracy is haunted by the celebrity &quot;rule of threes&quot; and fears that his death is imminent. An increasingly desperate Jenna tries to cozy up to the writers.</Overview>
   <ProductionCode>403</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>58</RatingCount>
+  <RatingCount>59</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>John Riggi</Writer>
   <absolute_number>61</absolute_number>
@@ -2046,7 +2046,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>Liz and Pete try to rig the TGS auditions as everyone else jockeys for a chance to audition for the show or, in Tracy and Jenna's case, tries to sabotage the proceedings. Amid the chaos, Jack is treated like a pariah because of a bedbug infestation.</Overview>
   <ProductionCode>404</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>57</RatingCount>
+  <RatingCount>59</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Matt Hubbard</Writer>
   <absolute_number>62</absolute_number>
@@ -2077,7 +2077,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>Jack proposes that Liz host a Dealbreakers talk show, then bristles when she hires an agent and considers outside producers. When the new cast member's (Cheyenne Jackson) easy going attitude causes Tracy and Jenna to question their demanding ways, Kenneth feels his role at TGS is threatened.</Overview>
   <ProductionCode>405</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>57</RatingCount>
+  <RatingCount>58</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Ron Weiner</Writer>
   <absolute_number>63</absolute_number>
@@ -2108,12 +2108,12 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>When her building goes condo, Liz tried to scare off the tenant above her so she can buy his apartment. Jack and Tracy, both considering vasectomies, consult with Dr. Spaceman and confront their issues about fatherhood. Kenneth attempts to make TGS a green workplace and finds an unexpected ally in Frank.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>58</RatingCount>
+  <RatingCount>59</RatingCount>
   <SeasonNumber>4</SeasonNumber>
-  <Writer>Josh Siegal|Dylan Morgan</Writer>
+  <Writer>|Josh Siegal|Dylan Morgan|</Writer>
   <absolute_number>64</absolute_number>
   <filename>episodes/79488/1308061.jpg</filename>
-  <lastupdated>1381802615</lastupdated>
+  <lastupdated>1431124256</lastupdated>
   <seasonid>119071</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -2140,7 +2140,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
 </Overview>
   <ProductionCode>407</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>58</RatingCount>
+  <RatingCount>60</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Kay Cannon</Writer>
   <absolute_number>65</absolute_number>
@@ -2170,8 +2170,8 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Language>en</Language>
   <Overview>Jack reunites with his high school crush, Nancy Donovan (Julianne Moore), thanks to a social networking site. Meanwhile, Liz struggles to find Jack a perfect gift, the writers invent a religion to avoid Kenneth's secret Santa gift swap, and Pete enlists Danny in his crusade for revenge against Jenna.</Overview>
   <ProductionCode>408</ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>59</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>61</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Tina Fey</Writer>
   <absolute_number>66</absolute_number>
@@ -2202,7 +2202,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>Jack and Kenneth go to great lengths in an effort to erase a drunk voicemail. Jenna agrees to &quot;date&quot; James Franco to help with his public image. Liz's newly outed young cousin unexpectedly turns up in New York. Tracy, expecting a daughter, begins to rethink his treatment of women.</Overview>
   <ProductionCode>409</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>54</RatingCount>
+  <RatingCount>57</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Robert Carlock</Writer>
   <absolute_number>67</absolute_number>
@@ -2233,7 +2233,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>Jack is uncomfortable with Liz and Danny's burgeoning relationship. Tracy welcomes Sue into his entourage. Jenna is forced to face reality after an embarrassing Gossip Girl audition.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>53</RatingCount>
+  <RatingCount>54</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Steve Hely</Writer>
   <absolute_number>68</absolute_number>
@@ -2263,13 +2263,13 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Language>en</Language>
   <Overview>Jack brings TGS to Boston in an effort to spend time with Nancy. Stuck in a strange and cold city, the staff turns on Liz, who searches for a scapegoat. Meanwhile, Tracy feuds with John Hancock.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>51</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>52</RatingCount>
   <SeasonNumber>4</SeasonNumber>
-  <Writer>Vali Chandrasekaran|Tom Ceraulo</Writer>
+  <Writer>|Vali Chandrasekaran|Tom Ceraulo|</Writer>
   <absolute_number>69</absolute_number>
   <filename>episodes/79488/1583401.jpg</filename>
-  <lastupdated>1381802945</lastupdated>
+  <lastupdated>1431124208</lastupdated>
   <seasonid>119071</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -2295,7 +2295,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>Jack coaches Jenna when her estranged mother, Verna (Jan Hooks), drops by unannounced. Liz and Frank make a pact to kick their respective bad habits. Kenneth intrudes on Pete's quiet time.</Overview>
   <ProductionCode>412</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>57</RatingCount>
+  <RatingCount>59</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Ron Weiner</Writer>
   <absolute_number>70</absolute_number>
@@ -2320,18 +2320,18 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <EpisodeName>Anna Howard Shaw Day</EpisodeName>
   <EpisodeNumber>13</EpisodeNumber>
   <FirstAired>2010-02-11</FirstAired>
-  <GuestStars>Elizabeth Banks, Horatio Sanz, Jon Hamm, Jon Bon Jovi</GuestStars>
+  <GuestStars>|Elizabeth Banks|Horatio Sanz|Jon Hamm|Jon Bon Jovi|</GuestStars>
   <IMDB_ID>tt1590350</IMDB_ID>
   <Language>en</Language>
   <Overview>Liz schedules oral surgery in an effort to avoid Valentine's Day. Meanwhile, Jack falls for a sexy CNBC journalist, Avery Jessup (Elizabeth Banks), and Jenna is crushed to discover that her stalker (Horatio Sanz) has moved on.</Overview>
   <ProductionCode>413</ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>56</RatingCount>
+  <RatingCount>57</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Matt Hubbard</Writer>
   <absolute_number>71</absolute_number>
   <filename>episodes/79488/1706571.jpg</filename>
-  <lastupdated>1401079245</lastupdated>
+  <lastupdated>1431124269</lastupdated>
   <seasonid>119071</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -2357,12 +2357,12 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>Jack learns that Sheinhardt wigs may be selling NBC to a cable company. Liz searches for a mystery man she met in her dentist's recovery room. Jenna tries to help Tracy win a Tony Award.</Overview>
   <ProductionCode>414</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>68</RatingCount>
+  <RatingCount>69</RatingCount>
   <SeasonNumber>4</SeasonNumber>
-  <Writer>Tracy Wigfield|John Haller</Writer>
+  <Writer>|Tracy Wigfield|John Haller|</Writer>
   <absolute_number>72</absolute_number>
   <filename>episodes/79488/1847161.jpg</filename>
-  <lastupdated>1381803150</lastupdated>
+  <lastupdated>1431124337</lastupdated>
   <seasonid>119071</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -2388,12 +2388,12 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>Still grieving over the loss of his mentor, Jack tries to establish his identity within NBC's new ownership. A series of chance meetings cause Liz to wonder if fate is telling her to settle for Wesley (Michael Sheen). Tracy must deal with the fallout when his nanny writes a scathing expose.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>60</RatingCount>
+  <RatingCount>62</RatingCount>
   <SeasonNumber>4</SeasonNumber>
-  <Writer>Jack Burditt|Tracey Wigfield</Writer>
+  <Writer>|Jack Burditt|Tracey Wigfield|</Writer>
   <absolute_number>73</absolute_number>
   <filename>episodes/79488/1847171.jpg</filename>
-  <lastupdated>1381803222</lastupdated>
+  <lastupdated>1431124221</lastupdated>
   <seasonid>119071</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -2419,7 +2419,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>Liz deals with the unexpected return of her one good boyfriend, Floyd Debarber (Jason Sudeikis). Jack helps Danny battle the writers in a rapidly escalating prank war. After being subjected to hours of his stories, Tracy and Jenna are haunted by Kenneth in their dreams.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>70</RatingCount>
+  <RatingCount>72</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Paula Pell</Writer>
   <absolute_number>74</absolute_number>
@@ -2450,12 +2450,12 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>Jack's birthday brings additional pressure on him to choose between Avery and Nancy. Liz forces herself to attend as many singles events as she can. Back in the writers' room, Toofer is troubled by the circumstances behind his hiring.</Overview>
   <ProductionCode>417</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>69</RatingCount>
+  <RatingCount>71</RatingCount>
   <SeasonNumber>4</SeasonNumber>
-  <Writer>Kay Cannon|Tina Fey</Writer>
+  <Writer>|Kay Cannon|Tina Fey|</Writer>
   <absolute_number>75</absolute_number>
   <filename>episodes/79488/1984841.jpg</filename>
-  <lastupdated>1381803390</lastupdated>
+  <lastupdated>1431124038</lastupdated>
   <seasonid>119071</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -2481,7 +2481,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>After discovering that her staff regularly goes out without inviting her, Liz vows to prove that she can have fun. In an effort to avoid making a difficult decision in his personal life, Jack focuses on a dispute over janitor shifts. Kenneth helps Tracy be a better husband to Angie.</Overview>
   <ProductionCode>418</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>61</RatingCount>
+  <RatingCount>63</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Vali Chandrasekaran</Writer>
   <absolute_number>76</absolute_number>
@@ -2511,13 +2511,13 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Language>en</Language>
   <Overview>Jack inherits Don Geiss' beloved peacock and realizes he still needs closure with his late mentor. Liz and Pete are suspicious of Jenna's new boyfriend, Paul (Will Forte). Tracy lobbbies to become Grizz's best man, causing friction int he entourage.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>61</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>63</RatingCount>
   <SeasonNumber>4</SeasonNumber>
-  <Writer>Josh Siega|Dylan Morgan|Paula Pel</Writer>
+  <Writer>|Josh Siega|Dylan Morgan|Paula Pel|</Writer>
   <absolute_number>77</absolute_number>
   <filename>episodes/79488/2048861.jpg</filename>
-  <lastupdated>1381803504</lastupdated>
+  <lastupdated>1431124011</lastupdated>
   <seasonid>119071</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -2543,12 +2543,12 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>It's Mother's Day and the TGS moms have come to visit. Colleen meddles in Jack's romantic situation, Liz discovers that her mother  almost married an astronaut, Verna squabbles with Jenna over clothes, and Tracy learns a valuable lesson from an actress hired to play his mom.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>70</RatingCount>
+  <RatingCount>71</RatingCount>
   <SeasonNumber>4</SeasonNumber>
-  <Writer>Kay Cannon|Robert Carlock</Writer>
+  <Writer>|Kay Cannon|Robert Carlock|</Writer>
   <absolute_number>78</absolute_number>
   <filename>episodes/79488/2075101.jpg</filename>
-  <lastupdated>1381803562</lastupdated>
+  <lastupdated>1431124238</lastupdated>
   <seasonid>119071</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -2574,7 +2574,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>With Avery out of town, Nancy shows up to visit Jack. Liz revisits her old boyfriends and yet again runs into the unshakable Wesley. Tracy eschews a gritty, Oscar-caliber role to do a Garfield movie.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>71</RatingCount>
+  <RatingCount>73</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Matt Hubbard</Writer>
   <absolute_number>79</absolute_number>
@@ -2605,7 +2605,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>Liz's multiwedding day takes an unexpected turn when she meets a handsome, misanthropic pilot (Matt Damon). Jack discovers which woman he is truly meant to be with. Jenna and Paul's relationship reaches an impasse. Kenneth goes to great lengths to avoid being transferred to Los Angeles.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>69</RatingCount>
+  <RatingCount>70</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Tina Fey</Writer>
   <absolute_number>80</absolute_number>
@@ -2635,8 +2635,8 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Language>en</Language>
   <Overview>Jack begins to meddle in Liz's new relationship with Carol.</Overview>
   <ProductionCode>501</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>76</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>79</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Tina Fey</Writer>
   <absolute_number>81</absolute_number>
@@ -2667,7 +2667,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>Liz uses her newfound confidence to solve Pete's problem with a difficult editor (Paul Giamatti); Jack tries to cheat mortality; Tracy vows to be present when his wife gives birth.</Overview>
   <ProductionCode>502</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>76</RatingCount>
+  <RatingCount>78</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Robert Carlock</Writer>
   <absolute_number>82</absolute_number>
@@ -2698,7 +2698,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>Jack must appear before Congress to discuss NBC's merger with KableTown. He hopes that he will charm celebrity members, but one Congresswoman, Regina Bookman, demands more diversity in its programming lineup. Jack quickly enlists Tracy to come up with some new development ideas. Meanwhile, Liz is fed up with the flack her writing staff gives her, and Jenna helps Kenneth reapply to the extremely competitive Page Program.</Overview>
   <ProductionCode>503</ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>73</RatingCount>
+  <RatingCount>75</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Jack Burditt</Writer>
   <absolute_number>83</absolute_number>
@@ -2731,7 +2731,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
 The episode was filmed twice.  The East Coast version aired for the Eastern, Central and Mountain time zones.   The West Coast version was aired in the western, Alaskan and Hawaiian time zones.</Overview>
   <ProductionCode>504</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>68</RatingCount>
+  <RatingCount>70</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>|Robert Carlock|Tina Fey|</Writer>
   <absolute_number>84</absolute_number>
@@ -2762,7 +2762,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>Jack's determined to save Liz's relationship with Carol and Tracy shoots a commercial. </Overview>
   <ProductionCode>505</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>65</RatingCount>
+  <RatingCount>67</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Matt Hubbard</Writer>
   <absolute_number>85</absolute_number>
@@ -2793,7 +2793,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>Avery makes Jack set up some boundaries when it comes to his friendship with Liz.</Overview>
   <ProductionCode>506</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>74</RatingCount>
+  <RatingCount>76</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>John Riggi</Writer>
   <absolute_number>86</absolute_number>
@@ -2823,8 +2823,8 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Language>en</Language>
   <Overview>Jack tries to sway the congressional election for the benefit of the network, while Liz finds the perfect pair of jeans. </Overview>
   <ProductionCode>507</ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>58</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>60</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Ron Weiner</Writer>
   <absolute_number>87</absolute_number>
@@ -2855,7 +2855,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>Jack worries that GE's microwave sales have improved too much without his help and tries to find glitches in their newest design. Meanwhile, Liz partakes in a crew lottery despite Jenna and Tracy's warning her not to do so. Elsewhere, the TGS writers discover that Jack is the voice of an online dictionary's pronunciation guide.</Overview>
   <ProductionCode>508</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>59</RatingCount>
+  <RatingCount>61</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>|Josh Siegal|Dylan Morgan|</Writer>
   <absolute_number>88</absolute_number>
@@ -2886,7 +2886,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>Jack recommends that Liz start seeing a therapist when she worries that Carol is getting bored with their relationship. In an attempt to take Jack's advice, Liz begins talking to Kenneth about her problems. Jack also finds himself caught up in one of Tracy's schemes when Tracy tries to convince him to invest in his son's theme restaurant in Times Square. Meanwhile, Jenna and Paul celebrate their six month anniversary.</Overview>
   <ProductionCode>509</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>62</RatingCount>
+  <RatingCount>63</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Kay Cannon</Writer>
   <absolute_number>89</absolute_number>
@@ -2917,7 +2917,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>At the urging of Liz and Avery, Jack reveals some secrets to his mother over her Christmas visit. Liz tries to get Jenna and Paul back together. Tracy tries to protect his new serious image by buying a film of his so it will never be seen.</Overview>
   <ProductionCode>510</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>57</RatingCount>
+  <RatingCount>59</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Tracey Wigfield</Writer>
   <absolute_number>90</absolute_number>
@@ -2948,7 +2948,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>The &quot;TGS&quot; staff is affected by budget cuts at NBC. Liz's New Year's resolution could mean more trouble for Jack's wedding. Jenna shares a dressing room with Danny. Tracy has a health scare.</Overview>
   <ProductionCode>511</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>62</RatingCount>
+  <RatingCount>64</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Jack Burditt</Writer>
   <absolute_number>91</absolute_number>
@@ -2979,7 +2979,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>Liz tries to exploit the situation when a reality show follows Tracy's wife. Jack pre-tapes disaster telethons.</Overview>
   <ProductionCode>512</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>59</RatingCount>
+  <RatingCount>61</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Robert Carlock</Writer>
   <absolute_number>92</absolute_number>
@@ -3009,8 +3009,8 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Language>en</Language>
   <Overview>Jack ingratiates himself to Kabletown's executives. Liz fakes pregnancy to help out Avery. A gift from their new bosses puts Jenna and Tracy at odds.</Overview>
   <ProductionCode>513</ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>55</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>57</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Matt Hubbard</Writer>
   <absolute_number>93</absolute_number>
@@ -3040,7 +3040,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Language>en</Language>
   <Overview>Avery's going into labor during a getaway with Jack leaves them in peril of their child being Canadian. Meanwhile, Liz's trip with Carol can't get off the airport tarmac. Tracy realizes achieving EGOT status comes with a lot of responsibility.</Overview>
   <ProductionCode>514</ProductionCode>
-  <Rating>7.7</Rating>
+  <Rating>7.6</Rating>
   <RatingCount>60</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>|Kay Cannon|Tom Ceraulo|</Writer>
@@ -3072,7 +3072,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>With the TGS staff afraid Liz will become a spinster, Jenna tries to find love for her. Jack's lack of sleep puts him at a disadvantage when negotiating. Pete and Frank form a band.</Overview>
   <ProductionCode>515</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>57</RatingCount>
+  <RatingCount>59</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Vali Chandrasekaran</Writer>
   <absolute_number>95</absolute_number>
@@ -3097,18 +3097,18 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <EpisodeName>TGS Hates Women</EpisodeName>
   <EpisodeNumber>16</EpisodeNumber>
   <FirstAired>2011-02-24</FirstAired>
-  <GuestStars>Chloë Grace Moretz|Cristin Milioti</GuestStars>
+  <GuestStars>|Chloë Grace Moretz|Cristin Milioti|</GuestStars>
   <IMDB_ID>tt1635813</IMDB_ID>
   <Language>en</Language>
   <Overview>Liz hires a new female writer who is, unfortunately, very stereotypically female. Jack works to position himself in KableTown's line of succession. </Overview>
   <ProductionCode>516</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>58</RatingCount>
+  <RatingCount>60</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Ron Weiner</Writer>
   <absolute_number>96</absolute_number>
   <filename>episodes/79488/3763601.jpg</filename>
-  <lastupdated>1391509770</lastupdated>
+  <lastupdated>1431124390</lastupdated>
   <seasonid>284101</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -3134,7 +3134,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>Angie's reality show visits TGS, resulting in a red-faced situation for Jack, Jenna pining for attention, and Liz leading a scheme to lure Tracy back from Africa. Meanwhile, Frank reconnects with a lost love.</Overview>
   <ProductionCode>517</ProductionCode>
   <Rating>6.9</Rating>
-  <RatingCount>57</RatingCount>
+  <RatingCount>59</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Tracey Wigfield</Writer>
   <absolute_number>97</absolute_number>
@@ -3164,8 +3164,8 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Language>en</Language>
   <Overview>Liz tries to reassure her staff that the show's forced hiatus is temporary, but everyone starts to focus on their fallback plans.Meanwhile, Jack attempts to salvage a cable network by enlisting his nemesis, Devin Banks.</Overview>
   <ProductionCode>518</ProductionCode>
-  <Rating>7.3</Rating>
-  <RatingCount>50</RatingCount>
+  <Rating>7.2</Rating>
+  <RatingCount>52</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>|Josh Siegal|Dylan Morgan|</Writer>
   <absolute_number>98</absolute_number>
@@ -3196,7 +3196,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>Liz and Kenneth try to find Tracy's whereabouts before &quot;TGS&quot; can be canceled. Meanwhile Pete, feeling emasculated, challenges the writers and crew to a contest of strength.</Overview>
   <ProductionCode>519</ProductionCode>
   <Rating>7.2</Rating>
-  <RatingCount>49</RatingCount>
+  <RatingCount>51</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>|Vali Chandrasekaran|Jon Haller|</Writer>
   <absolute_number>99</absolute_number>
@@ -3227,7 +3227,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>With TGS facing imminent cancellation, Jack asks Hank Hooper to allow them to do their 100th episode as a final chance to prove they deserve a place on the air. Amidst the chaos of show preparation, Jack starts doubting a key decision in his life, and Jenna contemplates motherhood.</Overview>
   <ProductionCode>520</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>59</RatingCount>
+  <RatingCount>61</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>|Jack Burditt|Robert Carlock|Tina Fey|</Writer>
   <absolute_number>100</absolute_number>
@@ -3258,7 +3258,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>With TGS facing imminent cancellation, Jack asks Hank Hooper to allow them to do their 100th episode as a final chance to prove they deserve a place on the air. Meanwhile, Jack questions a life decision of his and Jenna wonders if motherhood is for her.</Overview>
   <ProductionCode>521</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>14</RatingCount>
+  <RatingCount>15</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>|Jack Burditt|Robert Carlock|Tina Fey|</Writer>
   <absolute_number>101</absolute_number>
@@ -3283,18 +3283,18 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <EpisodeName>Everything Sunny All the Time Always</EpisodeName>
   <EpisodeNumber>22</EpisodeNumber>
   <FirstAired>2011-04-28</FirstAired>
-  <GuestStars>Margaret Cho| Adriane Lenox| Thomas Roberts| Elizabeth Banks</GuestStars>
+  <GuestStars>|Margaret Cho|Adriane Lenox|Thomas Roberts|Elizabeth Banks|</GuestStars>
   <IMDB_ID>tt1842558</IMDB_ID>
   <Language>en</Language>
   <Overview>Liz realizes that she needs to take control of her personal life by fixing up her dream apartment, but she encounters an obstacle along the way. Meanwhile, Jack has his own problems to deal with when Avery is held hostage. Elsewhere, Tracy finds out that Kenneth, Dotcom and Grizz have bonded in his absence. </Overview>
   <ProductionCode>522</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>60</RatingCount>
+  <RatingCount>62</RatingCount>
   <SeasonNumber>5</SeasonNumber>
-  <Writer>Kay Cannon|Matt Hubbard</Writer>
+  <Writer>|Kay Cannon|Matt Hubbard|</Writer>
   <absolute_number>102</absolute_number>
   <filename>episodes/79488/3990831.jpg</filename>
-  <lastupdated>1381083896</lastupdated>
+  <lastupdated>1431124406</lastupdated>
   <seasonid>284101</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -3314,18 +3314,18 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <EpisodeName>Respawn</EpisodeName>
   <EpisodeNumber>23</EpisodeNumber>
   <FirstAired>2011-05-05</FirstAired>
-  <GuestStars>Victor Garber| Chris Parnell| Will Forte| Donna Mitchell| Ina Garten</GuestStars>
+  <GuestStars>|Victor Garber|Chris Parnell|Will Forte|Donna Mitchell|Ina Garten|</GuestStars>
   <IMDB_ID>tt1868106</IMDB_ID>
   <Language>en</Language>
   <Overview>Tracy interrupts Liz's summer vacation. Meanwhile Jack feels lonely and turns to Kenneth, while Jenna must choose between being the Wool Council spokeswoman and her relationship with Paul. </Overview>
   <ProductionCode>523</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>58</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>60</RatingCount>
   <SeasonNumber>5</SeasonNumber>
-  <Writer>Hannibal Buress|Ron Weiner</Writer>
+  <Writer>|Hannibal Buress|Ron Weiner|</Writer>
   <absolute_number>103</absolute_number>
   <filename>episodes/79488/3990841.jpg</filename>
-  <lastupdated>1381083957</lastupdated>
+  <lastupdated>1431124097</lastupdated>
   <seasonid>284101</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -3351,12 +3351,12 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>Tracy becomes frustrated in his attempts to anger Liz. Jack questions the family value of the network's new talent competition and Kenneth awaits the Rapture.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>55</RatingCount>
+  <RatingCount>58</RatingCount>
   <SeasonNumber>6</SeasonNumber>
-  <Writer>Tina Fey|Tracey Wigfield</Writer>
+  <Writer>|Tina Fey|Tracey Wigfield|</Writer>
   <absolute_number>104</absolute_number>
   <filename>episodes/79488/4183946.jpg</filename>
-  <lastupdated>1389905726</lastupdated>
+  <lastupdated>1431124089</lastupdated>
   <seasonid>474560</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -3373,21 +3373,21 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <DVD_season>6</DVD_season>
   <Director>Beth McCarthy-Miller</Director>
   <EpImgFlag>2</EpImgFlag>
-  <EpisodeName>Idiots Are People Two!</EpisodeName>
+  <EpisodeName>Idiots are People Two!</EpisodeName>
   <EpisodeNumber>2</EpisodeNumber>
   <FirstAired>2012-01-19</FirstAired>
-  <GuestStars>Kelsey Grammer|Denise Richards|Ann Curry|James Marsden</GuestStars>
+  <GuestStars>|Kelsey Grammer|Denise Richards|Ann Curry|James Marsden|</GuestStars>
   <IMDB_ID>tt2158899</IMDB_ID>
   <Language>en</Language>
   <Overview>An offensive rant by Tracy is leaked online. Jack disapproves of Liz's new boyfriend, and the Best Friends Gang is reunited when Kenneth and Jenna call for the help of Kelsey Grammer.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>49</RatingCount>
+  <RatingCount>51</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>Robert Carlock</Writer>
   <absolute_number>105</absolute_number>
   <filename>episodes/79488/4233755.jpg</filename>
-  <lastupdated>1389905767</lastupdated>
+  <lastupdated>1431124399</lastupdated>
   <seasonid>474560</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -3404,21 +3404,21 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <DVD_season>6</DVD_season>
   <Director>Beth McCarthy-Miller</Director>
   <EpImgFlag>2</EpImgFlag>
-  <EpisodeName>Idiots Are People Three!</EpisodeName>
+  <EpisodeName>Idiots are People Three!</EpisodeName>
   <EpisodeNumber>3</EpisodeNumber>
   <FirstAired>2012-01-26</FirstAired>
-  <GuestStars>Kelsey Grammer|Denise Richards|Marceline Hugot|James Marsden|Will Arnett</GuestStars>
+  <GuestStars>|Kelsey Grammer|Denise Richards|Marceline Hugot|James Marsden|Will Arnett|</GuestStars>
   <IMDB_ID>tt2179303</IMDB_ID>
   <Language>en</Language>
   <Overview>Tracy Jordan challenges Liz by leading his own protest in defense of idiots everywhere. Jack faces off with Devin Banks yet again, but still finds time to interfere with Liz's relationship by giving Criss an ultimatum, and Liz tries to get rid of Jenna's new assistant.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>46</RatingCount>
+  <RatingCount>48</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>Robert Carlock</Writer>
   <absolute_number>106</absolute_number>
   <filename>episodes/79488/4241590.jpg</filename>
-  <lastupdated>1402746301</lastupdated>
+  <lastupdated>1431124215</lastupdated>
   <seasonid>474560</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -3438,18 +3438,18 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <EpisodeName>The Ballad of Kenneth Parcell</EpisodeName>
   <EpisodeNumber>4</EpisodeNumber>
   <FirstAired>2012-01-26</FirstAired>
-  <GuestStars>Ken Howard|Andy Samberg|Emma Stone|Nick Cannon|Mick Foley|Julie Dretzin|Steve Earle</GuestStars>
+  <GuestStars>|Ken Howard|Andy Samberg|Emma Stone|Nick Cannon|Mick Foley|Julie Dretzin|Steve Earle|</GuestStars>
   <IMDB_ID>tt2191917</IMDB_ID>
   <Language>en</Language>
   <Overview>Liz looks for a new best friend after discovering that Jenna has traded their friendship for fame. Tracy contemplates mortality as Dotcom and Grizz scramble to show him that life is still worth living. Meanwhile, Jack decides to end the page program in order to impress Hank Hooper.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>48</RatingCount>
+  <RatingCount>51</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>Matt Hubbard</Writer>
   <absolute_number>107</absolute_number>
   <filename>episodes/79488/4241591.jpg</filename>
-  <lastupdated>1402746321</lastupdated>
+  <lastupdated>1431124362</lastupdated>
   <seasonid>474560</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -3469,18 +3469,18 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <EpisodeName>Today You Are a Man</EpisodeName>
   <EpisodeNumber>5</EpisodeNumber>
   <FirstAired>2012-02-02</FirstAired>
-  <GuestStars>Kristen Schaal|Suze Orman</GuestStars>
+  <GuestStars>|Kristen Schaal|Suze Orman|</GuestStars>
   <IMDB_ID>tt2191919</IMDB_ID>
   <Language>en</Language>
   <Overview>Jack and Liz battle over her employment contract. Kenneth is reassigned after being offended by his coworkers at TGS, and Tracy and Jenna's accountant hires them as entertainment at a bar mitzvah.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>51</RatingCount>
+  <RatingCount>53</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>Ron Weiner</Writer>
   <absolute_number>108</absolute_number>
   <filename>episodes/79488/4245765.jpg</filename>
-  <lastupdated>1403371695</lastupdated>
+  <lastupdated>1431124275</lastupdated>
   <seasonid>474560</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -3500,18 +3500,18 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <EpisodeName>Hey, Baby, What's Wrong? (1)</EpisodeName>
   <EpisodeNumber>6</EpisodeNumber>
   <FirstAired>2012-02-09</FirstAired>
-  <GuestStars>James Marsden|Dean Winters|Mary Steenburgen|Kristen Schaal|Chris Parnell|Billy Bush|Erik Jensen</GuestStars>
+  <GuestStars>|James Marsden|Dean Winters|Mary Steenburgen|Kristen Schaal|Chris Parnell|Billy Bush|Erik Jensen|</GuestStars>
   <IMDB_ID>tt2105091</IMDB_ID>
   <Language>en</Language>
   <Overview>Criss and Liz decide to celebrate Valentine's Day, but they need to buy a dining room table first. Jack entertains his mother-in-law, Diana, as Jenna frantically looks to Pete to fill in last-minute as the producer of her first live performance on &quot;America's Kidz Got Singing.&quot; Back at the office, Tracy and Frank try to help Lutz find someone to spend Valentine's with.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>47</RatingCount>
+  <RatingCount>49</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>Kay Cannon</Writer>
   <absolute_number>109</absolute_number>
   <filename>episodes/79488/4245766.jpg</filename>
-  <lastupdated>1403371718</lastupdated>
+  <lastupdated>1431124073</lastupdated>
   <seasonid>474560</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -3531,7 +3531,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <EpisodeName>Hey, Baby, What's Wrong? (2)</EpisodeName>
   <EpisodeNumber>7</EpisodeNumber>
   <FirstAired>2012-02-09</FirstAired>
-  <GuestStars>James Marsden|Dean Winters|Mary Steenburgen|Kristen Schaal|Chris Parnell|Billy Bush|Erik Jensen</GuestStars>
+  <GuestStars>|James Marsden|Dean Winters|Mary Steenburgen|Kristen Schaal|Chris Parnell|Billy Bush|Erik Jensen|</GuestStars>
   <IMDB_ID>tt2372246</IMDB_ID>
   <Language>en</Language>
   <Overview>Criss and Liz decide to celebrate Valentine's Day, but they need to buy a dining room table first. Jack entertains his mother-in-law, Diana, as Jenna frantically looks to Pete to fill in last-minute as the producer of her first live performance on &quot;America's Kidz Got Singing.&quot; Back at the office, Tracy and Frank try to help Lutz find someone to spend Valentine's with.</Overview>
@@ -3542,7 +3542,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Writer>Kay Cannon</Writer>
   <absolute_number>110</absolute_number>
   <filename>episodes/79488/4245767.jpg</filename>
-  <lastupdated>1403867214</lastupdated>
+  <lastupdated>1431124104</lastupdated>
   <seasonid>474560</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -3562,18 +3562,18 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <EpisodeName>The Tuxedo Begins</EpisodeName>
   <EpisodeNumber>8</EpisodeNumber>
   <FirstAired>2012-02-16</FirstAired>
-  <GuestStars>Will Forte|Steve Buscemi</GuestStars>
+  <GuestStars>|Will Forte|Steve Buscemi|</GuestStars>
   <IMDB_ID>tt2235831</IMDB_ID>
   <Language>en</Language>
   <Overview>Fed up with New York City after being mugged, Jack sets out to protect the safety of the city's elite by announcing his run for mayor. Meanwhile, Liz revels in sacrificing the good of the city to look out for her own interests, and Jenna and Paul are thrilled by the perversion of acting like a normal couple.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>45</RatingCount>
+  <RatingCount>47</RatingCount>
   <SeasonNumber>6</SeasonNumber>
-  <Writer>Josh Siegal|Dylan Morgan</Writer>
+  <Writer>|Josh Siegal|Dylan Morgan|</Writer>
   <absolute_number>111</absolute_number>
   <filename>episodes/79488/4245768.jpg</filename>
-  <lastupdated>1403867228</lastupdated>
+  <lastupdated>1431124228</lastupdated>
   <seasonid>474560</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -3593,18 +3593,18 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <EpisodeName>Leap Day</EpisodeName>
   <EpisodeNumber>9</EpisodeNumber>
   <FirstAired>2012-02-23</FirstAired>
-  <GuestStars>James Marsden|Andie MacDowell|Jim Carrey|Adriane Lenox|Steve Little|John Cullum|Karolina Kurkova|Nicol Paone</GuestStars>
+  <GuestStars>|James Marsden|Andie MacDowell|Jim Carrey|Adriane Lenox|Steve Little|John Cullum|Karolina Kurkova|Nicol Paone|</GuestStars>
   <IMDB_ID>tt2239013</IMDB_ID>
   <Language>en</Language>
   <Overview>Jack learns to appreciate Leap Day while Tracy takes the writers to a restaurant to spend an almost-expired gift card. Liz helps Jenna seduce a billionaire online.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>45</RatingCount>
+  <RatingCount>47</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>Luke Del Tredici</Writer>
   <absolute_number>112</absolute_number>
   <filename>episodes/79488/4258916.jpg</filename>
-  <lastupdated>1404583696</lastupdated>
+  <lastupdated>1431124067</lastupdated>
   <seasonid>474560</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -3624,18 +3624,18 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <EpisodeName>Alexis Goodlooking and the Case of the Missing Whisky</EpisodeName>
   <EpisodeNumber>10</EpisodeNumber>
   <FirstAired>2012-03-01</FirstAired>
-  <GuestStars>Stanley Tucci|Patti LuPone|Susan Sarandon</GuestStars>
+  <GuestStars>|Stanley Tucci|Patti LuPone|Susan Sarandon|</GuestStars>
   <IMDB_ID>tt2239015</IMDB_ID>
   <Language>en</Language>
   <Overview>In order to hide his relationship with Lynn, Frank convinces his mother that he is dating Liz. Tracy and Jenna team up to try to solve the case of Pete's missing whisky. Meanwhile, Jack teaches Kenneth how to take down his first business nemesis.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>46</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>48</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>John Riggi</Writer>
   <absolute_number>113</absolute_number>
   <filename>episodes/79488/4265806.jpg</filename>
-  <lastupdated>1404575004</lastupdated>
+  <lastupdated>1431124177</lastupdated>
   <seasonid>474560</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -3655,18 +3655,18 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <EpisodeName>Standards and Practices</EpisodeName>
   <EpisodeNumber>11</EpisodeNumber>
   <FirstAired>2012-03-08</FirstAired>
-  <GuestStars>Chloë Grace Moretz|Ken Howard|Thomas Roberts|Carly Tamer</GuestStars>
+  <GuestStars>|Chloë Grace Moretz|Ken Howard|Thomas Roberts|Carly Tamer|</GuestStars>
   <IMDB_ID>tt2247157</IMDB_ID>
   <Language>en</Language>
   <Overview>Jenna hatches a surprising new plan to get publicity, while Jack finds himself begrudgingly playing parent to his teenage nemesis, Kaylie Hooper. Liz rejects the new authority Kenneth has over “TGS” with his new job in Standards.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>46</RatingCount>
+  <RatingCount>48</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>Vali Chandrasekaran</Writer>
   <absolute_number>114</absolute_number>
   <filename>episodes/79488/4266557.jpg</filename>
-  <lastupdated>1404734288</lastupdated>
+  <lastupdated>1431124055</lastupdated>
   <seasonid>474560</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -3686,18 +3686,18 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <EpisodeName>St. Patrick's Day</EpisodeName>
   <EpisodeNumber>12</EpisodeNumber>
   <FirstAired>2012-03-15</FirstAired>
-  <GuestStars>James Marsden|Dean Winters|Kristen Schaal|Al Roker|Bernie McInerney|Ira Glass|Sue Galloway</GuestStars>
+  <GuestStars>|James Marsden|Dean Winters|Kristen Schaal|Al Roker|Bernie McInerney|Ira Glass|Sue Galloway|</GuestStars>
   <IMDB_ID>tt2268675</IMDB_ID>
   <Language>en</Language>
   <Overview>Jack feels unworthy of his latest award and attempts to redeem himself by taking on the writers in a strategic board game. Liz believes she's cursed on St. Patrick's Day when her ex-boyfriend Dennis shows up to derail her relationship with Criss. Meanwhile, Hazel struggles to keep the peace between Tracy and Jenna.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>41</RatingCount>
+  <RatingCount>43</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>Colleen McGuinness</Writer>
   <absolute_number>115</absolute_number>
   <filename>episodes/79488/4282969.jpg</filename>
-  <lastupdated>1404734307</lastupdated>
+  <lastupdated>1431124291</lastupdated>
   <seasonid>474560</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -3717,18 +3717,18 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <EpisodeName>Grandmentor</EpisodeName>
   <EpisodeNumber>13</EpisodeNumber>
   <FirstAired>2012-03-22</FirstAired>
-  <GuestStars>Kristen Schaal|Matt Lauer</GuestStars>
+  <GuestStars>|Kristen Schaal|Matt Lauer|</GuestStars>
   <IMDB_ID>tt2288183</IMDB_ID>
   <Language>en</Language>
   <Overview>Liz struggles in her new role as mentor to Hazel. Kenneth has a difficult time letting go of his page duties and takes drastic measures to make sure Tracy is taken care of. Meanwhile, Jack and Jenna come up with a plan to get Avery back in the headlines.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.2</Rating>
-  <RatingCount>44</RatingCount>
+  <RatingCount>45</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>Sam Means</Writer>
   <absolute_number>116</absolute_number>
   <filename>episodes/79488/4286972.jpg</filename>
-  <lastupdated>1389906450</lastupdated>
+  <lastupdated>1431124134</lastupdated>
   <seasonid>474560</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -3748,18 +3748,18 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <EpisodeName>Kidnapped by Danger</EpisodeName>
   <EpisodeNumber>14</EpisodeNumber>
   <FirstAired>2012-03-22</FirstAired>
-  <GuestStars>Mary Steenburgen|Cynthia Nixon|Jimmy Fallon|Weird Al Yankovic|William Baldwin|Seth Kirschner|Chiquinquirá Delgado</GuestStars>
+  <GuestStars>|Mary Steenburgen|Cynthia Nixon|Jimmy Fallon|Weird Al Yankovic|William Baldwin|Seth Kirschner|Chiquinquirá Delgado|</GuestStars>
   <IMDB_ID>tt2301311</IMDB_ID>
   <Language>en</Language>
   <Overview>Liz's scripted version of Jack and Avery's love story leaves Jack confused and frustrated by his feelings for Diana. Meanwhile, Jenna and Tracy attempt to beat Weird Al Yankovic at his own game, and Kenneth gets an unexpected new job at NBC.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>43</RatingCount>
+  <RatingCount>45</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>Tina Fey</Writer>
   <absolute_number>117</absolute_number>
   <filename>episodes/79488/4286973.jpg</filename>
-  <lastupdated>1405685375</lastupdated>
+  <lastupdated>1431124330</lastupdated>
   <seasonid>474560</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -3779,18 +3779,18 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <EpisodeName>The Shower Principle</EpisodeName>
   <EpisodeNumber>15</EpisodeNumber>
   <FirstAired>2012-03-29</FirstAired>
-  <GuestStars>Kristen Schaal|Thomas Roberts|Ken Howard</GuestStars>
+  <GuestStars>|Kristen Schaal|Thomas Roberts|Ken Howard|</GuestStars>
   <IMDB_ID>tt2306893</IMDB_ID>
   <Language>en</Language>
   <Overview>A curse strikes TGS. Liz dares to be different after realizing that the same things happen every year, and Jack vows to wow Hank Hooper.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>38</RatingCount>
+  <RatingCount>41</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>Tom Ceraulo</Writer>
   <absolute_number>118</absolute_number>
   <filename>episodes/79488/4291939.jpg</filename>
-  <lastupdated>1389906501</lastupdated>
+  <lastupdated>1431124083</lastupdated>
   <seasonid>474560</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -3810,18 +3810,18 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <EpisodeName>Nothing Left to Lose</EpisodeName>
   <EpisodeNumber>16</EpisodeNumber>
   <FirstAired>2012-04-05</FirstAired>
-  <GuestStars>Grizz Chapman|Richard Prioleau</GuestStars>
+  <GuestStars>|Grizz Chapman|Richard Prioleau|</GuestStars>
   <IMDB_ID>tt2318791</IMDB_ID>
   <Language>en</Language>
   <Overview>Tracy regains his sense of smell and finds an unusual father figure in Liz, while the writers spark a prank war with Jenna.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>41</RatingCount>
+  <RatingCount>43</RatingCount>
   <SeasonNumber>6</SeasonNumber>
-  <Writer>Lauren Gurganous|Nina Pedrad</Writer>
+  <Writer>|Lauren Gurganous|Nina Pedrad|</Writer>
   <absolute_number>119</absolute_number>
   <filename>episodes/79488/4291940.jpg</filename>
-  <lastupdated>1389906528</lastupdated>
+  <lastupdated>1431124302</lastupdated>
   <seasonid>474560</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -3841,18 +3841,18 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <EpisodeName>Meet the Woggels</EpisodeName>
   <EpisodeNumber>17</EpisodeNumber>
   <FirstAired>2012-04-12</FirstAired>
-  <GuestStars>Elaine Stritch|Will Forte</GuestStars>
+  <GuestStars>|Elaine Stritch|Will Forte|</GuestStars>
   <IMDB_ID>tt2327679</IMDB_ID>
   <Language>en</Language>
   <Overview>Jack's mom upstages his ribbon-cutting ceremony. Meanwhile Jenna hooks up with a &quot;rock star&quot; and Tracy frets about his son heading to college.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.2</Rating>
-  <RatingCount>35</RatingCount>
+  <RatingCount>37</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>Ron Weiner</Writer>
   <absolute_number>120</absolute_number>
   <filename>episodes/79488/4291941.jpg</filename>
-  <lastupdated>1389906556</lastupdated>
+  <lastupdated>1431124383</lastupdated>
   <seasonid>474560</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -3872,18 +3872,18 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <EpisodeName>Murphy Brown Lied to Us</EpisodeName>
   <EpisodeNumber>18</EpisodeNumber>
   <FirstAired>2012-04-19</FirstAired>
-  <GuestStars>James Marsden|Stacy Keach|Will Forte|Bobby Moynihan|Matt Lauer|Vinny Anand|Tom McNutt|Bebe Wood|Curt Bouril|Stephen Beach|Paul Juhn|Steven Hauck|Kelly Deadmon|Dhruvi Patel</GuestStars>
+  <GuestStars>|James Marsden|Stacy Keach|Will Forte|Bobby Moynihan|Matt Lauer|Vinny Anand|Tom McNutt|Bebe Wood|Curt Bouril|Stephen Beach|Paul Juhn|Steven Hauck|Kelly Deadmon|Dhruvi Patel|</GuestStars>
   <IMDB_ID>tt2336545</IMDB_ID>
   <Language>en</Language>
   <Overview>Jack sets Liz up on a blind date to show her what she's missing in her relationship with Criss. Meanwhile at KableTown, Jack has to scramble when his plan to manufacture couches hits a speed bump. With Tracy's help, Jenna orchestrates a public meltdown to get Paul's attention.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>34</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>36</RatingCount>
   <SeasonNumber>6</SeasonNumber>
-  <Writer>Robert Carlock|Vali Chandrasekaran</Writer>
+  <Writer>|Robert Carlock|Vali Chandrasekaran|</Writer>
   <absolute_number>121</absolute_number>
   <filename>episodes/79488/4291942.jpg</filename>
-  <lastupdated>1389905154</lastupdated>
+  <lastupdated>1431124150</lastupdated>
   <seasonid>474560</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -3903,7 +3903,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <EpisodeName>Live from Studio 6H (East Coast)</EpisodeName>
   <EpisodeNumber>19</EpisodeNumber>
   <FirstAired>2012-04-26</FirstAired>
-  <GuestStars>Fred Armisen|Jimmy Fallon|Will Forte|Donald Glover|Jon Hamm|Paul McCartney|Chris Parnell|Amy Poehler|Kristen Schaal|Brian Williams</GuestStars>
+  <GuestStars>|Fred Armisen|Jimmy Fallon|Will Forte|Donald Glover|Jon Hamm|Paul McCartney|Chris Parnell|Amy Poehler|Kristen Schaal|Brian Williams|</GuestStars>
   <IMDB_ID>tt2336547</IMDB_ID>
   <Language>en</Language>
   <Overview>Kabletown chooses to stop funding live shows for TGS. While Liz and Jack embrace the change, Kenneth argues that live format should be kept intact, and he tries to convince the TGS staff to fight for their right to be live by taking them and our audience through a magical look back at the illustrious history of Studio 6H.
@@ -3911,12 +3911,12 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
 The episode was filmed twice.  The East Coast version aired for the Eastern, Central and Mountain time zones. The West Coast version was aired in the western, Alaskan and Hawaiian time zones.</Overview>
   <ProductionCode>619</ProductionCode>
   <Rating>7.0</Rating>
-  <RatingCount>43</RatingCount>
+  <RatingCount>44</RatingCount>
   <SeasonNumber>6</SeasonNumber>
-  <Writer>Jack Burditt|Tina Fey</Writer>
+  <Writer>|Jack Burditt|Tina Fey|</Writer>
   <absolute_number>122</absolute_number>
   <filename>episodes/79488/4291943.jpg</filename>
-  <lastupdated>1389905172</lastupdated>
+  <lastupdated>1431124370</lastupdated>
   <seasonid>474560</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -3936,18 +3936,18 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <EpisodeName>Queen of Jordan II: Mystery of the Phantom Pooper</EpisodeName>
   <EpisodeNumber>20</EpisodeNumber>
   <FirstAired>2012-05-03</FirstAired>
-  <GuestStars>Mary Steenburgen|Tituss Burgess|Sherri Shepherd</GuestStars>
+  <GuestStars>|Mary Steenburgen|Tituss Burgess|Sherri Shepherd|</GuestStars>
   <IMDB_ID>tt2361603</IMDB_ID>
   <Language>en</Language>
   <Overview>Angie brings &quot;Queen of Jordan'' back to TGS. News about Avery forces Jack to confront his feelings for her mother, and Liz finds herself in a feud.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>6.5</Rating>
-  <RatingCount>35</RatingCount>
+  <Rating>6.6</Rating>
+  <RatingCount>37</RatingCount>
   <SeasonNumber>6</SeasonNumber>
-  <Writer>Luke Del Tredici|Tracey Wigfield</Writer>
+  <Writer>|Luke Del Tredici|Tracey Wigfield|</Writer>
   <absolute_number>123</absolute_number>
   <filename>episodes/79488/4291944.jpg</filename>
-  <lastupdated>1389905474</lastupdated>
+  <lastupdated>1431124307</lastupdated>
   <seasonid>474560</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -3967,18 +3967,18 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <EpisodeName>The Return of Avery Jessup</EpisodeName>
   <EpisodeNumber>21</EpisodeNumber>
   <FirstAired>2012-05-10</FirstAired>
-  <GuestStars>James Marsden|Margaret Cho|Michael Mosley|Elizabeth Banks</GuestStars>
+  <GuestStars>|James Marsden|Margaret Cho|Michael Mosley|Elizabeth Banks|</GuestStars>
   <IMDB_ID>tt2372467</IMDB_ID>
   <Language>en</Language>
   <Overview>Avery finally returns home from her kidnapping ordeal in North Korea, yet Jack grows uncertain of her fidelity while she was away. Elsewhere, Criss is crossed due to Liz's role as top wage earner, and Jenna seeks a sponsor for her approaching nuptials.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>37</RatingCount>
+  <RatingCount>39</RatingCount>
   <SeasonNumber>6</SeasonNumber>
-  <Writer>Josh Siegal|Dylan Morgan</Writer>
+  <Writer>|Josh Siegal|Dylan Morgan|</Writer>
   <absolute_number>124</absolute_number>
   <filename>episodes/79488/4291945.jpg</filename>
-  <lastupdated>1389906629</lastupdated>
+  <lastupdated>1431124198</lastupdated>
   <seasonid>474560</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -3998,18 +3998,18 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <EpisodeName>What Will Happen to the Gang Next Year?</EpisodeName>
   <EpisodeNumber>22</EpisodeNumber>
   <FirstAired>2012-05-17</FirstAired>
-  <GuestStars>James Marsden|Mary Steenburgen|Margaret Cho|Kristen Schaal|Michael Mosley|Thomas Roberts|Cornel West|Pat Kiernan|Elizabeth Banks</GuestStars>
+  <GuestStars>|James Marsden|Mary Steenburgen|Margaret Cho|Kristen Schaal|Michael Mosley|Thomas Roberts|Cornel West|Pat Kiernan|Elizabeth Banks|</GuestStars>
   <IMDB_ID>tt2396785</IMDB_ID>
   <Language>en</Language>
   <Overview>Determined to prove his marriage has survived Avery's kidnapping unscathed, Jack asks Liz to officiate their vow renewal. Meanwhile, Criss (Marsden) tries to convince Liz that he's worth sticking around for. Tracy meets with Cornel West to discuss his influence as a black celebrity.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>38</RatingCount>
+  <RatingCount>40</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>Matt Hubbard</Writer>
   <absolute_number>125</absolute_number>
   <filename>episodes/79488/4291946.jpg</filename>
-  <lastupdated>1392421451</lastupdated>
+  <lastupdated>1431124354</lastupdated>
   <seasonid>474560</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -4035,12 +4035,12 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>The &quot;TGS&quot; gang returning from hiatus, only to be shocked by Jack's awful fall programming lineup. Meanwhile, bridezilla Jenna taps Liz to be her maid of honor, and Tracy is invited to a dinner party by Kenneth and Hazel.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>37</RatingCount>
+  <RatingCount>39</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer>Jack Burditt</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/79488/4341948.jpg</filename>
-  <lastupdated>1389989209</lastupdated>
+  <lastupdated>1434879040</lastupdated>
   <seasonid>494399</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -4066,7 +4066,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>Jack and Liz find themselves at odds over political satire at &quot;TGS&quot;. Criss and Liz make a surprising relationship breakthrough. Meanwhile, Jenna, discouraged by the disappointing sales of her summer dance hit, is thrilled to learn that Kenneth's mother and her boyfriend still buy music.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>41</RatingCount>
+  <RatingCount>42</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer>Robert Carlock</Writer>
   <absolute_number></absolute_number>
@@ -4097,7 +4097,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>Liz works to prove to Tracy that women are funny while simultaneously attempting to head off a meltdown from Jenna after some negative publicity. Jack tries out an unconventional dating strategy.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>34</RatingCount>
+  <RatingCount>36</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer>Tina Fey</Writer>
   <absolute_number></absolute_number>
@@ -4128,7 +4128,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>Liz and Jack find themselves battling to influence voters in the upcoming presidential election. Meanwhile, as Jenna goes to great lengths to please her new fan base, the writers seek out new ways to mess with her.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>29</RatingCount>
+  <RatingCount>30</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer>Matt Hubbard</Writer>
   <absolute_number></absolute_number>
@@ -4159,12 +4159,12 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>Realizing that Jenna could decide the Presidential election, Liz and Jack stage a debate to win her support and her followers. Kenneth turns to Tracy for advice on how to be an informed voter, while Pete tries to recreate the magic of the 2008 election.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>36</RatingCount>
+  <RatingCount>37</RatingCount>
   <SeasonNumber>7</SeasonNumber>
-  <Writer>Josh Siegal|Dylan Morgan</Writer>
+  <Writer>|Josh Siegal|Dylan Morgan|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/79488/4357926.jpg</filename>
-  <lastupdated>1389989360</lastupdated>
+  <lastupdated>1431124032</lastupdated>
   <seasonid>494399</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -4190,7 +4190,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>Tracy and Jack engage in a battle of wits after Tracy depicts Jack as a villain in his latest project. On Jack's advice, Liz puts her own needs ahead of those of &quot;TGS.&quot; Meanwhile, Jenna tries to shield Kenneth from Hazel's manipulation but her own selfishness gets in the way.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>35</RatingCount>
+  <RatingCount>36</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer>Luke Del Tredici</Writer>
   <absolute_number></absolute_number>
@@ -4221,7 +4221,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>After an encounter with Dennis Duffy, Liz and Criss decide to take drastic measures to start a family. As Liz looks toward the future, Jack and Jenna evaluate their own self-worth, and Tracy laments a shocking medical diagnosis.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>34</RatingCount>
+  <RatingCount>36</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer>Tracey Wigfield</Writer>
   <absolute_number></absolute_number>
@@ -4252,12 +4252,12 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>Jenna annoys Liz with her wedding envy, Jack devises a plan to avoid disappointing his visiting mother and Tracy attempts to cheer up Kenneth.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.0</Rating>
-  <RatingCount>34</RatingCount>
+  <RatingCount>36</RatingCount>
   <SeasonNumber>7</SeasonNumber>
-  <Writer>Jack Burditt|Colleen McGuinness</Writer>
+  <Writer>|Jack Burditt|Colleen McGuinness|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/79488/4357929.jpg</filename>
-  <lastupdated>1389989473</lastupdated>
+  <lastupdated>1431124025</lastupdated>
   <seasonid>494399</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -4277,18 +4277,18 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <EpisodeName>Game Over</EpisodeName>
   <EpisodeNumber>9</EpisodeNumber>
   <FirstAired>2013-01-10</FirstAired>
-  <GuestStars>Will Arnett|Chloë Grace Moretz</GuestStars>
+  <GuestStars>|Will Arnett|Chloë Grace Moretz|</GuestStars>
   <IMDB_ID>tt2587572</IMDB_ID>
   <Language>en</Language>
   <Overview>Jack asks Devin Banks to help him discredit Kaylie Hooper, Jack's teenage nemesis and KableTown's future CEO. Liz considers her options as she tries to become a mother. Tracy directs Octavia Spencer in his movie.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>35</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>37</RatingCount>
   <SeasonNumber>7</SeasonNumber>
-  <Writer>Robert Carlock|Sam Means</Writer>
+  <Writer>|Robert Carlock|Sam Means|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/79488/4357931.jpg</filename>
-  <lastupdated>1389989496</lastupdated>
+  <lastupdated>1431124314</lastupdated>
   <seasonid>494399</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -4314,12 +4314,12 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>When Jack persuades Liz to go to Florida with him, they make a shocking discovery about his mother. Jenna and Tracy assume responsibility for the show in Liz's absence, resulting in disaster for Kenneth.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>36</RatingCount>
+  <RatingCount>38</RatingCount>
   <SeasonNumber>7</SeasonNumber>
-  <Writer>Tom Ceraulo|Matt Hubbard</Writer>
+  <Writer>|Tom Ceraulo|Matt Hubbard|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/79488/4357930.jpg</filename>
-  <lastupdated>1389989515</lastupdated>
+  <lastupdated>1431124262</lastupdated>
   <seasonid>494399</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -4345,12 +4345,12 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>As her new kids arrive, Liz scrambles to save TGS from cancellation. Jack finds a new NBC president.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>31</RatingCount>
+  <RatingCount>33</RatingCount>
   <SeasonNumber>7</SeasonNumber>
-  <Writer>Lang Fisher|Nina Pedrad</Writer>
+  <Writer>|Lang Fisher|Nina Pedrad|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/79488/4357932.jpg</filename>
-  <lastupdated>1390651049</lastupdated>
+  <lastupdated>1431124183</lastupdated>
   <seasonid>494399</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>
@@ -4376,7 +4376,7 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Overview>Liz has trouble adjusting to being a stay-at-home mother. Jack takes stock of his life, and Tracy struggles to get on without Kenneth.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>31</RatingCount>
+  <RatingCount>32</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer>|Jack Burditt|Robert Carlock|</Writer>
   <absolute_number></absolute_number>
@@ -4390,11 +4390,11 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
 </Episode>
 <Episode>
   <id>4357934</id>
-  <Combined_episodenumber>13.0</Combined_episodenumber>
+  <Combined_episodenumber>12.1</Combined_episodenumber>
   <Combined_season>7</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber>13.0</DVD_episodenumber>
+  <DVD_episodenumber>12.1</DVD_episodenumber>
   <DVD_season>7</DVD_season>
   <Director>Beth McCarthy-Miller</Director>
   <EpImgFlag>2</EpImgFlag>
@@ -4406,13 +4406,13 @@ The episode was filmed twice.  The East Coast version aired for the Eastern, Cen
   <Language>en</Language>
   <Overview>The gang reunites for one final episode of TGS. </Overview>
   <ProductionCode></ProductionCode>
-  <Rating>8.6</Rating>
-  <RatingCount>9</RatingCount>
+  <Rating>8.3</Rating>
+  <RatingCount>10</RatingCount>
   <SeasonNumber>7</SeasonNumber>
   <Writer>|Tina Fey|Tracey Wigfield|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/79488/4357934.jpg</filename>
-  <lastupdated>1390831622</lastupdated>
+  <lastupdated>1412825162</lastupdated>
   <seasonid>494399</seasonid>
   <seriesid>79488</seriesid>
   <thumb_added></thumb_added>

@@ -2,8 +2,8 @@
 <Data><Series>
   <id>258616</id>
   <Actors>|Matthew Perry|Laura Benanti|John Cho|Tyler James Williams|Suzy Nakamura|Brett Gelman|Julie White|</Actors>
-  <Airs_DayOfWeek>Tuesday</Airs_DayOfWeek>
-  <Airs_Time>9:00 PM</Airs_Time>
+  <Airs_DayOfWeek></Airs_DayOfWeek>
+  <Airs_Time></Airs_Time>
   <ContentRating>TV-PG</ContentRating>
   <FirstAired>2012-08-08</FirstAired>
   <Genre>|Comedy|</Genre>
@@ -12,17 +12,17 @@
   <Network>NBC</Network>
   <NetworkID></NetworkID>
   <Overview>After taking some time to deal with the death of his wife, sportscaster Ryan King is ready to push his feelings down and get back to work. However, Ryan's boss, preferring that Ryan work through his grief first, refuses to let him back on air until he gets counseling. Reluctantly, Ryan joins a support group, where his lack of interest in healing not only makes therapy interesting but also may just serve as the breath of fresh air needed to get his fellow group members back on track to health.</Overview>
-  <Rating>7.8</Rating>
-  <RatingCount>21</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>23</RatingCount>
   <Runtime>30</Runtime>
   <SeriesID>158550</SeriesID>
   <SeriesName>Go On</SeriesName>
   <Status>Ended</Status>
   <added>2012-04-30 03:04:59</added>
   <addedBy>363517</addedBy>
-  <banner>graphical/258616-g3.jpg</banner>
+  <banner>graphical/258616-g2.jpg</banner>
   <fanart>fanart/original/258616-3.jpg</fanart>
-  <lastupdated>1405768252</lastupdated>
+  <lastupdated>1428227069</lastupdated>
   <poster>posters/258616-3.jpg</poster>
   <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>SH274690478</zap2it_id>
@@ -51,7 +51,7 @@
   <Writer>Scott Silveri</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/258616/4327461.jpg</filename>
-  <lastupdated>1383385468</lastupdated>
+  <lastupdated>1413220391</lastupdated>
   <seasonid>492458</seasonid>
   <seriesid>258616</seriesid>
   <thumb_added></thumb_added>
@@ -82,7 +82,7 @@
   <Writer>Lesley Wake Webster</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/258616/4373902.jpg</filename>
-  <lastupdated>1383385493</lastupdated>
+  <lastupdated>1413220407</lastupdated>
   <seasonid>492458</seasonid>
   <seriesid>258616</seriesid>
   <thumb_added></thumb_added>
@@ -113,7 +113,7 @@
   <Writer>Scott Silveri</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/258616/4373904.jpg</filename>
-  <lastupdated>1384691482</lastupdated>
+  <lastupdated>1413220421</lastupdated>
   <seasonid>492458</seasonid>
   <seriesid>258616</seriesid>
   <thumb_added></thumb_added>
@@ -144,7 +144,7 @@
   <Writer>Liz Brixius</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/258616/4389578.jpg</filename>
-  <lastupdated>1384691501</lastupdated>
+  <lastupdated>1413220442</lastupdated>
   <seasonid>492458</seasonid>
   <seriesid>258616</seriesid>
   <thumb_added></thumb_added>
@@ -170,12 +170,12 @@
   <Overview>Ryan makes progress and begins taking care of himself in Janie's absence. Elsewhere, the group helps Lauren study for a real-estate exam, and Steven hits the town with Ryan in the wake of a breakup.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>37</RatingCount>
+  <RatingCount>38</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Scott Silveri|Lesley Wakeand|Liz Brixius|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/258616/4406060.jpg</filename>
-  <lastupdated>1384691525</lastupdated>
+  <lastupdated>1413220464</lastupdated>
   <seasonid>492458</seasonid>
   <seriesid>258616</seriesid>
   <thumb_added></thumb_added>
@@ -201,12 +201,12 @@
   <Overview>Grieving causes Ryan to become a compulsive eater, triggering an intervention from the group. Meanwhile, Ryan offers romantic advice to Lauren, and Ryan tries to pull Danny out of his sweeping fantasy world.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>36</RatingCount>
+  <RatingCount>37</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Scott Silveri|Dennis McNicholas|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/258616/4406062.jpg</filename>
-  <lastupdated>1384691544</lastupdated>
+  <lastupdated>1413220476</lastupdated>
   <seasonid>492458</seasonid>
   <seriesid>258616</seriesid>
   <thumb_added></thumb_added>
@@ -232,12 +232,12 @@
   <Overview>The group celebrates Ryan's birthday with a scavenger hunt. Elsewhere, Sonia cares for Steven following his colonoscopy, and Mr. K and Anne connect over their love of musicals.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>37</RatingCount>
+  <RatingCount>38</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/258616/4414201.jpg</filename>
-  <lastupdated>1384691567</lastupdated>
+  <lastupdated>1413220486</lastupdated>
   <seasonid>492458</seasonid>
   <seriesid>258616</seriesid>
   <thumb_added></thumb_added>
@@ -263,12 +263,12 @@
   <Overview>Though Ryan is reluctant to take Owen under his wing, he begins to realize Owen may need a big brother figure in his life. Meanwhile, Yolanda decides she's ready to graduate from the group and Steven hires a new K-Bal Girl.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>30</RatingCount>
+  <RatingCount>31</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/258616/4414202.jpg</filename>
-  <lastupdated>1384691589</lastupdated>
+  <lastupdated>1413220497</lastupdated>
   <seasonid>492458</seasonid>
   <seriesid>258616</seriesid>
   <thumb_added></thumb_added>
@@ -294,12 +294,12 @@
   <Overview>An old college friend arrives, sparking a surprise competition between Ryan and Steven to win her affection. Meanwhile, Ryan takes the gang to the studio for Thanksgiving; Owen's mother scrutinizes Lauren's qualifications; and Ryan meets Anne's children.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>27</RatingCount>
+  <RatingCount>28</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/258616/4420014.jpg</filename>
-  <lastupdated>1384691614</lastupdated>
+  <lastupdated>1413220507</lastupdated>
   <seasonid>492458</seasonid>
   <seriesid>258616</seriesid>
   <thumb_added></thumb_added>
@@ -325,12 +325,12 @@
   <Overview>When Ryan decides it's time to start dating again, Misty May-Treanor offers to help and invites him to play in a game of beach volleyball with her friends. Elsewhere, George outlives his doctors' predicted life expectancy for him and is ready to celebrate and Danny develops feelings for Sonia.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>28</RatingCount>
+  <RatingCount>29</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/258616/4436351.jpg</filename>
-  <lastupdated>1384691630</lastupdated>
+  <lastupdated>1413220519</lastupdated>
   <seasonid>492458</seasonid>
   <seriesid>258616</seriesid>
   <thumb_added></thumb_added>
@@ -356,12 +356,12 @@
   <Overview>When the group settles on a date for their holiday party, it happens to fall on what Mr. K believes will be the end of the world. Ryan invites Anne along on his annual trip to wine country with Steven and Lauren worries her boyfriend is ready to pop the question. </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>27</RatingCount>
+  <RatingCount>28</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/258616/4437755.jpg</filename>
-  <lastupdated>1384691653</lastupdated>
+  <lastupdated>1413220529</lastupdated>
   <seasonid>492458</seasonid>
   <seriesid>258616</seriesid>
   <thumb_added></thumb_added>
@@ -386,13 +386,13 @@
   <Language>en</Language>
   <Overview>Ryan receives an invitation from Bob Costas, his hero, to take part on his new TV show while Fausta invites everyone in the group to her niece's Quincenierra - everyone except Anne. Meanwhile, after completing a major project at work, Mr. K searches to find a new way to contribute and make a difference. </Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>28</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>29</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/258616/4444670.jpg</filename>
-  <lastupdated>1384691670</lastupdated>
+  <lastupdated>1413220541</lastupdated>
   <seasonid>492458</seasonid>
   <seriesid>258616</seriesid>
   <thumb_added></thumb_added>
@@ -417,13 +417,13 @@
   <Language>en</Language>
   <Overview>Despite Carrie’s warning, Ryan wants to get his first date out of the way and asks Carrie’s flaky friend, but not without a little competition from Shaun White. Meanwhile, Yolanda starts a new job at the hospital where Sonia works and tries to reinvent herself.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>24</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>26</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/258616/4468856.jpg</filename>
-  <lastupdated>1385855876</lastupdated>
+  <lastupdated>1413220553</lastupdated>
   <seasonid>492458</seasonid>
   <seriesid>258616</seriesid>
   <thumb_added></thumb_added>
@@ -448,13 +448,13 @@
   <Language>en</Language>
   <Overview>Ryan fears the group chemistry will change and feels threatened by the return of the very popular and beautiful former group member, Simone (Piper Perabo) who tries to force the group to choose between her and Ryan. Meanwhile Steven and Mr. K buddy bond and along with Terrell Owens, teach Ryan a lesson. Anne prevents Danny from being taken to the cleaners in his divorce.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>27</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>28</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/258616/4475381.jpg</filename>
-  <lastupdated>1385855926</lastupdated>
+  <lastupdated>1413220566</lastupdated>
   <seasonid>492458</seasonid>
   <seriesid>258616</seriesid>
   <thumb_added></thumb_added>
@@ -479,13 +479,13 @@
   <Language>en</Language>
   <Overview>Ryan woos an attractive group member, but Janie's ghost materializes as he feels great guilt for dating again. Elsewhere, some of the ladies set out to buy a wedding dress for Lauren. </Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>22</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>23</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Matthew Harawitz|Lesley Wake Webster|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/258616/4478017.jpg</filename>
-  <lastupdated>1385855953</lastupdated>
+  <lastupdated>1413220586</lastupdated>
   <seasonid>492458</seasonid>
   <seriesid>258616</seriesid>
   <thumb_added></thumb_added>
@@ -511,12 +511,12 @@
   <Overview>Ryan stages a work walkout when he's forced to read a commercial for a male-enhancement product. Meanwhile, Ryan hires football's Terrell Owens as an assistant; Lauren receives a low evaluation score; and Simone takes Ryan to a meditation center.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>22</RatingCount>
+  <RatingCount>23</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/258616/4489186.jpg</filename>
-  <lastupdated>1385855965</lastupdated>
+  <lastupdated>1413220592</lastupdated>
   <seasonid>492458</seasonid>
   <seriesid>258616</seriesid>
   <thumb_added></thumb_added>
@@ -547,7 +547,7 @@
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/258616/4500766.jpg</filename>
-  <lastupdated>1388850144</lastupdated>
+  <lastupdated>1413220610</lastupdated>
   <seasonid>492458</seasonid>
   <seriesid>258616</seriesid>
   <thumb_added></thumb_added>
@@ -578,7 +578,7 @@
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/258616/4502152.jpg</filename>
-  <lastupdated>1388850164</lastupdated>
+  <lastupdated>1413220622</lastupdated>
   <seasonid>492458</seasonid>
   <seriesid>258616</seriesid>
   <thumb_added></thumb_added>
@@ -609,7 +609,7 @@
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/258616/4502153.jpg</filename>
-  <lastupdated>1388850205</lastupdated>
+  <lastupdated>1413220633</lastupdated>
   <seasonid>492458</seasonid>
   <seriesid>258616</seriesid>
   <thumb_added></thumb_added>
@@ -635,12 +635,12 @@
   <Overview>Ryan dates a recent widow. Serving as his &quot;wingman&quot; is Anne, who ends up competing against Ryan for the widow's attentions. Elsewhere, Lauren unwittingly lures a man away from Yolanda.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>22</RatingCount>
+  <RatingCount>23</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/258616/4502154.jpg</filename>
-  <lastupdated>1388850233</lastupdated>
+  <lastupdated>1413220641</lastupdated>
   <seasonid>492458</seasonid>
   <seriesid>258616</seriesid>
   <thumb_added></thumb_added>
@@ -665,13 +665,13 @@
   <Language>en</Language>
   <Overview>Ryan finds a new rival in the K-Ball Mascot. Also, Ryan is unsure how to handle a flirty, drunk-dial call from his secretary Carrie. In a strange role reversal, Ryan becomes counselor to Lauren in her confused love life while the group prepares a bachelorette party that will never be.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>21</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>22</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/258616/4502155.jpg</filename>
-  <lastupdated>1388850255</lastupdated>
+  <lastupdated>1413220651</lastupdated>
   <seasonid>492458</seasonid>
   <seriesid>258616</seriesid>
   <thumb_added></thumb_added>
@@ -698,12 +698,12 @@
 </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>17</RatingCount>
+  <RatingCount>18</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/258616/4502156.jpg</filename>
-  <lastupdated>1388850278</lastupdated>
+  <lastupdated>1413220663</lastupdated>
   <seasonid>492458</seasonid>
   <seriesid>258616</seriesid>
   <thumb_added></thumb_added>

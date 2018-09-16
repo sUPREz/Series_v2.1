@@ -2,18 +2,18 @@
 <Data><Series>
   <id>248646</id>
   <Actors>|Sarah Jones|Jorge Garcia|Sam Neill|Jonny Coyne|Parminder Nagra|Leon Rippy|David Hoflin|Robert Forster|Jason Butler Harner|</Actors>
-  <Airs_DayOfWeek>Monday</Airs_DayOfWeek>
-  <Airs_Time>9:00 PM</Airs_Time>
+  <Airs_DayOfWeek></Airs_DayOfWeek>
+  <Airs_Time></Airs_Time>
   <ContentRating>TV-14</ContentRating>
   <FirstAired>2012-01-16</FirstAired>
   <Genre>|Action|Crime|Drama|Science-Fiction|</Genre>
   <IMDB_ID>tt1728102</IMDB_ID>
   <Language>en</Language>
-  <Network>FOX</Network>
+  <Network>FOX (US)</Network>
   <NetworkID></NetworkID>
-  <Overview>In 1963, all the prisoners and guards mysteriously disappear from Alcatraz. In the present day, they resurface and a secret agency are tasked with re-capturing them.</Overview>
+  <Overview>On March 21, 1963, the inmates and guards at Alcatraz prison mysteriously disappear. To cover up the problem, the government reported the prison has been closed because of unsafe conditions. A secret government unit was set up to find the prisoners. Now, in the present-day, the inmates begin returning - unaged and unaware of where they have spent the missing decades - and continue their criminal ways. They are acting out of character and appear to be searching for specific objects. A federal agent employs a police officer and a conspiracy theory novelist to help track them down.</Overview>
   <Rating>8.2</Rating>
-  <RatingCount>75</RatingCount>
+  <RatingCount>76</RatingCount>
   <Runtime>60</Runtime>
   <SeriesID>80121</SeriesID>
   <SeriesName>Alcatraz</SeriesName>
@@ -22,7 +22,7 @@
   <addedBy>342859</addedBy>
   <banner>graphical/248646-g11.jpg</banner>
   <fanart>fanart/original/248646-10.jpg</fanart>
-  <lastupdated>1405429768</lastupdated>
+  <lastupdated>1433658604</lastupdated>
   <poster>posters/248646-6.jpg</poster>
   <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>EP01419230</zap2it_id>
@@ -62,40 +62,6 @@
   <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
-  <id>4694297</id>
-  <Combined_episodenumber>2</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag>2</EpImgFlag>
-  <EpisodeName>Island of Intrigue</EpisodeName>
-  <EpisodeNumber>2</EpisodeNumber>
-  <FirstAired>2012-10-16</FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview>A promo piece featuring cast and crew talking glowingly about making the series.</Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season>1</airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename>episodes/248646/4694297.jpg</filename>
-  <lastupdated>1382650254</lastupdated>
-  <seasonid>465695</seasonid>
-  <seriesid>248646</seriesid>
-  <thumb_added>2013-10-24 14:30:50</thumb_added>
-  <thumb_height>225</thumb_height>
-  <thumb_width>400</thumb_width>
-</Episode>
-<Episode>
   <id>4098243</id>
   <Combined_episodenumber>1.0</Combined_episodenumber>
   <Combined_season>1</Combined_season>
@@ -114,12 +80,12 @@
   <Overview>Detective Rebecca Madsen and Alcatraz historian Dr Diego Soto team up with a secret agency that is dedicated to finding and catching inmates from the infamous prison who went missing 50 years ago and are reappearing today.</Overview>
   <ProductionCode>296790</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>215</RatingCount>
+  <RatingCount>214</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>Elizabeth Sarnoff|Steven Lilien|Bryan Wynbrandt</Writer>
+  <Writer>|Elizabeth Sarnoff|Steven Lilien|Bryan Wynbrandt|</Writer>
   <absolute_number>1</absolute_number>
   <filename>episodes/248646/4098243.jpg</filename>
-  <lastupdated>1349106432</lastupdated>
+  <lastupdated>1433642249</lastupdated>
   <seasonid>465765</seasonid>
   <seriesid>248646</seriesid>
   <thumb_added></thumb_added>
@@ -305,7 +271,7 @@
   <Writer>Toni Graphia</Writer>
   <absolute_number>7</absolute_number>
   <filename>episodes/248646/4218961.jpg</filename>
-  <lastupdated>1354205931</lastupdated>
+  <lastupdated>1410146402</lastupdated>
   <seasonid>465765</seasonid>
   <seriesid>248646</seriesid>
   <thumb_added></thumb_added>
@@ -336,7 +302,7 @@
   <Writer>Robert Hull</Writer>
   <absolute_number>9</absolute_number>
   <filename>episodes/248646/4242009.jpg</filename>
-  <lastupdated>1354205915</lastupdated>
+  <lastupdated>1410146424</lastupdated>
   <seasonid>465765</seasonid>
   <seriesid>248646</seriesid>
   <thumb_added></thumb_added>
@@ -367,7 +333,7 @@
   <Writer>Toni Graphia</Writer>
   <absolute_number>10</absolute_number>
   <filename>episodes/248646/4240668.jpg</filename>
-  <lastupdated>1354205893</lastupdated>
+  <lastupdated>1410146435</lastupdated>
   <seasonid>465765</seasonid>
   <seriesid>248646</seriesid>
   <thumb_added></thumb_added>
@@ -398,12 +364,12 @@ It is available online.
 It will air again on March 12.</Overview>
   <ProductionCode>2J6057</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>114</RatingCount>
+  <RatingCount>115</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Leigh Dana Jackson</Writer>
   <absolute_number>8</absolute_number>
   <filename>episodes/248646/4251974.jpg</filename>
-  <lastupdated>1354205876</lastupdated>
+  <lastupdated>1410146452</lastupdated>
   <seasonid>465765</seasonid>
   <seriesid>248646</seriesid>
   <thumb_added></thumb_added>
@@ -423,7 +389,7 @@ It will air again on March 12.</Overview>
   <EpisodeName>Webb Porter</EpisodeName>
   <EpisodeNumber>11</EpisodeNumber>
   <FirstAired>2012-03-19</FirstAired>
-  <GuestStars>Rami Malek|Leon Rippy|Jeananne Goossen|Greyston Holt</GuestStars>
+  <GuestStars>|Rami Malek|Leon Rippy|Jeananne Goossen|Greyston Holt|</GuestStars>
   <IMDB_ID>tt2201349</IMDB_ID>
   <Language>en</Language>
   <Overview>Rebecca, Doc, and Hauser set out to capture musically-inclined serial killer Webb Porter (guest star Malek), an unknown ’63 that returns more violent than ever </Overview>
@@ -431,10 +397,10 @@ It will air again on March 12.</Overview>
   <Rating>7.6</Rating>
   <RatingCount>119</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>Steven Lilien |Bryan Wynbrandt</Writer>
+  <Writer>|Steven Lilien|Bryan Wynbrandt|</Writer>
   <absolute_number>11</absolute_number>
   <filename>episodes/248646/4251975.jpg</filename>
-  <lastupdated>1363629959</lastupdated>
+  <lastupdated>1433642255</lastupdated>
   <seasonid>465765</seasonid>
   <seriesid>248646</seriesid>
   <thumb_added></thumb_added>
@@ -454,7 +420,7 @@ It will air again on March 12.</Overview>
   <EpisodeName>Garrett Stillman</EpisodeName>
   <EpisodeNumber>12</EpisodeNumber>
   <FirstAired>2012-03-26</FirstAired>
-  <GuestStars>Joe Egender|Greg Ellis|Leon Rippy|Brendan Fletcher|Steven Grayhm</GuestStars>
+  <GuestStars>|Joe Egender|Greg Ellis|Leon Rippy|Brendan Fletcher|Steven Grayhm|</GuestStars>
   <IMDB_ID>tt2201347</IMDB_ID>
   <Language>en</Language>
   <Overview>Doc and Rebecca close in on a man who may be the key to revealing the secrets behind all the returning criminals. Meanwhile, Hauser makes a discovery beneath the halls of Alcatraz that brings him ever closer to the truth.</Overview>
@@ -462,10 +428,10 @@ It will air again on March 12.</Overview>
   <Rating>7.6</Rating>
   <RatingCount>121</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>Leigh Dana Jackson|Coleman Herbert</Writer>
+  <Writer>|Leigh Dana Jackson|Coleman Herbert|</Writer>
   <absolute_number>12</absolute_number>
   <filename>episodes/248646/4253440.jpg</filename>
-  <lastupdated>1354205846</lastupdated>
+  <lastupdated>1433642261</lastupdated>
   <seasonid>465765</seasonid>
   <seriesid>248646</seriesid>
   <thumb_added></thumb_added>
@@ -485,7 +451,7 @@ It will air again on March 12.</Overview>
   <EpisodeName>Tommy Madsen</EpisodeName>
   <EpisodeNumber>13</EpisodeNumber>
   <FirstAired>2012-03-26</FirstAired>
-  <GuestStars>Robbie Amell|Matt Craven|David Hoflin|Leon Rippy|Emily Holmes|Eric Keenleyside</GuestStars>
+  <GuestStars>|Robbie Amell|Matt Craven|David Hoflin|Leon Rippy|Emily Holmes|Eric Keenleyside|</GuestStars>
   <IMDB_ID>tt2276167</IMDB_ID>
   <Language>en</Language>
   <Overview>Revealing doors are opened and lives hang in the balance as Rebecca will stop at nothing in pursuit of the man who killed her partner.</Overview>
@@ -493,10 +459,10 @@ It will air again on March 12.</Overview>
   <Rating>7.8</Rating>
   <RatingCount>116</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>Jennifer Johnson|Daniel Pyne</Writer>
+  <Writer>|Jennifer Johnson|Daniel Pyne|</Writer>
   <absolute_number>13</absolute_number>
   <filename>episodes/248646/4253441.jpg</filename>
-  <lastupdated>1354205827</lastupdated>
+  <lastupdated>1433642168</lastupdated>
   <seasonid>465765</seasonid>
   <seriesid>248646</seriesid>
   <thumb_added></thumb_added>

@@ -6,14 +6,14 @@
   <Airs_Time>8:30 PM</Airs_Time>
   <ContentRating>TV-14</ContentRating>
   <FirstAired>2010-07-25</FirstAired>
-  <Genre>|Action|Adventure|Comedy|Crime|Drama|Mystery|Thriller|</Genre>
+  <Genre>|Adventure|Crime|Drama|Mystery|Thriller|</Genre>
   <IMDB_ID>tt1475582</IMDB_ID>
   <Language>en</Language>
   <Network>BBC One</Network>
   <NetworkID></NetworkID>
-  <Overview>Sherlock depicts &quot;consulting detective&quot; Sherlock Holmes, who assists the Metropolitan Police Service, primarily D.I. Greg Lestrade, in solving various crimes. Holmes is assisted by his flatmate, Dr. John Watson.</Overview>
-  <Rating>9.3</Rating>
-  <RatingCount>296</RatingCount>
+  <Overview>Sherlock is a British television crime drama that presents a contemporary adaptation of Sir Arthur Conan Doyle's Sherlock Holmes detective stories. Created by Steven Moffat and Mark Gatiss, it stars Benedict Cumberbatch as Sherlock Holmes and Martin Freeman as Doctor John Watson.</Overview>
+  <Rating>9.4</Rating>
+  <RatingCount>347</RatingCount>
   <Runtime>90</Runtime>
   <SeriesID>79744</SeriesID>
   <SeriesName>Sherlock</SeriesName>
@@ -22,8 +22,8 @@
   <addedBy>63541</addedBy>
   <banner>graphical/176941-g.jpg</banner>
   <fanart>fanart/original/176941-3.jpg</fanart>
-  <lastupdated>1405280613</lastupdated>
-  <poster>posters/176941-5.jpg</poster>
+  <lastupdated>1434754153</lastupdated>
+  <poster>posters/176941-4.jpg</poster>
   <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>SH01304269</zap2it_id>
 </Series>
@@ -47,8 +47,8 @@
 
 This is the 60 minute pilot.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>8.4</Rating>
-  <RatingCount>19</RatingCount>
+  <Rating>8.1</Rating>
+  <RatingCount>20</RatingCount>
   <SeasonNumber>0</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
@@ -149,16 +149,16 @@ This is the 60 minute pilot.</Overview>
   <Language>en</Language>
   <Overview>A series of seemingly unconnected crimes stretching from Tibet to India to Germany. Sherlock Holmes has been gone for two years. But someone isn't quite convinced that he's dead….</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>8.5</Rating>
-  <RatingCount>10</RatingCount>
+  <Rating>8.0</Rating>
+  <RatingCount>12</RatingCount>
   <SeasonNumber>0</SeasonNumber>
-  <Writer>Mark Gatiss|Steven Moffat</Writer>
+  <Writer>|Mark Gatiss|Steven Moffat|</Writer>
   <absolute_number></absolute_number>
   <airsafter_season></airsafter_season>
-  <airsbefore_episode>1</airsbefore_episode>
-  <airsbefore_season>3</airsbefore_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
   <filename>episodes/176941/4731096.jpg</filename>
-  <lastupdated>1389698572</lastupdated>
+  <lastupdated>1433649680</lastupdated>
   <seasonid>281721</seasonid>
   <seriesid>176941</seriesid>
   <thumb_added>2013-12-24 10:55:35</thumb_added>
@@ -200,6 +200,108 @@ This is the 60 minute pilot.</Overview>
   <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
+  <id>4993982</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Sherlock Uncovered: The Return</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2014-01-19</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Sherlock's back! The world's greatest detective comes back from the dead. But how did he do it? We go behind-the-scenes of the first episode cast read-through, with Benedict Cumberbatch and Martin Freeman where the answer to television's greatest mystery was first revealed. And we uncover the unlikely friendship between Sherlock Holmes and Dr John Watson.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode>2</airsbefore_episode>
+  <airsbefore_season>3</airsbefore_season>
+  <filename>episodes/176941/4993982.jpg</filename>
+  <lastupdated>1414955854</lastupdated>
+  <seasonid>281721</seasonid>
+  <seriesid>176941</seriesid>
+  <thumb_added>2014-11-02 11:17:34</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4993983</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Sherlock Uncovered: The Woman</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2014-01-26</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>The stars of Sherlock talk about the women in the life of TV's greatest detective. Sherlock Holmes may be great at solving mysteries, but he's clueless about women. We launch an investigation into the women in Sherlock's life. Mary Morstan is marrying his best friend. Irene Adler stole his heart. He doesn't know Molly exists. And Mrs Hudson's always there to pick up the pieces. </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode>3</airsbefore_episode>
+  <airsbefore_season>3</airsbefore_season>
+  <filename>episodes/176941/4993983.jpg</filename>
+  <lastupdated>1414957396</lastupdated>
+  <seasonid>281721</seasonid>
+  <seriesid>176941</seriesid>
+  <thumb_added>2014-11-02 11:43:16</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4993984</id>
+  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Sherlock Uncovered: The Villains</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2014-02-02</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>We meet the great villains who've battled with TV's greatest detective. There's Jim Moriarty, his nemesis. There's Charles Augustus Magnussen, the only man Sherlock Holmes truly hates. And then there's Mycroft Holmes - Sherlock's brother and the last word in sibling rivalry. All of them have had influence over those closest to Sherlock. And all of them cause him grief.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>3</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/176941/4993984.jpg</filename>
+  <lastupdated>1414958442</lastupdated>
+  <seasonid>281721</seasonid>
+  <seriesid>176941</seriesid>
+  <thumb_added>2014-11-02 12:00:42</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
   <id>2502511</id>
   <Combined_episodenumber>1.0</Combined_episodenumber>
   <Combined_season>1</Combined_season>
@@ -218,15 +320,15 @@ This is the 60 minute pilot.</Overview>
   <Overview>A war hero, invalided home from Afghanistan, meets a strange but charismatic genius who is looking for a flatmate; it is London, 2010, and Dr Watson and Sherlock Holmes are meeting for the first time. A string of impossible suicides has Scotland Yard baffled - and only one man can help.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.3</Rating>
-  <RatingCount>266</RatingCount>
+  <RatingCount>279</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Steven Moffat</Writer>
-  <absolute_number>2</absolute_number>
+  <absolute_number>1</absolute_number>
   <filename>episodes/176941/2502511.jpg</filename>
-  <lastupdated>1399307529</lastupdated>
+  <lastupdated>1433251415</lastupdated>
   <seasonid>281751</seasonid>
   <seriesid>176941</seriesid>
-  <thumb_added></thumb_added>
+  <thumb_added>2015-02-02 22:19:50</thumb_added>
   <thumb_height>225</thumb_height>
   <thumb_width>400</thumb_width>
 </Episode>
@@ -249,12 +351,12 @@ This is the 60 minute pilot.</Overview>
   <Overview>A mysterious cipher is being scrawled on the walls around London. The first person to see the cipher is dead within hours of reading it. Sherlock plunges into a world of codes and symbols, consulting with London's best graffiti artists. He soon learns that the city is in the grip a gang of international smugglers, a secret society called the Black Lotus.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>249</RatingCount>
+  <RatingCount>262</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Stephen Thompson</Writer>
-  <absolute_number>3</absolute_number>
+  <absolute_number>2</absolute_number>
   <filename>episodes/176941/2502521.jpg</filename>
-  <lastupdated>1399308054</lastupdated>
+  <lastupdated>1433251439</lastupdated>
   <seasonid>281751</seasonid>
   <seriesid>176941</seriesid>
   <thumb_added></thumb_added>
@@ -280,12 +382,12 @@ This is the 60 minute pilot.</Overview>
   <Overview>A strange clue in an empty room, a blood-soaked car, a priceless Old Master, a deranged bomber. With the clock ticking, the curtain rises on a battle of wits between Sherlock, John and the shadowy stranger who seems to know all the answers...</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.1</Rating>
-  <RatingCount>212</RatingCount>
+  <RatingCount>228</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Mark Gatiss</Writer>
-  <absolute_number>4</absolute_number>
+  <absolute_number>3</absolute_number>
   <filename>episodes/176941/2502531.jpg</filename>
-  <lastupdated>1399308546</lastupdated>
+  <lastupdated>1433251468</lastupdated>
   <seasonid>281751</seasonid>
   <seriesid>176941</seriesid>
   <thumb_added></thumb_added>
@@ -310,13 +412,13 @@ This is the 60 minute pilot.</Overview>
   <Language>en</Language>
   <Overview>Compromising photographs and a case of blackmail threaten the very heart of the British establishment, but for Sherlock and John the game is on in more ways than one as they find themselves battling international terrorism, rogue CIA agents, and a secret conspiracy involving the British government.  This case will cast a darker shadow over their lives than they could ever imagine, as the great detective begins a long duel of wits with an antagonist as cold and ruthless and brilliant as himself: to Sherlock Holmes, Irene Adler will always be THE woman.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>8.3</Rating>
-  <RatingCount>204</RatingCount>
+  <Rating>8.2</Rating>
+  <RatingCount>221</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Steven Moffat</Writer>
-  <absolute_number>5</absolute_number>
+  <absolute_number>4</absolute_number>
   <filename>episodes/176941/4103396.jpg</filename>
-  <lastupdated>1402762004</lastupdated>
+  <lastupdated>1433251753</lastupdated>
   <seasonid>466395</seasonid>
   <seriesid>176941</seriesid>
   <thumb_added></thumb_added>
@@ -342,12 +444,12 @@ This is the 60 minute pilot.</Overview>
   <Overview>Something terrible has happened to Henry Knight; Sherlock and John investigate the truth about the monstrous creature which apparently killed their client's father. A hound from hell? What seems like fantasy in Baker Street is a very different prospect in the ultra-secret army base that looms over Dartmoor.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>180</RatingCount>
+  <RatingCount>191</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Mark Gatiss</Writer>
-  <absolute_number>6</absolute_number>
+  <absolute_number>5</absolute_number>
   <filename>episodes/176941/4103397.jpg</filename>
-  <lastupdated>1403289179</lastupdated>
+  <lastupdated>1433251602</lastupdated>
   <seasonid>466395</seasonid>
   <seriesid>176941</seriesid>
   <thumb_added></thumb_added>
@@ -373,12 +475,12 @@ This is the 60 minute pilot.</Overview>
   <Overview>James Moriarty possesses the greatest criminal mind that the world has ever seen. Sherlock and John knew he wouldn't stay hidden for long, but even they never guessed the sheer scale and audacity of the crime that would propel Moriarty back into the headlines. Sherlock must fight for his reputation, his sanity and his life. But is he all he claims to be?</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.5</Rating>
-  <RatingCount>192</RatingCount>
+  <RatingCount>206</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Stephen Thompson</Writer>
-  <absolute_number>7</absolute_number>
+  <absolute_number>6</absolute_number>
   <filename>episodes/176941/4103398.jpg</filename>
-  <lastupdated>1401822111</lastupdated>
+  <lastupdated>1433251720</lastupdated>
   <seasonid>466395</seasonid>
   <seriesid>176941</seriesid>
   <thumb_added></thumb_added>
@@ -404,12 +506,12 @@ This is the 60 minute pilot.</Overview>
   <Overview>Two years after the devastating effects of Sherlock's 'Death', Dr John Watson has got on with his life. New horizons, romance and a comforting domestic future beckon. But, with London under threat of a huge terrorist attack, Sherlock Holmes is about to rise from the grave with all the theatricality that comes so naturally to him. It’s what his best friend wanted more than anything, but for John Watson it might well be a case of ‘be careful what you wish for’! If Sherlock thinks everything will be just as he left it though, he’s in for a very big surprise…</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.1</Rating>
-  <RatingCount>108</RatingCount>
+  <RatingCount>126</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Mark Gatiss</Writer>
   <absolute_number>7</absolute_number>
   <filename>episodes/176941/4520777.jpg</filename>
-  <lastupdated>1399535480</lastupdated>
+  <lastupdated>1433252180</lastupdated>
   <seasonid>514622</seasonid>
   <seriesid>176941</seriesid>
   <thumb_added>2013-12-19 19:51:08</thumb_added>
@@ -429,18 +531,18 @@ This is the 60 minute pilot.</Overview>
   <EpisodeName>The Sign of Three</EpisodeName>
   <EpisodeNumber>2</EpisodeNumber>
   <FirstAired>2014-01-05</FirstAired>
-  <GuestStars></GuestStars>
+  <GuestStars>|Alfred Enoch|Yasmine Akram|</GuestStars>
   <IMDB_ID>tt2781042</IMDB_ID>
   <Language>en</Language>
   <Overview>Sherlock faces his biggest challenge of all - delivering a Best Man's speech on John's wedding day! But all isn't quite as it seems. Mortal danger stalks the reception - and someone might not make it to the happy couple's first dance. Sherlock must thank the bridesmaids, solve the case and stop a killer!</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.9</Rating>
-  <RatingCount>90</RatingCount>
+  <Rating>8.0</Rating>
+  <RatingCount>107</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Stephen Thompson</Writer>
   <absolute_number>8</absolute_number>
   <filename>episodes/176941/4543555.jpg</filename>
-  <lastupdated>1399535515</lastupdated>
+  <lastupdated>1434468657</lastupdated>
   <seasonid>514622</seasonid>
   <seriesid>176941</seriesid>
   <thumb_added>2013-12-27 02:34:43</thumb_added>
@@ -460,18 +562,18 @@ This is the 60 minute pilot.</Overview>
   <EpisodeName>His Last Vow</EpisodeName>
   <EpisodeNumber>3</EpisodeNumber>
   <FirstAired>2014-01-12</FirstAired>
-  <GuestStars>Lars Mikkelsen</GuestStars>
+  <GuestStars>|Lindsay Duncan|Lars Mikkelsen|</GuestStars>
   <IMDB_ID>tt2781046</IMDB_ID>
   <Language>en</Language>
   <Overview>A case of stolen letters leads Sherlock Holmes into a long conflict with Charles Augustus Magnussen, the Napoleon of blackmail, and the one man he truly hates. But how do you tackle a foe who knows the personal weakness of every person of importance in the Western world?</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>8.3</Rating>
-  <RatingCount>87</RatingCount>
+  <Rating>8.4</Rating>
+  <RatingCount>103</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Steven Moffat</Writer>
-  <absolute_number>10</absolute_number>
+  <absolute_number>9</absolute_number>
   <filename>episodes/176941/4550992.jpg</filename>
-  <lastupdated>1399535554</lastupdated>
+  <lastupdated>1434468279</lastupdated>
   <seasonid>514622</seasonid>
   <seriesid>176941</seriesid>
   <thumb_added>2014-01-10 08:21:54</thumb_added>

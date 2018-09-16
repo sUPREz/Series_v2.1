@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Data><Series>
   <id>83610</id>
-  <Actors>|Lea Michele|Cory Monteith|Matthew Morrison|Mark Salling|Dianna Agron|Chris Colfer|Jenna Ushkowitz|Kevin McHale|Amber Riley|Jayma Mays|Jane Lynch|Becca Tobin|Chord Overstreet|Darren Criss|Harry Shum Jr.|Heather Morris|Naya Rivera|Jacob Artist|Melissa Benoist|Jessalyn Gilsig|Demi Lovato|Dean Geyer|Iqbal Theba|Mike O'Malley|Lauren Potter|Lindsay Lohan|</Actors>
-  <Airs_DayOfWeek>Tuesday</Airs_DayOfWeek>
-  <Airs_Time>8:00 PM</Airs_Time>
+  <Actors>|Lea Michele|Cory Monteith|Matthew Morrison|Mark Salling|Dianna Agron|Chris Colfer|Jenna Ushkowitz|Kevin McHale|Amber Riley|Jayma Mays|Jane Lynch|Becca Tobin|Jacob Artist|Melissa Benoist|Chord Overstreet|Darren Criss|Harry Shum Jr.|Heather Morris|Naya Rivera|Jessalyn Gilsig|Blake Jenner|Grant Gustin|Damian McGinty|Demi Lovato|Lauren Potter|Dean Geyer|Iqbal Theba|Mike O'Malley|Lindsay Lohan|Max Adler|</Actors>
+  <Airs_DayOfWeek>Friday</Airs_DayOfWeek>
+  <Airs_Time>9:00 PM</Airs_Time>
   <ContentRating>TV-14</ContentRating>
   <FirstAired>2009-05-19</FirstAired>
   <Genre>|Comedy|Drama|</Genre>
   <IMDB_ID>tt1327801</IMDB_ID>
   <Language>en</Language>
-  <Network>FOX</Network>
+  <Network>FOX (US)</Network>
   <NetworkID></NetworkID>
   <Overview>In the face of much criticism, an optimistic high school teacher challenges a group of outcasts to realize their potential in the school's glee club.</Overview>
   <Rating>8.1</Rating>
-  <RatingCount>143</RatingCount>
+  <RatingCount>150</RatingCount>
   <Runtime>60</Runtime>
   <SeriesID>75988</SeriesID>
   <SeriesName>Glee</SeriesName>
-  <Status>Continuing</Status>
+  <Status>Ended</Status>
   <added>2008-11-01 06:35:37</added>
   <addedBy>3071</addedBy>
-  <banner>graphical/83610-g10.jpg</banner>
-  <fanart>fanart/original/83610-46.jpg</fanart>
-  <lastupdated>1404568675</lastupdated>
+  <banner>graphical/83610-g14.jpg</banner>
+  <fanart>fanart/original/83610-51.jpg</fanart>
+  <lastupdated>1432808307</lastupdated>
   <poster>posters/83610-28.jpg</poster>
   <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>EP01141389</zap2it_id>
@@ -114,7 +114,7 @@
   <Overview>Will Schuester an optimistic high school teacher, tries to reinvent the McKinley High School's glee club, while reinventing himself. He challenges a group of outcasts to realize their true star potential, while facing harsh criticism from everyone in the school.</Overview>
   <ProductionCode>1ARC79</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>118</RatingCount>
+  <RatingCount>119</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Ryan Murphy</Writer>
   <absolute_number></absolute_number>
@@ -145,7 +145,7 @@
   <Overview>The Glee Club performs for the school for the first time. Meanwhile, when Quinn sees that Rachel has feelings for Finn, she goes to any length to keep him. Later, Mr. Schuester's wife reveals some surprising news. </Overview>
   <ProductionCode>1ARC01</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>110</RatingCount>
+  <RatingCount>111</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Ryan Murphy|Brad Falchuk|Ian Brennan|</Writer>
   <absolute_number></absolute_number>
@@ -170,18 +170,18 @@
   <EpisodeName>Acafellas</EpisodeName>
   <EpisodeNumber>3</EpisodeNumber>
   <FirstAired>2009-09-16</FirstAired>
-  <GuestStars>Victor Garber|Harry Shum Jr.|Jennifer Aspen|Heather Morris|Josh Groban</GuestStars>
+  <GuestStars>|Victor Garber|Harry Shum Jr.|Jennifer Aspen|Heather Morris|Josh Groban|</GuestStars>
   <IMDB_ID>tt1393336</IMDB_ID>
   <Language>en</Language>
   <Overview>Will forms an a capella group and spends more time with them than he does with New Directions after he is asked to perform at the PTA meeting with some surprising additions to his group. Meanwhile, Kurt is under pressure in his life which isn't helped by Mercedes' newfound interest in finding a relationship.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>97</RatingCount>
+  <RatingCount>98</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Ryan Murphy</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/1071451.jpg</filename>
-  <lastupdated>1353808843</lastupdated>
+  <lastupdated>1431173906</lastupdated>
   <seasonid>36776</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -201,18 +201,18 @@
   <EpisodeName>Preggers</EpisodeName>
   <EpisodeNumber>4</EpisodeNumber>
   <FirstAired>2009-09-23</FirstAired>
-  <GuestStars>Patrick Gallagher|Iqbal Theba|Stephen Tobolowsky</GuestStars>
+  <GuestStars>|Patrick Gallagher|Iqbal Theba|Stephen Tobolowsky|</GuestStars>
   <IMDB_ID>tt1442937</IMDB_ID>
   <Language>en</Language>
   <Overview>Kurt joins the football team just to impress his father. Finn and Quinn's relationship gets a shocking development.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>100</RatingCount>
+  <RatingCount>101</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Brad Falchuk</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/1071461.jpg</filename>
-  <lastupdated>1357259228</lastupdated>
+  <lastupdated>1431173720</lastupdated>
   <seasonid>36776</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -238,7 +238,7 @@
   <Overview>A new face stirs things up for New Directions when April Rhodes (guest star Kristin Chenoweth) lends her voice to the show.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>91</RatingCount>
+  <RatingCount>92</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Ian Brennan</Writer>
   <absolute_number></absolute_number>
@@ -269,7 +269,7 @@
   <Overview>Will decides to give New Directions some competition between them by having the boys go against the girls. Terri becomes the school nurse to check on Will.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>94</RatingCount>
+  <RatingCount>95</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Ryan Murphy</Writer>
   <absolute_number></absolute_number>
@@ -300,7 +300,7 @@
   <Overview>Sue's new job as Glee co-chair gives her new opportunities to break up the club as she introduces a tough competition to the group.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>85</RatingCount>
+  <RatingCount>87</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Brad Falchuk</Writer>
   <absolute_number></absolute_number>
@@ -331,7 +331,7 @@
   <Overview>Inspired by the students, Will composes a mash-up for a very special occasion. Meanwhile, in a shocking reversal of roles, McKinley High's cool kids are dethroned in an &quot;icy&quot; fashion, and Sue shows off her softer side in the &quot;Mash-Up&quot; episode of GLEE.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>85</RatingCount>
+  <RatingCount>86</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
@@ -393,7 +393,7 @@
   <Overview>Mr. Schuester has the Glee Club split up into pairs to sing their favorite ballad, but when one kid gets sick, he’s forced to step in and winds up in a sticky situation. Meanwhile, Finn has dinner with Quinn’s parents. </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>84</RatingCount>
+  <RatingCount>85</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
@@ -418,18 +418,18 @@
   <EpisodeName>Hairography</EpisodeName>
   <EpisodeNumber>11</EpisodeNumber>
   <FirstAired>2009-11-25</FirstAired>
-  <GuestStars>|Eve|</GuestStars>
+  <GuestStars>Eve</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>Eve guest-stars as a rival glee club’s instructor. The Glee Club checks out their hair-raising competition, and Kurt gives Rachel a makeover.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>80</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>81</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Ian Brennan</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/1123721.jpg</filename>
-  <lastupdated>1347536502</lastupdated>
+  <lastupdated>1431173768</lastupdated>
   <seasonid>36776</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -455,7 +455,7 @@
   <Overview>When the Glee Club is left out of the yearbook because of budget cuts, everyone seems to be relieved that they won’t have to suffer the ridicule of years past. Everyone except Rachel, that is, who wants her legacy cemented in print. Meanwhile, Quinn makes it her mission to be in the Cheerios yearbook photo, and Will and Terri’s relationship is shaken to its core.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>82</RatingCount>
+  <RatingCount>83</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Ryan Murphy</Writer>
   <absolute_number></absolute_number>
@@ -486,7 +486,7 @@
   <Overview>Sectionals is finally here for the Glee Club, but when Quinn’s secret unravels, the club may not be able to recover in time to compete. Meanwhile, Sue’s scheming hits an all-time high, and with Emma and Ken’s marriage looming, Will makes a decision that could change his life forever.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.1</Rating>
-  <RatingCount>96</RatingCount>
+  <RatingCount>97</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Brad Falchuk</Writer>
   <absolute_number></absolute_number>
@@ -517,7 +517,7 @@
   <Overview>Fresh off their monumental win at Sectionals, New Directions is on top of the world. With an extra spring in their step, they get to work on new numbers for Regionals. But when Rachel and Finn’s budding romance hits a bump in the road after she becomes involved with a competitor, Jesse St. James , it threatens to derail the entire club. Mr. Schuester pays a visit to Shelby Corcoran, coach of Vocal Adrenaline, to confirm Jesse’s motives. Meanwhile, Will is newly single, but is he ready to take his relationship with Emma to the next level? And to top it all off, Sue Sylvester returns from her condo in Boca with a renewed focus on destroying Will and disbanding the glee club.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>96</RatingCount>
+  <RatingCount>97</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Ian Brennan</Writer>
   <absolute_number></absolute_number>
@@ -548,7 +548,7 @@
   <Overview>Mr. Schuester is concerned that the girls in the glee club are being disrespected and bullied by the guys. Looking to Madonna and her musical message of equality as inspiration, he challenges the entire team to choose Madonna songs as their next assignment in the hopes that the girls embrace her strength, independence and confidence and that the guys will see the error of their misogynistic ways. The glee club takes the assignment to heart as they perform some of Madonna’s greatest hits, including “Express Yourself” and “Like A Prayer.” Meanwhile, Kurt and Mercedes give Sue a vote of confidence with a makeover that is definitely in “Vogue”.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>106</RatingCount>
+  <RatingCount>107</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Ryan Murphy</Writer>
   <absolute_number></absolute_number>
@@ -579,7 +579,7 @@
   <Overview>When Kurt sets his dad, Burt, up with an unexpected partner his plan for a nuclear family may backfire. Sue demands that the Cheerios! go on a crazy diet in preparation for a big interview with “Splits” magazine and April Rhodes returns to save Will and the glee club.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>94</RatingCount>
+  <RatingCount>95</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Brad Falchuk</Writer>
   <absolute_number></absolute_number>
@@ -610,7 +610,7 @@
   <Overview>Mr. Schuester starts an investigation when a salacious list about members of the glee club circulates the halls of McKinley High. Meanwhile, Sue is mortified when a video of her performing the Olivia Newton-John classic &quot;Physical&quot; surfaces </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>97</RatingCount>
+  <RatingCount>98</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Ian Brennan</Writer>
   <absolute_number></absolute_number>
@@ -641,7 +641,7 @@
   <Overview>When a sore throat affects Rachel's singing voice, she goes into panic mode. Meanwhile, Kurt tries to change his persona to impress his father, and Puck makes a strategic move to elevate his social status.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>90</RatingCount>
+  <RatingCount>91</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Ryan Murphy</Writer>
   <absolute_number></absolute_number>
@@ -672,7 +672,7 @@
   <Overview>Mr. Schuester’s former high school nemesis, Bryan Ryan, causes trouble for the glee club. Meanwhile, Rachel struggles with a life-long personal issue, and Artie’s dreams take him on an adventure.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>105</RatingCount>
+  <RatingCount>107</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Brad Falchuk</Writer>
   <absolute_number></absolute_number>
@@ -703,7 +703,7 @@
   <Overview>Rachel confronts her mother, while Tina faces an identity crisis. New Directions were given a task to sing Lady GaGa songs.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>102</RatingCount>
+  <RatingCount>105</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Ryan Murphy</Writer>
   <absolute_number></absolute_number>
@@ -759,18 +759,18 @@
   <EpisodeName>Journey to Regionals</EpisodeName>
   <EpisodeNumber>22</EpisodeNumber>
   <FirstAired>2010-06-08</FirstAired>
-  <GuestStars>|Olivia Newton-John|</GuestStars>
+  <GuestStars>Olivia Newton-John</GuestStars>
   <IMDB_ID>tt1514919</IMDB_ID>
   <Language>en</Language>
   <Overview>Quinn is getting more anxious by the minute as she expects the baby, plus, Regionals is finally here, but will the Glee Club be able to triumph over Sue Sylvester's plots?</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.2</Rating>
-  <RatingCount>101</RatingCount>
+  <RatingCount>102</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Brad Falchuk</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/2067411.jpg</filename>
-  <lastupdated>1347536850</lastupdated>
+  <lastupdated>1431173873</lastupdated>
   <seasonid>36776</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -790,18 +790,18 @@
   <EpisodeName>Auditions</EpisodeName>
   <EpisodeNumber>1</EpisodeNumber>
   <FirstAired>2010-09-21</FirstAired>
-  <GuestStars>Iqbal Theba|Dot-Marie Jones|Charice|Harry Shum Jr.|Chord Overstreet|Josh Sussman|Dustin Ingram|James Earl|Max Adler</GuestStars>
+  <GuestStars>|Iqbal Theba|Dot-Marie Jones|Charice|Harry Shum Jr.|Chord Overstreet|Josh Sussman|Dustin Ingram|James Earl|Max Adler|</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>After a tough loss at Regionals, the glee club is back as the underdogs of McKinley High. When the school is faced with even more budget cuts, Mr. Schuester pushes the kids to help recruit new members for the club. Rachel and Finn disagree on new recruits, and aren’t sure they will be able to come together in perfect harmony.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>107</RatingCount>
+  <RatingCount>109</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Ian Brennan</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/2523621.jpg</filename>
-  <lastupdated>1381772510</lastupdated>
+  <lastupdated>1431173818</lastupdated>
   <seasonid>284901</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -821,18 +821,18 @@
   <EpisodeName>Britney/Brittany</EpisodeName>
   <EpisodeNumber>2</EpisodeNumber>
   <FirstAired>2010-09-28</FirstAired>
-  <GuestStars>John Stamos|Britney Spears|Iqbal Theba|Dot-Marie Jones|Harry Shum Jr.|Josh Sussman</GuestStars>
+  <GuestStars>|John Stamos|Britney Spears|Iqbal Theba|Dot-Marie Jones|Harry Shum Jr.|Josh Sussman|</GuestStars>
   <IMDB_ID>tt1628289</IMDB_ID>
   <Language>en</Language>
   <Overview>When Brittany and the gang try to convince Mr. Schuester to let them do a Britney Spears number, he is reluctant to go that edgy. Meanwhile, an insecure Will is curious about Emma’s new beau, Dr. Carl Howell, so he convinces her to bring him in to talk to the kids about dental hygiene. While the dreamy doc inspires the girls to take their dental health more seriously, Will is left feeling worse than before.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>106</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>109</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Ryan Murphy</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/2737741.jpg</filename>
-  <lastupdated>1325236922</lastupdated>
+  <lastupdated>1431173760</lastupdated>
   <seasonid>284901</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -852,18 +852,18 @@
   <EpisodeName>Grilled Cheesus</EpisodeName>
   <EpisodeNumber>3</EpisodeNumber>
   <FirstAired>2010-10-05</FirstAired>
-  <GuestStars>Iqbal Theba|Romy Rosemont|Dot-Marie Jones|Harry Shum Jr.|Chord Overstreet|James Earl|Brent Jennings|Anthony Brandon Wong</GuestStars>
+  <GuestStars>|Iqbal Theba|Romy Rosemont|Dot-Marie Jones|Harry Shum Jr.|Chord Overstreet|James Earl|Brent Jennings|Anthony Brandon Wong|</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>Finn has an existential crisis when he believes he sees the face of Jesus in his grilled cheese sandwich. Meanwhile, the rest of the kids rally around Kurt after he has a crisis of his own that leads to a larger discussion among the group about their own theology.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>101</RatingCount>
+  <RatingCount>102</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Brad Falchuk</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/2737751.jpg</filename>
-  <lastupdated>1325236993</lastupdated>
+  <lastupdated>1431173739</lastupdated>
   <seasonid>284901</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -883,18 +883,18 @@
   <EpisodeName>Duets</EpisodeName>
   <EpisodeNumber>4</EpisodeNumber>
   <FirstAired>2010-10-12</FirstAired>
-  <GuestStars>Harry Shum Jr.|Chord Overstreet|James Earl|Max Adler</GuestStars>
+  <GuestStars>|Harry Shum Jr.|Chord Overstreet|James Earl|Max Adler|</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>Finn and Rachel plan to throw the competition so Sam can win when club members are assigned duets; Mike, Tina and Artie find themselves in a love triangle.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>97</RatingCount>
+  <RatingCount>99</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Ian Brennan</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/2737781.jpg</filename>
-  <lastupdated>1325236977</lastupdated>
+  <lastupdated>1431173812</lastupdated>
   <seasonid>284901</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -914,18 +914,18 @@
   <EpisodeName>The Rocky Horror Glee Show</EpisodeName>
   <EpisodeNumber>5</EpisodeNumber>
   <FirstAired>2010-10-26</FirstAired>
-  <GuestStars>John Stamos|Meat Loaf Aday|Barry Bostwick|Iqbal Theba|Harry Shum Jr.|Chord Overstreet|James Earl|Max Adler|Bill A. Jones</GuestStars>
+  <GuestStars>|John Stamos|Meat Loaf Aday|Barry Bostwick|Iqbal Theba|Harry Shum Jr.|Chord Overstreet|James Earl|Max Adler|Bill A. Jones|</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>After learning of Emma's love of the film, Will has the glee club perform &quot;The Rocky Horror Picture Show&quot; for the school's annual musical.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>98</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>100</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>Ryan Murphy|Tim Wollaston</Writer>
+  <Writer>|Ryan Murphy|Tim Wollaston|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/2737801.jpg</filename>
-  <lastupdated>1381772524</lastupdated>
+  <lastupdated>1431173893</lastupdated>
   <seasonid>284901</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -945,18 +945,18 @@
   <EpisodeName>Never Been Kissed</EpisodeName>
   <EpisodeNumber>6</EpisodeNumber>
   <FirstAired>2010-11-09</FirstAired>
-  <GuestStars>Iqbal Theba|Dot-Marie Jones|Harry Shum Jr.|Chord Overstreet|Max Adler|Darren Criss|Michael Hyatt|Josh Sussman|Telly Leung</GuestStars>
+  <GuestStars>|Iqbal Theba|Dot-Marie Jones|Harry Shum Jr.|Chord Overstreet|Max Adler|Darren Criss|Michael Hyatt|Josh Sussman|Telly Leung|</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>The Girls vs. Boys Tournament returns, Kurt meets an ally from a rival glee club, Puck and Artie join forces and coach Beast is on the verge of quitting her job.</Overview>
-  <ProductionCode></ProductionCode>
+  <ProductionCode>#2ARC06</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>96</RatingCount>
+  <RatingCount>98</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Brad Falchuk</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/2863501.jpg</filename>
-  <lastupdated>1325237034</lastupdated>
+  <lastupdated>1431173752</lastupdated>
   <seasonid>284901</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -976,18 +976,18 @@
   <EpisodeName>The Substitute</EpisodeName>
   <EpisodeNumber>7</EpisodeNumber>
   <FirstAired>2010-11-16</FirstAired>
-  <GuestStars>Gwyneth Paltrow|Iqbal Theba|Dot-Marie Jones|Harry Shum Jr.|Chord Overstreet|Max Adler|Darren Criss|Lindsey Sims-Lewis</GuestStars>
+  <GuestStars>|Gwyneth Paltrow|Iqbal Theba|Dot-Marie Jones|Harry Shum Jr.|Chord Overstreet|Max Adler|Darren Criss|Lindsey Sims-Lewis|</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>After Mr. Schuester gets sick, a substitute teacher takes over the Glee Club and becomes a new love interest and competition for Will. </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>98</RatingCount>
+  <RatingCount>100</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Ian Brennan</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/2922941.jpg</filename>
-  <lastupdated>1325237057</lastupdated>
+  <lastupdated>1431173926</lastupdated>
   <seasonid>284901</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -1007,18 +1007,18 @@
   <EpisodeName>Furt</EpisodeName>
   <EpisodeNumber>8</EpisodeNumber>
   <FirstAired>2010-11-23</FirstAired>
-  <GuestStars>Carol Burnett|Romy Rosemont|Dot-Marie Jones|Daniel Roebuck|Harry Shum Jr.|Chord Overstreet|Max Adler|Bill A. Jones|Rich Ceraulo|Jo Anderson</GuestStars>
+  <GuestStars>|Carol Burnett|Romy Rosemont|Dot-Marie Jones|Daniel Roebuck|Harry Shum Jr.|Chord Overstreet|Max Adler|Bill A. Jones|Rich Ceraulo|Jo Anderson|</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>It's all about wedding and parents with Kurt getting ready for his father Burt's upcoming marriage to Finn's mom Carole, Sue decides to compete by getting married as well which will lead to the introduction of an awesome guest star: Carol Burnett. Carol will play Sue's Nazi-hunting mother Doris, who comes to visit Sue in Ohio.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>105</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>108</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Ryan Murphy</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/3161421.jpg</filename>
-  <lastupdated>1325237075</lastupdated>
+  <lastupdated>1431173832</lastupdated>
   <seasonid>284901</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -1038,18 +1038,18 @@
   <EpisodeName>Special Education</EpisodeName>
   <EpisodeNumber>9</EpisodeNumber>
   <FirstAired>2010-11-30</FirstAired>
-  <GuestStars>John Stamos|Harry Shum Jr.|Chord Overstreet|Darren Criss|Mike Hagerty|Max Adler|James Earl</GuestStars>
+  <GuestStars>|John Stamos|Harry Shum Jr.|Chord Overstreet|Darren Criss|Mike Hagerty|Max Adler|James Earl|</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>New Directions heads to the big Sectionals competition to go head-to-head against the Warblers and the Hipsters. While trouble brews between some of the young couples, Emma and Carl grow closer.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>98</RatingCount>
+  <RatingCount>100</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Brad Falchuk</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/3161431.jpg</filename>
-  <lastupdated>1381772552</lastupdated>
+  <lastupdated>1431173775</lastupdated>
   <seasonid>284901</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -1069,18 +1069,18 @@
   <EpisodeName>A Very Glee Christmas</EpisodeName>
   <EpisodeNumber>10</EpisodeNumber>
   <FirstAired>2010-12-07</FirstAired>
-  <GuestStars>Iqbal Theba|Dot-Marie Jones|Harry Shum Jr.|Chord Overstreet|Darren Criss|Jernard Burks|Max Adler|James Earl</GuestStars>
+  <GuestStars>|Iqbal Theba|Dot-Marie Jones|Harry Shum Jr.|Chord Overstreet|Darren Criss|Jernard Burks|Max Adler|James Earl|</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>It's Christmas time at McKinley High and Finn tries to get everyone in the holiday spirit; Brittany needs no help because she still believes in Santa Claus. In other news, Sue scams the teacher's Secret Santa</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>98</RatingCount>
+  <RatingCount>100</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Ian Brennan</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/3204531.jpg</filename>
-  <lastupdated>1381772575</lastupdated>
+  <lastupdated>1431173886</lastupdated>
   <seasonid>284901</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -1100,18 +1100,18 @@
   <EpisodeName>The Sue Sylvester Shuffle</EpisodeName>
   <EpisodeNumber>11</EpisodeNumber>
   <FirstAired>2011-02-06</FirstAired>
-  <GuestStars>Katie Couric|Iqbal Theba|Dot-Marie Jones|Romy Rosemont|Harry Shum Jr.|Chord Overstreet|Darren Criss|Telly Leung|Max Adler|James Earl|Scott Lincoln</GuestStars>
+  <GuestStars>|Katie Couric|Iqbal Theba|Dot-Marie Jones|Romy Rosemont|Harry Shum Jr.|Chord Overstreet|Darren Criss|Telly Leung|Max Adler|James Earl|Scott Lincoln|</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>A local football championship game takes place and the &quot;Thriller&quot; mash-up is performed during the halftime show. The Cheerios, McKinley High's cheerleading team, compete at Regionals.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>106</RatingCount>
+  <RatingCount>108</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Ian Brennan</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/3302451.jpg</filename>
-  <lastupdated>1325237149</lastupdated>
+  <lastupdated>1431173825</lastupdated>
   <seasonid>284901</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -1131,18 +1131,18 @@
   <EpisodeName>Silly Love Songs</EpisodeName>
   <EpisodeNumber>12</EpisodeNumber>
   <FirstAired>2011-02-08</FirstAired>
-  <GuestStars>Dot-Marie Jones|Harry Shum Jr.|Chord Overstreet|Darren Criss|Ashley Fink|Alexander Nifong</GuestStars>
+  <GuestStars>|Dot-Marie Jones|Harry Shum Jr.|Chord Overstreet|Darren Criss|Ashley Fink|Alexander Nifong|</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>Love is in the air at McKinley High when the glee club sets up a kissing booth for Valentine's Day. Things don't go as planned, however, and hearts end up getting broken.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>88</RatingCount>
+  <RatingCount>89</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Ryan Murphy</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/3302461.jpg</filename>
-  <lastupdated>1339434559</lastupdated>
+  <lastupdated>1431173733</lastupdated>
   <seasonid>284901</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -1162,18 +1162,18 @@
   <EpisodeName>Comeback</EpisodeName>
   <EpisodeNumber>13</EpisodeNumber>
   <FirstAired>2011-02-15</FirstAired>
-  <GuestStars>Iqbal Theba|Harry Shum Jr.|Chord Overstreet|Ashley Fink|Charlene Amoia|</GuestStars>
+  <GuestStars>|Iqbal Theba|Harry Shum Jr.|Chord Overstreet|Ashley Fink|Charlene Amoia|</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>Rachel tries to launch a comeback into the McKinley High social stratosphere with a little help from Brittany. Meanwhile, Sam starts a tribute band.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>88</RatingCount>
+  <RatingCount>89</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Ryan Murphy</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/3302471.jpg</filename>
-  <lastupdated>1339434575</lastupdated>
+  <lastupdated>1431173782</lastupdated>
   <seasonid>284901</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -1193,18 +1193,18 @@
   <EpisodeName>Blame It on the Alcohol</EpisodeName>
   <EpisodeNumber>14</EpisodeNumber>
   <FirstAired>2011-02-22</FirstAired>
-  <GuestStars>Iqbal Theba|Dot-Marie Jones|Harry Shum Jr.|Chord Overstreet|Darren Criss|Ashley Fink|Lauren Potter</GuestStars>
+  <GuestStars>|Iqbal Theba|Dot-Marie Jones|Harry Shum Jr.|Chord Overstreet|Darren Criss|Ashley Fink|Lauren Potter|</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>Principal Figgins teaches the student body about the danger of underage drinking, and the glee club is personally touched by the message. Meanwhile, Mr. Schuester and Coach Beiste indulge in a little fun of their own.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>93</RatingCount>
+  <RatingCount>95</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Ian Brennan</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/3302481.jpg</filename>
-  <lastupdated>1360954618</lastupdated>
+  <lastupdated>1431173852</lastupdated>
   <seasonid>284901</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -1224,18 +1224,18 @@
   <EpisodeName>Sexy</EpisodeName>
   <EpisodeNumber>15</EpisodeNumber>
   <FirstAired>2011-03-08</FirstAired>
-  <GuestStars>Gwyneth Paltrow|John Stamos|Dot-Marie Jones|Harry Shum Jr.|Chord Overstreet|Darren Criss|Ashley Fink|Telly Leung</GuestStars>
+  <GuestStars>|Gwyneth Paltrow|John Stamos|Dot-Marie Jones|Harry Shum Jr.|Chord Overstreet|Darren Criss|Ashley Fink|Telly Leung|</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>Holly Holiday (Gwyneth Paltrow) returns as the sex education substitute teacher and helps the glee club out with some new numbers. On the other hand, Emma becomes the head of the celibacy club.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>81</RatingCount>
+  <RatingCount>82</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Brad Falchuk</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/3722141.jpg</filename>
-  <lastupdated>1339434618</lastupdated>
+  <lastupdated>1431173919</lastupdated>
   <seasonid>284901</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -1255,18 +1255,18 @@
   <EpisodeName>Original Song</EpisodeName>
   <EpisodeNumber>16</EpisodeNumber>
   <FirstAired>2011-03-15</FirstAired>
-  <GuestStars>Kathy Griffin|Loretta Devine|Harry Shum Jr.|Chord Overstreet|Darren Criss|Ashley Fink|Bill A. Jones</GuestStars>
+  <GuestStars>|Kathy Griffin|Loretta Devine|Harry Shum Jr.|Chord Overstreet|Darren Criss|Ashley Fink|Bill A. Jones|</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>With Sue Sylvester coaching Aural Intensity, Blaine and the Warblers’ dynamic set list and tough judges Tammy Jean Albertson (guest star Griffin) and Sister Mary Constance (guest star Devine), the kids of New Directions decide the only way to win Regionals is to write and perform their own original songs. Meanwhile, Quinn is hell-bent on getting Finn back and ruling McKinley once again.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>91</RatingCount>
+  <RatingCount>92</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Ryan Murphy</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/3739491.jpg</filename>
-  <lastupdated>1339434630</lastupdated>
+  <lastupdated>1431173796</lastupdated>
   <seasonid>284901</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -1297,7 +1297,7 @@
   <Writer>Ian Brennan</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/3739501.jpg</filename>
-  <lastupdated>1339434643</lastupdated>
+  <lastupdated>1411664611</lastupdated>
   <seasonid>284901</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -1323,12 +1323,12 @@
   <Overview>The glee club learns about self-acceptance through the music of Lady Gaga; Lauren and Quinn compete for prom queen; Ms. Pillsbury faces with her issues; Rachel makes a life-changing decision; Santana schemes.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>86</RatingCount>
+  <RatingCount>87</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Brad Falchuk</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/3901811.jpg</filename>
-  <lastupdated>1339434657</lastupdated>
+  <lastupdated>1411664619</lastupdated>
   <seasonid>284901</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -1354,12 +1354,12 @@
   <Overview>Sue Sylvester revives the school newspaper and decides to print a few inflammatory blind items. The glee club gains a whole new respect for Sam when they discover some interesting new information about his family life. Meanwhile, April Rhodes (guest star Chenoweth) returns to Lima and tries to convince Mr. Schuester to hit the road with her.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>81</RatingCount>
+  <RatingCount>82</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Ryan Murphy|Brad Falchuk|Ian Brennan|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/3924021.jpg</filename>
-  <lastupdated>1339434683</lastupdated>
+  <lastupdated>1411664628</lastupdated>
   <seasonid>284901</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -1385,12 +1385,12 @@
   <Overview>When the entertainment for prom falls through, Principal Figgins asks New Directions to perform at the dance much to prom coordinator Sue’s dismay. Things get heated as the competition for prom king and queen draws closer, and Jessie St. James returns.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>88</RatingCount>
+  <RatingCount>89</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Ian Brennan</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4081820.jpg</filename>
-  <lastupdated>1339434758</lastupdated>
+  <lastupdated>1411664640</lastupdated>
   <seasonid>284901</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -1421,7 +1421,7 @@
   <Writer>Ryan Murphy</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4081821.jpg</filename>
-  <lastupdated>1339434773</lastupdated>
+  <lastupdated>1411664647</lastupdated>
   <seasonid>284901</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -1452,7 +1452,7 @@
   <Writer>Brad Falchuk</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4081822.jpg</filename>
-  <lastupdated>1339434786</lastupdated>
+  <lastupdated>1411664654</lastupdated>
   <seasonid>284901</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -1478,12 +1478,12 @@
   <Overview>The glee kids are down in the dumps following their disappointing showing at Nationals, so Will assigns them a project to get them back on track. Meanwhile, Ms. Sylvester wants to go to Washington: Sue's running for Congress.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.2</Rating>
-  <RatingCount>79</RatingCount>
+  <RatingCount>80</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Brad Falchuk</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4120404.jpg</filename>
-  <lastupdated>1350334656</lastupdated>
+  <lastupdated>1411666226</lastupdated>
   <seasonid>468423</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -1514,7 +1514,7 @@
   <Writer>Ryan Murphy</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4171783.jpg</filename>
-  <lastupdated>1350937425</lastupdated>
+  <lastupdated>1411666234</lastupdated>
   <seasonid>468423</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -1534,18 +1534,18 @@
   <EpisodeName>Asian F</EpisodeName>
   <EpisodeNumber>3</EpisodeNumber>
   <FirstAired>2011-10-04</FirstAired>
-  <GuestStars>Keong Sim, Tamlyn Tomita, Don Most, Valerie Mahaffey, Lindley Mayer, Lindsay Pearce</GuestStars>
+  <GuestStars>|Keong Sim|Tamlyn Tomita|Don Most|Valerie Mahaffey|Lindley Mayer|Lindsay Pearce|</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>Emma gets a visit from her parents; Mike Chang's parents get involved when his grades aren't up to their standards.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>72</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>73</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Ian Brennan</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4174038.jpg</filename>
-  <lastupdated>1350937455</lastupdated>
+  <lastupdated>1431173933</lastupdated>
   <seasonid>468423</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -1565,18 +1565,18 @@
   <EpisodeName>Pot O' Gold</EpisodeName>
   <EpisodeNumber>4</EpisodeNumber>
   <FirstAired>2011-11-01</FirstAired>
-  <GuestStars>Damian McGinty | Jack Harding</GuestStars>
+  <GuestStars>|Damian McGinty|Jack Harding|</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>Irish exchange student Rory Flanagan arrives at McKinley High. He is living at Brittany's house, and she thinks he's a leprechaun. Mercedes starts recruiting for Shelby's new glee club, and Sue's run for congress picks up steam.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>62</RatingCount>
+  <RatingCount>63</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Ali Adler</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4174039.jpg</filename>
-  <lastupdated>1350937484</lastupdated>
+  <lastupdated>1431173865</lastupdated>
   <seasonid>468423</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -1601,13 +1601,13 @@
   <Language>en</Language>
   <Overview>The school musical West Side Story is readied for performance, with Artie as lead director. Finn meets with a football recruiter (Eric Bruskotter), whom Coach Beiste (Dot-Marie Jones) gains as an admirer.[13] Kurt and Blaine reach a new, physical stage in their relationship, as do Rachel and Finn in theirs.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>63</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>64</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Roberto Aguirre-Sacasa</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4174040.jpg</filename>
-  <lastupdated>1350937513</lastupdated>
+  <lastupdated>1411666260</lastupdated>
   <seasonid>468423</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -1632,13 +1632,13 @@
   <Language>en</Language>
   <Overview>Congressional hopeful Sue Sylvester starts a smear campaign to ruin the candidacy of her biggest rival. Puck falls in love, and glee club directors Will and Shelby encourage some friendly competition between their clubs</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>72</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>73</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Michael Hitchcock</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4174041.jpg</filename>
-  <lastupdated>1353767638</lastupdated>
+  <lastupdated>1411666271</lastupdated>
   <seasonid>468423</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -1658,18 +1658,18 @@
   <EpisodeName>I Kissed a Girl</EpisodeName>
   <EpisodeNumber>7</EpisodeNumber>
   <FirstAired>2011-11-29</FirstAired>
-  <GuestStars>Damian McGinty | Josh Sussman | LaMarcus Tinker | Ivonne Coll | Jonathan Groff | Eric Bruskotter</GuestStars>
+  <GuestStars>|Damian McGinty|Josh Sussman|LaMarcus Tinker|Ivonne Coll|Jonathan Groff|Eric Bruskotter|</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>Finn tries to rally the rival show-choirs behind one of their own; Sue’s bid for political office causes heartbreak for another teacher; and the student body elections turn scandalous.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>68</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>69</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Matthew Hodgson</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4182610.jpg</filename>
-  <lastupdated>1353767665</lastupdated>
+  <lastupdated>1431173899</lastupdated>
   <seasonid>468423</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -1689,18 +1689,18 @@
   <EpisodeName>Hold On To Sixteen</EpisodeName>
   <EpisodeNumber>8</EpisodeNumber>
   <FirstAired>2011-12-06</FirstAired>
-  <GuestStars>Chord Overstreet, Lindsay Pearce, John Schneider, Grant Gustin</GuestStars>
+  <GuestStars>|Chord Overstreet|Lindsay Pearce|John Schneider|Grant Gustin|</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>In an attempt to recruit a few more members, Finn tracks down former teammate Sam Evans and convinces him to come back to the glee club. Tina comes to the defense of Harry and encourages him to pursue his dream while McKinley prepares to host the big sectionals performance.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>63</RatingCount>
+  <RatingCount>65</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Ross Maxwell</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4200905.jpg</filename>
-  <lastupdated>1354834341</lastupdated>
+  <lastupdated>1431173858</lastupdated>
   <seasonid>468423</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -1720,18 +1720,18 @@
   <EpisodeName>Extraordinary Merry Christmas</EpisodeName>
   <EpisodeNumber>9</EpisodeNumber>
   <FirstAired>2011-12-13</FirstAired>
-  <GuestStars>Damian McGinty, Chord Overstreet</GuestStars>
+  <GuestStars>|Damian McGinty|Chord Overstreet|</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>Artie is asked to direct and produce a Christmas special for the local PBS station, while some of the New Directions learn the 'true' meaning of Christmas.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>58</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>59</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Marti Noxon</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4200911.jpg</filename>
-  <lastupdated>1354834367</lastupdated>
+  <lastupdated>1431173727</lastupdated>
   <seasonid>468423</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -1751,18 +1751,18 @@
   <EpisodeName>Yes/No</EpisodeName>
   <EpisodeNumber>10</EpisodeNumber>
   <FirstAired>2012-01-17</FirstAired>
-  <GuestStars>Chord Overstreet, Damian McGinty, Vanessa Lengies, LaMarcus Tinker, Rock Anthony, NeNe Leakes, Grant Gustin</GuestStars>
+  <GuestStars>|Chord Overstreet|Damian McGinty|Vanessa Lengies|LaMarcus Tinker|Rock Anthony|NeNe Leakes|Grant Gustin|</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>When Will tries to plan a special surprise for Emma, he enlists the glee club to help him sweep her off her feet. Meanwhile, Becky sets her sights on Artie, and Finn makes an announcement about his life plans after high school that surprises the glee club.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>64</RatingCount>
+  <RatingCount>65</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Brad Falchuk</Writer>
   <absolute_number>54</absolute_number>
   <filename>episodes/83610/4200927.jpg</filename>
-  <lastupdated>1354834392</lastupdated>
+  <lastupdated>1431173880</lastupdated>
   <seasonid>468423</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -1782,18 +1782,18 @@
   <EpisodeName>Michael</EpisodeName>
   <EpisodeNumber>11</EpisodeNumber>
   <FirstAired>2012-01-31</FirstAired>
-  <GuestStars>Chord Overstreet as Sam Evans, Damian McGinty as Rory Flanagan, Vanessa Lengies as Sugar Motta, Grant Gustin as Sebastian Smythe</GuestStars>
+  <GuestStars>|Chord Overstreet as Sam Evans|Damian McGinty as Rory Flanagan|Vanessa Lengies as Sugar Motta|Grant Gustin as Sebastian Smythe|</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>In a special episode celebrating the music of Michael Jackson, the rivalry between New Directions and the Warblers intensifies en route to Regionals. Meanwhile, Kurt and Rachel receive news regarding their admissions process at NYADA, and things continue to heat up between Sam and Mercedes. </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>58</RatingCount>
+  <RatingCount>59</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Ryan Murphy</Writer>
   <absolute_number>55</absolute_number>
   <filename>episodes/83610/4200929.jpg</filename>
-  <lastupdated>1356437909</lastupdated>
+  <lastupdated>1431173789</lastupdated>
   <seasonid>468423</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -1819,12 +1819,12 @@
   <Overview>Will assigns the glee club a Spanish singing assignment, and enlists the help of his musically-inclined night school teacher. Meanwhile, Rachel spills the beans to Kurt and Mercedes on Finn's marriage proposal, and Mercedes has love complications of her own.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>58</RatingCount>
+  <RatingCount>59</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Ian Brennan</Writer>
   <absolute_number>56</absolute_number>
   <filename>episodes/83610/4219454.jpg</filename>
-  <lastupdated>1357388981</lastupdated>
+  <lastupdated>1411666349</lastupdated>
   <seasonid>468423</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -1850,12 +1850,12 @@
   <Overview>In honor of Valentine's Day, Will challenges the New Directions to find and perform the world's greatest love songs. Meanwhile, Rachel's two dads Hiram and LeRoy Berry pay a visit to McKinley High.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>54</RatingCount>
+  <RatingCount>55</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Ali Adler</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4219455.jpg</filename>
-  <lastupdated>1381772771</lastupdated>
+  <lastupdated>1411666356</lastupdated>
   <seasonid>468423</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -1881,12 +1881,12 @@
   <Overview>Things heat up as the New Directions go head-to-head with the Dalton Academy Warblers at Regionals.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>52</RatingCount>
+  <RatingCount>53</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Roberto Aguirre-Sacasa</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4253228.jpg</filename>
-  <lastupdated>1381772787</lastupdated>
+  <lastupdated>1411666362</lastupdated>
   <seasonid>468423</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -1911,13 +1911,13 @@
   <Language>en</Language>
   <Overview>Much to Blaine's chagrin, his big-shot Hollywood actor brother, Cooper, comes to visit.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.2</Rating>
-  <RatingCount>51</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>52</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Michael Hitchcock</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4253233.jpg</filename>
-  <lastupdated>1381772809</lastupdated>
+  <lastupdated>1411666368</lastupdated>
   <seasonid>468423</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -1943,12 +1943,12 @@
   <Overview>The Glee Club does disco in a tribute to Saturday Night Fever.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>57</RatingCount>
+  <RatingCount>58</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Matthew Hodgson</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4253239.jpg</filename>
-  <lastupdated>1362940838</lastupdated>
+  <lastupdated>1411666377</lastupdated>
   <seasonid>468423</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -1973,13 +1973,13 @@
   <Language>en</Language>
   <Overview>The glee club pays homage to a true icon when they cover Whitney Houston's greatest hits. Meanwhile, Emma and Will are one step closer to their dream wedding.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>52</RatingCount>
+  <Rating>7.9</Rating>
+  <RatingCount>53</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Ross Maxwell</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4253241.jpg</filename>
-  <lastupdated>1362940891</lastupdated>
+  <lastupdated>1411666390</lastupdated>
   <seasonid>468423</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -2010,7 +2010,7 @@
   <Writer>Marti Noxon</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4253244.jpg</filename>
-  <lastupdated>1381772848</lastupdated>
+  <lastupdated>1411666399</lastupdated>
   <seasonid>468423</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -2036,12 +2036,12 @@
   <Overview>Brittany goes into high gear as class president to spearhead the prom. Then, after prom king and queen nominations are announced, the kids kick into campaign mode, and some of the outcasts organize a rival celebration.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>52</RatingCount>
+  <RatingCount>53</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Ryan Murphy</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4253246.jpg</filename>
-  <lastupdated>1362945432</lastupdated>
+  <lastupdated>1411666407</lastupdated>
   <seasonid>468423</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -2067,12 +2067,12 @@
   <Overview>Tina's head injury from falling into a fountain leaves her seeing her fellow singers and other people at McKinley High in a new way as rehearsals continue for the glee club's Nationals performance.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>43</RatingCount>
+  <RatingCount>45</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Ian Brennan</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4253247.jpg</filename>
-  <lastupdated>1362945482</lastupdated>
+  <lastupdated>1411666427</lastupdated>
   <seasonid>468423</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -2098,12 +2098,12 @@
   <Overview>The glee club travels to Chicago, to compete in Nationals against the best show choirs in the country, including Vocal Adrenaline, for celebrity judges including Lindsay Lohan and Perez Hilton.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.1</Rating>
-  <RatingCount>46</RatingCount>
+  <RatingCount>48</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Ali Adler</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4253250.jpg</filename>
-  <lastupdated>1366412351</lastupdated>
+  <lastupdated>1411666440</lastupdated>
   <seasonid>468423</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -2129,12 +2129,12 @@
   <Overview>The William McKinley High School class of 2012 graduates, and the glee club bids farewell to its graduating seniors.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>42</RatingCount>
+  <RatingCount>44</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Brad Falchuk</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4253251.jpg</filename>
-  <lastupdated>1362945558</lastupdated>
+  <lastupdated>1411666448</lastupdated>
   <seasonid>468423</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -2165,7 +2165,7 @@
   <Writer>Ryan Murphy</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4345292.jpg</filename>
-  <lastupdated>1381941017</lastupdated>
+  <lastupdated>1411666478</lastupdated>
   <seasonid>494900</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -2190,13 +2190,13 @@
   <Language>en</Language>
   <Overview>Brittany is depressed, and turns to her namesake Britney Spears for inspiration. Rachel continues to struggle in adjusting to life at NYADA and in New York, but gets help from new friend and classmate Brody. Puck meets Jake for the first time, when Will calls him. </Overview>
   <ProductionCode>4ARC02</ProductionCode>
-  <Rating>7.3</Rating>
-  <RatingCount>39</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>40</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Brad Falchuk</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4373906.jpg</filename>
-  <lastupdated>1381941162</lastupdated>
+  <lastupdated>1411666485</lastupdated>
   <seasonid>494900</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -2227,7 +2227,7 @@
   <Writer>Ian Brennan</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4373907.jpg</filename>
-  <lastupdated>1388491841</lastupdated>
+  <lastupdated>1411666491</lastupdated>
   <seasonid>494900</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -2253,12 +2253,12 @@
   <Overview>The relationships of four of the couples are tested – Will and Emma, Rachel and Finn, Kurt and Blaine, and Santana and Brittany but only one of them will survive. </Overview>
   <ProductionCode>4ARC04</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>39</RatingCount>
+  <RatingCount>40</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Ryan Murphy</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4373908.jpg</filename>
-  <lastupdated>1388491801</lastupdated>
+  <lastupdated>1411666499</lastupdated>
   <seasonid>494900</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -2284,12 +2284,12 @@
   <Overview>The McKinley High production of &quot;Grease&quot; is being cast, and Artie recruits McKinley graduates Mercedes and Mike to help out with auditions. Competitors for the lead role of Danny include Jake and football player Ryder Lynn, while Marley and cheerleader Kitty are rivals for Sandy, the female lead. Will also has a big decision to make. </Overview>
   <ProductionCode>4ARC05</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>34</RatingCount>
+  <RatingCount>35</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Michael Hitchcock</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4392177.jpg</filename>
-  <lastupdated>1388491816</lastupdated>
+  <lastupdated>1411666509</lastupdated>
   <seasonid>494900</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -2314,13 +2314,13 @@
   <Language>en</Language>
   <Overview>The McKinley High production of &quot;Grease&quot; opens, and Santana returns to help out. Rachel has another run-in with Cassandra, her dance instructor; and Kurt and Rachel visit Lima. Finn becomes the interim Glee Club Director. </Overview>
   <ProductionCode>4ARC06</ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>36</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>37</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Roberto Aguirre-Sacasa</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4392178.jpg</filename>
-  <lastupdated>1388411391</lastupdated>
+  <lastupdated>1411666544</lastupdated>
   <seasonid>494900</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -2345,13 +2345,13 @@
   <Language>en</Language>
   <Overview>As their trophy from winning Nationals is being stolen – the New Directions start to think of what superheroes would do. As a conclusion, this weeks assignment is &quot;Dynamic Duets&quot;. Romantic tension builds between Marley and two of the glee club's males, Jake and Ryder. Blaine checks in on the Warblers.</Overview>
   <ProductionCode>4ARC07</ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>33</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>34</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Ian Brennan</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4412949.jpg</filename>
-  <lastupdated>1388411634</lastupdated>
+  <lastupdated>1411666571</lastupdated>
   <seasonid>494900</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -2376,13 +2376,13 @@
   <Language>en</Language>
   <Overview>It's time for sectionals, and New Directions receives guidance from some of the recent McKinley graduates who volunteer to mentor the glee club during their Thanksgiving break. Meanwhile, Rachel and Kurt have a non-traditional holiday dinner in the Big Apple.</Overview>
   <ProductionCode>4ARC08</ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>36</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>38</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Russel Friend &amp; Garrett Lerner</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4427153.jpg</filename>
-  <lastupdated>1388411662</lastupdated>
+  <lastupdated>1411666581</lastupdated>
   <seasonid>494900</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -2402,18 +2402,18 @@
   <EpisodeName>Swan Song</EpisodeName>
   <EpisodeNumber>9</EpisodeNumber>
   <FirstAired>2012-12-06</FirstAired>
-  <GuestStars>Whoopi Goldberg, Kate Hudson, Vanessa Lengies, Blake Jenner, Alex Newell, Dot Jones, Jacob Artist</GuestStars>
+  <GuestStars>|Whoopi Goldberg|Kate Hudson|Vanessa Lengies|Blake Jenner|Alex Newell|Dot Jones|Jacob Artist|</GuestStars>
   <IMDB_ID>tt2403623</IMDB_ID>
   <Language>en</Language>
   <Overview>Finn thinks about his future with the glee club after sectionals are over. Elsewhere, Rachel gets ready for NYADA's winter showcase; and Kurt gets a second chance at an audition.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>34</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>35</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Stacy Traub</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4427154.jpg</filename>
-  <lastupdated>1388411679</lastupdated>
+  <lastupdated>1431173804</lastupdated>
   <seasonid>494900</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -2439,12 +2439,12 @@
   <Overview>A tribute to the film &quot;Love, Actually&quot; with five different storylines all dealing with the holidays. Sam and Brittany live as if it's the end of the world as the Mayans know it. The Puckermans, including half-brothers Puck and Jake and their mothers, come together for Chanukah. Artie suffers a head injury in which he slips on ice and has an epiphany through a dream sequence. He wonders what may have happened if he was never in a wheelchair and glee club never formed. His black-and-white vision has Rory as his guardian angel, reminding him of who he was to the glee club. Kurt spends Christmas with Blaine and his father in New York, whilst discovering his father has prostate cancer. Sue struggles to get a Secret Santa present for Marley's mother, Millie, but has a change of heart after seeing Marley and Millie struggle. </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>28</RatingCount>
+  <RatingCount>29</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Matthew Hodgson</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4433558.jpg</filename>
-  <lastupdated>1388492943</lastupdated>
+  <lastupdated>1411666618</lastupdated>
   <seasonid>494900</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -2469,13 +2469,13 @@
   <Language>en</Language>
   <Overview>McKinley’s Sadie Hawkins dance offers several gleeks a rare chance to feel empowered. Sam and Blaine investigate a possible cheating scandal at sectionals. Kurt makes a new friend at NYADA.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.0</Rating>
-  <RatingCount>25</RatingCount>
+  <Rating>7.1</Rating>
+  <RatingCount>26</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Ross Maxwell</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4441466.jpg</filename>
-  <lastupdated>1389133500</lastupdated>
+  <lastupdated>1411666636</lastupdated>
   <seasonid>494900</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -2501,12 +2501,12 @@
   <Overview>New Directions produces a sexy calendar to raise money for their trip to Regionals. Rachel is faced with a personal dilemma when she’s cast in a student film. Finn and Sue go toe-to-toe.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>32</RatingCount>
+  <RatingCount>33</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Ryan Murphy</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4454227.jpg</filename>
-  <lastupdated>1384122567</lastupdated>
+  <lastupdated>1411666644</lastupdated>
   <seasonid>494900</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -2531,13 +2531,13 @@
   <Language>en</Language>
   <Overview>Finn encourages the glee-club members to channel their inner divas. Elsewhere, Rachel's arrogance causes Kurt to reach a breaking point; and Emma throws herself into wedding preparations.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.1</Rating>
-  <RatingCount>25</RatingCount>
+  <Rating>7.2</Rating>
+  <RatingCount>26</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Brad Falchuk</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4454228.jpg</filename>
-  <lastupdated>1389133533</lastupdated>
+  <lastupdated>1411666659</lastupdated>
   <seasonid>494900</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -2562,13 +2562,13 @@
   <Language>en</Language>
   <Overview>Will and Emma get ready for their Valentine's Day wedding with the help of past and present New Directions members.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.1</Rating>
-  <RatingCount>29</RatingCount>
+  <Rating>7.2</Rating>
+  <RatingCount>30</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Ian Brennan</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4478016.jpg</filename>
-  <lastupdated>1389133559</lastupdated>
+  <lastupdated>1411666683</lastupdated>
   <seasonid>494900</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -2593,13 +2593,13 @@
   <Language>en</Language>
   <Overview>The kids of New Directions go head-to-head in their annual boys vs. girls mash-up competition; this time using the music of the movies. Meanwhile in New York, Santana makes herself at home in the loft a little too quickly for Rachel and Kurt's comfort. </Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.0</Rating>
-  <RatingCount>27</RatingCount>
+  <Rating>7.1</Rating>
+  <RatingCount>29</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Michael Hitchcock</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4491419.jpg</filename>
-  <lastupdated>1386490751</lastupdated>
+  <lastupdated>1411666707</lastupdated>
   <seasonid>494900</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -2624,13 +2624,13 @@
   <Language>en</Language>
   <Overview>Open with the kids addressing the recent awkwardness between Will and Finn. And the two Glee leaders are given an assignment: the two must perform a song together using the theme of feuds. Blaine and Sue will have a sing-off, while Ryder has a scary story coming.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.1</Rating>
-  <RatingCount>30</RatingCount>
+  <Rating>7.2</Rating>
+  <RatingCount>32</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Roberto Aguirre-Sacasa</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4502157.jpg</filename>
-  <lastupdated>1386490788</lastupdated>
+  <lastupdated>1411666723</lastupdated>
   <seasonid>494900</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -2655,13 +2655,13 @@
   <Language>en</Language>
   <Overview>The New Directions tackle an assignment, meaning the songs as well as groups that everyone is too embarrassed to admit that they love.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>29</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>31</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Russel Friend &amp; Garrett Lerner</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4512181.jpg</filename>
-  <lastupdated>1386490824</lastupdated>
+  <lastupdated>1411666735</lastupdated>
   <seasonid>494900</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -2686,13 +2686,13 @@
   <Language>en</Language>
   <Overview>The members of New Directions are prepping for regionals, but when an unthinkable event occurs at McKinley High, perspectives are put into order.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.2</Rating>
-  <RatingCount>23</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>25</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Matthew Hodgson</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4513304.jpg</filename>
-  <lastupdated>1389433518</lastupdated>
+  <lastupdated>1411666742</lastupdated>
   <seasonid>494900</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -2717,13 +2717,13 @@
   <Language>en</Language>
   <Overview>When Mr. Schuester comes up with the setlist for regionals, the New Directions are not pleased, Rachel sings an unexpected song for her &quot;Funny Girl audition&quot;, and Marley writes an original song.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.1</Rating>
-  <RatingCount>21</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>23</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Ross Maxwell</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4513305.jpg</filename>
-  <lastupdated>1389433549</lastupdated>
+  <lastupdated>1411666749</lastupdated>
   <seasonid>494900</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -2748,13 +2748,13 @@
   <Language>en</Language>
   <Overview>When the power goes out at McKinley High, Will and Finn enlist the members of New Directions to &quot;unplug&quot; and perform acoustic numbers. Meanwhile, Isabelle Wright asks Kurt to volunteer at the Vogue.com charity event, with Rachel and Santana in tow.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.3</Rating>
-  <RatingCount>21</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>23</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Ryan Murphy</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4513307.jpg</filename>
-  <lastupdated>1389433579</lastupdated>
+  <lastupdated>1411666758</lastupdated>
   <seasonid>494900</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -2779,13 +2779,13 @@
   <Language>en</Language>
   <Overview>The members of New Directions take on the greatest hits of music icon Stevie Wonder. Meanwhile, Artie receives news that could affect his future and his mom. In New York, Rachel prepares for her &quot;Funny Girl&quot; callback.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.2</Rating>
-  <RatingCount>22</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>24</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Brad Falchuk</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4513308.jpg</filename>
-  <lastupdated>1389433607</lastupdated>
+  <lastupdated>1411666768</lastupdated>
   <seasonid>494900</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -2810,13 +2810,13 @@
   <Language>en</Language>
   <Overview>It's finally time for Regionals, and the glee club is more determined than ever to advance to Nationals. Brittany returns from her MIT trip with a new attitude and Ryder finally has a lead on who is &quot;catfishing&quot; him.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.1</Rating>
-  <RatingCount>21</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>23</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Ian Brennan</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4513309.jpg</filename>
-  <lastupdated>1389433639</lastupdated>
+  <lastupdated>1411666790</lastupdated>
   <seasonid>494900</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -2842,12 +2842,12 @@
   <Overview>The members of New Directions are back in action and take on their biggest assignment yet: the Beatles! As Will enlists the kids to pay homage to the classic song catalog from the Fab Four, Blaine and Kurt attempt to answer questions about their future together. Meanwhile, Rachel's New York ambitions take an unexpected turn.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>16</RatingCount>
+  <RatingCount>18</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Brad Falchuk</Writer>
   <absolute_number>89</absolute_number>
   <filename>episodes/83610/4600824.jpg</filename>
-  <lastupdated>1403550934</lastupdated>
+  <lastupdated>1413459245</lastupdated>
   <seasonid>523453</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added>2013-10-04 04:38:23</thumb_added>
@@ -2873,12 +2873,12 @@
   <Overview>As the Prom approaches, the race for Prom Queen brings out the best and the worst in candidates Tina and Kitty. Meanwhile, Sam tries to make a connection with a new school nurse, an increasingly discouraged Rachel waits for word on her Funny Girl callback, and Santana makes a new friend at work.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>18</RatingCount>
+  <RatingCount>20</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Ian Brennan</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4625976.jpg</filename>
-  <lastupdated>1403550968</lastupdated>
+  <lastupdated>1413459262</lastupdated>
   <seasonid>523453</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added>2013-10-04 04:42:11</thumb_added>
@@ -2904,12 +2904,12 @@
   <Overview>The McKinley gang celebrate the life of former quarterback and New Directions member Finn Hudson. The episode mirrors the real-life death of actor Cory Monteith (1982-2013), who played Finn.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.1</Rating>
-  <RatingCount>18</RatingCount>
+  <RatingCount>20</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4625977.jpg</filename>
-  <lastupdated>1403550992</lastupdated>
+  <lastupdated>1413459280</lastupdated>
   <seasonid>523453</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added>2013-10-11 12:31:17</thumb_added>
@@ -2935,12 +2935,12 @@
   <Overview>The members of New Directions tackle their assignment of getting out of their comfort zones and determining whether they're more like &quot;Katy&quot; or &quot;Gaga.&quot; Kurt holds auditions for his new band and must decide if he'll let in the overly bold performer, Starchild. Meanwhile, Jake gets closer to Bree as he and Marley grow apart.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>17</RatingCount>
+  <RatingCount>19</RatingCount>
   <SeasonNumber>5</SeasonNumber>
-  <Writer>Russel Friend, Garrett Lerner</Writer>
+  <Writer>|Russel Friend|Garrett Lerner|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4661166.jpg</filename>
-  <lastupdated>1403551463</lastupdated>
+  <lastupdated>1431173838</lastupdated>
   <seasonid>523453</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added>2013-11-09 18:37:33</thumb_added>
@@ -2966,12 +2966,12 @@
   <Overview>The glee club learns the dance of the hour: twerking. Meanwhile, Marley discovers Jake's relationship with Bree, and Rachel tries to convince Kurt they both should get tattoos.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>16</RatingCount>
+  <RatingCount>18</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Michael Hitchcock</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4673931.jpg</filename>
-  <lastupdated>1403551071</lastupdated>
+  <lastupdated>1414223797</lastupdated>
   <seasonid>523453</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added>2013-11-17 01:40:18</thumb_added>
@@ -2997,12 +2997,12 @@
   <Overview>While New Directions takes on the music of Billy Joel, Kurt and Blaine reunite in New York. Meanwhile, Sam makes plans about his future.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>15</RatingCount>
+  <RatingCount>16</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Roberto Aguirre-Sacasa</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4681885.jpg</filename>
-  <lastupdated>1403551091</lastupdated>
+  <lastupdated>1414223811</lastupdated>
   <seasonid>523453</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added>2013-11-22 10:41:18</thumb_added>
@@ -3027,13 +3027,13 @@
   <Language>en</Language>
   <Overview>Blaine believes he has the best plan to win Nationals, but he doesn't take the glee club's criticism too well when the students accuse him of being too controlling. Over in New York, Kurt also runs into control issues when the band disagrees over the venue of their first official gig that Kurt booked. Meanwhile, Sue reveals the story behind her iconic tracksuit and gets in touch with her feminine side.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.3</Rating>
-  <RatingCount>15</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>17</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4694141.jpg</filename>
-  <lastupdated>1403551126</lastupdated>
+  <lastupdated>1414223831</lastupdated>
   <seasonid>523453</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added>2013-11-28 08:04:49</thumb_added>
@@ -3058,13 +3058,13 @@
   <Language>en</Language>
   <Overview>Sue Sylvester introduces the episode as a Christmas special that FOX did not allow to air from last year. The members of New Directions audition for roles in McKinley's living Nativity Scene. Meanwhile in New York, Rachel, Kurt and Santana work as Santa's elves at a mall.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.3</Rating>
-  <RatingCount>11</RatingCount>
+  <Rating>7.2</Rating>
+  <RatingCount>14</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Ross Maxwell</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4708225.jpg</filename>
-  <lastupdated>1403551161</lastupdated>
+  <lastupdated>1432808080</lastupdated>
   <seasonid>523453</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added>2013-12-05 23:17:23</thumb_added>
@@ -3090,12 +3090,12 @@
   <Overview>Santana auditions and snags the role of Rachel’s understudy in “Funny Girl,” causing a feud between the roommates. Meanwhile, back in Lima, Tina and Artie compete against each other to be the class valedictorian.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>10</RatingCount>
+  <RatingCount>14</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Ned Martel</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4718163.jpg</filename>
-  <lastupdated>1403551181</lastupdated>
+  <lastupdated>1432808118</lastupdated>
   <seasonid>523453</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added>2014-02-26 00:11:03</thumb_added>
@@ -3120,13 +3120,13 @@
   <Language>en</Language>
   <Overview>As graduation approaches, Tina, Blaine and Sam band together to hold a senior &quot;lock-in&quot; at school, hoping to savor their last chance at hanging out together. But their plans are thwarted when Becky joins unexpectedly. Meanwhile, in New York, Elliot is stuck in the middle between Rachel and Santana's feud.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>6.9</Rating>
-  <RatingCount>7</RatingCount>
+  <Rating>7.0</Rating>
+  <RatingCount>10</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Rivka Sophia Rossi</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4723938.jpg</filename>
-  <lastupdated>1403551266</lastupdated>
+  <lastupdated>1432808157</lastupdated>
   <seasonid>523453</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added>2014-03-05 08:31:13</thumb_added>
@@ -3151,13 +3151,13 @@
   <Language>en</Language>
   <Overview>Dedicating their performance to Finn’s memory, New Directions arrive in Los Angeles to take part in the National High School Show Choir Championship, and face off against “Throat Explosion”, their fiercest competition to date.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>8.0</Rating>
-  <RatingCount>8</RatingCount>
+  <Rating>7.9</Rating>
+  <RatingCount>9</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Jessica Meyer</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4725159.jpg</filename>
-  <lastupdated>1403551209</lastupdated>
+  <lastupdated>1413459496</lastupdated>
   <seasonid>523453</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added>2014-03-08 08:04:31</thumb_added>
@@ -3182,13 +3182,13 @@
   <Language>en</Language>
   <Overview>The original members of New Directions reunite at McKinley to celebrate and reflect on the history of the seemingly doomed glee club.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>8.0</Rating>
-  <RatingCount>8</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>10</RatingCount>
   <SeasonNumber>5</SeasonNumber>
-  <Writer>Ryan Murphy, Brad Falchuk, Ian Brennan</Writer>
+  <Writer>|Ryan Murphy|Brad Falchuk|Ian Brennan|</Writer>
   <absolute_number>100</absolute_number>
   <filename>episodes/83610/4725161.jpg</filename>
-  <lastupdated>1403551303</lastupdated>
+  <lastupdated>1431173913</lastupdated>
   <seasonid>523453</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added>2014-03-08 08:04:43</thumb_added>
@@ -3213,13 +3213,13 @@
   <Language>en</Language>
   <Overview>As the fate of the glee club becomes a reality, April and Holly plot a plan to save New Directions. Meanwhile, Rachel and Santana attempt to make amends after their blowout fight.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>11</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>13</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Brad Falchuk</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4725162.jpg</filename>
-  <lastupdated>1403551315</lastupdated>
+  <lastupdated>1414223941</lastupdated>
   <seasonid>523453</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added>2014-03-20 00:57:31</thumb_added>
@@ -3244,13 +3244,13 @@
   <Language>en</Language>
   <Overview>Glee-club alumni members are followed in New York City several months after leaving New Directions: Blaine and Sam move in with Kurt; Artie struggles to get around Manhattan; Rachel settles into the life of a Broadway star; and Mercedes moves to NYC to work on her album.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>6</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>8</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Ryan Murphy</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4725163.jpg</filename>
-  <lastupdated>1403551396</lastupdated>
+  <lastupdated>1413459541</lastupdated>
   <seasonid>523453</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added>2014-04-03 04:46:08</thumb_added>
@@ -3276,12 +3276,12 @@
   <Overview>Rachel is faced with a decision that pits her education against her career. Sam and Mercedes consider rekindling their romance. Kurt comes face-to-face with a hate-crime.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.2</Rating>
-  <RatingCount>6</RatingCount>
+  <RatingCount>9</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Ian Brennan</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4725164.jpg</filename>
-  <lastupdated>1401315734</lastupdated>
+  <lastupdated>1432808206</lastupdated>
   <seasonid>523453</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added>2014-03-26 05:04:00</thumb_added>
@@ -3307,12 +3307,12 @@
   <Overview>Blaine suffers a crisis of confidence after gaining the dreaded “Freshman Fifteen.” Artie discovers that his newfound success with the ladies comes at a price. Mercedes tells Sam she’s still a virgin.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>4</RatingCount>
+  <RatingCount>7</RatingCount>
   <SeasonNumber>5</SeasonNumber>
-  <Writer>Russel Friend, Garrett Lerner</Writer>
+  <Writer>|Russel Friend|Garrett Lerner|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4725166.jpg</filename>
-  <lastupdated>1401315655</lastupdated>
+  <lastupdated>1432808249</lastupdated>
   <seasonid>523453</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added>2014-04-03 16:12:41</thumb_added>
@@ -3337,13 +3337,13 @@
   <Language>en</Language>
   <Overview>Rachel makes her Broadway debut in &quot;Funny Girl.&quot;</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.0</Rating>
-  <RatingCount>5</RatingCount>
+  <Rating>7.2</Rating>
+  <RatingCount>6</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4832594.jpg</filename>
-  <lastupdated>1401315196</lastupdated>
+  <lastupdated>1432808268</lastupdated>
   <seasonid>523453</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added>2014-04-10 18:40:34</thumb_added>
@@ -3368,13 +3368,13 @@
   <Language>en</Language>
   <Overview>Rachel is presented with a unique opportunity which could either take her career to the next level, or possibly kill it entirely. Meanwhile, Mercedes asks for Santana’s help finding a “new sound” for her latest single, and a wealthy New York socialite takes Blaine under her wing.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>3</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>5</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4832595.jpg</filename>
-  <lastupdated>1401315520</lastupdated>
+  <lastupdated>1432808299</lastupdated>
   <seasonid>523453</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added>2014-04-17 20:09:28</thumb_added>
@@ -3399,13 +3399,13 @@
   <Language>en</Language>
   <Overview>Santana helps Rachel do damage control for her flagging public image; Kurt tries to help a home for retired Broadway performers with their production of Peter Pan; to prove he is responsible, Sam adopts a dog - despite Mercedes’ objections. </Overview>
   <ProductionCode></ProductionCode>
-  <Rating>6.2</Rating>
-  <RatingCount>5</RatingCount>
+  <Rating>6.6</Rating>
+  <RatingCount>7</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Chris Colfer</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4832596.jpg</filename>
-  <lastupdated>1401315438</lastupdated>
+  <lastupdated>1432808330</lastupdated>
   <seasonid>523453</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added>2014-04-28 23:47:48</thumb_added>
@@ -3430,16 +3430,420 @@
   <Language>en</Language>
   <Overview>Rachel meets a famous television writer, whose eccentric personality catches Rachel off guard. Meanwhile, Sam and Mercedes deal with the pressure of commitment as their careers take off, and the time has finally come for Blaine’s big showcase with June Dolloway at NYADA.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.0</Rating>
-  <RatingCount>4</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>6</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4839795.jpg</filename>
-  <lastupdated>1401315378</lastupdated>
+  <lastupdated>1432808356</lastupdated>
   <seasonid>523453</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added>2014-05-05 13:15:52</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4982851</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Loser Like Me</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2015-01-09</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>After Rachel's humiliating failure as TV actress, she comes home to Lima to figure out what she wants to do next. Upon discovering that Sue has banished the arts at McKinley, Rachel takes it upon herself to reinstate and lead the Glee Club. Meanwhile, Blaine, no longer in a relationship with Kurt, has moved home to coach the Warblers while Will is coaching rival Vocal Adrenaline, and Sam is the assistant coach for the McKinley football team.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/83610/4982851.jpg</filename>
+  <lastupdated>1425200659</lastupdated>
+  <seasonid>596260</seasonid>
+  <seriesid>83610</seriesid>
+  <thumb_added>2015-01-10 10:49:21</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4984252</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Homecoming</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2015-01-09</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Puck, Quinn, Santana, Mercedes, Brittany, Artie and Tina all return to McKinley for Homecoming and help Rachel and Kurt recruit for the new glee club.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/83610/4984252.jpg</filename>
+  <lastupdated>1425200670</lastupdated>
+  <seasonid>596260</seasonid>
+  <seriesid>83610</seriesid>
+  <thumb_added>2015-01-10 10:49:36</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5011454</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Jagged Little Tapestry</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2015-01-16</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Rachel and Kurt struggle as they try to rebuild and co-direct the glee club at McKinley. Meanwhile, Sue is concerned when Becky brings her new boyfriend to town.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/83610/5011454.jpg</filename>
+  <lastupdated>1425200696</lastupdated>
+  <seasonid>596260</seasonid>
+  <seriesid>83610</seriesid>
+  <thumb_added>2015-01-16 08:52:41</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5011455</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>The Hurt Locker (1)</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2015-01-23</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Rachel hopes to form a deal in which Will's glee club purposefully underperforms at their invitational; Sue wants Sam to distract Rachel.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>4</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/83610/5011455.jpg</filename>
+  <lastupdated>1425200713</lastupdated>
+  <seasonid>596260</seasonid>
+  <seriesid>83610</seriesid>
+  <thumb_added>2015-01-23 19:01:27</thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5011456</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Hurt Locker (2)</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2015-01-30</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Rachel and Kurt redouble their efforts to recruit new members to New Directions after new rules are announced for the Show Choir Invitational. Sue enacts an elaborate plan to try reunite Kurt and Blaine. Will and Rachel have a much needed heart-to-heart.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>3</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/83610/5011456.jpg</filename>
+  <lastupdated>1425200728</lastupdated>
+  <seasonid>596260</seasonid>
+  <seriesid>83610</seriesid>
+  <thumb_added>2015-01-30 22:24:41</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5011457</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>What the World Needs Now</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2015-02-06</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Brittany and Santana plan their wedding. The Gleeks weekly assignment is the music of Burt Bacharach, and reigning diva Mercedes is recruited to act as a mentor for the new singers. Brittany learns a shocking family secret.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>3</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/83610/5011457.jpg</filename>
+  <lastupdated>1425200771</lastupdated>
+  <seasonid>596260</seasonid>
+  <seriesid>83610</seriesid>
+  <thumb_added>2015-02-04 01:59:08</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5011458</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Transitioning</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2015-02-13</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>A new job forces Will to take a hard look at the choices he’s made. Rachel must come to terms with the fact her family home has finally been sold.
+Coach Beiste, returns to McKinley and the romantic tension that has been brewing between Sam and Rachel finally boils over. </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/83610/5011458.jpg</filename>
+  <lastupdated>1425200788</lastupdated>
+  <seasonid>596260</seasonid>
+  <seriesid>83610</seriesid>
+  <thumb_added>2015-01-26 17:25:28</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5011459</id>
+  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>A Wedding</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2015-02-20</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>The members of New Directions are busy at work planning, planning and planning, while Sue encourages everyone to follow their hearts.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/83610/5011459.jpg</filename>
+  <lastupdated>1425200805</lastupdated>
+  <seasonid>596260</seasonid>
+  <seriesid>83610</seriesid>
+  <thumb_added>2015-02-05 13:58:32</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5011461</id>
+  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Child Star</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2015-02-27</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>The members of New Directions must come together to prepare for their first public performance at a high-strung tween's bar mitzvah.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/83610/5011461.jpg</filename>
+  <lastupdated>1425200821</lastupdated>
+  <seasonid>596260</seasonid>
+  <seriesid>83610</seriesid>
+  <thumb_added>2015-02-11 14:08:57</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5011462</id>
+  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Rise and Fall of Sue Sylvester</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2015-03-06</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Dalton Academy burns to the ground, and the Warblers must combine with the New Directions to form a super group. Meanwhile, Rachel begs Carmen Tibideaux to let her return to NYADA.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/83610/5011462.jpg</filename>
+  <lastupdated>1426437894</lastupdated>
+  <seasonid>596260</seasonid>
+  <seriesid>83610</seriesid>
+  <thumb_added>2015-02-18 14:57:16</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5011463</id>
+  <Combined_episodenumber>11</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>We Built This Glee Club</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired>2015-03-13</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>New Directions and the Warblers go head-to-head at sectionals. Meanwhile, Rachel must choose between returning to NYADA and doing another Broadway show with her past love, Jesse St. James.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/83610/5011463.jpg</filename>
+  <lastupdated>1426438158</lastupdated>
+  <seasonid>596260</seasonid>
+  <seriesid>83610</seriesid>
+  <thumb_added>2015-03-15 09:49:18</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5011460</id>
+  <Combined_episodenumber>12</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>2009</EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired>2015-03-20</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>GLEE goes back in time to see why the original members of New Directions signed up for glee club in the first place.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/83610/5011460.jpg</filename>
+  <lastupdated>1426438239</lastupdated>
+  <seasonid>596260</seasonid>
+  <seriesid>83610</seriesid>
+  <thumb_added>2015-03-15 09:50:39</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5011466</id>
+  <Combined_episodenumber>13</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Brad Buecker</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Dreams Come True</EpisodeName>
+  <EpisodeNumber>13</EpisodeNumber>
+  <FirstAired>2015-03-20</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>All of Will’s hard work and dedication to the Glee Club and to fostering the talents and dreams of his students pays off in a major way, and everyone shares in the feeling of joy that permeates the school as teachers and students reflect on their shared journey. Old rifts and wounds are healed and new sights are set on a promising future. Everyone seems to be ending up exactly as expected and right where they belong… along with more than a few unexpected surprises.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>|Ryan Murphy|Ian Brennan|Brad Falchuk|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/83610/5011466.jpg</filename>
+  <lastupdated>1431173745</lastupdated>
+  <seasonid>596260</seasonid>
+  <seriesid>83610</seriesid>
+  <thumb_added>2015-03-15 09:51:57</thumb_added>
   <thumb_height>225</thumb_height>
   <thumb_width>400</thumb_width>
 </Episode>

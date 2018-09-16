@@ -13,8 +13,8 @@
   <NetworkID></NetworkID>
   <Overview>A Kansas family relocates to Beverly Hills, where their two children adapt to the infamous social drama of West Beverly Hills High.</Overview>
   <Rating>7.4</Rating>
-  <RatingCount>48</RatingCount>
-  <Runtime>45</Runtime>
+  <RatingCount>52</RatingCount>
+  <Runtime>60</Runtime>
   <SeriesID>75487</SeriesID>
   <SeriesName>90210</SeriesName>
   <Status>Ended</Status>
@@ -22,7 +22,7 @@
   <addedBy></addedBy>
   <banner>graphical/82716-g11.jpg</banner>
   <fanart>fanart/original/82716-23.jpg</fanart>
-  <lastupdated>1405480390</lastupdated>
+  <lastupdated>1433678068</lastupdated>
   <poster>posters/82716-14.jpg</poster>
   <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>EP01058729</zap2it_id>
@@ -54,7 +54,7 @@
   <airsbefore_episode></airsbefore_episode>
   <airsbefore_season></airsbefore_season>
   <filename>episodes/82716/4568032.jpg</filename>
-  <lastupdated>1368805855</lastupdated>
+  <lastupdated>1413403980</lastupdated>
   <seasonid>34303</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -74,7 +74,7 @@
   <EpisodeName>We're Not In Kansas Anymore</EpisodeName>
   <EpisodeNumber>1</EpisodeNumber>
   <FirstAired>2008-09-02</FirstAired>
-  <GuestStars>Chantelle Barry|Christina Moore|Jennie Garth|Kellan Lutz|Cherilyn Wilson|Jessica Lowndes|James Patrick Stuart|Joe E. Tata|Hallee Hirsh|Riley Thomas Stewart|Meghan Markle|Brooklyn Sudano|Brandon Michael Vayda|Tilly and the Wall|Jennifer Say Gan|</GuestStars>
+  <GuestStars>|Chantelle Barry|Christina Moore|Jennie Garth|Kellan Lutz|Cherilyn Wilson|Jessica Lowndes|James Patrick Stuart|Joe E. Tata|Hallee Hirsh|Riley Thomas Stewart|Meghan Markle|Brooklyn Sudano|Brandon Michael Vayda|Tilly and the Wall|Jennifer Say Gan|</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>In part one of the series premiere, Harrison Wilson accepts the job position as principal of West Beverly Hills High,  forcing the Wilson family to relocate from Kansas to California and adjust to new life in the city - all while keeping a close watch on their troubled grandmother Tabitha.</Overview>
@@ -82,10 +82,10 @@
   <Rating>7.0</Rating>
   <RatingCount>10</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>Rob Thomas|Gabe Sachs|Jeff Judah</Writer>
+  <Writer>|Rob Thomas|Gabe Sachs|Jeff Judah|</Writer>
   <absolute_number>1</absolute_number>
   <filename>episodes/82716/380752.jpg</filename>
-  <lastupdated>1374953602</lastupdated>
+  <lastupdated>1431126794</lastupdated>
   <seasonid>34304</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -105,7 +105,7 @@
   <EpisodeName>The Jet Set</EpisodeName>
   <EpisodeNumber>2</EpisodeNumber>
   <FirstAired>2008-09-02</FirstAired>
-  <GuestStars>Chantelle Barry|Jennie Garth|Adam Gregory|Cherilyn Wilson|Jessica Lowndes|Kellan Lutz|Shannen Doherty|Jennifer Hyatt|Brandon Michael Vayda|Linda Gray|Joe E. Tata</GuestStars>
+  <GuestStars>|Chantelle Barry|Jennie Garth|Adam Gregory|Cherilyn Wilson|Jessica Lowndes|Kellan Lutz|Shannen Doherty|Jennifer Hyatt|Brandon Michael Vayda|Linda Gray|Joe E. Tata|</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>In part two of the series premiere, Dixon must deal with jealous teammates on the lacrosse team and Annie is dumped by her boyfriend back home but soon meets a potential love interest.</Overview>
@@ -113,10 +113,10 @@
   <Rating>6.2</Rating>
   <RatingCount>6</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>Jeff Judah|Gabe Sachs</Writer>
+  <Writer>|Jeff Judah|Gabe Sachs|</Writer>
   <absolute_number>2</absolute_number>
   <filename>episodes/82716/384183.jpg</filename>
-  <lastupdated>1313852822</lastupdated>
+  <lastupdated>1431126666</lastupdated>
   <seasonid>34304</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -136,7 +136,7 @@
   <EpisodeName>Lucky Strike</EpisodeName>
   <EpisodeNumber>3</EpisodeNumber>
   <FirstAired>2008-09-09</FirstAired>
-  <GuestStars>Jennie Garth|Adam Gregory|Jessica Lowndes|Chantelle Barry|Christina Moore|Cherilyn Wilson|Ann Gillespie|James Patrick Stuart|Riley Thomas Stewart|</GuestStars>
+  <GuestStars>|Jennie Garth|Adam Gregory|Jessica Lowndes|Chantelle Barry|Christina Moore|Cherilyn Wilson|Ann Gillespie|James Patrick Stuart|Riley Thomas Stewart|</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>Harry and Debbie plan a family bowling night, but find their plans interrupted by the unexpected arrival of Annie and Dixon's friends. Meanwhile, Annie finds herself torn between Ethan and Ty, Naomi experiences a difficult evening with her father, and Kelly and Silver learn that Jackie's drinking is beginning to spiral out of control.</Overview>
@@ -147,7 +147,7 @@
   <Writer>Jill Gordon</Writer>
   <absolute_number>3</absolute_number>
   <filename>episodes/82716/386612.jpg</filename>
-  <lastupdated>1313852841</lastupdated>
+  <lastupdated>1431126617</lastupdated>
   <seasonid>34304</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -167,7 +167,7 @@
   <EpisodeName>The Bubble</EpisodeName>
   <EpisodeNumber>4</EpisodeNumber>
   <FirstAired>2008-09-16</FirstAired>
-  <GuestStars>Adam Gregory|Christina Moore|Jennie Garth|Jessica Lowndes|Shannen Doherty|Drew Tyler Bell|Joe E. Tata|James Patrick Stuart|Chandra West|Ryan Doom</GuestStars>
+  <GuestStars>|Adam Gregory|Christina Moore|Jennie Garth|Jessica Lowndes|Shannen Doherty|Drew Tyler Bell|Joe E. Tata|James Patrick Stuart|Chandra West|Ryan Doom|</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>Annie, Harry, and Debbie are surprised to find out that West Beverly's theater director can't direct the school musical anymore. Kelly persuades Brenda to take over as the play's director, but they end up arguing over Kelly's involvement with Ryan. Meanwhile, Dixon tries to get a part-time job at the Peach Pit and Naomi confronts her father's mistress.</Overview>
@@ -178,7 +178,7 @@
   <Writer>Dailyn Rodriguez</Writer>
   <absolute_number>4</absolute_number>
   <filename>episodes/82716/386613.jpg</filename>
-  <lastupdated>1313852852</lastupdated>
+  <lastupdated>1431126712</lastupdated>
   <seasonid>34304</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -198,7 +198,7 @@
   <EpisodeName>Wide Awake and Dreaming</EpisodeName>
   <EpisodeNumber>5</EpisodeNumber>
   <FirstAired>2008-09-23</FirstAired>
-  <GuestStars>Shannen Doherty|Maeve Quinlan|Jennie Garth|Jessica Lowndes|James Patrick Stuart|Christina Moore|Adam Gregory|Jennifer Hyatt|Michael Piccirilli|Tanc Sade|Michael Graziadei|Karina Logue|Chandra West|Shantel Wislawski</GuestStars>
+  <GuestStars>|Shannen Doherty|Maeve Quinlan|Jennie Garth|Jessica Lowndes|James Patrick Stuart|Christina Moore|Adam Gregory|Jennifer Hyatt|Michael Piccirilli|Tanc Sade|Michael Graziadei|Karina Logue|Chandra West|Shantel Wislawski|</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>As the opening night of the school play &quot;Spring Awakening&quot; approaches, Ty reveals to Annie his plans for a one-on-one after-party in his hotel room with her. Others at school are concerned about how fast Annie and Ty's relationship is developing. Meanwhile, Naomi won't accept her parents' divorce and Adrianna is confronted about a substance abuse problem, which gives Annie a chance to be the lead in the play.</Overview>
@@ -209,7 +209,7 @@
   <Writer>Sean Reycraft</Writer>
   <absolute_number>5</absolute_number>
   <filename>episodes/82716/386614.jpg</filename>
-  <lastupdated>1313852868</lastupdated>
+  <lastupdated>1431126591</lastupdated>
   <seasonid>34304</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -229,7 +229,7 @@
   <EpisodeName>Model Behavior</EpisodeName>
   <EpisodeNumber>6</EpisodeNumber>
   <FirstAired>2008-09-30</FirstAired>
-  <GuestStars>Shannen Doherty|Maeve Quinlan|Jennie Garth|Jessica Lowndes|James Patrick Stuart|Christina Moore|Adam Gregory|Jennifer Hyatt|Michael Piccirilli|Tanc Sade|Michael Graziadei|Karina Logue|Chandra West|Shantel Wislawski</GuestStars>
+  <GuestStars>|Shannen Doherty|Maeve Quinlan|Jennie Garth|Jessica Lowndes|James Patrick Stuart|Christina Moore|Adam Gregory|Jennifer Hyatt|Michael Piccirilli|Tanc Sade|Michael Graziadei|Karina Logue|Chandra West|Shantel Wislawski|</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>When Debbie is given the opportunity to shoot a fashion show for Nylon Magazine, Annie uses the event for a school project. Naomi tries to use the shoot to mend her parents' marriage, but her plan ends up backfiring. Meanwhile, Kelly receives a phone call that changes her relationship with Ryan. </Overview>
@@ -240,7 +240,7 @@
   <Writer>Jason Ning</Writer>
   <absolute_number>6</absolute_number>
   <filename>episodes/82716/390935.jpg</filename>
-  <lastupdated>1257795910</lastupdated>
+  <lastupdated>1431126822</lastupdated>
   <seasonid>34304</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -260,7 +260,7 @@
   <EpisodeName>Hollywood Forever</EpisodeName>
   <EpisodeNumber>7</EpisodeNumber>
   <FirstAired>2008-10-07</FirstAired>
-  <GuestStars>Kellan Lutz|James Patrick Stuart|Jessica Lucas|Christina Moore|Jessica Lowndes|Maeve Quinlan|Brandon Michael Vayda|Melinda Sward|Margo Harshman</GuestStars>
+  <GuestStars>|Kellan Lutz|James Patrick Stuart|Jessica Lucas|Christina Moore|Jessica Lowndes|Maeve Quinlan|Brandon Michael Vayda|Melinda Sward|Margo Harshman|</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>Annie and Ethan get paired up for a class project where they must take care of a baby. This time together forces them to see each other in a new light. At Silver's half-birthday party, Silver and Dixon continue to get closer. Meanwhile, Harry and Debbie must deal with Harry's past when Tracy tells Harry that she's hired an investigator to find their son. Elsewhere, Ryan tries to cope with Kelly leaving and decides to try online dating. </Overview>
@@ -271,7 +271,7 @@
   <Writer>Caprice Crane</Writer>
   <absolute_number>7</absolute_number>
   <filename>episodes/82716/395224.jpg</filename>
-  <lastupdated>1285092541</lastupdated>
+  <lastupdated>1431126770</lastupdated>
   <seasonid>34304</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -291,7 +291,7 @@
   <EpisodeName>There's No Place Like Homecoming</EpisodeName>
   <EpisodeNumber>8</EpisodeNumber>
   <FirstAired>2008-10-28</FirstAired>
-  <GuestStars>Chantelle Barry|Cherilyn Wilson|Maeve Quinlan|Jessica Lowndes|Jessica Lucas|Christina Moore|Patrick Sebes|Michael Graziadei|Michael Trevino|Rich Morris|Yonda Davis|Natalie Boren</GuestStars>
+  <GuestStars>|Chantelle Barry|Cherilyn Wilson|Maeve Quinlan|Jessica Lowndes|Jessica Lucas|Christina Moore|Patrick Sebes|Michael Graziadei|Michael Trevino|Rich Morris|Yonda Davis|Natalie Boren|</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>After recuperating from her health scare, Adrianna returns and tries to make amends with Naomi, but her ex-BFF refuses to forgive her for the betrayal. Adrianna makes a surprising connection with Navid, who helps her through her situation. Meanwhile, Annie and Ethan finally take their rapidly growing romance to a new level during the school's homecoming dance, causing Naomi to feel jealous.</Overview>
@@ -302,7 +302,7 @@
   <Writer>Darlene Hunt</Writer>
   <absolute_number>8</absolute_number>
   <filename>episodes/82716/398500.jpg</filename>
-  <lastupdated>1285092654</lastupdated>
+  <lastupdated>1431126624</lastupdated>
   <seasonid>34304</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -322,7 +322,7 @@
   <EpisodeName>Secrets and Lies</EpisodeName>
   <EpisodeNumber>9</EpisodeNumber>
   <FirstAired>2008-11-04</FirstAired>
-  <GuestStars>Jessica Lucas|Jessica Lowndes|Kellan Lutz|Michael Trevino|Rene Rosado</GuestStars>
+  <GuestStars>|Jessica Lucas|Jessica Lowndes|Kellan Lutz|Michael Trevino|Rene Rosado|</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>Harry and Debbie reveal to Annie and Dixon that Harry had a son who was given up for adoption 22 years ago. Meanwhile, Silver has the girls over for a girls' night, but the simple night together quickly escalates into a house party. </Overview>
@@ -333,7 +333,7 @@
   <Writer>Dailyn Rodriguez</Writer>
   <absolute_number>9</absolute_number>
   <filename>episodes/82716/398501.jpg</filename>
-  <lastupdated>1285092702</lastupdated>
+  <lastupdated>1431126815</lastupdated>
   <seasonid>34304</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -353,7 +353,7 @@
   <EpisodeName>Games People Play</EpisodeName>
   <EpisodeNumber>10</EpisodeNumber>
   <FirstAired>2008-11-11</FirstAired>
-  <GuestStars>Jessica Lowndes|Jessica Lucas|Jennie Garth|Kellan Lutz|Michael Graziadei|Josh Henderson</GuestStars>
+  <GuestStars>|Jessica Lowndes|Jessica Lucas|Jennie Garth|Kellan Lutz|Michael Graziadei|Josh Henderson|</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>Noami grows spiteful as Annie and Ethan grow closer, causing her to deliver an unwelcomed surprise at Annie's sweet 16 party. Meanwhile, the school is all buzzing over the news that Ryan was given a leave of absence, and Adrianna discovers Navid's secret. </Overview>
@@ -364,7 +364,7 @@
   <Writer>Kristin Long</Writer>
   <absolute_number>10</absolute_number>
   <filename>episodes/82716/401446.jpg</filename>
-  <lastupdated>1285092755</lastupdated>
+  <lastupdated>1431126680</lastupdated>
   <seasonid>34304</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -384,7 +384,7 @@
   <EpisodeName>That Which We Destroy</EpisodeName>
   <EpisodeNumber>11</EpisodeNumber>
   <FirstAired>2008-11-18</FirstAired>
-  <GuestStars>Christina Moore|Shannen Doherty|Jennie Garth|Jessica Lowndes|Lauren London|Elisabeth Harnois|Jana Kramer|Janelle Velasquez|Greg Batuyios|Josh Henderson|Michael Trevino</GuestStars>
+  <GuestStars>|Christina Moore|Shannen Doherty|Jennie Garth|Jessica Lowndes|Lauren London|Elisabeth Harnois|Jana Kramer|Janelle Velasquez|Greg Batuyios|Josh Henderson|Michael Trevino|</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>Brenda and Kelly's friendship takes a turn for the worse. Meanwhile, Sean moves in with the Wilson family, Naomi hangs with a new crowd, and Silver becomes jealous when a cheerleader pays a little too much attention to Dixon</Overview>
@@ -392,10 +392,10 @@
   <Rating>7.2</Rating>
   <RatingCount>9</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>Allison Schroeder|Caprice Crane</Writer>
+  <Writer>|Allison Schroeder|Caprice Crane|</Writer>
   <absolute_number>11</absolute_number>
   <filename>episodes/82716/403790.jpg</filename>
-  <lastupdated>1285092829</lastupdated>
+  <lastupdated>1433678002</lastupdated>
   <seasonid>34304</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -415,7 +415,7 @@
   <EpisodeName>Hello, Goodbye, Amen</EpisodeName>
   <EpisodeNumber>12</EpisodeNumber>
   <FirstAired>2009-01-06</FirstAired>
-  <GuestStars>Shannen Doherty|Jennie Garth|Jessica Lowndes|Lauren London|Cherilyn Wilson|Christina Moore|Chantelle Barry|Josh Henderson|Debra Wilson|Charles Parnell|Sadie Stratton|Lynn Griffith|Sashi Bommakanty</GuestStars>
+  <GuestStars>|Shannen Doherty|Jennie Garth|Jessica Lowndes|Lauren London|Cherilyn Wilson|Christina Moore|Chantelle Barry|Josh Henderson|Debra Wilson|Charles Parnell|Sadie Stratton|Lynn Griffith|Sashi Bommakanty|</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>Brenda receives life changing news. Meanwhile, Dixon grows closer to Christina, and an unexpected secret is destined to rock Adrianna's world.</Overview>
@@ -426,7 +426,7 @@
   <Writer>Jennifer Cecil</Writer>
   <absolute_number>12</absolute_number>
   <filename>episodes/82716/408074.jpg</filename>
-  <lastupdated>1285092918</lastupdated>
+  <lastupdated>1433678023</lastupdated>
   <seasonid>34304</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -446,7 +446,7 @@
   <EpisodeName>Love Me or Leave Me</EpisodeName>
   <EpisodeNumber>13</EpisodeNumber>
   <FirstAired>2009-01-13</FirstAired>
-  <GuestStars>Kellan Lutz|Jessica Lowndes|Jana Kramer|Elisabeth Harnois|Jessica Chaffin</GuestStars>
+  <GuestStars>|Kellan Lutz|Jessica Lowndes|Jana Kramer|Elisabeth Harnois|Jessica Chaffin|</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>Debbie and Tabitha clash after Tabitha surprises Annie and Dixon with a new car. Adrianna begins to open up to Naomi about her secret. Meanwhile, Silver and Dixon spend the day together at the beach, but things take an awkward turn when Dixon says three little words. </Overview>
@@ -457,7 +457,7 @@
   <Writer>Paul Sciarrotta</Writer>
   <absolute_number>13</absolute_number>
   <filename>episodes/82716/408075.jpg</filename>
-  <lastupdated>1268527792</lastupdated>
+  <lastupdated>1433678051</lastupdated>
   <seasonid>34304</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -477,7 +477,7 @@
   <EpisodeName>By Accident</EpisodeName>
   <EpisodeNumber>14</EpisodeNumber>
   <FirstAired>2009-01-20</FirstAired>
-  <GuestStars>James Patrick Stuart|Adam Gregory|Jennie Garth|Chandra West|Angela Gots|Patrick Sebes|Brandon Michael Vayda|Lisa Tucker|Kristen Miller|Shaun Ausmus</GuestStars>
+  <GuestStars>|James Patrick Stuart|Adam Gregory|Jennie Garth|Chandra West|Angela Gots|Patrick Sebes|Brandon Michael Vayda|Lisa Tucker|Kristen Miller|Shaun Ausmus|</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>Adrianna must cope with her decision about her baby and her baby's father and turns to Naomi and Kelly for support. Ethan helps Annie prepare for the school play's try-out and are shocked to find out that Ty is also auditioning. Meanwhile, Dixon asks Debbie for relationship advice. </Overview>
@@ -488,7 +488,7 @@
   <Writer>Michael Sonnenschein</Writer>
   <absolute_number>14</absolute_number>
   <filename>episodes/82716/426043.jpg</filename>
-  <lastupdated>1285093026</lastupdated>
+  <lastupdated>1433678068</lastupdated>
   <seasonid>34304</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -508,7 +508,7 @@
   <EpisodeName>Help Me, Rhonda</EpisodeName>
   <EpisodeNumber>15</EpisodeNumber>
   <FirstAired>2009-02-03</FirstAired>
-  <GuestStars>Adam Gregory|Maeve Quinlan|Noureen DeWulf|Aimee Teegarden|Lise Simms|Angela Gots|Robert Merrill|Lauren London|Angela Hughes</GuestStars>
+  <GuestStars>|Adam Gregory|Maeve Quinlan|Noureen DeWulf|Aimee Teegarden|Lise Simms|Angela Gots|Robert Merrill|Lauren London|Angela Hughes|</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>Adrianna tells the baby's father and her mother that she is pregnant. Meanwhile, Annie feels threatened by Ethan's friendship with Rhonda; and Silver finally opens up to Dixon.</Overview>
@@ -519,7 +519,7 @@
   <Writer>Jason Ning</Writer>
   <absolute_number>15</absolute_number>
   <filename>episodes/82716/428841.jpg</filename>
-  <lastupdated>1285093065</lastupdated>
+  <lastupdated>1431126672</lastupdated>
   <seasonid>34304</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -539,7 +539,7 @@
   <EpisodeName>Of Heartbreaks and Hotels</EpisodeName>
   <EpisodeNumber>16</EpisodeNumber>
   <FirstAired>2009-02-10</FirstAired>
-  <GuestStars>Matt Lanter|Aimee Teegarden|Noureen DeWulf</GuestStars>
+  <GuestStars>|Matt Lanter|Aimee Teegarden|Noureen DeWulf|</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>Naomi meets an intriguing mystery man at her new home; Silver's Valentine's Day surprise falls apart, but she and Dixon still manage to come together. Meanwhile, Annie's jealousy of Rhonda starts to wear on Ethan.</Overview>
@@ -550,7 +550,7 @@
   <Writer>Sean Reycraft</Writer>
   <absolute_number>16</absolute_number>
   <filename>episodes/82716/428842.jpg</filename>
-  <lastupdated>1285093109</lastupdated>
+  <lastupdated>1431126748</lastupdated>
   <seasonid>34304</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -640,10 +640,10 @@
   <Rating>6.9</Rating>
   <RatingCount>9</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>Jennie Snyder Urman|Rebecca Rand Kirshner</Writer>
+  <Writer>|Jennie Snyder Urman|Rebecca Rand Kirshner|</Writer>
   <absolute_number>19</absolute_number>
   <filename>episodes/82716/537931.jpg</filename>
-  <lastupdated>1285093276</lastupdated>
+  <lastupdated>1431126734</lastupdated>
   <seasonid>34304</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -849,7 +849,7 @@
   <EpisodeName>To Sext or Not to Sext</EpisodeName>
   <EpisodeNumber>2</EpisodeNumber>
   <FirstAired>2009-09-15</FirstAired>
-  <GuestStars>John Schneider, Sara Foster</GuestStars>
+  <GuestStars>|John Schneider|Sara Foster|</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>Naomi is still furious with Annie from prom night and contemplates sending out a sexually explicit text message of Annie as payback. Silver is convinced that she and Dixon can mend their broken relationship, but Naomi and Adrianna convince her to give him some much-needed space. Liam attempts to apologize to Naomi for what happened on prom night and denies sleeping with Annie, but refuses to reveal who he was with. Meanwhile, Liam and Dixon join the surf team, in an effort to keep Liam's stepfather from sending him off to military school. Adrianna helps Navid, now in charge of The Blaze News, land an interview with Teddy, but she is shocked with Navid's interviewing tactics. Ryan continues to pursue Jen , who continues to play hard-to-get.</Overview>
@@ -860,7 +860,7 @@
   <Writer>Jennie Snyder Urman</Writer>
   <absolute_number>26</absolute_number>
   <filename>episodes/82716/1073491.jpg</filename>
-  <lastupdated>1295256913</lastupdated>
+  <lastupdated>1431126583</lastupdated>
   <seasonid>83101</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -891,7 +891,7 @@
   <Writer>Mark Driscoll</Writer>
   <absolute_number>27</absolute_number>
   <filename>episodes/82716/1073501.jpg</filename>
-  <lastupdated>1295256941</lastupdated>
+  <lastupdated>1415894770</lastupdated>
   <seasonid>83101</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -919,10 +919,10 @@
   <Rating>7.4</Rating>
   <RatingCount>14</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>Maria Maggenti|Jordan Budde</Writer>
+  <Writer>|Maria Maggenti|Jordan Budde|</Writer>
   <absolute_number>28</absolute_number>
   <filename>episodes/82716/1073511.jpg</filename>
-  <lastupdated>1295256965</lastupdated>
+  <lastupdated>1431126610</lastupdated>
   <seasonid>83101</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -953,7 +953,7 @@
   <Writer>|Padma L. Atluri|Jennie Snyder Urman|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82716/1122641.jpg</filename>
-  <lastupdated>1384267971</lastupdated>
+  <lastupdated>1415894870</lastupdated>
   <seasonid>83101</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -984,7 +984,7 @@
   <Writer>Mark Driscoll</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82716/1133991.jpg</filename>
-  <lastupdated>1384267914</lastupdated>
+  <lastupdated>1415894726</lastupdated>
   <seasonid>83101</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -1176,7 +1176,7 @@ After getting into a fight on the beach, Liam, with the help of Dixon, Teddy and
   <Writer>Jennie Snyder Urman</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82716/1314211.jpg</filename>
-  <lastupdated>1308679835</lastupdated>
+  <lastupdated>1415894675</lastupdated>
   <seasonid>83101</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -1207,7 +1207,7 @@ After getting into a fight on the beach, Liam, with the help of Dixon, Teddy and
   <Writer>|Mark Driscoll|Padma L. Atluri|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82716/1618331.jpg</filename>
-  <lastupdated>1308679844</lastupdated>
+  <lastupdated>1415894659</lastupdated>
   <seasonid>83101</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -1238,7 +1238,7 @@ After getting into a fight on the beach, Liam, with the help of Dixon, Teddy and
   <Writer>|Rebecca Sinclair|Jennie Snyder|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82716/1738201.jpg</filename>
-  <lastupdated>1308679854</lastupdated>
+  <lastupdated>1415894641</lastupdated>
   <seasonid>83101</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -1269,7 +1269,7 @@ After getting into a fight on the beach, Liam, with the help of Dixon, Teddy and
   <Writer>Daniel Arkin</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82716/1832581.jpg</filename>
-  <lastupdated>1374953621</lastupdated>
+  <lastupdated>1415894626</lastupdated>
   <seasonid>83101</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -1300,7 +1300,7 @@ After getting into a fight on the beach, Liam, with the help of Dixon, Teddy and
   <Writer>Tod Himmel</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82716/1871641.jpg</filename>
-  <lastupdated>1308679873</lastupdated>
+  <lastupdated>1415894610</lastupdated>
   <seasonid>83101</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -1455,7 +1455,7 @@ After getting into a fight on the beach, Liam, with the help of Dixon, Teddy and
   <Writer>Jennie Snyder Urman</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82716/2117891.jpg</filename>
-  <lastupdated>1308679738</lastupdated>
+  <lastupdated>1415894551</lastupdated>
   <seasonid>83101</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -1486,7 +1486,7 @@ After getting into a fight on the beach, Liam, with the help of Dixon, Teddy and
   <Writer>Rebecca Sinclair</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82716/2158401.jpg</filename>
-  <lastupdated>1308679751</lastupdated>
+  <lastupdated>1415894536</lastupdated>
   <seasonid>83101</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -1703,7 +1703,7 @@ After getting into a fight on the beach, Liam, with the help of Dixon, Teddy and
   <Writer>Scott Weinger</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82716/2969041.jpg</filename>
-  <lastupdated>1355204902</lastupdated>
+  <lastupdated>1415894451</lastupdated>
   <seasonid>274881</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -1734,7 +1734,7 @@ After getting into a fight on the beach, Liam, with the help of Dixon, Teddy and
   <Writer>Paul Sciarrotta</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82716/3016641.jpg</filename>
-  <lastupdated>1355204924</lastupdated>
+  <lastupdated>1415894432</lastupdated>
   <seasonid>274881</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -1765,7 +1765,7 @@ After getting into a fight on the beach, Liam, with the help of Dixon, Teddy and
   <Writer>|Jennie Snyder Urman|Jenny Lamia|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82716/3053111.jpg</filename>
-  <lastupdated>1355204944</lastupdated>
+  <lastupdated>1415894414</lastupdated>
   <seasonid>274881</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -1951,7 +1951,7 @@ After getting into a fight on the beach, Liam, with the help of Dixon, Teddy and
   <Writer>Paul Terrence Coli</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82716/3291451.jpg</filename>
-  <lastupdated>1374953671</lastupdated>
+  <lastupdated>1415894365</lastupdated>
   <seasonid>274881</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -1982,7 +1982,7 @@ After getting into a fight on the beach, Liam, with the help of Dixon, Teddy and
   <Writer>Padma Alturi</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82716/3291461.jpg</filename>
-  <lastupdated>1355205054</lastupdated>
+  <lastupdated>1415894351</lastupdated>
   <seasonid>274881</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -2013,7 +2013,7 @@ After getting into a fight on the beach, Liam, with the help of Dixon, Teddy and
   <Writer>David S. Rosenthal</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82716/3673311.jpg</filename>
-  <lastupdated>1355205070</lastupdated>
+  <lastupdated>1415894335</lastupdated>
   <seasonid>274881</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -2044,7 +2044,7 @@ After getting into a fight on the beach, Liam, with the help of Dixon, Teddy and
   <Writer>|Rebecca Sinclair|Paul Sciarrotta|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82716/4026381.jpg</filename>
-  <lastupdated>1355205084</lastupdated>
+  <lastupdated>1415894313</lastupdated>
   <seasonid>274881</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -2075,7 +2075,7 @@ After getting into a fight on the beach, Liam, with the help of Dixon, Teddy and
   <Writer>David Rosenberg</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82716/4041571.jpg</filename>
-  <lastupdated>1355205101</lastupdated>
+  <lastupdated>1415894295</lastupdated>
   <seasonid>274881</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -2095,7 +2095,7 @@ After getting into a fight on the beach, Liam, with the help of Dixon, Teddy and
   <EpisodeName>Women On the Verge</EpisodeName>
   <EpisodeNumber>20</EpisodeNumber>
   <FirstAired>2011-05-02</FirstAired>
-  <GuestStars>|Sally Kellerman| Freddie Smith|Josh Zuckerman|</GuestStars>
+  <GuestStars>|Sally Kellerman|Freddie Smith|Josh Zuckerman|</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>Annie convinces Marla to attend a Hollywood movie premiere of one of Marla's old films, while Ryan has an unexpected visitor and Teddy catches Marco in a lie and begins to wonder if he is being cheated on. Naomi finds out Max was accepted to a college in a different state, while Silver has a breakdown after receiving some upsetting news that causes Navid and Dixon to stage an intervention.</Overview>
@@ -2106,7 +2106,7 @@ After getting into a fight on the beach, Liam, with the help of Dixon, Teddy and
   <Writer>|Scott Weinger|Jenna Lamia|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82716/4041581.jpg</filename>
-  <lastupdated>1374953681</lastupdated>
+  <lastupdated>1431126598</lastupdated>
   <seasonid>274881</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -2312,7 +2312,7 @@ After getting into a fight on the beach, Liam, with the help of Dixon, Teddy and
   <EpisodeName>Party Politics</EpisodeName>
   <EpisodeNumber>5</EpisodeNumber>
   <FirstAired>2011-10-11</FirstAired>
-  <GuestStars>|Brandy Norwood|Robin Thomas|Ryan Rottman|Summer Bishil| Kristina Apgar|Justin Deeley|</GuestStars>
+  <GuestStars>|Brandy Norwood|Robin Thomas|Ryan Rottman|Summer Bishil|Kristina Apgar|Justin Deeley|</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>Silver is asked to make campaign videos for political candidate Marissa Harris-Young who is running against Teddy’s Uncle Charles for public office. Teddy runs into an old flame and Annie gets stuck with Leila during an important date.  A surprise visitor threatens to tear Liam and Jane apart, while Naomi can't shake her growing feelings for Austin during a party to encourage students to vote.</Overview>
@@ -2323,7 +2323,7 @@ After getting into a fight on the beach, Liam, with the help of Dixon, Teddy and
   <Writer>Majorie David</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82716/4179013.jpg</filename>
-  <lastupdated>1388509736</lastupdated>
+  <lastupdated>1431126699</lastupdated>
   <seasonid>467905</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -2932,7 +2932,7 @@ After getting into a fight on the beach, Liam, with the help of Dixon, Teddy and
   <EpisodeName>Til Death Do Us Part</EpisodeName>
   <EpisodeNumber>1</EpisodeNumber>
   <FirstAired>2012-10-08</FirstAired>
-  <GuestStars>Lori Loughlin|Trevor Donovan|Arielle Kebbel</GuestStars>
+  <GuestStars>|Lori Loughlin|Trevor Donovan|Arielle Kebbel|</GuestStars>
   <IMDB_ID>tt2388831</IMDB_ID>
   <Language>en</Language>
   <Overview>In the season five premiere, Naomi and Max make some big plans that go horribly awry when they both get arrested and land in jail. Liam  is forced to put The Offshore up for sale in order to pay off Vanessa and buy out her $200,000 interest in Liam’s movie contract. Navid approaches Liam about becoming his business partner. Teddy is overwhelmed by Silver’s request to father her baby. Adrianna, unaware Dixon has gotten into a life-threatening accident, has an unforgettable evening in Las Vegas with a handsome stranger, Taylor, after she vows to get over Dixon and move on with her life. Annie asks Ade to return to Los Angeles to be with an unconscious Dixon, and the two girls decide to move into the beach house together.</Overview>
@@ -2943,7 +2943,7 @@ After getting into a fight on the beach, Liam, with the help of Dixon, Teddy and
   <Writer>Patti Carr</Writer>
   <absolute_number>93</absolute_number>
   <filename>episodes/82716/4332251.jpg</filename>
-  <lastupdated>1383135842</lastupdated>
+  <lastupdated>1431126763</lastupdated>
   <seasonid>493163</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -2974,7 +2974,7 @@ After getting into a fight on the beach, Liam, with the help of Dixon, Teddy and
   <Writer>Lara Olsen</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82716/4379667.jpg</filename>
-  <lastupdated>1378115858</lastupdated>
+  <lastupdated>1410615094</lastupdated>
   <seasonid>493163</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -3005,7 +3005,7 @@ After getting into a fight on the beach, Liam, with the help of Dixon, Teddy and
   <Writer>Brian Dawson</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82716/4379669.jpg</filename>
-  <lastupdated>1378115888</lastupdated>
+  <lastupdated>1410615114</lastupdated>
   <seasonid>493163</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -3036,7 +3036,7 @@ After getting into a fight on the beach, Liam, with the help of Dixon, Teddy and
   <Writer>Chris Atwood</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82716/4414941.jpg</filename>
-  <lastupdated>1378115906</lastupdated>
+  <lastupdated>1410615135</lastupdated>
   <seasonid>493163</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -3067,7 +3067,7 @@ After getting into a fight on the beach, Liam, with the help of Dixon, Teddy and
   <Writer>|Mike Chessler|Chris Alberghini|</Writer>
   <absolute_number>97</absolute_number>
   <filename>episodes/82716/4420008.jpg</filename>
-  <lastupdated>1378115539</lastupdated>
+  <lastupdated>1410615157</lastupdated>
   <seasonid>493163</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -3098,7 +3098,7 @@ After getting into a fight on the beach, Liam, with the help of Dixon, Teddy and
   <Writer>Terrence Coli</Writer>
   <absolute_number>98</absolute_number>
   <filename>episodes/82716/4389276.jpg</filename>
-  <lastupdated>1378115573</lastupdated>
+  <lastupdated>1410615189</lastupdated>
   <seasonid>493163</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -3144,7 +3144,7 @@ After getting into a fight on the beach, Liam, with the help of Dixon, Teddy and
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director>|Harry Sinclair|</Director>
+  <Director>Harry Sinclair</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>902-100</EpisodeName>
   <EpisodeNumber>8</EpisodeNumber>
@@ -3157,10 +3157,10 @@ After getting into a fight on the beach, Liam, with the help of Dixon, Teddy and
   <Rating>8.4</Rating>
   <RatingCount>10</RatingCount>
   <SeasonNumber>5</SeasonNumber>
-  <Writer>|Scott Weinger|</Writer>
+  <Writer>Scott Weinger</Writer>
   <absolute_number>100</absolute_number>
   <filename>episodes/82716/4427765.jpg</filename>
-  <lastupdated>1378115630</lastupdated>
+  <lastupdated>1431126740</lastupdated>
   <seasonid>493163</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -3191,7 +3191,7 @@ After getting into a fight on the beach, Liam, with the help of Dixon, Teddy and
   <Writer>Marjorie David</Writer>
   <absolute_number>101</absolute_number>
   <filename>episodes/82716/4401555.jpg</filename>
-  <lastupdated>1378115663</lastupdated>
+  <lastupdated>1411557710</lastupdated>
   <seasonid>493163</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -3211,7 +3211,7 @@ After getting into a fight on the beach, Liam, with the help of Dixon, Teddy and
   <EpisodeName>Misery Loves Company</EpisodeName>
   <EpisodeNumber>10</EpisodeNumber>
   <FirstAired>2013-01-21</FirstAired>
-  <GuestStars>Arielle Kebbel|Natalie Morales|Jessica Parker Kennedy</GuestStars>
+  <GuestStars>|Arielle Kebbel|Natalie Morales|Jessica Parker Kennedy|</GuestStars>
   <IMDB_ID>tt2518684</IMDB_ID>
   <Language>en</Language>
   <Overview>Annie and Vanessa search for Liam after discovering that Ashley was falsely posing as his studio-hired bodyguard. Needing a break, Naomi goes on a road trip with Adrianna, only to have her wedding ring stolen. Meanwhile, Dixon fails to convince Megan he is over Adrianna.</Overview>
@@ -3222,7 +3222,7 @@ After getting into a fight on the beach, Liam, with the help of Dixon, Teddy and
   <Writer>Allen Clary</Writer>
   <absolute_number>102</absolute_number>
   <filename>episodes/82716/4409597.jpg</filename>
-  <lastupdated>1378115700</lastupdated>
+  <lastupdated>1431126809</lastupdated>
   <seasonid>493163</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -3253,7 +3253,7 @@ After getting into a fight on the beach, Liam, with the help of Dixon, Teddy and
   <Writer>Liz Phang</Writer>
   <absolute_number>103</absolute_number>
   <filename>episodes/82716/4414935.jpg</filename>
-  <lastupdated>1378115735</lastupdated>
+  <lastupdated>1411557851</lastupdated>
   <seasonid>493163</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -3273,7 +3273,7 @@ After getting into a fight on the beach, Liam, with the help of Dixon, Teddy and
   <EpisodeName>Here Comes Honey Bye Bye</EpisodeName>
   <EpisodeNumber>12</EpisodeNumber>
   <FirstAired>2013-02-04</FirstAired>
-  <GuestStars>Josh Zuckerman|Riley Smith</GuestStars>
+  <GuestStars>|Josh Zuckerman|Riley Smith|</GuestStars>
   <IMDB_ID>tt2477806</IMDB_ID>
   <Language>en</Language>
   <Overview>Naomi and Max see a marriage counselor to decide if they are going to stay married, while Teddy tells Silver he won’t ruin her chance to have a baby if she agrees to his terms. Navid uses Liam’s celebrity status to help him get into an elite secret society and Annie rushes to tell Riley her true feelings before he undergoes an experimental surgery.</Overview>
@@ -3284,7 +3284,7 @@ After getting into a fight on the beach, Liam, with the help of Dixon, Teddy and
   <Writer>Liz Sczudlo</Writer>
   <absolute_number>104</absolute_number>
   <filename>episodes/82716/4432496.jpg</filename>
-  <lastupdated>1378115790</lastupdated>
+  <lastupdated>1431126687</lastupdated>
   <seasonid>493163</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -3312,10 +3312,10 @@ After getting into a fight on the beach, Liam, with the help of Dixon, Teddy and
   <Rating>7.9</Rating>
   <RatingCount>8</RatingCount>
   <SeasonNumber>5</SeasonNumber>
-  <Writer>Chris Alberghini|Mike Chessler</Writer>
+  <Writer>|Chris Alberghini|Mike Chessler|</Writer>
   <absolute_number>105</absolute_number>
   <filename>episodes/82716/4440182.jpg</filename>
-  <lastupdated>1379515812</lastupdated>
+  <lastupdated>1431126693</lastupdated>
   <seasonid>493163</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -3335,7 +3335,7 @@ After getting into a fight on the beach, Liam, with the help of Dixon, Teddy and
   <EpisodeName>Brother from Another Mother</EpisodeName>
   <EpisodeNumber>14</EpisodeNumber>
   <FirstAired>2013-02-18</FirstAired>
-  <GuestStars>Natalie Morales|Charlie Weber|Lyndon Smith</GuestStars>
+  <GuestStars>|Natalie Morales|Charlie Weber|Lyndon Smith|</GuestStars>
   <IMDB_ID>tt2557700</IMDB_ID>
   <Language>en</Language>
   <Overview>Liam experiences some symptoms of post-traumatic stress disorder while preparing to testify against Ashley, while Annie is furious when Naomi tracks down their half-brother Mark, a chef who owns a gourmet food truck. Wolfgang Puck has a cameo role as a celebrity judge in a cooking competition. Silver is overbearing with her surrogate Michaela, whom Dixon discovers has an amazing singing voice.</Overview>
@@ -3346,7 +3346,7 @@ After getting into a fight on the beach, Liam, with the help of Dixon, Teddy and
   <Writer>Chris Atwood</Writer>
   <absolute_number>106</absolute_number>
   <filename>episodes/82716/4433311.jpg</filename>
-  <lastupdated>1379515870</lastupdated>
+  <lastupdated>1431126652</lastupdated>
   <seasonid>493163</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -3366,7 +3366,7 @@ After getting into a fight on the beach, Liam, with the help of Dixon, Teddy and
   <EpisodeName>Strange Brew</EpisodeName>
   <EpisodeNumber>15</EpisodeNumber>
   <FirstAired>2013-02-25</FirstAired>
-  <GuestStars>Charlie Weber|Lyndon Smith|Grant Gustin</GuestStars>
+  <GuestStars>|Charlie Weber|Lyndon Smith|Grant Gustin|</GuestStars>
   <IMDB_ID>tt2557704</IMDB_ID>
   <Language>en</Language>
   <Overview>Naomi decides to open a restaurant with her half-brother Mark, while Dixon books Michaela to perform at the restaurant opening, unbeknownst to Silver. Annie feels confused about her newly re-surfaced feelings for Liam and Navid agrees to escort Campbell’s fiancé to an event, only to find out Campbell is cheating on her.</Overview>
@@ -3377,7 +3377,7 @@ After getting into a fight on the beach, Liam, with the help of Dixon, Teddy and
   <Writer>Brian Dawson</Writer>
   <absolute_number>107</absolute_number>
   <filename>episodes/82716/4440181.jpg</filename>
-  <lastupdated>1379515906</lastupdated>
+  <lastupdated>1431126721</lastupdated>
   <seasonid>493163</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -3397,7 +3397,7 @@ After getting into a fight on the beach, Liam, with the help of Dixon, Teddy and
   <EpisodeName>Life's a Beach</EpisodeName>
   <EpisodeNumber>16</EpisodeNumber>
   <FirstAired>2013-03-04</FirstAired>
-  <GuestStars>Charlie Weber|Lyndon Smith</GuestStars>
+  <GuestStars>|Charlie Weber|Lyndon Smith|</GuestStars>
   <IMDB_ID>tt2557708</IMDB_ID>
   <Language>en</Language>
   <Overview>Liam decides to open his own custom surfboard shop for women, but things get complicated when he becomes romantically involved with his first investor. Naomi tries to convince Mark to stay in Los Angeles after he receives an offer to be head chef at a restaurant in New York, while Dixon convinces Silver to direct Michaela’s first music video before she gets pregnant.</Overview>
@@ -3408,7 +3408,7 @@ After getting into a fight on the beach, Liam, with the help of Dixon, Teddy and
   <Writer>Bill Brown</Writer>
   <absolute_number>108</absolute_number>
   <filename>episodes/82716/4453039.jpg</filename>
-  <lastupdated>1379515945</lastupdated>
+  <lastupdated>1431126754</lastupdated>
   <seasonid>493163</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -3428,7 +3428,7 @@ After getting into a fight on the beach, Liam, with the help of Dixon, Teddy and
   <EpisodeName>Dude, Where's My Husband?</EpisodeName>
   <EpisodeNumber>17</EpisodeNumber>
   <FirstAired>2013-03-11</FirstAired>
-  <GuestStars>Robbie Jones|Lyndon Smith</GuestStars>
+  <GuestStars>|Robbie Jones|Lyndon Smith|</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>Naomi meets up-and-coming mogul Jordan Welland, who hires her to plan events for his media empire, while Annie, Adrianna and Silver plan a girls’ night out for Naomi, which ends with disastrous results. Dixon starts to develop feelings for Michaela, and Liam finds out that the Cronus brothers plan to blame Navid for the cheating ring and is forced to befriend them to clear Navid’s name.</Overview>
@@ -3439,7 +3439,7 @@ After getting into a fight on the beach, Liam, with the help of Dixon, Teddy and
   <Writer>Liz Phang</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82716/4477200.jpg</filename>
-  <lastupdated>1379515979</lastupdated>
+  <lastupdated>1431126630</lastupdated>
   <seasonid>493163</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -3459,7 +3459,7 @@ After getting into a fight on the beach, Liam, with the help of Dixon, Teddy and
   <EpisodeName>A Portrait of the Artist As a Young Call Girl</EpisodeName>
   <EpisodeNumber>18</EpisodeNumber>
   <FirstAired>2013-04-15</FirstAired>
-  <GuestStars>Robbie Jones|Charlie Weber|Lyndon Smith</GuestStars>
+  <GuestStars>|Robbie Jones|Charlie Weber|Lyndon Smith|</GuestStars>
   <IMDB_ID>tt2672248</IMDB_ID>
   <Language>en</Language>
   <Overview>Jordan asks Naomi to plan a launch party for the latest hot writer, known as Author X, which forces Annie to admit that she is Author X. Silver worries that Adrianna is not okay that she is dating Mark. Meanwhile, Dixon finds out that Michaela has feelings for Navid.</Overview>
@@ -3470,7 +3470,7 @@ After getting into a fight on the beach, Liam, with the help of Dixon, Teddy and
   <Writer>Scott Weinger</Writer>
   <absolute_number>110</absolute_number>
   <filename>episodes/82716/4477201.jpg</filename>
-  <lastupdated>1379516021</lastupdated>
+  <lastupdated>1431126638</lastupdated>
   <seasonid>493163</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -3490,7 +3490,7 @@ After getting into a fight on the beach, Liam, with the help of Dixon, Teddy and
   <EpisodeName>The Empire State Strikes Back</EpisodeName>
   <EpisodeNumber>19</EpisodeNumber>
   <FirstAired>2013-04-22</FirstAired>
-  <GuestStars>Marie Avgeropoulos|Robbie Jones|Robin Givens</GuestStars>
+  <GuestStars>|Marie Avgeropoulos|Robbie Jones|Robin Givens|</GuestStars>
   <IMDB_ID>tt2644094</IMDB_ID>
   <Language>en</Language>
   <Overview>Liam and Navid, in an effort to get teenage pro-surfer Cassie to be their first sponsored athlete, ask her favorite musician Olly Murs to do a special performance. Naomi travels to New York to make a good impression on Jordan’s mother, Cheryl with disastrous consequences. Annie decides to publicly say her novel is fiction but Dixon (Tristan Wilds) persuades her to tell the truth.</Overview>
@@ -3501,7 +3501,7 @@ After getting into a fight on the beach, Liam, with the help of Dixon, Teddy and
   <Writer>Scott Weinger</Writer>
   <absolute_number>111</absolute_number>
   <filename>episodes/82716/4477199.jpg</filename>
-  <lastupdated>1379516076</lastupdated>
+  <lastupdated>1431126779</lastupdated>
   <seasonid>493163</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -3521,7 +3521,7 @@ After getting into a fight on the beach, Liam, with the help of Dixon, Teddy and
   <EpisodeName>You Can't Win 'Em All</EpisodeName>
   <EpisodeNumber>20</EpisodeNumber>
   <FirstAired>2013-04-29</FirstAired>
-  <GuestStars>Robbie Jones|Robin Givens|Charlie Weber|Lyndon Smith</GuestStars>
+  <GuestStars>|Robbie Jones|Robin Givens|Charlie Weber|Lyndon Smith|</GuestStars>
   <IMDB_ID>tt2726702</IMDB_ID>
   <Language>en</Language>
   <Overview>Jordan calls in a favor from his mother to help out Mark, but in exchange must end things with Naomi. Annie must deal with the betrayal Liam feels from being in her book and Michaela catches Navid and Adrianna during an intimate moment.</Overview>
@@ -3532,7 +3532,7 @@ After getting into a fight on the beach, Liam, with the help of Dixon, Teddy and
   <Writer>Patti Carr</Writer>
   <absolute_number>112</absolute_number>
   <filename>episodes/82716/4496213.jpg</filename>
-  <lastupdated>1379516114</lastupdated>
+  <lastupdated>1431126706</lastupdated>
   <seasonid>493163</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -3552,7 +3552,7 @@ After getting into a fight on the beach, Liam, with the help of Dixon, Teddy and
   <EpisodeName>Scandal Royale</EpisodeName>
   <EpisodeNumber>21</EpisodeNumber>
   <FirstAired>2013-05-06</FirstAired>
-  <GuestStars>Robbie Jones|Keke Palmer</GuestStars>
+  <GuestStars>|Robbie Jones|Keke Palmer|</GuestStars>
   <IMDB_ID>tt2724880</IMDB_ID>
   <Language>en</Language>
   <Overview>Jordan's sister Elizabeth gets into trouble with an out-of-control Royal, so Naomi helps out by taking the heat to protect Elizabeth's reputation. Silver is called in to see her doctor about some test results and Annie decides to get over Liam by going to Paris for a book tour. Meanwhile, Adrianna performs after Fall Out Boy at a big event, but the concert ends in chaos.</Overview>
@@ -3560,10 +3560,10 @@ After getting into a fight on the beach, Liam, with the help of Dixon, Teddy and
   <Rating>8.1</Rating>
   <RatingCount>8</RatingCount>
   <SeasonNumber>5</SeasonNumber>
-  <Writer>Terrence Coli|Paul Sciarrotta</Writer>
+  <Writer>|Terrence Coli|Paul Sciarrotta|</Writer>
   <absolute_number>113</absolute_number>
   <filename>episodes/82716/4510437.jpg</filename>
-  <lastupdated>1379516149</lastupdated>
+  <lastupdated>1431126604</lastupdated>
   <seasonid>493163</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -3578,12 +3578,12 @@ After getting into a fight on the beach, Liam, with the help of Dixon, Teddy and
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director>|Harry Sinclair|</Director>
+  <Director>Harry Sinclair</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>We All Fall Down</EpisodeName>
   <EpisodeNumber>22</EpisodeNumber>
   <FirstAired>2013-05-13</FirstAired>
-  <GuestStars>|Prince Michael Jackson|</GuestStars>
+  <GuestStars>Prince Michael Jackson</GuestStars>
   <IMDB_ID>tt2794682</IMDB_ID>
   <Language>en</Language>
   <Overview>In a memorable send-off, our favorite group from Beverly Hills will come together again after a traumatic event that makes them realize the importance of their relationships.</Overview>
@@ -3591,10 +3591,10 @@ After getting into a fight on the beach, Liam, with the help of Dixon, Teddy and
   <Rating>8.0</Rating>
   <RatingCount>6</RatingCount>
   <SeasonNumber>5</SeasonNumber>
-  <Writer>|Lara Olsen|</Writer>
+  <Writer>Lara Olsen</Writer>
   <absolute_number>114</absolute_number>
   <filename>episodes/82716/4510436.jpg</filename>
-  <lastupdated>1379516194</lastupdated>
+  <lastupdated>1431126727</lastupdated>
   <seasonid>493163</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>

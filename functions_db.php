@@ -41,7 +41,7 @@ function SQLUpdateSerie( $Type , $SerieID , $Value )
   $query = "SELECT COUNT(ID) AS AlreadyExist FROM series_series WHERE id='".$SerieID."'";
 
   $result = SQLQuery($query);
-  
+
   //$result = mysql_fetch_array($result);
   $result = $result->fetch(PDO::FETCH_ASSOC);
   //print_r_pre( $result );

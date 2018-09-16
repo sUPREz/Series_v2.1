@@ -11,6 +11,7 @@ $CONTENT_TEXT['SousTitre.euFileNotFound'] =     'Impossible de trouver le fichie
 $CONTENT_TEXT['SousTitre.euFileNotFoundShort'] ="ST.eu _NONE";//'Pas de fichier sous-titres';
 $CONTENT_TEXT['SousTitre.euDown'] =             'Le site <a href="http://www.sous-titres.eu/">www.sous-titres.eu</a> semble inactif.';
 $CONTENT_TEXT['TVDB.Down'] =                    'Le site <a href="http://thetvdb.com/">http://thetvdb.com/</a> semble inactif.';
+$CONTENT_TEXT['addic7ed.fail'] =                'Impossible d\'ouvrir la page <a href="[[URL]]">[[URL]]</a> sur le site <a href="http://www.addic7ed.com/">addic7ed</a>.';
 $CONTENT_TEXT['ErrorFile'] =                    'Impossible d\'ouvrir le fichier "[[FILE]]".';
 $CONTENT_TEXT['BackupMirror'] =                 'Le fichier [[FILE]] a été récupéré sur le mirroir de secours !';
 
@@ -43,6 +44,8 @@ $CONTENT_LINK['addic7ed_href'] =                'http://www.addic7ed.com/serie/[
 $CONTENT_LINK['addic7ed.euNotFound'] =          '<a href="[[URL]]" target="_blank">Verif</a>';
 $CONTENT_LINK['btjunkie.org'] =                 '<a href="http://btjunkie.org/search?q=[[TEXT]]" target="_blank">btjunkie.org</a>';
 $CONTENT_LINK['thepiratebay.org'] =             '<a href="http://thepiratebay.org/search/[[TEXT]]" target="_blank">piratebay.org</a>';
+//$CONTENT_LINK['kickass.so'] =                   '<a href="http://kickass.so/usearch/[[TEXT]]/" target="_blank">kickass.so</a>';
+$CONTENT_LINK['kickass.so'] =                   '<a href="http://kickass.to/usearch/[[TEXT]]/" target="_blank">kickass.so</a>';
 $CONTENT_LINK['google'] =                       '<a href="http://www.google.fr/search?q=[[TEXT]]+torrent" target="_blank">Google</a>';
 
 $CONTENT_LINK['Wikipedia'] =                    '<a href="http://en.wikipedia.org/wiki/[[SeriesName]]" target="_blank">Wikipedia</a>';

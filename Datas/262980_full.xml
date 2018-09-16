@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Data><Series>
   <id>262980</id>
-  <Actors>|Kevin Spacey|Robin Wright|Kate Mara|Ben Daniels|Sandrine Holt|Mahershala Ali|Boris McGiver|Michel Gill|Sebastian Arcelus|Constance Zimmer|Kristen Connolly|Sakina Jaffrey|Michael Kelly|Corey Stoll|</Actors>
+  <Actors>|Kevin Spacey|Robin Wright|Michael Kelly|Dan Ziskie|Nathan Darrow|Ben Daniels|Sandrine Holt|Mahershala Ali|Boris McGiver|Michel Gill|Sebastian Arcelus|Constance Zimmer|Kristen Connolly|Sakina Jaffrey|Corey Stoll|Kate Mara|</Actors>
   <Airs_DayOfWeek>Friday</Airs_DayOfWeek>
-  <Airs_Time>12:01 AM</Airs_Time>
+  <Airs_Time>3:01 AM</Airs_Time>
   <ContentRating>TV-MA</ContentRating>
   <FirstAired>2013-02-01</FirstAired>
   <Genre>|Drama|</Genre>
@@ -11,125 +11,22 @@
   <Language>en</Language>
   <Network>Netflix</Network>
   <NetworkID></NetworkID>
-  <Overview>House of Cards is an American political drama series developed and produced by Beau Willimon. It is an adaptation of a previous BBC miniseries of the same name which is based on the novel by Michael Dobbs.
-Set in present day Washington, D.C., House of Cards is the story of Frank Underwood (Kevin Spacey), a Democrat from South Carolina's 5th congressional district and the House Majority Whip, who, after getting passed over for promotion to Secretary of State, decides to exact his revenge on those who betrayed him. The series also stars Robin Wright, Kate Mara and Corey Stoll in lead roles.</Overview>
-  <Rating>9.0</Rating>
-  <RatingCount>77</RatingCount>
-  <Runtime>60</Runtime>
+  <Overview>Ruthless and cunning, Congressman Francis Underwood and his wife Claire stop at nothing to conquer everything. This wicked political drama penetrates the shadowy world of greed, sex and corruption in modern D.C.</Overview>
+  <Rating>8.9</Rating>
+  <RatingCount>117</RatingCount>
+  <Runtime>55</Runtime>
   <SeriesID>81065</SeriesID>
   <SeriesName>House of Cards (US)</SeriesName>
   <Status>Continuing</Status>
   <added>2012-10-04 16:08:09</added>
   <addedBy>79791</addedBy>
-  <banner>graphical/262980-g4.jpg</banner>
-  <fanart>fanart/original/262980-2.jpg</fanart>
-  <lastupdated>1405865645</lastupdated>
+  <banner>graphical/262980-g7.jpg</banner>
+  <fanart>fanart/original/262980-11.jpg</fanart>
+  <lastupdated>1434876324</lastupdated>
   <poster>posters/262980-3.jpg</poster>
   <tms_wanted_old>1</tms_wanted_old>
-  <zap2it_id>EP01676454</zap2it_id>
+  <zap2it_id>SH01676454</zap2it_id>
 </Series>
-<Episode>
-  <id>4850977</id>
-  <Combined_episodenumber>2</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>Chapter 28</EpisodeName>
-  <EpisodeNumber>2</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1396985264</lastupdated>
-  <seasonid>582144</seasonid>
-  <seriesid>262980</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4850978</id>
-  <Combined_episodenumber>3</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>Chapter 29</EpisodeName>
-  <EpisodeNumber>3</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1396985275</lastupdated>
-  <seasonid>582144</seasonid>
-  <seriesid>262980</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4850979</id>
-  <Combined_episodenumber>4</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>Chapter 30</EpisodeName>
-  <EpisodeNumber>4</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1396985281</lastupdated>
-  <seasonid>582144</seasonid>
-  <seriesid>262980</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
 <Episode>
   <id>4411361</id>
   <Combined_episodenumber>1.0</Combined_episodenumber>
@@ -149,7 +46,7 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <Overview>When the newly elected President reneges on a promise, Francis and Claire decide to sever all allegiances and toss the rules out the window.</Overview>
   <ProductionCode>HOC-101</ProductionCode>
   <Rating>8.1</Rating>
-  <RatingCount>102</RatingCount>
+  <RatingCount>115</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Beau Willimon</Writer>
   <absolute_number>1</absolute_number>
@@ -179,8 +76,8 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <Language>en</Language>
   <Overview>Francis and Doug plan to frame Secretary of State nominee, Michael Kern. Meanwhile, Zoe's popularity at the Washington Herald continues to grow.</Overview>
   <ProductionCode>HOC-102</ProductionCode>
-  <Rating>7.9</Rating>
-  <RatingCount>97</RatingCount>
+  <Rating>8.0</Rating>
+  <RatingCount>109</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Beau Willimon</Writer>
   <absolute_number>2</absolute_number>
@@ -211,7 +108,7 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <Overview>Francis heads for his hometown to deal with a crisis. Zoe negotiates the politics of being a journalist on the rise. Claire finds herself a new business partner.</Overview>
   <ProductionCode>HOC-103</ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>85</RatingCount>
+  <RatingCount>100</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Keith Huff|Beau Willimon</Writer>
   <absolute_number>3</absolute_number>
@@ -242,7 +139,7 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <Overview>Francis shakes down the Congressional leadership. Zoe is offered the promotion of White House Correspondent and doesn't know if she should take it or not.</Overview>
   <ProductionCode>HOC-104</ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>91</RatingCount>
+  <RatingCount>107</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Rick Cleveland|Beau Willimon</Writer>
   <absolute_number>4</absolute_number>
@@ -273,7 +170,7 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <Overview>A feud starts between Francis and Marty Spinella. Russo goes into depression about the job losses at the shipyards.</Overview>
   <ProductionCode>HOC-105</ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>87</RatingCount>
+  <RatingCount>102</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Sarah Treem</Writer>
   <absolute_number>5</absolute_number>
@@ -304,7 +201,7 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <Overview>The strike between Frank and Marty starts to get out of hand. Russo has decided to run for Governor of Pennsylvania.</Overview>
   <ProductionCode>HOC-106</ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>81</RatingCount>
+  <RatingCount>96</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Sam Forman</Writer>
   <absolute_number>6</absolute_number>
@@ -335,7 +232,7 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <Overview>Frank helps Peter get ready for his governor race, but Peter is starting to have second thoughts. Doug tries to help a young hooker in trouble.</Overview>
   <ProductionCode>HOC-107</ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>84</RatingCount>
+  <RatingCount>99</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Kate Barnow|Beau Willimon</Writer>
   <absolute_number>7</absolute_number>
@@ -365,8 +262,8 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <Language>en</Language>
   <Overview>Frank has a library named after him at his old military school. Peter tries to win back the support of his hometown.</Overview>
   <ProductionCode>HOC-108</ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>82</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>100</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Beau Willimon</Writer>
   <absolute_number>8</absolute_number>
@@ -394,15 +291,15 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <GuestStars></GuestStars>
   <IMDB_ID>tt2248426</IMDB_ID>
   <Language>en</Language>
-  <Overview>Frank tries to do whatever it takes to get the new bill passed congress. Russo goes on a bus campaign with the Vice President, but the VP is not making it an easy trip for him. Zoe's relationship with Frank gets a little bumpy.</Overview>
+  <Overview>Frank tries to do whatever it takes to get the new bill passed in Congress. Russo goes on a bus campaign with the Vice President, but the VP is not making it an easy trip for him. Zoe's relationship with Frank gets a little bumpy.</Overview>
   <ProductionCode>HOC-109</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>70</RatingCount>
+  <RatingCount>86</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Rick Cleveland|Beau Willimon</Writer>
   <absolute_number>9</absolute_number>
   <filename>episodes/262980/4481715.jpg</filename>
-  <lastupdated>1399902289</lastupdated>
+  <lastupdated>1424677120</lastupdated>
   <seasonid>502436</seasonid>
   <seriesid>262980</seriesid>
   <thumb_added></thumb_added>
@@ -427,8 +324,8 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <Language>en</Language>
   <Overview>Claire fuels an old flame. Peter wrestles with his demons. Francis crosses the point of no return.</Overview>
   <ProductionCode>HOC-110</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>78</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>97</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Sarah Treem</Writer>
   <absolute_number>10</absolute_number>
@@ -458,8 +355,8 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <Language>en</Language>
   <Overview>Zoe extends her time away from The Hill while Francis tracks down Russo and engages in damage control. </Overview>
   <ProductionCode>HOC-111</ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>76</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>91</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Keith Huff|Kate Barnow|Beau Willimon</Writer>
   <absolute_number>11</absolute_number>
@@ -489,8 +386,8 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <Language>en</Language>
   <Overview>The President sends Frank to St. Louis to persuade Raymond Tusk into becoming the new Vice President. Zoe and Janine investigate Peter Russo's death.</Overview>
   <ProductionCode>HOC-112</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>67</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>83</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Gina Gionfriddo|Beau Willimon</Writer>
   <absolute_number>12</absolute_number>
@@ -521,7 +418,7 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <Overview>Frank scrambles to keep his plan on track. Gillian is planning to sue Claire. Zoe, Janine, and Lucas investigate Rachel Posner and her relationship with Peter Russo.</Overview>
   <ProductionCode>HOC-113</ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>70</RatingCount>
+  <RatingCount>86</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Beau Willimon</Writer>
   <absolute_number>13</absolute_number>
@@ -551,8 +448,8 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <Language>en</Language>
   <Overview>The Underwoods tackle two threats that could bring their plans to ruin. Francis grooms his replacement as Whip. Claire goes on the offensive.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>8.0</Rating>
-  <RatingCount>56</RatingCount>
+  <Rating>8.1</Rating>
+  <RatingCount>77</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Beau Willimon</Writer>
   <absolute_number></absolute_number>
@@ -583,7 +480,7 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <Overview>Amid turmoil in the home, Frank takes office. Foreign relations become entangled as Durant's team bungles a meeting. As foes negotiate to thwart her, Jackie maneuvers to strengthen her position. Lucas acquires new skills in order to pursue his secret investigation. </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>58</RatingCount>
+  <RatingCount>76</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Beau Willimon</Writer>
   <absolute_number></absolute_number>
@@ -614,7 +511,7 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <Overview>Tension rises between Francis and Raymond Tusk as the situation with China deteriorates. A battle in the Senate pits Francis against the Republicans.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>53</RatingCount>
+  <RatingCount>71</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Bill Cain</Writer>
   <absolute_number></absolute_number>
@@ -644,8 +541,8 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <Language>en</Language>
   <Overview>A terror scare at the Capitol traps Francis with a resentful Donald Blythe. Claire gives a live interview that rocks the media.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>48</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>66</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Laura Eason</Writer>
   <absolute_number></absolute_number>
@@ -675,8 +572,8 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <Language>en</Language>
   <Overview>Francis back-channels with a Chinese billionaire. Lucas uses extreme measures to expose the Vice President. A shadowy figure joins Team Underwood.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>50</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>70</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Kenneth Lin</Writer>
   <absolute_number></absolute_number>
@@ -707,7 +604,7 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <Overview>Amidst an energy crisis, Francis and Tusk end their shaky alliance. Lucas must make a difficult choice. Stamper grows closer to Rachel.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>49</RatingCount>
+  <RatingCount>67</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>John Mankiewicz</Writer>
   <absolute_number></absolute_number>
@@ -738,7 +635,7 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <Overview>Despite some friction, the Walkers deepen their friendship with the Underwoods. But it's all-out war between Francis and Tusk.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>46</RatingCount>
+  <RatingCount>66</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>David Manson</Writer>
   <absolute_number></absolute_number>
@@ -769,7 +666,7 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <Overview>The war with Tusk intensifies. Claire influences Tricia Walker politically and domestically. Francis has a show-down with Linda Vasquez.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>53</RatingCount>
+  <RatingCount>74</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Bill Kennedy</Writer>
   <absolute_number></absolute_number>
@@ -799,8 +696,8 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <Language>en</Language>
   <Overview>Things get personal when Tusk blindsides the Underwoods with a scandal. Freddy and his BBQ joint get caught up in the mix.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>50</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>72</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Beau Willimon</Writer>
   <absolute_number></absolute_number>
@@ -831,7 +728,7 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <Overview>With a military stand-off overseas and potential violence at home, Francis wants to finish off Tusk for good. Claire and Jackie Sharp collide.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>41</RatingCount>
+  <RatingCount>63</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Laura Eason|Beau Willimon</Writer>
   <absolute_number></absolute_number>
@@ -862,7 +759,7 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <Overview>A Special Prosecutor interrogates Francis. Remy Danton tries to keep his options open. Stamper wrestles with his demons.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>42</RatingCount>
+  <RatingCount>65</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>John Mankiewicz|Beau Willimon</Writer>
   <absolute_number></absolute_number>
@@ -892,8 +789,8 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <Language>en</Language>
   <Overview>Francis finds himself shut out and Claire makes a difficult sacrifice. Stamper tries to regain control.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>46</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>70</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Beau Willimon</Writer>
   <absolute_number></absolute_number>
@@ -923,8 +820,8 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <Language>en</Language>
   <Overview>Francis faces annihilation while the nation is in an uproar. Stamper must tie up loose ends. Claire feels the cost of ruthlessness.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>8.0</Rating>
-  <RatingCount>47</RatingCount>
+  <Rating>8.1</Rating>
+  <RatingCount>69</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Beau Willimon</Writer>
   <absolute_number></absolute_number>
@@ -933,6 +830,409 @@ Set in present day Washington, D.C., House of Cards is the story of Frank Underw
   <seasonid>517715</seasonid>
   <seriesid>262980</seriesid>
   <thumb_added>2014-02-15 17:08:43</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5043395</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>John David Coles</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Chapter 27</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2015-02-27</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3513862</IMDB_ID>
+  <Language>en</Language>
+  <Overview>A rocky start for the Underwood Presidency. Frank wants to introduce an ambitious jobs program, while Claire sets her sights on the United Nations.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.2</Rating>
+  <RatingCount>34</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/262980/5043395.jpg</filename>
+  <lastupdated>1430035308</lastupdated>
+  <seasonid>602816</seasonid>
+  <seriesid>262980</seriesid>
+  <thumb_added>2015-02-11 14:29:43</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5043396</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>John David Coles</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Chapter 28</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2015-02-27</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3892086</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Claire's U.N. bid runs into trouble. Frank fights off mutiny with a bold address to the country.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.2</Rating>
+  <RatingCount>31</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Michael Dobbs, Andrew Davies, Beau Willimon and John Mankiewicz</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/262980/5043396.jpg</filename>
+  <lastupdated>1430035327</lastupdated>
+  <seasonid>602816</seasonid>
+  <seriesid>262980</seriesid>
+  <thumb_added>2015-02-27 08:59:30</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5043397</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Tucker Gates</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Chapter 29</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2015-02-27</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3892088</IMDB_ID>
+  <Language>en</Language>
+  <Overview>The Russian president's state visit becomes a cold war of wills, and some punks heat things up.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.2</Rating>
+  <RatingCount>34</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/262980/5043397.jpg</filename>
+  <lastupdated>1430080909</lastupdated>
+  <seasonid>602816</seasonid>
+  <seriesid>262980</seriesid>
+  <thumb_added>2015-02-27 08:59:41</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5043398</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Tucker Gates</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Chapter 30</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2015-02-27</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3892094</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Claire bypasses Russia at the U.N. Frank tries to outmaneuver a potential challenger and ends up face to face with a higher power.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.1</Rating>
+  <RatingCount>32</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/262980/5043398.jpg</filename>
+  <lastupdated>1430035363</lastupdated>
+  <seasonid>602816</seasonid>
+  <seriesid>262980</seriesid>
+  <thumb_added>2015-02-27 08:59:53</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5043399</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>James Foley</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Chapter 31</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2015-02-27</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3897442</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Frank declares war on Congress to jump-start his jobs program. Claire spars with the Russian Ambassador.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>34</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/262980/5043399.jpg</filename>
+  <lastupdated>1430035380</lastupdated>
+  <seasonid>602816</seasonid>
+  <seriesid>262980</seriesid>
+  <thumb_added>2015-02-27 09:00:06</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5043400</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>James Foley</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Chapter 32</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2015-02-27</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3897454</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Frank and Claire travel to Moscow to negotiate the return of an imprisoned U.S. citizen. Claire takes a stand that jeopardizes their plans.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.2</Rating>
+  <RatingCount>32</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/262980/5043400.jpg</filename>
+  <lastupdated>1430035396</lastupdated>
+  <seasonid>602816</seasonid>
+  <seriesid>262980</seriesid>
+  <thumb_added>2015-02-27 09:00:17</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5043401</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>John Dahl</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Chapter 33</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2015-02-27</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3918768</IMDB_ID>
+  <Language>en</Language>
+  <Overview>The damage is done and the Underwoods must repair it. But deep wounds don't heal fast, and sometimes not at all.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.2</Rating>
+  <RatingCount>35</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/262980/5043401.jpg</filename>
+  <lastupdated>1430035414</lastupdated>
+  <seasonid>602816</seasonid>
+  <seriesid>262980</seriesid>
+  <thumb_added>2015-02-27 09:00:33</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5043402</id>
+  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>John Dahl</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Chapter 34</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2015-02-27</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt4083028</IMDB_ID>
+  <Language>en</Language>
+  <Overview>A hurricane endangers more than just the entire East Coast and Frank must make a difficult choice.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>28</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/262980/5043402.jpg</filename>
+  <lastupdated>1430035429</lastupdated>
+  <seasonid>602816</seasonid>
+  <seriesid>262980</seriesid>
+  <thumb_added>2015-02-27 09:00:48</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5043403</id>
+  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Robin Wright</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Chapter 35</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2015-02-27</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt4035250</IMDB_ID>
+  <Language>en</Language>
+  <Overview>The Jordan Valley erupts in chaos as Frank's campaign is picking up steam. Claire gets disturbing intel and counsels him.</Overview>
+  <ProductionCode>HOC-309</ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>30</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>John Mankiewicz</Writer>
+  <absolute_number>35</absolute_number>
+  <filename>episodes/262980/5043403.jpg</filename>
+  <lastupdated>1430035448</lastupdated>
+  <seasonid>602816</seasonid>
+  <seriesid>262980</seriesid>
+  <thumb_added>2015-02-27 09:01:00</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5043404</id>
+  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Agnieszka Holland</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Chapter 36</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2015-02-27</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt4128566</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Frank needs to deal with Petrov one on one while Claire tries to preserve the peace-keeping mission. Sacrifices must be made.</Overview>
+  <ProductionCode>HOC-310</ProductionCode>
+  <Rating>7.2</Rating>
+  <RatingCount>28</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Frank Pugliese</Writer>
+  <absolute_number>36</absolute_number>
+  <filename>episodes/262980/5043404.jpg</filename>
+  <lastupdated>1430035465</lastupdated>
+  <seasonid>602816</seasonid>
+  <seriesid>262980</seriesid>
+  <thumb_added>2015-02-27 09:01:14</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5043406</id>
+  <Combined_episodenumber>11</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Agnieszka Holland</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Chapter 37</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired>2015-02-27</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt4128572</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Things turn ugly when Frank, Jackie, and Heather square off during their first debate. Tom joins Claire on the campaign trail.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>29</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/262980/5043406.jpg</filename>
+  <lastupdated>1431959870</lastupdated>
+  <seasonid>602816</seasonid>
+  <seriesid>262980</seriesid>
+  <thumb_added>2015-02-27 09:01:26</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5043412</id>
+  <Combined_episodenumber>12</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Robin Wright</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Chapter 38</EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired>2015-02-27</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt4128574</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Heather Dunbar goes for the jugular, forcing Claire to confront her worst fears. The rift between Frank and Claire widens.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.3</Rating>
+  <RatingCount>28</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/262980/5043412.jpg</filename>
+  <lastupdated>1431959890</lastupdated>
+  <seasonid>602816</seasonid>
+  <seriesid>262980</seriesid>
+  <thumb_added>2015-02-27 09:01:36</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5043417</id>
+  <Combined_episodenumber>13</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>James Foley</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Chapter 39</EpisodeName>
+  <EpisodeNumber>13</EpisodeNumber>
+  <FirstAired>2015-02-27</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt4221826</IMDB_ID>
+  <Language>en</Language>
+  <Overview>In the midst of the Iowa caucuses, Frank and Claire must confront hard truths about each other.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.2</Rating>
+  <RatingCount>26</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/262980/5043417.jpg</filename>
+  <lastupdated>1431959909</lastupdated>
+  <seasonid>602816</seasonid>
+  <seriesid>262980</seriesid>
+  <thumb_added>2015-02-27 09:01:47</thumb_added>
   <thumb_height>225</thumb_height>
   <thumb_width>400</thumb_width>
 </Episode>

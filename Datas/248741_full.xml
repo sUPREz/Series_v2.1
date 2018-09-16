@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Data><Series>
   <id>248741</id>
-  <Actors>|Beth Behrs|Kat Dennings|Matthew Moy|Garrett Morris|Jonathan Kite|Jennifer Coolidge|Eric André|Nick Zano|</Actors>
+  <Actors>|Beth Behrs|Kat Dennings|Matthew Moy|Garrett Morris|Jonathan Kite|Jennifer Coolidge|Austin Falk|Eric André|Nick Zano|</Actors>
   <Airs_DayOfWeek>Monday</Airs_DayOfWeek>
   <Airs_Time>8:00 PM</Airs_Time>
   <ContentRating>TV-14</ContentRating>
@@ -13,224 +13,20 @@
   <NetworkID></NetworkID>
   <Overview>A lot of girls move to New York City to &quot;make it&quot;. Max and Caroline are just trying to make their rent. In this fun, outrageous comedy series, two girls from very different backgrounds – Max, poor from birth, and Caroline, born wealthy but down on her luck – wind up as waitresses in the same colorful Brooklyn diner and strike up an unlikely friendship that could lead to a successful business venture. All they need to do is come up with $250,000 in start-up expenses. &quot;2 Broke Girls&quot; infuses the classic comedy with something new, current and young, proving life can be fun – even if you’re broke.</Overview>
   <Rating>8.2</Rating>
-  <RatingCount>95</RatingCount>
+  <RatingCount>111</RatingCount>
   <Runtime>30</Runtime>
   <SeriesID>80659</SeriesID>
   <SeriesName>2 Broke Girls</SeriesName>
   <Status>Continuing</Status>
   <added>2011-05-14 07:37:19</added>
   <addedBy>235881</addedBy>
-  <banner>graphical/248741-g7.jpg</banner>
-  <fanart>fanart/original/248741-17.jpg</fanart>
-  <lastupdated>1405828573</lastupdated>
+  <banner>graphical/248741-g5.jpg</banner>
+  <fanart>fanart/original/248741-20.jpg</fanart>
+  <lastupdated>1434786858</lastupdated>
   <poster>posters/248741-6.jpg</poster>
   <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>EP01419872</zap2it_id>
 </Series>
-<Episode>
-  <id>4429650</id>
-  <Combined_episodenumber>1</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag>2</EpImgFlag>
-  <EpisodeName>2 Girls Going For Broke</EpisodeName>
-  <EpisodeNumber>1</EpisodeNumber>
-  <FirstAired>2011-09-20</FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename>episodes/248741/4429650.jpg</filename>
-  <lastupdated>1387988336</lastupdated>
-  <seasonid>465947</seasonid>
-  <seriesid>248741</seriesid>
-  <thumb_added>2013-12-25 08:22:00</thumb_added>
-  <thumb_height>225</thumb_height>
-  <thumb_width>400</thumb_width>
-</Episode>
-<Episode>
-  <id>4497926</id>
-  <Combined_episodenumber>2</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag>2</EpImgFlag>
-  <EpisodeName>2 Broke Girls Super Bowl Commercial</EpisodeName>
-  <EpisodeNumber>2</EpisodeNumber>
-  <FirstAired>2013-02-03</FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename>episodes/248741/4497926.jpg</filename>
-  <lastupdated>1387988638</lastupdated>
-  <seasonid>465947</seasonid>
-  <seriesid>248741</seriesid>
-  <thumb_added>2013-12-25 08:25:03</thumb_added>
-  <thumb_height>225</thumb_height>
-  <thumb_width>400</thumb_width>
-</Episode>
-<Episode>
-  <id>4667629</id>
-  <Combined_episodenumber>3</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag>2</EpImgFlag>
-  <EpisodeName>2 Broke Girls PaleyFest 2013</EpisodeName>
-  <EpisodeNumber>3</EpisodeNumber>
-  <FirstAired>2013-03-14</FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename>episodes/248741/4667629.jpg</filename>
-  <lastupdated>1387988802</lastupdated>
-  <seasonid>465947</seasonid>
-  <seriesid>248741</seriesid>
-  <thumb_added>2013-12-25 08:29:52</thumb_added>
-  <thumb_height>225</thumb_height>
-  <thumb_width>400</thumb_width>
-</Episode>
-<Episode>
-  <id>4667630</id>
-  <Combined_episodenumber>4</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag>2</EpImgFlag>
-  <EpisodeName>To Recap (Season 2)</EpisodeName>
-  <EpisodeNumber>4</EpisodeNumber>
-  <FirstAired>2013-09-23</FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename>episodes/248741/4667630.jpg</filename>
-  <lastupdated>1387988990</lastupdated>
-  <seasonid>465947</seasonid>
-  <seriesid>248741</seriesid>
-  <thumb_added>2013-12-25 08:32:45</thumb_added>
-  <thumb_height>225</thumb_height>
-  <thumb_width>400</thumb_width>
-</Episode>
-<Episode>
-  <id>4667631</id>
-  <Combined_episodenumber>5</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>2 Broke Giirrllss with Sophie Kachinsky</EpisodeName>
-  <EpisodeNumber>5</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1380119638</lastupdated>
-  <seasonid>465947</seasonid>
-  <seriesid>248741</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
-<Episode>
-  <id>4667632</id>
-  <Combined_episodenumber>6</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag>2</EpImgFlag>
-  <EpisodeName>Season 2 Bloopers</EpisodeName>
-  <EpisodeNumber>6</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename>episodes/248741/4667632.jpg</filename>
-  <lastupdated>1387989103</lastupdated>
-  <seasonid>465947</seasonid>
-  <seriesid>248741</seriesid>
-  <thumb_added>2013-12-25 08:36:00</thumb_added>
-  <thumb_height>225</thumb_height>
-  <thumb_width>400</thumb_width>
-</Episode>
 <Episode>
   <id>4099506</id>
   <Combined_episodenumber>1.0</Combined_episodenumber>
@@ -240,7 +36,7 @@
   <DVD_episodenumber>1.0</DVD_episodenumber>
   <DVD_season>1</DVD_season>
   <Director>James Burrows</Director>
-  <EpImgFlag>7</EpImgFlag>
+  <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Pilot</EpisodeName>
   <EpisodeNumber>1</EpisodeNumber>
   <FirstAired>2011-09-19</FirstAired>
@@ -250,15 +46,15 @@
   <Overview>Experienced waitress Max Black meets her new co-worker, former rich-girl Caroline Channing, and puts her skills to the test at an old but re-emerging Brooklyn diner. Despite her initial distaste for Caroline, Max eventually softens and the two team up for a new business venture.</Overview>
   <ProductionCode>296793</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>110</RatingCount>
+  <RatingCount>113</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Michael Patrick King|Whitney Cummings|</Writer>
   <absolute_number>1</absolute_number>
   <filename>episodes/248741/4099506.jpg</filename>
-  <lastupdated>1394732399</lastupdated>
+  <lastupdated>1428881727</lastupdated>
   <seasonid>465948</seasonid>
   <seriesid>248741</seriesid>
-  <thumb_added></thumb_added>
+  <thumb_added>2015-04-12 16:34:40</thumb_added>
   <thumb_height>225</thumb_height>
   <thumb_width>400</thumb_width>
 </Episode>
@@ -275,7 +71,7 @@
   <EpisodeName>And the Break-up Scene</EpisodeName>
   <EpisodeNumber>2</EpisodeNumber>
   <FirstAired>2011-09-26</FirstAired>
-  <GuestStars>Brooke Lyons|Noah Mills|Paxton West McMurray|Halston Autumn McMurray|Lauren Benz Phillips|Dana Delorenzo</GuestStars>
+  <GuestStars>|Brooke Lyons|Noah Mills|Paxton West McMurray|Halston Autumn McMurray|Lauren Benz Phillips|Dana Delorenzo|</GuestStars>
   <IMDB_ID>tt2058148</IMDB_ID>
   <Language>en</Language>
   <Overview>Max gets upset when Caroline keeps meddling in her business, but the situation only gets worse when Caroline steals Max's break-up scene.</Overview>
@@ -286,7 +82,7 @@
   <Writer>Michael Patrick King</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248741/4171776.jpg</filename>
-  <lastupdated>1399376228</lastupdated>
+  <lastupdated>1433639378</lastupdated>
   <seasonid>465948</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added></thumb_added>
@@ -306,7 +102,7 @@
   <EpisodeName>And Strokes of Goodwill</EpisodeName>
   <EpisodeNumber>3</EpisodeNumber>
   <FirstAired>2011-10-03</FirstAired>
-  <GuestStars>Nick Zano|Baadja-Lyne Odums|Amaris Dupree|Sarah Buehler|Brooke Dillman|Craig Frank|Thomas Fowler|Chuti Tiu</GuestStars>
+  <GuestStars>|Nick Zano|Baadja-Lyne Odums|Amaris Dupree|Sarah Buehler|Brooke Dillman|Craig Frank|Thomas Fowler|Chuti Tiu|</GuestStars>
   <IMDB_ID>tt2059336</IMDB_ID>
   <Language>en</Language>
   <Overview>Max introduces Caroline to the art of thrift store shopping, which takes a dangerous turn when a battle erupts over a T-shirt. </Overview>
@@ -317,7 +113,7 @@
   <Writer>Jhoni Marchinko</Writer>
   <absolute_number>3</absolute_number>
   <filename>episodes/248741/4174269.jpg</filename>
-  <lastupdated>1394732429</lastupdated>
+  <lastupdated>1433639404</lastupdated>
   <seasonid>465948</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added></thumb_added>
@@ -337,7 +133,7 @@
   <EpisodeName>And the Rich People Problems</EpisodeName>
   <EpisodeNumber>4</EpisodeNumber>
   <FirstAired>2011-10-10</FirstAired>
-  <GuestStars>Bunny Levine|Mike Moh|Rick Shapiro|Kenji Nakamura|Masashi Odate|Henry Hayashi|Lorin McCraley</GuestStars>
+  <GuestStars>|Bunny Levine|Mike Moh|Rick Shapiro|Kenji Nakamura|Masashi Odate|Henry Hayashi|Lorin McCraley|</GuestStars>
   <IMDB_ID>tt2032589</IMDB_ID>
   <Language>en</Language>
   <Overview>Caroline asks Max to help her break into her former townhouse to retrieve her much-needed night guard.</Overview>
@@ -348,7 +144,7 @@
   <Writer>Michael Nader</Writer>
   <absolute_number>4</absolute_number>
   <filename>episodes/248741/4180387.jpg</filename>
-  <lastupdated>1394732454</lastupdated>
+  <lastupdated>1433639333</lastupdated>
   <seasonid>465948</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added></thumb_added>
@@ -368,7 +164,7 @@
   <EpisodeName>And the '90s Horse Party</EpisodeName>
   <EpisodeNumber>5</EpisodeNumber>
   <FirstAired>2011-10-17</FirstAired>
-  <GuestStars>Travis Van Winkle|Kate Frisbee|Nik Tyler|Chad Jamian Williams|Ryan Gaul|Phong Lee|Blake Young-Fountain|Kent A. Phillips</GuestStars>
+  <GuestStars>|Travis Van Winkle|Kate Frisbee|Nik Tyler|Chad Jamian Williams|Ryan Gaul|Phong Lee|Blake Young-Fountain|Kent A. Phillips|</GuestStars>
   <IMDB_ID>tt2069996</IMDB_ID>
   <Language>en</Language>
   <Overview>Caroline and Max throw a '90s-themed party at the diner to attract rich hipsters and raise money for their cupcake business; Caroline is horrified when her rich ex-boyfriend comes into the diner.</Overview>
@@ -376,10 +172,10 @@
   <Rating>7.6</Rating>
   <RatingCount>102</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>Sonny Lee|Patrick Walsh</Writer>
+  <Writer>|Sonny Lee|Patrick Walsh|</Writer>
   <absolute_number>5</absolute_number>
   <filename>episodes/248741/4183553.jpg</filename>
-  <lastupdated>1394732474</lastupdated>
+  <lastupdated>1433638998</lastupdated>
   <seasonid>465948</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added></thumb_added>
@@ -399,7 +195,7 @@
   <EpisodeName>And the Disappearing Bed</EpisodeName>
   <EpisodeNumber>6</EpisodeNumber>
   <FirstAired>2011-10-24</FirstAired>
-  <GuestStars>ri Zagaris|Janelle Giumarra|Marty Thomas|Anthony Cutolo|David Hoffman|Janelle Marra</GuestStars>
+  <GuestStars>|ri Zagaris|Janelle Giumarra|Marty Thomas|Anthony Cutolo|David Hoffman|Janelle Marra|</GuestStars>
   <IMDB_ID>tt2069997</IMDB_ID>
   <Language>en</Language>
   <Overview>Caroline and Max try to install a Murphy bed in their apartment. </Overview>
@@ -410,7 +206,7 @@
   <Writer>Greg Malins</Writer>
   <absolute_number>6</absolute_number>
   <filename>episodes/248741/4187885.jpg</filename>
-  <lastupdated>1394732497</lastupdated>
+  <lastupdated>1433639320</lastupdated>
   <seasonid>465948</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added></thumb_added>
@@ -430,18 +226,18 @@
   <EpisodeName>And the Pretty Problem</EpisodeName>
   <EpisodeNumber>7</EpisodeNumber>
   <FirstAired>2011-10-31</FirstAired>
-  <GuestStars>Carla Gallo|Jade Catta-Preta|Norma Micheals|Bunny Levine|Cynthia Frost|Mary Jo Catlett|Megan Heyn|Giancarlo Carmona|Brian Gross|Greg Worswick|Marcus Choi|Dan Wells|Beth Crosby|Jennifer Jean Snyder</GuestStars>
+  <GuestStars>|Carla Gallo|Jade Catta-Preta|Norma Micheals|Bunny Levine|Cynthia Frost|Mary Jo Catlett|Megan Heyn|Giancarlo Carmona|Brian Gross|Greg Worswick|Marcus Choi|Dan Wells|Beth Crosby|Jennifer Jean Snyder|</GuestStars>
   <IMDB_ID>tt2069119</IMDB_ID>
   <Language>en</Language>
   <Overview>Caroline persuades Max to take a cupcake-decorating class. </Overview>
   <ProductionCode>2J6357</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>95</RatingCount>
+  <RatingCount>96</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>David Feeney</Writer>
   <absolute_number>7</absolute_number>
   <filename>episodes/248741/4188297.jpg</filename>
-  <lastupdated>1394732517</lastupdated>
+  <lastupdated>1433639410</lastupdated>
   <seasonid>465948</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added></thumb_added>
@@ -461,18 +257,18 @@
   <EpisodeName>And Hoarder Culture</EpisodeName>
   <EpisodeNumber>8</EpisodeNumber>
   <FirstAired>2011-11-07</FirstAired>
-  <GuestStars>Marsha Thomason|Eddie Pepitone|Myra McWethy</GuestStars>
+  <GuestStars>|Marsha Thomason|Eddie Pepitone|Myra McWethy|</GuestStars>
   <IMDB_ID>tt2086960</IMDB_ID>
   <Language>en</Language>
   <Overview>The two take a job cleaning a hoarder's apartment for the extra money; Max learns that Johnny has a secret.</Overview>
   <ProductionCode>2J6358</ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>96</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>97</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Liz Feldman</Writer>
   <absolute_number>8</absolute_number>
   <filename>episodes/248741/4194101.jpg</filename>
-  <lastupdated>1394732543</lastupdated>
+  <lastupdated>1433639101</lastupdated>
   <seasonid>465948</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added></thumb_added>
@@ -492,18 +288,18 @@
   <EpisodeName>And the Really Petty Cash</EpisodeName>
   <EpisodeNumber>9</EpisodeNumber>
   <FirstAired>2011-11-14</FirstAired>
-  <GuestStars>Marsha Thomason|Miki Ann Maddox|Gary Kraus|Alex Berg</GuestStars>
+  <GuestStars>|Marsha Thomason|Miki Ann Maddox|Gary Kraus|Alex Berg|</GuestStars>
   <IMDB_ID>tt2100692</IMDB_ID>
   <Language>en</Language>
   <Overview>Johnny's girlfriend has a devious plan in mind when she hires Max and Caroline to bake cupcakes for an art show featuring his work.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>100</RatingCount>
+  <RatingCount>101</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Morgan Murphy</Writer>
   <absolute_number>9</absolute_number>
   <filename>episodes/248741/4200448.jpg</filename>
-  <lastupdated>1371420455</lastupdated>
+  <lastupdated>1433639121</lastupdated>
   <seasonid>465948</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added></thumb_added>
@@ -523,7 +319,7 @@
   <EpisodeName>And the Very Christmas Thanksgiving</EpisodeName>
   <EpisodeNumber>10</EpisodeNumber>
   <FirstAired>2011-11-21</FirstAired>
-  <GuestStars>Mindy Sterling|Katierose Donohue|Ian Sturdevant|Jane Widdop|Chase McKentry|Jake Madden|Josh Winot|Nick Fouquet</GuestStars>
+  <GuestStars>|Mindy Sterling|Katierose Donohue|Ian Sturdevant|Jane Widdop|Chase McKentry|Jake Madden|Josh Winot|Nick Fouquet|</GuestStars>
   <IMDB_ID>tt2102511</IMDB_ID>
   <Language>en</Language>
   <Overview>Caroline and Max spend Caroline's first broke holiday season working at a department store's Santaland to earn extra money.</Overview>
@@ -534,7 +330,7 @@
   <Writer>Michael Patrick King</Writer>
   <absolute_number>10</absolute_number>
   <filename>episodes/248741/4202750.jpg</filename>
-  <lastupdated>1394732584</lastupdated>
+  <lastupdated>1433639258</lastupdated>
   <seasonid>465948</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added></thumb_added>
@@ -554,7 +350,7 @@
   <EpisodeName>And the Reality Check</EpisodeName>
   <EpisodeNumber>11</EpisodeNumber>
   <FirstAired>2011-12-05</FirstAired>
-  <GuestStars>Nick Clifford|Jimmy Shubert</GuestStars>
+  <GuestStars>|Nick Clifford|Jimmy Shubert|</GuestStars>
   <IMDB_ID>tt2101586</IMDB_ID>
   <Language>en</Language>
   <Overview>Max and Caroline try to find Chestnut a job in order to get him lodging for the winter. Meanwhile, Peach, the mother of the twins Max babysits, auditions for &quot;Real Housewives of TriBeCa&quot;.</Overview>
@@ -565,7 +361,7 @@
   <Writer>Molly McAleer</Writer>
   <absolute_number>11</absolute_number>
   <filename>episodes/248741/4207107.jpg</filename>
-  <lastupdated>1371420482</lastupdated>
+  <lastupdated>1433639397</lastupdated>
   <seasonid>465948</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added></thumb_added>
@@ -585,7 +381,7 @@
   <EpisodeName>And the Pop-Up Sale</EpisodeName>
   <EpisodeNumber>12</EpisodeNumber>
   <FirstAired>2011-12-12</FirstAired>
-  <GuestStars>Mitch Silpa|Dale Dickey|Brittany Finamore|Annet Mahendru|Laura Spencer|Rose Abdoo|Brian Thompson</GuestStars>
+  <GuestStars>|Mitch Silpa|Dale Dickey|Brittany Finamore|Annet Mahendru|Laura Spencer|Rose Abdoo|Brian Thompson|</GuestStars>
   <IMDB_ID>tt2105089</IMDB_ID>
   <Language>en</Language>
   <Overview>When Max's stove breaks, Caroline tries to return some expensive rings to Barney's department store, but discovers her surname is no longer an asset at her former home away from home.</Overview>
@@ -596,7 +392,7 @@
   <Writer>Michelle Nader</Writer>
   <absolute_number>12</absolute_number>
   <filename>episodes/248741/4207109.jpg</filename>
-  <lastupdated>1394732610</lastupdated>
+  <lastupdated>1433639154</lastupdated>
   <seasonid>465948</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added></thumb_added>
@@ -616,7 +412,7 @@
   <EpisodeName>And the Secret Ingredient</EpisodeName>
   <EpisodeNumber>13</EpisodeNumber>
   <FirstAired>2012-01-02</FirstAired>
-  <GuestStars>Sonya Eddie|Chauntae Pink|Fay Wolf|Ian Wolterstorff|Jimmy Ouyang</GuestStars>
+  <GuestStars>|Sonya Eddie|Chauntae Pink|Fay Wolf|Ian Wolterstorff|Jimmy Ouyang|</GuestStars>
   <IMDB_ID>tt2146011</IMDB_ID>
   <Language>en</Language>
   <Overview>Caroline discovers the secret ingredient to Max's cupcakes whilst in the midst of her new obsession couponing.</Overview>
@@ -627,7 +423,7 @@
   <Writer>Michael Patrick King</Writer>
   <absolute_number>13</absolute_number>
   <filename>episodes/248741/4221557.jpg</filename>
-  <lastupdated>1394732630</lastupdated>
+  <lastupdated>1433639168</lastupdated>
   <seasonid>465948</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added></thumb_added>
@@ -647,7 +443,7 @@
   <EpisodeName>And the Upstairs Neighbor</EpisodeName>
   <EpisodeNumber>14</EpisodeNumber>
   <FirstAired>2012-01-16</FirstAired>
-  <GuestStars>Jennifer Coolidge|Lou Dimaggio|Mike Pfaf|Alan Wasserman</GuestStars>
+  <GuestStars>|Jennifer Coolidge|Lou Dimaggio|Mike Pfaf|Alan Wasserman|</GuestStars>
   <IMDB_ID>tt2172157</IMDB_ID>
   <Language>en</Language>
   <Overview>Max and Caroline's new neighbor draws their suspicion.</Overview>
@@ -658,7 +454,7 @@
   <Writer>Michael Patrick King</Writer>
   <absolute_number>14</absolute_number>
   <filename>episodes/248741/4235233.jpg</filename>
-  <lastupdated>1394732649</lastupdated>
+  <lastupdated>1433639384</lastupdated>
   <seasonid>465948</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added></thumb_added>
@@ -678,7 +474,7 @@
   <EpisodeName>And the Blind Spot</EpisodeName>
   <EpisodeNumber>15</EpisodeNumber>
   <FirstAired>2012-02-06</FirstAired>
-  <GuestStars>Jennifer Coolidge|Brad Grunberg|Joey Baker</GuestStars>
+  <GuestStars>|Jennifer Coolidge|Brad Grunberg|Joey Baker|</GuestStars>
   <IMDB_ID>tt2190491</IMDB_ID>
   <Language>en</Language>
   <Overview>Max and Caroline try to prove their cleaning skills to Sophie so she will hire them for her maid service.</Overview>
@@ -689,7 +485,7 @@
   <Writer>Michelle Nader</Writer>
   <absolute_number>15</absolute_number>
   <filename>episodes/248741/4248457.jpg</filename>
-  <lastupdated>1394732669</lastupdated>
+  <lastupdated>1433638992</lastupdated>
   <seasonid>465948</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added></thumb_added>
@@ -709,7 +505,7 @@
   <EpisodeName>And the Broken Hearts</EpisodeName>
   <EpisodeNumber>16</EpisodeNumber>
   <FirstAired>2012-02-13</FirstAired>
-  <GuestStars>Jennifer Coolidge|Lou Dimaggio|Mike Pfaf|Alan Wasserman</GuestStars>
+  <GuestStars>|Jennifer Coolidge|Lou Dimaggio|Mike Pfaf|Alan Wasserman|</GuestStars>
   <IMDB_ID>tt2211201</IMDB_ID>
   <Language>en</Language>
   <Overview>When Sophie's (Jennifer Coolidge) beauty overwhelms Earl, Caroline and Max wind up spending Valentine's Day at the hospital; Caroline tries to rekindle an old flame.</Overview>
@@ -720,7 +516,7 @@
   <Writer>David Feeney</Writer>
   <absolute_number>16</absolute_number>
   <filename>episodes/248741/4254102.jpg</filename>
-  <lastupdated>1394732700</lastupdated>
+  <lastupdated>1433639464</lastupdated>
   <seasonid>465948</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added></thumb_added>
@@ -740,7 +536,7 @@
   <EpisodeName>And the Kosher Cupcakes</EpisodeName>
   <EpisodeNumber>17</EpisodeNumber>
   <FirstAired>2012-02-20</FirstAired>
-  <GuestStars>Mary Testa|River Alexander|Jake Elliott|Renee Taylor|Matt Winston|Jay Willick</GuestStars>
+  <GuestStars>|Mary Testa|River Alexander|Jake Elliott|Renee Taylor|Matt Winston|Jay Willick|</GuestStars>
   <IMDB_ID>tt2229537</IMDB_ID>
   <Language>en</Language>
   <Overview>Max and Caroline have to make kosher cupcakes when they get a gig at a bar mitzvah.</Overview>
@@ -751,7 +547,7 @@
   <Writer>Liz Feldman</Writer>
   <absolute_number>17</absolute_number>
   <filename>episodes/248741/4261671.jpg</filename>
-  <lastupdated>1394732732</lastupdated>
+  <lastupdated>1433639497</lastupdated>
   <seasonid>465948</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added></thumb_added>
@@ -771,7 +567,7 @@
   <EpisodeName>And the One-Night Stands</EpisodeName>
   <EpisodeNumber>18</EpisodeNumber>
   <FirstAired>2012-02-27</FirstAired>
-  <GuestStars>Bridget Everett|Tim Chiou|Brian Robinson|Jeremy Rowley|Dan Warner|Hal Devi</GuestStars>
+  <GuestStars>|Bridget Everett|Tim Chiou|Brian Robinson|Jeremy Rowley|Dan Warner|Hal Devi|</GuestStars>
   <IMDB_ID>tt2235829</IMDB_ID>
   <Language>en</Language>
   <Overview>Max runs into an old boyfriend, when she accompanies Caroline to see her father in jail.</Overview>
@@ -782,7 +578,7 @@
   <Writer>|Sonny Lee|Patrick Walsh|</Writer>
   <absolute_number>18</absolute_number>
   <filename>episodes/248741/4261690.jpg</filename>
-  <lastupdated>1394732765</lastupdated>
+  <lastupdated>1433639093</lastupdated>
   <seasonid>465948</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added></thumb_added>
@@ -802,7 +598,7 @@
   <EpisodeName>And the Spring Break</EpisodeName>
   <EpisodeNumber>19</EpisodeNumber>
   <FirstAired>2012-03-19</FirstAired>
-  <GuestStars>Riley Smith|Jayson Blair|Kevin Berntson|Alison White</GuestStars>
+  <GuestStars>|Riley Smith|Jayson Blair|Kevin Berntson|Alison White|</GuestStars>
   <IMDB_ID>tt2279405</IMDB_ID>
   <Language>en</Language>
   <Overview>Caroline and Max spend their spring break dog-sitting at a couple's lavish apartment.</Overview>
@@ -813,7 +609,7 @@
   <Writer>Morgan Murphy</Writer>
   <absolute_number>19</absolute_number>
   <filename>episodes/248741/4273560.jpg</filename>
-  <lastupdated>1394732784</lastupdated>
+  <lastupdated>1433639244</lastupdated>
   <seasonid>465948</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added></thumb_added>
@@ -833,7 +629,7 @@
   <EpisodeName>And the Drug Money</EpisodeName>
   <EpisodeNumber>20</EpisodeNumber>
   <FirstAired>2012-04-09</FirstAired>
-  <GuestStars>Josh Pais|Jordan Black|D.C. Douglas|Morgan Murphy|Courtney Pauroso|Corey Podell</GuestStars>
+  <GuestStars>|Josh Pais|Jordan Black|D.C. Douglas|Morgan Murphy|Courtney Pauroso|Corey Podell|</GuestStars>
   <IMDB_ID>tt2245317</IMDB_ID>
   <Language>en</Language>
   <Overview>Max convinces Caroline to partake in a clinical drug trial in an effort to raise money to help Caroline’s father.</Overview>
@@ -844,7 +640,7 @@
   <Writer>Greg Malins</Writer>
   <absolute_number>20</absolute_number>
   <filename>episodes/248741/4289760.jpg</filename>
-  <lastupdated>1394732803</lastupdated>
+  <lastupdated>1433639265</lastupdated>
   <seasonid>465948</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added></thumb_added>
@@ -864,7 +660,7 @@
   <EpisodeName>And the Messy Purse Smackdown</EpisodeName>
   <EpisodeNumber>21</EpisodeNumber>
   <FirstAired>2012-04-16</FirstAired>
-  <GuestStars>J.R. Nutt|Dustin Coffey|Cecelia Antoinette|Michelle Noh|Daniel E. Mora|Sean Moran</GuestStars>
+  <GuestStars>|J.R. Nutt|Dustin Coffey|Cecelia Antoinette|Michelle Noh|Daniel E. Mora|Sean Moran|</GuestStars>
   <IMDB_ID>tt2268661</IMDB_ID>
   <Language>en</Language>
   <Overview>After promising Earl to drop his tax return in the mail, Caroline learns that Max has never filed, and gets sidetracked trying to help her.</Overview>
@@ -875,7 +671,7 @@
   <Writer>Molly McAleer</Writer>
   <absolute_number>21</absolute_number>
   <filename>episodes/248741/4298519.jpg</filename>
-  <lastupdated>1394732830</lastupdated>
+  <lastupdated>1433639456</lastupdated>
   <seasonid>465948</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added></thumb_added>
@@ -895,7 +691,7 @@
   <EpisodeName>And the Big Buttercream Breakthrough</EpisodeName>
   <EpisodeNumber>22</EpisodeNumber>
   <FirstAired>2012-04-30</FirstAired>
-  <GuestStars>Ayda Field|Annie Baria|Richard Gleason|Tracy Vilar|Amol Shah|Rico E. Anderson|Josh Breeding|Christina Jeffs</GuestStars>
+  <GuestStars>|Ayda Field|Annie Baria|Richard Gleason|Tracy Vilar|Amol Shah|Rico E. Anderson|Josh Breeding|Christina Jeffs|</GuestStars>
   <IMDB_ID>tt2276105</IMDB_ID>
   <Language>en</Language>
   <Overview>The stakes are high when a socialite Manhattan mother hires Max and Caroline to serve cupcakes at her daughter's first birthday party.</Overview>
@@ -906,7 +702,7 @@
   <Writer>Michelle Nader</Writer>
   <absolute_number>22</absolute_number>
   <filename>episodes/248741/4309284.jpg</filename>
-  <lastupdated>1394732851</lastupdated>
+  <lastupdated>1433639431</lastupdated>
   <seasonid>465948</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added></thumb_added>
@@ -926,7 +722,7 @@
   <EpisodeName>And Martha Stewart Have a Ball (1)</EpisodeName>
   <EpisodeNumber>23</EpisodeNumber>
   <FirstAired>2012-05-07</FirstAired>
-  <GuestStars>Martha Stewart|Dana Powell</GuestStars>
+  <GuestStars>|Martha Stewart|Dana Powell|</GuestStars>
   <IMDB_ID>tt2378611</IMDB_ID>
   <Language>en</Language>
   <Overview>Max and Caroline plan to attend a big fashion gala at the Metropolitan Museum of Art where Martha Stewart is scheduled to be a guest, in an attempt to have her taste their cupcakes and get her seal of approval.</Overview>
@@ -937,7 +733,7 @@
   <Writer>Michael Patrick King</Writer>
   <absolute_number>23</absolute_number>
   <filename>episodes/248741/4309285.jpg</filename>
-  <lastupdated>1395430567</lastupdated>
+  <lastupdated>1433639340</lastupdated>
   <seasonid>465948</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added></thumb_added>
@@ -962,13 +758,13 @@
   <Language>en</Language>
   <Overview>Max and Caroline plan to attend a big fashion gala at the Metropolitan Museum of Art where Martha Stewart is scheduled to be a guest, in an attempt to have her taste their cupcakes and get her seal of approval.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>13</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>14</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Michael Patrick King</Writer>
   <absolute_number>24</absolute_number>
   <filename>episodes/248741/4309286.jpg</filename>
-  <lastupdated>1395430580</lastupdated>
+  <lastupdated>1413978331</lastupdated>
   <seasonid>465948</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added></thumb_added>
@@ -988,7 +784,7 @@
   <EpisodeName>And the Hidden Stash</EpisodeName>
   <EpisodeNumber>1</EpisodeNumber>
   <FirstAired>2012-09-24</FirstAired>
-  <GuestStars>Steven Weber|Robert Michael Morris|Ajay Mehta|Brian Palermo|Gary Kraus|Kevin D'Arcy|Ursula Burton|Dashiell Henry Burton|Tom Virtue|Carrie Armstrong</GuestStars>
+  <GuestStars>|Steven Weber|Robert Michael Morris|Ajay Mehta|Brian Palermo|Gary Kraus|Kevin D'Arcy|Ursula Burton|Dashiell Henry Burton|Tom Virtue|Carrie Armstrong|</GuestStars>
   <IMDB_ID>tt2305069</IMDB_ID>
   <Language>en</Language>
   <Overview>Max joins Caroline on her visit to a white collar prison to see her father, Martin Channing, and he encourages them to purchase a particular keepsake at the Channing estate auction.</Overview>
@@ -999,7 +795,7 @@
   <Writer>Michelle Nader</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248741/4399295.jpg</filename>
-  <lastupdated>1404472420</lastupdated>
+  <lastupdated>1433639437</lastupdated>
   <seasonid>492735</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added></thumb_added>
@@ -1019,7 +815,7 @@
   <EpisodeName>And the Pearl Necklace</EpisodeName>
   <EpisodeNumber>2</EpisodeNumber>
   <FirstAired>2012-10-01</FirstAired>
-  <GuestStars>Allison Dunbar|Laura Everly|Angela Giarratana|Angela De Silva|Jona Xiao|Isidora Goreshter|Josh Latzer</GuestStars>
+  <GuestStars>|Allison Dunbar|Laura Everly|Angela Giarratana|Angela De Silva|Jona Xiao|Isidora Goreshter|Josh Latzer|</GuestStars>
   <IMDB_ID>tt2358968</IMDB_ID>
   <Language>en</Language>
   <Overview>Max and Caroline attempt to keep faith that Martha Stewart, who tasted and liked one of their cupcakes in last season's finale, will call and help support their business. Meanwhile, Caroline loses a lucky keepsake.</Overview>
@@ -1030,7 +826,7 @@
   <Writer>Michael Patrick King</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248741/4329326.jpg</filename>
-  <lastupdated>1404472476</lastupdated>
+  <lastupdated>1433639491</lastupdated>
   <seasonid>492735</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added></thumb_added>
@@ -1050,7 +846,7 @@
   <EpisodeName>And the Hold-Up</EpisodeName>
   <EpisodeNumber>3</EpisodeNumber>
   <FirstAired>2012-10-08</FirstAired>
-  <GuestStars>D.J. Pierce|Mando Alvarado|Tom Christensen|Damon Stone|Travis Lindquist|Jackson Rogow|Michael Cohen|James Grabowski</GuestStars>
+  <GuestStars>|D.J. Pierce|Mando Alvarado|Tom Christensen|Damon Stone|Travis Lindquist|Jackson Rogow|Michael Cohen|James Grabowski|</GuestStars>
   <IMDB_ID>tt2351470</IMDB_ID>
   <Language>en</Language>
   <Overview>Max and Caroline show their true colors when the diner gets robbed. Meanwhile, everyone sees a surprising new side of Han.</Overview>
@@ -1061,7 +857,7 @@
   <Writer>Jhoni Marchinko</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248741/4404686.jpg</filename>
-  <lastupdated>1404472501</lastupdated>
+  <lastupdated>1433639291</lastupdated>
   <seasonid>492735</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added></thumb_added>
@@ -1081,7 +877,7 @@
   <EpisodeName>And the Cupcake War</EpisodeName>
   <EpisodeNumber>4</EpisodeNumber>
   <FirstAired>2012-10-15</FirstAired>
-  <GuestStars>Frances Callier|Mary Pat Gleason|Edi Patterson</GuestStars>
+  <GuestStars>|Frances Callier|Mary Pat Gleason|Edi Patterson|</GuestStars>
   <IMDB_ID>tt2432020</IMDB_ID>
   <Language>en</Language>
   <Overview>Max and Caroline try to take their cupcake business to the next level by auditioning for the reality cooking show Cupcake Wars.</Overview>
@@ -1092,7 +888,7 @@
   <Writer>Molly McAleer</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248741/4414323.jpg</filename>
-  <lastupdated>1404472537</lastupdated>
+  <lastupdated>1433639477</lastupdated>
   <seasonid>492735</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added></thumb_added>
@@ -1120,10 +916,10 @@
   <Rating>7.5</Rating>
   <RatingCount>58</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>Sonny Lee|Patrick Walsh</Writer>
+  <Writer>|Sonny Lee|Patrick Walsh|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248741/4414939.jpg</filename>
-  <lastupdated>1404474857</lastupdated>
+  <lastupdated>1433639273</lastupdated>
   <seasonid>492735</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added></thumb_added>
@@ -1154,7 +950,7 @@
   <Writer>Liz Feldman</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248741/4414937.jpg</filename>
-  <lastupdated>1404472370</lastupdated>
+  <lastupdated>1413980180</lastupdated>
   <seasonid>492735</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added></thumb_added>
@@ -1185,7 +981,7 @@
   <Writer>Morgan Murphy</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248741/4427090.jpg</filename>
-  <lastupdated>1404472391</lastupdated>
+  <lastupdated>1413980204</lastupdated>
   <seasonid>492735</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added></thumb_added>
@@ -1213,10 +1009,10 @@
   <Rating>7.6</Rating>
   <RatingCount>60</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>Tracy Poust|Jon Kinnally</Writer>
+  <Writer>|Tracy Poust|Jon Kinnally|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248741/4427091.jpg</filename>
-  <lastupdated>1404474910</lastupdated>
+  <lastupdated>1433639222</lastupdated>
   <seasonid>492735</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added></thumb_added>
@@ -1236,7 +1032,7 @@
   <EpisodeName>And the New Boss</EpisodeName>
   <EpisodeNumber>9</EpisodeNumber>
   <FirstAired>2012-12-03</FirstAired>
-  <GuestStars>Natalie Cohen|Abby Elliott|Katie Molinaro|Chelsea O'Toole|Sharon Sachs</GuestStars>
+  <GuestStars>|Natalie Cohen|Abby Elliott|Katie Molinaro|Chelsea O'Toole|Sharon Sachs|</GuestStars>
   <IMDB_ID>tt2526686</IMDB_ID>
   <Language>en</Language>
   <Overview>Max and Caroline decide to hire an intern to help take care of some of the menial tasks involved with the preparation for opening their new cupcake shop, but Max seems conflicted with her new managerial role as the boss</Overview>
@@ -1247,7 +1043,7 @@
   <Writer>Michelle Nader</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248741/4427092.jpg</filename>
-  <lastupdated>1404474942</lastupdated>
+  <lastupdated>1433639078</lastupdated>
   <seasonid>492735</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added></thumb_added>
@@ -1267,7 +1063,7 @@
   <EpisodeName>And the Big Opening</EpisodeName>
   <EpisodeNumber>10</EpisodeNumber>
   <FirstAired>2012-12-10</FirstAired>
-  <GuestStars>Ryan Hansen|Brandon Herman|Noah Mills|Darryl Stephens|Amy Tolsky|Nick Zano|Shawn Ashley</GuestStars>
+  <GuestStars>|Ryan Hansen|Brandon Herman|Noah Mills|Darryl Stephens|Amy Tolsky|Nick Zano|Shawn Ashley|</GuestStars>
   <IMDB_ID>tt2568836</IMDB_ID>
   <Language>en</Language>
   <Overview>Max and Caroline host a grand opening celebration at their new cupcake shop, and Max invites her former flames to show off her success.</Overview>
@@ -1278,7 +1074,7 @@
   <Writer>Michael Patrick King</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248741/4443796.jpg</filename>
-  <lastupdated>1404472323</lastupdated>
+  <lastupdated>1433639087</lastupdated>
   <seasonid>492735</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added></thumb_added>
@@ -1298,7 +1094,7 @@
   <EpisodeName>And the Silent Partner</EpisodeName>
   <EpisodeNumber>11</EpisodeNumber>
   <FirstAired>2012-12-10</FirstAired>
-  <GuestStars>Ryan Hansen|James Hong|Bianca Lawson|Tom Massmann|Noah Mills|Connie Sawyer|Nick Zano|Shawn Ashley</GuestStars>
+  <GuestStars>|Ryan Hansen|James Hong|Bianca Lawson|Tom Massmann|Noah Mills|Connie Sawyer|Nick Zano|Shawn Ashley|</GuestStars>
   <IMDB_ID>tt2542728</IMDB_ID>
   <Language>en</Language>
   <Overview>When Max sees Sophie depressed after being swindled by the contractor in charge of building her dream house, she offers to make her a silent partner in the cupcake business, but Caroline and Sophie have very different visions for the company.</Overview>
@@ -1306,10 +1102,10 @@
   <Rating>7.5</Rating>
   <RatingCount>56</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>Tracy Poust|Jon Kinnally</Writer>
+  <Writer>|Tracy Poust|Jon Kinnally|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248741/4443797.jpg</filename>
-  <lastupdated>1404472288</lastupdated>
+  <lastupdated>1433639014</lastupdated>
   <seasonid>492735</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added></thumb_added>
@@ -1329,7 +1125,7 @@
   <EpisodeName>And the High Holidays</EpisodeName>
   <EpisodeNumber>12</EpisodeNumber>
   <FirstAired>2012-12-17</FirstAired>
-  <GuestStars>David Douglas|Ryan Hansen|Rob Kerkovich|Christine Moore|Mick Page|Frances Shaw|Robb Skyler|Patrick Robert Smith|Amy Tolsky</GuestStars>
+  <GuestStars>|David Douglas|Ryan Hansen|Rob Kerkovich|Christine Moore|Mick Page|Frances Shaw|Robb Skyler|Patrick Robert Smith|Amy Tolsky|</GuestStars>
   <IMDB_ID>tt2556388</IMDB_ID>
   <Language>en</Language>
   <Overview>Desperate for a way to pay their overdue rent, Max and Caroline get involved with a group of of sketchy customers willing to pay top dollar for their cupcakes.</Overview>
@@ -1340,7 +1136,7 @@
   <Writer>Molly McAleer</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248741/4453190.jpg</filename>
-  <lastupdated>1404472260</lastupdated>
+  <lastupdated>1433639186</lastupdated>
   <seasonid>492735</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added></thumb_added>
@@ -1360,7 +1156,7 @@
   <EpisodeName>And the Bear Truth</EpisodeName>
   <EpisodeNumber>13</EpisodeNumber>
   <FirstAired>2013-01-14</FirstAired>
-  <GuestStars>Craig Anton|Michael Dunn|Ryan Hansen|Jeff Howard|Stephanie Ray|Stacie Theon</GuestStars>
+  <GuestStars>|Craig Anton|Michael Dunn|Ryan Hansen|Jeff Howard|Stephanie Ray|Stacie Theon|</GuestStars>
   <IMDB_ID>tt2587888</IMDB_ID>
   <Language>en</Language>
   <Overview>A relaxing getaway for two becomes an awkward vacation for three when Max, Caroline and Andy spend a weekend together in a cabin in the woods.</Overview>
@@ -1371,7 +1167,7 @@
   <Writer>Liz Feldman</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248741/4453191.jpg</filename>
-  <lastupdated>1404472185</lastupdated>
+  <lastupdated>1433639021</lastupdated>
   <seasonid>492735</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added></thumb_added>
@@ -1391,7 +1187,7 @@
   <EpisodeName>And Too Little Sleep</EpisodeName>
   <EpisodeNumber>14</EpisodeNumber>
   <FirstAired>2013-01-21</FirstAired>
-  <GuestStars>Ryan Hansen|Jae Jung|Barret Swatek</GuestStars>
+  <GuestStars>|Ryan Hansen|Jae Jung|Barret Swatek|</GuestStars>
   <IMDB_ID>tt2621458</IMDB_ID>
   <Language>en</Language>
   <Overview>The diner gang helps Max and Caroline bake throughout the night in order to fulfill a gigantic cupcake order.</Overview>
@@ -1399,10 +1195,10 @@
   <Rating>7.7</Rating>
   <RatingCount>52</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>Jhoni Marchinko|Michelle Nader</Writer>
+  <Writer>|Jhoni Marchinko|Michelle Nader|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248741/4453192.jpg</filename>
-  <lastupdated>1404472210</lastupdated>
+  <lastupdated>1433639059</lastupdated>
   <seasonid>492735</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added></thumb_added>
@@ -1422,7 +1218,7 @@
   <EpisodeName>And the Psychic Shakedown</EpisodeName>
   <EpisodeNumber>15</EpisodeNumber>
   <FirstAired>2013-02-04</FirstAired>
-  <GuestStars>Caroline Aaron|Amir Talai|Joe Lorenzo|Fawn Irish|Allan Rich|Eddie Alfano</GuestStars>
+  <GuestStars>|Caroline Aaron|Amir Talai|Joe Lorenzo|Fawn Irish|Allan Rich|Eddie Alfano|</GuestStars>
   <IMDB_ID>tt2631298</IMDB_ID>
   <Language>en</Language>
   <Overview>After learning that Candy Andy closed down his shop after their breakup, Caroline visits a psychic for a reading about her love life in the future.</Overview>
@@ -1433,7 +1229,7 @@
   <Writer>Michael Patrick King</Writer>
   <absolute_number>39</absolute_number>
   <filename>episodes/248741/4453193.jpg</filename>
-  <lastupdated>1404472231</lastupdated>
+  <lastupdated>1433639115</lastupdated>
   <seasonid>492735</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added></thumb_added>
@@ -1453,7 +1249,7 @@
   <EpisodeName>And Just Plane Magic</EpisodeName>
   <EpisodeNumber>16</EpisodeNumber>
   <FirstAired>2013-02-11</FirstAired>
-  <GuestStars>2 Chainz|Adam Campbell|Carole Davis|Will Deutsch|Matt Nolan|Brian Palermo</GuestStars>
+  <GuestStars>|2 Chainz|Adam Campbell|Carole Davis|Will Deutsch|Matt Nolan|Brian Palermo|</GuestStars>
   <IMDB_ID>tt2669014</IMDB_ID>
   <Language>en</Language>
   <Overview>When Max lands tickets to a music awards show in Los Angeles, she and Caroline meet rapper 2 Chainz during the cross-country flight on a private jet.</Overview>
@@ -1464,7 +1260,7 @@
   <Writer>Molly McAleer</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248741/4453194.jpg</filename>
-  <lastupdated>1404475011</lastupdated>
+  <lastupdated>1433639037</lastupdated>
   <seasonid>492735</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added></thumb_added>
@@ -1484,7 +1280,7 @@
   <EpisodeName>And the Broken Hip</EpisodeName>
   <EpisodeNumber>17</EpisodeNumber>
   <FirstAired>2013-02-18</FirstAired>
-  <GuestStars>Andy Dick|Ari Herstand|Nick Josephs|Brice Williams</GuestStars>
+  <GuestStars>|Andy Dick|Ari Herstand|Nick Josephs|Brice Williams|</GuestStars>
   <IMDB_ID>tt2664462</IMDB_ID>
   <Language>en</Language>
   <Overview>Caroline and Max pay a steep price for trying to remove a street performer from the entry of their shop.</Overview>
@@ -1495,7 +1291,7 @@
   <Writer>Molly McAleer</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248741/4453195.jpg</filename>
-  <lastupdated>1404475032</lastupdated>
+  <lastupdated>1433639235</lastupdated>
   <seasonid>492735</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added></thumb_added>
@@ -1515,7 +1311,7 @@
   <EpisodeName>And Not-So-Sweet Charity</EpisodeName>
   <EpisodeNumber>18</EpisodeNumber>
   <FirstAired>2013-02-25</FirstAired>
-  <GuestStars>Deanne Bray|Laura Clery|Rod Keller|Missi Pyle</GuestStars>
+  <GuestStars>|Deanne Bray|Laura Clery|Rod Keller|Missi Pyle|</GuestStars>
   <IMDB_ID>tt2706930</IMDB_ID>
   <Language>en</Language>
   <Overview>Max and Caroline ask Caroline's rich but callous aunt for money to save their flailing cupcake shop. </Overview>
@@ -1526,7 +1322,7 @@
   <Writer>Morgan Murphy</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248741/4453196.jpg</filename>
-  <lastupdated>1404731677</lastupdated>
+  <lastupdated>1433639207</lastupdated>
   <seasonid>492735</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added></thumb_added>
@@ -1546,7 +1342,7 @@
   <EpisodeName>And the Temporary Distraction</EpisodeName>
   <EpisodeNumber>19</EpisodeNumber>
   <FirstAired>2013-03-18</FirstAired>
-  <GuestStars>Debra Wilson|Marc Evan Jackson|Ernie Grunwald|Elizabeth Ho|Kendal Rae|Karen Rizzo</GuestStars>
+  <GuestStars>|Debra Wilson|Marc Evan Jackson|Ernie Grunwald|Elizabeth Ho|Kendal Rae|Karen Rizzo|</GuestStars>
   <IMDB_ID>tt2735536</IMDB_ID>
   <Language>en</Language>
   <Overview>Max and Caroline take office temp jobs. While Caroline tries to climb the corporate ladder, Max deals with a boss who makes inappropriate advances.</Overview>
@@ -1554,10 +1350,10 @@
   <Rating>7.5</Rating>
   <RatingCount>47</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>Sonny Lee|Patrick Walsh</Writer>
+  <Writer>|Sonny Lee|Patrick Walsh|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248741/4514852.jpg</filename>
-  <lastupdated>1404731713</lastupdated>
+  <lastupdated>1433639044</lastupdated>
   <seasonid>492735</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added></thumb_added>
@@ -1582,13 +1378,13 @@
   <Language>en</Language>
   <Overview>Han fires Caroline when she insults his diner, so Max tries to mend their relationship.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.7</Rating>
+  <Rating>7.6</Rating>
   <RatingCount>42</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Liz Feldman</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248741/4514853.jpg</filename>
-  <lastupdated>1404931625</lastupdated>
+  <lastupdated>1413980488</lastupdated>
   <seasonid>492735</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added></thumb_added>
@@ -1608,18 +1404,18 @@
   <EpisodeName>And the Worst Selfie Ever</EpisodeName>
   <EpisodeNumber>21</EpisodeNumber>
   <FirstAired>2013-04-15</FirstAired>
-  <GuestStars>Rebecca Burchett|Ryan Hansen|Kimberly Pfeffer|Aaron Scotti|Kym Whitley</GuestStars>
+  <GuestStars>|Rebecca Burchett|Ryan Hansen|Kimberly Pfeffer|Aaron Scotti|Kym Whitley|</GuestStars>
   <IMDB_ID>tt2816980</IMDB_ID>
   <Language>en</Language>
   <Overview>Caroline is in a tizzy when she develops a rash after a romantic evening with her former boyfriend.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.6</Rating>
+  <Rating>7.5</Rating>
   <RatingCount>38</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Laura Kightlinger</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248741/4516866.jpg</filename>
-  <lastupdated>1404931649</lastupdated>
+  <lastupdated>1433639200</lastupdated>
   <seasonid>492735</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added></thumb_added>
@@ -1639,18 +1435,18 @@
   <EpisodeName>And the Extra Work</EpisodeName>
   <EpisodeNumber>22</EpisodeNumber>
   <FirstAired>2013-04-29</FirstAired>
-  <GuestStars>Kyle Gass|Tom Parker|Eddie Shin</GuestStars>
+  <GuestStars>|Kyle Gass|Tom Parker|Eddie Shin|</GuestStars>
   <IMDB_ID>tt2849246</IMDB_ID>
   <Language>en</Language>
   <Overview>Max and Caroline are invited to be extras on a popular TV show shooting a scene in Han’s diner, but when Caroline catches the director’s eye, he offers her an actual role – with strings attached.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>35</RatingCount>
+  <RatingCount>36</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>Tracy Poust|Jon Kinnally</Writer>
+  <Writer>|Tracy Poust|Jon Kinnally|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248741/4535463.jpg</filename>
-  <lastupdated>1404931686</lastupdated>
+  <lastupdated>1433639126</lastupdated>
   <seasonid>492735</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added></thumb_added>
@@ -1670,7 +1466,7 @@
   <EpisodeName>And the Tip Slip</EpisodeName>
   <EpisodeNumber>23</EpisodeNumber>
   <FirstAired>2013-05-06</FirstAired>
-  <GuestStars>Anastasia Basil|Dawn Drake|Gary Kraus|Beth Lacke|Piers Morgan|Steven Weber</GuestStars>
+  <GuestStars>|Anastasia Basil|Dawn Drake|Gary Kraus|Beth Lacke|Piers Morgan|Steven Weber|</GuestStars>
   <IMDB_ID>tt2844452</IMDB_ID>
   <Language>en</Language>
   <Overview>Caroline’s father asks her to go on a talk show to defend him when a former employee threatens to defame him in a tell-all book.</Overview>
@@ -1681,7 +1477,7 @@
   <Writer>Michelle Nader</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248741/4538819.jpg</filename>
-  <lastupdated>1404931728</lastupdated>
+  <lastupdated>1433638978</lastupdated>
   <seasonid>492735</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added></thumb_added>
@@ -1701,7 +1497,7 @@
   <EpisodeName>And the Window of Opportunity</EpisodeName>
   <EpisodeNumber>24</EpisodeNumber>
   <FirstAired>2013-05-13</FirstAired>
-  <GuestStars>Tim Bagley|Jennifer Elise Cox|Bonnie Hellman|James Pumphrey</GuestStars>
+  <GuestStars>|Tim Bagley|Jennifer Elise Cox|Bonnie Hellman|James Pumphrey|</GuestStars>
   <IMDB_ID>tt2833794</IMDB_ID>
   <Language>en</Language>
   <Overview>When Max and Caroline offer to deep-clean a previously hidden part of the diner they discover something that could relaunch their cupcake business.</Overview>
@@ -1712,7 +1508,7 @@
   <Writer>Michael Patrick King</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248741/4538821.jpg</filename>
-  <lastupdated>1405364193</lastupdated>
+  <lastupdated>1433639181</lastupdated>
   <seasonid>492735</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added></thumb_added>
@@ -1732,18 +1528,18 @@
   <EpisodeName>And the Soft Opening</EpisodeName>
   <EpisodeNumber>1</EpisodeNumber>
   <FirstAired>2013-09-23</FirstAired>
-  <GuestStars>Eric Tiede|Darren Darnborough|Brian Lee Franklin|Liz Carey|Cody Chappel|Leana Chavez|Michael Earl Reid|David Angelo</GuestStars>
+  <GuestStars>|Eric Tiede|Darren Darnborough|Brian Lee Franklin|Liz Carey|Cody Chappel|Leana Chavez|Michael Earl Reid|David Angelo|</GuestStars>
   <IMDB_ID>tt2801464</IMDB_ID>
   <Language>en</Language>
   <Overview>Word about a shocking incident involving a celebrity brings customers to Max and Caroline's new cupcake window.</Overview>
   <ProductionCode>2J6801</ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>34</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>36</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Michael Patrick King</Writer>
   <absolute_number>49</absolute_number>
   <filename>episodes/248741/4595689.jpg</filename>
-  <lastupdated>1405364336</lastupdated>
+  <lastupdated>1433639484</lastupdated>
   <seasonid>522927</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added>2013-09-23 09:38:27</thumb_added>
@@ -1763,7 +1559,7 @@
   <EpisodeName>And the Kickstarter</EpisodeName>
   <EpisodeNumber>2</EpisodeNumber>
   <FirstAired>2013-09-30</FirstAired>
-  <GuestStars>Misty Monroe|Julia Cho|Irene Choi|Craig Ramsay|Deborah Levin|</GuestStars>
+  <GuestStars>|Misty Monroe|Julia Cho|Irene Choi|Craig Ramsay|Deborah Levin|</GuestStars>
   <IMDB_ID>tt3199144</IMDB_ID>
   <Language>en</Language>
   <Overview>Caroline tries to raise money for an expensive pair of new pants through an online fundraising site. Meanwhile, Max’s new smartphone comes between her and Caroline.
@@ -1771,12 +1567,12 @@
 </Overview>
   <ProductionCode>2J6802</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>29</RatingCount>
+  <RatingCount>30</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Michelle Nader</Writer>
   <absolute_number>50</absolute_number>
   <filename>episodes/248741/4643391.jpg</filename>
-  <lastupdated>1405364344</lastupdated>
+  <lastupdated>1433639300</lastupdated>
   <seasonid>522927</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added>2013-09-30 21:40:36</thumb_added>
@@ -1796,18 +1592,18 @@
   <EpisodeName>And the Kitty Kitty Spank Spank</EpisodeName>
   <EpisodeNumber>3</EpisodeNumber>
   <FirstAired>2013-10-07</FirstAired>
-  <GuestStars>Crista Flanagan|Nadia Bjorlin|Jeff Ellingson|</GuestStars>
+  <GuestStars>|Crista Flanagan|Nadia Bjorlin|Jeff Ellingson|</GuestStars>
   <IMDB_ID>tt3213726</IMDB_ID>
   <Language>en</Language>
   <Overview>When Max becomes smitten with an old stray cat that's been hanging around the apartment, Caroline tries to convince her they need to find it a better home. But just when they think they've found one, the cat's fate takes a turn.</Overview>
   <ProductionCode>2J6803</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>33</RatingCount>
+  <RatingCount>35</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Jhoni Marchinko</Writer>
   <absolute_number>51</absolute_number>
   <filename>episodes/248741/4643392.jpg</filename>
-  <lastupdated>1405364351</lastupdated>
+  <lastupdated>1433639444</lastupdated>
   <seasonid>522927</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added>2013-10-07 03:19:26</thumb_added>
@@ -1827,18 +1623,18 @@
   <EpisodeName>And the Group Head</EpisodeName>
   <EpisodeNumber>4</EpisodeNumber>
   <FirstAired>2013-10-14</FirstAired>
-  <GuestStars>Federico Dordei|Jeff Galante|Alex Alexander|Sachin Bhatt|Jim Hoffmaster|Marisa Chen Moller|April Hall|Adam Lustick</GuestStars>
+  <GuestStars>|Federico Dordei|Jeff Galante|Alex Alexander|Sachin Bhatt|Jim Hoffmaster|Marisa Chen Moller|April Hall|Adam Lustick|</GuestStars>
   <IMDB_ID>tt3230248</IMDB_ID>
   <Language>en</Language>
   <Overview>When Max and Caroline can’t figure out how to use the new cappuccino maker they bought for their cupcake business, they take temporary side jobs as baristas at a coffee house to learn the ropes.</Overview>
   <ProductionCode>2J6804</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>33</RatingCount>
+  <RatingCount>34</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Liz Feldman</Writer>
   <absolute_number>52</absolute_number>
   <filename>episodes/248741/4670499.jpg</filename>
-  <lastupdated>1405683615</lastupdated>
+  <lastupdated>1433639306</lastupdated>
   <seasonid>522927</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added>2013-10-13 16:56:11</thumb_added>
@@ -1858,18 +1654,18 @@
   <EpisodeName>And the Cronuts</EpisodeName>
   <EpisodeNumber>5</EpisodeNumber>
   <FirstAired>2013-10-21</FirstAired>
-  <GuestStars>Judy Gold|Bob Glouberman|Tony Cavalery|Nika Williams|John Maholm|Patrick O’Neil|Adam Jefferis|Lila Lucchetti|Jennie Pierson</GuestStars>
+  <GuestStars>|Judy Gold|Bob Glouberman|Tony Cavalery|Nika Williams|John Maholm|Patrick O’Neil|Adam Jefferis|Lila Lucchetti|Jennie Pierson|</GuestStars>
   <IMDB_ID>tt3248618</IMDB_ID>
   <Language>en</Language>
   <Overview>When Max and Caroline start losing business to the new cronut craze (half-croissant, half-donut), they come up with their own trend – cake fries.</Overview>
   <ProductionCode>2J6805</ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>36</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>38</RatingCount>
   <SeasonNumber>3</SeasonNumber>
-  <Writer>Sonny Lee|Patrick Walsh</Writer>
+  <Writer>|Sonny Lee|Patrick Walsh|</Writer>
   <absolute_number>53</absolute_number>
   <filename>episodes/248741/4680959.jpg</filename>
-  <lastupdated>1405364364</lastupdated>
+  <lastupdated>1433639355</lastupdated>
   <seasonid>522927</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added>2013-10-19 20:04:25</thumb_added>
@@ -1889,18 +1685,18 @@
   <EpisodeName>And the Piece of Sheet</EpisodeName>
   <EpisodeNumber>6</EpisodeNumber>
   <FirstAired>2013-10-28</FirstAired>
-  <GuestStars>Federico Dordei|Derek Krantz|Michael Earl Reid</GuestStars>
+  <GuestStars>|Federico Dordei|Derek Krantz|Michael Earl Reid|</GuestStars>
   <IMDB_ID>tt3265278</IMDB_ID>
   <Language>en</Language>
   <Overview>Feeling guilty for buying hair extensions with their joint funds, Caroline splurges on a new bedding set for Max but gives the old one to charity, not realizing her old pillowcase has sentimental value.</Overview>
   <ProductionCode>2J6806</ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>28</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>32</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Liz Astrof</Writer>
   <absolute_number>54</absolute_number>
   <filename>episodes/248741/4680960.jpg</filename>
-  <lastupdated>1405683376</lastupdated>
+  <lastupdated>1433639108</lastupdated>
   <seasonid>522927</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added>2013-10-28 19:42:39</thumb_added>
@@ -1920,18 +1716,18 @@
   <EpisodeName>And the Girlfriend Experience</EpisodeName>
   <EpisodeNumber>7</EpisodeNumber>
   <FirstAired>2013-11-04</FirstAired>
-  <GuestStars>Karen Maruyama|Ally Maki|Mike Grief|Daryl Crittenden</GuestStars>
+  <GuestStars>|Karen Maruyama|Ally Maki|Mike Grief|Daryl Crittenden|</GuestStars>
   <IMDB_ID>tt3282436</IMDB_ID>
   <Language>en</Language>
   <Overview>After Han emails photos of a stripper’s face to his mother claiming she’s his girlfriend, he begs Max and Caroline to find her and convince her to play his girlfriend when his mother arrives from Korea.</Overview>
   <ProductionCode>2J6807</ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>27</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>30</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Morgan Murphy</Writer>
   <absolute_number>55</absolute_number>
   <filename>episodes/248741/4692933.jpg</filename>
-  <lastupdated>1405683405</lastupdated>
+  <lastupdated>1433639418</lastupdated>
   <seasonid>522927</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added>2013-10-24 11:10:35</thumb_added>
@@ -1951,18 +1747,18 @@
   <EpisodeName>And the 'It' Hole</EpisodeName>
   <EpisodeNumber>8</EpisodeNumber>
   <FirstAired>2013-11-11</FirstAired>
-  <GuestStars>Federico Dordei|Amy Paffrath|Alex Staggs|Pamala Tyson |Craig Ramsay|Tye Edwards</GuestStars>
+  <GuestStars>|Federico Dordei|Amy Paffrath|Alex Staggs|Pamala Tyson|Craig Ramsay|Tye Edwards|</GuestStars>
   <IMDB_ID>tt3268544</IMDB_ID>
   <Language>en</Language>
   <Overview>When Caroline’s date is a no-show after promising to take her to one of the city’s hippest new restaurants, she and Max decide to take advantage of the hard-to-get reservation.</Overview>
   <ProductionCode>2J6808</ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>31</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>33</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Whitney Cummings</Writer>
   <absolute_number>56</absolute_number>
   <filename>episodes/248741/4692934.jpg</filename>
-  <lastupdated>1405683438</lastupdated>
+  <lastupdated>1433639072</lastupdated>
   <seasonid>522927</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added>2013-11-06 17:57:11</thumb_added>
@@ -1982,18 +1778,18 @@
   <EpisodeName>And the Pastry Porn</EpisodeName>
   <EpisodeNumber>9</EpisodeNumber>
   <FirstAired>2013-11-18</FirstAired>
-  <GuestStars>Federico Dordei|Gilles Marini|Mary Lynn Rajskub|Natalija Nagulich</GuestStars>
+  <GuestStars>|Federico Dordei|Gilles Marini|Mary Lynn Rajskub|Natalija Nagulich|</GuestStars>
   <IMDB_ID>tt3316416</IMDB_ID>
   <Language>en</Language>
   <Overview>Max decides to apply to the Manhattan School of Pastry and bakes a tart for her entrance exam.</Overview>
   <ProductionCode>2J6809</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>30</RatingCount>
+  <RatingCount>31</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Charles Brottmiller</Writer>
   <absolute_number>57</absolute_number>
   <filename>episodes/248741/4705130.jpg</filename>
-  <lastupdated>1405683628</lastupdated>
+  <lastupdated>1433639363</lastupdated>
   <seasonid>522927</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added>2013-11-06 18:17:32</thumb_added>
@@ -2013,18 +1809,18 @@
   <EpisodeName>And the First Day of School</EpisodeName>
   <EpisodeNumber>10</EpisodeNumber>
   <FirstAired>2013-11-25</FirstAired>
-  <GuestStars>Federico Dordei|Gilles Marini|Mary Lynn Rajskub|Eric André|Patrick Cox|Erik Cruz</GuestStars>
+  <GuestStars>|Federico Dordei|Gilles Marini|Mary Lynn Rajskub|Eric André|Patrick Cox|Erik Cruz|</GuestStars>
   <IMDB_ID>tt3330232</IMDB_ID>
   <Language>en</Language>
   <Overview>Max attempts to make a good impression on her first day of pastry school, but finds the class clown to be extremely distracting – and intriguing.  Meanwhile, Caroline dresses to impress Max’s handsome teacher, Nicolas.</Overview>
   <ProductionCode>2J6810</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>32</RatingCount>
+  <RatingCount>34</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Michael Patrick King</Writer>
   <absolute_number>58</absolute_number>
   <filename>episodes/248741/4705870.jpg</filename>
-  <lastupdated>1405683504</lastupdated>
+  <lastupdated>1433639451</lastupdated>
   <seasonid>522927</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added>2013-11-21 22:02:36</thumb_added>
@@ -2044,18 +1840,18 @@
   <EpisodeName>And the Life After Death</EpisodeName>
   <EpisodeNumber>11</EpisodeNumber>
   <FirstAired>2013-12-02</FirstAired>
-  <GuestStars>Mary Lynn Rajskub|Anne De Salvo|Jill Basey|Giovanni Bejarano|Linda Porter|Donna Pieroni|Jack Impellizzeri</GuestStars>
+  <GuestStars>|Mary Lynn Rajskub|Anne De Salvo|Jill Basey|Giovanni Bejarano|Linda Porter|Donna Pieroni|Jack Impellizzeri|</GuestStars>
   <IMDB_ID>tt3354354</IMDB_ID>
   <Language>en</Language>
   <Overview>Caroline attends her former nanny’s funeral, thinking the family will be honored to have her, but quickly finds out they have no idea who she is.</Overview>
   <ProductionCode>2J6811</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>29</RatingCount>
+  <RatingCount>31</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Molly McAleer</Writer>
   <absolute_number>59</absolute_number>
   <filename>episodes/248741/4718030.jpg</filename>
-  <lastupdated>1405683529</lastupdated>
+  <lastupdated>1433638985</lastupdated>
   <seasonid>522927</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added>2013-11-26 10:22:23</thumb_added>
@@ -2075,18 +1871,18 @@
   <EpisodeName>And the French Kiss</EpisodeName>
   <EpisodeNumber>12</EpisodeNumber>
   <FirstAired>2013-12-16</FirstAired>
-  <GuestStars>Eric André|Gilles Marini|Mary Lynn Rajskub</GuestStars>
+  <GuestStars>|Eric André|Gilles Marini|Mary Lynn Rajskub|</GuestStars>
   <IMDB_ID>tt3382054</IMDB_ID>
   <Language>en</Language>
   <Overview>After an incredible make-out session with Max’s pastry school teacher, Chef Nicholas, Caroline finds out something that makes her wish it never happened.</Overview>
   <ProductionCode>2J6812</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>28</RatingCount>
+  <RatingCount>30</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Michelle Nader</Writer>
   <absolute_number>60</absolute_number>
   <filename>episodes/248741/4727861.jpg</filename>
-  <lastupdated>1405683569</lastupdated>
+  <lastupdated>1433639313</lastupdated>
   <seasonid>522927</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added>2013-12-16 20:27:27</thumb_added>
@@ -2106,18 +1902,18 @@
   <EpisodeName>And the Big But</EpisodeName>
   <EpisodeNumber>13</EpisodeNumber>
   <FirstAired>2014-01-13</FirstAired>
-  <GuestStars>Federico Dordei|Eric André|Gilles Marini|Patrick Cox|Estrella Nouri</GuestStars>
+  <GuestStars>|Federico Dordei|Eric André|Gilles Marini|Patrick Cox|Estrella Nouri|</GuestStars>
   <IMDB_ID>tt3444530</IMDB_ID>
   <Language>en</Language>
   <Overview>Max finds herself wanting to be more than just friends with her pastry school partner, Deke. Meanwhile, Caroline is &quot;hot for teacher&quot; - the married Chef Nicholas.</Overview>
   <ProductionCode>2J6813</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>23</RatingCount>
+  <RatingCount>32</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Liz Feldman</Writer>
   <absolute_number>61</absolute_number>
   <filename>episodes/248741/4738740.jpg</filename>
-  <lastupdated>1405683595</lastupdated>
+  <lastupdated>1433639228</lastupdated>
   <seasonid>522927</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added>2014-01-13 08:26:30</thumb_added>
@@ -2137,18 +1933,18 @@
   <EpisodeName>And the Dumpster Sex</EpisodeName>
   <EpisodeNumber>14</EpisodeNumber>
   <FirstAired>2014-01-20</FirstAired>
-  <GuestStars>Eric André|Mary Scheer|Ace Marrero|Emiliano Torres</GuestStars>
+  <GuestStars>|Eric André|Mary Scheer|Ace Marrero|Emiliano Torres|</GuestStars>
   <IMDB_ID>tt3410690</IMDB_ID>
   <Language>en</Language>
   <Overview>When Deke takes Max to his place after a great first date, his &quot;home&quot; is nothing like she expected. Meanwhile, Caroline feels empowered - then scared for her life - after having a shady car towed from the front of their apartment building.</Overview>
   <ProductionCode>2J6814</ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>25</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>32</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Liz Astrof</Writer>
   <absolute_number>62</absolute_number>
   <filename>episodes/248741/4765650.jpg</filename>
-  <lastupdated>1401458083</lastupdated>
+  <lastupdated>1433639249</lastupdated>
   <seasonid>522927</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added>2014-01-20 05:36:59</thumb_added>
@@ -2168,18 +1964,18 @@
   <EpisodeName>And the Icing On the Cake</EpisodeName>
   <EpisodeNumber>15</EpisodeNumber>
   <FirstAired>2014-01-27</FirstAired>
-  <GuestStars>Eric André|Gilles Marini|Mary Lynn Rajskub</GuestStars>
+  <GuestStars>|Eric André|Gilles Marini|Mary Lynn Rajskub|</GuestStars>
   <IMDB_ID>tt3474844</IMDB_ID>
   <Language>en</Language>
   <Overview>When Deke invites Max’s friends over for a gathering at his dumpster, Caroline learns an enormous secret about his background.</Overview>
   <ProductionCode>2J6815</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>23</RatingCount>
+  <RatingCount>31</RatingCount>
   <SeasonNumber>3</SeasonNumber>
-  <Writer>Sonny Lee|Patrick Walsh</Writer>
+  <Writer>|Sonny Lee|Patrick Walsh|</Writer>
   <absolute_number>63</absolute_number>
   <filename>episodes/248741/4774340.jpg</filename>
-  <lastupdated>1402061578</lastupdated>
+  <lastupdated>1433639278</lastupdated>
   <seasonid>522927</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added>2014-01-27 20:51:53</thumb_added>
@@ -2199,18 +1995,18 @@
   <EpisodeName>And the ATM</EpisodeName>
   <EpisodeNumber>16</EpisodeNumber>
   <FirstAired>2014-02-03</FirstAired>
-  <GuestStars>Eric André|Patrick Cox|Wendy Worthington</GuestStars>
+  <GuestStars>|Eric André|Patrick Cox|Wendy Worthington|</GuestStars>
   <IMDB_ID>tt3487662</IMDB_ID>
   <Language>en</Language>
   <Overview>Max decides to break up with Deke now that she knows about his wealthy background.</Overview>
   <ProductionCode>2J6816</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>23</RatingCount>
+  <RatingCount>31</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Charles Brottmiller</Writer>
   <absolute_number>64</absolute_number>
   <filename>episodes/248741/4779625.jpg</filename>
-  <lastupdated>1402557297</lastupdated>
+  <lastupdated>1433639194</lastupdated>
   <seasonid>522927</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added>2014-02-01 03:01:48</thumb_added>
@@ -2230,18 +2026,18 @@
   <EpisodeName>And the Married Man Sleepover</EpisodeName>
   <EpisodeNumber>17</EpisodeNumber>
   <FirstAired>2014-02-24</FirstAired>
-  <GuestStars>Eric André|Gilles Marini|Rachel Cannon|Andrea Gabriel|Navaris Darson|Bradley Dodds</GuestStars>
+  <GuestStars>|Eric André|Gilles Marini|Rachel Cannon|Andrea Gabriel|Navaris Darson|Bradley Dodds|</GuestStars>
   <IMDB_ID>tt3529222</IMDB_ID>
   <Language>en</Language>
   <Overview>Caroline asks Max and Deke to join her on her dinner date at Nicolas’s loft to help make sure she doesn’t do anything she might regret. Also, Max and Caroline treat themselves to very special hair appointments.</Overview>
   <ProductionCode>2J6817</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>16</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>23</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Whitney Cummings</Writer>
   <absolute_number>65</absolute_number>
   <filename>episodes/248741/4781927.jpg</filename>
-  <lastupdated>1403164254</lastupdated>
+  <lastupdated>1433639139</lastupdated>
   <seasonid>522927</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added>2014-02-19 06:38:26</thumb_added>
@@ -2261,18 +2057,18 @@
   <EpisodeName>And the Near Death Experience</EpisodeName>
   <EpisodeNumber>18</EpisodeNumber>
   <FirstAired>2014-03-03</FirstAired>
-  <GuestStars>Gilles Marini|Patrick Cox|Andrea Gabriel|Fortune Feimster|Lisa Schurga</GuestStars>
+  <GuestStars>|Gilles Marini|Patrick Cox|Andrea Gabriel|Fortune Feimster|Lisa Schurga|</GuestStars>
   <IMDB_ID>tt3560226</IMDB_ID>
   <Language>en</Language>
   <Overview>Caroline goes into a tailspin and brings Max into the mix when Nicolas tells her he's going to leave his wife for her.</Overview>
   <ProductionCode>2J6818</ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>21</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>29</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Liz Feldman</Writer>
   <absolute_number>66</absolute_number>
   <filename>episodes/248741/4781928.jpg</filename>
-  <lastupdated>1403792541</lastupdated>
+  <lastupdated>1433639065</lastupdated>
   <seasonid>522927</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added>2014-02-27 16:02:52</thumb_added>
@@ -2292,18 +2088,18 @@
   <EpisodeName>And the Kilt Trip</EpisodeName>
   <EpisodeNumber>19</EpisodeNumber>
   <FirstAired>2014-03-17</FirstAired>
-  <GuestStars>Brian Doyle-Murray|Lindsey Kraft|Dimitri Diatchenko|Nancy Young</GuestStars>
+  <GuestStars>|Brian Doyle-Murray|Lindsey Kraft|Dimitri Diatchenko|Nancy Young|</GuestStars>
   <IMDB_ID>tt3554234</IMDB_ID>
   <Language>en</Language>
   <Overview>Caroline tries to fit in with Max and the diner gang as they go out to get wild and crazy at the St. Patrick's Day parade, but finds herself longing to practice her former holiday traditions at the Plaza Hotel.</Overview>
   <ProductionCode>2J6819</ProductionCode>
-  <Rating>7.3</Rating>
-  <RatingCount>20</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>29</RatingCount>
   <SeasonNumber>3</SeasonNumber>
-  <Writer>Molly McAleer|Morgan Murphy</Writer>
+  <Writer>|Molly McAleer|Morgan Murphy|</Writer>
   <absolute_number>67</absolute_number>
   <filename>episodes/248741/4781929.jpg</filename>
-  <lastupdated>1404475926</lastupdated>
+  <lastupdated>1433639030</lastupdated>
   <seasonid>522927</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added>2014-03-14 07:48:08</thumb_added>
@@ -2323,18 +2119,18 @@
   <EpisodeName>And the Not Broke Parents</EpisodeName>
   <EpisodeNumber>20</EpisodeNumber>
   <FirstAired>2014-03-24</FirstAired>
-  <GuestStars>Jeff Garlin|Sheryl Lee Ralph|Eric André|James McCauley|Veanne Cox|Patrick Cox|Stephanie Cannon|Joyce Guy</GuestStars>
+  <GuestStars>|Jeff Garlin|Sheryl Lee Ralph|Eric André|James McCauley|Veanne Cox|Patrick Cox|Stephanie Cannon|Joyce Guy|</GuestStars>
   <IMDB_ID>tt3592398</IMDB_ID>
   <Language>en</Language>
   <Overview>When Deke invites Max and Caroline to join him and his parents for dinner at their home, Max is tongue-tied until his mother confides in her about her secret past.</Overview>
   <ProductionCode>2J6820</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>17</RatingCount>
+  <RatingCount>25</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Michael Patrick King</Writer>
   <absolute_number>68</absolute_number>
   <filename>episodes/248741/4781930.jpg</filename>
-  <lastupdated>1405178092</lastupdated>
+  <lastupdated>1433639390</lastupdated>
   <seasonid>522927</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added>2014-03-21 15:19:06</thumb_added>
@@ -2354,18 +2150,18 @@
   <EpisodeName>And the Wedding Cake Cake Cake</EpisodeName>
   <EpisodeNumber>21</EpisodeNumber>
   <FirstAired>2014-04-14</FirstAired>
-  <GuestStars>Lindsay Lohan|Ben Lawson|Stephanie Courtney|John Griggs</GuestStars>
+  <GuestStars>|Lindsay Lohan|Ben Lawson|Stephanie Courtney|John Griggs|</GuestStars>
   <IMDB_ID>tt3579444</IMDB_ID>
   <Language>en</Language>
   <Overview>Max and Caroline agree to make a wedding cake for a bride who can’t decide on what style of cake she wants – or much of anything else.</Overview>
   <ProductionCode>2J6821</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>21</RatingCount>
+  <RatingCount>29</RatingCount>
   <SeasonNumber>3</SeasonNumber>
-  <Writer>Michelle Nader|Liz Astrof</Writer>
+  <Writer>|Michelle Nader|Liz Astrof|</Writer>
   <absolute_number>69</absolute_number>
   <filename>episodes/248741/4781931.jpg</filename>
-  <lastupdated>1405605760</lastupdated>
+  <lastupdated>1433639505</lastupdated>
   <seasonid>522927</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added>2014-04-01 07:20:48</thumb_added>
@@ -2385,18 +2181,18 @@
   <EpisodeName>And the New Lease on Life</EpisodeName>
   <EpisodeNumber>22</EpisodeNumber>
   <FirstAired>2014-04-21</FirstAired>
-  <GuestStars>Hal Linden</GuestStars>
+  <GuestStars>|Hal Linden|Irene Roseen|Paul Tigue|</GuestStars>
   <IMDB_ID>tt3621492</IMDB_ID>
   <Language>en</Language>
   <Overview>When Max and Caroline find out the lease is up on their apartment, they’re forced to find the original tenant and have him re-sign, claiming he still lives there, or risk being evicted.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>18</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>26</RatingCount>
   <SeasonNumber>3</SeasonNumber>
-  <Writer>Sonny Lee|Patrick Walsh</Writer>
-  <absolute_number></absolute_number>
+  <Writer>|Sonny Lee|Patrick Walsh|</Writer>
+  <absolute_number>70</absolute_number>
   <filename>episodes/248741/4832996.jpg</filename>
-  <lastupdated>1405177006</lastupdated>
+  <lastupdated>1433639147</lastupdated>
   <seasonid>522927</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added>2014-04-17 15:15:34</thumb_added>
@@ -2416,18 +2212,18 @@
   <EpisodeName>And the Free Money</EpisodeName>
   <EpisodeNumber>23</EpisodeNumber>
   <FirstAired>2014-04-28</FirstAired>
-  <GuestStars></GuestStars>
+  <GuestStars>|Peter Onorati|Ben Giroux|David Bickford|</GuestStars>
   <IMDB_ID>tt3640930</IMDB_ID>
   <Language>en</Language>
   <Overview>When Caroline and Max join Sophie at the racetrack as guests of Sophie's new bookie boyfriend, Caroline's reignited love for horse racing gets out of hand.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.2</Rating>
-  <RatingCount>16</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>26</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Charles Brottmiller</Writer>
-  <absolute_number></absolute_number>
+  <absolute_number>71</absolute_number>
   <filename>episodes/248741/4832997.jpg</filename>
-  <lastupdated>1405828220</lastupdated>
+  <lastupdated>1433639174</lastupdated>
   <seasonid>522927</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added>2014-04-24 15:57:36</thumb_added>
@@ -2447,18 +2243,18 @@
   <EpisodeName>And the First Degree</EpisodeName>
   <EpisodeNumber>24</EpisodeNumber>
   <FirstAired>2014-05-05</FirstAired>
-  <GuestStars></GuestStars>
+  <GuestStars>|Carlos Jacott|Adam Irigoyen|Brittany Ross|Michael Gonzales|Betty A. Bridges|</GuestStars>
   <IMDB_ID>tt3652280</IMDB_ID>
   <Language>en</Language>
   <Overview>When Caroline discovers that Max didn’t graduate high school by failing to show up for only one exam, she decides to help her best friend get her degree – and reconnect with her estranged mother.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>14</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>21</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Morgan Murphy</Writer>
-  <absolute_number></absolute_number>
+  <absolute_number>72</absolute_number>
   <filename>episodes/248741/4832998.jpg</filename>
-  <lastupdated>1405828315</lastupdated>
+  <lastupdated>1433639051</lastupdated>
   <seasonid>522927</seasonid>
   <seriesid>248741</seriesid>
   <thumb_added>2014-04-30 16:27:12</thumb_added>
@@ -2473,27 +2269,678 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>TBA</EpisodeName>
+  <Director>Don Scardino</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>And the Reality Problem</EpisodeName>
   <EpisodeNumber>1</EpisodeNumber>
   <FirstAired>2014-10-27</FirstAired>
+  <GuestStars>|Kim Kardashian West|Lauren Weedman|Morgan Krantz|</GuestStars>
+  <IMDB_ID>tt3596122</IMDB_ID>
+  <Language>en</Language>
+  <Overview>A reality show producer approaches Max and Caroline about shooting an episode of 'Keeping Up With The Kardashians' at their cupcake window.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>15</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Michael Patrick King</Writer>
+  <absolute_number>73</absolute_number>
+  <filename>episodes/248741/4845470.jpg</filename>
+  <lastupdated>1433639469</lastupdated>
+  <seasonid>581445</seasonid>
+  <seriesid>248741</seriesid>
+  <thumb_added>2014-09-25 08:10:13</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5008130</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Don Scardino</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>And the DJ Face</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2014-11-03</FirstAired>
+  <GuestStars>|Natalie Dreyfuss|Nicholas Cutro|Dinora Walcott|Jesse Metcalfe|</GuestStars>
+  <IMDB_ID>tt4095844</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Max is embarrassed when she discovers her Tuesday night boyfriend is a DJ at a grocery chain.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>11</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Liz Astrof</Writer>
+  <absolute_number>74</absolute_number>
+  <filename>episodes/248741/5008130.jpg</filename>
+  <lastupdated>1433639285</lastupdated>
+  <seasonid>581445</seasonid>
+  <seriesid>248741</seriesid>
+  <thumb_added>2014-10-17 12:25:26</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5008131</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Don Scardino</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>And the Childhood Not Included</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2014-11-10</FirstAired>
+  <GuestStars>|J.J. Totah|Lindsey Stoddart|</GuestStars>
+  <IMDB_ID>tt4153684</IMDB_ID>
+  <Language>en</Language>
+  <Overview>When Caroline accidentally loses Han’s expensive fish while cleaning the tank, Max considers selling a sentimental gift she just received from her mother in order to pay for a new one.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>14</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Michelle Nadar</Writer>
+  <absolute_number>75</absolute_number>
+  <filename>episodes/248741/5008131.jpg</filename>
+  <lastupdated>1433639424</lastupdated>
+  <seasonid>581445</seasonid>
+  <seriesid>248741</seriesid>
+  <thumb_added>2014-10-23 12:16:16</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5007198</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Don Scardino</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>And the Old Bike Yarn</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2014-11-17</FirstAired>
+  <GuestStars>|Caitlin Kimball|Duncan Bravo|</GuestStars>
+  <IMDB_ID>tt4171730</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Caroline takes an abandoned bicycle in order to start a delivery service for their cupcake business, but discovers that Max never learned how to ride one.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>12</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Patrick Walsh</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/248741/5007198.jpg</filename>
+  <lastupdated>1433639325</lastupdated>
+  <seasonid>581445</seasonid>
+  <seriesid>248741</seriesid>
+  <thumb_added>2014-11-08 12:12:46</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5008157</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Don Scardino</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>And the Brand Job</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2014-11-24</FirstAired>
+  <GuestStars>|David Hoffman|Joe Nunez|Megan Davis|Nick McCallum|Aimee McKay|Brian Zarin|</GuestStars>
+  <IMDB_ID>tt4047672</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Max and Caroline's partnership - and friendship - is almost torn apart when Caroline drags Max to a seminar to help brand their cupcake business.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.3</Rating>
+  <RatingCount>13</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Morgan Murphy</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/248741/5008157.jpg</filename>
+  <lastupdated>1433639160</lastupdated>
+  <seasonid>581445</seasonid>
+  <seriesid>248741</seriesid>
+  <thumb_added>2014-11-17 12:07:49</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4997470</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Don Scardino</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>And the Model Apartment</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2014-12-08</FirstAired>
+  <GuestStars>|Drew Droege|Lily Aldridge|Martha Hunt|Vincent M. Ward|</GuestStars>
+  <IMDB_ID>tt4205612</IMDB_ID>
+  <Language>en</Language>
+  <Overview>When Max and Caroline put their apartment up for rent on AirBnb, claiming it offers an authentic “Williamsburg experience,” a group of supermodels decide it would be a fun place for a girls’ weekend.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>13</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Linda Videtti Figueiredo</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/248741/4997470.jpg</filename>
+  <lastupdated>1433639006</lastupdated>
+  <seasonid>581445</seasonid>
+  <seriesid>248741</seriesid>
+  <thumb_added>2014-11-25 12:03:35</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5006412</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Don Scardino</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>And a Loan for Christmas</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2014-12-15</FirstAired>
+  <GuestStars>|Nico Santos|Tessa Goss|Hope Shapiro|</GuestStars>
+  <IMDB_ID>tt4116608</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Max and Caroline get a bank loan so they can mass-produce their cupcake T-shirts to sell at high-end boutiques. Also, the diner gang poses in Chestnut’s barn as part of a holiday decorating contest Sophie entered.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>11</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Charles Brottmiller</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/248741/5006412.jpg</filename>
+  <lastupdated>1433639369</lastupdated>
+  <seasonid>581445</seasonid>
+  <seriesid>248741</seriesid>
+  <thumb_added>2014-12-05 10:04:01</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5037508</id>
+  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Don Scardino</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>And the Fun Factory</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2015-01-05</FirstAired>
+  <GuestStars>|James Patrick Stuart|Joseph Ferrante|Elizabeth Regen|Jaime Moyer|Jonathan Kowalsky|</GuestStars>
+  <IMDB_ID>tt4138602</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Max and Caroline select a factory to produce their cupcake T-shirts, but become suspicious of the work conditions there due to their overly-enthusiastic employees.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>11</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Michael Rowe</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/248741/5037508.jpg</filename>
+  <lastupdated>1433639348</lastupdated>
+  <seasonid>581445</seasonid>
+  <seriesid>248741</seriesid>
+  <thumb_added>2014-12-17 12:24:20</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5065867</id>
+  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Don Scardino</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>And the Past and the Furious</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2015-01-19</FirstAired>
+  <GuestStars>|Matt Corboy|Rachael Drummond|James Giordano|</GuestStars>
+  <IMDB_ID>tt4334378</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Caroline is shocked when she receives a Lamborghini for her birthday, which her father ordered for her four years ago. Meanwhile, Oleg has something big planned for Sophie.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>8</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>|Liz Astrof|Michelle Nader|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/248741/5065867.jpg</filename>
+  <lastupdated>1429650146</lastupdated>
+  <seasonid>581445</seasonid>
+  <seriesid>248741</seriesid>
+  <thumb_added>2015-01-07 18:51:11</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5065868</id>
+  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Don Scardino</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>And the Move-In Meltdown</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2015-02-02</FirstAired>
   <GuestStars></GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
+  <Overview>Max, Caroline, Earl and Han help Oleg move into Sophie’s apartment until she begins turning away all of his things.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>12</RatingCount>
   <SeasonNumber>4</SeasonNumber>
-  <Writer></Writer>
+  <Writer>Patrick Walsh</Writer>
   <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1403646961</lastupdated>
+  <filename>episodes/248741/5065868.jpg</filename>
+  <lastupdated>1429650156</lastupdated>
   <seasonid>581445</seasonid>
   <seriesid>248741</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2015-01-23 14:57:01</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5081996</id>
+  <Combined_episodenumber>11</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Don Scardino</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>And the Crime Ring</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired>2015-02-09</FirstAired>
+  <GuestStars>|Diane Delano|Jean Grae|Tyler Cook|Sherry Mandujano|Marlena Poles|Cynthia Dallas|Patty Guggenheim|Molly Pan|Dave Abrams|Rachael Ashley-Layton|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Max and Caroline are arrested for breaking into a cute guy’s apartment to recover the rings Caroline left behind after she spent the night.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.3</Rating>
+  <RatingCount>12</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Morgan Murphy</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/248741/5081996.jpg</filename>
+  <lastupdated>1429650164</lastupdated>
+  <seasonid>581445</seasonid>
+  <seriesid>248741</seriesid>
+  <thumb_added>2015-01-27 13:22:48</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5095348</id>
+  <Combined_episodenumber>12</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Don Scardino</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>And the Knock-Off Knockout</EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired>2015-02-16</FirstAired>
+  <GuestStars>|Sammi Hanratty|Danielle Macdonald|Jimmie Fowlie|Charlene Deguzman|Mae Aswell|Deborah Baker, Jr.|Patrick Daniel|Joshua M. Bott|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Max and Caroline get into a legal battle with two prep school teens who knocked off their cupcake T-shirts and are selling them.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>9</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Morgan Murphy</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/248741/5095348.jpg</filename>
+  <lastupdated>1434786764</lastupdated>
+  <seasonid>581445</seasonid>
+  <seriesid>248741</seriesid>
+  <thumb_added>2015-02-05 09:01:54</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5095349</id>
+  <Combined_episodenumber>13</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Don Scardino</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>And the Great Unwashed</EpisodeName>
+  <EpisodeNumber>13</EpisodeNumber>
+  <FirstAired>2015-02-23</FirstAired>
+  <GuestStars>|Valerie Harper|Peter Mackenzie|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Max and Caroline find out that one of their customers at the diner is actually a successful photographer who has been keeping a secret.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>7</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Laura Kightlinger</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/248741/5095349.jpg</filename>
+  <lastupdated>1434786780</lastupdated>
+  <seasonid>581445</seasonid>
+  <seriesid>248741</seriesid>
+  <thumb_added>2015-02-05 15:30:00</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5101384</id>
+  <Combined_episodenumber>14</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Don Scardino</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>And the Cupcake Captives</EpisodeName>
+  <EpisodeNumber>14</EpisodeNumber>
+  <FirstAired>2015-03-09</FirstAired>
+  <GuestStars>|Paula Christensen|John Brotherton|Jake Bennett|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Sophie’s wedding shower is interrupted by a hostage situation and Max and Caroline’s cupcake business gets unwanted attention when a tenant is arrested while wearing their company’s T-shirt.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.3</Rating>
+  <RatingCount>8</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Charles Brottmiller</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/248741/5101384.jpg</filename>
+  <lastupdated>1434786796</lastupdated>
+  <seasonid>581445</seasonid>
+  <seriesid>248741</seriesid>
+  <thumb_added>2015-02-26 12:11:50</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5101385</id>
+  <Combined_episodenumber>15</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Fred Savage</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>And the Fat Cat</EpisodeName>
+  <EpisodeNumber>15</EpisodeNumber>
+  <FirstAired>2015-03-23</FirstAired>
+  <GuestStars>|Ian Reed Kesler|Bayne Gibby|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>A handsome businessman returns Max and Caroline’s missing cat, Nancy, who comes home with a big surprise.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>4</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>|Liz Astrof|Michelle Nader|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/248741/5101385.jpg</filename>
+  <lastupdated>1434786814</lastupdated>
+  <seasonid>581445</seasonid>
+  <seriesid>248741</seriesid>
+  <thumb_added>2015-03-12 15:11:35</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5121630</id>
+  <Combined_episodenumber>16</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Fred Savage</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>And the Zero Tolerance</EpisodeName>
+  <EpisodeNumber>16</EpisodeNumber>
+  <FirstAired>2015-03-30</FirstAired>
+  <GuestStars>|Sandra Bernhard|Patrick Cox|Shantel Wislawski|Krystal Harris|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Max and Caroline attempt to bring in extra money to help pay off their bank loan by taking second jobs as a pastry chef and a hostess at a chic restaurant.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>6</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Michael Patrick King</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/248741/5121630.jpg</filename>
+  <lastupdated>1434786826</lastupdated>
+  <seasonid>581445</seasonid>
+  <seriesid>248741</seriesid>
+  <thumb_added>2015-03-17 17:40:51</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5145234</id>
+  <Combined_episodenumber>17</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Fred Savage</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>And the High Hook-Up</EpisodeName>
+  <EpisodeNumber>17</EpisodeNumber>
+  <FirstAired>2015-04-13</FirstAired>
+  <GuestStars>|Sandra Bernhard|Austin Falk|Patrick Cox|Shantel Wislawski|</GuestStars>
+  <IMDB_ID>tt4383092</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Max pursues Nashit, a handsome new waiter at The High, despite Joe's &quot;no hook-up&quot; rule.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>6</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>|Michelle Nader|Liz Astrof|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/248741/5145234.jpg</filename>
+  <lastupdated>1434786847</lastupdated>
+  <seasonid>581445</seasonid>
+  <seriesid>248741</seriesid>
+  <thumb_added>2015-03-31 04:21:46</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5150575</id>
+  <Combined_episodenumber>18</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Fred Savage</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>And the Taste Test</EpisodeName>
+  <EpisodeNumber>18</EpisodeNumber>
+  <FirstAired>2015-04-20</FirstAired>
+  <GuestStars>|Sandra Bernhard|Austin Falk|Patrick Cox|Doug Budin|Sabrina Revelle|Ozioma Akagha|Robin McDonald|Gary Rubenstein|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>When Sophie takes Max and Caroline shopping for their bridesmaids’ dresses, the girls enlist the diner gang’s help to hide the ugliest ones, in the hopes of avoiding complete and utter humiliation.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>7</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>|Charles Brottmiller|Justin Sayre|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/248741/5150575.jpg</filename>
+  <lastupdated>1434786858</lastupdated>
+  <seasonid>581445</seasonid>
+  <seriesid>248741</seriesid>
+  <thumb_added>2015-04-06 18:14:34</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5160379</id>
+  <Combined_episodenumber>19</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Fred Savage</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>And the Look of the Irish</EpisodeName>
+  <EpisodeNumber>19</EpisodeNumber>
+  <FirstAired>2015-04-27</FirstAired>
+  <GuestStars>|Sandra Bernhard|Austin Falk|Patrick Cox|Nadia Dajani|Mary Jo Smith|Christopher Corbin|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Max and Caroline try to break Nash into the modeling business in an effort to bring in extra money acting as his managers. Also, Sophie and Oleg attempt to keep celibate for 30 days before their wedding.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.2</Rating>
+  <RatingCount>5</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>|Patrick Walsh|Karen Kilgariff|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/248741/5160379.jpg</filename>
+  <lastupdated>1433639134</lastupdated>
+  <seasonid>581445</seasonid>
+  <seriesid>248741</seriesid>
+  <thumb_added>2015-04-09 21:13:50</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5160381</id>
+  <Combined_episodenumber>20</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Fred Savage</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>And the Minor Problem</EpisodeName>
+  <EpisodeNumber>20</EpisodeNumber>
+  <FirstAired>2015-05-04</FirstAired>
+  <GuestStars>|Sandra Bernhard|Austin Falk|Patrick Cox|Nadia Dajani|DC Pierson|Tasha Ames|Daniele Gaither|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Max and Caroline’s attempt to break Nash into the modeling business comes to a screeching halt when his mother arrives from Ireland to retrieve her son.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.3</Rating>
+  <RatingCount>6</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Liz Astrof</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/248741/5160381.jpg</filename>
+  <lastupdated>1429123550</lastupdated>
+  <seasonid>581445</seasonid>
+  <seriesid>248741</seriesid>
+  <thumb_added>2015-04-15 11:45:02</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5191835</id>
+  <Combined_episodenumber>21</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Fred Savage</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>And the Grate Expectations</EpisodeName>
+  <EpisodeNumber>21</EpisodeNumber>
+  <FirstAired>2015-05-11</FirstAired>
+  <GuestStars>|Patrick Cox|Jonathan Chase|Sherry Weston|Ilia Volock|Jacob Ramirez|Jonathan Marballi|Rafael Petardi|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Max and Caroline help launch the new branch of The High at JFK airport, and Sophie discovers that Oleg may have an ulterior motive for wanting to marry her.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>6.5</Rating>
+  <RatingCount>4</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Michelle Nader</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/248741/5191835.jpg</filename>
+  <lastupdated>1431034655</lastupdated>
+  <seasonid>581445</seasonid>
+  <seriesid>248741</seriesid>
+  <thumb_added>2015-05-07 14:36:47</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5197757</id>
+  <Combined_episodenumber>22</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Michael Patrick King</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>And the Disappointing Unit</EpisodeName>
+  <EpisodeNumber>22</EpisodeNumber>
+  <FirstAired>2015-05-18</FirstAired>
+  <GuestStars>|Caroline Rhea|Patrick Cox|Laura Knightlinger|Mo Aboul-Zelof|Jay Hollingsworth|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Max and Caroline are tasked with retrieving Sophie’s wedding dress from customs and safely transporting it to the church in time for her big wedding.  </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.2</Rating>
+  <RatingCount>5</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Michael Patrick King</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/248741/5197757.jpg</filename>
+  <lastupdated>1431495100</lastupdated>
+  <seasonid>581445</seasonid>
+  <seriesid>248741</seriesid>
+  <thumb_added>2015-04-29 13:43:04</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 </Data>

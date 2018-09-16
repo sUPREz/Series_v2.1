@@ -9,11 +9,11 @@
   <Genre>|Comedy|Drama|Fantasy|Mystery|Romance|</Genre>
   <IMDB_ID>tt0925266</IMDB_ID>
   <Language>en</Language>
-  <Network>ABC</Network>
+  <Network>ABC (US)</Network>
   <NetworkID></NetworkID>
   <Overview>Pushing Daisies centers on the life of Ned, a pie-maker gifted with the mysterious ability to bring dead things back to life by touching them. There are some conditions to this somewhat unusual talent. Ned quickly learns that if something is revived for more than exactly one minute, something of similar &quot;life value&quot; in the vicinity drops dead, as a form of balance. Additionally, if he touches the revived person or thing a second time, it falls dead again, this time permanently.</Overview>
   <Rating>8.7</Rating>
-  <RatingCount>81</RatingCount>
+  <RatingCount>86</RatingCount>
   <Runtime>60</Runtime>
   <SeriesID>68663</SeriesID>
   <SeriesName>Pushing Daisies</SeriesName>
@@ -22,7 +22,7 @@
   <addedBy></addedBy>
   <banner>graphical/80351-g9.jpg</banner>
   <fanart>fanart/original/80351-21.jpg</fanart>
-  <lastupdated>1405278947</lastupdated>
+  <lastupdated>1433709655</lastupdated>
   <poster>posters/80351-2.jpg</poster>
   <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>SH930981</zap2it_id>
@@ -35,12 +35,12 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>1.0</DVD_episodenumber>
   <DVD_season>1</DVD_season>
-  <Director>|Barry Sonnenfeld|</Director>
+  <Director>Barry Sonnenfeld</Director>
   <EpImgFlag></EpImgFlag>
   <EpisodeName>Pie-lette</EpisodeName>
   <EpisodeNumber>1</EpisodeNumber>
   <FirstAired>2007-10-03</FirstAired>
-  <GuestStars>|Patrick Breen|</GuestStars>
+  <GuestStars>Patrick Breen</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>Ned works in a pie store and seems to lead a perfectly normal life. This, however, is far from the truth. Ned can, through the touch of his hand, wake people from the dead. He decides to use this ability of his to solve crimes, but this appears to be much more difficult than it sounds, when he gives life to his childhood crush, and decides to let keep living.</Overview>
@@ -48,10 +48,10 @@
   <Rating>7.7</Rating>
   <RatingCount>30</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>|Bryan Fuller|</Writer>
+  <Writer>Bryan Fuller</Writer>
   <absolute_number>1</absolute_number>
   <filename>episodes/80351/332245.jpg</filename>
-  <lastupdated>1338819476</lastupdated>
+  <lastupdated>1430872976</lastupdated>
   <seasonid>27993</seasonid>
   <seriesid>80351</seriesid>
   <thumb_added></thumb_added>
@@ -66,7 +66,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>2.0</DVD_episodenumber>
   <DVD_season>1</DVD_season>
-  <Director>|Barry Sonnenfeld|</Director>
+  <Director>Barry Sonnenfeld</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Dummy</EpisodeName>
   <EpisodeNumber>2</EpisodeNumber>
@@ -79,10 +79,10 @@
   <Rating>7.0</Rating>
   <RatingCount>22</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>|Peter Ocko|</Writer>
+  <Writer>Peter Ocko</Writer>
   <absolute_number>2</absolute_number>
   <filename>episodes/80351/337018.jpg</filename>
-  <lastupdated>1281033998</lastupdated>
+  <lastupdated>1432660886</lastupdated>
   <seasonid>27993</seasonid>
   <seriesid>80351</seriesid>
   <thumb_added></thumb_added>
@@ -97,7 +97,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>3.0</DVD_episodenumber>
   <DVD_season>1</DVD_season>
-  <Director>|Paul Edwards|</Director>
+  <Director>Paul Edwards</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>The Fun in Funeral</EpisodeName>
   <EpisodeNumber>3</EpisodeNumber>
@@ -110,10 +110,10 @@
   <Rating>7.2</Rating>
   <RatingCount>15</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>|Bryan Fuller|</Writer>
+  <Writer>Bryan Fuller</Writer>
   <absolute_number>3</absolute_number>
   <filename>episodes/80351/337019.jpg</filename>
-  <lastupdated>1281034771</lastupdated>
+  <lastupdated>1430872962</lastupdated>
   <seasonid>27993</seasonid>
   <seriesid>80351</seriesid>
   <thumb_added></thumb_added>
@@ -128,7 +128,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>4.0</DVD_episodenumber>
   <DVD_season>1</DVD_season>
-  <Director>|Adam Kane|</Director>
+  <Director>Adam Kane</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Pigeon</EpisodeName>
   <EpisodeNumber>4</EpisodeNumber>
@@ -141,10 +141,10 @@
   <Rating>7.7</Rating>
   <RatingCount>19</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>|Rina Mimoun|</Writer>
+  <Writer>Rina Mimoun</Writer>
   <absolute_number>4</absolute_number>
   <filename>episodes/80351/337020.jpg</filename>
-  <lastupdated>1281034964</lastupdated>
+  <lastupdated>1432661208</lastupdated>
   <seasonid>27993</seasonid>
   <seriesid>80351</seriesid>
   <thumb_added></thumb_added>
@@ -159,7 +159,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>5.0</DVD_episodenumber>
   <DVD_season>1</DVD_season>
-  <Director>|Peter O'Fallon|</Director>
+  <Director>Peter O'Fallon</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Girth</EpisodeName>
   <EpisodeNumber>5</EpisodeNumber>
@@ -172,10 +172,10 @@
   <Rating>7.6</Rating>
   <RatingCount>16</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>|Katherine Lingenfelter|</Writer>
+  <Writer>Katherine Lingenfelter</Writer>
   <absolute_number>5</absolute_number>
   <filename>episodes/80351/337021.jpg</filename>
-  <lastupdated>1281035164</lastupdated>
+  <lastupdated>1432660908</lastupdated>
   <seasonid>27993</seasonid>
   <seriesid>80351</seriesid>
   <thumb_added></thumb_added>
@@ -190,7 +190,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>6.0</DVD_episodenumber>
   <DVD_season>1</DVD_season>
-  <Director>|Allan Kroeker|</Director>
+  <Director>Allan Kroeker</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Bitches</EpisodeName>
   <EpisodeNumber>6</EpisodeNumber>
@@ -206,7 +206,7 @@
   <Writer>|Chad Gomez Creasey|Dara Resnik Creasey|</Writer>
   <absolute_number>6</absolute_number>
   <filename>episodes/80351/337022.jpg</filename>
-  <lastupdated>1281035309</lastupdated>
+  <lastupdated>1430872970</lastupdated>
   <seasonid>27993</seasonid>
   <seriesid>80351</seriesid>
   <thumb_added></thumb_added>
@@ -221,7 +221,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>7.0</DVD_episodenumber>
   <DVD_season>1</DVD_season>
-  <Director>|Lawrence Trilling|</Director>
+  <Director>Lawrence Trilling</Director>
   <EpImgFlag></EpImgFlag>
   <EpisodeName>Smell of Success</EpisodeName>
   <EpisodeNumber>7</EpisodeNumber>
@@ -234,10 +234,10 @@
   <Rating>7.3</Rating>
   <RatingCount>17</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>|Scott Nimerfro|</Writer>
+  <Writer>Scott Nimerfro</Writer>
   <absolute_number>7</absolute_number>
   <filename>episodes/80351/342713.jpg</filename>
-  <lastupdated>1281035451</lastupdated>
+  <lastupdated>1432660919</lastupdated>
   <seasonid>27993</seasonid>
   <seriesid>80351</seriesid>
   <thumb_added></thumb_added>
@@ -252,7 +252,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>8.0</DVD_episodenumber>
   <DVD_season>1</DVD_season>
-  <Director>|Allan Kroeker|</Director>
+  <Director>Allan Kroeker</Director>
   <EpImgFlag></EpImgFlag>
   <EpisodeName>Bitter Sweets</EpisodeName>
   <EpisodeNumber>8</EpisodeNumber>
@@ -265,10 +265,10 @@
   <Rating>6.9</Rating>
   <RatingCount>14</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>|Abby Gewanter|</Writer>
+  <Writer>Abby Gewanter</Writer>
   <absolute_number>8</absolute_number>
   <filename>episodes/80351/343613.jpg</filename>
-  <lastupdated>1281035644</lastupdated>
+  <lastupdated>1430872948</lastupdated>
   <seasonid>27993</seasonid>
   <seriesid>80351</seriesid>
   <thumb_added></thumb_added>
@@ -283,7 +283,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>9.0</DVD_episodenumber>
   <DVD_season>1</DVD_season>
-  <Director>|Brian Dannelly|</Director>
+  <Director>Brian Dannelly</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Corpsicle</EpisodeName>
   <EpisodeNumber>9</EpisodeNumber>
@@ -296,10 +296,10 @@
   <Rating>6.9</Rating>
   <RatingCount>14</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>|Lisa Joy|</Writer>
+  <Writer>Lisa Joy</Writer>
   <absolute_number>9</absolute_number>
   <filename>episodes/80351/345062.jpg</filename>
-  <lastupdated>1281035879</lastupdated>
+  <lastupdated>1430873087</lastupdated>
   <seasonid>27993</seasonid>
   <seriesid>80351</seriesid>
   <thumb_added></thumb_added>
@@ -314,7 +314,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>1.0</DVD_episodenumber>
   <DVD_season>2</DVD_season>
-  <Director>|Adam Kane|</Director>
+  <Director>Adam Kane</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Bzzzzzzzzz!</EpisodeName>
   <EpisodeNumber>1</EpisodeNumber>
@@ -327,10 +327,10 @@
   <Rating>7.3</Rating>
   <RatingCount>16</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>|Bryan Fuller|</Writer>
+  <Writer>Bryan Fuller</Writer>
   <absolute_number>10</absolute_number>
   <filename>episodes/80351/387584.jpg</filename>
-  <lastupdated>1325518182</lastupdated>
+  <lastupdated>1430872955</lastupdated>
   <seasonid>34189</seasonid>
   <seriesid>80351</seriesid>
   <thumb_added></thumb_added>
@@ -345,7 +345,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>2.0</DVD_episodenumber>
   <DVD_season>2</DVD_season>
-  <Director>|Lawrence Trilling|</Director>
+  <Director>Lawrence Trilling</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Circus Circus</EpisodeName>
   <EpisodeNumber>2</EpisodeNumber>
@@ -358,10 +358,10 @@
   <Rating>7.2</Rating>
   <RatingCount>13</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>|Peter Ocko|</Writer>
+  <Writer>Peter Ocko</Writer>
   <absolute_number>11</absolute_number>
   <filename>episodes/80351/387585.jpg</filename>
-  <lastupdated>1325517675</lastupdated>
+  <lastupdated>1430873047</lastupdated>
   <seasonid>34189</seasonid>
   <seriesid>80351</seriesid>
   <thumb_added></thumb_added>
@@ -376,7 +376,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>3.0</DVD_episodenumber>
   <DVD_season>2</DVD_season>
-  <Director>|Peter O'Fallon|</Director>
+  <Director>Peter O'Fallon</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Bad Habits</EpisodeName>
   <EpisodeNumber>3</EpisodeNumber>
@@ -392,7 +392,7 @@
   <Writer>|Gretchen J. Berg|Aaron Harberts|</Writer>
   <absolute_number>12</absolute_number>
   <filename>episodes/80351/387586.jpg</filename>
-  <lastupdated>1325517690</lastupdated>
+  <lastupdated>1430872942</lastupdated>
   <seasonid>34189</seasonid>
   <seriesid>80351</seriesid>
   <thumb_added></thumb_added>
@@ -407,7 +407,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>4.0</DVD_episodenumber>
   <DVD_season>2</DVD_season>
-  <Director>|Peter Lauer|</Director>
+  <Director>Peter Lauer</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Frescorts</EpisodeName>
   <EpisodeNumber>4</EpisodeNumber>
@@ -423,7 +423,7 @@
   <Writer>|Lisa Joy|Gretchen J. Berg|Aaron Harberts|</Writer>
   <absolute_number>13</absolute_number>
   <filename>episodes/80351/387587.jpg</filename>
-  <lastupdated>1325517705</lastupdated>
+  <lastupdated>1432661007</lastupdated>
   <seasonid>34189</seasonid>
   <seriesid>80351</seriesid>
   <thumb_added></thumb_added>
@@ -438,7 +438,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>5.0</DVD_episodenumber>
   <DVD_season>2</DVD_season>
-  <Director>|Lawrence Trilling|</Director>
+  <Director>Lawrence Trilling</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Dim Sum Lose Some</EpisodeName>
   <EpisodeNumber>5</EpisodeNumber>
@@ -451,10 +451,10 @@
   <Rating>7.2</Rating>
   <RatingCount>13</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>|Davey Holmes|</Writer>
+  <Writer>Davey Holmes</Writer>
   <absolute_number>14</absolute_number>
   <filename>episodes/80351/387588.jpg</filename>
-  <lastupdated>1325517732</lastupdated>
+  <lastupdated>1432661038</lastupdated>
   <seasonid>34189</seasonid>
   <seriesid>80351</seriesid>
   <thumb_added></thumb_added>
@@ -469,7 +469,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>6.0</DVD_episodenumber>
   <DVD_season>2</DVD_season>
-  <Director>|Adam Kane|</Director>
+  <Director>Adam Kane</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Oh Oh Oh... It's Magic</EpisodeName>
   <EpisodeNumber>6</EpisodeNumber>
@@ -482,10 +482,10 @@
   <Rating>7.4</Rating>
   <RatingCount>14</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>|Katherine Lingenfelter|</Writer>
+  <Writer>Katherine Lingenfelter</Writer>
   <absolute_number>15</absolute_number>
   <filename>episodes/80351/387589.jpg</filename>
-  <lastupdated>1325517756</lastupdated>
+  <lastupdated>1432661056</lastupdated>
   <seasonid>34189</seasonid>
   <seriesid>80351</seriesid>
   <thumb_added></thumb_added>
@@ -500,7 +500,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>7.0</DVD_episodenumber>
   <DVD_season>2</DVD_season>
-  <Director>|Paul Shapiro|</Director>
+  <Director>Paul Shapiro</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Robbing Hood</EpisodeName>
   <EpisodeNumber>7</EpisodeNumber>
@@ -513,10 +513,10 @@
   <Rating>7.5</Rating>
   <RatingCount>12</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>|Jim Danger Gray|</Writer>
+  <Writer>Jim Danger Gray</Writer>
   <absolute_number>16</absolute_number>
   <filename>episodes/80351/387590.jpg</filename>
-  <lastupdated>1325517776</lastupdated>
+  <lastupdated>1432661101</lastupdated>
   <seasonid>34189</seasonid>
   <seriesid>80351</seriesid>
   <thumb_added></thumb_added>
@@ -531,7 +531,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>8.0</DVD_episodenumber>
   <DVD_season>2</DVD_season>
-  <Director>|Peter Lauer|</Director>
+  <Director>Peter Lauer</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Comfort Food</EpisodeName>
   <EpisodeNumber>8</EpisodeNumber>
@@ -544,10 +544,10 @@
   <Rating>7.9</Rating>
   <RatingCount>12</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>|Douglas Petrie|</Writer>
+  <Writer>Douglas Petrie</Writer>
   <absolute_number>17</absolute_number>
   <filename>episodes/80351/387591.jpg</filename>
-  <lastupdated>1325517792</lastupdated>
+  <lastupdated>1432661117</lastupdated>
   <seasonid>34189</seasonid>
   <seriesid>80351</seriesid>
   <thumb_added></thumb_added>
@@ -562,7 +562,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>9.0</DVD_episodenumber>
   <DVD_season>2</DVD_season>
-  <Director>|Lawrence Trilling|</Director>
+  <Director>Lawrence Trilling</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>The Legend of Merle McQuoddy</EpisodeName>
   <EpisodeNumber>9</EpisodeNumber>
@@ -578,7 +578,7 @@
   <Writer>|Chad Gomez Creasey|Dara Resnik Creasey|</Writer>
   <absolute_number>18</absolute_number>
   <filename>episodes/80351/411889.jpg</filename>
-  <lastupdated>1325517809</lastupdated>
+  <lastupdated>1430872983</lastupdated>
   <seasonid>34189</seasonid>
   <seriesid>80351</seriesid>
   <thumb_added></thumb_added>
@@ -593,7 +593,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>10.0</DVD_episodenumber>
   <DVD_season>2</DVD_season>
-  <Director>|Tricia Brock|</Director>
+  <Director>Tricia Brock</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>The Norwegians</EpisodeName>
   <EpisodeNumber>10</EpisodeNumber>
@@ -606,10 +606,10 @@
   <Rating>7.7</Rating>
   <RatingCount>15</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>|Scott Nimerfro|</Writer>
+  <Writer>Scott Nimerfro</Writer>
   <absolute_number>19</absolute_number>
   <filename>episodes/80351/408062.jpg</filename>
-  <lastupdated>1325517825</lastupdated>
+  <lastupdated>1430873066</lastupdated>
   <seasonid>34189</seasonid>
   <seriesid>80351</seriesid>
   <thumb_added></thumb_added>
@@ -624,7 +624,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>11.0</DVD_episodenumber>
   <DVD_season>2</DVD_season>
-  <Director>|Julie Anne Robinson|</Director>
+  <Director>Julie Anne Robinson</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Window Dressed to Kill </EpisodeName>
   <EpisodeNumber>11</EpisodeNumber>
@@ -637,10 +637,10 @@
   <Rating>7.4</Rating>
   <RatingCount>16</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>|Abby Gewanter|</Writer>
+  <Writer>Abby Gewanter</Writer>
   <absolute_number>20</absolute_number>
   <filename>episodes/80351/387592.jpg</filename>
-  <lastupdated>1325517847</lastupdated>
+  <lastupdated>1432661147</lastupdated>
   <seasonid>34189</seasonid>
   <seriesid>80351</seriesid>
   <thumb_added></thumb_added>
@@ -655,7 +655,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>12.0</DVD_episodenumber>
   <DVD_season>2</DVD_season>
-  <Director>|Dean White|</Director>
+  <Director>Dean White</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Water &amp; Power</EpisodeName>
   <EpisodeNumber>12</EpisodeNumber>
@@ -671,7 +671,7 @@
   <Writer>|Lisa Joy|Jim Danger Gray|Peter Ocko|</Writer>
   <absolute_number>21</absolute_number>
   <filename>episodes/80351/424289.jpg</filename>
-  <lastupdated>1325517862</lastupdated>
+  <lastupdated>1432661156</lastupdated>
   <seasonid>34189</seasonid>
   <seriesid>80351</seriesid>
   <thumb_added></thumb_added>
@@ -686,7 +686,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>13.0</DVD_episodenumber>
   <DVD_season>2</DVD_season>
-  <Director>|Lawrence Trilling|</Director>
+  <Director>Lawrence Trilling</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Kerplunk </EpisodeName>
   <EpisodeNumber>13</EpisodeNumber>
@@ -702,7 +702,7 @@
   <Writer>|Gretchen J. Berg|Aaron Harberts|</Writer>
   <absolute_number>22</absolute_number>
   <filename>episodes/80351/424290.jpg</filename>
-  <lastupdated>1325517880</lastupdated>
+  <lastupdated>1432661169</lastupdated>
   <seasonid>34189</seasonid>
   <seriesid>80351</seriesid>
   <thumb_added></thumb_added>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Data><Series>
   <id>264492</id>
-  <Actors>|Dean Norris|Mike Vogel|Britt Robertson|Nicholas Strong|Alexander Koch|Rachelle Lefevre|Colin Ford|Aisha Hinds|Mackenzie Lintz|Natalie Zea|John Elvis|Jolene Purdy|Natalie Martinez|</Actors>
-  <Airs_DayOfWeek>Monday</Airs_DayOfWeek>
+  <Actors>|Dean Norris|Mike Vogel|Rachelle Lefevre|Max Ehrich|Grace Victoria Cox|John Elvis|Jolene Purdy|Nicholas Strong|Aisha Hinds|Mackenzie Lintz|Alexander Koch|Natalie Martinez|Britt Robertson|Colin Ford|</Actors>
+  <Airs_DayOfWeek>Thursday</Airs_DayOfWeek>
   <Airs_Time>10:00 PM</Airs_Time>
   <ContentRating>TV-14</ContentRating>
   <FirstAired>2013-06-24</FirstAired>
@@ -12,8 +12,8 @@
   <Network>CBS</Network>
   <NetworkID></NetworkID>
   <Overview>An invisible and mysterious force field descends upon a small fictional town in the United States, trapping residents inside, cut off from the rest of civilization. The trapped townsfolk must discover the secrets and purpose of the &quot;dome&quot; and its origins, while coming to learn more than they ever knew about each other.</Overview>
-  <Rating>8.2</Rating>
-  <RatingCount>84</RatingCount>
+  <Rating>7.9</Rating>
+  <RatingCount>114</RatingCount>
   <Runtime>60</Runtime>
   <SeriesID>81915</SeriesID>
   <SeriesName>Under the Dome</SeriesName>
@@ -22,8 +22,8 @@
   <addedBy>369062</addedBy>
   <banner>graphical/264492-g4.jpg</banner>
   <fanart>fanart/original/264492-2.jpg</fanart>
-  <lastupdated>1405877660</lastupdated>
-  <poster>posters/264492-2.jpg</poster>
+  <lastupdated>1434735522</lastupdated>
+  <poster>posters/264492-12.jpg</poster>
   <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>EP01654935</zap2it_id>
 </Series>
@@ -50,16 +50,50 @@
   <SeasonNumber>0</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
-  <airsafter_season>1</airsafter_season>
+  <airsafter_season></airsafter_season>
   <airsbefore_episode>1</airsbefore_episode>
   <airsbefore_season>2</airsbefore_season>
   <filename>episodes/264492/4905314.jpg</filename>
-  <lastupdated>1404557832</lastupdated>
+  <lastupdated>1410268971</lastupdated>
   <seasonid>556863</seasonid>
   <seriesid>264492</seriesid>
   <thumb_added>2014-06-24 04:16:07</thumb_added>
   <thumb_height>225</thumb_height>
   <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5119264</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Welcome Back to Chester's Mill</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>“Welcome Back to Chester’s Mill” highlights the success of Season 1 and examines the character transformations from Season 1 to Season 2.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode>1</airsbefore_episode>
+  <airsbefore_season>2</airsbefore_season>
+  <filename></filename>
+  <lastupdated>1422997747</lastupdated>
+  <seasonid>556863</seasonid>
+  <seriesid>264492</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
 </Episode>
 <Episode>
   <id>4445772</id>
@@ -74,18 +108,18 @@
   <EpisodeName>Pilot</EpisodeName>
   <EpisodeNumber>1</EpisodeNumber>
   <FirstAired>2013-06-24</FirstAired>
-  <GuestStars>Samantha Mathis|Beth Broderick|Jeff Fahey</GuestStars>
+  <GuestStars>|Samantha Mathis|Beth Broderick|Jeff Fahey|</GuestStars>
   <IMDB_ID>tt2656658</IMDB_ID>
   <Language>en</Language>
   <Overview>The residents of Chester's Mill find themselves trapped under an enormous, transparent dome.  Panic escalates as resources dwindle rapidly.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>202</RatingCount>
+  <RatingCount>214</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Brian K. Vaughan</Writer>
   <absolute_number>1</absolute_number>
   <filename>episodes/264492/4445772.jpg</filename>
-  <lastupdated>1405845835</lastupdated>
+  <lastupdated>1431287095</lastupdated>
   <seasonid>506312</seasonid>
   <seriesid>264492</seriesid>
   <thumb_added></thumb_added>
@@ -105,18 +139,18 @@
   <EpisodeName>The Fire</EpisodeName>
   <EpisodeNumber>2</EpisodeNumber>
   <FirstAired>2013-07-01</FirstAired>
-  <GuestStars>Samantha Mathis|Mackenzie Lintz|Beth Broderick|Ned Bellamy</GuestStars>
+  <GuestStars>|Samantha Mathis|Mackenzie Lintz|Beth Broderick|Ned Bellamy|</GuestStars>
   <IMDB_ID>tt2779640</IMDB_ID>
   <Language>en</Language>
   <Overview>Panic is heightened when a house catches on fire in Chester's Mill, but the fire department is outside of the Dome.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>171</RatingCount>
+  <RatingCount>182</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Rick Cleveland</Writer>
   <absolute_number>2</absolute_number>
   <filename>episodes/264492/4558739.jpg</filename>
-  <lastupdated>1405877593</lastupdated>
+  <lastupdated>1431287110</lastupdated>
   <seasonid>506312</seasonid>
   <seriesid>264492</seriesid>
   <thumb_added></thumb_added>
@@ -136,18 +170,18 @@
   <EpisodeName>Manhunt</EpisodeName>
   <EpisodeNumber>3</EpisodeNumber>
   <FirstAired>2013-07-08</FirstAired>
-  <GuestStars>Mackenzie Lintz|Beth Broderick|Ned Bellamy|Leon Rippy</GuestStars>
+  <GuestStars>|Mackenzie Lintz|Beth Broderick|Ned Bellamy|Leon Rippy|</GuestStars>
   <IMDB_ID>tt2821206</IMDB_ID>
   <Language>en</Language>
   <Overview>When a former deputy goes rogue, Big Jim recruits Barbie to join the manhunt to keep the town safe. Meanwhile, Junior is determined to escape the Dome by going underground.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>172</RatingCount>
+  <RatingCount>182</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Adam Stein</Writer>
   <absolute_number>3</absolute_number>
   <filename>episodes/264492/4558740.jpg</filename>
-  <lastupdated>1405877656</lastupdated>
+  <lastupdated>1431287071</lastupdated>
   <seasonid>506312</seasonid>
   <seriesid>264492</seriesid>
   <thumb_added></thumb_added>
@@ -167,18 +201,18 @@
   <EpisodeName>Outbreak</EpisodeName>
   <EpisodeNumber>4</EpisodeNumber>
   <FirstAired>2013-07-15</FirstAired>
-  <GuestStars>Samantha Mathis|Mackenzie Lintz|Ned Bellamy|Leon Rippy|Celia Weston|Crystal Martinez|Elena Varela</GuestStars>
+  <GuestStars>|Samantha Mathis|Mackenzie Lintz|Ned Bellamy|Leon Rippy|Celia Weston|Crystal Martinez|Elena Varela|</GuestStars>
   <IMDB_ID>tt2821450</IMDB_ID>
   <Language>en</Language>
   <Overview>The people of Chester's Mill fall into a state of panic as an outbreak of meningitis strikes their community, threatening their already depleted medical supplies. Meanwhile, Julia continues to search for answers into her husband's disappearance.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>168</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>178</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Peter Calloway</Writer>
   <absolute_number>4</absolute_number>
   <filename>episodes/264492/4558741.jpg</filename>
-  <lastupdated>1403891874</lastupdated>
+  <lastupdated>1431286969</lastupdated>
   <seasonid>506312</seasonid>
   <seriesid>264492</seriesid>
   <thumb_added></thumb_added>
@@ -198,18 +232,18 @@
   <EpisodeName>Blue on Blue</EpisodeName>
   <EpisodeNumber>5</EpisodeNumber>
   <FirstAired>2013-07-22</FirstAired>
-  <GuestStars>Samantha Mathis|Mackenzie Lintz|Beth Broderick|Ned Bellamy|Dale Raoul|Jeff Glor</GuestStars>
+  <GuestStars>|Samantha Mathis|Mackenzie Lintz|Beth Broderick|Ned Bellamy|Dale Raoul|Jeff Glor|</GuestStars>
   <IMDB_ID>tt2821458</IMDB_ID>
   <Language>en</Language>
   <Overview>The Chester's Mill residents receive an unexpected visit from their loved ones on the other side. Meanwhile, the community braces for a threat from outside the Dome.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>157</RatingCount>
+  <RatingCount>168</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Brian K. Vaughan</Writer>
   <absolute_number>5</absolute_number>
   <filename>episodes/264492/4558742.jpg</filename>
-  <lastupdated>1403891899</lastupdated>
+  <lastupdated>1431287058</lastupdated>
   <seasonid>506312</seasonid>
   <seriesid>264492</seriesid>
   <thumb_added></thumb_added>
@@ -229,18 +263,18 @@
   <EpisodeName>The Endless Thirst</EpisodeName>
   <EpisodeNumber>6</EpisodeNumber>
   <FirstAired>2013-07-29</FirstAired>
-  <GuestStars>Samantha Mathis|Mackenzie Lintz|Beth Broderick|Dale Raoul|Leon Rippy|Crystal Martinez</GuestStars>
+  <GuestStars>|Samantha Mathis|Mackenzie Lintz|Beth Broderick|Dale Raoul|Leon Rippy|Crystal Martinez|</GuestStars>
   <IMDB_ID>tt2821460</IMDB_ID>
   <Language>en</Language>
   <Overview>When the town begins to run low on water, the residents of Chester's Mill begin to fight for the remaining resources. Meanwhile, Julia discovers a strange connection that two of the town's residents have with the Dome.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>161</RatingCount>
+  <RatingCount>172</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Soo Hugh</Writer>
   <absolute_number>6</absolute_number>
   <filename>episodes/264492/4558743.jpg</filename>
-  <lastupdated>1403891927</lastupdated>
+  <lastupdated>1431286957</lastupdated>
   <seasonid>506312</seasonid>
   <seriesid>264492</seriesid>
   <thumb_added>2013-07-17 14:03:21</thumb_added>
@@ -260,18 +294,18 @@
   <EpisodeName>Imperfect Circles</EpisodeName>
   <EpisodeNumber>7</EpisodeNumber>
   <FirstAired>2013-08-05</FirstAired>
-  <GuestStars>Samantha Mathis|Mackenzie Lintz|Dale Raoul|Megan Ketch|Leon Rippy</GuestStars>
+  <GuestStars>|Samantha Mathis|Mackenzie Lintz|Dale Raoul|Megan Ketch|Leon Rippy|</GuestStars>
   <IMDB_ID>tt2821462</IMDB_ID>
   <Language>en</Language>
   <Overview>Big Jim takes matters into his own hands when he feels his authority slipping away, and the Dome displays its power when a life is taken just as a newborn arrives.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>163</RatingCount>
+  <RatingCount>173</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Caitlin Parrish</Writer>
   <absolute_number>7</absolute_number>
   <filename>episodes/264492/4558744.jpg</filename>
-  <lastupdated>1403891974</lastupdated>
+  <lastupdated>1431286988</lastupdated>
   <seasonid>506312</seasonid>
   <seriesid>264492</seriesid>
   <thumb_added>2013-07-30 05:08:42</thumb_added>
@@ -291,18 +325,18 @@
   <EpisodeName>Thicker Than Water</EpisodeName>
   <EpisodeNumber>8</EpisodeNumber>
   <FirstAired>2013-08-12</FirstAired>
-  <GuestStars>Mackenzie Lintz|Leon Rippy</GuestStars>
+  <GuestStars>|Mackenzie Lintz|Leon Rippy|</GuestStars>
   <IMDB_ID>tt2821464</IMDB_ID>
   <Language>en</Language>
   <Overview>Junior stands up to his father and is shattered when he discovers the truth about his mother's past. Meanwhile, Julia learns firsthand the powers of the &quot;mini dome.&quot;</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>156</RatingCount>
+  <RatingCount>166</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Adam Stein</Writer>
   <absolute_number>8</absolute_number>
   <filename>episodes/264492/4600353.jpg</filename>
-  <lastupdated>1403892035</lastupdated>
+  <lastupdated>1431287024</lastupdated>
   <seasonid>506312</seasonid>
   <seriesid>264492</seriesid>
   <thumb_added>2013-08-02 11:01:46</thumb_added>
@@ -322,18 +356,18 @@
   <EpisodeName>The Fourth Hand</EpisodeName>
   <EpisodeNumber>9</EpisodeNumber>
   <FirstAired>2013-08-19</FirstAired>
-  <GuestStars>Mackenzie Lintz|Dale Raoul|Natalie Zea</GuestStars>
+  <GuestStars>|Mackenzie Lintz|Dale Raoul|Natalie Zea|</GuestStars>
   <IMDB_ID>tt2821468</IMDB_ID>
   <Language>en</Language>
   <Overview>Barbie and Big Jim realize their lives are more intertwined than they knew when a mysterious woman makes an appearance in Chester's Mill.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>153</RatingCount>
+  <RatingCount>162</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Daniel Truly</Writer>
   <absolute_number>9</absolute_number>
   <filename>episodes/264492/4600354.jpg</filename>
-  <lastupdated>1403892164</lastupdated>
+  <lastupdated>1431287051</lastupdated>
   <seasonid>506312</seasonid>
   <seriesid>264492</seriesid>
   <thumb_added>2013-08-31 07:21:24</thumb_added>
@@ -353,18 +387,18 @@
   <EpisodeName>Let the Games Begin</EpisodeName>
   <EpisodeNumber>10</EpisodeNumber>
   <FirstAired>2013-08-26</FirstAired>
-  <GuestStars>Natalie Zea|Mackenzie Lintz|Mare Winningham|Crystal Martinez</GuestStars>
+  <GuestStars>|Natalie Zea|Mackenzie Lintz|Mare Winningham|Crystal Martinez|</GuestStars>
   <IMDB_ID>tt2821472</IMDB_ID>
   <Language>en</Language>
   <Overview>Julia uncovers the truth about her husband's disappearance and unravels some of Chester's Mill's darkest secrets. Meanwhile, Maxine shows Barbie how she plans to take control of the town.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>142</RatingCount>
+  <RatingCount>155</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>Andres Fischer-Centeno|Peter Calloway</Writer>
+  <Writer>|Andres Fischer-Centeno|Peter Calloway|</Writer>
   <absolute_number>10</absolute_number>
   <filename>episodes/264492/4600355.jpg</filename>
-  <lastupdated>1403892300</lastupdated>
+  <lastupdated>1431287036</lastupdated>
   <seasonid>506312</seasonid>
   <seriesid>264492</seriesid>
   <thumb_added>2013-08-22 05:06:07</thumb_added>
@@ -384,18 +418,18 @@
   <EpisodeName>Speak of the Devil</EpisodeName>
   <EpisodeNumber>11</EpisodeNumber>
   <FirstAired>2013-09-02</FirstAired>
-  <GuestStars>Natalie Zea|Mackenzie Lintz|Mare Winningham|Crystal Martinez</GuestStars>
+  <GuestStars>|Natalie Zea|Mackenzie Lintz|Mare Winningham|Crystal Martinez|</GuestStars>
   <IMDB_ID>tt2821474</IMDB_ID>
   <Language>en</Language>
   <Overview>Big Jim turns the town against Barbie when the truth about his past is revealed. Meanwhile, Maxine makes it personal when she confronts Barbie’s closest ally.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>141</RatingCount>
+  <RatingCount>153</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Scott Gold</Writer>
   <absolute_number>11</absolute_number>
   <filename>episodes/264492/4600356.jpg</filename>
-  <lastupdated>1403892391</lastupdated>
+  <lastupdated>1431286983</lastupdated>
   <seasonid>506312</seasonid>
   <seriesid>264492</seriesid>
   <thumb_added>2013-08-31 07:15:15</thumb_added>
@@ -415,18 +449,18 @@
   <EpisodeName>Exigent Circumstances</EpisodeName>
   <EpisodeNumber>12</EpisodeNumber>
   <FirstAired>2013-09-09</FirstAired>
-  <GuestStars>Mackenzie Lintz|Jason Davis|John Elvis|Crystal Martinez|Jay Gates|Kevin Cassidy|Benjamin Rowe|Chris J. Johnson</GuestStars>
+  <GuestStars>|Mackenzie Lintz|Jason Davis|John Elvis|Crystal Martinez|Jay Gates|Kevin Cassidy|Benjamin Rowe|Chris J. Johnson|</GuestStars>
   <IMDB_ID>tt2821478</IMDB_ID>
   <Language>en</Language>
   <Overview>While the manhunt for Barbie continues, Big Jim gets the residents of Chester’s Mill riled up and the town demands justice for all of Barbie’s supposed crimes. Meanwhile, Joe and Norrie must find a new hiding place for the mini dome.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>140</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>156</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>Adam Stein|Caitlin Parrish</Writer>
+  <Writer>|Adam Stein|Caitlin Parrish|</Writer>
   <absolute_number>12</absolute_number>
   <filename>episodes/264492/4600358.jpg</filename>
-  <lastupdated>1403892448</lastupdated>
+  <lastupdated>1431287079</lastupdated>
   <seasonid>506312</seasonid>
   <seriesid>264492</seriesid>
   <thumb_added>2013-09-07 17:46:02</thumb_added>
@@ -446,18 +480,18 @@
   <EpisodeName>Curtains</EpisodeName>
   <EpisodeNumber>13</EpisodeNumber>
   <FirstAired>2013-09-16</FirstAired>
-  <GuestStars>Samantha Mathis|Mackenzie Lintz|Dale Raoul|John Elvis|Chris J. Johnson|Kevin Patrick Murphy|Zuri Adele</GuestStars>
+  <GuestStars>|Samantha Mathis|Mackenzie Lintz|Dale Raoul|John Elvis|Chris J. Johnson|Kevin Patrick Murphy|Zuri Adele|</GuestStars>
   <IMDB_ID>tt2821482</IMDB_ID>
   <Language>en</Language>
   <Overview>Secrets of the Dome are revealed and Big Jim is determined to put an end to Barbie once and for all. Meanwhile, Junior, Angie, Joe and Norrie discover who the Monarch is after receiving a shocking visit from a familiar face.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>130</RatingCount>
+  <RatingCount>145</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>Brian K. Vaughan|Scott Gold</Writer>
+  <Writer>|Brian K. Vaughan|Scott Gold|</Writer>
   <absolute_number>13</absolute_number>
   <filename>episodes/264492/4600360.jpg</filename>
-  <lastupdated>1405105653</lastupdated>
+  <lastupdated>1431286997</lastupdated>
   <seasonid>506312</seasonid>
   <seriesid>264492</seriesid>
   <thumb_added>2013-09-10 17:25:45</thumb_added>
@@ -466,29 +500,29 @@
 </Episode>
 <Episode>
   <id>4770367</id>
-  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_episodenumber>1.0</Combined_episodenumber>
   <Combined_season>2</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>1.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
   <Director>Jack Bender</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Heads Will Roll</EpisodeName>
   <EpisodeNumber>1</EpisodeNumber>
   <FirstAired>2014-06-30</FirstAired>
-  <GuestStars>Aisha Hinds|Jolene Purdy|Grace Victoria Cox|Sherry Stringfield|Stephen King</GuestStars>
+  <GuestStars>|Aisha Hinds|Jolene Purdy|Grace Victoria Cox|Sherry Stringfield|Stephen King|</GuestStars>
   <IMDB_ID>tt3088612</IMDB_ID>
   <Language>en</Language>
   <Overview>Barbie's life is in Big Jim's hands; the dome becomes magnetized; Julia tries to save the life of a mysterious girl who may have clues about the origin of the dome.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.2</Rating>
-  <RatingCount>31</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>78</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Stephen King</Writer>
   <absolute_number>14</absolute_number>
   <filename>episodes/264492/4770367.jpg</filename>
-  <lastupdated>1405558361</lastupdated>
+  <lastupdated>1431286974</lastupdated>
   <seasonid>573392</seasonid>
   <seriesid>264492</seriesid>
   <thumb_added>2014-07-01 08:55:58</thumb_added>
@@ -497,29 +531,29 @@
 </Episode>
 <Episode>
   <id>4880769</id>
-  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_episodenumber>2.0</Combined_episodenumber>
   <Combined_season>2</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>2.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
   <Director>Ernest Dickerson</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Infestation</EpisodeName>
   <EpisodeNumber>2</EpisodeNumber>
   <FirstAired>2014-07-07</FirstAired>
-  <GuestStars>Matt McHugh||</GuestStars>
+  <GuestStars>|Dale Raoul|Grace Victoria Cox|Matt McHugh|</GuestStars>
   <IMDB_ID>tt3606348</IMDB_ID>
   <Language>en</Language>
   <Overview>When Rebecca discovers an infestation of butterfly eggs on the crops, Barbie risks his life to help her save the town's food supply.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.3</Rating>
-  <RatingCount>29</RatingCount>
+  <Rating>7.2</Rating>
+  <RatingCount>75</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>Kelly Souders|Brian Peterson</Writer>
+  <Writer>|Kelly Souders|Brian Peterson|</Writer>
   <absolute_number>15</absolute_number>
   <filename>episodes/264492/4880769.jpg</filename>
-  <lastupdated>1405830747</lastupdated>
+  <lastupdated>1431287010</lastupdated>
   <seasonid>573392</seasonid>
   <seriesid>264492</seriesid>
   <thumb_added>2014-07-01 09:03:47</thumb_added>
@@ -528,29 +562,29 @@
 </Episode>
 <Episode>
   <id>4903557</id>
-  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_episodenumber>3.0</Combined_episodenumber>
   <Combined_season>2</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>3.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
   <Director>Peter Leto</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Force Majeure</EpisodeName>
   <EpisodeNumber>3</EpisodeNumber>
   <FirstAired>2014-07-14</FirstAired>
-  <GuestStars>Dwight Yoakam</GuestStars>
+  <GuestStars>|Grace Victoria Cox|Sherry Stringfield|Dwight Yoakam|</GuestStars>
   <IMDB_ID>tt3814840</IMDB_ID>
   <Language>en</Language>
   <Overview>Big Jim conducts a census to see how long the town can survive on dwindling resources; acid rain threatens everyone.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.0</Rating>
-  <RatingCount>21</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>76</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Adam Stein</Writer>
   <absolute_number>16</absolute_number>
   <filename>episodes/264492/4903557.jpg</filename>
-  <lastupdated>1405689108</lastupdated>
+  <lastupdated>1431287086</lastupdated>
   <seasonid>573392</seasonid>
   <seriesid>264492</seriesid>
   <thumb_added>2014-07-08 03:49:57</thumb_added>
@@ -559,29 +593,29 @@
 </Episode>
 <Episode>
   <id>4914791</id>
-  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_episodenumber>4.0</Combined_episodenumber>
   <Combined_season>2</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director>|Holly Dale|</Director>
+  <DVD_episodenumber>4.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Holly Dale</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Revelation</EpisodeName>
   <EpisodeNumber>4</EpisodeNumber>
   <FirstAired>2014-07-21</FirstAired>
-  <GuestStars>|Dwight Yoakam|Hannah Black|Austin James Parker|Reide Hale|Megan Ketch|Estes Tarver|Myke Holmes|</GuestStars>
+  <GuestStars>|Grace Victoria Cox|Megan Ketch|Dwight Yoakam|Hannah Black|Austin James Parker|Reide Hale|Estes Tarver|Myke Holmes|</GuestStars>
   <IMDB_ID>tt3659538</IMDB_ID>
   <Language>en</Language>
   <Overview>Rebecca and Big Jim consider extreme measures as the conditions worsen in Chester's Mill; clues about Melanie's connection to the dome are revealed.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>75</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>|Alexandra McNally|</Writer>
+  <Writer>Alexandra McNally</Writer>
   <absolute_number>17</absolute_number>
   <filename>episodes/264492/4914791.jpg</filename>
-  <lastupdated>1405560569</lastupdated>
+  <lastupdated>1431287017</lastupdated>
   <seasonid>573392</seasonid>
   <seriesid>264492</seriesid>
   <thumb_added>2014-07-16 18:33:46</thumb_added>
@@ -590,29 +624,29 @@
 </Episode>
 <Episode>
   <id>4914792</id>
-  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_episodenumber>5.0</Combined_episodenumber>
   <Combined_season>2</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director>Ed Ornelas</Director>
+  <DVD_episodenumber>5.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Edward Ornelas</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Reconciliation</EpisodeName>
   <EpisodeNumber>5</EpisodeNumber>
   <FirstAired>2014-07-28</FirstAired>
-  <GuestStars></GuestStars>
+  <GuestStars>|Grace Victoria Cox|Aisha Hinds|Dale Raoul|</GuestStars>
   <IMDB_ID>tt3676856</IMDB_ID>
   <Language>en</Language>
   <Overview>After Big Jim and Rebecca's plan left the town divided, Julia takes over as the leader of Chester's Mill; Norrie and Joe help Melanie find more clues.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>73</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Cathryn Humphris</Writer>
   <absolute_number>18</absolute_number>
   <filename>episodes/264492/4914792.jpg</filename>
-  <lastupdated>1405440251</lastupdated>
+  <lastupdated>1431286949</lastupdated>
   <seasonid>573392</seasonid>
   <seriesid>264492</seriesid>
   <thumb_added>2014-07-07 16:33:59</thumb_added>
@@ -621,203 +655,358 @@
 </Episode>
 <Episode>
   <id>4914793</id>
-  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_episodenumber>6.0</Combined_episodenumber>
   <Combined_season>2</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director>|Jack Bender|</Director>
-  <EpImgFlag></EpImgFlag>
+  <DVD_episodenumber>6.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Jack Bender</Director>
+  <EpImgFlag>2</EpImgFlag>
   <EpisodeName>In the Dark</EpisodeName>
   <EpisodeNumber>6</EpisodeNumber>
   <FirstAired>2014-08-04</FirstAired>
-  <GuestStars></GuestStars>
+  <GuestStars>|Grace Victoria Cox|Dale Raoul|John Elvis|</GuestStars>
   <IMDB_ID>tt3710316</IMDB_ID>
   <Language>en</Language>
-  <Overview>When Barbie and Sam set out to investigate a mysterious tunnel, a cave-in severs their path back to Chester’s Mill. Meanwhile, Julia and Big Jim face off in a struggle for power as a dust storm rages in the town.</Overview>
+  <Overview>A cave-in severs Barbie and Sam's path back to Chester's Mill during their investigation of a mysterious tunnel; a dust storm rages through the town, as Big Jim and Julia face off in a power struggle.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>66</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>|Caitlin Parrish|</Writer>
+  <Writer>Caitlin Parrish</Writer>
   <absolute_number>19</absolute_number>
-  <filename></filename>
-  <lastupdated>1405458019</lastupdated>
+  <filename>episodes/264492/4914793.jpg</filename>
+  <lastupdated>1431287102</lastupdated>
   <seasonid>573392</seasonid>
   <seriesid>264492</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-07-30 11:14:02</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4914794</id>
-  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_episodenumber>7.0</Combined_episodenumber>
   <Combined_season>2</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
+  <DVD_episodenumber>7.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>David Barrett</Director>
+  <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Going Home</EpisodeName>
   <EpisodeNumber>7</EpisodeNumber>
   <FirstAired>2014-08-11</FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <GuestStars>|Grace Victoria Cox|Brett Cullen|Sherry Stringfield|Dwight Yoakam|Christopher Matthew Cook|Fernando Martinez|Brian Distance|Kendrick Cross|Susan Williams|</GuestStars>
+  <IMDB_ID>tt3817134</IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
+  <Overview>As Barbie descends further into the mysterious tunnel in hope of finding Sam, he comes across a world filled with unanswered questions.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>64</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1404757958</lastupdated>
+  <Writer>Peter Calloway</Writer>
+  <absolute_number>20</absolute_number>
+  <filename>episodes/264492/4914794.jpg</filename>
+  <lastupdated>1431287031</lastupdated>
   <seasonid>573392</seasonid>
   <seriesid>264492</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-08-05 23:44:38</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4930995</id>
-  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_episodenumber>8.0</Combined_episodenumber>
   <Combined_season>2</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>TBA</EpisodeName>
+  <DVD_episodenumber>8.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Jack Bender</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Awakening</EpisodeName>
   <EpisodeNumber>8</EpisodeNumber>
   <FirstAired>2014-08-18</FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <GuestStars>|Grace Victoria Cox|Dale Raoul|Brett Cullen|Max Ehrich|Sherry Stringfield|Dwight Yoakam|Estes Tarver|Angelina Cortez|Curt Willis|Brody Rose|</GuestStars>
+  <IMDB_ID>tt3817136</IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
+  <Overview>Barbie turns to his father for help contacting Julia but realizes that he may not be trustworthy; Big Jim declares himself sheriff of Chester's Mill.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>62</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1405700507</lastupdated>
+  <Writer>|Andres Fischer-Centeno|Daniel Truly|</Writer>
+  <absolute_number>21</absolute_number>
+  <filename>episodes/264492/4930995.jpg</filename>
+  <lastupdated>1431286943</lastupdated>
   <seasonid>573392</seasonid>
   <seriesid>264492</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-08-13 18:31:31</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4930996</id>
-  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_episodenumber>9.0</Combined_episodenumber>
   <Combined_season>2</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
+  <DVD_episodenumber>9.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Peter Weller</Director>
+  <EpImgFlag>2</EpImgFlag>
   <EpisodeName>The Red Door</EpisodeName>
   <EpisodeNumber>9</EpisodeNumber>
   <FirstAired>2014-08-25</FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <GuestStars>|Grace Victoria Cox|Brett Cullen|Max Ehrich|Sherry Stringfield|Brody Rose|Colin Dennard|Jessejames Locorriere|</GuestStars>
+  <IMDB_ID>tt3780272</IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
+  <Overview>Barbie is apprehended by mysterious men and relentlessly interrogated about the Dome; Big Jim forms a deal that could permanently seal the fate of the Chester's Mill residents.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>55</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1405701220</lastupdated>
+  <Writer>|Kelly Souders|Brian Peterson|Adam Stein|</Writer>
+  <absolute_number>22</absolute_number>
+  <filename>episodes/264492/4930996.jpg</filename>
+  <lastupdated>1431287044</lastupdated>
   <seasonid>573392</seasonid>
   <seriesid>264492</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-08-19 21:04:12</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4936620</id>
-  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_episodenumber>10.0</Combined_episodenumber>
   <Combined_season>2</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>TBA</EpisodeName>
+  <DVD_episodenumber>10.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Eriq La Salle</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Fall</EpisodeName>
   <EpisodeNumber>10</EpisodeNumber>
   <FirstAired>2014-09-01</FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <GuestStars>|Grace Victoria Cox|Dale Raoul|Max Ehrich|Sherry Stringfield|Britt Robertson|Estes Tarver|</GuestStars>
+  <IMDB_ID>tt3817140</IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
+  <Overview>Big Jim finally learns what happened to his wife, Pauline; Chester's Mill faces a new threat -- climate change.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>52</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1405700634</lastupdated>
+  <Writer>|Alexandra McNally|Mark Bruner|</Writer>
+  <absolute_number>23</absolute_number>
+  <filename>episodes/264492/4936620.jpg</filename>
+  <lastupdated>1431287063</lastupdated>
   <seasonid>573392</seasonid>
   <seriesid>264492</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-08-27 15:55:28</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4936625</id>
-  <Combined_episodenumber>11</Combined_episodenumber>
+  <Combined_episodenumber>11.0</Combined_episodenumber>
   <Combined_season>2</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>TBA</EpisodeName>
+  <DVD_episodenumber>11.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Jack Bender</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Black Ice</EpisodeName>
   <EpisodeNumber>11</EpisodeNumber>
   <FirstAired>2014-09-08</FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <GuestStars>|Grace Victoria Cox|Max Ehrich|Sherry Stringfield|Dwight Yoakam|Estes Tarver|Mike Whaley|</GuestStars>
+  <IMDB_ID>tt3817142</IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
+  <Overview>Rebecca and Sam try to save Chester's Mill residents as temperatures plunge; Barbie puts his life at risk to help Julia after a terrible accident.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>53</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1405700720</lastupdated>
+  <Writer>|Adam Stein|Peter Calloway|</Writer>
+  <absolute_number>24</absolute_number>
+  <filename>episodes/264492/4936625.jpg</filename>
+  <lastupdated>1431286933</lastupdated>
   <seasonid>573392</seasonid>
   <seriesid>264492</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-09-02 18:00:14</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4936646</id>
-  <Combined_episodenumber>12</Combined_episodenumber>
+  <Combined_episodenumber>12.0</Combined_episodenumber>
   <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>12.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Peter Leto</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Turn</EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired>2014-09-15</FirstAired>
+  <GuestStars>|Grace Victoria Cox|Brett Cullen|Max Ehrich|Sherry Stringfield|Dwight Yoakam|R. Keith Harris|John Elvis|Mike Whaley|</GuestStars>
+  <IMDB_ID>tt3817146</IMDB_ID>
+  <Language>en</Language>
+  <Overview>The latest threat intensifies, leaving Chester's Mill residents at risk of being crushed to death; Melanie's health declines as the egg's fate remains uncertain.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.3</Rating>
+  <RatingCount>53</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>|William Kendall|Daniel Truly|</Writer>
+  <absolute_number>25</absolute_number>
+  <filename>episodes/264492/4936646.jpg</filename>
+  <lastupdated>1431286962</lastupdated>
+  <seasonid>573392</seasonid>
+  <seriesid>264492</seriesid>
+  <thumb_added>2014-09-10 21:36:08</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4936662</id>
+  <Combined_episodenumber>13.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>13.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Jack Bender</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Go Now</EpisodeName>
+  <EpisodeNumber>13</EpisodeNumber>
+  <FirstAired>2014-09-22</FirstAired>
+  <GuestStars>|Grace Victoria Cox|Aisha Hinds|Dale Raoul|Sherry Stringfield|Max Ehrich|</GuestStars>
+  <IMDB_ID>tt3817148</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Just as the walls start to close in on those trapped in Chester's Mill, a possible exit from the dome is revealed.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>53</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>|Caitlin Parrish|Cathryn Humphris|</Writer>
+  <absolute_number>26</absolute_number>
+  <filename>episodes/264492/4936662.jpg</filename>
+  <lastupdated>1431287002</lastupdated>
+  <seasonid>573392</seasonid>
+  <seriesid>264492</seriesid>
+  <thumb_added>2014-09-17 11:42:19</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5100989</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Peter Leto</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Move On</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2015-06-25</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>The residents of Chester’s Mill appear both inside and outside the Dome following their mysterious encounter in the tunnels beneath the town.  As the Dome begins to reveal its ultimate agenda, the townspeople are forced to question what and whom they can trust as fresh threats appear, new residents emerge and surprising alliances form.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Adam Stein</Writer>
+  <absolute_number>27</absolute_number>
+  <filename>episodes/264492/5100989.jpg</filename>
+  <lastupdated>1434068378</lastupdated>
+  <seasonid>609547</seasonid>
+  <seriesid>264492</seriesid>
+  <thumb_added>2015-05-17 04:04:49</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5137427</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>But I'm Not</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2015-06-25</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>The residents of Chester’s Mill appear both inside and outside the Dome following their mysterious encounter in the tunnels beneath the town.  As the Dome begins to reveal its ultimate agenda, the townspeople are forced to question what and whom they can trust as fresh threats appear, new residents emerge and surprising alliances form.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/264492/5137427.jpg</filename>
+  <lastupdated>1434489519</lastupdated>
+  <seasonid>609547</seasonid>
+  <seriesid>264492</seriesid>
+  <thumb_added>2015-06-16 14:18:39</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5137428</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Olatunde Osunsanmi</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Redux</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2015-07-02</FirstAired>
+  <GuestStars>|Bess Rous|Shane Callahan|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>The residents of Chester’s Mill try to move on with their lives in the aftermath of their mysterious experience in the tunnels beneath town. Meanwhile, Big Jim suspects new residents Christine and Eva are keeping secrets concerning the Dome.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Alexandra McNally</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/264492/5137428.jpg</filename>
+  <lastupdated>1434665490</lastupdated>
+  <seasonid>609547</seasonid>
+  <seriesid>264492</seriesid>
+  <thumb_added>2015-05-17 04:05:01</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5137429</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
   <Director></Director>
   <EpImgFlag></EpImgFlag>
-  <EpisodeName>TBA</EpisodeName>
-  <EpisodeNumber>12</EpisodeNumber>
-  <FirstAired>2014-09-15</FirstAired>
+  <EpisodeName>The Kinship</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2015-07-09</FirstAired>
   <GuestStars></GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
@@ -825,30 +1014,30 @@
   <ProductionCode></ProductionCode>
   <Rating></Rating>
   <RatingCount>0</RatingCount>
-  <SeasonNumber>2</SeasonNumber>
+  <SeasonNumber>3</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename></filename>
-  <lastupdated>1405700829</lastupdated>
-  <seasonid>573392</seasonid>
+  <lastupdated>1434496947</lastupdated>
+  <seasonid>609547</seasonid>
   <seriesid>264492</seriesid>
   <thumb_added></thumb_added>
   <thumb_height></thumb_height>
   <thumb_width></thumb_width>
 </Episode>
 <Episode>
-  <id>4936662</id>
-  <Combined_episodenumber>13</Combined_episodenumber>
-  <Combined_season>2</Combined_season>
+  <id>5137430</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
   <Director></Director>
   <EpImgFlag></EpImgFlag>
-  <EpisodeName>TBA</EpisodeName>
-  <EpisodeNumber>13</EpisodeNumber>
-  <FirstAired>2014-09-22</FirstAired>
+  <EpisodeName>Alaska</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2015-07-16</FirstAired>
   <GuestStars></GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
@@ -856,12 +1045,260 @@
   <ProductionCode></ProductionCode>
   <Rating></Rating>
   <RatingCount>0</RatingCount>
-  <SeasonNumber>2</SeasonNumber>
+  <SeasonNumber>3</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename></filename>
-  <lastupdated>1405700925</lastupdated>
-  <seasonid>573392</seasonid>
+  <lastupdated>1434389623</lastupdated>
+  <seasonid>609547</seasonid>
+  <seriesid>264492</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5137431</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Like a House on Fire</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2015-07-23</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1434389661</lastupdated>
+  <seasonid>609547</seasonid>
+  <seriesid>264492</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5137432</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName></EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2015-07-30</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1434281630</lastupdated>
+  <seasonid>609547</seasonid>
+  <seriesid>264492</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5232543</id>
+  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName></EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2015-08-06</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1434281635</lastupdated>
+  <seasonid>609547</seasonid>
+  <seriesid>264492</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5232544</id>
+  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName></EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2015-08-13</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1434281639</lastupdated>
+  <seasonid>609547</seasonid>
+  <seriesid>264492</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5232545</id>
+  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName></EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2015-08-20</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1434281643</lastupdated>
+  <seasonid>609547</seasonid>
+  <seriesid>264492</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5232546</id>
+  <Combined_episodenumber>11</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName></EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired>2015-08-27</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1434281649</lastupdated>
+  <seasonid>609547</seasonid>
+  <seriesid>264492</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5232547</id>
+  <Combined_episodenumber>12</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName></EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired>2015-09-03</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1434281653</lastupdated>
+  <seasonid>609547</seasonid>
+  <seriesid>264492</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5232548</id>
+  <Combined_episodenumber>13</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName></EpisodeName>
+  <EpisodeNumber>13</EpisodeNumber>
+  <FirstAired>2015-09-10</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1434281657</lastupdated>
+  <seasonid>609547</seasonid>
   <seriesid>264492</seriesid>
   <thumb_added></thumb_added>
   <thumb_height></thumb_height>

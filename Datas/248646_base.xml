@@ -3,18 +3,18 @@
   <Series>
     <id>248646</id>
     <Actors>|Sarah Jones|Jorge Garcia|Sam Neill|Jonny Coyne|Parminder Nagra|Leon Rippy|David Hoflin|Robert Forster|Jason Butler Harner|</Actors>
-    <Airs_DayOfWeek>Monday</Airs_DayOfWeek>
-    <Airs_Time>9:00 PM</Airs_Time>
+    <Airs_DayOfWeek></Airs_DayOfWeek>
+    <Airs_Time></Airs_Time>
     <ContentRating>TV-14</ContentRating>
     <FirstAired>2012-01-16</FirstAired>
     <Genre>|Action|Crime|Drama|Science-Fiction|</Genre>
     <IMDB_ID>tt1728102</IMDB_ID>
     <Language>en</Language>
-    <Network>FOX</Network>
+    <Network>FOX (US)</Network>
     <NetworkID></NetworkID>
-    <Overview>In 1963, all the prisoners and guards mysteriously disappear from Alcatraz. In the present day, they resurface and a secret agency are tasked with re-capturing them.</Overview>
+    <Overview>On March 21, 1963, the inmates and guards at Alcatraz prison mysteriously disappear. To cover up the problem, the government reported the prison has been closed because of unsafe conditions. A secret government unit was set up to find the prisoners. Now, in the present-day, the inmates begin returning - unaged and unaware of where they have spent the missing decades - and continue their criminal ways. They are acting out of character and appear to be searching for specific objects. A federal agent employs a police officer and a conspiracy theory novelist to help track them down.</Overview>
     <Rating>8.2</Rating>
-    <RatingCount>75</RatingCount>
+    <RatingCount>76</RatingCount>
     <Runtime>60</Runtime>
     <SeriesID>80121</SeriesID>
     <SeriesName>Alcatraz</SeriesName>
@@ -23,7 +23,7 @@
     <addedBy>342859</addedBy>
     <banner>graphical/248646-g11.jpg</banner>
     <fanart>fanart/original/248646-10.jpg</fanart>
-    <lastupdated>1405429768</lastupdated>
+    <lastupdated>1433658604</lastupdated>
     <poster>posters/248646-6.jpg</poster>
     <tms_wanted_old>1</tms_wanted_old>
     <zap2it_id>EP01419230</zap2it_id>

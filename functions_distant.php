@@ -78,6 +78,8 @@ function GetDistantSerieFull( $SerieID , $alternate = FALSE )
   $Mirrors = GetMirrors();
 
   //*
+  //<mirrorpath_xml>/api/<apikey>/series/<seriesid>/<language>.xml.
+  
   $xmlfile2 = $_BackupMirror."/api/".$_APIKey."/series/".$SerieID."/all/".$_SelectedLanguage.".xml";
   $xmlfile = $Mirrors[1]['mirrorpath']."/api/".$_APIKey."/series/".$SerieID."/all/".$_SelectedLanguage.".xml";
 
@@ -141,8 +143,10 @@ function GetDistantSerieLastUpdated($SerieID)
 function CheckSubtiltesAddicted( $Episode )
 {
   global $CONTENT_LINK;
+  global $CONTENT_TEXT;
   global $_Series;
   global $_Debug;
+  global $_Messages;
 
   $start = utime();
   //http://www.addic7ed.com/serie/[[SerieName]]/[[SeasonNumber]]/[[EpisodeNumber]]/[[EpisodeName]]
@@ -166,48 +170,53 @@ function CheckSubtiltesAddicted( $Episode )
 
   $html = file_get_html( $Addic7ed );
 
+  //print_r_pre($html);
+  //print_r_pre($Addic7ed);
 
-
-  if( strpos( $html->plaintext , "Couldn't find any subs with the specified language. Filter ignored" ) !== false )
-  {
+  if( !$html ){
+    $_Messages[] = str_replace( '[[URL]]' , $Addic7ed , $CONTENT_TEXT['addic7ed.fail']);
     $return[] = array( '_NONE' , $Addic7ed );
-    //echo 'NO FRENCH SUBS YET<br />';
-  }
-  else
-  {
-    $tables = $html->find('table.tabel95 table.tabel95');
-    //echo sizeof( $tables ).' - '.gettype( $tables ).'<br />';
-    if( sizeof( $tables ) < 1 )
+  } else {
+    if( strpos( $html->plaintext , "Couldn't find any subs with the specified language. Filter ignored" ) !== false )
+    {
       $return[] = array( '_NONE' , $Addic7ed );
+      //echo 'NO FRENCH SUBS YET<br />';
+    }
     else
     {
-      foreach( $tables as $table )
+      $tables = $html->find('table.tabel95 table.tabel95');
+      //echo sizeof( $tables ).' - '.gettype( $tables ).'<br />';
+      if( sizeof( $tables ) < 1 )
+        $return[] = array( '_NONE' , $Addic7ed );
+      else
       {
-        //echo $table.'<br />';
-        $version = $table->find('td.NewsTitle');
-        $version = substr( $version[0]->plaintext , 8 , strpos( $version[0]->plaintext , ',' ) - 8  );
-        $HD = $table->find('img[title=720/1080]');
-        $Completed = $table->find('b' , 0);
-        $Link = $table->find('a.buttonDownload');
+        foreach( $tables as $table )
+        {
+          //echo $table.'<br />';
+          $version = $table->find('td.NewsTitle');
+          $version = substr( $version[0]->plaintext , 8 , strpos( $version[0]->plaintext , ',' ) - 8  );
+          $HD = $table->find('img[title=720/1080]');
+          $Completed = $table->find('b' , 0);
+          $Link = $table->find('a.buttonDownload');
 
-        //echo '$Completed: '.$Completed.'<br />';
-        //var_dump( $Completed );
+          //echo '$Completed: '.$Completed.'<br />';
+          //var_dump( $Completed );
 
-        $link_base = 'http://www.addic7ed.com/';
+          $link_base = 'http://www.addic7ed.com/';
 
-        $return_completed = '';
+          $return_completed = '';
 
-        if( $HD[0]->tag == 'img' )
-          $version .= ' (HD)';
-        if( strpos( $Completed->innertext , '%' ) !== false ){
-          $return_completed = substr( $Completed->innertext.' - ' , 0 , strpos( $Completed->innertext , '%' ) +1 );
+          if( $HD[0]->tag == 'img' )
+            $version .= ' (HD)';
+          if( strpos( $Completed->innertext , '%' ) !== false ){
+            $return_completed = substr( $Completed->innertext.' - ' , 0 , strpos( $Completed->innertext , '%' ) +1 );
+          }
+          $return[] = array( $version , $return_completed , $link_base.$Link[0]->getAttribute('href') , $Addic7ed );
+          //var_dump( $return );
         }
-        $return[] = array( $version , $return_completed , $link_base.$Link[0]->getAttribute('href') , $Addic7ed );
-        //var_dump( $return );
       }
     }
   }
-
   $end = utime();
   $run = $end - $start;
 
@@ -219,7 +228,6 @@ function CheckSubtiltesXML( $SerieID , $SeasonNumber , $EpisodeNumber )
 {
   global $_Series;
   global $_ST_EU;
-  global $CONTENT_TEXT;
   global $CONTENT_TEXT;
   global $CONTENT_LINK;
   global $_ST_EU_DownCounter;

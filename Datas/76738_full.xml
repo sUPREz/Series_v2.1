@@ -2,8 +2,8 @@
 <Data><Series>
   <id>76738</id>
   <Actors>|Will Smith|Alfonso Ribeiro|Jeffrey A. Townes|James Avery|Tatyana Ali|Janet Hubert-Whitten|Karyn Parsons|Joseph Marcell|Daphne Maxwell Reid|Ross Bagley|Charlayne Woodard|Tina Lifford|Diedrich Bader|Jenifer Lewis|</Actors>
-  <Airs_DayOfWeek></Airs_DayOfWeek>
-  <Airs_Time></Airs_Time>
+  <Airs_DayOfWeek>Monday</Airs_DayOfWeek>
+  <Airs_Time>8:00 PM</Airs_Time>
   <ContentRating>TV-PG</ContentRating>
   <FirstAired>1990-09-10</FirstAired>
   <Genre>|Comedy|</Genre>
@@ -13,16 +13,16 @@
   <NetworkID></NetworkID>
   <Overview>A wealthy family living in Bel-Air, California, receives a dubious gift from their poorer relations in Philadelphia when  Will Smith arrives as The Fresh Prince Of Bel-Air. Will shatters the sophisticated serenity of Bel-Air with his streetwise common sense, much to the dismay of his upper-crust uncle, Philip Banks (James Avery), Aunt Vivian (Janet Hubert-Whitten and Daphne Maxwell Reid) and three conceited cousins, Carlton (Alfonso Ribeiro), Hilary (Karyn Parsons) and Ashley (Tatyana Ali) - and butler Geoffrey (Joseph Marcell). As the Banks family opens their home - and their checkbook - to their needy relative, Will adapts easily to their indulgent lifestyle. Yet, he reminds everyone that the simplest pleasures of family life can't be bought at any price.</Overview>
   <Rating>8.9</Rating>
-  <RatingCount>47</RatingCount>
+  <RatingCount>53</RatingCount>
   <Runtime>30</Runtime>
   <SeriesID>475</SeriesID>
   <SeriesName>The Fresh Prince of Bel-Air</SeriesName>
   <Status>Ended</Status>
   <added></added>
   <addedBy></addedBy>
-  <banner>graphical/76738-g11.jpg</banner>
-  <fanart>fanart/original/76738-3.jpg</fanart>
-  <lastupdated>1405311423</lastupdated>
+  <banner>graphical/475-g.jpg</banner>
+  <fanart>fanart/original/76738-10.jpg</fanart>
+  <lastupdated>1434650817</lastupdated>
   <poster>posters/76738-1.jpg</poster>
   <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>EP00017413</zap2it_id>
@@ -45,8 +45,8 @@
   <Language>en</Language>
   <Overview>Season One DVD extra - A Fresh Look with the Stars and Creative Team</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>10.0</Rating>
+  <RatingCount>1</RatingCount>
   <SeasonNumber>0</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
@@ -122,7 +122,7 @@
   <airsbefore_episode></airsbefore_episode>
   <airsbefore_season></airsbefore_season>
   <filename>episodes/76738/4481087.jpg</filename>
-  <lastupdated>1358618018</lastupdated>
+  <lastupdated>1428359727</lastupdated>
   <seasonid>24196</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -156,7 +156,7 @@
   <airsbefore_episode></airsbefore_episode>
   <airsbefore_season></airsbefore_season>
   <filename>episodes/76738/4481088.jpg</filename>
-  <lastupdated>1358618334</lastupdated>
+  <lastupdated>1428359737</lastupdated>
   <seasonid>24196</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -273,23 +273,23 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>1.0</DVD_episodenumber>
   <DVD_season>1</DVD_season>
-  <Director>|Debbie Allen|</Director>
+  <Director>Debbie Allen</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>The Fresh Prince Project</EpisodeName>
   <EpisodeNumber>1</EpisodeNumber>
   <FirstAired>1990-09-10</FirstAired>
-  <GuestStars>|Helen Page Camp|</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <GuestStars>Helen Page Camp</GuestStars>
+  <IMDB_ID>tt0583047</IMDB_ID>
   <Language>en</Language>
   <Overview>Aunt Vivian tries to mediate between her husband Philip and the newly arrived Will.</Overview>
   <ProductionCode>446801</ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>19</RatingCount>
+  <Rating>7.2</Rating>
+  <RatingCount>22</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Andy Borowitz|Susan Borowitz|</Writer>
   <absolute_number>1</absolute_number>
   <filename>episodes/76738/213767.jpg</filename>
-  <lastupdated>1399313467</lastupdated>
+  <lastupdated>1434650841</lastupdated>
   <seasonid>11318</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -304,23 +304,23 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>2.0</DVD_episodenumber>
   <DVD_season>1</DVD_season>
-  <Director>|Debbie Allen|</Director>
+  <Director>Debbie Allen</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>Bang the Drum, Ashley</EpisodeName>
   <EpisodeNumber>2</EpisodeNumber>
   <FirstAired>1990-09-17</FirstAired>
   <GuestStars>|Bette Ford|Emma Nasedra|</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt0582942</IMDB_ID>
   <Language>en</Language>
   <Overview>Will persuades Ashley to pawn her violin for a drum set.</Overview>
   <ProductionCode>446802</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>17</RatingCount>
+  <RatingCount>20</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>|Shannon Gaughan|</Writer>
+  <Writer>Shannon Gaughan</Writer>
   <absolute_number>2</absolute_number>
   <filename>episodes/76738/213768.jpg</filename>
-  <lastupdated>1399313561</lastupdated>
+  <lastupdated>1434650866</lastupdated>
   <seasonid>11318</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -335,23 +335,23 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>3.0</DVD_episodenumber>
   <DVD_season>1</DVD_season>
-  <Director>|Jeff Melman|</Director>
+  <Director>Jeff Melman</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>Clubba Hubba</EpisodeName>
   <EpisodeNumber>3</EpisodeNumber>
   <FirstAired>1990-09-24</FirstAired>
   <GuestStars>|Richard Roundtree|Victoria Rowell|Garon Grigsby|John Towney|Tatiana Thumbtzen|Lisa Fuller|</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt0582956</IMDB_ID>
   <Language>en</Language>
   <Overview>Will wants to go out with a beautiful girl he meets at the country club, but first he must figure out how to impress her extremely snobbish and very protective father so he seeks tips from cousin Carlton on becoming preppie.</Overview>
   <ProductionCode>446805</ProductionCode>
-  <Rating>7.2</Rating>
-  <RatingCount>17</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>19</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>|Rob Edwards|</Writer>
+  <Writer>Rob Edwards</Writer>
   <absolute_number>3</absolute_number>
   <filename>episodes/76738/213769.jpg</filename>
-  <lastupdated>1399313616</lastupdated>
+  <lastupdated>1431266565</lastupdated>
   <seasonid>11318</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -366,23 +366,23 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>4.0</DVD_episodenumber>
   <DVD_season>1</DVD_season>
-  <Director>|Jeff Melman|</Director>
+  <Director>Jeff Melman</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>Not With My Pig, You Don't</EpisodeName>
   <EpisodeNumber>4</EpisodeNumber>
   <FirstAired>1990-10-01</FirstAired>
   <GuestStars>|David Downing|Gilbert Lewis|Kathy Griffin|Lewis Gilbert|Jim Mapp|Jeffrey Hayenga|Helen Page Camp|</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt0583014</IMDB_ID>
   <Language>en</Language>
   <Overview>Will tries to smooth things between Philip and his very rural parents when they visit to see him receive an award.</Overview>
   <ProductionCode>446806</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>14</RatingCount>
+  <RatingCount>17</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>|Lisa Rosenthal|</Writer>
+  <Writer>Lisa Rosenthal</Writer>
   <absolute_number>4</absolute_number>
   <filename>episodes/76738/213770.jpg</filename>
-  <lastupdated>1399313681</lastupdated>
+  <lastupdated>1431266618</lastupdated>
   <seasonid>11318</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -397,23 +397,23 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>5.0</DVD_episodenumber>
   <DVD_season>1</DVD_season>
-  <Director>|Jeff Melman|</Director>
+  <Director>Jeff Melman</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>Homeboy, Sweet Homeboy</EpisodeName>
   <EpisodeNumber>5</EpisodeNumber>
   <FirstAired>1990-10-08</FirstAired>
-  <GuestStars>|Don Cheadle|</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <GuestStars>Don Cheadle</GuestStars>
+  <IMDB_ID>tt0582984</IMDB_ID>
   <Language>en</Language>
   <Overview>Will gets a visit from an old pal named Ice Tray, who, to Vivian and Philip's dismay, warms up to Hilary.</Overview>
   <ProductionCode>446804</ProductionCode>
   <Rating>7.0</Rating>
-  <RatingCount>19</RatingCount>
+  <RatingCount>22</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>|Samm-Art Williams|</Writer>
+  <Writer>Samm-Art Williams</Writer>
   <absolute_number>5</absolute_number>
   <filename>episodes/76738/213771.jpg</filename>
-  <lastupdated>1399313749</lastupdated>
+  <lastupdated>1431267049</lastupdated>
   <seasonid>11318</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -428,23 +428,23 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>6.0</DVD_episodenumber>
   <DVD_season>1</DVD_season>
-  <Director>|Jeff Melman|</Director>
+  <Director>Jeff Melman</Director>
   <EpImgFlag></EpImgFlag>
   <EpisodeName>Mistaken Identity</EpisodeName>
   <EpisodeNumber>6</EpisodeNumber>
   <FirstAired>1990-10-15</FirstAired>
   <GuestStars>|Hank Azaria|Dan Desmond|Raymond McLeod|Anthony Auer|Donald Grant|Helen Page Camp|</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt0583008</IMDB_ID>
   <Language>en</Language>
   <Overview>Jailed, Will and Carlton stage a media stunt.</Overview>
   <ProductionCode>446807</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>16</RatingCount>
+  <RatingCount>19</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Susan Borowitz|Andy Borowitz|</Writer>
   <absolute_number>6</absolute_number>
   <filename>episodes/76738/213772.jpg</filename>
-  <lastupdated>1399313821</lastupdated>
+  <lastupdated>1431267572</lastupdated>
   <seasonid>11318</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -459,23 +459,23 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>7.0</DVD_episodenumber>
   <DVD_season>1</DVD_season>
-  <Director>|Jeff Melman|</Director>
+  <Director>Jeff Melman</Director>
   <EpImgFlag></EpImgFlag>
   <EpisodeName>Def Poet's Society</EpisodeName>
   <EpisodeNumber>7</EpisodeNumber>
   <FirstAired>1990-10-22</FirstAired>
   <GuestStars>|Laurel Moglen|Lisa Fuller|Jonathan Emerson|Anthony Johnson|</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt0582962</IMDB_ID>
   <Language>en</Language>
   <Overview>Will joins his prep school's poetry club.</Overview>
   <ProductionCode>446808</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>18</RatingCount>
+  <RatingCount>21</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>|John Bowman|</Writer>
+  <Writer>John Bowman</Writer>
   <absolute_number>7</absolute_number>
   <filename>episodes/76738/213773.jpg</filename>
-  <lastupdated>1399313903</lastupdated>
+  <lastupdated>1431267206</lastupdated>
   <seasonid>11318</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -490,23 +490,23 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>8.1</DVD_episodenumber>
   <DVD_season>1</DVD_season>
-  <Director>|Jeff Melman|</Director>
+  <Director>Jeff Melman</Director>
   <EpImgFlag></EpImgFlag>
   <EpisodeName>Someday Your Prince Will Be in Effect (1)</EpisodeName>
   <EpisodeNumber>8</EpisodeNumber>
   <FirstAired>1990-10-29</FirstAired>
   <GuestStars>|Tler Collins|Paris Vaughn|Tim Russ|Kelly Connell|Patricia Clipper|Mike Barr|DeEdyre J. Burks|Kymberly Newberry|Gina Ravera|Samm-Art Williams|Anastasia N. Ali|Bo Jackson|Quincy Jones|Kadeem Hardison|Malcolm-Jamal Warner|A. B. Sure!|Dwight Heavy D Myers|</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt0583027</IMDB_ID>
   <Language>en</Language>
   <Overview>Carlton and Will, babe magnets. Who will be first to get a date for Hilary's Halloween party?</Overview>
   <ProductionCode>446810A</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>15</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>17</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Cheryl Gard|Shannon Gaughan|Bennie R. Richburg Jr.|</Writer>
   <absolute_number>8</absolute_number>
   <filename>episodes/76738/213774.jpg</filename>
-  <lastupdated>1399313959</lastupdated>
+  <lastupdated>1431266643</lastupdated>
   <seasonid>11318</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -521,23 +521,23 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>8.2</DVD_episodenumber>
   <DVD_season>1</DVD_season>
-  <Director>|Jeff Melman|</Director>
+  <Director>Jeff Melman</Director>
   <EpImgFlag></EpImgFlag>
   <EpisodeName>Someday Your Prince Will Be in Effect (2)</EpisodeName>
   <EpisodeNumber>9</EpisodeNumber>
   <FirstAired>1990-10-29</FirstAired>
   <GuestStars>|Tler Collins|Paris Vaughn|Tim Russ|Kelly Connell|Patricia Clipper|Mike Barr|DeEdyre J. Burks|Kymberly Newberry|Gina Ravera|Samm-Art Williams|Anastasia N. Ali|Bo Jackson|Quincy Jones|Kadeem Hardison|Malcolm-Jamal Warner|A. B. Sure!|Dwight Heavy D Myers|</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt0583028</IMDB_ID>
   <Language>en</Language>
   <Overview>Carlton and Will, babe magnets. Who will be first to get a date for Hilary's Halloween party?</Overview>
   <ProductionCode>446810B</ProductionCode>
-  <Rating>7.1</Rating>
-  <RatingCount>8</RatingCount>
+  <Rating>7.0</Rating>
+  <RatingCount>9</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Cheryl Gard|Shannon Gaughan|Bennie R. Richburg Jr.|</Writer>
   <absolute_number>9</absolute_number>
   <filename>episodes/76738/213775.jpg</filename>
-  <lastupdated>1399314000</lastupdated>
+  <lastupdated>1431267471</lastupdated>
   <seasonid>11318</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -552,23 +552,23 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>9.0</DVD_episodenumber>
   <DVD_season>1</DVD_season>
-  <Director>|Rita Rogers Blye|</Director>
+  <Director>Rita Rogers Blye</Director>
   <EpImgFlag></EpImgFlag>
   <EpisodeName>Kiss My Butler</EpisodeName>
   <EpisodeNumber>10</EpisodeNumber>
   <FirstAired>1990-11-05</FirstAired>
-  <GuestStars>|Naomi Campbell|</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <GuestStars>Naomi Campbell</GuestStars>
+  <IMDB_ID>tt0583001</IMDB_ID>
   <Language>en</Language>
   <Overview>Happy birthday Geoffrey! For a gift, Will tries matchmaking, then falls for Geoffrey's date himself.</Overview>
   <ProductionCode>446809</ProductionCode>
   <Rating>7.1</Rating>
-  <RatingCount>16</RatingCount>
+  <RatingCount>18</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>|Sandy Frank|</Writer>
+  <Writer>Sandy Frank</Writer>
   <absolute_number>10</absolute_number>
   <filename>episodes/76738/213776.jpg</filename>
-  <lastupdated>1399314055</lastupdated>
+  <lastupdated>1431266980</lastupdated>
   <seasonid>11318</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -583,23 +583,23 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>10.0</DVD_episodenumber>
   <DVD_season>1</DVD_season>
-  <Director>|Jeff Melman|</Director>
+  <Director>Jeff Melman</Director>
   <EpImgFlag>3</EpImgFlag>
   <EpisodeName>Courting Disaster</EpisodeName>
   <EpisodeNumber>11</EpisodeNumber>
   <FirstAired>1990-11-12</FirstAired>
   <GuestStars>|Michael Landes|Isaiah Thomas|Ron Perkins|Jonathan Emerson|Michael Weiner|Keith Bogart|Bill Cort|</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt0582959</IMDB_ID>
   <Language>en</Language>
   <Overview>Superstar, super ego. Will is Bel-Air Prep's new hoops hero - and ball hog.</Overview>
   <ProductionCode>446811</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>14</RatingCount>
+  <RatingCount>16</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Sandy Frank|Lisa Rosenthal|</Writer>
   <absolute_number>11</absolute_number>
   <filename>episodes/76738/213777.jpg</filename>
-  <lastupdated>1399314105</lastupdated>
+  <lastupdated>1431267255</lastupdated>
   <seasonid>11318</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -614,23 +614,23 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>11.0</DVD_episodenumber>
   <DVD_season>1</DVD_season>
-  <Director>|Jeff Melman|</Director>
+  <Director>Jeff Melman</Director>
   <EpImgFlag>3</EpImgFlag>
   <EpisodeName>Talking Turkey</EpisodeName>
   <EpisodeNumber>12</EpisodeNumber>
   <FirstAired>1990-11-19</FirstAired>
   <GuestStars>|Israel Juarbe|Jonathan Emerson|</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt0583035</IMDB_ID>
   <Language>en</Language>
   <Overview>A November to remember. When Will's mother visits for Thanksgiving, the turkey feathers fly.</Overview>
   <ProductionCode>446812</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>14</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>15</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>|Cheryl Gard|</Writer>
+  <Writer>Cheryl Gard</Writer>
   <absolute_number>12</absolute_number>
   <filename>episodes/76738/213778.jpg</filename>
-  <lastupdated>1399314164</lastupdated>
+  <lastupdated>1431266756</lastupdated>
   <seasonid>11318</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -645,23 +645,23 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>12.0</DVD_episodenumber>
   <DVD_season>1</DVD_season>
-  <Director>|Jeff Melman|</Director>
+  <Director>Jeff Melman</Director>
   <EpImgFlag>3</EpImgFlag>
   <EpisodeName>Knowledge is Power</EpisodeName>
   <EpisodeNumber>13</EpisodeNumber>
   <FirstAired>1990-11-26</FirstAired>
   <GuestStars>|Sarah Buxton|Beverly Jackson|Lisa Fuller|</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt0583002</IMDB_ID>
   <Language>en</Language>
   <Overview>College is, like, soooo hard! Will discovers that Hilary has dropped out of UCLA.</Overview>
   <ProductionCode>446813</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>13</RatingCount>
+  <RatingCount>15</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>|Cheryl Gard|</Writer>
+  <Writer>Cheryl Gard</Writer>
   <absolute_number>13</absolute_number>
   <filename>episodes/76738/213779.jpg</filename>
-  <lastupdated>1377207066</lastupdated>
+  <lastupdated>1433121709</lastupdated>
   <seasonid>11318</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -676,23 +676,23 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>13.0</DVD_episodenumber>
   <DVD_season>1</DVD_season>
-  <Director>|Jeff Melman|</Director>
+  <Director>Jeff Melman</Director>
   <EpImgFlag>3</EpImgFlag>
   <EpisodeName>Day Damn One</EpisodeName>
   <EpisodeNumber>14</EpisodeNumber>
   <FirstAired>1990-12-03</FirstAired>
   <GuestStars>|Michael Landes|James Tolkan|Patrick Van Horn|Ashley Bank|Nichole Francois|Jonathan Emerson|Michael Weiner|Keith Bogart|Bill Cort|</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt0582960</IMDB_ID>
   <Language>en</Language>
   <Overview>Will tells Ashley's friends a blood-curdling tale of terror: he recounts his first day at Bel-Air Prep.</Overview>
   <ProductionCode>446803</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>14</RatingCount>
+  <RatingCount>16</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>|Cheryl Gard|</Writer>
+  <Writer>Cheryl Gard</Writer>
   <absolute_number>14</absolute_number>
   <filename>episodes/76738/213780.jpg</filename>
-  <lastupdated>1377207108</lastupdated>
+  <lastupdated>1431266999</lastupdated>
   <seasonid>11318</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -707,23 +707,23 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>14.0</DVD_episodenumber>
   <DVD_season>1</DVD_season>
-  <Director>|Jeff Melman|</Director>
+  <Director>Jeff Melman</Director>
   <EpImgFlag>3</EpImgFlag>
   <EpisodeName>Deck the Halls</EpisodeName>
   <EpisodeNumber>15</EpisodeNumber>
   <FirstAired>1990-12-10</FirstAired>
   <GuestStars>|Michael Landes|Evander Holyfield|John Roarke|Taylor Negron|Mike Pniewski|Richard Roat|Rodney Kageyama|Justin Shenkarow|Shirley Mitchell|Valerie Jones|Mark Morales|Darneica Corley|Keith Bogart|</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt0582961</IMDB_ID>
   <Language>en</Language>
   <Overview>Will inimitably dresses the mansion for the holidays, to the dismay of the neighbors, including heavyweight boxing champion Evander Holyfield.</Overview>
   <ProductionCode>446814</ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>12</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>14</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>|Shannon Gaughan|</Writer>
+  <Writer>Shannon Gaughan</Writer>
   <absolute_number>15</absolute_number>
   <filename>episodes/76738/213781.jpg</filename>
-  <lastupdated>1359921770</lastupdated>
+  <lastupdated>1431266857</lastupdated>
   <seasonid>11318</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -738,23 +738,23 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>15.0</DVD_episodenumber>
   <DVD_season>1</DVD_season>
-  <Director>|Jeff Melman|</Director>
+  <Director>Jeff Melman</Director>
   <EpImgFlag>3</EpImgFlag>
   <EpisodeName>The Lucky Charm</EpisodeName>
   <EpisodeNumber>16</EpisodeNumber>
   <FirstAired>1991-01-07</FirstAired>
   <GuestStars>|Tom O'Roarke|Diane Racine|Sandy Frank|</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt0583049</IMDB_ID>
   <Language>en</Language>
   <Overview>Philip may lose a superstitious client whom he advises not to make decisions based on Will's spontaneous remarks.</Overview>
   <ProductionCode>446816</ProductionCode>
-  <Rating>8.1</Rating>
-  <RatingCount>12</RatingCount>
+  <Rating>7.9</Rating>
+  <RatingCount>14</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>|Samm-Art Williams|</Writer>
+  <Writer>Samm-Art Williams</Writer>
   <absolute_number>16</absolute_number>
   <filename>episodes/76738/213782.jpg</filename>
-  <lastupdated>1359921786</lastupdated>
+  <lastupdated>1431266820</lastupdated>
   <seasonid>11318</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -769,23 +769,23 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>16.0</DVD_episodenumber>
   <DVD_season>1</DVD_season>
-  <Director>|Jeff Melman|</Director>
+  <Director>Jeff Melman</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>The Ethnic Tip</EpisodeName>
   <EpisodeNumber>17</EpisodeNumber>
   <FirstAired>1991-01-14</FirstAired>
   <GuestStars>|Michael Landes|Edward Edwards|Monica Beavers|Kyausha Simpson|Keith Bogart|</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt0583046</IMDB_ID>
   <Language>en</Language>
   <Overview>Will proposes a black history class be instituted at Bel-Air Academy, and gets a surprise when Aunt Viv arrives to teach it.</Overview>
   <ProductionCode>446815</ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>13</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>15</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Benny Medina|Jeff Pollack|</Writer>
   <absolute_number>17</absolute_number>
   <filename>episodes/76738/213783.jpg</filename>
-  <lastupdated>1359921828</lastupdated>
+  <lastupdated>1431266952</lastupdated>
   <seasonid>11318</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -800,23 +800,23 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>17.0</DVD_episodenumber>
   <DVD_season>1</DVD_season>
-  <Director>|Jeff Melman|</Director>
+  <Director>Jeff Melman</Director>
   <EpImgFlag>3</EpImgFlag>
   <EpisodeName>The Young and the Restless</EpisodeName>
   <EpisodeNumber>18</EpisodeNumber>
   <FirstAired>1991-01-21</FirstAired>
   <GuestStars>|Gregory-Alan Williams|Tom Holiday|Shaun Baker|</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt0583079</IMDB_ID>
   <Language>en</Language>
   <Overview>Will sneaks Philip's elderly mother out of the house for a night on the town.</Overview>
   <ProductionCode>446817</ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>11</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>13</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>|Lisa Rosenthal|</Writer>
+  <Writer>Lisa Rosenthal</Writer>
   <absolute_number>18</absolute_number>
   <filename>episodes/76738/213784.jpg</filename>
-  <lastupdated>1359921964</lastupdated>
+  <lastupdated>1431267351</lastupdated>
   <seasonid>11318</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -831,23 +831,23 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>18.0</DVD_episodenumber>
   <DVD_season>1</DVD_season>
-  <Director>|Jeff Melman|</Director>
+  <Director>Jeff Melman</Director>
   <EpImgFlag>3</EpImgFlag>
   <EpisodeName>It Had to Be You</EpisodeName>
   <EpisodeNumber>19</EpisodeNumber>
   <FirstAired>1991-02-04</FirstAired>
   <GuestStars>|Vivica A. Fox|Carol-Ann Jeffers|Lisa Fuller|</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt0582996</IMDB_ID>
   <Language>en</Language>
   <Overview>Will has girl problems after a date with Jazz's domineering sister, who's ready to pick out a china pattern before the night is over.</Overview>
   <ProductionCode>446818</ProductionCode>
-  <Rating>8.0</Rating>
-  <RatingCount>11</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>13</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>|Cheryl Gard|</Writer>
+  <Writer>Cheryl Gard</Writer>
   <absolute_number>19</absolute_number>
   <filename>episodes/76738/213785.jpg</filename>
-  <lastupdated>1359922000</lastupdated>
+  <lastupdated>1431267021</lastupdated>
   <seasonid>11318</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -862,23 +862,23 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>19.0</DVD_episodenumber>
   <DVD_season>1</DVD_season>
-  <Director>|Jeff Melman|</Director>
+  <Director>Jeff Melman</Director>
   <EpImgFlag>3</EpImgFlag>
   <EpisodeName>Nice Lady</EpisodeName>
   <EpisodeNumber>20</EpisodeNumber>
   <FirstAired>1991-02-11</FirstAired>
   <GuestStars>|Sherrie Krenn|William Glover|Tony Longo|William Upton|Melvin Jones|</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt0583012</IMDB_ID>
   <Language>en</Language>
   <Overview>Fresh Prince Will is on his best behavior for visiting royalty -- the seemingly demure Lady Penelope, who Will hopes to persuade to let herself have a good time at a party.</Overview>
   <ProductionCode>446819</ProductionCode>
-  <Rating>7.9</Rating>
-  <RatingCount>10</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>12</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>|Sandy Frank|</Writer>
+  <Writer>Sandy Frank</Writer>
   <absolute_number>20</absolute_number>
   <filename>episodes/76738/213786.jpg</filename>
-  <lastupdated>1359922075</lastupdated>
+  <lastupdated>1431267241</lastupdated>
   <seasonid>11318</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -893,23 +893,23 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>20.0</DVD_episodenumber>
   <DVD_season>1</DVD_season>
-  <Director>|Jeff Melman|</Director>
+  <Director>Jeff Melman</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>Love at First Fight</EpisodeName>
   <EpisodeNumber>21</EpisodeNumber>
   <FirstAired>1991-02-18</FirstAired>
   <GuestStars>|Jasmine Guy|Carol Barbee|Dell Yount|Claude Knobler|</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt0583004</IMDB_ID>
   <Language>en</Language>
   <Overview>Jasmine Guy plays a scholarship student whose introduction to Will opens up a different world of fun and games -- and romance -- to divert her from her studies.</Overview>
   <ProductionCode>446820</ProductionCode>
-  <Rating>8.0</Rating>
-  <RatingCount>9</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>11</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Lisa Rosenthal|Samm-Art Williams|</Writer>
   <absolute_number>21</absolute_number>
   <filename>episodes/76738/213787.jpg</filename>
-  <lastupdated>1359922101</lastupdated>
+  <lastupdated>1431266972</lastupdated>
   <seasonid>11318</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -924,23 +924,23 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>21.0</DVD_episodenumber>
   <DVD_season>1</DVD_season>
-  <Director>|Jeff Melman|</Director>
+  <Director>Jeff Melman</Director>
   <EpImgFlag>3</EpImgFlag>
   <EpisodeName>Banks Shot</EpisodeName>
   <EpisodeNumber>22</EpisodeNumber>
   <FirstAired>1991-02-25</FirstAired>
   <GuestStars>|J.D. Hall|Hugh Dane|Angela Gordon|Jeff Chayette|Michelle Simms|Tanya Moore|</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt0582943</IMDB_ID>
   <Language>en</Language>
   <Overview>Will crawls to Philip for help after sneaking out on the town and getting hustled by sleazy pool sharks.</Overview>
   <ProductionCode>446821</ProductionCode>
   <Rating>8.1</Rating>
-  <RatingCount>9</RatingCount>
+  <RatingCount>11</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>|Bennie R. Richburg Jr.|</Writer>
+  <Writer>Bennie R. Richburg Jr.</Writer>
   <absolute_number>22</absolute_number>
   <filename>episodes/76738/213788.jpg</filename>
-  <lastupdated>1359922124</lastupdated>
+  <lastupdated>1431266656</lastupdated>
   <seasonid>11318</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -955,23 +955,23 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>22.0</DVD_episodenumber>
   <DVD_season>1</DVD_season>
-  <Director>|Rae Kraus|</Director>
+  <Director>Rae Kraus</Director>
   <EpImgFlag>3</EpImgFlag>
   <EpisodeName>72 Hours</EpisodeName>
   <EpisodeNumber>23</EpisodeNumber>
   <FirstAired>1991-03-11</FirstAired>
-  <GuestStars>|Miguel Nunez| Jr.|Tom 'Tiny' Lister Jr.|J'vonne Pearson|Richard Gloria|Larry Jones|Rodney Knoll|Mark Moralez|Jamy Woodbury|</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <GuestStars>|Miguel Nunez, Jr.|Tom 'Tiny' Lister Jr.|J'vonne Pearson|Richard Gloria|Larry Jones|Rodney Knoll|Mark Moralez|Jamy Woodbury|</GuestStars>
+  <IMDB_ID>tt0582934</IMDB_ID>
   <Language>en</Language>
   <Overview>Will challenges Carlton to spend time in a tough neighborhood, trying to survive by masquerading as a financial consultant.</Overview>
   <ProductionCode>446822</ProductionCode>
-  <Rating>8.0</Rating>
-  <RatingCount>10</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>12</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>|Rob Edwards|</Writer>
+  <Writer>Rob Edwards</Writer>
   <absolute_number>23</absolute_number>
   <filename>episodes/76738/213789.jpg</filename>
-  <lastupdated>1359922150</lastupdated>
+  <lastupdated>1433776952</lastupdated>
   <seasonid>11318</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -986,23 +986,23 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>23.0</DVD_episodenumber>
   <DVD_season>1</DVD_season>
-  <Director>|Jeff Melman|</Director>
+  <Director>Jeff Melman</Director>
   <EpImgFlag>3</EpImgFlag>
   <EpisodeName>Just Infatuation</EpisodeName>
   <EpisodeNumber>24</EpisodeNumber>
   <FirstAired>1991-04-29</FirstAired>
   <GuestStars>|Tevin Campbell|Ron Fassler|Jaclyn Bernstein|Dax Biagas|</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt0582999</IMDB_ID>
   <Language>en</Language>
   <Overview>R&amp;B singer Tevin Campbell plays teen idol Little T, who surprises Ashley on her birthday with a special song and an invitation for a date.</Overview>
   <ProductionCode>446824</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>11</RatingCount>
+  <RatingCount>13</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Jeff Pollack|Benny Medina|</Writer>
   <absolute_number>24</absolute_number>
   <filename>episodes/76738/213790.jpg</filename>
-  <lastupdated>1359922170</lastupdated>
+  <lastupdated>1431267056</lastupdated>
   <seasonid>11318</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -1017,23 +1017,23 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>24.0</DVD_episodenumber>
   <DVD_season>1</DVD_season>
-  <Director>|Rita Rogers Blye|</Director>
+  <Director>Rita Rogers Blye</Director>
   <EpImgFlag>3</EpImgFlag>
   <EpisodeName>Working it Out</EpisodeName>
   <EpisodeNumber>25</EpisodeNumber>
   <FirstAired>1991-05-06</FirstAired>
   <GuestStars>|Queen Latifah|Lisa Fuller|Sarah Buxton|Beverly Jackson|</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt0583075</IMDB_ID>
   <Language>en</Language>
   <Overview>Rap's Queen Latifah plays Hilary's new actress boss, who wants Will as her boy toy -- or Hilary's glamorous job is over.</Overview>
   <ProductionCode>446823</ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>11</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>13</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>|Shannon Gaughan|</Writer>
+  <Writer>Shannon Gaughan</Writer>
   <absolute_number>25</absolute_number>
   <filename>episodes/76738/213791.jpg</filename>
-  <lastupdated>1359922257</lastupdated>
+  <lastupdated>1431266965</lastupdated>
   <seasonid>11318</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -1048,23 +1048,23 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>1.0</DVD_episodenumber>
   <DVD_season>2</DVD_season>
-  <Director>|Ellen Falcon|</Director>
+  <Director>Ellen Falcon</Director>
   <EpImgFlag>3</EpImgFlag>
   <EpisodeName>Did the Earth Move for You?</EpisodeName>
   <EpisodeNumber>1</EpisodeNumber>
   <FirstAired>1991-09-09</FirstAired>
-  <GuestStars>|Tisha Campbell|</GuestStars>
+  <GuestStars>Tisha Campbell</GuestStars>
   <IMDB_ID>tt0582963</IMDB_ID>
   <Language>en</Language>
   <Overview>Will's all-consumed romance with a new girlfriend shakes up the Banks' household, as does Mother Nature, trapping them together during an earthquake.</Overview>
   <ProductionCode>446901</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>10</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>12</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>|Winifred Hervey|</Writer>
+  <Writer>Winifred Hervey</Writer>
   <absolute_number>26</absolute_number>
   <filename>episodes/76738/213792.jpg</filename>
-  <lastupdated>1403638227</lastupdated>
+  <lastupdated>1431267379</lastupdated>
   <seasonid>11319</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -1079,7 +1079,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>2.0</DVD_episodenumber>
   <DVD_season>2</DVD_season>
-  <Director>|Ellen Falcon|</Director>
+  <Director>Ellen Falcon</Director>
   <EpImgFlag>3</EpImgFlag>
   <EpisodeName>The Mother of All Battles</EpisodeName>
   <EpisodeNumber>2</EpisodeNumber>
@@ -1089,13 +1089,13 @@
   <Language>en</Language>
   <Overview>Will and Carlton arrive as reinforcements when a bully challenges Ashley to a rumble, but there's real trouble when Philip and Vivian intervene.</Overview>
   <ProductionCode>446902</ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>9</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>11</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>|Bryan Winter|</Writer>
+  <Writer>Bryan Winter</Writer>
   <absolute_number>27</absolute_number>
   <filename>episodes/76738/213793.jpg</filename>
-  <lastupdated>1403638284</lastupdated>
+  <lastupdated>1431267313</lastupdated>
   <seasonid>11319</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -1110,7 +1110,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>3.0</DVD_episodenumber>
   <DVD_season>2</DVD_season>
-  <Director>|Ellen Falcon|</Director>
+  <Director>Ellen Falcon</Director>
   <EpImgFlag>3</EpImgFlag>
   <EpisodeName>Will Gets a Job</EpisodeName>
   <EpisodeNumber>3</EpisodeNumber>
@@ -1120,13 +1120,13 @@
   <Language>en</Language>
   <Overview>Will tries to juggle school and a new job in order to earn money for the homecoming party; Ashley's classmate Tina becomes interested in Carlton. Will starts becoming paranoid when he constantly is getting confused with Carlton.</Overview>
   <ProductionCode>446903</ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>9</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>11</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>|Efrem Seeger|</Writer>
+  <Writer>Efrem Seeger</Writer>
   <absolute_number>28</absolute_number>
   <filename>episodes/76738/213794.jpg</filename>
-  <lastupdated>1403638318</lastupdated>
+  <lastupdated>1431266742</lastupdated>
   <seasonid>11319</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -1141,7 +1141,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>4.0</DVD_episodenumber>
   <DVD_season>2</DVD_season>
-  <Director>|Ellen Falcon|</Director>
+  <Director>Ellen Falcon</Director>
   <EpImgFlag>3</EpImgFlag>
   <EpisodeName>PSAT Pstory</EpisodeName>
   <EpisodeNumber>4</EpisodeNumber>
@@ -1151,13 +1151,13 @@
   <Language>en</Language>
   <Overview>Will is a picture of confidence, while Carlton is a frazzled bundle of nerves preparing for college aptitude tests.</Overview>
   <ProductionCode>446904</ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>10</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>12</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>|Marcus Jamal Gaines|</Writer>
+  <Writer>Marcus Jamal Gaines</Writer>
   <absolute_number>29</absolute_number>
   <filename>episodes/76738/213795.jpg</filename>
-  <lastupdated>1403638347</lastupdated>
+  <lastupdated>1431266937</lastupdated>
   <seasonid>11319</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -1172,7 +1172,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>5.0</DVD_episodenumber>
   <DVD_season>2</DVD_season>
-  <Director>|Ellen Falcon|</Director>
+  <Director>Ellen Falcon</Director>
   <EpImgFlag>3</EpImgFlag>
   <EpisodeName>Granny Gets Busy</EpisodeName>
   <EpisodeNumber>5</EpisodeNumber>
@@ -1182,13 +1182,13 @@
   <Language>en</Language>
   <Overview>Mortified over spying his mother kiss the handyman, Philip can't bear to think of her having a new man in her life.</Overview>
   <ProductionCode>446906</ProductionCode>
-  <Rating>8.1</Rating>
-  <RatingCount>11</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>13</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>|Cheryl Gard|</Writer>
+  <Writer>Cheryl Gard</Writer>
   <absolute_number>30</absolute_number>
   <filename>episodes/76738/213796.jpg</filename>
-  <lastupdated>1403638377</lastupdated>
+  <lastupdated>1431267096</lastupdated>
   <seasonid>11319</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -1203,7 +1203,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>6.0</DVD_episodenumber>
   <DVD_season>2</DVD_season>
-  <Director>|Ellen Falcon|</Director>
+  <Director>Ellen Falcon</Director>
   <EpImgFlag>3</EpImgFlag>
   <EpisodeName>Guess Who's Coming to Marry?</EpisodeName>
   <EpisodeNumber>6</EpisodeNumber>
@@ -1213,13 +1213,13 @@
   <Language>en</Language>
   <Overview>Tensions spill over just before the wedding of Will's Aunt Janice when Will's mom meets Janice's intended -- and forbids Will to attend the interracial wedding.</Overview>
   <ProductionCode>446905</ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>11</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>13</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>|Samm-Art Williams|</Writer>
+  <Writer>Samm-Art Williams</Writer>
   <absolute_number>31</absolute_number>
   <filename>episodes/76738/213797.jpg</filename>
-  <lastupdated>1403638408</lastupdated>
+  <lastupdated>1431267457</lastupdated>
   <seasonid>11319</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -1234,7 +1234,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>7.0</DVD_episodenumber>
   <DVD_season>2</DVD_season>
-  <Director>|Ellen Falcon|</Director>
+  <Director>Ellen Falcon</Director>
   <EpImgFlag>3</EpImgFlag>
   <EpisodeName>The Big Four-Oh</EpisodeName>
   <EpisodeNumber>7</EpisodeNumber>
@@ -1244,13 +1244,13 @@
   <Language>en</Language>
   <Overview>Vivian's 40th birthday marks a crisis and a career change in which she plans to perfect her dance skills.</Overview>
   <ProductionCode>446907</ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>10</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>12</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>|Lisa Rosenthal|</Writer>
+  <Writer>Lisa Rosenthal</Writer>
   <absolute_number>32</absolute_number>
   <filename>episodes/76738/213798.jpg</filename>
-  <lastupdated>1403722054</lastupdated>
+  <lastupdated>1431266925</lastupdated>
   <seasonid>11319</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -1265,7 +1265,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>8.0</DVD_episodenumber>
   <DVD_season>2</DVD_season>
-  <Director>|Ellen Falcon|</Director>
+  <Director>Ellen Falcon</Director>
   <EpImgFlag>3</EpImgFlag>
   <EpisodeName>She Ain't Heavy</EpisodeName>
   <EpisodeNumber>8</EpisodeNumber>
@@ -1275,13 +1275,13 @@
   <Language>en</Language>
   <Overview>Will hits it off with the full-figured Dee Dee, but her size keeps him from asking her to the dance.</Overview>
   <ProductionCode>446908</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>11</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>13</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>|Lisa Rosenthal|</Writer>
+  <Writer>Lisa Rosenthal</Writer>
   <absolute_number>33</absolute_number>
   <filename>episodes/76738/213799.jpg</filename>
-  <lastupdated>1403722152</lastupdated>
+  <lastupdated>1431266798</lastupdated>
   <seasonid>11319</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -1296,7 +1296,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>9.0</DVD_episodenumber>
   <DVD_season>2</DVD_season>
-  <Director>|Ellen Falcon|</Director>
+  <Director>Ellen Falcon</Director>
   <EpImgFlag>3</EpImgFlag>
   <EpisodeName>Cased Up</EpisodeName>
   <EpisodeNumber>9</EpisodeNumber>
@@ -1306,13 +1306,13 @@
   <Language>en</Language>
   <Overview>A pompous lawyer who's dating Hilary is no fan of Will's after he's sideswiped by Will's roadster.</Overview>
   <ProductionCode>446909</ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>11</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>13</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>|Bennie R. Richburg Jr.|</Writer>
+  <Writer>Bennie R. Richburg Jr.</Writer>
   <absolute_number>34</absolute_number>
   <filename>episodes/76738/213800.jpg</filename>
-  <lastupdated>1403722188</lastupdated>
+  <lastupdated>1431267285</lastupdated>
   <seasonid>11319</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -1327,7 +1327,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>10.0</DVD_episodenumber>
   <DVD_season>2</DVD_season>
-  <Director>|Ellen Falcon|</Director>
+  <Director>Ellen Falcon</Director>
   <EpImgFlag>3</EpImgFlag>
   <EpisodeName>Hi-Ho Silver</EpisodeName>
   <EpisodeNumber>10</EpisodeNumber>
@@ -1337,13 +1337,13 @@
   <Language>en</Language>
   <Overview>Will and Carlton think a party guest stole the silverware.</Overview>
   <ProductionCode>446910</ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>11</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>13</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Elaine Newman|Ed Burnham|</Writer>
   <absolute_number>35</absolute_number>
   <filename>episodes/76738/213801.jpg</filename>
-  <lastupdated>1403722220</lastupdated>
+  <lastupdated>1431266792</lastupdated>
   <seasonid>11319</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -1358,7 +1358,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>11.0</DVD_episodenumber>
   <DVD_season>2</DVD_season>
-  <Director>|Ellen Falcon|</Director>
+  <Director>Ellen Falcon</Director>
   <EpImgFlag>3</EpImgFlag>
   <EpisodeName>The Butler Did It</EpisodeName>
   <EpisodeNumber>11</EpisodeNumber>
@@ -1369,12 +1369,12 @@
   <Overview>Bell Biv DeVoe shoots a video at the Bankses, courtesy of Carlton, who rents the house while his parents are away.</Overview>
   <ProductionCode>446911</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>11</RatingCount>
+  <RatingCount>13</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>|Bryan Winter|</Writer>
+  <Writer>Bryan Winter</Writer>
   <absolute_number>36</absolute_number>
   <filename>episodes/76738/213802.jpg</filename>
-  <lastupdated>1403722257</lastupdated>
+  <lastupdated>1431266842</lastupdated>
   <seasonid>11319</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -1389,7 +1389,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>12.0</DVD_episodenumber>
   <DVD_season>2</DVD_season>
-  <Director>|Ellen Falcon|</Director>
+  <Director>Ellen Falcon</Director>
   <EpImgFlag>3</EpImgFlag>
   <EpisodeName>Something for Nothing</EpisodeName>
   <EpisodeNumber>12</EpisodeNumber>
@@ -1399,13 +1399,13 @@
   <Language>en</Language>
   <Overview>After winning at the country club's Monte Carlo night fund-raiser, Will learns that he's expected to donate the money to charity.</Overview>
   <ProductionCode>446912</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>12</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>14</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>|Bill Streib|</Writer>
+  <Writer>Bill Streib</Writer>
   <absolute_number>37</absolute_number>
   <filename>episodes/76738/213803.jpg</filename>
-  <lastupdated>1403722293</lastupdated>
+  <lastupdated>1431267565</lastupdated>
   <seasonid>11319</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -1420,7 +1420,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>13.0</DVD_episodenumber>
   <DVD_season>2</DVD_season>
-  <Director>|Ellen Falcon|</Director>
+  <Director>Ellen Falcon</Director>
   <EpImgFlag>3</EpImgFlag>
   <EpisodeName>Christmas Show</EpisodeName>
   <EpisodeNumber>13</EpisodeNumber>
@@ -1431,12 +1431,12 @@
   <Overview>On a family ski trip, the Banks find that they must come up with Christmas gifts from the heart after their belongings are stolen.</Overview>
   <ProductionCode>446913</ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>12</RatingCount>
+  <RatingCount>14</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>|Winifred Hervey|</Writer>
+  <Writer>Winifred Hervey</Writer>
   <absolute_number>38</absolute_number>
   <filename>episodes/76738/213804.jpg</filename>
-  <lastupdated>1403897014</lastupdated>
+  <lastupdated>1431266701</lastupdated>
   <seasonid>11319</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -1451,7 +1451,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>14.0</DVD_episodenumber>
   <DVD_season>2</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>3</EpImgFlag>
   <EpisodeName>Hilary Gets a Life</EpisodeName>
   <EpisodeNumber>14</EpisodeNumber>
@@ -1461,13 +1461,13 @@
   <Language>en</Language>
   <Overview>Hilary must work for a caterer after her credit cards are cancelled.</Overview>
   <ProductionCode>446914</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>9</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>11</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Eunetta T. Boone|P. Karen Raper|</Writer>
   <absolute_number>39</absolute_number>
   <filename>episodes/76738/213805.jpg</filename>
-  <lastupdated>1403897035</lastupdated>
+  <lastupdated>1431267329</lastupdated>
   <seasonid>11319</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -1482,7 +1482,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>15.0</DVD_episodenumber>
   <DVD_season>2</DVD_season>
-  <Director>|Ellen Falcon|</Director>
+  <Director>Ellen Falcon</Director>
   <EpImgFlag>3</EpImgFlag>
   <EpisodeName>My Brother's Keeper</EpisodeName>
   <EpisodeNumber>15</EpisodeNumber>
@@ -1492,13 +1492,13 @@
   <Language>en</Language>
   <Overview>On the basketball court, winning is everything to Will, as it is to an opponent from Malibu Prep, who can't afford to lose.</Overview>
   <ProductionCode>446915</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>13</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>15</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>|Bennie Richburg|</Writer>
+  <Writer>Bennie Richburg</Writer>
   <absolute_number>40</absolute_number>
   <filename>episodes/76738/213806.jpg</filename>
-  <lastupdated>1403897057</lastupdated>
+  <lastupdated>1431266668</lastupdated>
   <seasonid>11319</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -1513,7 +1513,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>16.0</DVD_episodenumber>
   <DVD_season>2</DVD_season>
-  <Director>|Ellen Falcon|</Director>
+  <Director>Ellen Falcon</Director>
   <EpImgFlag>3</EpImgFlag>
   <EpisodeName>Geoffrey Cleans Up</EpisodeName>
   <EpisodeNumber>16</EpisodeNumber>
@@ -1523,13 +1523,13 @@
   <Language>en</Language>
   <Overview>Geoffrey falls hard for a neighbor he believes is a housekeeper -- but who turns out to be very wealthy.</Overview>
   <ProductionCode>446916</ProductionCode>
-  <Rating>7.3</Rating>
-  <RatingCount>11</RatingCount>
+  <Rating>7.2</Rating>
+  <RatingCount>13</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>|Lisa Rosenthal|</Writer>
+  <Writer>Lisa Rosenthal</Writer>
   <absolute_number>41</absolute_number>
   <filename>episodes/76738/213807.jpg</filename>
-  <lastupdated>1403897078</lastupdated>
+  <lastupdated>1431266945</lastupdated>
   <seasonid>11319</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -1544,7 +1544,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>17.0</DVD_episodenumber>
   <DVD_season>2</DVD_season>
-  <Director>|Ellen Falcon|</Director>
+  <Director>Ellen Falcon</Director>
   <EpImgFlag>3</EpImgFlag>
   <EpisodeName>Community Action</EpisodeName>
   <EpisodeNumber>17</EpisodeNumber>
@@ -1555,12 +1555,12 @@
   <Overview>When Hillary is ordered to do community service at a free clinic, the doctor in charge becomes the antidote for her marriage-mindedness.</Overview>
   <ProductionCode>446917</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>11</RatingCount>
+  <RatingCount>13</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>|Cheryl Gard|</Writer>
+  <Writer>Cheryl Gard</Writer>
   <absolute_number>42</absolute_number>
   <filename>episodes/76738/213808.jpg</filename>
-  <lastupdated>1403897102</lastupdated>
+  <lastupdated>1431266864</lastupdated>
   <seasonid>11319</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -1575,7 +1575,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>18.0</DVD_episodenumber>
   <DVD_season>2</DVD_season>
-  <Director>|Ellen Falcon|</Director>
+  <Director>Ellen Falcon</Director>
   <EpImgFlag>3</EpImgFlag>
   <EpisodeName>Ill Will</EpisodeName>
   <EpisodeNumber>18</EpisodeNumber>
@@ -1583,15 +1583,15 @@
   <GuestStars>|Bernie Kopell|Dr. Dre|Macon McCalman|Kathleen McClennan|John Beradino|Debra Mooney|Erick Avari|Milton Berle|</GuestStars>
   <IMDB_ID>tt0582995</IMDB_ID>
   <Language>en</Language>
-  <Overview>The family fears a steamy exposÃ© when Geoffrey begins his memoirs, while Will fears the scalpel when he enters the hospital, kicking and screaming, for a tonsillectomy.</Overview>
+  <Overview>The family fears a steamy exposé when Geoffrey begins his memoirs, while Will fears the scalpel when he enters the hospital, kicking and screaming, for a tonsillectomy.</Overview>
   <ProductionCode>446918</ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>13</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>15</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Leslie Ray|David Steven Simon|</Writer>
   <absolute_number>43</absolute_number>
   <filename>episodes/76738/213809.jpg</filename>
-  <lastupdated>1403897132</lastupdated>
+  <lastupdated>1431267343</lastupdated>
   <seasonid>11319</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -1606,7 +1606,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>19.0</DVD_episodenumber>
   <DVD_season>2</DVD_season>
-  <Director>|Ellen Falcon|</Director>
+  <Director>Ellen Falcon</Director>
   <EpImgFlag>3</EpImgFlag>
   <EpisodeName>Eyes on the Prize</EpisodeName>
   <EpisodeNumber>19</EpisodeNumber>
@@ -1616,13 +1616,13 @@
   <Language>en</Language>
   <Overview>Needing a game show partner, Will must choose between bickering friends.</Overview>
   <ProductionCode>446919</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>11</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>13</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>|Bryan Winter|</Writer>
+  <Writer>Bryan Winter</Writer>
   <absolute_number>44</absolute_number>
   <filename>episodes/76738/213810.jpg</filename>
-  <lastupdated>1403945054</lastupdated>
+  <lastupdated>1431267171</lastupdated>
   <seasonid>11319</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -1637,7 +1637,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>20.0</DVD_episodenumber>
   <DVD_season>2</DVD_season>
-  <Director>|Rita Rogers Blye|</Director>
+  <Director>Rita Rogers Blye</Director>
   <EpImgFlag>3</EpImgFlag>
   <EpisodeName>Those Were the Days</EpisodeName>
   <EpisodeNumber>20</EpisodeNumber>
@@ -1647,13 +1647,13 @@
   <Language>en</Language>
   <Overview>Philip and Vivian welcome a '60s radical, who arouses the FBI's interest and influences Will and Carlton to take action over the firing of a nonconformist teacher.</Overview>
   <ProductionCode>446920</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>12</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>14</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>|Samm-Art Williams|</Writer>
+  <Writer>Samm-Art Williams</Writer>
   <absolute_number>45</absolute_number>
   <filename>episodes/76738/213811.jpg</filename>
-  <lastupdated>1403945083</lastupdated>
+  <lastupdated>1431267559</lastupdated>
   <seasonid>11319</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -1668,7 +1668,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>21.0</DVD_episodenumber>
   <DVD_season>2</DVD_season>
-  <Director>|Malcolm-Jamal Warner|</Director>
+  <Director>Malcolm-Jamal Warner</Director>
   <EpImgFlag>3</EpImgFlag>
   <EpisodeName>Vying for Attention</EpisodeName>
   <EpisodeNumber>21</EpisodeNumber>
@@ -1678,13 +1678,13 @@
   <Language>en</Language>
   <Overview>Will dislikes his mother's new boyfriend.</Overview>
   <ProductionCode>446921</ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>12</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>14</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>|Efrem Seeger|</Writer>
+  <Writer>Efrem Seeger</Writer>
   <absolute_number>46</absolute_number>
   <filename>episodes/76738/213812.jpg</filename>
-  <lastupdated>1403945111</lastupdated>
+  <lastupdated>1431267261</lastupdated>
   <seasonid>11319</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -1699,7 +1699,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>22.0</DVD_episodenumber>
   <DVD_season>2</DVD_season>
-  <Director>|Rae Kraus|</Director>
+  <Director>Rae Kraus</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>The Aunt Who Came to Dinner</EpisodeName>
   <EpisodeNumber>22</EpisodeNumber>
@@ -1709,13 +1709,13 @@
   <Language>en</Language>
   <Overview>Aunt Helen arrives unexpectedly, and upsets Will and Carlton's plans for a rendezvous with two French women.</Overview>
   <ProductionCode>446922</ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>7</RatingCount>
+  <Rating>7.2</Rating>
+  <RatingCount>9</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>|Jerry Ross|</Writer>
+  <Writer>Jerry Ross</Writer>
   <absolute_number>47</absolute_number>
   <filename>episodes/76738/213813.jpg</filename>
-  <lastupdated>1403945145</lastupdated>
+  <lastupdated>1431266611</lastupdated>
   <seasonid>11319</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -1730,7 +1730,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>23.0</DVD_episodenumber>
   <DVD_season>2</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>3</EpImgFlag>
   <EpisodeName>Be My Baby Tonight</EpisodeName>
   <EpisodeNumber>23</EpisodeNumber>
@@ -1741,12 +1741,12 @@
   <Overview>Ashley cringes when the family oohs and aahs over her relationship with Kevin , but Will chokes when she asks him about sex -- and her curiosity about reproduction sends Will to a pregnancy counseling center.</Overview>
   <ProductionCode>446923</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>10</RatingCount>
+  <RatingCount>11</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>|Lisa Rosenthal|</Writer>
+  <Writer>Lisa Rosenthal</Writer>
   <absolute_number>48</absolute_number>
   <filename>episodes/76738/213814.jpg</filename>
-  <lastupdated>1403945181</lastupdated>
+  <lastupdated>1431267083</lastupdated>
   <seasonid>11319</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -1761,7 +1761,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>24.0</DVD_episodenumber>
   <DVD_season>2</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>3</EpImgFlag>
   <EpisodeName>Strip-Tease for Two</EpisodeName>
   <EpisodeNumber>24</EpisodeNumber>
@@ -1771,13 +1771,13 @@
   <Language>en</Language>
   <Overview>Will and Carlton lose their shirts investing on a tip -- then take jobs as strippers to recoup their losses and get Vivian's bracelet out of hock.</Overview>
   <ProductionCode>446924</ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>11</RatingCount>
+  <Rating>7.2</Rating>
+  <RatingCount>13</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Leslie Ray|David Steven Simon|</Writer>
   <absolute_number>49</absolute_number>
   <filename>episodes/76738/213815.jpg</filename>
-  <lastupdated>1403945218</lastupdated>
+  <lastupdated>1431266688</lastupdated>
   <seasonid>11319</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -1792,7 +1792,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>1.0</DVD_episodenumber>
   <DVD_season>3</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>How I Spent My Summer Vacation</EpisodeName>
   <EpisodeNumber>1</EpisodeNumber>
@@ -1803,12 +1803,12 @@
   <Overview>Will returns home from spending the summer in Philadelphia with a new look that doesn't sit well with Uncle Phil.</Overview>
   <ProductionCode>446951</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>14</RatingCount>
+  <RatingCount>15</RatingCount>
   <SeasonNumber>3</SeasonNumber>
-  <Writer>|Winifred Hervey|</Writer>
+  <Writer>Winifred Hervey</Writer>
   <absolute_number>50</absolute_number>
   <filename>episodes/76738/213816.jpg</filename>
-  <lastupdated>1382807739</lastupdated>
+  <lastupdated>1431267220</lastupdated>
   <seasonid>11320</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -1823,7 +1823,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>2.0</DVD_episodenumber>
   <DVD_season>3</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>Will Gets Committed</EpisodeName>
   <EpisodeNumber>2</EpisodeNumber>
@@ -1834,12 +1834,12 @@
   <Overview>Philip and Vivian organize a cleanup effort in the riot-torn remains of their old LA neighborhood.</Overview>
   <ProductionCode>446952</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>12</RatingCount>
+  <RatingCount>13</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Leslie Ray|David Steven Simon|</Writer>
   <absolute_number>51</absolute_number>
   <filename>episodes/76738/213817.jpg</filename>
-  <lastupdated>1382807759</lastupdated>
+  <lastupdated>1431266834</lastupdated>
   <seasonid>11320</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -1854,7 +1854,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>3.0</DVD_episodenumber>
   <DVD_season>3</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>That's No Lady, That's My Cousin</EpisodeName>
   <EpisodeNumber>3</EpisodeNumber>
@@ -1867,10 +1867,10 @@
   <Rating>7.6</Rating>
   <RatingCount>12</RatingCount>
   <SeasonNumber>3</SeasonNumber>
-  <Writer>|Bryan Winter|</Writer>
+  <Writer>Bryan Winter</Writer>
   <absolute_number>52</absolute_number>
   <filename>episodes/76738/213818.jpg</filename>
-  <lastupdated>1382807965</lastupdated>
+  <lastupdated>1431267551</lastupdated>
   <seasonid>11320</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -1885,7 +1885,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>4.0</DVD_episodenumber>
   <DVD_season>3</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>Hilary Gets a Job</EpisodeName>
   <EpisodeNumber>4</EpisodeNumber>
@@ -1896,12 +1896,12 @@
   <Overview>Hilary gets a job reporting weather on television.</Overview>
   <ProductionCode>446954</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>10</RatingCount>
+  <RatingCount>11</RatingCount>
   <SeasonNumber>3</SeasonNumber>
-  <Writer>|Efrem Seeger|</Writer>
+  <Writer>Efrem Seeger</Writer>
   <absolute_number>53</absolute_number>
   <filename>episodes/76738/213819.jpg</filename>
-  <lastupdated>1382807982</lastupdated>
+  <lastupdated>1431267464</lastupdated>
   <seasonid>11320</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -1916,7 +1916,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>5.0</DVD_episodenumber>
   <DVD_season>3</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>Mama's Baby, Carlton's Maybe</EpisodeName>
   <EpisodeNumber>5</EpisodeNumber>
@@ -1927,12 +1927,12 @@
   <Overview>Carlton prepares for a dinner date with his former girlfriend, Cindy (Lark Voorhees), forgiving her for rejecting him several months earlier, but when she arrives with a newborn baby named Carlton Jr., the entire Banks family is stunned</Overview>
   <ProductionCode>446956</ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>11</RatingCount>
+  <RatingCount>12</RatingCount>
   <SeasonNumber>3</SeasonNumber>
-  <Writer>|Linda M. Yearwood|</Writer>
+  <Writer>Linda M. Yearwood</Writer>
   <absolute_number>54</absolute_number>
   <filename>episodes/76738/213821.jpg</filename>
-  <lastupdated>1382812186</lastupdated>
+  <lastupdated>1431267371</lastupdated>
   <seasonid>11320</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -1947,7 +1947,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>6.0</DVD_episodenumber>
   <DVD_season>3</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>P.S. I Love You</EpisodeName>
   <EpisodeNumber>6</EpisodeNumber>
@@ -1957,13 +1957,13 @@
   <Language>en</Language>
   <Overview>Philip intends to railroad the ineffectual Judge Robertson off the bench; and Will becomes the &quot;love slave&quot; of a flamboyantly generous plain student. Will accepts many expensive gifts off her including tickets to the Los Angeles Lakers game, a Harley Davidson and a jacket emblazoned with a motif of his hero Malcolm X. In the end she reveals actually she does not even like him and she was doing this for his attention for her own gains regarding image, because he was captain of basketball and lots of other girls do like him. </Overview>
   <ProductionCode>446955</ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>14</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>15</RatingCount>
   <SeasonNumber>3</SeasonNumber>
-  <Writer>|Michael Fry|</Writer>
+  <Writer>Michael Fry</Writer>
   <absolute_number>55</absolute_number>
   <filename>episodes/76738/213820.jpg</filename>
-  <lastupdated>1382812142</lastupdated>
+  <lastupdated>1431266911</lastupdated>
   <seasonid>11320</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -1978,7 +1978,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>7.0</DVD_episodenumber>
   <DVD_season>3</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>Here Comes the Judge</EpisodeName>
   <EpisodeNumber>7</EpisodeNumber>
@@ -1991,10 +1991,10 @@
   <Rating>7.0</Rating>
   <RatingCount>10</RatingCount>
   <SeasonNumber>3</SeasonNumber>
-  <Writer>|Samm-Art Williams|</Writer>
+  <Writer>Samm-Art Williams</Writer>
   <absolute_number>56</absolute_number>
   <filename>episodes/76738/213822.jpg</filename>
-  <lastupdated>1382812717</lastupdated>
+  <lastupdated>1431267306</lastupdated>
   <seasonid>11320</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -2009,23 +2009,23 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>8.0</DVD_episodenumber>
   <DVD_season>3</DVD_season>
-  <Director>|Chuck Vinson|</Director>
+  <Director>Chuck Vinson</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>Boyz in the Woods</EpisodeName>
   <EpisodeNumber>8</EpisodeNumber>
   <FirstAired>1992-11-05</FirstAired>
-  <GuestStars>|Chi McBride|</GuestStars>
+  <GuestStars>Chi McBride</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>Philip takes Will and Carlton on a camping trip that turns out to be a disaster when snow traps the unhappy campers.</Overview>
   <ProductionCode>446957</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>7</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>8</RatingCount>
   <SeasonNumber>3</SeasonNumber>
-  <Writer>|Samm-Art Williams|</Writer>
+  <Writer>Samm-Art Williams</Writer>
   <absolute_number>57</absolute_number>
   <filename>episodes/76738/213823.jpg</filename>
-  <lastupdated>1382812736</lastupdated>
+  <lastupdated>1431266587</lastupdated>
   <seasonid>11320</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -2040,7 +2040,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>9.0</DVD_episodenumber>
   <DVD_season>3</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>A Night at the Oprah</EpisodeName>
   <EpisodeNumber>9</EpisodeNumber>
@@ -2050,13 +2050,13 @@
   <Language>en</Language>
   <Overview>The Bankses appear on Oprah's show and fail to invite Will on-stage, which may cause Philip to lose the election.</Overview>
   <ProductionCode>446959</ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>12</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>13</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Leslie Ray|David Steven Simon|</Writer>
   <absolute_number>58</absolute_number>
   <filename>episodes/76738/213824.jpg</filename>
-  <lastupdated>1382812752</lastupdated>
+  <lastupdated>1431266904</lastupdated>
   <seasonid>11320</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -2076,18 +2076,18 @@
   <EpisodeName>Asses to Ashes</EpisodeName>
   <EpisodeNumber>10</EpisodeNumber>
   <FirstAired>1992-11-16</FirstAired>
-  <GuestStars>Barbara Montgomery|William Hubbard Knight|Bobby McGee</GuestStars>
+  <GuestStars>|Barbara Montgomery|William Hubbard Knight|Bobby McGee|</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>Election results are in and Philip fights to remain cool amid lies by Judge Robertson, which prompt Will to confront the outspoken incumbent. Will Will go to far? Will he say what everyone is feeling? Will Judge Robertson be able to take it?</Overview>
   <ProductionCode>446960</ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>11</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>12</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Bryan Winter</Writer>
   <absolute_number>59</absolute_number>
   <filename>episodes/76738/213825.jpg</filename>
-  <lastupdated>1382812772</lastupdated>
+  <lastupdated>1431267336</lastupdated>
   <seasonid>11320</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -2102,7 +2102,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>11.0</DVD_episodenumber>
   <DVD_season>3</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>A Funny Thing Happened on the Way to the Forum</EpisodeName>
   <EpisodeNumber>11</EpisodeNumber>
@@ -2112,13 +2112,13 @@
   <Language>en</Language>
   <Overview>At Vivian's Lamaze class, Will cozies up to a pregnant sportswriter, who takes him to a game -- and delivers more than just fun.</Overview>
   <ProductionCode>446961</ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>8</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>9</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Leslie Ray|David Steven Simon|</Writer>
   <absolute_number>60</absolute_number>
   <filename>episodes/76738/213826.jpg</filename>
-  <lastupdated>1382812790</lastupdated>
+  <lastupdated>1431266917</lastupdated>
   <seasonid>11320</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -2133,23 +2133,23 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>12.0</DVD_episodenumber>
   <DVD_season>3</DVD_season>
-  <Director>|Michael Peters|</Director>
+  <Director>Michael Peters</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>The Cold War</EpisodeName>
   <EpisodeNumber>12</EpisodeNumber>
   <FirstAired>1992-12-07</FirstAired>
-  <GuestStars>|Lisa Marie Russell|</GuestStars>
+  <GuestStars>Lisa Marie Russell</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>Carlton Banks is very depressed after being rejected by Paula, unaware that she has left him for Will. Meanwhile, Philip and Vivian receive an envelope from their doctor containing an ultrasound picture revealing the sex of Vivian's fetus. Not wanting to spoil their surprise in the delivery room, they entrust the sealed envelope to their butler, Geoffrey ...then curiosity gets the better of them.</Overview>
   <ProductionCode>446962</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>12</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>13</RatingCount>
   <SeasonNumber>3</SeasonNumber>
-  <Writer>|Michael Peters|</Writer>
+  <Writer>Michael Peters</Writer>
   <absolute_number>61</absolute_number>
   <filename>episodes/76738/213827.jpg</filename>
-  <lastupdated>1382812806</lastupdated>
+  <lastupdated>1431267178</lastupdated>
   <seasonid>11320</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -2164,7 +2164,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>13.0</DVD_episodenumber>
   <DVD_season>3</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>Mommy Nearest</EpisodeName>
   <EpisodeNumber>13</EpisodeNumber>
@@ -2174,13 +2174,13 @@
   <Language>en</Language>
   <Overview>Will's mother tells Will that she's broken her engagement to Robert and eagerly awaits her son's graduation so they can return to Philadelphia together. A shocked Will is afraid to tell her that he wants to attend college in California and remain with his Bel-Air family and friends, and suffers a nightmarish fantasy of what it would be like still living with his mother when he's 60 years old.</Overview>
   <ProductionCode>446963</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>10</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>11</RatingCount>
   <SeasonNumber>3</SeasonNumber>
-  <Writer>|Efrem Seeger|</Writer>
+  <Writer>Efrem Seeger</Writer>
   <absolute_number>62</absolute_number>
   <filename>episodes/76738/213828.jpg</filename>
-  <lastupdated>1382812822</lastupdated>
+  <lastupdated>1431266736</lastupdated>
   <seasonid>11320</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -2195,7 +2195,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>14.0</DVD_episodenumber>
   <DVD_season>3</DVD_season>
-  <Director>|Werner Walian|</Director>
+  <Director>Werner Walian</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>Winner Takes Off</EpisodeName>
   <EpisodeNumber>14</EpisodeNumber>
@@ -2205,13 +2205,13 @@
   <Language>en</Language>
   <Overview>Will and Carlton convince Geoffrey that he has won a multimillion dollar lottery.</Overview>
   <ProductionCode>446964</ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>10</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>11</RatingCount>
   <SeasonNumber>3</SeasonNumber>
-  <Writer>|Casey Maxwell Clair|</Writer>
+  <Writer>Casey Maxwell Clair</Writer>
   <absolute_number>63</absolute_number>
   <filename>episodes/76738/213829.jpg</filename>
-  <lastupdated>1382812888</lastupdated>
+  <lastupdated>1431267290</lastupdated>
   <seasonid>11320</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -2226,7 +2226,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>15.0</DVD_episodenumber>
   <DVD_season>3</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>Robbing the Banks</EpisodeName>
   <EpisodeNumber>15</EpisodeNumber>
@@ -2239,10 +2239,10 @@
   <Rating>7.4</Rating>
   <RatingCount>9</RatingCount>
   <SeasonNumber>3</SeasonNumber>
-  <Writer>|Winifred Hervey|</Writer>
+  <Writer>Winifred Hervey</Writer>
   <absolute_number>64</absolute_number>
   <filename>episodes/76738/213830.jpg</filename>
-  <lastupdated>1382812902</lastupdated>
+  <lastupdated>1431266986</lastupdated>
   <seasonid>11320</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -2257,7 +2257,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>16.0</DVD_episodenumber>
   <DVD_season>3</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>Bundle of Joy</EpisodeName>
   <EpisodeNumber>16</EpisodeNumber>
@@ -2267,13 +2267,13 @@
   <Language>en</Language>
   <Overview>As Vivian's delivery date approaches, the family fantasizes about what the baby will mean to each of them: Ashley feels all but invisible, Geoffrey feels overwhelmed by the family's demands, and Vivian feels like she's having triplets.</Overview>
   <ProductionCode>446974</ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>8</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>9</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Myles Avery Mapp|K. Snyder|</Writer>
   <absolute_number>65</absolute_number>
   <filename>episodes/76738/213831.jpg</filename>
-  <lastupdated>1382812919</lastupdated>
+  <lastupdated>1431267509</lastupdated>
   <seasonid>11320</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -2288,23 +2288,23 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>17.0</DVD_episodenumber>
   <DVD_season>3</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>The Best Laid Plans</EpisodeName>
   <EpisodeNumber>17</EpisodeNumber>
   <FirstAired>1993-02-01</FirstAired>
-  <GuestStars>|Kim Fields|</GuestStars>
+  <GuestStars>Kim Fields</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>Will tries to dupe a girl into intimacy.</Overview>
   <ProductionCode>446965</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>10</RatingCount>
+  <RatingCount>11</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Leslie Ray|David Steven Simon|</Writer>
   <absolute_number>66</absolute_number>
   <filename>episodes/76738/213832.jpg</filename>
-  <lastupdated>1382812939</lastupdated>
+  <lastupdated>1431266675</lastupdated>
   <seasonid>11320</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -2319,7 +2319,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>18.0</DVD_episodenumber>
   <DVD_season>3</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>The Alma Matter</EpisodeName>
   <EpisodeNumber>18</EpisodeNumber>
@@ -2330,12 +2330,12 @@
   <Overview>Princeton accepts Will but rejects Carlton -- whose guardian angel helps him see the light.</Overview>
   <ProductionCode>446968</ProductionCode>
   <Rating>7.0</Rating>
-  <RatingCount>8</RatingCount>
+  <RatingCount>9</RatingCount>
   <SeasonNumber>3</SeasonNumber>
-  <Writer>|Bryan Winter|</Writer>
+  <Writer>Bryan Winter</Writer>
   <absolute_number>67</absolute_number>
   <filename>episodes/76738/213833.jpg</filename>
-  <lastupdated>1382812957</lastupdated>
+  <lastupdated>1431266721</lastupdated>
   <seasonid>11320</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -2350,7 +2350,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>19.0</DVD_episodenumber>
   <DVD_season>3</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>Just Say Yo</EpisodeName>
   <EpisodeNumber>19</EpisodeNumber>
@@ -2360,13 +2360,13 @@
   <Language>en</Language>
   <Overview>Will learns a sobering lesson after Carlton pops the wrong pills from Will's locker, mistaking amphetamines for vitamins, and winds up in hospital.</Overview>
   <ProductionCode>446969</ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>8</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>9</RatingCount>
   <SeasonNumber>3</SeasonNumber>
-  <Writer>|Efrem Seeger|</Writer>
+  <Writer>Efrem Seeger</Writer>
   <absolute_number>68</absolute_number>
   <filename>episodes/76738/213834.jpg</filename>
-  <lastupdated>1382812976</lastupdated>
+  <lastupdated>1431267041</lastupdated>
   <seasonid>11320</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -2381,7 +2381,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>20.0</DVD_episodenumber>
   <DVD_season>3</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>The Baby Comes Out</EpisodeName>
   <EpisodeNumber>20</EpisodeNumber>
@@ -2391,13 +2391,13 @@
   <Language>en</Language>
   <Overview>Vivian's baby is a week late, but family members and her visiting sisters are nowhere to be found when it's time to rush to the hospital.</Overview>
   <ProductionCode>446967</ProductionCode>
-  <Rating>8.0</Rating>
-  <RatingCount>9</RatingCount>
+  <Rating>7.9</Rating>
+  <RatingCount>10</RatingCount>
   <SeasonNumber>3</SeasonNumber>
-  <Writer>|Winifred Hervey|</Writer>
+  <Writer>Winifred Hervey</Writer>
   <absolute_number>69</absolute_number>
   <filename>episodes/76738/213835.jpg</filename>
-  <lastupdated>1382812995</lastupdated>
+  <lastupdated>1431267494</lastupdated>
   <seasonid>11320</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -2412,7 +2412,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>21.0</DVD_episodenumber>
   <DVD_season>3</DVD_season>
-  <Director>|Chuck Vinson|</Director>
+  <Director>Chuck Vinson</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>You Bet Your Life</EpisodeName>
   <EpisodeNumber>21</EpisodeNumber>
@@ -2425,10 +2425,10 @@
   <Rating>7.7</Rating>
   <RatingCount>9</RatingCount>
   <SeasonNumber>3</SeasonNumber>
-  <Writer>|Samm-Art Williams|</Writer>
+  <Writer>Samm-Art Williams</Writer>
   <absolute_number>70</absolute_number>
   <filename>episodes/76738/213836.jpg</filename>
-  <lastupdated>1382813080</lastupdated>
+  <lastupdated>1431266889</lastupdated>
   <seasonid>11320</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -2454,12 +2454,12 @@
   <Overview>Will lands a spot in a comedy showcase after accompanying a comic friend to an audition.</Overview>
   <ProductionCode>446971</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>7</RatingCount>
+  <RatingCount>8</RatingCount>
   <SeasonNumber>3</SeasonNumber>
-  <Writer>|Jeff Pollack|</Writer>
+  <Writer>Jeff Pollack</Writer>
   <absolute_number>71</absolute_number>
   <filename>episodes/76738/213837.jpg</filename>
-  <lastupdated>1382813096</lastupdated>
+  <lastupdated>1432024728</lastupdated>
   <seasonid>11320</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -2474,23 +2474,23 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>23.0</DVD_episodenumber>
   <DVD_season>3</DVD_season>
-  <Director>|Maynard C. Virgil|</Director>
+  <Director>Maynard C. Virgil</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>The Way We Were</EpisodeName>
   <EpisodeNumber>23</EpisodeNumber>
   <FirstAired>1993-05-03</FirstAired>
-  <GuestStars>|Obaka Adedunyo|</GuestStars>
+  <GuestStars>Obaka Adedunyo</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>Series clips illustrate family recollections as the kids put together a scrapbook for Vivian and Philip, who want to renew their vows on their anniversary.</Overview>
   <ProductionCode>446973</ProductionCode>
-  <Rating>7.1</Rating>
-  <RatingCount>9</RatingCount>
+  <Rating>6.8</Rating>
+  <RatingCount>10</RatingCount>
   <SeasonNumber>3</SeasonNumber>
-  <Writer>|Michael Fry|</Writer>
+  <Writer>Michael Fry</Writer>
   <absolute_number>72</absolute_number>
   <filename>episodes/76738/213838.jpg</filename>
-  <lastupdated>1382813110</lastupdated>
+  <lastupdated>1431266603</lastupdated>
   <seasonid>11320</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -2505,7 +2505,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>24.0</DVD_episodenumber>
   <DVD_season>3</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>Six Degrees of Graduation</EpisodeName>
   <EpisodeNumber>24</EpisodeNumber>
@@ -2516,12 +2516,12 @@
   <Overview>Vy anticipates Will's graduation with enthusiasm, but there may be discord when she learns Will is failing music. To pass his music class, Will must sing at the graduation ceremony -- with a class of eight-year-olds.</Overview>
   <ProductionCode>446972</ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>6</RatingCount>
+  <RatingCount>8</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Bryan Winter|Efrem Seeger|</Writer>
   <absolute_number>73</absolute_number>
   <filename>episodes/76738/213839.jpg</filename>
-  <lastupdated>1382813132</lastupdated>
+  <lastupdated>1431267321</lastupdated>
   <seasonid>11320</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -2536,7 +2536,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>1.0</DVD_episodenumber>
   <DVD_season>4</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>Where There's a Will, There's a Way (1)</EpisodeName>
   <EpisodeNumber>1</EpisodeNumber>
@@ -2546,13 +2546,13 @@
   <Language>en</Language>
   <Overview>Philip and Vivian have the new baby, but Will and Carlton have the new crib: their own college apartment.</Overview>
   <ProductionCode>60031</ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>8</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>9</RatingCount>
   <SeasonNumber>4</SeasonNumber>
-  <Writer>|Gary H. Miller|</Writer>
+  <Writer>Gary H. Miller</Writer>
   <absolute_number>74</absolute_number>
   <filename>episodes/76738/213840.jpg</filename>
-  <lastupdated>1394273039</lastupdated>
+  <lastupdated>1431267131</lastupdated>
   <seasonid>11321</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -2567,7 +2567,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>2.0</DVD_episodenumber>
   <DVD_season>4</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>Where There's a Will, There's a Way (2)</EpisodeName>
   <EpisodeNumber>2</EpisodeNumber>
@@ -2577,13 +2577,13 @@
   <Language>en</Language>
   <Overview>Homeless homies. After Jazz gets the guys evicted, Will and Carlton search for new lodgings.</Overview>
   <ProductionCode>60032</ProductionCode>
-  <Rating>7.1</Rating>
-  <RatingCount>8</RatingCount>
+  <Rating>7.2</Rating>
+  <RatingCount>9</RatingCount>
   <SeasonNumber>4</SeasonNumber>
-  <Writer>|Gary H. Miller|</Writer>
+  <Writer>Gary H. Miller</Writer>
   <absolute_number>75</absolute_number>
   <filename>episodes/76738/213841.jpg</filename>
-  <lastupdated>1394273046</lastupdated>
+  <lastupdated>1431266662</lastupdated>
   <seasonid>11321</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -2598,7 +2598,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>3.0</DVD_episodenumber>
   <DVD_season>4</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>All Guts, No Glory</EpisodeName>
   <EpisodeNumber>3</EpisodeNumber>
@@ -2608,13 +2608,13 @@
   <Language>en</Language>
   <Overview>College: parties, freedom...learning? Will is stunned to find his toughest class is also his most rewarding.</Overview>
   <ProductionCode>60033</ProductionCode>
-  <Rating>7.3</Rating>
-  <RatingCount>8</RatingCount>
+  <Rating>7.2</Rating>
+  <RatingCount>9</RatingCount>
   <SeasonNumber>4</SeasonNumber>
-  <Writer>|Maiya Williams|</Writer>
+  <Writer>Maiya Williams</Writer>
   <absolute_number>76</absolute_number>
   <filename>episodes/76738/213842.jpg</filename>
-  <lastupdated>1381456041</lastupdated>
+  <lastupdated>1431266557</lastupdated>
   <seasonid>11321</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -2629,7 +2629,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>4.0</DVD_episodenumber>
   <DVD_season>4</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>Father of the Year</EpisodeName>
   <EpisodeNumber>4</EpisodeNumber>
@@ -2639,13 +2639,13 @@
   <Language>en</Language>
   <Overview>Daddy yo! Cooing cooeds flock around &quot;single dad&quot; Will when they think his baby cousin is his son.</Overview>
   <ProductionCode>60034</ProductionCode>
-  <Rating>7.9</Rating>
-  <RatingCount>8</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>9</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Leslie Ray|David Steven Simon|</Writer>
   <absolute_number>77</absolute_number>
   <filename>episodes/76738/213843.jpg</filename>
-  <lastupdated>1381456080</lastupdated>
+  <lastupdated>1431267069</lastupdated>
   <seasonid>11321</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -2660,7 +2660,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>5.0</DVD_episodenumber>
   <DVD_season>4</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>It's Better to Have Loved and Lost It...</EpisodeName>
   <EpisodeNumber>5</EpisodeNumber>
@@ -2670,13 +2670,13 @@
   <Language>en</Language>
   <Overview>The 18 year old virgin...not! Carlton gets really lucky. His first conquest is Miss Right.</Overview>
   <ProductionCode>60036</ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>8</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>9</RatingCount>
   <SeasonNumber>4</SeasonNumber>
-  <Writer>|David Zuckerman|</Writer>
+  <Writer>David Zuckerman</Writer>
   <absolute_number>78</absolute_number>
   <filename>episodes/76738/213844.jpg</filename>
-  <lastupdated>1381456111</lastupdated>
+  <lastupdated>1431267276</lastupdated>
   <seasonid>11321</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -2691,7 +2691,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>6.0</DVD_episodenumber>
   <DVD_season>4</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>Will Goes a-Courtin'</EpisodeName>
   <EpisodeNumber>6</EpisodeNumber>
@@ -2701,13 +2701,13 @@
   <Language>en</Language>
   <Overview>Fight the power. Will and Carlton head to court to battle their evil landlord - Judge Philip Banks.</Overview>
   <ProductionCode>60037</ProductionCode>
-  <Rating>7.9</Rating>
-  <RatingCount>7</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>8</RatingCount>
   <SeasonNumber>4</SeasonNumber>
-  <Writer>|Bill Boulware|</Writer>
+  <Writer>Bill Boulware</Writer>
   <absolute_number>79</absolute_number>
   <filename>episodes/76738/213845.jpg</filename>
-  <lastupdated>1382852930</lastupdated>
+  <lastupdated>1431266805</lastupdated>
   <seasonid>11321</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -2722,7 +2722,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>7.0</DVD_episodenumber>
   <DVD_season>4</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>Hex and the Single Guy</EpisodeName>
   <EpisodeNumber>7</EpisodeNumber>
@@ -2732,13 +2732,13 @@
   <Language>en</Language>
   <Overview>Will disses a seance - until the spiritualist zaps him with a hex that (uh-oh) seems to work.</Overview>
   <ProductionCode>60038</ProductionCode>
-  <Rating>7.3</Rating>
-  <RatingCount>6</RatingCount>
+  <Rating>7.1</Rating>
+  <RatingCount>7</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Barry Gurstein|David Pitlik|</Writer>
   <absolute_number>80</absolute_number>
   <filename>episodes/76738/213846.jpg</filename>
-  <lastupdated>1381456177</lastupdated>
+  <lastupdated>1431266650</lastupdated>
   <seasonid>11321</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -2753,7 +2753,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>8.0</DVD_episodenumber>
   <DVD_season>4</DVD_season>
-  <Director>|Chuck Vinson|</Director>
+  <Director>Chuck Vinson</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>Blood is Thicker Than Mud</EpisodeName>
   <EpisodeNumber>8</EpisodeNumber>
@@ -2764,12 +2764,12 @@
   <Overview>A bro with dough? Carlton's upper-class upbringing may make him unwelcome at a black fraternity.</Overview>
   <ProductionCode>60039</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>12</RatingCount>
+  <RatingCount>13</RatingCount>
   <SeasonNumber>4</SeasonNumber>
-  <Writer>|Devon Shepard|</Writer>
+  <Writer>Devon Shepard</Writer>
   <absolute_number>81</absolute_number>
   <filename>episodes/76738/213847.jpg</filename>
-  <lastupdated>1381456212</lastupdated>
+  <lastupdated>1431267138</lastupdated>
   <seasonid>11321</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -2784,7 +2784,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>9.0</DVD_episodenumber>
   <DVD_season>4</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>Fresh Prince After Dark</EpisodeName>
   <EpisodeNumber>9</EpisodeNumber>
@@ -2794,13 +2794,13 @@
   <Language>en</Language>
   <Overview>Playboyz. Will and Carlton go hip-hoppin' down the bunny trail at Hugh Hefner's mansion.</Overview>
   <ProductionCode>60035</ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>10</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>11</RatingCount>
   <SeasonNumber>4</SeasonNumber>
-  <Writer>|Eddie Gorodetsky|</Writer>
+  <Writer>Eddie Gorodetsky</Writer>
   <absolute_number>82</absolute_number>
   <filename>episodes/76738/213848.jpg</filename>
-  <lastupdated>1382853049</lastupdated>
+  <lastupdated>1431267033</lastupdated>
   <seasonid>11321</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -2815,7 +2815,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>10.0</DVD_episodenumber>
   <DVD_season>4</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>Home is Where the Heart Attack Is</EpisodeName>
   <EpisodeNumber>10</EpisodeNumber>
@@ -2825,13 +2825,13 @@
   <Language>en</Language>
   <Overview>Dieting Philip is desperate for a burger, so Will brings him the greasy goods. One bite...and Philip keels over.</Overview>
   <ProductionCode>60040</ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>8</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>9</RatingCount>
   <SeasonNumber>4</SeasonNumber>
-  <Writer>|Eddie Gorodetsky|</Writer>
+  <Writer>Eddie Gorodetsky</Writer>
   <absolute_number>83</absolute_number>
   <filename>episodes/76738/213849.jpg</filename>
-  <lastupdated>1382851779</lastupdated>
+  <lastupdated>1431267090</lastupdated>
   <seasonid>11321</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -2846,7 +2846,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>11.0</DVD_episodenumber>
   <DVD_season>4</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>Take My Cousin -- Please</EpisodeName>
   <EpisodeNumber>11</EpisodeNumber>
@@ -2859,10 +2859,10 @@
   <Rating>7.6</Rating>
   <RatingCount>7</RatingCount>
   <SeasonNumber>4</SeasonNumber>
-  <Writer>|David Zuckerman|</Writer>
+  <Writer>David Zuckerman</Writer>
   <absolute_number>84</absolute_number>
   <filename>episodes/76738/213850.jpg</filename>
-  <lastupdated>1382851752</lastupdated>
+  <lastupdated>1431267515</lastupdated>
   <seasonid>11321</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -2877,7 +2877,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>12.0</DVD_episodenumber>
   <DVD_season>4</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>You've Got to Be a Football Hero</EpisodeName>
   <EpisodeNumber>12</EpisodeNumber>
@@ -2888,12 +2888,12 @@
   <Overview>Will doesn't have a ghost of a chance when he's dumped in a spook-filled cemetery.</Overview>
   <ProductionCode>60042</ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>9</RatingCount>
+  <RatingCount>10</RatingCount>
   <SeasonNumber>4</SeasonNumber>
-  <Writer>|Bill Boulware|</Writer>
+  <Writer>Bill Boulware</Writer>
   <absolute_number>85</absolute_number>
   <filename>episodes/76738/213851.jpg</filename>
-  <lastupdated>1382851735</lastupdated>
+  <lastupdated>1431266884</lastupdated>
   <seasonid>11321</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -2908,7 +2908,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>13.0</DVD_episodenumber>
   <DVD_season>4</DVD_season>
-  <Director>|Eddie Gorodetsky|</Director>
+  <Director>Eddie Gorodetsky</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>'Twas the Night Before Christening</EpisodeName>
   <EpisodeNumber>13</EpisodeNumber>
@@ -2918,13 +2918,13 @@
   <Language>en</Language>
   <Overview>A lullaby with a groove. Will promises that Boyz II Men will perform at Nicky's christening.</Overview>
   <ProductionCode>60043</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>10</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>11</RatingCount>
   <SeasonNumber>4</SeasonNumber>
-  <Writer>|Samm-Art Williams|</Writer>
+  <Writer>Samm-Art Williams</Writer>
   <absolute_number>86</absolute_number>
   <filename>episodes/76738/213852.jpg</filename>
-  <lastupdated>1382851717</lastupdated>
+  <lastupdated>1431267357</lastupdated>
   <seasonid>11321</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -2939,7 +2939,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>14.0</DVD_episodenumber>
   <DVD_season>4</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>Sleepless in Bel-Air</EpisodeName>
   <EpisodeNumber>14</EpisodeNumber>
@@ -2949,13 +2949,13 @@
   <Language>en</Language>
   <Overview>Is the night before the exam too late to open the chemistry book? Will is about to find out.</Overview>
   <ProductionCode>60054</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>10</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>11</RatingCount>
   <SeasonNumber>4</SeasonNumber>
-  <Writer>|Mayia Williams|</Writer>
+  <Writer>Mayia Williams</Writer>
   <absolute_number>87</absolute_number>
   <filename>episodes/76738/213853.jpg</filename>
-  <lastupdated>1382819265</lastupdated>
+  <lastupdated>1431266728</lastupdated>
   <seasonid>11321</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -2970,7 +2970,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>15.0</DVD_episodenumber>
   <DVD_season>4</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>Who's the Boss</EpisodeName>
   <EpisodeNumber>15</EpisodeNumber>
@@ -2981,12 +2981,12 @@
   <Overview>Carlton in charge. Will gets his feathers ruffled when his cousin becomes his boss at the Peacock Stop.</Overview>
   <ProductionCode>60044</ProductionCode>
   <Rating>7.0</Rating>
-  <RatingCount>8</RatingCount>
+  <RatingCount>9</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>|David Pitlik|Barry Gurstein|</Writer>
   <absolute_number>88</absolute_number>
   <filename>episodes/76738/213854.jpg</filename>
-  <lastupdated>1382819249</lastupdated>
+  <lastupdated>1431267186</lastupdated>
   <seasonid>11321</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -3001,7 +3001,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>16.0</DVD_episodenumber>
   <DVD_season>4</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>I Know Why the Caged Bird Screams</EpisodeName>
   <EpisodeNumber>16</EpisodeNumber>
@@ -3012,12 +3012,12 @@
   <Overview>Bird is the word when Carlton, ULA's peacock mascot, is kidnapped by a rival school before the big game.</Overview>
   <ProductionCode>60045</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>7</RatingCount>
+  <RatingCount>8</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Bill Boulware|David Zuckerman|</Writer>
   <absolute_number>89</absolute_number>
   <filename>episodes/76738/213855.jpg</filename>
-  <lastupdated>1382819234</lastupdated>
+  <lastupdated>1431267062</lastupdated>
   <seasonid>11321</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -3032,7 +3032,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>17.0</DVD_episodenumber>
   <DVD_season>4</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>When You Hit Upon a Star</EpisodeName>
   <EpisodeNumber>17</EpisodeNumber>
@@ -3042,13 +3042,13 @@
   <Language>en</Language>
   <Overview>Bring on the bling. Will develops a taste for yachts and private jets when he dates a superstar singer.</Overview>
   <ProductionCode>60046</ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>8</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>9</RatingCount>
   <SeasonNumber>4</SeasonNumber>
-  <Writer>|Michael Soccio|</Writer>
+  <Writer>Michael Soccio</Writer>
   <absolute_number>90</absolute_number>
   <filename>episodes/76738/213856.jpg</filename>
-  <lastupdated>1382819215</lastupdated>
+  <lastupdated>1431267117</lastupdated>
   <seasonid>11321</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -3063,7 +3063,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>18.0</DVD_episodenumber>
   <DVD_season>4</DVD_season>
-  <Director>|Maynard C. Virgil I|</Director>
+  <Director>Maynard C. Virgil I</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>Stop Will! In the Name of Love</EpisodeName>
   <EpisodeNumber>18</EpisodeNumber>
@@ -3073,13 +3073,13 @@
   <Language>en</Language>
   <Overview>It's double trouble for Ashley's love life when she and Will double date on Valentin'e Day.</Overview>
   <ProductionCode>60048</ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>6</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>7</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Gayle Abrams|Jenji Kohan|</Writer>
   <absolute_number>91</absolute_number>
   <filename>episodes/76738/213857.jpg</filename>
-  <lastupdated>1382819196</lastupdated>
+  <lastupdated>1431266786</lastupdated>
   <seasonid>11321</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -3094,7 +3094,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>19.0</DVD_episodenumber>
   <DVD_season>4</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>You'd Better Shop Around</EpisodeName>
   <EpisodeNumber>19</EpisodeNumber>
@@ -3104,13 +3104,13 @@
   <Language>en</Language>
   <Overview>Selling out. Will drops out of college to chase big bucks as a car salesman.</Overview>
   <ProductionCode>60047</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>7</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>9</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Devon Shepard|K. Snyder|</Writer>
   <absolute_number>92</absolute_number>
   <filename>episodes/76738/213858.jpg</filename>
-  <lastupdated>1382819179</lastupdated>
+  <lastupdated>1431267299</lastupdated>
   <seasonid>11321</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -3125,7 +3125,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>20.0</DVD_episodenumber>
   <DVD_season>4</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>The Ol' Ball and Chain</EpisodeName>
   <EpisodeNumber>20</EpisodeNumber>
@@ -3135,13 +3135,13 @@
   <Language>en</Language>
   <Overview>Jazz's bride has a couple of teensy character flaws: She's a convict. And she puts the moves on Will.</Overview>
   <ProductionCode>60049</ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>8</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>10</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Arnold Rudnick|Rich Hosek|</Writer>
   <absolute_number>93</absolute_number>
   <filename>episodes/76738/213859.jpg</filename>
-  <lastupdated>1382819065</lastupdated>
+  <lastupdated>1431266993</lastupdated>
   <seasonid>11321</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -3156,7 +3156,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>21.0</DVD_episodenumber>
   <DVD_season>4</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>The Harder They Fall</EpisodeName>
   <EpisodeNumber>21</EpisodeNumber>
@@ -3166,13 +3166,13 @@
   <Language>en</Language>
   <Overview>Fresh Prince, paratrooper. Will parachutes out of a disabled plane with his girlfriend's overbearing father.</Overview>
   <ProductionCode>60050</ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>6</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>8</RatingCount>
   <SeasonNumber>4</SeasonNumber>
-  <Writer>|Devon Shepard|</Writer>
+  <Writer>Devon Shepard</Writer>
   <absolute_number>94</absolute_number>
   <filename>episodes/76738/213860.jpg</filename>
-  <lastupdated>1382819029</lastupdated>
+  <lastupdated>1431266681</lastupdated>
   <seasonid>11321</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -3187,7 +3187,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>22.0</DVD_episodenumber>
   <DVD_season>4</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>'M' is for the Many Things She Gave Me</EpisodeName>
   <EpisodeNumber>22</EpisodeNumber>
@@ -3197,13 +3197,13 @@
   <Language>en</Language>
   <Overview>A visit from Philip's college girlfriend makes Vivian wonder if the old flame still flickers.</Overview>
   <ProductionCode>60060</ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>6</RatingCount>
+  <Rating>7.1</Rating>
+  <RatingCount>8</RatingCount>
   <SeasonNumber>4</SeasonNumber>
-  <Writer>|Gary H. Miller|</Writer>
+  <Writer>Gary H. Miller</Writer>
   <absolute_number>95</absolute_number>
   <filename>episodes/76738/213861.jpg</filename>
-  <lastupdated>1383091743</lastupdated>
+  <lastupdated>1431267102</lastupdated>
   <seasonid>11321</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -3218,7 +3218,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>23.0</DVD_episodenumber>
   <DVD_season>4</DVD_season>
-  <Director>|Madeline Cripe|</Director>
+  <Director>Madeline Cripe</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>Mother's Day</EpisodeName>
   <EpisodeNumber>23</EpisodeNumber>
@@ -3228,13 +3228,13 @@
   <Language>en</Language>
   <Overview>Say, homie, could you do me a favor? Just-married Jazz makes a surprising request of Will.</Overview>
   <ProductionCode>60051</ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>4</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>5</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Leslie Ray|David Steven Simon|</Writer>
   <absolute_number>96</absolute_number>
   <filename>episodes/76738/213862.jpg</filename>
-  <lastupdated>1382813885</lastupdated>
+  <lastupdated>1431267437</lastupdated>
   <seasonid>11321</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -3249,7 +3249,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>24.0</DVD_episodenumber>
   <DVD_season>4</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>Papa's Got a Brand-New Excuse</EpisodeName>
   <EpisodeNumber>24</EpisodeNumber>
@@ -3259,13 +3259,13 @@
   <Language>en</Language>
   <Overview>Life without Father. Will's deadbeat dad shows up full of bright, shiny father-and-son plans.</Overview>
   <ProductionCode>60053</ProductionCode>
-  <Rating>7.9</Rating>
-  <RatingCount>7</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>9</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Bill Boulware|David Zuckerman|</Writer>
   <absolute_number>97</absolute_number>
   <filename>episodes/76738/213863.jpg</filename>
-  <lastupdated>1382813788</lastupdated>
+  <lastupdated>1431266694</lastupdated>
   <seasonid>11321</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -3280,7 +3280,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>25.0</DVD_episodenumber>
   <DVD_season>4</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>For Sale By Owner</EpisodeName>
   <EpisodeNumber>25</EpisodeNumber>
@@ -3290,13 +3290,13 @@
   <Language>en</Language>
   <Overview>The Banks take a trip down memory lane when they're offered a tidy profit to sell the family house.</Overview>
   <ProductionCode>60061</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>5</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>7</RatingCount>
   <SeasonNumber>4</SeasonNumber>
-  <Writer>|Harrison Boyd|</Writer>
+  <Writer>Harrison Boyd</Writer>
   <absolute_number>98</absolute_number>
   <filename>episodes/76738/213864.jpg</filename>
-  <lastupdated>1382813769</lastupdated>
+  <lastupdated>1431267486</lastupdated>
   <seasonid>11321</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -3311,7 +3311,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>26.0</DVD_episodenumber>
   <DVD_season>4</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>The Philadelphia Story</EpisodeName>
   <EpisodeNumber>26</EpisodeNumber>
@@ -3321,45 +3321,14 @@
   <Language>en</Language>
   <Overview>Cluck, cluck, cluck. On a trip to Philly, the Banks discover that Will has a hometown rep as a chicken.</Overview>
   <ProductionCode>60052</ProductionCode>
-  <Rating>7.3</Rating>
-  <RatingCount>6</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>7</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Maiya Williams|Eddie Gorodetsky|</Writer>
   <absolute_number>99</absolute_number>
   <filename>episodes/76738/213865.jpg</filename>
-  <lastupdated>1382813716</lastupdated>
+  <lastupdated>1431267027</lastupdated>
   <seasonid>11321</seasonid>
-  <seriesid>76738</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height>300</thumb_height>
-  <thumb_width>400</thumb_width>
-</Episode>
-<Episode>
-  <id>213866</id>
-  <Combined_episodenumber>1.0</Combined_episodenumber>
-  <Combined_season>5</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber>1.0</DVD_episodenumber>
-  <DVD_season>5</DVD_season>
-  <Director>|Shelley Jensen|</Director>
-  <EpImgFlag>3</EpImgFlag>
-  <EpisodeName>The Client</EpisodeName>
-  <EpisodeNumber>1</EpisodeNumber>
-  <FirstAired>1994-09-19</FirstAired>
-  <GuestStars>|Obba Babatunde|David Bowe|Anastasia N. Ali|Max Miller|</GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview>Will's career as a music man hits a few sour notes.</Overview>
-  <ProductionCode>60064</ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>6</RatingCount>
-  <SeasonNumber>5</SeasonNumber>
-  <Writer>|Barry Gurstein|David Pitlik|</Writer>
-  <absolute_number>100</absolute_number>
-  <filename>episodes/76738/213866.jpg</filename>
-  <lastupdated>1394273065</lastupdated>
-  <seasonid>11322</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
   <thumb_height>300</thumb_height>
@@ -3373,10 +3342,10 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>2.0</DVD_episodenumber>
   <DVD_season>5</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>3</EpImgFlag>
-  <EpisodeName>What's Will Got to Do With It?</EpisodeName>
-  <EpisodeNumber>2</EpisodeNumber>
+  <EpisodeName>What's Will Got to Do With It? (1)</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
   <FirstAired>1994-09-19</FirstAired>
   <GuestStars>|Obba Babatunde|Danell Suttles|Quincy Jones|Little Richard|Norman Fell|</GuestStars>
   <IMDB_ID></IMDB_ID>
@@ -3384,12 +3353,43 @@
   <Overview>Dough-re-me. Will thinks Ashley can make big bucks in the singing biz if she picks the right manager: him.</Overview>
   <ProductionCode>60065</ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>6</RatingCount>
+  <RatingCount>8</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>|Barry Gurstein|David Pitlik|</Writer>
+  <absolute_number>100</absolute_number>
+  <filename>episodes/76738/213867.jpg</filename>
+  <lastupdated>1431267249</lastupdated>
+  <seasonid>11322</seasonid>
+  <seriesid>76738</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>213866</id>
+  <Combined_episodenumber>1.0</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>1.0</DVD_episodenumber>
+  <DVD_season>5</DVD_season>
+  <Director>Shelley Jensen</Director>
+  <EpImgFlag>3</EpImgFlag>
+  <EpisodeName>The Client (2)</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>1994-09-19</FirstAired>
+  <GuestStars>|Obba Babatunde|David Bowe|Anastasia N. Ali|Max Miller|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Will's career as a music man hits a few sour notes.</Overview>
+  <ProductionCode>60064</ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>7</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>|Barry Gurstein|David Pitlik|</Writer>
   <absolute_number>101</absolute_number>
-  <filename>episodes/76738/213867.jpg</filename>
-  <lastupdated>1394273072</lastupdated>
+  <filename>episodes/76738/213866.jpg</filename>
+  <lastupdated>1431266550</lastupdated>
   <seasonid>11322</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -3404,7 +3404,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>3.0</DVD_episodenumber>
   <DVD_season>5</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>3</EpImgFlag>
   <EpisodeName>Reality Bites</EpisodeName>
   <EpisodeNumber>3</EpisodeNumber>
@@ -3414,13 +3414,13 @@
   <Language>en</Language>
   <Overview>&quot;Look here, you big orange Moby Dick.&quot; Will tangles with a grouchy whale who ditches a kiddie concert.</Overview>
   <ProductionCode>60063</ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>7</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>9</RatingCount>
   <SeasonNumber>5</SeasonNumber>
-  <Writer>|David Zuckerman|</Writer>
+  <Writer>David Zuckerman</Writer>
   <absolute_number>102</absolute_number>
   <filename>episodes/76738/213868.jpg</filename>
-  <lastupdated>1381562497</lastupdated>
+  <lastupdated>1431267007</lastupdated>
   <seasonid>11322</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -3435,7 +3435,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>4.0</DVD_episodenumber>
   <DVD_season>5</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>3</EpImgFlag>
   <EpisodeName>Grumpy Young Men</EpisodeName>
   <EpisodeNumber>4</EpisodeNumber>
@@ -3445,13 +3445,13 @@
   <Language>en</Language>
   <Overview>Kissin' cousin. War breaks out when the girl Will likes plants a big one on Carlton.</Overview>
   <ProductionCode>60066</ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>8</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>10</RatingCount>
   <SeasonNumber>5</SeasonNumber>
-  <Writer>|Michael Soccio|</Writer>
+  <Writer>Michael Soccio</Writer>
   <absolute_number>103</absolute_number>
   <filename>episodes/76738/213869.jpg</filename>
-  <lastupdated>1381562526</lastupdated>
+  <lastupdated>1431267158</lastupdated>
   <seasonid>11322</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -3466,7 +3466,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>5.0</DVD_episodenumber>
   <DVD_season>5</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>3</EpImgFlag>
   <EpisodeName>Fresh Prince: The Movie</EpisodeName>
   <EpisodeNumber>5</EpisodeNumber>
@@ -3477,12 +3477,12 @@
   <Overview>A mob killing, a bear and a pregnant backwoods belle. Will spins a tall tale to distract Jazz during a poker game.</Overview>
   <ProductionCode>60062</ProductionCode>
   <Rating>7.1</Rating>
-  <RatingCount>9</RatingCount>
+  <RatingCount>11</RatingCount>
   <SeasonNumber>5</SeasonNumber>
-  <Writer>|Gary H. Miller|</Writer>
+  <Writer>Gary H. Miller</Writer>
   <absolute_number>104</absolute_number>
   <filename>episodes/76738/213870.jpg</filename>
-  <lastupdated>1381562557</lastupdated>
+  <lastupdated>1431267478</lastupdated>
   <seasonid>11322</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -3497,7 +3497,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>6.0</DVD_episodenumber>
   <DVD_season>5</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>3</EpImgFlag>
   <EpisodeName>Will's Misery</EpisodeName>
   <EpisodeNumber>6</EpisodeNumber>
@@ -3510,10 +3510,10 @@
   <Rating>7.5</Rating>
   <RatingCount>6</RatingCount>
   <SeasonNumber>5</SeasonNumber>
-  <Writer>|Eddie Gorodetsky|</Writer>
+  <Writer>Eddie Gorodetsky</Writer>
   <absolute_number>105</absolute_number>
   <filename>episodes/76738/213871.jpg</filename>
-  <lastupdated>1381562587</lastupdated>
+  <lastupdated>1431266828</lastupdated>
   <seasonid>11322</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -3528,23 +3528,23 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>7.0</DVD_episodenumber>
   <DVD_season>5</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>3</EpImgFlag>
   <EpisodeName>Father Knows Best</EpisodeName>
   <EpisodeNumber>7</EpisodeNumber>
   <FirstAired>1994-10-24</FirstAired>
-  <GuestStars>|RenÃ©e Jones|</GuestStars>
+  <GuestStars>RenÃ©e Jones</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>To help Ashley out of a jam at school, Will poses as her father. Oh yeah, this is gonna work.</Overview>
   <ProductionCode>60068</ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>6</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>8</RatingCount>
   <SeasonNumber>5</SeasonNumber>
-  <Writer>|Andrea Wiley|</Writer>
+  <Writer>Andrea Wiley</Writer>
   <absolute_number>106</absolute_number>
   <filename>episodes/76738/213872.jpg</filename>
-  <lastupdated>1381562614</lastupdated>
+  <lastupdated>1431267579</lastupdated>
   <seasonid>11322</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -3559,7 +3559,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>8.0</DVD_episodenumber>
   <DVD_season>5</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>3</EpImgFlag>
   <EpisodeName>Soul Train</EpisodeName>
   <EpisodeNumber>8</EpisodeNumber>
@@ -3569,13 +3569,13 @@
   <Language>en</Language>
   <Overview>At a Soul Train reunion, middle-aged Philip feels like his train has left the station.</Overview>
   <ProductionCode>60069</ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>4</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>6</RatingCount>
   <SeasonNumber>5</SeasonNumber>
-  <Writer>|John Ridley|</Writer>
+  <Writer>John Ridley</Writer>
   <absolute_number>107</absolute_number>
   <filename>episodes/76738/213873.jpg</filename>
-  <lastupdated>1381562638</lastupdated>
+  <lastupdated>1431266772</lastupdated>
   <seasonid>11322</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -3590,7 +3590,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>9.0</DVD_episodenumber>
   <DVD_season>5</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>3</EpImgFlag>
   <EpisodeName>Love Hurts</EpisodeName>
   <EpisodeNumber>9</EpisodeNumber>
@@ -3600,13 +3600,13 @@
   <Language>en</Language>
   <Overview>Who da man? Not Will, who questions his manhood when Lisa drops a thug who knocked him down.</Overview>
   <ProductionCode>60070</ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>6</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>8</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>|Barry Gurstein|David Pitlik|</Writer>
   <absolute_number>108</absolute_number>
   <filename>episodes/76738/213874.jpg</filename>
-  <lastupdated>1381562664</lastupdated>
+  <lastupdated>1431267537</lastupdated>
   <seasonid>11322</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -3621,7 +3621,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>10.0</DVD_episodenumber>
   <DVD_season>5</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>3</EpImgFlag>
   <EpisodeName>Will's Up a Dirt Road</EpisodeName>
   <EpisodeNumber>10</EpisodeNumber>
@@ -3631,13 +3631,13 @@
   <Language>en</Language>
   <Overview>Headline news. Will's attempt to be a photojournalist leads to a $10-million lawsuit from Jay Leno.</Overview>
   <ProductionCode>60071</ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>5</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>7</RatingCount>
   <SeasonNumber>5</SeasonNumber>
-  <Writer>|Bennie Richberg Jr.|</Writer>
+  <Writer>Bennie Richberg Jr.</Writer>
   <absolute_number>109</absolute_number>
   <filename>episodes/76738/213875.jpg</filename>
-  <lastupdated>1381562700</lastupdated>
+  <lastupdated>1431266624</lastupdated>
   <seasonid>11322</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -3652,7 +3652,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>11.0</DVD_episodenumber>
   <DVD_season>5</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>3</EpImgFlag>
   <EpisodeName>Will Steps Out</EpisodeName>
   <EpisodeNumber>11</EpisodeNumber>
@@ -3662,13 +3662,13 @@
   <Language>en</Language>
   <Overview>To understand Philip's battle with the scale, Will dons a fat suit and gets a big fat lesson in empathy.</Overview>
   <ProductionCode>60072</ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>6</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>8</RatingCount>
   <SeasonNumber>5</SeasonNumber>
-  <Writer>|Maiya Williams|</Writer>
+  <Writer>Maiya Williams</Writer>
   <absolute_number>110</absolute_number>
   <filename>episodes/76738/213876.jpg</filename>
-  <lastupdated>1381562731</lastupdated>
+  <lastupdated>1431267523</lastupdated>
   <seasonid>11322</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -3683,7 +3683,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>12.0</DVD_episodenumber>
   <DVD_season>5</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>3</EpImgFlag>
   <EpisodeName>Same Game, Next Season</EpisodeName>
   <EpisodeNumber>12</EpisodeNumber>
@@ -3694,12 +3694,12 @@
   <Overview>Will works so hard to impress Lisa's dad that he spends all his free time with his new best buddy.</Overview>
   <ProductionCode>60073</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>7</RatingCount>
+  <RatingCount>8</RatingCount>
   <SeasonNumber>5</SeasonNumber>
-  <Writer>|David Zuckerman|</Writer>
+  <Writer>David Zuckerman</Writer>
   <absolute_number>111</absolute_number>
   <filename>episodes/76738/213877.jpg</filename>
-  <lastupdated>1381562757</lastupdated>
+  <lastupdated>1431267151</lastupdated>
   <seasonid>11322</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -3714,7 +3714,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>13.0</DVD_episodenumber>
   <DVD_season>5</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>3</EpImgFlag>
   <EpisodeName>Three's a Crowd</EpisodeName>
   <EpisodeNumber>13</EpisodeNumber>
@@ -3724,13 +3724,13 @@
   <Language>en</Language>
   <Overview>Snow way to treat a lady. Carlton gives Lisa the cold shoulder when she shows up at a guys-only ski trip.</Overview>
   <ProductionCode>60074</ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>6</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>8</RatingCount>
   <SeasonNumber>5</SeasonNumber>
-  <Writer>|Josh Goldstein|</Writer>
+  <Writer>Josh Goldstein</Writer>
   <absolute_number>112</absolute_number>
   <filename>episodes/76738/213878.jpg</filename>
-  <lastupdated>1381562782</lastupdated>
+  <lastupdated>1431266877</lastupdated>
   <seasonid>11322</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -3745,7 +3745,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>14.0</DVD_episodenumber>
   <DVD_season>5</DVD_season>
-  <Director>|Chuck Vinson|</Director>
+  <Director>Chuck Vinson</Director>
   <EpImgFlag>3</EpImgFlag>
   <EpisodeName>It's a Wonderful Lie</EpisodeName>
   <EpisodeNumber>14</EpisodeNumber>
@@ -3756,12 +3756,12 @@
   <Overview>The party's over. Will and Lisa tell each other lies so they can sneak off to the (uh-oh) same party.</Overview>
   <ProductionCode>60075</ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>6</RatingCount>
+  <RatingCount>8</RatingCount>
   <SeasonNumber>5</SeasonNumber>
-  <Writer>|Gayle Abrams|</Writer>
+  <Writer>Gayle Abrams</Writer>
   <absolute_number>113</absolute_number>
   <filename>episodes/76738/213879.jpg</filename>
-  <lastupdated>1381562809</lastupdated>
+  <lastupdated>1431267501</lastupdated>
   <seasonid>11322</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -3776,7 +3776,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>15.0</DVD_episodenumber>
   <DVD_season>5</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>3</EpImgFlag>
   <EpisodeName>Bullets Over Bel-Air</EpisodeName>
   <EpisodeNumber>15</EpisodeNumber>
@@ -3787,12 +3787,12 @@
   <Overview>A confrontation with an armed robber at an ATM forever changes Will and Carlton's relationship.</Overview>
   <ProductionCode>60076</ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>9</RatingCount>
+  <RatingCount>11</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>|Maiya Willaims|Eddie Gorodetsky|</Writer>
   <absolute_number>114</absolute_number>
   <filename>episodes/76738/213880.jpg</filename>
-  <lastupdated>1381562833</lastupdated>
+  <lastupdated>1431267200</lastupdated>
   <seasonid>11322</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -3807,7 +3807,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>16.0</DVD_episodenumber>
   <DVD_season>5</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>3</EpImgFlag>
   <EpisodeName>A Decent Proposal</EpisodeName>
   <EpisodeNumber>16</EpisodeNumber>
@@ -3817,13 +3817,13 @@
   <Language>en</Language>
   <Overview>Mr. and Mrs. Smith? Will pops the question from his hospital room. And Lisa's answer is...</Overview>
   <ProductionCode>60077</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>5</RatingCount>
+  <Rating>7.1</Rating>
+  <RatingCount>7</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>|David Pitlik|Barry Gurstein|</Writer>
   <absolute_number>115</absolute_number>
   <filename>episodes/76738/213881.jpg</filename>
-  <lastupdated>1381562860</lastupdated>
+  <lastupdated>1431266637</lastupdated>
   <seasonid>11322</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -3838,7 +3838,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>17.0</DVD_episodenumber>
   <DVD_season>5</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>3</EpImgFlag>
   <EpisodeName>Will is From Mars...</EpisodeName>
   <EpisodeNumber>17</EpisodeNumber>
@@ -3848,13 +3848,13 @@
   <Language>en</Language>
   <Overview>He says kids, she says wait. He says Philly, she says Cleveland. Will and Lisa try marriage counseling.</Overview>
   <ProductionCode>60078</ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>7</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>9</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>|Mike Soccio|Andrea Wiley|</Writer>
   <absolute_number>116</absolute_number>
   <filename>episodes/76738/213882.jpg</filename>
-  <lastupdated>1381562894</lastupdated>
+  <lastupdated>1431267109</lastupdated>
   <seasonid>11322</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -3869,7 +3869,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>18.0</DVD_episodenumber>
   <DVD_season>5</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>3</EpImgFlag>
   <EpisodeName>The Wedding Show (Psyche!)</EpisodeName>
   <EpisodeNumber>18</EpisodeNumber>
@@ -3880,12 +3880,12 @@
   <Overview>Shafted! The engaged couple opts for flashy Vegas vows, complete with costumes. The tasteful theme: Shaft.</Overview>
   <ProductionCode>60079</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>8</RatingCount>
+  <RatingCount>10</RatingCount>
   <SeasonNumber>5</SeasonNumber>
-  <Writer>|Efrem Seeger|</Writer>
+  <Writer>Efrem Seeger</Writer>
   <absolute_number>117</absolute_number>
   <filename>episodes/76738/213883.jpg</filename>
-  <lastupdated>1381562936</lastupdated>
+  <lastupdated>1431266595</lastupdated>
   <seasonid>11322</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -3900,7 +3900,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>19.0</DVD_episodenumber>
   <DVD_season>5</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>3</EpImgFlag>
   <EpisodeName>Slum Like It ... Not!</EpisodeName>
   <EpisodeNumber>19</EpisodeNumber>
@@ -3911,12 +3911,12 @@
   <Overview>When Will talks Philip into buying a dilapidated apartment building, guess who has to fix up the fixer-upper.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>7</RatingCount>
+  <RatingCount>9</RatingCount>
   <SeasonNumber>5</SeasonNumber>
-  <Writer>|Bennie R. Richburg Jr.|</Writer>
+  <Writer>Bennie R. Richburg Jr.</Writer>
   <absolute_number>118</absolute_number>
   <filename>episodes/76738/213884.jpg</filename>
-  <lastupdated>1381562962</lastupdated>
+  <lastupdated>1431267165</lastupdated>
   <seasonid>11322</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -3931,7 +3931,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>20.0</DVD_episodenumber>
   <DVD_season>5</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>3</EpImgFlag>
   <EpisodeName>As the Will Turns</EpisodeName>
   <EpisodeNumber>20</EpisodeNumber>
@@ -3941,13 +3941,13 @@
   <Language>en</Language>
   <Overview>Soap bubble: Will is thrilled to land a role in a TV soap - until he finds out his character is in love with another guy.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>4</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>6</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>|David Pitlik|Barry Gurstein|</Writer>
   <absolute_number>119</absolute_number>
   <filename>episodes/76738/213885.jpg</filename>
-  <lastupdated>1381562993</lastupdated>
+  <lastupdated>1431266931</lastupdated>
   <seasonid>11322</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -3962,7 +3962,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>21.0</DVD_episodenumber>
   <DVD_season>5</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>3</EpImgFlag>
   <EpisodeName>Save the Last Trance For Me</EpisodeName>
   <EpisodeNumber>21</EpisodeNumber>
@@ -3972,13 +3972,13 @@
   <Language>en</Language>
   <Overview>&quot;At the sound of the bell you will be four years old.&quot; A hypnotist turns Will into a mischievous little boy.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>4</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>6</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>|Maiya Williams|Eddie Gorodetsky|</Writer>
   <absolute_number>120</absolute_number>
   <filename>episodes/76738/213886.jpg</filename>
-  <lastupdated>1381563022</lastupdated>
+  <lastupdated>1431267423</lastupdated>
   <seasonid>11322</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -4003,13 +4003,13 @@
   <Language>en</Language>
   <Overview>Internet dating hooks up two people with a lot in common: Hershey's Kiss (Carlton) and Brown Sugar (Hilary).</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.0</Rating>
-  <RatingCount>3</RatingCount>
+  <Rating>7.2</Rating>
+  <RatingCount>5</RatingCount>
   <SeasonNumber>5</SeasonNumber>
-  <Writer>|Roger Garrett|</Writer>
+  <Writer>Roger Garrett</Writer>
   <absolute_number>121</absolute_number>
   <filename>episodes/76738/213887.jpg</filename>
-  <lastupdated>1381563055</lastupdated>
+  <lastupdated>1431267013</lastupdated>
   <seasonid>11322</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -4024,7 +4024,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>23.0</DVD_episodenumber>
   <DVD_season>5</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>Cold Feet, Hot Body</EpisodeName>
   <EpisodeNumber>23</EpisodeNumber>
@@ -4037,10 +4037,10 @@
   <Rating>7.8</Rating>
   <RatingCount>4</RatingCount>
   <SeasonNumber>5</SeasonNumber>
-  <Writer>|Ron Burla|</Writer>
+  <Writer>Ron Burla</Writer>
   <absolute_number>122</absolute_number>
   <filename>episodes/76738/213888.jpg</filename>
-  <lastupdated>1381563080</lastupdated>
+  <lastupdated>1431266850</lastupdated>
   <seasonid>11322</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -4055,7 +4055,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>24.0</DVD_episodenumber>
   <DVD_season>5</DVD_season>
-  <Director>|Maynard C. Virgil|</Director>
+  <Director>Maynard C. Virgil</Director>
   <EpImgFlag>3</EpImgFlag>
   <EpisodeName>Love in an Elevator</EpisodeName>
   <EpisodeNumber>24</EpisodeNumber>
@@ -4065,13 +4065,13 @@
   <Language>en</Language>
   <Overview>Stuck and out of luck, Will spends his bachelor party trapped in an elevator with a feuding Carlton and Jazz.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>5</RatingCount>
+  <Rating>7.2</Rating>
+  <RatingCount>6</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>|David Hoge|Dan Cross|</Writer>
   <absolute_number>123</absolute_number>
   <filename>episodes/76738/213889.jpg</filename>
-  <lastupdated>1381563105</lastupdated>
+  <lastupdated>1431267443</lastupdated>
   <seasonid>11322</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -4086,7 +4086,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>25.0</DVD_episodenumber>
   <DVD_season>5</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>3</EpImgFlag>
   <EpisodeName>For Whom the Wedding Bells Toll</EpisodeName>
   <EpisodeNumber>25</EpisodeNumber>
@@ -4096,13 +4096,13 @@
   <Language>en</Language>
   <Overview>Husband-to-be Will has the bride, the ring, the date...and second thoughts about the whole idea.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>6</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>7</RatingCount>
   <SeasonNumber>5</SeasonNumber>
-  <Writer>|Leilani Downer|</Writer>
+  <Writer>Leilani Downer</Writer>
   <absolute_number>124</absolute_number>
   <filename>episodes/76738/213890.jpg</filename>
-  <lastupdated>1381563134</lastupdated>
+  <lastupdated>1431266715</lastupdated>
   <seasonid>11322</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -4117,7 +4117,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>1.0</DVD_episodenumber>
   <DVD_season>6</DVD_season>
-  <Director>|Madeline Cripe|</Director>
+  <Director>Madeline Cripe</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>Burnin' Down the House</EpisodeName>
   <EpisodeNumber>1</EpisodeNumber>
@@ -4127,13 +4127,13 @@
   <Language>en</Language>
   <Overview>If you can't stand the heat, get out of the kitchen. On the day of a big party, Will learns to flambe. Uh-oh.</Overview>
   <ProductionCode>60101</ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>7</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>8</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>|Joel Madison|Adam Markowitz|</Writer>
   <absolute_number>125</absolute_number>
   <filename>episodes/76738/213891.jpg</filename>
-  <lastupdated>1399155849</lastupdated>
+  <lastupdated>1431267544</lastupdated>
   <seasonid>11323</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -4148,7 +4148,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>2.0</DVD_episodenumber>
   <DVD_season>6</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>Get a Job</EpisodeName>
   <EpisodeNumber>2</EpisodeNumber>
@@ -4158,13 +4158,13 @@
   <Language>en</Language>
   <Overview>Chris Rock guest stars as a hot comedian and his u-g-l-y sister, Will's date for a night on the town.</Overview>
   <ProductionCode>60102</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>5</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>6</RatingCount>
   <SeasonNumber>6</SeasonNumber>
-  <Writer>|Mort Scrivner|</Writer>
+  <Writer>Mort Scrivner</Writer>
   <absolute_number>126</absolute_number>
   <filename>episodes/76738/213892.jpg</filename>
-  <lastupdated>1381941464</lastupdated>
+  <lastupdated>1431267415</lastupdated>
   <seasonid>11323</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -4179,7 +4179,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>3.0</DVD_episodenumber>
   <DVD_season>6</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>Stress Related</EpisodeName>
   <EpisodeNumber>3</EpisodeNumber>
@@ -4189,13 +4189,13 @@
   <Language>en</Language>
   <Overview>No bologna, no pimento loaf. Vivian tosses out Philip's faves and substitutes tofu and rice cakes. Oh, yum!</Overview>
   <ProductionCode>60103</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>5</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>6</RatingCount>
   <SeasonNumber>6</SeasonNumber>
-  <Writer>|Larry Wilmore|</Writer>
+  <Writer>Larry Wilmore</Writer>
   <absolute_number>127</absolute_number>
   <filename>episodes/76738/213893.jpg</filename>
-  <lastupdated>1381941495</lastupdated>
+  <lastupdated>1431266959</lastupdated>
   <seasonid>11323</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -4210,7 +4210,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>4.0</DVD_episodenumber>
   <DVD_season>6</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>Bourgie Sings the Blues</EpisodeName>
   <EpisodeNumber>4</EpisodeNumber>
@@ -4221,12 +4221,12 @@
   <Overview>When Carlton misses his Princeton interview, Will dons sweater vest and bow tie to impersonate his cousin.</Overview>
   <ProductionCode>60104</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>4</RatingCount>
+  <RatingCount>5</RatingCount>
   <SeasonNumber>6</SeasonNumber>
-  <Writer>|Tom Devanney|</Writer>
+  <Writer>Tom Devanney</Writer>
   <absolute_number>128</absolute_number>
   <filename>episodes/76738/213894.jpg</filename>
-  <lastupdated>1381941516</lastupdated>
+  <lastupdated>1431267386</lastupdated>
   <seasonid>11323</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -4241,7 +4241,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>5.0</DVD_episodenumber>
   <DVD_season>6</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>The Script Formerly Known As...</EpisodeName>
   <EpisodeNumber>5</EpisodeNumber>
@@ -4251,13 +4251,13 @@
   <Language>en</Language>
   <Overview>Things don't go well when Will book s ajuror from Philip's &quot;Show-Biz Madam&quot; trial on Hilary's program.</Overview>
   <ProductionCode>60105</ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>6</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>7</RatingCount>
   <SeasonNumber>6</SeasonNumber>
-  <Writer>|Felicia D. Henderson|</Writer>
+  <Writer>Felicia D. Henderson</Writer>
   <absolute_number>129</absolute_number>
   <filename>episodes/76738/213895.jpg</filename>
-  <lastupdated>1381941557</lastupdated>
+  <lastupdated>1431266631</lastupdated>
   <seasonid>11323</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -4272,7 +4272,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>6.0</DVD_episodenumber>
   <DVD_season>6</DVD_season>
-  <Director>|Madeline Cripe|</Director>
+  <Director>Madeline Cripe</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>Not, I Barbecue</EpisodeName>
   <EpisodeNumber>6</EpisodeNumber>
@@ -4283,12 +4283,12 @@
   <Overview>Will and Carlton's double date ends unromantically when a big bruiser shows up looking for his squeeze.</Overview>
   <ProductionCode>60106</ProductionCode>
   <Rating>7.0</Rating>
-  <RatingCount>5</RatingCount>
+  <RatingCount>6</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>|Kandace Yvette Williams|Matt Tarses|</Writer>
   <absolute_number>130</absolute_number>
   <filename>episodes/76738/213896.jpg</filename>
-  <lastupdated>1381941585</lastupdated>
+  <lastupdated>1431267125</lastupdated>
   <seasonid>11323</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -4303,7 +4303,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>7.0</DVD_episodenumber>
   <DVD_season>6</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>Not With My Cousin You Don't</EpisodeName>
   <EpisodeNumber>7</EpisodeNumber>
@@ -4313,13 +4313,13 @@
   <Language>en</Language>
   <Overview>Freakin' out! On the home intercom, Will and Carlton overhear Ashley talking about (gasp) sex.</Overview>
   <ProductionCode>60107</ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>8</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>9</RatingCount>
   <SeasonNumber>6</SeasonNumber>
-  <Writer>|Adam Markowitz|</Writer>
+  <Writer>Adam Markowitz</Writer>
   <absolute_number>131</absolute_number>
   <filename>episodes/76738/213897.jpg</filename>
-  <lastupdated>1381941611</lastupdated>
+  <lastupdated>1431267530</lastupdated>
   <seasonid>11323</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -4334,7 +4334,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>8.0</DVD_episodenumber>
   <DVD_season>6</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>Viva Lost Wages</EpisodeName>
   <EpisodeNumber>8</EpisodeNumber>
@@ -4344,13 +4344,13 @@
   <Language>en</Language>
   <Overview>Birthday boy Carlton just can't stop winning at the Vegas tables...until he starts losing. Big.</Overview>
   <ProductionCode>60108</ProductionCode>
-  <Rating>7.9</Rating>
-  <RatingCount>7</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>8</RatingCount>
   <SeasonNumber>6</SeasonNumber>
-  <Writer>|Robert Bruce|</Writer>
+  <Writer>Robert Bruce</Writer>
   <absolute_number>132</absolute_number>
   <filename>episodes/76738/213898.jpg</filename>
-  <lastupdated>1381941638</lastupdated>
+  <lastupdated>1431267076</lastupdated>
   <seasonid>11323</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -4365,7 +4365,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>9.0</DVD_episodenumber>
   <DVD_season>6</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>There's the Rub (1)</EpisodeName>
   <EpisodeNumber>9</EpisodeNumber>
@@ -4375,13 +4375,13 @@
   <Language>en</Language>
   <Overview>Carlton and Hilary learn a lesson in humanity when they volunteer at a homeless shelter on Thanksgiving.</Overview>
   <ProductionCode>60109</ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>4</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>5</RatingCount>
   <SeasonNumber>6</SeasonNumber>
-  <Writer>|Joel Madison|</Writer>
+  <Writer>Joel Madison</Writer>
   <absolute_number>133</absolute_number>
   <filename>episodes/76738/213899.jpg</filename>
-  <lastupdated>1394272858</lastupdated>
+  <lastupdated>1431267407</lastupdated>
   <seasonid>11323</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -4396,7 +4396,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>10.0</DVD_episodenumber>
   <DVD_season>6</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>There's the Rub (2)</EpisodeName>
   <EpisodeNumber>10</EpisodeNumber>
@@ -4406,13 +4406,13 @@
   <Language>en</Language>
   <Overview>Will and Philip are arrested at a massage parlor. The Pilgrim Fathers would not be pleased.</Overview>
   <ProductionCode>60110</ProductionCode>
-  <Rating>8.0</Rating>
-  <RatingCount>3</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>4</RatingCount>
   <SeasonNumber>6</SeasonNumber>
-  <Writer>|Joel Madison|</Writer>
+  <Writer>Joel Madison</Writer>
   <absolute_number>134</absolute_number>
   <filename>episodes/76738/213900.jpg</filename>
-  <lastupdated>1394272867</lastupdated>
+  <lastupdated>1431267225</lastupdated>
   <seasonid>11323</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -4427,7 +4427,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>11.0</DVD_episodenumber>
   <DVD_season>6</DVD_season>
-  <Director>|Alfonso Ribeiro|</Director>
+  <Director>Alfonso Ribeiro</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>I, Ooh, Baby, Baby</EpisodeName>
   <EpisodeNumber>11</EpisodeNumber>
@@ -4437,13 +4437,13 @@
   <Language>en</Language>
   <Overview>Hilary's show has its national premiere. What more could she possibly want? How about a baby?</Overview>
   <ProductionCode>60111</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>5</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>6</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>|Tom Devanney|Adam Markowitz|</Writer>
   <absolute_number>135</absolute_number>
   <filename>episodes/76738/213901.jpg</filename>
-  <lastupdated>1381941731</lastupdated>
+  <lastupdated>1431266764</lastupdated>
   <seasonid>11323</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -4458,7 +4458,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>12.0</DVD_episodenumber>
   <DVD_season>6</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>Boxing Helena</EpisodeName>
   <EpisodeNumber>12</EpisodeNumber>
@@ -4469,12 +4469,12 @@
   <Overview>Will's pride is on the ropes when a gorgeous boxing instructor KOs him at the gym.</Overview>
   <ProductionCode>60112</ProductionCode>
   <Rating>6.8</Rating>
-  <RatingCount>4</RatingCount>
+  <RatingCount>5</RatingCount>
   <SeasonNumber>6</SeasonNumber>
-  <Writer>|Mike Soccio|</Writer>
+  <Writer>Mike Soccio</Writer>
   <absolute_number>136</absolute_number>
   <filename>episodes/76738/213902.jpg</filename>
-  <lastupdated>1381941757</lastupdated>
+  <lastupdated>1431267145</lastupdated>
   <seasonid>11323</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -4499,13 +4499,13 @@
   <Language>en</Language>
   <Overview>He must be a crying-on-the-inside kind. A bomb-toting clown holds Philip ,Carlton and Will hostage.</Overview>
   <ProductionCode>60115</ProductionCode>
-  <Rating>7.0</Rating>
-  <RatingCount>2</RatingCount>
+  <Rating>6.7</Rating>
+  <RatingCount>3</RatingCount>
   <SeasonNumber>6</SeasonNumber>
-  <Writer>|George Tricker|</Writer>
+  <Writer>George Tricker</Writer>
   <absolute_number>137</absolute_number>
   <filename>episodes/76738/213903.jpg</filename>
-  <lastupdated>1382853516</lastupdated>
+  <lastupdated>1431267400</lastupdated>
   <seasonid>11323</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -4520,7 +4520,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>14.0</DVD_episodenumber>
   <DVD_season>6</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>Breaking Up is Hard To Do (1)</EpisodeName>
   <EpisodeNumber>14</EpisodeNumber>
@@ -4530,13 +4530,13 @@
   <Language>en</Language>
   <Overview>Ka-boooom! That explosion you hear is Philip and Vivian's marriage after Philip decides to go into politics.</Overview>
   <ProductionCode>60113</ProductionCode>
-  <Rating>7.0</Rating>
-  <RatingCount>4</RatingCount>
+  <Rating>7.2</Rating>
+  <RatingCount>5</RatingCount>
   <SeasonNumber>6</SeasonNumber>
-  <Writer>|Lisa Rosenthal|</Writer>
+  <Writer>Lisa Rosenthal</Writer>
   <absolute_number>138</absolute_number>
   <filename>episodes/76738/213904.jpg</filename>
-  <lastupdated>1394272830</lastupdated>
+  <lastupdated>1431266871</lastupdated>
   <seasonid>11323</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -4551,7 +4551,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>15.0</DVD_episodenumber>
   <DVD_season>6</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>Breaking Up is Hard To Do (2)</EpisodeName>
   <EpisodeNumber>15</EpisodeNumber>
@@ -4561,13 +4561,13 @@
   <Language>en</Language>
   <Overview>Philip is miserable without Vivian so Will and Carlton play love gurus to reunite the feuding couple.</Overview>
   <ProductionCode>60114</ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>2</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>3</RatingCount>
   <SeasonNumber>6</SeasonNumber>
-  <Writer>|Lisa Rosenthal|</Writer>
+  <Writer>Lisa Rosenthal</Writer>
   <absolute_number>139</absolute_number>
   <filename>episodes/76738/213905.jpg</filename>
-  <lastupdated>1394272839</lastupdated>
+  <lastupdated>1431266708</lastupdated>
   <seasonid>11323</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -4582,7 +4582,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>16.0</DVD_episodenumber>
   <DVD_season>6</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>I, Bowl Buster</EpisodeName>
   <EpisodeNumber>16</EpisodeNumber>
@@ -4592,13 +4592,13 @@
   <Language>en</Language>
   <Overview>Huzzah! Carlton is accepted at Princeton. So why does he suddenly decide to become a pro bowler?</Overview>
   <ProductionCode>60117</ProductionCode>
-  <Rating>7.3</Rating>
-  <RatingCount>3</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>4</RatingCount>
   <SeasonNumber>6</SeasonNumber>
-  <Writer>|Michael Soccio|</Writer>
+  <Writer>Michael Soccio</Writer>
   <absolute_number>140</absolute_number>
   <filename>episodes/76738/213906.jpg</filename>
-  <lastupdated>1382853739</lastupdated>
+  <lastupdated>1431267364</lastupdated>
   <seasonid>11323</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -4613,7 +4613,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>17.0</DVD_episodenumber>
   <DVD_season>6</DVD_season>
-  <Director>|Madeline Cripe|</Director>
+  <Director>Madeline Cripe</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>The Butler's Son Did It</EpisodeName>
   <EpisodeNumber>17</EpisodeNumber>
@@ -4624,12 +4624,12 @@
   <Overview>Geoffrey is overjoyed to meet the son he never knew he had. But Will isn't so sure about the guy.</Overview>
   <ProductionCode>60116</ProductionCode>
   <Rating>7.2</Rating>
-  <RatingCount>5</RatingCount>
+  <RatingCount>6</RatingCount>
   <SeasonNumber>6</SeasonNumber>
-  <Writer>|Lisa Rosenthal|</Writer>
+  <Writer>Lisa Rosenthal</Writer>
   <absolute_number>141</absolute_number>
   <filename>episodes/76738/213907.jpg</filename>
-  <lastupdated>1382853778</lastupdated>
+  <lastupdated>1431267234</lastupdated>
   <seasonid>11323</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -4644,7 +4644,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>18.0</DVD_episodenumber>
   <DVD_season>6</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>Hare Today...</EpisodeName>
   <EpisodeNumber>18</EpisodeNumber>
@@ -4655,12 +4655,12 @@
   <Overview>He's respected. He's admired. He has the hots for Vivian. The family minister gives one of his flock special attention.</Overview>
   <ProductionCode>60119</ProductionCode>
   <Rating>7.0</Rating>
-  <RatingCount>4</RatingCount>
+  <RatingCount>5</RatingCount>
   <SeasonNumber>6</SeasonNumber>
-  <Writer>|Robert Bruce|</Writer>
+  <Writer>Robert Bruce</Writer>
   <absolute_number>142</absolute_number>
   <filename>episodes/76738/213908.jpg</filename>
-  <lastupdated>1381941944</lastupdated>
+  <lastupdated>1431266578</lastupdated>
   <seasonid>11323</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -4675,7 +4675,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>19.0</DVD_episodenumber>
   <DVD_season>6</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>I, Whoops, There It Is</EpisodeName>
   <EpisodeNumber>19</EpisodeNumber>
@@ -4686,12 +4686,12 @@
   <Overview>The blooper episode! Will takes fans behind the scenes to meet the cast and share their funniest flubs.</Overview>
   <ProductionCode>60124</ProductionCode>
   <Rating>7.0</Rating>
-  <RatingCount>5</RatingCount>
+  <RatingCount>6</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>|Mary Beth Pemberton|Tanya Ward|</Writer>
   <absolute_number>143</absolute_number>
   <filename>episodes/76738/213909.jpg</filename>
-  <lastupdated>1382853318</lastupdated>
+  <lastupdated>1431267269</lastupdated>
   <seasonid>11323</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -4706,7 +4706,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>20.0</DVD_episodenumber>
   <DVD_season>6</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>I, Stank Horse</EpisodeName>
   <EpisodeNumber>20</EpisodeNumber>
@@ -4717,12 +4717,12 @@
   <Overview>Carlton and Hilary ride to the rescue when an aging racehorse is marked for that big paddock in the sky.</Overview>
   <ProductionCode>60120</ProductionCode>
   <Rating>7.0</Rating>
-  <RatingCount>5</RatingCount>
+  <RatingCount>6</RatingCount>
   <SeasonNumber>6</SeasonNumber>
-  <Writer>|Tom Devanney|</Writer>
+  <Writer>Tom Devanney</Writer>
   <absolute_number>144</absolute_number>
   <filename>episodes/76738/213910.jpg</filename>
-  <lastupdated>1381941998</lastupdated>
+  <lastupdated>1431266571</lastupdated>
   <seasonid>11323</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -4737,7 +4737,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>21.0</DVD_episodenumber>
   <DVD_season>6</DVD_season>
-  <Director>|Werner Walian|</Director>
+  <Director>Werner Walian</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>I, Stank Hole in One</EpisodeName>
   <EpisodeNumber>21</EpisodeNumber>
@@ -4747,13 +4747,13 @@
   <Language>en</Language>
   <Overview>Second bests: Hilary subs for Kathie Lee Gifford on TV and Will takes Carlton's spot in a golf tourney.</Overview>
   <ProductionCode>60121</ProductionCode>
-  <Rating>7.0</Rating>
-  <RatingCount>5</RatingCount>
+  <Rating>7.2</Rating>
+  <RatingCount>6</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>|Mike Soccio|Matt Tarses|</Writer>
   <absolute_number>145</absolute_number>
   <filename>episodes/76738/213911.jpg</filename>
-  <lastupdated>1381942028</lastupdated>
+  <lastupdated>1431266779</lastupdated>
   <seasonid>11323</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -4768,7 +4768,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>22.0</DVD_episodenumber>
   <DVD_season>6</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>Eye, Tooth</EpisodeName>
   <EpisodeNumber>22</EpisodeNumber>
@@ -4779,12 +4779,12 @@
   <Overview>Zoned out on happy gas after a trip to the dentist, William Shatner is sure to make an impression on Hilary's show.</Overview>
   <ProductionCode>60118</ProductionCode>
   <Rating>7.2</Rating>
-  <RatingCount>5</RatingCount>
+  <RatingCount>6</RatingCount>
   <SeasonNumber>6</SeasonNumber>
-  <Writer>|Adam Markowitz|</Writer>
+  <Writer>Adam Markowitz</Writer>
   <absolute_number>146</absolute_number>
   <filename>episodes/76738/213912.jpg</filename>
-  <lastupdated>1381942062</lastupdated>
+  <lastupdated>1431267192</lastupdated>
   <seasonid>11323</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -4799,7 +4799,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>23.0</DVD_episodenumber>
   <DVD_season>6</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>I, Done (1)</EpisodeName>
   <EpisodeNumber>23</EpisodeNumber>
@@ -4810,12 +4810,12 @@
   <Overview>The mansion's for sale and everybody's in the fast lane...except Will, who's stuck on life's soft shoulder.</Overview>
   <ProductionCode>60122</ProductionCode>
   <Rating>7.2</Rating>
-  <RatingCount>5</RatingCount>
+  <RatingCount>6</RatingCount>
   <SeasonNumber>6</SeasonNumber>
-  <Writer>|Jeff Pollack|</Writer>
+  <Writer>Jeff Pollack</Writer>
   <absolute_number>147</absolute_number>
   <filename>episodes/76738/213913.jpg</filename>
-  <lastupdated>1394272878</lastupdated>
+  <lastupdated>1431266897</lastupdated>
   <seasonid>11323</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -4830,7 +4830,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>24.0</DVD_episodenumber>
   <DVD_season>6</DVD_season>
-  <Director>|Shelley Jensen|</Director>
+  <Director>Shelley Jensen</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>I, Done (2)</EpisodeName>
   <EpisodeNumber>24</EpisodeNumber>
@@ -4840,13 +4840,13 @@
   <Language>en</Language>
   <Overview>The Banks move out. The Jeffersons are about to move in. And Will turns out the lights.</Overview>
   <ProductionCode>60123</ProductionCode>
-  <Rating>7.0</Rating>
-  <RatingCount>2</RatingCount>
+  <Rating>8.0</Rating>
+  <RatingCount>3</RatingCount>
   <SeasonNumber>6</SeasonNumber>
-  <Writer>|Jeff Pollack|</Writer>
+  <Writer>Jeff Pollack</Writer>
   <absolute_number>148</absolute_number>
   <filename>episodes/76738/213914.jpg</filename>
-  <lastupdated>1394272886</lastupdated>
+  <lastupdated>1431267430</lastupdated>
   <seasonid>11323</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>

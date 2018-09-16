@@ -2,9 +2,9 @@
 <Data>
   <Series>
     <id>264991</id>
-    <Actors>|Alexandra Roach|Paul Higgins|Nathan Stewart-Jarrett|Fiona O'Shaughnessy|Oliver Woollford|Adeel Akhtar |</Actors>
+    <Actors>|Fiona O'Shaughnessy|Alexandra Roach|Paul Higgins|Nathan Stewart-Jarrett|Neil Maskell|Oliver Woollford|Adeel Akhtar |Geraldine James|Ian McDiarmid|Paul Ready|Emilia Jones|</Actors>
     <Airs_DayOfWeek>Tuesday</Airs_DayOfWeek>
-    <Airs_Time>22:00</Airs_Time>
+    <Airs_Time>10:00 PM</Airs_Time>
     <ContentRating>TV-MA</ContentRating>
     <FirstAired>2013-01-15</FirstAired>
     <Genre>|Drama|Science-Fiction|Thriller|</Genre>
@@ -12,19 +12,19 @@
     <Language>en</Language>
     <Network>Channel 4</Network>
     <NetworkID></NetworkID>
-    <Overview>Utopia is a drama which follows a shadowy unit called The Network and their attempts to recover a strange graphic novel from the four friends who have found it... and discover its true potential.</Overview>
-    <Rating>9.0</Rating>
-    <RatingCount>29</RatingCount>
-    <Runtime>60</Runtime>
+    <Overview>The story follows a small group of people who find themselves in possession of the manuscript sequel of a cult graphic novel called The Utopia Experiments, which is rumoured to have predicted the worst disasters of the last century. This leads them to be targeted by an organisation known as The Network, which they must avoid to survive. Using the manuscript, they must uncover the meaning hidden in its pages before the disasters depicted become reality.</Overview>
+    <Rating>8.9</Rating>
+    <RatingCount>44</RatingCount>
+    <Runtime>55</Runtime>
     <SeriesID>177687</SeriesID>
     <SeriesName>Utopia</SeriesName>
-    <Status>Continuing</Status>
+    <Status>Ended</Status>
     <added>2012-12-19 10:09:02</added>
     <addedBy>373874</addedBy>
     <banner>graphical/264991-g5.jpg</banner>
-    <fanart>fanart/original/264991-4.jpg</fanart>
-    <lastupdated>1405829383</lastupdated>
-    <poster>posters/264991-5.jpg</poster>
+    <fanart>fanart/original/264991-6.jpg</fanart>
+    <lastupdated>1434907945</lastupdated>
+    <poster>posters/264991-3.jpg</poster>
     <tms_wanted_old>1</tms_wanted_old>
     <zap2it_id></zap2it_id>
   </Series>

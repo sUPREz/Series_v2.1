@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Data>
+  <Series>
+    <id>168571</id>
+    <Actors>|Morgan Freeman|</Actors>
+    <Airs_DayOfWeek>Tuesday</Airs_DayOfWeek>
+    <Airs_Time>10:00 PM</Airs_Time>
+    <ContentRating>TV-G</ContentRating>
+    <FirstAired>2010-06-05</FirstAired>
+    <Genre>|Documentary|</Genre>
+    <IMDB_ID>tt1513168</IMDB_ID>
+    <Language>en</Language>
+    <Network>Science Channel</Network>
+    <NetworkID></NetworkID>
+    <Overview>Hosted by Morgan Freeman, Through the Wormhole explores the deepest mysteries of existence - the questions that have puzzled mankind for eternity. What are we made of? What was there before the beginning? Are we really alone? Is there a creator? These questions have been pondered by the most exquisite minds of the human race. Now, science has evolved to the point where hard facts and evidence may be able to provide us with answers instead of philosophical theories. Through the Wormhole brings together the brightest minds and best ideas from the very edges of science - Astrophysics, Astrobiology, Quantum Mechanics, String Theory, and more - to reveal the extraordinary truth of our Universe.</Overview>
+    <Rating>9.1</Rating>
+    <RatingCount>57</RatingCount>
+    <Runtime>50</Runtime>
+    <SeriesID></SeriesID>
+    <SeriesName>Through the Wormhole</SeriesName>
+    <Status>Continuing</Status>
+    <added>2010-06-10 04:09:04</added>
+    <addedBy>67951</addedBy>
+    <banner>graphical/168571-g2.jpg</banner>
+    <fanart>fanart/original/168571-10.jpg</fanart>
+    <lastupdated>1434214262</lastupdated>
+    <poster>posters/168571-2.jpg</poster>
+    <tms_wanted_old>1</tms_wanted_old>
+    <zap2it_id>SH01259727</zap2it_id>
+  </Series>
+</Data>

@@ -9,7 +9,7 @@
   <Genre>|Adventure|Drama|Horror|Science-Fiction|</Genre>
   <IMDB_ID>tt1836195</IMDB_ID>
   <Language>en</Language>
-  <Network>ABC</Network>
+  <Network>ABC (US)</Network>
   <NetworkID></NetworkID>
   <Overview>The River follows the story of wildlife expert and TV personality Emmet Cole. Emmet set course around the world with his wife, Tess, and son, Lincoln, while filming what would become one of the most popular shows in television. After he goes missing deep in the Amazon, his family, friends and crew set out on a mysterious and deadly journey to find him.</Overview>
   <Rating>6.7</Rating>
@@ -22,7 +22,7 @@
   <addedBy>189361</addedBy>
   <banner>graphical/248836-g3.jpg</banner>
   <fanart>fanart/original/248836-4.jpg</fanart>
-  <lastupdated>1405794590</lastupdated>
+  <lastupdated>1430419402</lastupdated>
   <poster>posters/248836-2.jpg</poster>
   <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>SH014195303</zap2it_id>
@@ -63,12 +63,12 @@
 </Episode>
 <Episode>
   <id>4103865</id>
-  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_episodenumber>1.0</Combined_episodenumber>
   <Combined_season>1</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>1.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
   <Director>Jaume Collet-Serra</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Magus</EpisodeName>
@@ -85,7 +85,7 @@
   <Writer>Michael Green|Zack Estrin</Writer>
   <absolute_number>1</absolute_number>
   <filename>episodes/248836/4103865.jpg</filename>
-  <lastupdated>1404123788</lastupdated>
+  <lastupdated>1412071625</lastupdated>
   <seasonid>466466</seasonid>
   <seriesid>248836</seriesid>
   <thumb_added></thumb_added>
@@ -94,12 +94,12 @@
 </Episode>
 <Episode>
   <id>4240736</id>
-  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_episodenumber>2.0</Combined_episodenumber>
   <Combined_season>1</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>2.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
   <Director>Jaume Collet-Serra</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Marbeley</EpisodeName>
@@ -116,7 +116,7 @@
   <Writer>Michael Green|Zack Estrin</Writer>
   <absolute_number>2</absolute_number>
   <filename>episodes/248836/4240736.jpg</filename>
-  <lastupdated>1404123833</lastupdated>
+  <lastupdated>1412071515</lastupdated>
   <seasonid>466466</seasonid>
   <seriesid>248836</seriesid>
   <thumb_added></thumb_added>
@@ -125,12 +125,12 @@
 </Episode>
 <Episode>
   <id>4240737</id>
-  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_episodenumber>3.0</Combined_episodenumber>
   <Combined_season>1</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>3.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
   <Director>Michael Katleman</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>Los Ciegos</EpisodeName>
@@ -147,7 +147,7 @@
   <Writer>Glen Morgan</Writer>
   <absolute_number>3</absolute_number>
   <filename>episodes/248836/4240737.jpg</filename>
-  <lastupdated>1404123886</lastupdated>
+  <lastupdated>1412071527</lastupdated>
   <seasonid>466466</seasonid>
   <seriesid>248836</seriesid>
   <thumb_added></thumb_added>
@@ -156,12 +156,12 @@
 </Episode>
 <Episode>
   <id>4240738</id>
-  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_episodenumber>4.0</Combined_episodenumber>
   <Combined_season>1</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>4.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
   <Director>Dean White</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>A Better Man</EpisodeName>
@@ -178,7 +178,7 @@
   <Writer>Aron Eli Coleite</Writer>
   <absolute_number>4</absolute_number>
   <filename>episodes/248836/4240738.jpg</filename>
-  <lastupdated>1404123921</lastupdated>
+  <lastupdated>1412071457</lastupdated>
   <seasonid>466466</seasonid>
   <seriesid>248836</seriesid>
   <thumb_added></thumb_added>
@@ -187,12 +187,12 @@
 </Episode>
 <Episode>
   <id>4240739</id>
-  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_episodenumber>5.0</Combined_episodenumber>
   <Combined_season>1</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>5.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
   <Director>Rob Bailey</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Peaches</EpisodeName>
@@ -209,7 +209,7 @@
   <Writer>Wendy Battles</Writer>
   <absolute_number>5</absolute_number>
   <filename>episodes/248836/4240739.jpg</filename>
-  <lastupdated>1404123956</lastupdated>
+  <lastupdated>1412071478</lastupdated>
   <seasonid>466466</seasonid>
   <seriesid>248836</seriesid>
   <thumb_added></thumb_added>
@@ -218,12 +218,12 @@
 </Episode>
 <Episode>
   <id>4250574</id>
-  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_episodenumber>6.0</Combined_episodenumber>
   <Combined_season>1</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>6.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
   <Director>Michelle MacLaren</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>Doctor Emmet Cole</EpisodeName>
@@ -240,7 +240,7 @@
   <Writer>Michael Green</Writer>
   <absolute_number>6</absolute_number>
   <filename>episodes/248836/4250574.jpg</filename>
-  <lastupdated>1404123987</lastupdated>
+  <lastupdated>1412071554</lastupdated>
   <seasonid>466466</seasonid>
   <seriesid>248836</seriesid>
   <thumb_added></thumb_added>
@@ -249,12 +249,12 @@
 </Episode>
 <Episode>
   <id>4250575</id>
-  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_episodenumber>7.0</Combined_episodenumber>
   <Combined_season>1</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>7.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
   <Director>Kenneth Fink</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>The Experiment</EpisodeName>
@@ -271,7 +271,7 @@
   <Writer>Soo Hugh</Writer>
   <absolute_number>7</absolute_number>
   <filename>episodes/248836/4250575.jpg</filename>
-  <lastupdated>1405794549</lastupdated>
+  <lastupdated>1412071571</lastupdated>
   <seasonid>466466</seasonid>
   <seriesid>248836</seriesid>
   <thumb_added></thumb_added>
@@ -280,12 +280,12 @@
 </Episode>
 <Episode>
   <id>4250576</id>
-  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_episodenumber>8.0</Combined_episodenumber>
   <Combined_season>1</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>8.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
   <Director>Gary Fleder</Director>
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>Row, Row, Row Your Boat</EpisodeName>
@@ -302,7 +302,7 @@
   <Writer>Aron Eli Coleite|Michael Green</Writer>
   <absolute_number>8</absolute_number>
   <filename>episodes/248836/4250576.jpg</filename>
-  <lastupdated>1405794590</lastupdated>
+  <lastupdated>1416572250</lastupdated>
   <seasonid>466466</seasonid>
   <seriesid>248836</seriesid>
   <thumb_added></thumb_added>

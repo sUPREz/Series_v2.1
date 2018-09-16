@@ -13,16 +13,16 @@
   <NetworkID></NetworkID>
   <Overview>The series tells the story of the aftermath of a global invasion by several races of extraterrestrials that neutralizes the world's power grid and technology, quickly destroys the combined militaries of all the world's countries, and apparently kills over 90% of the human population within a few days.</Overview>
   <Rating>7.9</Rating>
-  <RatingCount>186</RatingCount>
+  <RatingCount>217</RatingCount>
   <Runtime>60</Runtime>
   <SeriesID>79488</SeriesID>
   <SeriesName>Falling Skies</SeriesName>
   <Status>Continuing</Status>
   <added>2010-11-14 01:54:34</added>
   <addedBy>129161</addedBy>
-  <banner>graphical/205281-g10.jpg</banner>
+  <banner>graphical/205281-g18.jpg</banner>
   <fanart>fanart/original/205281-25.jpg</fanart>
-  <lastupdated>1405867336</lastupdated>
+  <lastupdated>1434988838</lastupdated>
   <poster>posters/205281-10.jpg</poster>
   <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>EP01400193</zap2it_id>
@@ -37,7 +37,7 @@
   <DVD_season></DVD_season>
   <Director></Director>
   <EpImgFlag>2</EpImgFlag>
-  <EpisodeName>Sneak Peak</EpisodeName>
+  <EpisodeName>Sneak Peek</EpisodeName>
   <EpisodeNumber>1</EpisodeNumber>
   <FirstAired></FirstAired>
   <GuestStars></GuestStars>
@@ -54,7 +54,7 @@
   <airsbefore_episode>1</airsbefore_episode>
   <airsbefore_season>1</airsbefore_season>
   <filename>episodes/205281/4150443.jpg</filename>
-  <lastupdated>1404893954</lastupdated>
+  <lastupdated>1412592111</lastupdated>
   <seasonid>354731</seasonid>
   <seriesid>205281</seriesid>
   <thumb_added></thumb_added>
@@ -84,7 +84,7 @@
   <SeasonNumber>0</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
-  <airsafter_season>2</airsafter_season>
+  <airsafter_season></airsafter_season>
   <airsbefore_episode>1</airsbefore_episode>
   <airsbefore_season>3</airsbefore_season>
   <filename>episodes/205281/4533095.jpg</filename>
@@ -105,7 +105,7 @@
   <DVD_season></DVD_season>
   <Director></Director>
   <EpImgFlag>2</EpImgFlag>
-  <EpisodeName>Sneak Peak Season 3</EpisodeName>
+  <EpisodeName>Sneak Peek Season 3</EpisodeName>
   <EpisodeNumber>3</EpisodeNumber>
   <FirstAired>2013-06-06</FirstAired>
   <GuestStars></GuestStars>
@@ -118,16 +118,154 @@
   <SeasonNumber>0</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
-  <airsafter_season>2</airsafter_season>
+  <airsafter_season></airsafter_season>
   <airsbefore_episode>1</airsbefore_episode>
   <airsbefore_season>3</airsbefore_season>
   <filename>episodes/205281/4585930.jpg</filename>
-  <lastupdated>1370558108</lastupdated>
+  <lastupdated>1412592091</lastupdated>
   <seasonid>354731</seasonid>
   <seriesid>205281</seriesid>
   <thumb_added></thumb_added>
   <thumb_height>225</thumb_height>
   <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5161204</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Falling Skies Panel at Comic-Con July 22, 2011</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2011-07-22</FirstAired>
+  <GuestStars>|Noah Wyle|Moon Bloodgood|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Falling Skies Panel at Comic-Con July 22, 2011
+
+DVD Season 1 - Extra</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>1</airsafter_season>
+  <airsbefore_episode>7</airsbefore_episode>
+  <airsbefore_season>1</airsbefore_season>
+  <filename>episodes/205281/5161204.jpg</filename>
+  <lastupdated>1433665557</lastupdated>
+  <seasonid>354731</seasonid>
+  <seriesid>205281</seriesid>
+  <thumb_added>2015-03-18 10:35:41</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5255145</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Character Interviews</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1434669689</lastupdated>
+  <seasonid>354731</seasonid>
+  <seriesid>205281</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5255146</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Inside the Episode Ghost In the Machine</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1434669762</lastupdated>
+  <seasonid>354731</seasonid>
+  <seriesid>205281</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5255220</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Tom Mason: A Man of Tomorrow</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1434679069</lastupdated>
+  <seasonid>354731</seasonid>
+  <seriesid>205281</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
 </Episode>
 <Episode>
   <id>3367241</id>
@@ -148,7 +286,7 @@
   <Overview>The world is left in tatters after a sudden, unprovoked and unexplained invasion by aliens, leaving the planet’s remaining human population to fight for survival against the occupiers. History professor Tom Mason has been named second in command for the 2nd Mass, but his real focus is on his three sons, one of whom has been captured by the aliens for an unknown purpose.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.2</Rating>
-  <RatingCount>290</RatingCount>
+  <RatingCount>295</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Robert Rodat</Writer>
   <absolute_number></absolute_number>
@@ -179,7 +317,7 @@
   <Overview>While scouting for supplies, Tom, Hal and their squad encounter a gang of marauders determined to get their hands on the 2nd Massachusetts’ weapons. Leading the gang is an ex-con named John Pope, who decides to use his hostages as bargaining material.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.1</Rating>
-  <RatingCount>123</RatingCount>
+  <RatingCount>125</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Graham Yost</Writer>
   <absolute_number></absolute_number>
@@ -210,7 +348,7 @@
   <Overview>Dr. Michael Harris joins the 2nd Mass with a theory about what might save the teenagers abducted by the aliens. But the plan could be derailed when Tom starts digging for answers to questions that have haunted him since the early days of the invasion. The 2nd Mass comes face to face with skitters and mechs when they attempt to rescue Ben.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>258</RatingCount>
+  <RatingCount>261</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Fred Golan</Writer>
   <absolute_number></absolute_number>
@@ -241,7 +379,7 @@
   <Overview>Tom and his team head out to track down more motorcycles for the 2nd Mass., relying on Pope to guide them to a good location. They hit the jackpot until they meet some skitters and harnessed teenagers at the bike shop. Back at the base, Dr. Harris and Anne disagree over the best method to gather more intelligence on the aliens.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>245</RatingCount>
+  <RatingCount>248</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Melinda Hsu Taylor</Writer>
   <absolute_number></absolute_number>
@@ -272,7 +410,7 @@
   <Overview>Hal comes up with a risky new plan to rescue captured teenagers from the aliens, but it might require putting someone at risk. Meanwhile, a sudden tragedy causes Anne to make an enormous discovery that proves instrumental to Hal’s risky plan.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>242</RatingCount>
+  <RatingCount>246</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Joe Weisberg</Writer>
   <absolute_number></absolute_number>
@@ -303,7 +441,7 @@
   <Overview>Lt. Terry Clayton of the 7th Mass arrives with word that the aliens are on their way to attack the 2nd Mass. Clayton’s plan to lead the children to a safe haven while the adults remain behind to fight is met with some resistance from the parents, including Tom.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>234</RatingCount>
+  <RatingCount>237</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Joel Thompson</Writer>
   <absolute_number></absolute_number>
@@ -334,7 +472,7 @@
   <Overview>Hal takes the lead fighting an unexpected threat against the children of the 2nd Mass. Anne has her hands full when Sarah goes into labor while the 2nd Mass base is being evacuated.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>224</RatingCount>
+  <RatingCount>228</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Melinda Hsu Taylor</Writer>
   <absolute_number></absolute_number>
@@ -365,7 +503,7 @@
   <Overview>The 2nd Mass prepares to take the fight to the invaders with an assault on one of their bases. But Weaver’s increasingly strange behavior worries Tom that he might not be fit to command. Hal and Tom encounter a left-behind woman who employed a suspicious means of surviving the invasion, making it unclear whether they can trust her.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>235</RatingCount>
+  <RatingCount>239</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Mark Verheiden</Writer>
   <absolute_number></absolute_number>
@@ -396,7 +534,7 @@
   <Overview>As the 2nd Mass. prepares for a major assault, divisions within the ranks threaten to tear the group apart. Tom has difficulty processing the profound implications of Anne’s latest discovery.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>231</RatingCount>
+  <RatingCount>235</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Joe Weisberg</Writer>
   <absolute_number></absolute_number>
@@ -427,7 +565,7 @@
   <Overview>With Weaver leading several squads of fighters against the aliens, Tom remains behind to help protect the civilians as they evacuate. But a major breach in security endangers both the soldiers and the civilians. Tom is confronted with a decision that may lead him to discovering what the aliens want with the captured teenagers, humankind and the planet.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>217</RatingCount>
+  <RatingCount>221</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Mark Verheiden</Writer>
   <absolute_number></absolute_number>
@@ -457,13 +595,13 @@
   <Language>en</Language>
   <Overview>Weaver is still in command of the 2nd Mass, while Anne continues to serve as medic. They have seen many battles and are a much leaner unit now. Pope has taken command of the Berserkers, a renegade group within the 2nd Mass that Weaver doesn’t fully trust.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>195</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>199</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Mark Verheiden</Writer>
-  <absolute_number></absolute_number>
+  <absolute_number>11</absolute_number>
   <filename>episodes/205281/4270845.jpg</filename>
-  <lastupdated>1405346482</lastupdated>
+  <lastupdated>1426196903</lastupdated>
   <seasonid>477034</seasonid>
   <seriesid>205281</seriesid>
   <thumb_added></thumb_added>
@@ -489,12 +627,12 @@
   <Overview>Tom is haunted by memories of his time with the aliens. Pope plants seeds of doubt about him among the group. Ben’s hatred for skitters grows. The 2nd Mass locate a bridge that will help them cross the river to safety ahead of an impending attack.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>167</RatingCount>
+  <RatingCount>171</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>Bradley Thompson|David Weddle</Writer>
-  <absolute_number></absolute_number>
+  <Writer>|Bradley Thompson|David Weddle|</Writer>
+  <absolute_number>12</absolute_number>
   <filename>episodes/205281/4310390.jpg</filename>
-  <lastupdated>1405346513</lastupdated>
+  <lastupdated>1431166899</lastupdated>
   <seasonid>477034</seasonid>
   <seriesid>205281</seriesid>
   <thumb_added></thumb_added>
@@ -520,12 +658,12 @@
   <Overview>The 2nd Mass moves into an airport hanger. The Berserkers plan to get rid of Tom. While dealing with a loss of one of its own, the 2nd Mass receives a promise of hope from a mysterious visitor.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>180</RatingCount>
+  <RatingCount>184</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Bryan Oh</Writer>
-  <absolute_number></absolute_number>
+  <absolute_number>13</absolute_number>
   <filename>episodes/205281/4310391.jpg</filename>
-  <lastupdated>1405346539</lastupdated>
+  <lastupdated>1426196918</lastupdated>
   <seasonid>477034</seasonid>
   <seriesid>205281</seriesid>
   <thumb_added></thumb_added>
@@ -550,13 +688,13 @@
   <Language>en</Language>
   <Overview>While on patrol together, Ben and Hal try to help a young boy and wind up having their bikes stolen. The hunt to recover them leads them to the discovery of something much bigger. Also, Matt is put in danger, and Weaver is reunited with a family member.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>168</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>172</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Heather V. Regnier</Writer>
-  <absolute_number></absolute_number>
+  <absolute_number>14</absolute_number>
   <filename>episodes/205281/4322589.jpg</filename>
-  <lastupdated>1405346570</lastupdated>
+  <lastupdated>1426196926</lastupdated>
   <seasonid>477034</seasonid>
   <seriesid>205281</seriesid>
   <thumb_added></thumb_added>
@@ -582,12 +720,12 @@
   <Overview>A familiar face returns to the 2nd Mass, but his intentions remain unknown. Meanwhile, a skitter is captured and brought back to the camp as a prisoner. And Hal bonds with Maggie as she begins to open up about her past.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>165</RatingCount>
+  <RatingCount>168</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Joe Weisberg</Writer>
-  <absolute_number></absolute_number>
+  <absolute_number>15</absolute_number>
   <filename>episodes/205281/4322590.jpg</filename>
-  <lastupdated>1405346610</lastupdated>
+  <lastupdated>1426196933</lastupdated>
   <seasonid>477034</seasonid>
   <seriesid>205281</seriesid>
   <thumb_added></thumb_added>
@@ -613,12 +751,12 @@
   <Overview>Hal stumbles across bodies of de-harnessed kids and finds someone from his past. Tom and Anne grow closer. And Weaver’s health deteriorates just as Tom discovers he may have been keeping important matters from the group in order to protect them.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>170</RatingCount>
+  <RatingCount>175</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Bryan Oh</Writer>
-  <absolute_number></absolute_number>
+  <absolute_number>16</absolute_number>
   <filename>episodes/205281/4322591.jpg</filename>
-  <lastupdated>1405346670</lastupdated>
+  <lastupdated>1426196944</lastupdated>
   <seasonid>477034</seasonid>
   <seriesid>205281</seriesid>
   <thumb_added></thumb_added>
@@ -643,13 +781,13 @@
   <Language>en</Language>
   <Overview>Ben is endangered by someone who he thought he could trust. Tom captures another hostage. Weaver offers Matt a job to lift his spirits. The 2nd Mass are trapped in a basement and face a new enemy.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>159</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>163</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>Bradley Thompson|David Weddle</Writer>
-  <absolute_number></absolute_number>
+  <Writer>|Bradley Thompson|David Weddle|</Writer>
+  <absolute_number>17</absolute_number>
   <filename>episodes/205281/4322592.jpg</filename>
-  <lastupdated>1405346701</lastupdated>
+  <lastupdated>1431166940</lastupdated>
   <seasonid>477034</seasonid>
   <seriesid>205281</seriesid>
   <thumb_added></thumb_added>
@@ -675,12 +813,12 @@
   <Overview>The 2nd Mass pushes on to Charleston, but some are still grieving the group’s recent losses. Weaver learns more about Tector’s background before the invasion. And Matt begins to bond with a harnessed girl who was found recently.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>174</RatingCount>
+  <RatingCount>178</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Heather V. Regnier</Writer>
-  <absolute_number></absolute_number>
+  <absolute_number>18</absolute_number>
   <filename>episodes/205281/4322593.jpg</filename>
-  <lastupdated>1405346731</lastupdated>
+  <lastupdated>1434375318</lastupdated>
   <seasonid>477034</seasonid>
   <seriesid>205281</seriesid>
   <thumb_added></thumb_added>
@@ -700,18 +838,18 @@
   <EpisodeName>The Price of Greatness</EpisodeName>
   <EpisodeNumber>9</EpisodeNumber>
   <FirstAired>2012-08-12</FirstAired>
-  <GuestStars>Terry O'Quinn|Ty Olsson|Matt Frewer</GuestStars>
+  <GuestStars>|Terry O'Quinn|Ty Olsson|Matt Frewer|</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>The 2nd Mass meets new faces, while Tom comes across his former mentor, but it’s difficult to know whom to trust. Maggie realizes that Pope may not be sticking with the group very long. Tector embraces his military past.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>166</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>170</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Mark Verheiden</Writer>
-  <absolute_number></absolute_number>
+  <absolute_number>19</absolute_number>
   <filename>episodes/205281/4322594.jpg</filename>
-  <lastupdated>1405346788</lastupdated>
+  <lastupdated>1431166967</lastupdated>
   <seasonid>477034</seasonid>
   <seriesid>205281</seriesid>
   <thumb_added></thumb_added>
@@ -731,18 +869,18 @@
   <EpisodeName>A More Perfect Union</EpisodeName>
   <EpisodeNumber>10</EpisodeNumber>
   <FirstAired>2012-08-19</FirstAired>
-  <GuestStars>Terry O'Quinn|Matt Frewer</GuestStars>
+  <GuestStars>|Terry O'Quinn|Matt Frewer|</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>When skitters approach the newly combined resistance force, the groups’ interaction surprises everyone. Meanwhile, Tom finds out life-changing news just as the 2nd Mass comes face-to-face with their most dangerous threat to date.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>167</RatingCount>
+  <RatingCount>170</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>Remi Aubuchon|Bradley Thompson|David Weddle</Writer>
-  <absolute_number></absolute_number>
+  <Writer>|Remi Aubuchon|Bradley Thompson|David Weddle|</Writer>
+  <absolute_number>20</absolute_number>
   <filename>episodes/205281/4322595.jpg</filename>
-  <lastupdated>1405346814</lastupdated>
+  <lastupdated>1431166926</lastupdated>
   <seasonid>477034</seasonid>
   <seriesid>205281</seriesid>
   <thumb_added></thumb_added>
@@ -762,18 +900,18 @@
   <EpisodeName>On Thin Ice</EpisodeName>
   <EpisodeNumber>1</EpisodeNumber>
   <FirstAired>2013-06-09</FirstAired>
-  <GuestStars>Terry O’Quinn|Gloria Reuben</GuestStars>
+  <GuestStars>|Terry O’Quinn|Gloria Reuben|</GuestStars>
   <IMDB_ID>tt2307170</IMDB_ID>
   <Language>en</Language>
   <Overview>Season three of Falling Skies opens seven months after the 2nd Mass arrived in Charleston. In the interim, Tom has been elected to political office, but he has his hands full as the resistance continues to battle the alien invaders. Tom’s decision to have the rebel skitters fight alongside humans creates tension and raises suspicions that someone may be feeding secrets to the enemy. Meanwhile, Hal struggles with nightmares that seem so real, he has difficulty knowing if he’s awake or dreaming. And Tom and Anne prepare to welcome their baby.</Overview>
   <ProductionCode>S03E01</ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>119</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>121</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Remi Aubuchon</Writer>
   <absolute_number>21</absolute_number>
   <filename>episodes/205281/4361693.jpg</filename>
-  <lastupdated>1405346858</lastupdated>
+  <lastupdated>1434375282</lastupdated>
   <seasonid>496661</seasonid>
   <seriesid>205281</seriesid>
   <thumb_added></thumb_added>
@@ -799,12 +937,12 @@
   <Overview>With hostilities escalating between the resistance and the alien invaders, Tom calls on a nuclear specialist known as &quot;The Rat King&quot; to come up with a plan that will strip the aliens of their power. As suspicion continues to mount about a mole within the resistance, Tom and his leaders make a drastic decision that jeopardizes trust among the group. Anne, meanwhile, has a feeling that all is not right with her newborn.</Overview>
   <ProductionCode>S03E02</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>66</RatingCount>
+  <RatingCount>69</RatingCount>
   <SeasonNumber>3</SeasonNumber>
-  <Writer>Bradley Thompson|David Weddle</Writer>
+  <Writer>|Bradley Thompson|David Weddle|</Writer>
   <absolute_number>22</absolute_number>
   <filename>episodes/205281/4363710.jpg</filename>
-  <lastupdated>1405346888</lastupdated>
+  <lastupdated>1431166975</lastupdated>
   <seasonid>496661</seasonid>
   <seriesid>205281</seriesid>
   <thumb_added></thumb_added>
@@ -830,12 +968,12 @@
   <Overview>The two-year anniversary of the alien invasion is fast approaching as the people of Charleston prepare for another potentially devastating offensive. A sniper attack by an unlikely gunman creates questions and doubts within the new government. Hal believes he knows the identity of the mole. And Anne’s concern for her baby continues to grow.</Overview>
   <ProductionCode>S03E03</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>124</RatingCount>
+  <RatingCount>127</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>John Wirth</Writer>
   <absolute_number>23</absolute_number>
   <filename>episodes/205281/4363711.jpg</filename>
-  <lastupdated>1405346926</lastupdated>
+  <lastupdated>1434375268</lastupdated>
   <seasonid>496661</seasonid>
   <seriesid>205281</seriesid>
   <thumb_added></thumb_added>
@@ -855,18 +993,18 @@
   <EpisodeName>At All Costs</EpisodeName>
   <EpisodeNumber>4</EpisodeNumber>
   <FirstAired>2013-06-23</FirstAired>
-  <GuestStars>Robert Sean Leonard | Stephen Collins</GuestStars>
+  <GuestStars>|Robert Sean Leonard|Stephen Collins|</GuestStars>
   <IMDB_ID>tt2531960</IMDB_ID>
   <Language>en</Language>
   <Overview>After the people of Charleston defeat another alien attack with the help of new advanced weaponry, Tom is invited to meet with a powerful leader. While Hal wrestles with an invasive evil, Ben struggles with his identity and the notion of being human again. And Anne uncovers startling new information that puts everyone in jeopardy.</Overview>
   <ProductionCode>S03E04</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>107</RatingCount>
+  <RatingCount>113</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Heather V. Regnier</Writer>
   <absolute_number>24</absolute_number>
   <filename>episodes/205281/4363712.jpg</filename>
-  <lastupdated>1405346946</lastupdated>
+  <lastupdated>1431166933</lastupdated>
   <seasonid>496661</seasonid>
   <seriesid>205281</seriesid>
   <thumb_added></thumb_added>
@@ -886,18 +1024,18 @@
   <EpisodeName>Search and Recover</EpisodeName>
   <EpisodeNumber>5</EpisodeNumber>
   <FirstAired>2013-06-30</FirstAired>
-  <GuestStars>Robert Sean Leonard | Gloria Reuben</GuestStars>
+  <GuestStars>|Robert Sean Leonard|Gloria Reuben|</GuestStars>
   <IMDB_ID>tt2531958</IMDB_ID>
   <Language>en</Language>
   <Overview>When a mission goes terribly awry, Tom and Pope must rely on each other to survive. Meanwhile, Weaver and company search desperately for two members of the 2nd Mass who have gone missing. And Marina takes matters into her own hands in Charleston, disregarding Tom’s authority.</Overview>
   <ProductionCode>S03E05</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>112</RatingCount>
+  <RatingCount>116</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Jordan Rosenberg</Writer>
   <absolute_number>25</absolute_number>
   <filename>episodes/205281/4363713.jpg</filename>
-  <lastupdated>1405346971</lastupdated>
+  <lastupdated>1431166878</lastupdated>
   <seasonid>496661</seasonid>
   <seriesid>205281</seriesid>
   <thumb_added></thumb_added>
@@ -922,13 +1060,13 @@
   <Language>en</Language>
   <Overview>Hal finally reveals his internal struggle to everyone, and it doesn’t bode well for the Masons. Lourdes experiments with a risky new medical procedure. And Charleston’s government sees a massive shift in leadership when a group breaks away on a search and rescue mission.</Overview>
   <ProductionCode>S03E06</ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>112</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>116</RatingCount>
   <SeasonNumber>3</SeasonNumber>
-  <Writer>Bradley Thompson|David Weddle|John Wirth</Writer>
+  <Writer>|Bradley Thompson|David Weddle|John Wirth|</Writer>
   <absolute_number>26</absolute_number>
   <filename>episodes/205281/4363714.jpg</filename>
-  <lastupdated>1405346995</lastupdated>
+  <lastupdated>1431166962</lastupdated>
   <seasonid>496661</seasonid>
   <seriesid>205281</seriesid>
   <thumb_added></thumb_added>
@@ -954,12 +1092,12 @@
   <Overview>The Masons run into trouble on the road when a family of outlaws intercepts their search-and-rescue mission. Meanwhile, looming doubts over the construction of a massive alien weapon ignite a conflict of interests. And an investigation to apprehend a killer on the loose hits a road block.</Overview>
   <ProductionCode>S03E07</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>106</RatingCount>
+  <RatingCount>109</RatingCount>
   <SeasonNumber>3</SeasonNumber>
-  <Writer>Heather V. Regnier|Jordan Rosenberg</Writer>
+  <Writer>|Heather V. Regnier|Jordan Rosenberg|</Writer>
   <absolute_number>27</absolute_number>
   <filename>episodes/205281/4363715.jpg</filename>
-  <lastupdated>1405347017</lastupdated>
+  <lastupdated>1431166884</lastupdated>
   <seasonid>496661</seasonid>
   <seriesid>205281</seriesid>
   <thumb_added></thumb_added>
@@ -984,13 +1122,13 @@
   <Language>en</Language>
   <Overview>Things seem much too calm for Tom, making him suspicious of his surroundings. On his way back to Charleston, he makes a number of discoveries, some incredibly surprising and others utterly horrifying. Meanwhile, Weaver and Pope butt heads over how to handle the suspected mole.</Overview>
   <ProductionCode>S03E08</ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>116</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>119</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>John Wirth</Writer>
   <absolute_number>28</absolute_number>
   <filename>episodes/205281/4363716.jpg</filename>
-  <lastupdated>1405347051</lastupdated>
+  <lastupdated>1429674254</lastupdated>
   <seasonid>496661</seasonid>
   <seriesid>205281</seriesid>
   <thumb_added>2013-07-21 08:04:17</thumb_added>
@@ -1010,19 +1148,19 @@
   <EpisodeName>Journey to Xilbalba</EpisodeName>
   <EpisodeNumber>9</EpisodeNumber>
   <FirstAired>2013-07-28</FirstAired>
-  <GuestStars>Robert Sean Leonard|Gloria Reuben</GuestStars>
+  <GuestStars>|Robert Sean Leonard|Gloria Reuben|</GuestStars>
   <IMDB_ID>tt2910616</IMDB_ID>
   <Language>en</Language>
   <Overview>Tom uncovers confidential intelligence about the heart of the alien operation. Meanwhile, Charleston prepares to mount an offensive against the Espheni, but a massive explosion brings the operation to a halt. And the identity of the mole is finally uncovered, but not before more blood has been shed.
 </Overview>
   <ProductionCode>S03E09</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>118</RatingCount>
+  <RatingCount>121</RatingCount>
   <SeasonNumber>3</SeasonNumber>
-  <Writer>Bradley Thompson|David Weddle</Writer>
+  <Writer>|Bradley Thompson|David Weddle|</Writer>
   <absolute_number>29</absolute_number>
   <filename>episodes/205281/4363717.jpg</filename>
-  <lastupdated>1405347074</lastupdated>
+  <lastupdated>1434375231</lastupdated>
   <seasonid>496661</seasonid>
   <seriesid>205281</seriesid>
   <thumb_added>2013-07-22 10:24:04</thumb_added>
@@ -1047,13 +1185,13 @@
   <Language>en</Language>
   <Overview>When the 2nd Mass destroys a crucial Espheni base, a relentless enemy is taken down and the Mason family is reunited with those who had been lost. But the arrival of more interstellar players puts the fate of the Earth’s remaining survivors in doubt.</Overview>
   <ProductionCode>S03E10</ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>113</RatingCount>
+  <Rating>7.9</Rating>
+  <RatingCount>117</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Remi Aubuchon</Writer>
   <absolute_number>30</absolute_number>
   <filename>episodes/205281/4363718.jpg</filename>
-  <lastupdated>1405347097</lastupdated>
+  <lastupdated>1425233041</lastupdated>
   <seasonid>496661</seasonid>
   <seriesid>205281</seriesid>
   <thumb_added>2013-08-05 06:31:25</thumb_added>
@@ -1074,17 +1212,17 @@
   <EpisodeNumber>1</EpisodeNumber>
   <FirstAired>2014-06-22</FirstAired>
   <GuestStars>Treva Etienne</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt3025996</IMDB_ID>
   <Language>en</Language>
   <Overview>On the outskirts of Charleston, just steps away from perceived safety, The Mason Clan and the remaining 2nd Mass suddenly find themselves under brutal attack by a new Espheni war machine – and a new, deadly creation unlike anything previously encountered. Divided like chattel and spread to the winds, The Masons must each forge new relationships and abilities to survive.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>50</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>79</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>David Eick</Writer>
-  <absolute_number></absolute_number>
+  <absolute_number>31</absolute_number>
   <filename>episodes/205281/4655675.jpg</filename>
-  <lastupdated>1405592545</lastupdated>
+  <lastupdated>1434375204</lastupdated>
   <seasonid>529190</seasonid>
   <seriesid>205281</seriesid>
   <thumb_added>2014-05-16 12:25:37</thumb_added>
@@ -1104,18 +1242,18 @@
   <EpisodeName>The Eye</EpisodeName>
   <EpisodeNumber>2</EpisodeNumber>
   <FirstAired>2014-06-29</FirstAired>
-  <GuestStars>Treva Etienne|Robert Sean Leonard</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <GuestStars>|Treva Etienne|Robert Sean Leonard|</GuestStars>
+  <IMDB_ID>tt3822822</IMDB_ID>
   <Language>en</Language>
   <Overview>The Espheni reveal their new plan to Tom, and he is faced with an impossible decision. Meanwhile, Weaver and Pope investigate a way out of the Espheni prison, while Matt struggles to hide his true allegiance from the “Team Leaders” at the Espheni Youth Camp. Elsewhere, Anne leads an exhausting search for her daughter Lexi, while Ben’s concerns about Lexi’s increasing powers uncovers a devastating secret she’s been keeping.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>36</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>70</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Carol Barbee</Writer>
-  <absolute_number></absolute_number>
+  <absolute_number>32</absolute_number>
   <filename>episodes/205281/4768088.jpg</filename>
-  <lastupdated>1405530872</lastupdated>
+  <lastupdated>1431166864</lastupdated>
   <seasonid>529190</seasonid>
   <seriesid>205281</seriesid>
   <thumb_added>2014-06-24 08:21:05</thumb_added>
@@ -1140,13 +1278,13 @@
   <Language>en</Language>
   <Overview>Tom and the 2nd Mass hatch an elaborate plan to escape the confines of the Espheni Ghetto. Meanwhile back in Chinatown, after learning from Ben that Lexi has been keeping a deadly secret, Maggie confronts Lexi publicly. At the Espheni Youth Camp, Matt tries to talk Mira out of a dangerous escape plan. While trekking through the woods with her guerilla fighters, Anne has a flashback to her time in the Espheni Tower with Karen, where a terrifying secret about Lexi is revealed.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>36</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>75</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Josh Pate</Writer>
   <absolute_number>33</absolute_number>
   <filename>episodes/205281/4768089.jpg</filename>
-  <lastupdated>1405531067</lastupdated>
+  <lastupdated>1425233478</lastupdated>
   <seasonid>529190</seasonid>
   <seriesid>205281</seriesid>
   <thumb_added>2014-06-24 08:24:53</thumb_added>
@@ -1166,18 +1304,18 @@
   <EpisodeName>Evolve or Die</EpisodeName>
   <EpisodeNumber>4</EpisodeNumber>
   <FirstAired>2014-07-13</FirstAired>
-  <GuestStars>Mira Sorvino|Treva Etienne</GuestStars>
+  <GuestStars>|Mira Sorvino|Treva Etienne|</GuestStars>
   <IMDB_ID>tt3850194</IMDB_ID>
   <Language>en</Language>
   <Overview>After breaking out of the Espheni Ghetto, Tom and the 2nd Mass seek refuge in a Volm hideout, where tensions run high between the Volm and humans. Tom sets off with Weaver and Cochise to find Matt, leaving Hal in charge. Meanwhile in Chinatown, Anne is reunited with Lexi, and comes to realize that the little girl she saw 6 months ago is now a grown woman.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>29</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>72</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>M. Raven Metzner</Writer>
   <absolute_number>34</absolute_number>
   <filename>episodes/205281/4768090.jpg</filename>
-  <lastupdated>1405632045</lastupdated>
+  <lastupdated>1431166981</lastupdated>
   <seasonid>529190</seasonid>
   <seriesid>205281</seriesid>
   <thumb_added>2014-06-24 08:27:44</thumb_added>
@@ -1197,18 +1335,18 @@
   <EpisodeName>Mind Wars</EpisodeName>
   <EpisodeNumber>5</EpisodeNumber>
   <FirstAired>2014-07-20</FirstAired>
-  <GuestStars>Mira Sorvino|Treva Etienne|Robert Sean Leonard</GuestStars>
+  <GuestStars>|Mira Sorvino|Treva Etienne|Robert Sean Leonard|</GuestStars>
   <IMDB_ID>tt3509618</IMDB_ID>
   <Language>en</Language>
   <Overview>After freeing Matt from the Espheni Youth Camp, Tom encounters two mysterious strangers in the woods, who attack his family before embarking with him on a violent journey. Hal faces almost insurmountable odds as he tries to lead the remaining Volm and 2nd Mass to a place of perceived safety. Lexi and Anne have a difference of opinions – resulting in dangerous consequences.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>66</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Bruce Marshall Romans</Writer>
   <absolute_number>35</absolute_number>
   <filename>episodes/205281/4768091.jpg</filename>
-  <lastupdated>1405689498</lastupdated>
+  <lastupdated>1434375169</lastupdated>
   <seasonid>529190</seasonid>
   <seriesid>205281</seriesid>
   <thumb_added>2014-06-24 08:29:18</thumb_added>
@@ -1228,18 +1366,18 @@
   <EpisodeName>Door Number Three</EpisodeName>
   <EpisodeNumber>6</EpisodeNumber>
   <FirstAired>2014-07-27</FirstAired>
-  <GuestStars>Treva Etienne|Robert Sean Leonard</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <GuestStars>|Treva Etienne|Robert Sean Leonard|</GuestStars>
+  <IMDB_ID>tt3882470</IMDB_ID>
   <Language>en</Language>
   <Overview>After months apart, Tom finally reunites with his family and the 2nd Mass. But the joyous reunion is cut short as Lexi undergoes a health crisis tied to her hybrid DNA. The crisis pits family members against one another as they fight over how to deal with Lexi’s illness. Anne goes to great lengths to save her daughter.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>62</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Melissa Glenn</Writer>
   <absolute_number>36</absolute_number>
   <filename>episodes/205281/4768092.jpg</filename>
-  <lastupdated>1405531995</lastupdated>
+  <lastupdated>1434375158</lastupdated>
   <seasonid>529190</seasonid>
   <seriesid>205281</seriesid>
   <thumb_added>2014-06-24 08:30:52</thumb_added>
@@ -1255,27 +1393,27 @@
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
   <Director>Olatunde Osunsanmi</Director>
-  <EpImgFlag></EpImgFlag>
+  <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Saturday Night Massacre</EpisodeName>
   <EpisodeNumber>7</EpisodeNumber>
   <FirstAired>2014-08-03</FirstAired>
-  <GuestStars>Mira Sorvino|Treva Etienne|Robert Sean Leonard</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <GuestStars>|Mira Sorvino|Treva Etienne|Robert Sean Leonard|</GuestStars>
+  <IMDB_ID>tt3882482</IMDB_ID>
   <Language>en</Language>
   <Overview>Lexi emerges more powerful and ruthless than ever. Tom and the 2nd Mass must work together with the Volm to hold off the invading Espheni forces in what becomes the bloodiest battle of the series.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>63</RatingCount>
   <SeasonNumber>4</SeasonNumber>
-  <Writer>David Weddle|Bradley Thompson</Writer>
-  <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1405532116</lastupdated>
+  <Writer>|David Weddle|Bradley Thompson|</Writer>
+  <absolute_number>37</absolute_number>
+  <filename>episodes/205281/4768093.jpg</filename>
+  <lastupdated>1434375143</lastupdated>
   <seasonid>529190</seasonid>
   <seriesid>205281</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-07-25 10:34:42</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4768094</id>
@@ -1286,27 +1424,27 @@
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
   <Director>David Solomon</Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>A Thing With Feathers</EpisodeName>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>A Thing with Feathers</EpisodeName>
   <EpisodeNumber>8</EpisodeNumber>
   <FirstAired>2014-08-10</FirstAired>
-  <GuestStars>Mira Sorvino|Treva Etienne</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <GuestStars>|Mira Sorvino|Treva Etienne|</GuestStars>
+  <IMDB_ID>tt3639694</IMDB_ID>
   <Language>en</Language>
   <Overview>The 2nd Mass picks up the pieces after a devastating alien attack leaves Maggie fighting for her life…and Hal fighting for Maggie. Meanwhile, Tom and Dingaan are cut off from the rest of the group, buried under tons of rubble, where they must rely on an Enemy Ship to rescue them.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>62</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Ryan Mottesheard</Writer>
-  <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1405532325</lastupdated>
+  <absolute_number>38</absolute_number>
+  <filename>episodes/205281/4768094.jpg</filename>
+  <lastupdated>1434375120</lastupdated>
   <seasonid>529190</seasonid>
   <seriesid>205281</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-07-25 10:36:22</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4768095</id>
@@ -1317,27 +1455,27 @@
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
   <Director>Greg Beeman</Director>
-  <EpImgFlag></EpImgFlag>
+  <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Till Death Do Us Part</EpisodeName>
   <EpisodeNumber>9</EpisodeNumber>
   <FirstAired>2014-08-17</FirstAired>
-  <GuestStars>Treva Etienne|Mira Sorvino</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <GuestStars>|Treva Etienne|Mira Sorvino|</GuestStars>
+  <IMDB_ID>tt3823622</IMDB_ID>
   <Language>en</Language>
   <Overview>While members of the 2nd Mass attempt to dig out a shot-down Beamer, Tom and a small team follow the Volm to a supply cache in search of equipment to expedite the process. Along the way, they encounter a friend, and must decide whether or not to trust her. Back at camp, Maggie and Ben grow closer as he teaches her to hone her new skills, while Pope and Sara continue to clash, resulting in a fight from which they may never recover.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>58</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Carol Barbee</Writer>
-  <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1405532697</lastupdated>
+  <absolute_number>39</absolute_number>
+  <filename>episodes/205281/4768095.jpg</filename>
+  <lastupdated>1431166912</lastupdated>
   <seasonid>529190</seasonid>
   <seriesid>205281</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-07-25 10:37:30</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4768096</id>
@@ -1348,27 +1486,27 @@
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
   <Director>Adam Kane</Director>
-  <EpImgFlag></EpImgFlag>
+  <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Drawing Straws</EpisodeName>
   <EpisodeNumber>10</EpisodeNumber>
   <FirstAired>2014-08-24</FirstAired>
   <GuestStars>Treva Etienne</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt3477300</IMDB_ID>
   <Language>en</Language>
   <Overview>Tom and the remnants of the 2nd Mass learn to pilot a Beamer as part of their plan to destroy the Espheni Power Core, and the group draws straws to see who will embark on the dangerous mission. The threat of death hanging over everyone triggers long-simmering confrontations between many of our main characters, ultimately bringing the 2nd Mass closer together.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>62</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Josh Pate</Writer>
-  <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1405027485</lastupdated>
+  <absolute_number>40</absolute_number>
+  <filename>episodes/205281/4768096.jpg</filename>
+  <lastupdated>1434375101</lastupdated>
   <seasonid>529190</seasonid>
   <seriesid>205281</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-07-25 10:38:31</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4768097</id>
@@ -1379,27 +1517,27 @@
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
   <Director>Olatunde Osunsanmi</Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>Space Oddity (1)</EpisodeName>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Space Oddity</EpisodeName>
   <EpisodeNumber>11</EpisodeNumber>
   <FirstAired>2014-08-31</FirstAired>
   <GuestStars>Treva Etienne</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt3823624</IMDB_ID>
   <Language>en</Language>
   <Overview>Tom’s mission to destroy the Espheni Power Core is complicated by Lexi’s return. Lexi is forced to take extreme measures to save her father’s life – and her own – after a Beamer malfunction. Meanwhile, the 2nd Mass fears an impending Espheni strike by the scorched Overlord.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>50</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>M. Raven Metzner</Writer>
-  <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1405027511</lastupdated>
+  <absolute_number>41</absolute_number>
+  <filename>episodes/205281/4768097.jpg</filename>
+  <lastupdated>1434375076</lastupdated>
   <seasonid>529190</seasonid>
   <seriesid>205281</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-07-25 10:39:36</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>4768098</id>
@@ -1410,23 +1548,333 @@
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
   <Director>Greg Beeman</Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>Shoot The Moon (2)</EpisodeName>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Shoot the Moon</EpisodeName>
   <EpisodeNumber>12</EpisodeNumber>
   <FirstAired>2014-08-31</FirstAired>
-  <GuestStars>Mira Sorvino|Treva Etienne</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <GuestStars>|Mira Sorvino|Treva Etienne|</GuestStars>
+  <IMDB_ID>tt3823630</IMDB_ID>
   <Language>en</Language>
   <Overview>With the weight of humanity’s survival on Tom and Lexi’s shoulders, they must defeat Tom’s mortal enemy and find a way to destroy the omnipotent Espheni Power Core. Meanwhile, a new, terrifying Espheni Bomb is dropped onto Chinatown, immobilizing the 2nd Mass and preparing them for Human Skitterizaton.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>7.9</Rating>
+  <RatingCount>60</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>David Eick</Writer>
-  <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1405027548</lastupdated>
+  <absolute_number>42</absolute_number>
+  <filename>episodes/205281/4768098.jpg</filename>
+  <lastupdated>1434375066</lastupdated>
   <seasonid>529190</seasonid>
+  <seriesid>205281</seriesid>
+  <thumb_added>2014-07-25 10:40:47</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5152788</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Find Your Warrior</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2015-06-28</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3881240</IMDB_ID>
+  <Language>en</Language>
+  <Overview>On the heels of Tom and Lexi's successful albeit tragic mission to destroy the Espheni power core on the moon, we pick up with Tom's life hanging in the balance as his Beamer drifts into space. While onboard the beamer, Tom encounters a surprising guest who urges him to find his inner warrior. Meanwhile, back on earth, Anne reluctantly steps into Tom's shoes to help lead the 2nd Mass in his absence. Against all odds, Tom makes a miraculous, yet mysterious return to earth. Once reunited with the 2nd Mass, Tom shares a new plan for winning the war. The Espheni, for the first time, are on their heels, and the 2nd Mass will not rest until they are gone from this planet for good.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>43</absolute_number>
+  <filename>episodes/205281/5152788.jpg</filename>
+  <lastupdated>1434652348</lastupdated>
+  <seasonid>615760</seasonid>
+  <seriesid>205281</seriesid>
+  <thumb_added>2015-06-18 11:32:28</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5212144</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Hunger Pains</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2015-07-05</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt4114250</IMDB_ID>
+  <Language>en</Language>
+  <Overview>A surprise skitter attack leaves the 2nd Mass without food. In desperation, Maggie, Ben, Pope, and Sara go on a dangerous mission hoping to find supplies.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>44</absolute_number>
+  <filename>episodes/205281/5212144.jpg</filename>
+  <lastupdated>1434652363</lastupdated>
+  <seasonid>615760</seasonid>
+  <seriesid>205281</seriesid>
+  <thumb_added>2015-06-18 11:32:43</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5212145</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Robert Lieberman</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Hatchlings</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2015-07-12</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt4164806</IMDB_ID>
+  <Language>en</Language>
+  <Overview>The 2nd Mass discovers the source for the seemingly endless supply of enemy forces. With the Volm's help, Tom's leadership begins to spread to remaining human militias around the world. Hal disobeys his father to help Maggie on a personal mission. Meanwhile, Tom has to make an agonizing choice that ultimately risks one of their own, leaving lasting repercussions for them all.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>Jonathan Glassner</Writer>
+  <absolute_number>45</absolute_number>
+  <filename></filename>
+  <lastupdated>1434725147</lastupdated>
+  <seasonid>615760</seasonid>
+  <seriesid>205281</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5212146</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Pope Breaks Bad</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2015-07-19</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt4164812</IMDB_ID>
+  <Language>en</Language>
+  <Overview>A mission to procure vehicles and fuel goes awry; Cochise shares troubling news with Anne.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>46</absolute_number>
+  <filename></filename>
+  <lastupdated>1433913044</lastupdated>
+  <seasonid>615760</seasonid>
+  <seriesid>205281</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5212148</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Non-Essential Personnel</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2015-07-26</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt4233536</IMDB_ID>
+  <Language>en</Language>
+  <Overview>The 2nd Mass leaves Chinatown; a deranged gunman takes Weaver hostage; Tom sets out to rescue Hal.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>47</absolute_number>
+  <filename></filename>
+  <lastupdated>1433913079</lastupdated>
+  <seasonid>615760</seasonid>
+  <seriesid>205281</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5212149</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Respite</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2015-08-02</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt4234598</IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>48</absolute_number>
+  <filename></filename>
+  <lastupdated>1433913101</lastupdated>
+  <seasonid>615760</seasonid>
+  <seriesid>205281</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5212150</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Everybody Has Their Reasons</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2015-08-09</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt4259686</IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>49</absolute_number>
+  <filename></filename>
+  <lastupdated>1434820819</lastupdated>
+  <seasonid>615760</seasonid>
+  <seriesid>205281</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5212151</id>
+  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Stalag 14th Virginia</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2015-08-16</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt4277228</IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>50</absolute_number>
+  <filename></filename>
+  <lastupdated>1433913325</lastupdated>
+  <seasonid>615760</seasonid>
+  <seriesid>205281</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5212152</id>
+  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Reunion</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2015-08-23</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt4277226</IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>51</absolute_number>
+  <filename></filename>
+  <lastupdated>1434820867</lastupdated>
+  <seasonid>615760</seasonid>
+  <seriesid>205281</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5202289</id>
+  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Reborn</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2015-08-30</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt4277230</IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>52</absolute_number>
+  <filename></filename>
+  <lastupdated>1434988837</lastupdated>
+  <seasonid>615760</seasonid>
   <seriesid>205281</seriesid>
   <thumb_added></thumb_added>
   <thumb_height></thumb_height>

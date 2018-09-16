@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Data><Series>
   <id>95451</id>
-  <Actors>|Julianna Margulies|Archie Panjabi|Josh Charles|Matthew Goode|Mary Beth Peil|Graham Phillips|Makenzie Vega|Alan Cumming|Matt Czuchry|Christine Baranski|Chris Noth|Zach Grenier|</Actors>
+  <Actors>|Julianna Margulies|Archie Panjabi|Matt Czuchry|Christine Baranski|Josh Charles|Alan Cumming|Chris Noth|Matthew Goode|Zach Grenier|Mary Beth Peil|Graham Phillips|Makenzie Vega|</Actors>
   <Airs_DayOfWeek>Sunday</Airs_DayOfWeek>
   <Airs_Time>9:00 PM</Airs_Time>
   <ContentRating>TV-14</ContentRating>
@@ -12,18 +12,18 @@
   <Network>CBS</Network>
   <NetworkID></NetworkID>
   <Overview>The Good Wife is a drama starring Emmy Award winner Julianna Margulies as a wife and mother who must assume full responsibility for her family and re-enter the workforce after her husband's very public sex and political corruption scandal lands him in jail.</Overview>
-  <Rating>8.6</Rating>
-  <RatingCount>99</RatingCount>
+  <Rating>8.7</Rating>
+  <RatingCount>114</RatingCount>
   <Runtime>60</Runtime>
   <SeriesID>76761</SeriesID>
   <SeriesName>The Good Wife</SeriesName>
   <Status>Continuing</Status>
   <added>2009-05-22 03:03:24</added>
   <addedBy>5664</addedBy>
-  <banner>graphical/95451-g10.jpg</banner>
+  <banner>graphical/95451-g4.jpg</banner>
   <fanart>fanart/original/95451-23.jpg</fanart>
-  <lastupdated>1405598038</lastupdated>
-  <poster>posters/95451-8.jpg</poster>
+  <lastupdated>1434997821</lastupdated>
+  <poster>posters/95451-12.jpg</poster>
   <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>EP01158384</zap2it_id>
 </Series>
@@ -75,17 +75,17 @@
   <EpisodeNumber>1</EpisodeNumber>
   <FirstAired>2009-09-22</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt1465795</IMDB_ID>
   <Language>en</Language>
-  <Overview>Alicia returns to work as a defense attorney after her husband's corruption scandal and incarceration. She is assigned her first case; a retrial of a woman accused of murdering her ex-husband. Her firm successfully deadlocked the first jury, and they hope that sticking to that strategy will work again, but Alicia realizes that this trial will be more of a fight than anyone expected.</Overview>
+  <Overview>Alicia returns to work as a defense attorney after her husband's corruption scandal and incarceration. She is assigned her first case – a retrial of a woman accused of murdering her ex-husband. Her firm successfully deadlocked the first jury, and they hope that sticking to that strategy will work again, but Alicia realizes that this trial will be more of a fight than anyone expected.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>53</RatingCount>
+  <RatingCount>54</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Robert King|Michelle King|</Writer>
   <absolute_number>1</absolute_number>
   <filename>episodes/95451/669761.jpg</filename>
-  <lastupdated>1396533049</lastupdated>
+  <lastupdated>1426213723</lastupdated>
   <seasonid>68411</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -106,17 +106,17 @@
   <EpisodeNumber>2</EpisodeNumber>
   <FirstAired>2009-09-29</FirstAired>
   <GuestStars>Denis O'Hare</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt1465794</IMDB_ID>
   <Language>en</Language>
   <Overview>After the State's Attorney refuses to pursue criminal charges, Alicia becomes second chair on a civil suit involving the rape of a prostitute at a bachelor party who may have been hired and abused by her own husband.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>47</RatingCount>
+  <RatingCount>50</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Robert King|Michelle King|</Writer>
   <absolute_number>2</absolute_number>
   <filename>episodes/95451/1084271.jpg</filename>
-  <lastupdated>1401078433</lastupdated>
+  <lastupdated>1426213757</lastupdated>
   <seasonid>68411</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -137,17 +137,17 @@
   <EpisodeNumber>3</EpisodeNumber>
   <FirstAired>2009-10-06</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt1477534</IMDB_ID>
   <Language>en</Language>
   <Overview>The son of Alicia's former friends is charged with felony murder, and Alicia decides to defend him, despite the fact that they ostracized her ever since the scandal.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>49</RatingCount>
+  <RatingCount>52</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Dee Johnson</Writer>
   <absolute_number>3</absolute_number>
   <filename>episodes/95451/1084281.jpg</filename>
-  <lastupdated>1396533068</lastupdated>
+  <lastupdated>1426213775</lastupdated>
   <seasonid>68411</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -173,12 +173,12 @@
   <Overview>Alicia stumbles onto something that indicates possible jury tampering on her firm's class action law suit against a pharmaceutical company. Peter's legal team continues their work for his upcoming appeal, and Alicia keeps butting heads with Peter's attorney.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>46</RatingCount>
+  <RatingCount>48</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Todd Ellis Kessler</Writer>
   <absolute_number>4</absolute_number>
   <filename>episodes/95451/1084291.jpg</filename>
-  <lastupdated>1396533105</lastupdated>
+  <lastupdated>1411895129</lastupdated>
   <seasonid>68411</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -198,18 +198,18 @@
   <EpisodeName>Crash</EpisodeName>
   <EpisodeNumber>5</EpisodeNumber>
   <FirstAired>2009-10-20</FirstAired>
-  <GuestStars></GuestStars>
+  <GuestStars>Martha Plimpton</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview>Alicia and Will have only 72 hours to find the smoking gun that proves the train company, and not the three engineers, is responsible for the crash, thus securing the widows their pensions the company is holding back. Meanwhile, Jackie and Alicia clash over taking the children to visit their father in prison.</Overview>
+  <Overview>Alicia and Will have only 72 hours to find the smoking gun that proves the train company, and not the three engineers, is responsible for the crash, thus securing the widows their pensions the company is holding back. Jackie and Alicia clash over taking the children to visit their father in prison.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.2</Rating>
-  <RatingCount>41</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>43</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Ted Humphrey</Writer>
   <absolute_number>5</absolute_number>
   <filename>episodes/95451/1151421.jpg</filename>
-  <lastupdated>1396533113</lastupdated>
+  <lastupdated>1421484591</lastupdated>
   <seasonid>68411</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -235,12 +235,12 @@
   <Overview>As Alicia works with Will on the appeal of a death row inmate, she agrees to a conjugal visit with Peter in order to get information from him since her client was convicted under Peter's regime as state's attorney.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>44</RatingCount>
+  <RatingCount>45</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Angela Amato</Writer>
   <absolute_number>6</absolute_number>
   <filename>episodes/95451/1151431.jpg</filename>
-  <lastupdated>1396533121</lastupdated>
+  <lastupdated>1411895550</lastupdated>
   <seasonid>68411</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -268,12 +268,12 @@
 </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>47</RatingCount>
+  <RatingCount>48</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>Robert King|Michelle King</Writer>
+  <Writer>|Robert King|Michelle King|</Writer>
   <absolute_number>7</absolute_number>
   <filename>episodes/95451/1231281.jpg</filename>
-  <lastupdated>1396533129</lastupdated>
+  <lastupdated>1431268510</lastupdated>
   <seasonid>68411</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -296,15 +296,15 @@
   <GuestStars></GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview>While Alicia is preparing in a case defending a scientist accused of arson, she is suddenly asked to testify on Peter's behalf. Damages Peter Riegert guest stars as the judge in Peter's case and CBS' The Early Show star Russ Mitchell guests as himself and interviews Peter.</Overview>
+  <Overview>While Alicia is preparing in a case defending a scientist accused of arson, she is suddenly asked to testify on Peter's behalf.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>45</RatingCount>
+  <RatingCount>47</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Corinne Brinkerhoff</Writer>
   <absolute_number>8</absolute_number>
   <filename>episodes/95451/1231291.jpg</filename>
-  <lastupdated>1396533140</lastupdated>
+  <lastupdated>1421484640</lastupdated>
   <seasonid>68411</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -330,12 +330,12 @@
   <Overview>Alicia is asked to represent a partner in the firm on a DUI charge. Her attention is split when she is suddenly forced to face the Other Woman.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>43</RatingCount>
+  <RatingCount>45</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Ted Humphrey</Writer>
   <absolute_number>9</absolute_number>
   <filename>episodes/95451/1231301.jpg</filename>
-  <lastupdated>1396533147</lastupdated>
+  <lastupdated>1411896045</lastupdated>
   <seasonid>68411</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -358,15 +358,15 @@
   <GuestStars></GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview>When a judge overturns a simple plea deal that Alicia arranged, she looks into his motivation, and Diane is made an offer she can not refuse.</Overview>
+  <Overview>When a judge overturns a simple plea deal that Alicia arranged, she looks into his motivation. Diane is made an offer she can't refuse.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>44</RatingCount>
+  <RatingCount>46</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Tom Smuts</Writer>
   <absolute_number>10</absolute_number>
   <filename>episodes/95451/1265081.jpg</filename>
-  <lastupdated>1396533154</lastupdated>
+  <lastupdated>1421484678</lastupdated>
   <seasonid>68411</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -386,18 +386,18 @@
   <EpisodeName>Infamy</EpisodeName>
   <EpisodeNumber>11</EpisodeNumber>
   <FirstAired>2010-01-05</FirstAired>
-  <GuestStars>Titus Welliver|Craig Bierko|Jessica Hecht|Denis O'Hare|</GuestStars>
+  <GuestStars>|Titus Welliver|Craig Bierko|Jessica Hecht|Denis O'Hare|</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview>Alicia learns more about Peter's fall from office when she represents Glenn Child's wife, Marie Browning, in her divorce appeal. Meanwhile, Will and Emily an opposing counsel, get cozy during a death suit against Duke Rosco, a caustic TV commentator.</Overview>
+  <Overview>Alicia learns more about Peter's fall from office when she represents Glenn Child's wife in her divorce appeal. Will and Emily an opposing counsel, get cozy during a death suit against a caustic TV commentator.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>41</RatingCount>
+  <RatingCount>43</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Todd Ellis Kessler</Writer>
   <absolute_number>11</absolute_number>
   <filename>episodes/95451/1304811.jpg</filename>
-  <lastupdated>1401078492</lastupdated>
+  <lastupdated>1431268696</lastupdated>
   <seasonid>68411</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -420,15 +420,15 @@
   <GuestStars></GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview>Alicia and the kids have to deal with some really bad news and then she has to give Peter some information that will make him furious. Meanwhile, Alicia has to represent the doctor who prescribed the medication to a high school quarterback that appear to die from the painkiller overdose.</Overview>
+  <Overview>Alicia and the kids have to deal with some really bad news and then she has to give Peter some information that will make him furious. Alicia has to represent the doctor who prescribed the medication to a high school quarterback that appear to die from the painkiller overdose.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>43</RatingCount>
+  <RatingCount>45</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Corinne Brinkerhoff</Writer>
   <absolute_number>12</absolute_number>
   <filename>episodes/95451/1422331.jpg</filename>
-  <lastupdated>1396533171</lastupdated>
+  <lastupdated>1421484753</lastupdated>
   <seasonid>68411</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -451,15 +451,15 @@
   <GuestStars></GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview>Tensions are high as Peter's appeal begins while Alicia has to defend a wealthy client who doesn't seem that innocent, even after he's found not guilty of murdering his wife. Meanwhile, Diane takes precautions when a prisoner she put in jail is to be released from prison.</Overview>
+  <Overview>Tensions are high as Peter's appeal begins while Alicia has to defend a wealthy client who doesn't seem that innocent, even after he's found not guilty of murdering his wife. Diane takes precautions when a prisoner she put in jail is to be released from prison.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.2</Rating>
-  <RatingCount>43</RatingCount>
+  <RatingCount>45</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Ted Humphrey</Writer>
   <absolute_number>13</absolute_number>
   <filename>episodes/95451/1542451.jpg</filename>
-  <lastupdated>1396533178</lastupdated>
+  <lastupdated>1421484777</lastupdated>
   <seasonid>68411</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -482,15 +482,15 @@
   <GuestStars></GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview>Alicia defends a man accused of killing his child's babysitter. Meanwhile, Peter's appeal seems to be going well, and Alicia prepares for the idea of him returning to her life.</Overview>
+  <Overview>Alicia defends a man accused of killing his child's babysitter. Peter's appeal seems to be going well. Alicia prepares for the idea of him returning to her life.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>45</RatingCount>
+  <RatingCount>47</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>Robert King|Michelle King|Barry M. Schkolnick</Writer>
+  <Writer>|Robert King|Michelle King|Barry M. Schkolnick|</Writer>
   <absolute_number>14</absolute_number>
   <filename>episodes/95451/1542461.jpg</filename>
-  <lastupdated>1396533185</lastupdated>
+  <lastupdated>1431268563</lastupdated>
   <seasonid>68411</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -513,15 +513,15 @@
   <GuestStars></GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview>While Peter gets acclimated to life at home and works on a comeback strategy with his political team, including Eli Gold, Alicia and Diane wrestle with spousal privilege laws in a murder case that hinges on their ability to get a wife to testify against her husband.</Overview>
+  <Overview>Peter gets accustomed to life at home and works on a comeback strategy with his political team, including Eli Gold. Alicia and Diane wrestle with spousal privilege laws in a murder case that hinges on their ability to get a wife to testify against her husband.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>44</RatingCount>
+  <RatingCount>46</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Courtney Kemp Abgoh</Writer>
   <absolute_number>15</absolute_number>
   <filename>episodes/95451/1660821.jpg</filename>
-  <lastupdated>1396533192</lastupdated>
+  <lastupdated>1421484862</lastupdated>
   <seasonid>68411</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -544,15 +544,15 @@
   <GuestStars></GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview>As Peter strategizes on how to handle his retrial and the next steps in his public rehabilitation, Alicia and Will defend an attorney arrested for murder.</Overview>
+  <Overview>Peter strategizes on how to handle his retrial and the next steps in his public rehabilitation. Alicia and Will defend an attorney charged with murder.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>46</RatingCount>
+  <RatingCount>48</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Amanda Segel Marks</Writer>
   <absolute_number>16</absolute_number>
   <filename>episodes/95451/1660831.jpg</filename>
-  <lastupdated>1396533199</lastupdated>
+  <lastupdated>1421484911</lastupdated>
   <seasonid>68411</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -575,15 +575,15 @@
   <GuestStars></GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview>In an emergency courtroom set up in a hospital, Alicia and Will battle Patti Nyholm and an insurance company that refuses to pay for life-saving in-utero surgery. Meanwhile, Alicia gives Peter a proper welcome home.</Overview>
+  <Overview>In an emergency courtroom set up in a hospital, Alicia and Will battle Patti Nyholm and an insurance company that refuses to pay for life-saving in-utero surgery. Alicia gives Peter a proper welcome home.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>50</RatingCount>
+  <RatingCount>52</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Corinne Brinkerhoff</Writer>
   <absolute_number>17</absolute_number>
   <filename>episodes/95451/1777031.jpg</filename>
-  <lastupdated>1396533213</lastupdated>
+  <lastupdated>1421484946</lastupdated>
   <seasonid>68411</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -606,16 +606,16 @@
   <GuestStars></GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview>Alicia and Will defend a college student accused of killing her sorority sister while under the influence of a sleep aid. At the same time, they also deal with their growing sexual tension and Diane and Kurt McVeigh continue their flirtation.
+  <Overview>Alicia and Will defend a college student accused of killing her sorority sister while under the influence of a sleep aid. Diane and Kurt continue their flirtation.
 </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>58</RatingCount>
+  <RatingCount>60</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Karen Hall</Writer>
   <absolute_number>18</absolute_number>
   <filename>episodes/95451/1933711.jpg</filename>
-  <lastupdated>1396533222</lastupdated>
+  <lastupdated>1421485071</lastupdated>
   <seasonid>68411</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -638,15 +638,15 @@
   <GuestStars></GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview>When Alicia goes head-to-head in the courtroom with former boss Jonas Stern, she debates whether or not use personal information to her advantage. Meanwhile, Peter uses religion to work on his appeal.</Overview>
+  <Overview>When Alicia goes head-to-head in the courtroom with former boss Jonas Stern, she debates whether or not use personal information to her advantage. Peter uses religion to work on his appeal.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>56</RatingCount>
+  <RatingCount>58</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Ted Humphrey</Writer>
   <absolute_number>19</absolute_number>
   <filename>episodes/95451/2059891.jpg</filename>
-  <lastupdated>1396533228</lastupdated>
+  <lastupdated>1421485084</lastupdated>
   <seasonid>68411</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -673,12 +673,12 @@
 </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>55</RatingCount>
+  <RatingCount>57</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Todd Ellis Kessler</Writer>
   <absolute_number>20</absolute_number>
   <filename>episodes/95451/2071421.jpg</filename>
-  <lastupdated>1396533238</lastupdated>
+  <lastupdated>1421485094</lastupdated>
   <seasonid>68411</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -704,12 +704,12 @@
   <Overview>The winner is announced in the competition between Alicia and Cary.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>54</RatingCount>
+  <RatingCount>56</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Karen Hall</Writer>
   <absolute_number>21</absolute_number>
   <filename>episodes/95451/2106531.jpg</filename>
-  <lastupdated>1396533245</lastupdated>
+  <lastupdated>1411898336</lastupdated>
   <seasonid>68411</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -732,16 +732,16 @@
   <GuestStars></GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview>Eli Gold works on getting Peter's charges dropped, and Alicia defends Colin Sweeney, a client and accused wife killer, who claims self defense after she finds him handcuffed to a dead woman.
+  <Overview>Eli works on getting Peter's charges dropped. Alicia defends a client and accused wife killer, who claims self defense after she finds him handcuffed to a dead woman.
 </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>43</RatingCount>
+  <RatingCount>45</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Frank R. Pierson</Writer>
   <absolute_number>22</absolute_number>
   <filename>episodes/95451/2106541.jpg</filename>
-  <lastupdated>1396533261</lastupdated>
+  <lastupdated>1421485156</lastupdated>
   <seasonid>68411</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -764,16 +764,16 @@
   <GuestStars></GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview>At Eli Gold's urging, Alicia must decide if she'll stand by her man during Peter's new political campaign, or if she'll pursue a relationship with Will instead.
+  <Overview>At Eli's urging, Alicia must decide if she'll stand by her man during Peter's new political campaign, or if she'll pursue a relationship with Will instead.
 </Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>54</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>56</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>Robert King|Michelle King</Writer>
+  <Writer>|Robert King|Michelle King|</Writer>
   <absolute_number>23</absolute_number>
   <filename>episodes/95451/2106551.jpg</filename>
-  <lastupdated>1396533272</lastupdated>
+  <lastupdated>1431268395</lastupdated>
   <seasonid>68411</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -798,13 +798,13 @@
   <Language>en</Language>
   <Overview>Alicia makes her decision about whether to stay with Peter or pursue a relationship with Will.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>60</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>62</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>Robert King|Michelle King</Writer>
+  <Writer>|Robert King|Michelle King|</Writer>
   <absolute_number>24</absolute_number>
   <filename>episodes/95451/2743331.jpg</filename>
-  <lastupdated>1396533298</lastupdated>
+  <lastupdated>1431268373</lastupdated>
   <seasonid>307861</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -824,18 +824,18 @@
   <EpisodeName>Double Jeopardy</EpisodeName>
   <EpisodeNumber>2</EpisodeNumber>
   <FirstAired>2010-10-05</FirstAired>
-  <GuestStars>Chris Noth|Mary Beth Peil|Michael Ealy|Scott Porter|Chris Butler|Dreama Walker|Brian Tyree Henry|Teyonah Parris|Patrick Breen|Linda Emond|Walter Belenky|Victor Verhaeghe</GuestStars>
+  <GuestStars>|Chris Noth|Mary Beth Peil|Michael Ealy|Scott Porter|Chris Butler|Dreama Walker|Brian Tyree Henry|Teyonah Parris|Patrick Breen|Linda Emond|Walter Belenky|Victor Verhaeghe|</GuestStars>
   <IMDB_ID>tt1632297</IMDB_ID>
   <Language>en</Language>
-  <Overview>An Army reservist is accused of murdering his wife; Childs turns to dirty tricks in hopes of marring Peter's campaign.</Overview>
+  <Overview>An Army reservist is accused of murdering his wife. Childs turns to dirty tricks in hopes of marring Peter's campaign.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>59</RatingCount>
+  <RatingCount>61</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Ted Humphrey</Writer>
   <absolute_number>25</absolute_number>
   <filename>episodes/95451/2757071.jpg</filename>
-  <lastupdated>1396533317</lastupdated>
+  <lastupdated>1431268577</lastupdated>
   <seasonid>307861</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -858,15 +858,15 @@
   <GuestStars></GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview>A multi-million dollar malicious prosecution suit leads to an explosive confrontation between Alicia and Glenn Childs. Meanwhile, Alicia's brother, Owen, visits after his questionable remarks about Peter goes viral online and makes Eli apoplectic.</Overview>
+  <Overview>A multi-million dollar malicious prosecution suit leads to an explosive confrontation between Alicia and Glenn Childs. Alicia's brother visits after his questionable remarks about Peter goes viral online and makes Eli apoplectic.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>53</RatingCount>
+  <RatingCount>55</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Corinne Brinkerhoff</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/2893331.jpg</filename>
-  <lastupdated>1388981578</lastupdated>
+  <lastupdated>1421485477</lastupdated>
   <seasonid>307861</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -889,15 +889,15 @@
   <GuestStars></GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview>Alicia risks disbarment when Childs' office suspects her of an ethics violation, which could also ruin Peter's political campaign. Meanwhile, a third candidate is revealed in the campaign for state's attorney.</Overview>
+  <Overview>Alicia risks disbarment when Glenn's office suspects her of an ethics violation, which could also ruin Peter's political campaign. A third candidate is revealed in the campaign for state's attorney.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>58</RatingCount>
+  <RatingCount>60</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>Michelle King|Robert King</Writer>
+  <Writer>|Michelle King|Robert King|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/2893341.jpg</filename>
-  <lastupdated>1388981593</lastupdated>
+  <lastupdated>1431268703</lastupdated>
   <seasonid>307861</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -920,15 +920,15 @@
   <GuestStars></GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview>Alicia and the partners must decide whether to take on the case of a VIP massage therapist who accuses a Nobel Peace Prize winner of sexual assault. Meanwhile, Peter and Eli try to figure out what Wendy's candidacy means for their campaign.</Overview>
+  <Overview>Alicia and the partners must decide whether to take on the case of a VIP massage therapist who accuses a Nobel Peace Prize winner of sexual assault. Peter and Eli try to figure out what Wendy's candidacy means for their campaign.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>57</RatingCount>
+  <RatingCount>59</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>Michelle King|Robert King</Writer>
+  <Writer>|Michelle King|Robert King|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/2905351.jpg</filename>
-  <lastupdated>1388981620</lastupdated>
+  <lastupdated>1431268570</lastupdated>
   <seasonid>307861</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -951,15 +951,15 @@
   <GuestStars>Michael J. Fox</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview>Alicia, Will and Diane are caught off-guard when a brilliant disabled attorney (Michael J. Fox) uses his condition to sway a jury; Kalinda turns to a former friend for help.</Overview>
+  <Overview>Alicia, Will and Diane are caught off-guard when a brilliant disabled attorney uses his condition to sway a jury. Kalinda turns to a former friend for help.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>59</RatingCount>
+  <RatingCount>61</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Keith Eisner</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/2905361.jpg</filename>
-  <lastupdated>1389619241</lastupdated>
+  <lastupdated>1421485675</lastupdated>
   <seasonid>307861</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -982,15 +982,15 @@
   <GuestStars>Miranda Cosgrove</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview>Alicia is on the road to successfully arguing that her teenaged pop star client, Sloan, is innocent of a DUI, until Cary drops a bombshell that could ruin the starlet's career and life. Meanwhile, Peter's campaign hits a snag when the Democratic Committee tells him to drop out of the race.</Overview>
+  <Overview>Alicia is on the road to successfully arguing that her teenaged pop star client is innocent of a DUI, until Cary drops a bombshell that could ruin the starlet's career and life. Peter's campaign hits a snag when the Democratic Committee tells him to drop out of the race.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>50</RatingCount>
+  <RatingCount>52</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Courtney Kemp</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/3012771.jpg</filename>
-  <lastupdated>1388981662</lastupdated>
+  <lastupdated>1421485706</lastupdated>
   <seasonid>307861</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -1013,15 +1013,15 @@
   <GuestStars></GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview>When the government accuses an alderman of taking a campaign bribe from a Muslim extremist group, the team reviews hours of wiretap evidence to mount his defense, and Alicia is startled to discover that some of the tapes pertain to her.</Overview>
+  <Overview>When the government accuses an alderman of taking a campaign bribe from a Muslim extremist group, the team reviews hours of wiretap evidence to mount its defense. Alicia is startled to discover that some of the tapes pertain to her.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>54</RatingCount>
+  <RatingCount>56</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Leonard Dick</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/3160931.jpg</filename>
-  <lastupdated>1391191814</lastupdated>
+  <lastupdated>1421485737</lastupdated>
   <seasonid>307861</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -1044,15 +1044,15 @@
   <GuestStars></GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview>When Alicia gets a vague tip from a courthouse clerk in the appeal case of a death row inmate, the law firm races to secure a stay of execution. Meanwhile, Peter Florrick prepares for his first debate with Glenn Childs and Wendy Scott-Carr.</Overview>
+  <Overview>When Alicia gets a vague tip from a courthouse clerk in the appeal case of a death row inmate, the law firm races to secure a stay of execution. Peter Florrick prepares for his first debate with Glenn Childs and Wendy Scott-Carr.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>50</RatingCount>
+  <RatingCount>52</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Meredith Averill</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/3209971.jpg</filename>
-  <lastupdated>1388981700</lastupdated>
+  <lastupdated>1421485782</lastupdated>
   <seasonid>307861</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -1072,18 +1072,18 @@
   <EpisodeName>Breaking Up</EpisodeName>
   <EpisodeNumber>10</EpisodeNumber>
   <FirstAired>2011-01-11</FirstAired>
-  <GuestStars>Makenzie Vega|Graham Phillips|Alan Cumming|Mary Beth Piel|Scott Porter|Michael Boatman|Dallas Roberts|Elizabeth Reaser|Frederick Weller|Leelee Sobieski|Oliver Smith|Vincent Laresca</GuestStars>
+  <GuestStars>|Makenzie Vega|Graham Phillips|Alan Cumming|Mary Beth Piel|Scott Porter|Michael Boatman|Dallas Roberts|Elizabeth Reaser|Frederick Weller|Leelee Sobieski|Oliver Smith|Vincent Laresca|</GuestStars>
   <IMDB_ID>tt1632288</IMDB_ID>
   <Language>en</Language>
-  <Overview>Alicia's law firm tries to turn a client's son against his girlfriend when both are accused of murder; Alicia faces a tough decision.</Overview>
+  <Overview>Alicia's law firm tries to turn a client's son against his girlfriend when both are accused of murder. Alicia faces a tough decision.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>57</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>59</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>Robert King|Michelle King</Writer>
+  <Writer>|Robert King|Michelle King|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/3324871.jpg</filename>
-  <lastupdated>1388981722</lastupdated>
+  <lastupdated>1431268611</lastupdated>
   <seasonid>307861</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -1106,15 +1106,15 @@
   <GuestStars>|Chris Noth|Mary Beth Peil|Michael Ealy|Scott Porter|Christian Pedersen|Norbert Leo Butz|Matt Letscher|David Oyelowo|Renee Elise Goldsberry|Tom Riis Farrell|Chad Kimball|Felix Solis|</GuestStars>
   <IMDB_ID>tt1632289</IMDB_ID>
   <Language>en</Language>
-  <Overview>When Will fears his client is not getting a fair trial because the judge is biased toward him, the law firm hires a jury consultant, who claims to predict a case's outcome by reading people's expressions. Meanwhile, Will uncovers information about Bond's intent for the firm.</Overview>
+  <Overview>When Will fears his client is not getting a fair trial because the judge is biased toward him, the law firm hires a jury consultant, who claims to predict a case's outcome by reading people's expressions. Will uncovers information about Bond's intent for the firm.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>56</RatingCount>
+  <RatingCount>58</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Ted Humphrey</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/3433911.jpg</filename>
-  <lastupdated>1388981757</lastupdated>
+  <lastupdated>1421485812</lastupdated>
   <seasonid>307861</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -1137,15 +1137,15 @@
   <GuestStars></GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview>When Alicia's client confesses under duress to murdering a fellow prison inmate, Cary's team seeks to challenge by uncovering an unlikely connection between the two inmates. Meanwhile, Wendy Scott-Carr threatens to expose a Florrick family issue in hopes of forcing Peter to drop out of the race.</Overview>
+  <Overview>When Alicia's client confesses under duress to murdering a fellow prison inmate, Cary's team seeks to challenge by uncovering an unlikely connection between the two inmates. Wendy threatens to expose a Florrick family issue in hopes of forcing Peter to drop out of the race.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>53</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>55</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Corinne Brinkerhoff</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/3538451.jpg</filename>
-  <lastupdated>1388981776</lastupdated>
+  <lastupdated>1421485843</lastupdated>
   <seasonid>307861</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -1165,18 +1165,18 @@
   <EpisodeName>Real Deal</EpisodeName>
   <EpisodeNumber>13</EpisodeNumber>
   <FirstAired>2011-02-08</FirstAired>
-  <GuestStars>Michael J. Fox|Denis O'Hare</GuestStars>
+  <GuestStars>|Michael J. Fox|Denis O'Hare|</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview>While Alicia races against Louis Canning to round up the most clients for an Erin Brockovich-style class action lawsuit, a mole is detected in LGB law firm, who seems to be working for Canning.</Overview>
+  <Overview>While Alicia races against Louis Canning to round up the most clients for an Erin Brockovich-style class action lawsuit, a mole is detected in LGB law firm, who seems to be working for Louis.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>53</RatingCount>
+  <RatingCount>55</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>Keith Eisner|Michelle King|Robert King</Writer>
+  <Writer>|Keith Eisner|Michelle King|Robert King|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/3538481.jpg</filename>
-  <lastupdated>1401078571</lastupdated>
+  <lastupdated>1431268343</lastupdated>
   <seasonid>307861</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -1199,16 +1199,16 @@
   <GuestStars></GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview>Will and Diane take on a defamation case from a young Internet billionaire, who is suing the film studio for depicting him in a negative light. Meanwhile, Alicia confronts Will about the message he left on her voice mail.
+  <Overview>Will and Diane take on a defamation case from a young Internet billionaire, who is suing the film studio for depicting him in a negative light. Alicia confronts Will about the message he left on her voice mail.
 </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>56</RatingCount>
+  <RatingCount>58</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>Meredith Averill|Robert King|Michelle King</Writer>
+  <Writer>|Meredith Averill|Robert King|Michelle King|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/3545861.jpg</filename>
-  <lastupdated>1388981818</lastupdated>
+  <lastupdated>1431268657</lastupdated>
   <seasonid>307861</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -1228,18 +1228,18 @@
   <EpisodeName>Silver Bullet</EpisodeName>
   <EpisodeNumber>15</EpisodeNumber>
   <FirstAired>2011-02-22</FirstAired>
-  <GuestStars>Michael Ealy|Gary Cole|Sarah Steele|Jeremy Strong|Anika Noni Rose|America Ferrera|Jerry Stiller|Dennis Boutsikaris|Graham Rowat|Andrew Pang|Leslie Kalarchian|Aaron Tveit</GuestStars>
+  <GuestStars>|Michael Ealy|Gary Cole|Sarah Steele|Jeremy Strong|Anika Noni Rose|America Ferrera|Jerry Stiller|Dennis Boutsikaris|Graham Rowat|Andrew Pang|Leslie Kalarchian|Aaron Tveit|</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview>Diane represents ballistics expert Kurt McVeigh in a lawsuit; Eli takes an interest in Wendy Scott-Carr's illegal nanny.</Overview>
+  <Overview>Diane represents ballistics expert Kurt McVeigh in a lawsuit. Eli takes an interest in Wendy's illegal nanny.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>57</RatingCount>
+  <RatingCount>59</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>Steve Lichtman|Robert King|Michelle King</Writer>
+  <Writer>|Steve Lichtman|Robert King|Michelle King|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/3545871.jpg</filename>
-  <lastupdated>1388981847</lastupdated>
+  <lastupdated>1431268681</lastupdated>
   <seasonid>307861</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -1259,18 +1259,18 @@
   <EpisodeName>Great Firewall</EpisodeName>
   <EpisodeNumber>16</EpisodeNumber>
   <FirstAired>2011-03-01</FirstAired>
-  <GuestStars>Chris Noth|Mary Beth Peil|Titus Welliver|Michael Ealy|Zach Grenier|Michael Boatman|Anika Noni Rose|Jeremy Strong|Rita Wilson|Dreama Walker|Ryan McGinnis|Jack Carpenter</GuestStars>
+  <GuestStars>|Chris Noth|Mary Beth Peil|Titus Welliver|Michael Ealy|Zach Grenier|Michael Boatman|Anika Noni Rose|Jeremy Strong|Rita Wilson|Dreama Walker|Ryan McGinnis|Jack Carpenter|</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview>The law firm of Lockhart, Gardner and Bond sues a social networking site on behalf of a Chinese dissident, who posted an anonymous blog about democracy in China, and was jailed and tortured by the Chinese government when the site failed to protect his anonymity and turned over his IP address. Meanwhile, Eli gets a tip that he hopes will drive Childs out of the race, and Will and Diane hope to wrestle the firm away from Derrick Bond once and for all.</Overview>
+  <Overview>The law firm of Lockhart, Gardner and Bond sues a social networking site on behalf of a Chinese dissident. Eli gets a tip that he hopes will drive Childs out of the race. Will and Diane hope to wrestle the firm away from Derrick Bond once and for all.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>54</RatingCount>
+  <RatingCount>56</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>Robert King|Michelle King|Leonard Dick</Writer>
+  <Writer>|Robert King|Michelle King|Leonard Dick|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/3561221.jpg</filename>
-  <lastupdated>1388981863</lastupdated>
+  <lastupdated>1431268421</lastupdated>
   <seasonid>307861</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -1293,16 +1293,15 @@
   <GuestStars></GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview>Lockhart Gardner law firm represents client and drug kingpin Lemond Bishop in divorce proceedings, even though Bishop wants reconciliation. Meanwhile, Kalinda is subpoenaed for a grand jury investigation.
-</Overview>
+  <Overview>Lockhart, Gardner and Bond represents a drug kingpin in divorce proceedings, even though the client wants reconciliation. Kalinda is subpoenaed for a grand jury investigation.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>57</RatingCount>
+  <RatingCount>59</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Keith Eisner</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/3832331.jpg</filename>
-  <lastupdated>1388981892</lastupdated>
+  <lastupdated>1421486287</lastupdated>
   <seasonid>307861</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -1325,15 +1324,15 @@
   <GuestStars></GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview>On behalf of the victim's daughter, the law firm sues a convicted murderer who is profiting from a song he wrote describing his crime. Meanwhile, Eli anonymously uses the firm to help Natalie Flores and her family with their legal troubles.</Overview>
+  <Overview>On behalf of the victim's daughter, the firm sues a convicted murderer who is profiting from a song he wrote describing his crime. Eli anonymously uses the firm to help Natalie Flores and her family with their legal troubles.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>56</RatingCount>
+  <RatingCount>58</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Karen Hall</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/3954631.jpg</filename>
-  <lastupdated>1388981915</lastupdated>
+  <lastupdated>1421486317</lastupdated>
   <seasonid>307861</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -1356,16 +1355,16 @@
   <GuestStars></GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview>To Lockhart/Gardner's disbelief, Louis Canning returns to face off against Alicia once again when the firm represents families of workers who committed suicide due to miserable working conditions. Meanwhile, Cary finds out shocking information about Kalinda.
+  <Overview>Louis returns to face off against Alicia once again when the firm represents families of workers who committed suicide due to miserable working conditions. Cary finds out shocking information about Kalinda.
 </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>54</RatingCount>
+  <RatingCount>56</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Ted Humphrey</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/3990321.jpg</filename>
-  <lastupdated>1388981933</lastupdated>
+  <lastupdated>1421486349</lastupdated>
   <seasonid>307861</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -1388,16 +1387,16 @@
   <GuestStars></GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview>Lockhart/Gardner represents a small drilling contractor in a dispute against a major oil conglomerate which is going well until a South American dictator takes over the case. Meanwhile, the election results are in.
+  <Overview>The firm represents a small drilling contractor in a dispute against a major oil conglomerate which is going well until a South American dictator takes over the case. The election results are in.
 </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>59</RatingCount>
+  <RatingCount>61</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>Meredith Averill|Robert King|Michelle King</Writer>
+  <Writer>|Meredith Averill|Robert King|Michelle King|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/3990331.jpg</filename>
-  <lastupdated>1388981954</lastupdated>
+  <lastupdated>1431268407</lastupdated>
   <seasonid>307861</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -1420,16 +1419,16 @@
   <GuestStars></GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview>Lockhart/Gardner defends a patient in a liver transplant case against rival attorney Patti Nyholm; however, the case takes a turn when Patti is fired from her law firm and asks Lockhart/Gardner to represent her. Meanwhile, Alicia deals with emotional fallout from Peter's one-night stand with Kalinda.
+  <Overview>Lockhart/Gardner defends a patient in a liver transplant case against rival attorney Patti Nyholm. However, the case takes a turn when Patti is fired and asks Lockhart/Gardner to represent her. Alicia deals with emotional fallout from Peter's one-night stand with Kalinda.
 </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>57</RatingCount>
+  <RatingCount>59</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>Steve Lichtman|Michelle King|Robert King</Writer>
+  <Writer>|Steve Lichtman|Michelle King|Robert King|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/4078023.jpg</filename>
-  <lastupdated>1388981980</lastupdated>
+  <lastupdated>1431268618</lastupdated>
   <seasonid>307861</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -1452,15 +1451,15 @@
   <GuestStars>שרה סילברמן</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview>Lockhart/Gardner defends Stephanie Engler, the owner of an adultery Web site, after one of her users is murdered; however, the civil case turns criminal when the murder is pinned on Stephanie. Alicia goes ballistic on Kalinda about her one-night stand with Peter, causing Kalinda to contemplate leaving the firm, on.</Overview>
+  <Overview>Lockhart/Gardner defends Stephanie Engler, the owner of an adultery Web site, after one of her users is murdered, but the civil case turns criminal when the murder is pinned on Stephanie. Alicia goes ballistic on Kalinda about her one-night stand with Peter, causing Kalinda to contemplate leaving the firm.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>60</RatingCount>
+  <RatingCount>61</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Leonard Dick</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/4084087.jpg</filename>
-  <lastupdated>1388982013</lastupdated>
+  <lastupdated>1421486502</lastupdated>
   <seasonid>307861</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -1483,15 +1482,15 @@
   <GuestStars>Kelli Giddish</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview>Despite their tense relationship, Alicia and Kalinda rush to prove their client's innocence in a murder trial, while the timing might finally be right for Alicia and Will to pursue their relationship.</Overview>
+  <Overview>Despite their tense relationship, Alicia and Kalinda rush to prove their client's innocence in a murder trial. The timing may finally be right for Alicia and Will to pursue their relationship.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>8.2</Rating>
-  <RatingCount>52</RatingCount>
+  <Rating>8.1</Rating>
+  <RatingCount>54</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>Corinne Brinkerhoff|Robert King|Michelle King</Writer>
+  <Writer>|Corinne Brinkerhoff|Robert King|Michelle King|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/4084088.jpg</filename>
-  <lastupdated>1388982037</lastupdated>
+  <lastupdated>1431268708</lastupdated>
   <seasonid>307861</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -1514,15 +1513,15 @@
   <GuestStars></GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview>While the staff at Lockhart/Gardner adjust to new realities and relationships, Alicia must put aside distractions in her personal life to defend a Muslim student accused of murdering a Jewish classmate.</Overview>
+  <Overview>The staff at Lockhart &amp; Gardner adjust to new realities and relationships. Alicia must put aside distractions in her personal life to defend a Muslim student accused of murdering a Jewish classmate.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>49</RatingCount>
+  <RatingCount>50</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Meredith Averill|Robert King|Michelle King|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/4122162.jpg</filename>
-  <lastupdated>1389619155</lastupdated>
+  <lastupdated>1421486935</lastupdated>
   <seasonid>468655</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -1548,12 +1547,12 @@
   <Overview>Alicia discovers she must become an expert on English law when a libel case she wins involving a businessman from Britain becomes an international matter after it is retried and transferred to a court in England via satellite.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>44</RatingCount>
+  <RatingCount>46</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Leonard Dick|Robert King|Michelle King|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/4164251.jpg</filename>
-  <lastupdated>1389619133</lastupdated>
+  <lastupdated>1414354403</lastupdated>
   <seasonid>468655</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -1576,15 +1575,15 @@
   <GuestStars></GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview>Alicia and Will go toe-to-toe with his ex during a court-ordered mediation, while Eli and Diane clash over the best way to handle a dairy company’s PR disaster.</Overview>
+  <Overview>Alicia and Will go toe-to-toe with his ex during a court-ordered mediation. Eli and Diane clash over the best way to handle a dairy company’s PR disaster.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>44</RatingCount>
+  <RatingCount>45</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Julia Wolfe|Robert King|Michelle King|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/4180695.jpg</filename>
-  <lastupdated>1389619117</lastupdated>
+  <lastupdated>1421486957</lastupdated>
   <seasonid>468655</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -1607,15 +1606,15 @@
   <GuestStars>|Wayne Duvall|Joyce Van Patten|Harvey Fierstein|Michael Boatman|Lisa Edelstein|John Lutz|</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview>Alicia takes a pro bono case in which a witness quickly becomes the prime suspect. Meanwhile, Will and Diane plot the firm’s direction and their futures.</Overview>
+  <Overview>Alicia takes a pro bono case in which a witness quickly becomes the prime suspect. Will and Diane plot the firm’s direction and their futures.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>41</RatingCount>
+  <RatingCount>42</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Keith Eisner</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/4180696.jpg</filename>
-  <lastupdated>1389619104</lastupdated>
+  <lastupdated>1421486969</lastupdated>
   <seasonid>468655</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -1638,15 +1637,15 @@
   <GuestStars>|Lisa Edelstein|Aaron Staton|Dylan Baker|Nicole Beharie|</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview>When Alicia's key witness commits suicide, she must turn to the only person whose testimony can salvage her case: Colin Sweeney. Meanwhile, Eli makes big moves on Peter's behalf.</Overview>
+  <Overview>When Alicia's key witness commits suicide, she must turn to the only person whose testimony can salvage her case. Eli makes big moves on Peter's behalf.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>46</RatingCount>
+  <RatingCount>47</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Ted Humphrey</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/4187954.jpg</filename>
-  <lastupdated>1389619080</lastupdated>
+  <lastupdated>1426459634</lastupdated>
   <seasonid>468655</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -1669,15 +1668,15 @@
   <GuestStars></GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview>While Alicia wades through diplomatic loopholes to defend a Taiwanese national, Eli is approached by his ex-wife to vet her for a possible political campaign.</Overview>
+  <Overview>Alicia wades through diplomatic loopholes to defend a Taiwanese national. Eli is approached by his ex-wife to vet her for a possible political campaign.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>47</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>48</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Corinne Brinkerhoff</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/4192779.jpg</filename>
-  <lastupdated>1389619064</lastupdated>
+  <lastupdated>1421487016</lastupdated>
   <seasonid>468655</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -1697,18 +1696,18 @@
   <EpisodeName>Executive Order 13224</EpisodeName>
   <EpisodeNumber>7</EpisodeNumber>
   <FirstAired>2011-11-06</FirstAired>
-  <GuestStars>|Carrie Preston|</GuestStars>
+  <GuestStars>Carrie Preston</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview>Alicia worries that she will break confidentiality when the Treasury Department forces her to report on her latest client, while Peter reluctantly digs into Will's past transgressions.</Overview>
+  <Overview>Alicia worries that she will break confidentiality when the Treasury Department forces her to report on her latest client. Peter reluctantly digs into Will's past transgressions.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>50</RatingCount>
+  <RatingCount>51</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Leonard Dick</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/4192780.jpg</filename>
-  <lastupdated>1389619045</lastupdated>
+  <lastupdated>1431268541</lastupdated>
   <seasonid>468655</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -1731,15 +1730,15 @@
   <GuestStars>|Leslie Uggams|Christian Coulson|Bernie McInerney|Michael Irby|</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview>In order to keep a client from being convicted of murder, Alicia must obtain a stay of execution for a guilty man; Eli tries to stay ahead of a client's possible scandal.</Overview>
+  <Overview>In order to keep a client from being convicted of murder, Alicia must obtain a stay of execution for a guilty man. Eli tries to stay ahead of a client's possible scandal.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>46</RatingCount>
+  <RatingCount>47</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Matthew Montoya|Robert King|Michelle King|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/4194258.jpg</filename>
-  <lastupdated>1389619027</lastupdated>
+  <lastupdated>1421487055</lastupdated>
   <seasonid>468655</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -1765,12 +1764,12 @@
   <Overview>Tensions are high at Lockhart &amp; Gardner as Alicia and Will argue in front of a mercurial military judge, Eli’s confidence is shaken and Diane issues an ultimatum to protect the firm.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>51</RatingCount>
+  <RatingCount>52</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Robert King|Michelle King|Meredith Averill|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/4198450.jpg</filename>
-  <lastupdated>1389619012</lastupdated>
+  <lastupdated>1421487076</lastupdated>
   <seasonid>468655</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -1793,15 +1792,15 @@
   <GuestStars>|Paulina Gerzon|John Michael Higgins|Jennifer Carpenter|Anna Camp|</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview>A routine arbitration turns into a battle of wills between Alicia and Louis Canning, but the pair makes an unexpected connection when a personal crisis interrupts the proceedings.</Overview>
+  <Overview>A routine arbitration turns into a battle of wills between Alicia and Louis, but the pair makes an unexpected connection when a personal crisis interrupts the proceedings.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>45</RatingCount>
+  <RatingCount>46</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Courtney Kemp Agboh|Robert King|Michelle King|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/4198451.jpg</filename>
-  <lastupdated>1389618992</lastupdated>
+  <lastupdated>1421487094</lastupdated>
   <seasonid>468655</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -1827,12 +1826,12 @@
   <Overview>As Alicia looks for a way to have a judgment thrown out following a shocking guilty verdict, she also begins to feel the consequences of decisions in her personal life.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>45</RatingCount>
+  <RatingCount>46</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Keith Eisner|Robert King|Michelle King|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/4198452.jpg</filename>
-  <lastupdated>1389618973</lastupdated>
+  <lastupdated>1414361473</lastupdated>
   <seasonid>468655</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -1855,15 +1854,15 @@
   <GuestStars>|F. Murray Abraham|Bryan Brown|Edward Herrmann|</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview>Lockhart-Gardner faces trouble when a recently divorced couple claims they influenced their separation for their own personal gain.</Overview>
+  <Overview>Lockhart &amp; Gardner faces trouble when a recently divorced couple claims they influenced their separation for their own personal gain.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>48</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>49</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Corinne Brinkerhoff</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/4216258.jpg</filename>
-  <lastupdated>1389618957</lastupdated>
+  <lastupdated>1421487130</lastupdated>
   <seasonid>468655</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -1888,13 +1887,13 @@
   <Language>en</Language>
   <Overview>Alicia defends a client charged with protecting the identity of the creator of an illegal currency.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>41</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>42</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Courtney Kemp Agboh|Robert King|Michelle King|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/4231537.jpg</filename>
-  <lastupdated>1389618941</lastupdated>
+  <lastupdated>1414360565</lastupdated>
   <seasonid>468655</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -1917,15 +1916,15 @@
   <GuestStars></GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview>With her investigation complete, Special Prosecutor Wendy Scott-Carr presents her evidence against Will to the grand jury in hopes of sending him to prison for bribery. Meanwhile, Eli and Stacie Hall square off once again.</Overview>
+  <Overview>With her investigation complete, Wendy presents her evidence against Will to the grand jury in hopes of sending him to prison for bribery. Eli and Stacie Hall square off once again.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>8.1</Rating>
-  <RatingCount>41</RatingCount>
+  <Rating>8.0</Rating>
+  <RatingCount>42</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Leonard Dick</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/4241207.jpg</filename>
-  <lastupdated>1389618922</lastupdated>
+  <lastupdated>1421487181</lastupdated>
   <seasonid>468655</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -1942,21 +1941,21 @@
   <DVD_season></DVD_season>
   <Director>Brooke Kennedy</Director>
   <EpImgFlag>2</EpImgFlag>
-  <EpisodeName>Live From Damascus</EpisodeName>
+  <EpisodeName>Live from Damascus</EpisodeName>
   <EpisodeNumber>15</EpisodeNumber>
   <FirstAired>2012-02-19</FirstAired>
   <GuestStars></GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview>Lockhart &amp; Gardner leads a class action suit against a software company that allowed the Syrian government to “disappear” American citizens. Also, Will faces a hard decision in the wake of the Grand Jury proceedings.</Overview>
+  <Overview>Lockhart &amp; Gardner leads a class action suit against a software company that allowed the Syrian government to 'disappear' American citizens. Will faces a hard decision in the wake of the Grand Jury proceedings.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>36</RatingCount>
+  <RatingCount>37</RatingCount>
   <SeasonNumber>3</SeasonNumber>
-  <Writer>Ted Humphrey|Leonard Dick</Writer>
+  <Writer>|Ted Humphrey|Leonard Dick|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/4253044.jpg</filename>
-  <lastupdated>1389618897</lastupdated>
+  <lastupdated>1431268473</lastupdated>
   <seasonid>468655</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -1973,21 +1972,21 @@
   <DVD_season></DVD_season>
   <Director>James Whitmore Jr.</Director>
   <EpImgFlag>2</EpImgFlag>
-  <EpisodeName>After The Fall</EpisodeName>
+  <EpisodeName>After the Fall</EpisodeName>
   <EpisodeNumber>16</EpisodeNumber>
   <FirstAired>2012-03-04</FirstAired>
   <GuestStars></GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview>While power grabs are being made at the firm, Alicia and Caitlin square off against old foe Nancy Crozier. Meanwhile, Peter discovers the price of taking the moral high road.</Overview>
+  <Overview>While power grabs are being made at the firm, Alicia and Caitlin square off against an old foe. Peter discovers the price of taking the moral high ground.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>44</RatingCount>
+  <RatingCount>45</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Meredith Averill</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/4262713.jpg</filename>
-  <lastupdated>1389618107</lastupdated>
+  <lastupdated>1421486642</lastupdated>
   <seasonid>468655</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -2007,18 +2006,18 @@
   <EpisodeName>Long Way Home</EpisodeName>
   <EpisodeNumber>17</EpisodeNumber>
   <FirstAired>2012-03-11</FirstAired>
-  <GuestStars>Bebe Neuwirth|Morena Baccarin</GuestStars>
+  <GuestStars>|Bebe Neuwirth|Morena Baccarin|</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview>Alicia must once again aid Colin Sweeney when a sexual misconduct claim derails his attempt to win back control of his company. Also, Cary is faced with a moral dilemma when Peter tasks him with enforcing office policies.</Overview>
+  <Overview>Alicia must once again aid Colin when a sexual misconduct claim derails his attempt to win back control of his company. Cary is faced with a moral dilemma when Peter tasks him with enforcing office policies.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>41</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>42</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Keith Eisner</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/4262714.jpg</filename>
-  <lastupdated>1389618090</lastupdated>
+  <lastupdated>1431268429</lastupdated>
   <seasonid>468655</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -2041,15 +2040,15 @@
   <GuestStars>|Deborah Rush|Bryan Brown|</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview>Alicia once again faces Louis Canning in court, but recent financial concerns lead her to reconsider his standing job offer. Meanwhile, Diane reconnects with the enigmatic Jack Copeland.</Overview>
+  <Overview>Alicia once again faces Louis in court, but recent financial concerns lead her to reconsider his standing job offer. Diane reconnects with the enigmatic Jack Copeland.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>41</RatingCount>
+  <RatingCount>42</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Leonard Dick</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/4273164.jpg</filename>
-  <lastupdated>1389618061</lastupdated>
+  <lastupdated>1421487273</lastupdated>
   <seasonid>468655</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -2072,15 +2071,15 @@
   <GuestStars>|Matthew Perry|Charles S. Dutton|Cotter Smith|Michael Boatman|</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview>Alicia is assigned to be on a blue-ribbon panel that is investigating a police shooting. But she soon begins to question the actions of the panel chairman.</Overview>
+  <Overview>Alicia is assigned to be on a blue-ribbon panel that is investigating a police shooting, but she soon begins to question the actions of the panel chairman.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.9</Rating>
-  <RatingCount>38</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>39</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Robert King|Michelle King|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/4281470.jpg</filename>
-  <lastupdated>1389617943</lastupdated>
+  <lastupdated>1421487661</lastupdated>
   <seasonid>468655</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -2105,13 +2104,13 @@
   <Language>en</Language>
   <Overview>As Alicia counsels a client whether to accept a strict plea deal, she's distracted by Peter's newest political rival, whose actions force her back into the public spotlight.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>46</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>47</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Ted Humphrey</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/4286982.jpg</filename>
-  <lastupdated>1394749233</lastupdated>
+  <lastupdated>1423435870</lastupdated>
   <seasonid>468655</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -2134,15 +2133,15 @@
   <GuestStars>|David Paymer|Stephen Root|Jerry Adler|</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview>Alicia defends a judge against misconduct charges stemming from his days as a prosecutor. Meanwhile, Cary makes a career decision and Kalinda deals with the repercussions of Agent Delaney's investigation.</Overview>
+  <Overview>Alicia defends a judge against misconduct charges stemming from his days as a prosecutor. Cary makes a career decision and Kalinda deals with the repercussions of Agent Delaney's investigation.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>44</RatingCount>
+  <RatingCount>45</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Julia Wolfe</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/4293737.jpg</filename>
-  <lastupdated>1394749269</lastupdated>
+  <lastupdated>1433438113</lastupdated>
   <seasonid>468655</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -2165,15 +2164,15 @@
   <GuestStars>|Martha Plimpton|Michael J. Fox|Mark Linn-Baker|Jerry Adler|Tim Guinee|</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview>Will and Diane scramble when Louis Canning and Patti Nyholm team up to bankrupt the firm. Also, Alicia faces conflicted feelings regarding her relationship with Peter, and Kalinda's past catches up to her.</Overview>
+  <Overview>Will and Diane scramble when Louis and Patti team up to bankrupt the firm. Alicia faces conflicted feelings regarding her relationship with Peter. Kalinda's past catches up to her.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>44</RatingCount>
+  <RatingCount>45</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Corinne Brinkerhoff|Meredith Averill|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/4293738.jpg</filename>
-  <lastupdated>1389617878</lastupdated>
+  <lastupdated>1423436023</lastupdated>
   <seasonid>468655</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -2188,7 +2187,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director>|Michael Zinberg|</Director>
+  <Director>Michael Zinberg</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>I Fought the Law</EpisodeName>
   <EpisodeNumber>1</EpisodeNumber>
@@ -2199,12 +2198,12 @@
   <Overview>A state trooper targets Zach, putting Alicia on the offensive; Kalinda decides to face her problems; Diane and Will explore the firm's financial issues.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>29</RatingCount>
+  <RatingCount>30</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Michelle King|Robert King|</Writer>
   <absolute_number>69</absolute_number>
   <filename>episodes/95451/4359092.jpg</filename>
-  <lastupdated>1389617832</lastupdated>
+  <lastupdated>1431268502</lastupdated>
   <seasonid>496340</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -2230,12 +2229,12 @@
   <Overview>As the firm undergoes budget and staff cuts, Will hopes his first post-suspension case will result in a big payday; Alicia unexpectedly helps Peter's campaign.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>30</RatingCount>
+  <RatingCount>31</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Ted Humphrey</Writer>
   <absolute_number>70</absolute_number>
   <filename>episodes/95451/4360128.jpg</filename>
-  <lastupdated>1394816408</lastupdated>
+  <lastupdated>1414361728</lastupdated>
   <seasonid>496340</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -2255,18 +2254,18 @@
   <EpisodeName>Two Girls, One Code</EpisodeName>
   <EpisodeNumber>3</EpisodeNumber>
   <FirstAired>2012-10-14</FirstAired>
-  <GuestStars>Miriam Shor|Dominic Chianese|Rita Wilson|John Benjamin Hickey|</GuestStars>
+  <GuestStars>|Miriam Shor|Dominic Chianese|Rita Wilson|John Benjamin Hickey|</GuestStars>
   <IMDB_ID>tt2371912</IMDB_ID>
   <Language>en</Language>
   <Overview>Will and Alicia represent an Internet startup in a lawsuit against a search engine that may be manipulating results; Eli tries to avoid a possible scandal for Peter's campaign.</Overview>
   <ProductionCode>403</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>31</RatingCount>
+  <RatingCount>32</RatingCount>
   <SeasonNumber>4</SeasonNumber>
-  <Writer>Robert King|Michelle King</Writer>
+  <Writer>|Robert King|Michelle King|</Writer>
   <absolute_number>71</absolute_number>
   <filename>episodes/95451/4360130.jpg</filename>
-  <lastupdated>1394816420</lastupdated>
+  <lastupdated>1431268647</lastupdated>
   <seasonid>496340</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -2292,12 +2291,12 @@
   <Overview>An opposing lawyer keeps Alicia and Diane on their toes by constantly changing tactics; Eli is successful in protecting Peter's image.</Overview>
   <ProductionCode>404</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>30</RatingCount>
+  <RatingCount>31</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Keith Eisner</Writer>
   <absolute_number>72</absolute_number>
   <filename>episodes/95451/4409387.jpg</filename>
-  <lastupdated>1394816449</lastupdated>
+  <lastupdated>1415931104</lastupdated>
   <seasonid>496340</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -2323,12 +2322,12 @@
   <Overview>When Lemond Bishop's accountant is arrested, Diane and Alicia must determine if the feds are going after his drug money or legal business; Nick causes more trouble for Kalinda.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>33</RatingCount>
+  <RatingCount>34</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Leonard Dick</Writer>
   <absolute_number>73</absolute_number>
   <filename>episodes/95451/4409388.jpg</filename>
-  <lastupdated>1394816468</lastupdated>
+  <lastupdated>1415767025</lastupdated>
   <seasonid>496340</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -2348,18 +2347,18 @@
   <EpisodeName>The Art of War</EpisodeName>
   <EpisodeNumber>6</EpisodeNumber>
   <FirstAired>2012-11-04</FirstAired>
-  <GuestStars>Amanda Peet|Denis O'Hare|Maura Tierney|</GuestStars>
+  <GuestStars>|Amanda Peet|Denis O'Hare|Maura Tierney|</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>Alicia defends a female military officer who says a civilian contractor tried to rape her in Afghanistan; an unexpected obstacle pops up in Peter's quest for the governorship.</Overview>
   <ProductionCode>406</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>35</RatingCount>
+  <RatingCount>36</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Robert King|Michelle King|Ted Humphrey|</Writer>
   <absolute_number>74</absolute_number>
   <filename>episodes/95451/4413667.jpg</filename>
-  <lastupdated>1394816488</lastupdated>
+  <lastupdated>1431268518</lastupdated>
   <seasonid>496340</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -2382,15 +2381,15 @@
   <GuestStars>|Nathan Lane|John Shea|Christina Ricci|Skipp Sudduth|Bill Maher|F. Murray Abraham|John Lutz|Renée Goldsberry|</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview>During a trip to Washington, D.C., Cary has an uncomfortable reunion with his father (John Shea); a former client asks Alicia for help; Will and Diane question Clarke's most recent strategy.</Overview>
+  <Overview>During a trip to Washington, DC, Cary has an uncomfortable reunion with his father. A former client asks Alicia for help. Will and Diane question Clarke's most recent strategy.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>30</RatingCount>
+  <RatingCount>31</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Craig Turk|Robert King|Michelle King|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/4413668.jpg</filename>
-  <lastupdated>1394816505</lastupdated>
+  <lastupdated>1421626406</lastupdated>
   <seasonid>496340</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -2413,7 +2412,7 @@
   <GuestStars>|Kurt Fuller|Judd Hirsch|Amanda Peet|</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview>Will thinks a judge is biased against his client; Grace is affected by a classmate's death and falls for a questionable guy; Zach tries to help Peter's campaign; Kalinda is suspicious of Nick.</Overview>
+  <Overview>Will thinks a judge is biased against his client. Grace is affected by a classmate's death and falls for a questionable guy. Zach tries to help Peter's campaign. Kalinda is suspicious of Nick.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
   <RatingCount>29</RatingCount>
@@ -2421,7 +2420,7 @@
   <Writer>Meredith Averill</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/4427242.jpg</filename>
-  <lastupdated>1394816528</lastupdated>
+  <lastupdated>1421626427</lastupdated>
   <seasonid>496340</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -2444,15 +2443,15 @@
   <GuestStars>|Stockard Channing|Bebe Neuwirth|Dallas Roberts|Bruce McGill|Zach Grenier|Brian Dennehy|</GuestStars>
   <IMDB_ID>tt2446304</IMDB_ID>
   <Language>en</Language>
-  <Overview>A famous, liberal lawyer hijacks Diane and Alicia's latest case; when Alicia's mother (Stockard Channing) visits for Thanksgiving, she seeks legal support.</Overview>
+  <Overview>A famous, liberal lawyer hijacks Diane and Alicia's latest case. When Alicia's mother visits for Thanksgiving, she seeks legal support.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>33</RatingCount>
+  <RatingCount>34</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Matthew Montoya</Writer>
   <absolute_number>77</absolute_number>
   <filename>episodes/95451/4427243.jpg</filename>
-  <lastupdated>1390664245</lastupdated>
+  <lastupdated>1421626455</lastupdated>
   <seasonid>496340</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -2475,15 +2474,15 @@
   <GuestStars>|Amanda Peet|Hamish Linklater|Marc Warren|Chris Butler|Stephen Root|</GuestStars>
   <IMDB_ID>tt2483834</IMDB_ID>
   <Language>en</Language>
-  <Overview>While Will defends a man accused of murder, Alicia tries to help by assisting a prosecutor in another county who is trying a different man for the same crime; the Justice Department puts heat on Eli; Nick takes action that forces Kalinda's hand.</Overview>
+  <Overview>While Will defends a man accused of murder, Alicia tries to help by assisting a prosecutor in another county who is trying a different man for the same crime. The Justice Department puts heat on Eli. Nick takes action that forces Kalinda's hand.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>32</RatingCount>
+  <RatingCount>33</RatingCount>
   <SeasonNumber>4</SeasonNumber>
-  <Writer>|Ted Humphrey|</Writer>
+  <Writer>Ted Humphrey</Writer>
   <absolute_number>78</absolute_number>
   <filename>episodes/95451/4433309.jpg</filename>
-  <lastupdated>1390664267</lastupdated>
+  <lastupdated>1431268532</lastupdated>
   <seasonid>496340</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -2498,7 +2497,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director>|Félix Enríquez Alcalá|</Director>
+  <Director>Félix Enríquez Alcalá</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Boom De Yah Da</EpisodeName>
   <EpisodeNumber>11</EpisodeNumber>
@@ -2506,15 +2505,15 @@
   <GuestStars>|Michael J. Fox|Tamara Tunie|T.R. Knight|Mike Pniewski|Nathan Lane|James Rebhorn|Anika Noni Rose|</GuestStars>
   <IMDB_ID>tt2494586</IMDB_ID>
   <Language>en</Language>
-  <Overview>Louis Canning's attempts to delay a deposition could complicate Will's latest and potentially lucrative case; Diane and Will have a face-off with Clarke.</Overview>
+  <Overview>Louis Canning's attempts to delay a deposition could complicate Will's latest and potentially lucrative case. Diane and Will have a face-off with Clarke.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
   <RatingCount>35</RatingCount>
   <SeasonNumber>4</SeasonNumber>
-  <Writer>|Nichelle Tramble Spellman|</Writer>
+  <Writer>Nichelle Tramble Spellman</Writer>
   <absolute_number>79</absolute_number>
   <filename>episodes/95451/4437771.jpg</filename>
-  <lastupdated>1393881813</lastupdated>
+  <lastupdated>1431268465</lastupdated>
   <seasonid>496340</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -2529,7 +2528,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director>|Jacqueline Hoyt|</Director>
+  <Director>Jacqueline Hoyt</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Je Ne Sais What?</EpisodeName>
   <EpisodeNumber>12</EpisodeNumber>
@@ -2537,15 +2536,15 @@
   <GuestStars>|Carrie Preston|Renee Elise Goldsberry|Maura Tierney|T.R. Knight|</GuestStars>
   <IMDB_ID>tt2559910</IMDB_ID>
   <Language>en</Language>
-  <Overview>Will, Diane and Alicia help Elsbeth Tascioni (Carrie Preston) when she is arrested; Eli and Jordan give Peter conflicting pieces of advice.</Overview>
+  <Overview>Will, Diane and Alicia help Elsbeth Tascioni when she is arrested. Eli and Jordan give Peter conflicting pieces of advice.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.1</Rating>
   <RatingCount>35</RatingCount>
   <SeasonNumber>4</SeasonNumber>
-  <Writer>|Matt Shakman|</Writer>
+  <Writer>Matt Shakman</Writer>
   <absolute_number>80</absolute_number>
   <filename>episodes/95451/4443964.jpg</filename>
-  <lastupdated>1390664298</lastupdated>
+  <lastupdated>1431268415</lastupdated>
   <seasonid>496340</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -2560,7 +2559,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director>|Michael Zinberg|</Director>
+  <Director>Michael Zinberg</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>The Seven Day Rule</EpisodeName>
   <EpisodeNumber>13</EpisodeNumber>
@@ -2568,15 +2567,15 @@
   <GuestStars>|Michael J. Fox|Maura Tierney|Zach Grenier|Nathan Lane|T.R. Knight|John Benjamin Hickey|Kenneth Tigar|Margaret Colin|</GuestStars>
   <IMDB_ID>tt2608082</IMDB_ID>
   <Language>en</Language>
-  <Overview>Alicia is presented with a career-changing offer that includes a substantial financial risk; Diane and Will confront their creditors; Eli and Jordan don't agree on a possible attack on Maddie's campaign.</Overview>
+  <Overview>Alicia is presented with a career-changing offer that includes a substantial financial risk. Diane and Will confront their creditors. Eli and Jordan don't agree on a possible attack on Maddie's campaign.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
   <RatingCount>30</RatingCount>
   <SeasonNumber>4</SeasonNumber>
-  <Writer>|Keith Eisner|</Writer>
+  <Writer>Keith Eisner</Writer>
   <absolute_number>81</absolute_number>
   <filename>episodes/95451/4453923.jpg</filename>
-  <lastupdated>1401078289</lastupdated>
+  <lastupdated>1431268481</lastupdated>
   <seasonid>496340</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -2591,7 +2590,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director>|Jim McKay|</Director>
+  <Director>Jim McKay</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Red Team/Blue Team</EpisodeName>
   <EpisodeNumber>14</EpisodeNumber>
@@ -2599,7 +2598,7 @@
   <GuestStars>|Carrie Preston|T.R. Knight|Hamish Linklater|Kyle MachLachlan|Colm Feore|Raphael Sbarge|</GuestStars>
   <IMDB_ID>tt2608084</IMDB_ID>
   <Language>en</Language>
-  <Overview>Office politics come to a head when Will and Diane ask Alicia and Cary to face off against them in a mock trial, only to get more than they bargained for. Meanwhile, Eli tries to avoid losing his role in Peter’s campaign to Jordan, as he continues his fight with the Justice Department.</Overview>
+  <Overview>Office politics come to a head when Will and Diane ask Alicia and Cary to face off against them in a mock trial, only to get more than they bargained for. Eli tries to avoid losing his role in Peter’s campaign to Jordan, as he continues his fight with the Justice Department.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
   <RatingCount>30</RatingCount>
@@ -2607,7 +2606,7 @@
   <Writer>|Robert King|Michelle King|</Writer>
   <absolute_number>82</absolute_number>
   <filename>episodes/95451/4453924.jpg</filename>
-  <lastupdated>1392298464</lastupdated>
+  <lastupdated>1431268598</lastupdated>
   <seasonid>496340</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -2622,7 +2621,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director>|Rosemary Rodriguez|</Director>
+  <Director>Rosemary Rodriguez</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Going for the Gold</EpisodeName>
   <EpisodeNumber>15</EpisodeNumber>
@@ -2630,15 +2629,15 @@
   <GuestStars>|Carrie Preston|Kyle MacLachlan|Amanda Peet|Maura Tierney|T.R. Knight|Dominic Chianese|Lily Rabe|S. Epatha Merkerson|</GuestStars>
   <IMDB_ID>tt2663514</IMDB_ID>
   <Language>en</Language>
-  <Overview>When the Justice Department refuses to reveal who will be testifying against Eli, Elsbeth takes Assistant U.S. Attorney Josh Perrotti to civil court for defamation in order to force him to answer her questions under oath.  Meanwhile, Jordan helps Peter prepare for a debate and Alicia’s relationship with her co-workers evolves.</Overview>
+  <Overview>When the Justice Department refuses to reveal who will be testifying against Eli, Elsbeth takes the Assistant U.S. Attorney to civil court for defamation in order to force him to answer her questions under oath. Jordan helps Peter prepare for a debate. Alicia’s relationship with her co-workers evolves.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
   <RatingCount>31</RatingCount>
   <SeasonNumber>4</SeasonNumber>
-  <Writer>|Leonard Dick|</Writer>
+  <Writer>Leonard Dick</Writer>
   <absolute_number>83</absolute_number>
   <filename>episodes/95451/4453925.jpg</filename>
-  <lastupdated>1392298445</lastupdated>
+  <lastupdated>1431268387</lastupdated>
   <seasonid>496340</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -2653,7 +2652,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director>|Christopher Misiano|</Director>
+  <Director>Christopher Misiano</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Runnin' with the Devil</EpisodeName>
   <EpisodeNumber>16</EpisodeNumber>
@@ -2661,15 +2660,15 @@
   <GuestStars>|Bebe Neuwirth|Mike Colter|Audra McDonald|Wallace Shawn|Jess Weixler|Tracie Thoms|</GuestStars>
   <IMDB_ID>tt2648234</IMDB_ID>
   <Language>en</Language>
-  <Overview>Jailed drug dealer Lemond Bishop requests that Alicia work with lawyer Charles Lester, but as witnesses against Bishop begin recanting their testimony, she begins to suspect that Lester’s meek appearance isn’t all it seems.  Also, Kalinda is forced to train a new investigator and Cary makes a risky move.</Overview>
+  <Overview>A jailed drug dealer requests that Alicia work with lawyer Charles Lester, but as witnesses against him begin recanting their testimony, she begins to suspect that Lester’s meek appearance isn’t all it seems. Kalinda is forced to train a new investigator. Cary makes a risky move.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
   <RatingCount>26</RatingCount>
   <SeasonNumber>4</SeasonNumber>
-  <Writer>|Meredith Averill|</Writer>
+  <Writer>Meredith Averill</Writer>
   <absolute_number>84</absolute_number>
   <filename>episodes/95451/4488928.jpg</filename>
-  <lastupdated>1392298428</lastupdated>
+  <lastupdated>1431268722</lastupdated>
   <seasonid>496340</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -2684,7 +2683,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director>|Kevin Hooks|</Director>
+  <Director>Kevin Hooks</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Invitation to an Inquest</EpisodeName>
   <EpisodeNumber>17</EpisodeNumber>
@@ -2692,7 +2691,7 @@
   <GuestStars>|John Shea|Frederick Weller|Jess Weixler|T.R. Knight|Rene Auberjonois|Jessalyn Gilsig|</GuestStars>
   <IMDB_ID>tt2697926</IMDB_ID>
   <Language>en</Language>
-  <Overview>Alicia and Will’s latest case brings them to an inquest at the coroner’s office, where they are hindered by a strict rule that limits their questioning to three per witness.  Also, Cary’s father returns to bring new business to the firm and Eli schemes against Jordan.</Overview>
+  <Overview>Alicia and Will’s latest case brings them to an inquest at the coroner’s office, where they are hindered by a strict rule that limits their questioning to three per witness. Cary’s father returns to bring new business to the firm. Eli schemes against Jordan.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
   <RatingCount>26</RatingCount>
@@ -2700,7 +2699,7 @@
   <Writer>|Julia Wolfe|Matthew Montoya|</Writer>
   <absolute_number>85</absolute_number>
   <filename>episodes/95451/4502114.jpg</filename>
-  <lastupdated>1392298409</lastupdated>
+  <lastupdated>1431268379</lastupdated>
   <seasonid>496340</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -2715,7 +2714,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director>|Robert King|</Director>
+  <Director>Robert King</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Death of a Client</EpisodeName>
   <EpisodeNumber>18</EpisodeNumber>
@@ -2723,7 +2722,7 @@
   <GuestStars>|Stockard Channing|Matthew Perry|Amanda Peet|Will Chase|John Noble|</GuestStars>
   <IMDB_ID>tt2698008</IMDB_ID>
   <Language>en</Language>
-  <Overview> When an erratic and litigious client is murdered, Alicia is convinced to waive attorney/client privilege to help the police when she learns that the killer may also be targeting someone close to her.  Also, Peter and Mike Kresteva vie for an influential endorsement and Diane receives a stunning offer.</Overview>
+  <Overview>When an erratic and litigious client is murdered, Alicia is convinced to waive attorney/client privilege to help the police when she learns that the killer may also be targeting someone close to her. Peter and Mike Kresteva vie for an influential endorsement. Diane receives a stunning offer.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
   <RatingCount>26</RatingCount>
@@ -2731,7 +2730,7 @@
   <Writer>|Robert King|Michelle King|</Writer>
   <absolute_number>86</absolute_number>
   <filename>episodes/95451/4502115.jpg</filename>
-  <lastupdated>1392298391</lastupdated>
+  <lastupdated>1431268626</lastupdated>
   <seasonid>496340</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -2746,7 +2745,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director>|Frederick E.O. Toye|</Director>
+  <Director>Frederick E.O. Toye</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>The Wheels of Justice</EpisodeName>
   <EpisodeNumber>19</EpisodeNumber>
@@ -2754,15 +2753,15 @@
   <GuestStars>|Gary Cole|Amanda Peet|Dylan Baker|Jess Weixler|Morena Baccarin|Michael Esper|</GuestStars>
   <IMDB_ID>tt2734906</IMDB_ID>
   <Language>en</Language>
-  <Overview>Alicia and Will go to trial unprepared when they learn that an impending Supreme Court ruling could result in Colin Sweeney being jailed for life.  Also, Diane reunites with Kurt McVeigh but is forced to reevaluate the relationship.</Overview>
+  <Overview>Alicia and Will go to trial unprepared when they learn that an impending Supreme Court ruling could result in Colin Sweeney being jailed for life.  Diane reunites with Kurt but is forced to reevaluate the relationship.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
   <RatingCount>31</RatingCount>
   <SeasonNumber>4</SeasonNumber>
-  <Writer>|Jacqueline Hoyt|</Writer>
+  <Writer>Jacqueline Hoyt</Writer>
   <absolute_number>87</absolute_number>
   <filename>episodes/95451/4509882.jpg</filename>
-  <lastupdated>1393621775</lastupdated>
+  <lastupdated>1431268591</lastupdated>
   <seasonid>496340</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -2777,7 +2776,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director>|Brooke Kennedy|</Director>
+  <Director>Brooke Kennedy</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Rape: A Modern Perspective</EpisodeName>
   <EpisodeNumber>20</EpisodeNumber>
@@ -2785,15 +2784,15 @@
   <GuestStars>|David Fonteno|Jason Biggs|John Glover|Skipp Sudduth|Zach Grenier|Brian D’Arcy James|</GuestStars>
   <IMDB_ID>tt2797588</IMDB_ID>
   <Language>en</Language>
-  <Overview>A hacker group brings the trial of an accused rapist to the Internet; Diane is vetted for a Supreme Court seat; Robyn draws Kalinda's suspicion.</Overview>
+  <Overview>A hacker group brings the trial of an accused rapist to the Internet. Diane is vetted for a Supreme Court sea. Robyn draws Kalinda's suspicion.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
   <RatingCount>27</RatingCount>
   <SeasonNumber>4</SeasonNumber>
-  <Writer>|J.C. Nolan|</Writer>
+  <Writer>J.C. Nolan</Writer>
   <absolute_number>88</absolute_number>
   <filename>episodes/95451/4516554.jpg</filename>
-  <lastupdated>1393621751</lastupdated>
+  <lastupdated>1431268737</lastupdated>
   <seasonid>496340</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -2808,7 +2807,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director>|Michael Zinberg|</Director>
+  <Director>Michael Zinberg</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>A More Perfect Union</EpisodeName>
   <EpisodeNumber>21</EpisodeNumber>
@@ -2816,15 +2815,15 @@
   <GuestStars>|Charlie Rose|Dallas Roberts|John Michael Higgins|Mamie Gummer|Stockard Channing|</GuestStars>
   <IMDB_ID>tt2820968</IMDB_ID>
   <Language>en</Language>
-  <Overview>As a favor to her mother, Alicia represents software coders in a contract dispute; Peter asks Alicia to renew their wedding vows.</Overview>
+  <Overview>As a favor to her mother, Alicia represents software coders in a contract dispute. Peter asks Alicia to renew their wedding vows.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
   <RatingCount>27</RatingCount>
   <SeasonNumber>4</SeasonNumber>
-  <Writer>|Craig Turk|</Writer>
+  <Writer>Craig Turk</Writer>
   <absolute_number>89</absolute_number>
   <filename>episodes/95451/4516555.jpg</filename>
-  <lastupdated>1393621722</lastupdated>
+  <lastupdated>1431268583</lastupdated>
   <seasonid>496340</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -2839,7 +2838,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director>|Robert King|</Director>
+  <Director>Robert King</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>What's in the Box?</EpisodeName>
   <EpisodeNumber>22</EpisodeNumber>
@@ -2847,15 +2846,15 @@
   <GuestStars>|Martha Plimpton|T.R. Knight|Denis O’Hare|Dylan Baker|Ana Gasteyer|Estelle Parsons|Skipp Sudduth|</GuestStars>
   <IMDB_ID>tt2831606</IMDB_ID>
   <Language>en</Language>
-  <Overview>When Zach thinks he has witnessed vote tampering, Will, Alicia and Diane race to a series of emergency court proceedings on the night of the gubernatorial election; an unexpected source offers to help Cary start his own firm.</Overview>
+  <Overview>When Zach thinks he has witnessed vote tampering, Will, Alicia and Diane race to a series of emergency court proceedings on the night of the gubernatorial election. An unexpected source offers to help Cary start his own firm.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.1</Rating>
-  <RatingCount>24</RatingCount>
+  <RatingCount>25</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Robert King|Michelle King|</Writer>
   <absolute_number>90</absolute_number>
   <filename>episodes/95451/4516556.jpg</filename>
-  <lastupdated>1393881947</lastupdated>
+  <lastupdated>1431268494</lastupdated>
   <seasonid>496340</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -2870,23 +2869,23 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director>|Robert King|</Director>
+  <Director>Robert King</Director>
   <EpImgFlag>2</EpImgFlag>
-  <EpisodeName>Everything is Ending</EpisodeName>
+  <EpisodeName>Everything Is Ending</EpisodeName>
   <EpisodeNumber>1</EpisodeNumber>
   <FirstAired>2013-09-29</FirstAired>
   <GuestStars>|Chris Noth|Jess Weixler|Barry Scheck|Michael Pemberton|Renee Goldsberry|Melissa George|Malik Yoba|Morocco Omari|Amy Warren|Ben Rappaport|Jeffrey Tambor|Molly Price|Andy Striph|Angela Reed|Desmin Borges|Maddie Corman|Jon Shaver|</GuestStars>
   <IMDB_ID>tt2801442</IMDB_ID>
   <Language>en</Language>
-  <Overview>Alicia works to prevent the execution of a convicted murderer as she plans her exit from the firm with Cary; Eli helps Peter put together his staff.</Overview>
+  <Overview>Alicia works to prevent the execution of a convicted murderer as she plans her exit from the firm with Cary. Eli helps Peter put together his staff.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>8.0</Rating>
-  <RatingCount>17</RatingCount>
+  <Rating>7.9</Rating>
+  <RatingCount>21</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>|Robert King|Michelle King|</Writer>
   <absolute_number>91</absolute_number>
   <filename>episodes/95451/4594884.jpg</filename>
-  <lastupdated>1404228689</lastupdated>
+  <lastupdated>1431268526</lastupdated>
   <seasonid>522815</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added>2013-09-30 11:08:21</thumb_added>
@@ -2901,7 +2900,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director>|Michael Zinberg|</Director>
+  <Director>Michael Zinberg</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>The Bit Bucket</EpisodeName>
   <EpisodeNumber>2</EpisodeNumber>
@@ -2909,15 +2908,15 @@
   <GuestStars>|Chris Noth|Stockard Channing|John Benjamin Hickey|Jenna Gavigan|Jack Carpenter|Jeffrey DeMunn|Dreama Walker|Rachel Hilson|Miriam Shor|Ben Rappaport|Jeffrey Tambor|Tobias Segal|Zach Woods|Brennan Brown|John Leonard Thompson|Michael Kostroff|</GuestStars>
   <IMDB_ID>tt3150052</IMDB_ID>
   <Language>en</Language>
-  <Overview>Unaware that Lockhart/Gardner's communications are being monitored, Cary and Alicia sue the NSA on Chumhum's behalf; Alicia receives support from her mother; Eli tries to secure Diane's Supreme Court nomination.</Overview>
+  <Overview>Unaware that Lockhart &amp;Gardner's communications are being monitored, Cary and Alicia sue the NSA on Chumhum's behalf. Alicia receives support from her mother. Eli tries to secure Diane's Supreme Court nomination.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>17</RatingCount>
+  <RatingCount>22</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>|Ted Humphrey|Robert King|</Writer>
   <absolute_number>92</absolute_number>
   <filename>episodes/95451/4624065.jpg</filename>
-  <lastupdated>1399449773</lastupdated>
+  <lastupdated>1431268605</lastupdated>
   <seasonid>522815</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added>2013-09-30 11:13:44</thumb_added>
@@ -2932,7 +2931,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director>|Brooke Kennedy|</Director>
+  <Director>Brooke Kennedy</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>A Precious Commodity</EpisodeName>
   <EpisodeNumber>3</EpisodeNumber>
@@ -2940,15 +2939,15 @@
   <GuestStars>|Peter Gerety|Jerry Adler|Jess Weixler|Jeffrey Demunn|Ben Rappaport|Melissa George|Christian Borle|Talia Balsam|Janel Moloney|</GuestStars>
   <IMDB_ID>tt3150054</IMDB_ID>
   <Language>en</Language>
-  <Overview>Alicia receives a stunning offer that causes her to reconsider leaving the firm; the partners must take action when Diane is put at odds with her colleagues.</Overview>
+  <Overview>Alicia receives a stunning offer that causes her to reconsider leaving the firm. The partners must take action when Diane is put at odds with her colleagues.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.9</Rating>
-  <RatingCount>19</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>24</RatingCount>
   <SeasonNumber>5</SeasonNumber>
-  <Writer>|Keith Eisner|</Writer>
+  <Writer>Keith Eisner</Writer>
   <absolute_number>93</absolute_number>
   <filename>episodes/95451/4624066.jpg</filename>
-  <lastupdated>1399449817</lastupdated>
+  <lastupdated>1431268329</lastupdated>
   <seasonid>522815</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added>2013-10-01 09:39:30</thumb_added>
@@ -2963,7 +2962,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director>|Felix Alcala|</Director>
+  <Director>Felix Alcala</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Outside the Bubble</EpisodeName>
   <EpisodeNumber>4</EpisodeNumber>
@@ -2971,15 +2970,15 @@
   <GuestStars>|Sonja Sohn|Gary Cole|Carrie Preston|Rita Wilson|Nicole Roderick|Jerry Adler|Ben Rappaport|Robert Klein|</GuestStars>
   <IMDB_ID>tt3163792</IMDB_ID>
   <Language>en</Language>
-  <Overview>Alicia tries to obtain Lockhart/Gardner files as she prepares to exit the firm; faced with a sexual harassment lawsuit, the firm hires Elsbeth Tascioni.</Overview>
+  <Overview>Alicia tries to obtain Lockhart &amp; Gardner files as she prepares to exit the firm. Faced with a sexual harassment lawsuit, the firm hires Elsbeth Tascioni.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>18</RatingCount>
+  <Rating>7.9</Rating>
+  <RatingCount>22</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>|Robert King|Michelle King|</Writer>
   <absolute_number>94</absolute_number>
   <filename>episodes/95451/4671503.jpg</filename>
-  <lastupdated>1399449833</lastupdated>
+  <lastupdated>1431268444</lastupdated>
   <seasonid>522815</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added>2013-10-10 11:43:09</thumb_added>
@@ -2994,7 +2993,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director>|James Whitmore|</Director>
+  <Director>James Whitmore</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Hitting the Fan</EpisodeName>
   <EpisodeNumber>5</EpisodeNumber>
@@ -3004,13 +3003,13 @@
   <Language>en</Language>
   <Overview>A desperate battle to retain clients begins when Cary and Alicia's plan to leave the firm is exposed.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>8.4</Rating>
-  <RatingCount>23</RatingCount>
+  <Rating>8.3</Rating>
+  <RatingCount>27</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>|Robert King|Michelle King|</Writer>
   <absolute_number>95</absolute_number>
   <filename>episodes/95451/4679036.jpg</filename>
-  <lastupdated>1399449848</lastupdated>
+  <lastupdated>1431268548</lastupdated>
   <seasonid>522815</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added>2013-12-26 07:46:43</thumb_added>
@@ -3025,7 +3024,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director>|Michael Zinberg|</Director>
+  <Director>Michael Zinberg</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>The Next Day</EpisodeName>
   <EpisodeNumber>6</EpisodeNumber>
@@ -3033,15 +3032,15 @@
   <GuestStars>|Richard Kind|Renee Elise Goldsberry|Mamie Gummer|Gary Cole|Stepanie Kurtzuba|Edward Herrmann|Jess Weixler|Melissa George|Ben Rappaport|Bhavesh Patel|</GuestStars>
   <IMDB_ID>tt3268598</IMDB_ID>
   <Language>en</Language>
-  <Overview>Alicia and Cary represent a client who changed firms and Will and Diane delay turning over the case files; Marilyn tries to give advice to Alicia.</Overview>
+  <Overview>Alicia and Cary represent a client who changed firms and Will and Diane delay turning over the case files. Marilyn tries to give advice to Alicia.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>18</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>21</RatingCount>
   <SeasonNumber>5</SeasonNumber>
-  <Writer>|Leonard Dick|</Writer>
+  <Writer>Leonard Dick</Writer>
   <absolute_number>96</absolute_number>
   <filename>episodes/95451/4688976.jpg</filename>
-  <lastupdated>1399449868</lastupdated>
+  <lastupdated>1431268456</lastupdated>
   <seasonid>522815</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added>2013-10-18 12:42:58</thumb_added>
@@ -3056,7 +3055,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director>|Fred Toye|</Director>
+  <Director>Fred Toye</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>The Next Week</EpisodeName>
   <EpisodeNumber>7</EpisodeNumber>
@@ -3064,15 +3063,15 @@
   <GuestStars>|Renee Elise Goldsberry|Dallas Roberts|Nathan Lane|Ben Rappaport|Christian Borle|Hunter Parrish|</GuestStars>
   <IMDB_ID>tt3283790</IMDB_ID>
   <Language>en</Language>
-  <Overview>Zach makes a discovery that leads Alicia and Cary to believe that the Lockhart/Gardner firm is spying on them; Will helps one of Alicia's former clients; Clarke Hayden (Nathan Lane) offers financial advice to Florrick/Agos.</Overview>
+  <Overview>Zach makes a discovery that leads Alicia and Cary to believe that the firm is spying on them. Will helps one of Alicia's former clients. Clarke Hayden offers financial advice to Florrick/Agos.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.9</Rating>
-  <RatingCount>15</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>19</RatingCount>
   <SeasonNumber>5</SeasonNumber>
-  <Writer>|Craig Turk|</Writer>
+  <Writer>Craig Turk</Writer>
   <absolute_number>97</absolute_number>
   <filename>episodes/95451/4689122.jpg</filename>
-  <lastupdated>1399449883</lastupdated>
+  <lastupdated>1431268632</lastupdated>
   <seasonid>522815</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added>2013-11-10 21:10:58</thumb_added>
@@ -3087,7 +3086,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director>|Josh Charles|</Director>
+  <Director>Josh Charles</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>The Next Month</EpisodeName>
   <EpisodeNumber>8</EpisodeNumber>
@@ -3095,15 +3094,15 @@
   <GuestStars>|America Ferrera|Jerry Adler|Jess Weixler|Ben Rappaport|Melissa George|</GuestStars>
   <IMDB_ID>tt3227430</IMDB_ID>
   <Language>en</Language>
-  <Overview>Alicia must block the deportation of an undocumented immigrant who has been threatened by a cartel in Mexico; Eli's reconnection with Natalie Flores concerns Marilyn; Robin tries to emulate Kalinda.</Overview>
+  <Overview>Alicia must block the deportation of an undocumented immigrant who has been threatened by a cartel in Mexico. Eli's reconnection with Natalie Flores concerns Marilyn. Robin tries to emulate Kalinda.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>20</RatingCount>
+  <RatingCount>25</RatingCount>
   <SeasonNumber>5</SeasonNumber>
-  <Writer>|Ted Humphrey|</Writer>
+  <Writer>Ted Humphrey</Writer>
   <absolute_number>98</absolute_number>
   <filename>episodes/95451/4698892.jpg</filename>
-  <lastupdated>1399449909</lastupdated>
+  <lastupdated>1431268361</lastupdated>
   <seasonid>522815</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added>2013-11-04 10:34:26</thumb_added>
@@ -3129,12 +3128,12 @@
   <Overview>Alicia tries to hold a website accountable when its users accuse her client, a college professor, of being linked to domestic terrorism.  Meanwhile, Will goes against Diane’s wishes when he hires Damian Boyle, an unpredictable attorney with ties to organized crime, who immediately interjects himself into Alicia's website case.  Also, Eli and Jackie clash over a Florrick family secret.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>19</RatingCount>
+  <RatingCount>23</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>|Nichelle Tramble Spellman|</Writer>
   <absolute_number>99</absolute_number>
   <filename>episodes/95451/4699147.jpg</filename>
-  <lastupdated>1396078541</lastupdated>
+  <lastupdated>1419091445</lastupdated>
   <seasonid>522815</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added>2013-11-19 10:31:06</thumb_added>
@@ -3160,12 +3159,12 @@
   <Overview>Alicia is shocked to learn that a former client bequeathed her millions, but Lockhart/Gardner quickly contests the will on behalf of the deceased's wife.  Meanwhile, Diane asks Kalinda to look into Damian's background.  Also, Eli and Marilyn are concerned about Peter being seen with Alicia's more disreputable clients at the Florrick/Agos holiday party.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.1</Rating>
-  <RatingCount>17</RatingCount>
+  <RatingCount>21</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>|Robert King|Michelle King|</Writer>
   <absolute_number>100</absolute_number>
   <filename>episodes/95451/4699148.jpg</filename>
-  <lastupdated>1396078474</lastupdated>
+  <lastupdated>1419091481</lastupdated>
   <seasonid>522815</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added>2013-11-21 08:24:26</thumb_added>
@@ -3190,13 +3189,13 @@
   <Language>en</Language>
   <Overview>Alicia represents a band suing a TV show for copyright infringement, but the simple case becomes psychological warfare when Will joins the opposing council and uses his knowledge of Alicia’s strengths and weaknesses against her.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.9</Rating>
-  <RatingCount>17</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>22</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>|Luke Schelhaas|</Writer>
   <absolute_number>101</absolute_number>
   <filename>episodes/95451/4726868.jpg</filename>
-  <lastupdated>1396078427</lastupdated>
+  <lastupdated>1419091510</lastupdated>
   <seasonid>522815</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added>2013-12-17 14:25:17</thumb_added>
@@ -3222,12 +3221,12 @@
   <Overview>Alicia and Will each represent one half of a couple accused of smuggling drugs, but the courtroom becomes mired in confusion and legal technicalities when they insist on separate jury pools. Meanwhile, Cary attempts to woo a Lockhart/Gardner client, Kalinda tries to repair a damaged relationship and Marilyn begins her investigation into possible voter fraud during the gubernatorial election.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>21</RatingCount>
+  <RatingCount>27</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>|Keith Eisner|</Writer>
   <absolute_number>102</absolute_number>
   <filename>episodes/95451/4735537.jpg</filename>
-  <lastupdated>1396078380</lastupdated>
+  <lastupdated>1419091539</lastupdated>
   <seasonid>522815</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added>2014-01-07 13:28:02</thumb_added>
@@ -3252,13 +3251,13 @@
   <Language>en</Language>
   <Overview>Florrick/Agos and Lockhart/Gardner fight to keep Lemond Bishop as a client when he is arrested on a drug-related charge, which possibly resulted from a leak inside Alicia's firm. Meanwhile, the investigation into voter fraud in the gubernatorial election continues to move forward when Marilyn is approached by an agent in the Office of Public Integrity.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>16</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>20</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>|Erica Shelton Kodish|</Writer>
   <absolute_number>103</absolute_number>
   <filename>episodes/95451/4749747.jpg</filename>
-  <lastupdated>1396078307</lastupdated>
+  <lastupdated>1423492475</lastupdated>
   <seasonid>522815</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added>2014-03-04 11:18:23</thumb_added>
@@ -3283,13 +3282,13 @@
   <Language>en</Language>
   <Overview>When Alicia is asked to be the keynote speaker at the American Bar Association conference in New York City, she looks to her past for inspiration. Meanwhile, the competition with Diane and Will continues as Alicia and Cary battle to align with a powerful New York lawyer.  Also, Will turns to an old acquaintance when it becomes clear that Nelson Dubeck's investigation into possible voter fraud isn't going away.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>16</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>19</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>|Leonard Dick|</Writer>
   <absolute_number>104</absolute_number>
   <filename>episodes/95451/4808727.jpg</filename>
-  <lastupdated>1396078211</lastupdated>
+  <lastupdated>1423492498</lastupdated>
   <seasonid>522815</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added>2014-03-04 11:21:57</thumb_added>
@@ -3314,13 +3313,13 @@
   <Language>en</Language>
   <Overview>Alicia enlists Cary as her lawyer when Nelson Dubeck approaches her to participate in a deposition regarding his investigation into election rigging.  Meanwhile, Will continues the difficult defense of Jeffrey Grant as he faces off against a new prosecutor who proves to be a formidable adversary.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>8.0</Rating>
-  <RatingCount>17</RatingCount>
+  <Rating>8.1</Rating>
+  <RatingCount>20</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>|Robert King|Michelle King|</Writer>
   <absolute_number>105</absolute_number>
   <filename>episodes/95451/4808729.jpg</filename>
-  <lastupdated>1397774510</lastupdated>
+  <lastupdated>1423492521</lastupdated>
   <seasonid>522815</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added>2014-03-14 15:15:37</thumb_added>
@@ -3345,13 +3344,13 @@
   <Language>en</Language>
   <Overview>Alicia searches for answers as she tries to make sense of Will’s death in the aftermath of the courthouse shooting. Meanwhile, Diane delivers the somber news to the partners at Lockhart/Gardner who must decide how to move forward.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.3</Rating>
-  <RatingCount>15</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>17</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>|Robert King|Michelle King|</Writer>
   <absolute_number>106</absolute_number>
   <filename>episodes/95451/4818792.jpg</filename>
-  <lastupdated>1397774484</lastupdated>
+  <lastupdated>1423492543</lastupdated>
   <seasonid>522815</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added>2014-03-31 09:39:57</thumb_added>
@@ -3377,12 +3376,12 @@
   <Overview>Alicia and Diane consider merging their firms in the wake of Will's death, even as they find themselves on opposite sides of a contentious divorce suit. Meanwhile, Alicia offers assistance to Finn when it becomes clear that the State's Attorney is looking for a scapegoat in the Jeffrey Grant case.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>19</RatingCount>
+  <RatingCount>21</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>|Craig Turk|</Writer>
   <absolute_number>107</absolute_number>
   <filename>episodes/95451/4818793.jpg</filename>
-  <lastupdated>1398802024</lastupdated>
+  <lastupdated>1423492565</lastupdated>
   <seasonid>522815</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added>2014-04-11 10:13:22</thumb_added>
@@ -3407,13 +3406,13 @@
   <Language>en</Language>
   <Overview>Florrick/Agos takes on the case of an NSA whistleblower, only to learn that the agency has been monitoring the firm as well as Alicia’s personal life. Meanwhile, Diane faces the difficult task of working alongside Louis Canning when he joins Lockhart/Gardner. Also, Alicia goes after the State’s Attorney when he attempts to make Finn a scapegoat in the Jeffrey Grant case.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>21</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>23</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>|Matthew Montoya|Julia Wolfe|</Writer>
   <absolute_number>108</absolute_number>
   <filename>episodes/95451/4818794.jpg</filename>
-  <lastupdated>1397774435</lastupdated>
+  <lastupdated>1423492588</lastupdated>
   <seasonid>522815</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added>2014-04-04 14:29:33</thumb_added>
@@ -3439,12 +3438,12 @@
   <Overview>When Alicia pays a visit to longtime client Colin Sweeney, she finds herself in the unwanted role of witness when a body is discovered in his home. Meanwhile, Eli steps in when an unfortunate picture of Zach threatens to become a public relations nightmare for Peter.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>14</RatingCount>
+  <RatingCount>17</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>|Nichelle Tramble Spellman|</Writer>
   <absolute_number>109</absolute_number>
   <filename>episodes/95451/4818795.jpg</filename>
-  <lastupdated>1401521782</lastupdated>
+  <lastupdated>1423492608</lastupdated>
   <seasonid>522815</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added>2014-04-16 11:11:47</thumb_added>
@@ -3469,13 +3468,13 @@
   <Language>en</Language>
   <Overview>When Alicia has a chance encounter with a charming entrepreneur during jury duty, she begins to consider options outside her marriage and seeks the advice of her mother. Meanwhile, Diane's friends come to her for legal advice when their son is accused of selling drugs on the Internet.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.3</Rating>
-  <RatingCount>15</RatingCount>
+  <Rating>7.2</Rating>
+  <RatingCount>20</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>|Luke Schelhaas|Erica Shelton Kodish|</Writer>
   <absolute_number>110</absolute_number>
   <filename>episodes/95451/4818796.jpg</filename>
-  <lastupdated>1400834368</lastupdated>
+  <lastupdated>1423492628</lastupdated>
   <seasonid>522815</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added>2014-04-21 14:36:09</thumb_added>
@@ -3500,13 +3499,13 @@
   <Language>en</Language>
   <Overview>Alicia manages the fallout when her client's insensitive statements to the press threaten the fate of a multi-billion dollar merger. Meanwhile, Diane faces a potential conflict of interest when she and Louis Canning are on opposite sides of a class action suit involving a pharmaceutical company. Also, Eli learns the truth about Alicia and Peter's relationship.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>14</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>20</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>|Ted Humphrey|</Writer>
   <absolute_number>111</absolute_number>
   <filename>episodes/95451/4818797.jpg</filename>
-  <lastupdated>1400834387</lastupdated>
+  <lastupdated>1423492648</lastupdated>
   <seasonid>522815</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added>2014-04-23 11:28:18</thumb_added>
@@ -3532,12 +3531,12 @@
   <Overview>An open feed from a camera mistakenly left on after a teleconferenced deposition between the lawyers of Florrick/Agos and Lockhart/Gardner reveals a threat to the firm that Alicia and Cary never saw coming. Meanwhile, the fate of Lockhart/Gardner hangs in the balance as Louis Canning vies for a larger role. Also, Alicia entrusts Zach's high school graduation party to Jackie and Veronica.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>14</RatingCount>
+  <RatingCount>19</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>|Robert King|Michelle King|</Writer>
   <absolute_number>112</absolute_number>
   <filename>episodes/95451/4818798.jpg</filename>
-  <lastupdated>1400834410</lastupdated>
+  <lastupdated>1423492668</lastupdated>
   <seasonid>522815</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added>2014-04-29 12:03:04</thumb_added>
@@ -3552,11 +3551,693 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
+  <Director>Robert King</Director>
+  <EpImgFlag>2</EpImgFlag>
   <EpisodeName>The Line</EpisodeName>
   <EpisodeNumber>1</EpisodeNumber>
   <FirstAired>2014-09-21</FirstAired>
+  <GuestStars>|Michael J. Fox|Jess Weixler|Kelli Giddish|Sarah Steele|Lenny Venito|Samantha Mathis|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Despite pressure from Eli, Alicia is determined not to run for State's Attorney. Diane considers joining Florrick/Agos. A crisis threatens to tear the firm apart.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>12</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/95451/4917014.jpg</filename>
+  <lastupdated>1433232817</lastupdated>
+  <seasonid>589269</seasonid>
+  <seriesid>95451</seriesid>
+  <thumb_added>2014-09-29 10:20:38</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4984242</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Trust Issues</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2014-09-28</FirstAired>
+  <GuestStars>|Taye Diggs|Mike Colter|Jess Weixler|Polly Draper|Lenny Venito|Megan Ketch|Fred Melamed|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>As the firm deals with an internal legal crisis, Alicia tries to hold onto their biggest client. Diane plots her move.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>10</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/95451/4984242.jpg</filename>
+  <lastupdated>1433971672</lastupdated>
+  <seasonid>589269</seasonid>
+  <seriesid>95451</seriesid>
+  <thumb_added>2014-09-29 10:18:19</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4999282</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Brooke Kennedy</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Dear God</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2014-10-05</FirstAired>
+  <GuestStars>|Richard Thomas|Robert Sean Leonard|Christian Borle|Robert Joy|Linda Lavin|Gloria Steinem|Frank Seddio|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>A pretrial service officer interviews Cary's colleagues to determine if he should remain behind bars. A client's case ends up in Christian arbitration.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>10</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/95451/4999282.jpg</filename>
+  <lastupdated>1433971725</lastupdated>
+  <seasonid>589269</seasonid>
+  <seriesid>95451</seriesid>
+  <thumb_added>2014-10-06 10:31:10</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5003653</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Matt Shakman</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Oppo Research</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2014-10-12</FirstAired>
+  <GuestStars>|Stockard Channing|Dallas Roberts|Mike Colter|Rachel Hilson|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Eli asks a respected campaign manager to help Alicia explore the option of running for State's Attorney.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>11</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/95451/5003653.jpg</filename>
+  <lastupdated>1433972016</lastupdated>
+  <seasonid>589269</seasonid>
+  <seriesid>95451</seriesid>
+  <thumb_added>2014-10-10 13:21:13</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5003654</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Frederick E. O. Toye</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Shiny Objects</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2014-10-19</FirstAired>
+  <GuestStars>|Carrie Preston|Taye Diggs|Jill Hennessy|Jill Flint|Ben Rappaport|Jan Maxwell|Brooks Ashmanskas|Kyle MacLachlan|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>When Dean and Alicia represent a former chief executive officer who is suing the company that fired her, they face off with Elsbeth Tascioni and Rayna Hecht. A hacker threatens Florrick/Agos/Lockhart by taking control of their files.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>14</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/95451/5003654.jpg</filename>
+  <lastupdated>1433972067</lastupdated>
+  <seasonid>589269</seasonid>
+  <seriesid>95451</seriesid>
+  <thumb_added>2014-10-10 13:21:41</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5003655</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>James Whitmore, Jr.</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Old Spice</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2014-10-26</FirstAired>
+  <GuestStars>|Michael J. Fox|Carrie Preston|Kyle MacLachlan|Jan Maxwell|Jerry Adler|Sarah Steele|Frankie Faison|Ana Gasteyer|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Elsbeth and Alicia put their fight on hold when they both have clients facing economic espionage charges. Diane battles her former partners over office space.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>12</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/95451/5003655.jpg</filename>
+  <lastupdated>1433972191</lastupdated>
+  <seasonid>589269</seasonid>
+  <seriesid>95451</seriesid>
+  <thumb_added>2014-10-10 13:22:14</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5003656</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Matt Shakman</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Message Discipline</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2014-11-02</FirstAired>
+  <GuestStars>|David Hyde Pierce|Michael Cerveris|Renée Elise Goldsberry|Tanya Wright|Tug Coker|John Procaccino|Ken Land|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>While preparing his case against Cary, Finn discovers a potentially devastating piece of evidence which could have ramifications for Alicia and Peter. Eli becomes wary when a new prospective candidate emerges in the race for State’s Attorney.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>11</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/95451/5003656.jpg</filename>
+  <lastupdated>1433972234</lastupdated>
+  <seasonid>589269</seasonid>
+  <seriesid>95451</seriesid>
+  <thumb_added>2014-11-10 10:57:48</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5030560</id>
+  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Félix Alcalá</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Red Zone</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2014-11-09</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Alicia takes on a college rape case which pits her against Louis when it moves from a university hearing to civil court. Eli and Elfman conduct a political focus group. Alicia dives into her campaign for State’s Attorney.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>11</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/95451/5030560.jpg</filename>
+  <lastupdated>1433972271</lastupdated>
+  <seasonid>589269</seasonid>
+  <seriesid>95451</seriesid>
+  <thumb_added>2014-11-10 10:55:10</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5041014</id>
+  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Michael Zinberg</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Sticky Content</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2014-11-16</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>The Feds want Cary to work with them as they build a case against Lemond Bishop.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>11</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/95451/5041014.jpg</filename>
+  <lastupdated>1433972324</lastupdated>
+  <seasonid>589269</seasonid>
+  <seriesid>95451</seriesid>
+  <thumb_added>2014-11-17 09:19:24</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5041015</id>
+  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Frederick E. O. Toye</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Trial</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2014-11-23</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>When Cary’s case goes to trial, a plea deal offer has him seriously considering jail time. A joke between mother and daughter lands Alicia in trouble as her campaign for State’s Attorney is in full stride.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>11</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/95451/5041015.jpg</filename>
+  <lastupdated>1433972374</lastupdated>
+  <seasonid>589269</seasonid>
+  <seriesid>95451</seriesid>
+  <thumb_added>2014-11-17 16:47:32</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5041016</id>
+  <Combined_episodenumber>11</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Hail Mary</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired>2015-01-04</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Cary hires a prison consultant to prepare him for incarceration while the team at Florrick/Agos/Lockhart does everything in its power to help him. Alicia practices for the State’s Attorney candidates’ debate.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>10</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/95451/5041016.jpg</filename>
+  <lastupdated>1433972410</lastupdated>
+  <seasonid>589269</seasonid>
+  <seriesid>95451</seriesid>
+  <thumb_added>2014-12-11 17:13:02</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5070104</id>
+  <Combined_episodenumber>12</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Debate</EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired>2015-01-11</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Alicia and Frank Prady square off in a crucial debate in the race for State’s Attorney. Peter and the city of Chicago prepare for a potential riot.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>6.9</Rating>
+  <RatingCount>8</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/95451/5070104.jpg</filename>
+  <lastupdated>1430166240</lastupdated>
+  <seasonid>589269</seasonid>
+  <seriesid>95451</seriesid>
+  <thumb_added>2014-12-20 07:11:19</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5097229</id>
+  <Combined_episodenumber>13</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Keith Eisner</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Dark Money</EpisodeName>
+  <EpisodeNumber>13</EpisodeNumber>
+  <FirstAired>2015-03-01</FirstAired>
+  <GuestStars>Dylan Baker</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Colin Sweeney accuses a television producer of basing an unflattering character and show on his life, Diane and Cary must prove that they are capable of handling his case as Alicia focuses on the race for State’s Attorney. Also, Alicia competes against Frank Prady for a major campaign donation.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.2</Rating>
+  <RatingCount>6</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>Keith Eisner</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/95451/5097229.jpg</filename>
+  <lastupdated>1433973087</lastupdated>
+  <seasonid>589269</seasonid>
+  <seriesid>95451</seriesid>
+  <thumb_added>2015-02-14 03:46:50</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5129412</id>
+  <Combined_episodenumber>14</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Mind's Eye</EpisodeName>
+  <EpisodeNumber>14</EpisodeNumber>
+  <FirstAired>2015-03-08</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Alicia prepares for a key interview which could impact the outcome of the race for State’s Attorney. Also, Louis Canning pressures Florrick/Agos/Lockhart to agree on a settlement in his wrongful eviction case against the firm.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.1</Rating>
+  <RatingCount>8</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/95451/5129412.jpg</filename>
+  <lastupdated>1433972519</lastupdated>
+  <seasonid>589269</seasonid>
+  <seriesid>95451</seriesid>
+  <thumb_added>2015-02-25 10:32:24</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5135185</id>
+  <Combined_episodenumber>15</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Open Source</EpisodeName>
+  <EpisodeNumber>15</EpisodeNumber>
+  <FirstAired>2015-03-15</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>When Frank Prady decides to go after Governor Florrick as a campaign tactic, Alicia is faced with the decision of whether or not to attack Peter’s record as well. Also, when Florrick/Agos/Lockhart take on the case of a man paralyzed by a malfunctioning gun created on a 3D printer, they call on Kurt McVeigh to testify as an expert witness, which leads to a rift between Diane and her husband.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>5</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/95451/5135185.jpg</filename>
+  <lastupdated>1433972572</lastupdated>
+  <seasonid>589269</seasonid>
+  <seriesid>95451</seriesid>
+  <thumb_added>2015-03-16 04:59:16</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5147953</id>
+  <Combined_episodenumber>16</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Michael Zinberg</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Red Meat</EpisodeName>
+  <EpisodeNumber>16</EpisodeNumber>
+  <FirstAired>2015-03-22</FirstAired>
+  <GuestStars>Oliver Platt</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Alicia’s political future is on the line when Peter gives an interview that could influence voter turnout on Election Day. Meanwhile, a weekend getaway with Kurt and his affluent hunting buddies could lead Diane to a prosperous new client for the firm.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.3</Rating>
+  <RatingCount>7</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/95451/5147953.jpg</filename>
+  <lastupdated>1433972612</lastupdated>
+  <seasonid>589269</seasonid>
+  <seriesid>95451</seriesid>
+  <thumb_added>2015-03-14 05:00:50</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5155083</id>
+  <Combined_episodenumber>17</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>James Whitmore, Jr.</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Undisclosed Recipients</EpisodeName>
+  <EpisodeNumber>17</EpisodeNumber>
+  <FirstAired>2015-03-29</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>The partners of Florrick/Agos/Lockhart find themselves at odds when they voice different opinions regarding the company’s future. Also, the firm falls victim to a cyber-hack after it takes on the case of a movie producer whose work is pirated on a peer-to-peer sharing site.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>6</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/95451/5155083.jpg</filename>
+  <lastupdated>1433972645</lastupdated>
+  <seasonid>589269</seasonid>
+  <seriesid>95451</seriesid>
+  <thumb_added>2015-03-30 10:56:01</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5159815</id>
+  <Combined_episodenumber>18</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Brooke Kennedy</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Loser Edit</EpisodeName>
+  <EpisodeNumber>18</EpisodeNumber>
+  <FirstAired>2015-04-05</FirstAired>
+  <GuestStars>|Lily Rabe|Oliver Platt|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Still reeling from the cyber-hack at her law firm, Alicia is ambushed with questions about her leaked emails during a television interview. Meanwhile, Diane takes on a case that pits her sympathies towards gay marriage against the rights of religious freedom. Also, an investigator starts looking into the evidence Diane used to get Cary out of prison...</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>6.3</Rating>
+  <RatingCount>6</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>Luke Schelhaas</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/95451/5159815.jpg</filename>
+  <lastupdated>1433972673</lastupdated>
+  <seasonid>589269</seasonid>
+  <seriesid>95451</seriesid>
+  <thumb_added>2015-03-20 05:30:35</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5169146</id>
+  <Combined_episodenumber>19</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Rosemary Rodriguez</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Winning Ugly</EpisodeName>
+  <EpisodeNumber>19</EpisodeNumber>
+  <FirstAired>2015-04-12</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>When potential voter fraud is discovered in the State’s Attorney election, Eli and Alicia take steps to stop a recount by enlisting the help of a well-respected civil rights lawyer, Spencer Randolph. Also, Diane learns she unwittingly submitted false evidence in Cary’s case.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>6</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/95451/5169146.jpg</filename>
+  <lastupdated>1433187821</lastupdated>
+  <seasonid>589269</seasonid>
+  <seriesid>95451</seriesid>
+  <thumb_added>2015-04-03 07:01:40</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5172251</id>
+  <Combined_episodenumber>20</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Deconstruction</EpisodeName>
+  <EpisodeNumber>20</EpisodeNumber>
+  <FirstAired>2015-04-26</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Alicia faces an uncertain future when she is forced to resign as State’s Attorney in the wake of a voter fraud scandal. Also, R.D. hires Diane and Cary to argue against two ultra-conservative lawyers for a test case involving mandatory minimum sentencing.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>8</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/95451/5172251.jpg</filename>
+  <lastupdated>1433187858</lastupdated>
+  <seasonid>589269</seasonid>
+  <seriesid>95451</seriesid>
+  <thumb_added>2015-04-24 06:38:22</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5179930</id>
+  <Combined_episodenumber>21</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Don't Fail</EpisodeName>
+  <EpisodeNumber>21</EpisodeNumber>
+  <FirstAired>2015-05-03</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>When a former client (Dorian Missick) calls Alicia after being charged with murder tied to a case from 2009, Alicia reviews the old case, prompting memories of her early days as a lawyer.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>6</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/95451/5179930.jpg</filename>
+  <lastupdated>1432401386</lastupdated>
+  <seasonid>589269</seasonid>
+  <seriesid>95451</seriesid>
+  <thumb_added>2015-04-24 06:39:37</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5179931</id>
+  <Combined_episodenumber>22</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Wanna Partner?</EpisodeName>
+  <EpisodeNumber>22</EpisodeNumber>
+  <FirstAired>2015-05-10</FirstAired>
+  <GuestStars>Michael J. Fox</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Alicia’s professional future hangs in the balance as she decides what’s next for her career. Meanwhile, when Alicia gets a suspicious call from a client, she discovers that he’s being held in a secret police facility where people are detained without being officially booked.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.2</Rating>
+  <RatingCount>6</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/95451/5179931.jpg</filename>
+  <lastupdated>1432912480</lastupdated>
+  <seasonid>589269</seasonid>
+  <seriesid>95451</seriesid>
+  <thumb_added>2015-04-24 06:41:09</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5248073</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>7</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>TBA</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2015-10-04</FirstAired>
   <GuestStars></GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
@@ -3564,12 +4245,12 @@
   <ProductionCode></ProductionCode>
   <Rating></Rating>
   <RatingCount>0</RatingCount>
-  <SeasonNumber>6</SeasonNumber>
+  <SeasonNumber>7</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename></filename>
-  <lastupdated>1405023672</lastupdated>
-  <seasonid>589269</seasonid>
+  <lastupdated>1433877027</lastupdated>
+  <seasonid>625588</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
   <thumb_height></thumb_height>

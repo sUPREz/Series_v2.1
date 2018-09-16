@@ -3,7 +3,7 @@
   <id>94991</id>
   <Actors>|Courteney Cox|Josh Hopkins|Busy Philipps|Ian Gomez|Brian van Holt|Dan Byrd|Christa Miller|</Actors>
   <Airs_DayOfWeek>Tuesday</Airs_DayOfWeek>
-  <Airs_Time>10:00 PM</Airs_Time>
+  <Airs_Time>10:30 PM</Airs_Time>
   <ContentRating>TV-PG</ContentRating>
   <FirstAired>2009-09-23</FirstAired>
   <Genre>|Comedy|</Genre>
@@ -12,18 +12,18 @@
   <Network>TBS</Network>
   <NetworkID></NetworkID>
   <Overview>Cougar Town follows the life of recent divorcée Jules Cobb (Courteney Cox). Jules runs a successful business, has the best friends, and a great son. But when it comes to relationships, she has a lot to learn. However, the more Jules puts herself back out there, the more she discovers that the only way to find yourself, is to let yourself go. After all, you only get one chance to experience your 20s. Even if it’s when you’re 40 something.</Overview>
-  <Rating>8.0</Rating>
-  <RatingCount>81</RatingCount>
+  <Rating>8.1</Rating>
+  <RatingCount>90</RatingCount>
   <Runtime>30</Runtime>
   <SeriesID>76362</SeriesID>
   <SeriesName>Cougar Town</SeriesName>
-  <Status>Continuing</Status>
+  <Status>Ended</Status>
   <added>2009-05-19 07:37:08</added>
   <addedBy>5664</addedBy>
-  <banner>text/94991.jpg</banner>
-  <fanart>fanart/original/94991-13.jpg</fanart>
-  <lastupdated>1405768903</lastupdated>
-  <poster>posters/94991-6.jpg</poster>
+  <banner>graphical/94991-g11.jpg</banner>
+  <fanart>fanart/original/94991-9.jpg</fanart>
+  <lastupdated>1434914298</lastupdated>
+  <poster>posters/94991-8.jpg</poster>
   <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>SH01158082</zap2it_id>
 </Series>
@@ -37,7 +37,7 @@
   <DVD_season></DVD_season>
   <Director></Director>
   <EpImgFlag></EpImgFlag>
-  <EpisodeName>Tanning Cougar Town</EpisodeName>
+  <EpisodeName>Taming Cougar Town</EpisodeName>
   <EpisodeNumber>1</EpisodeNumber>
   <FirstAired></FirstAired>
   <GuestStars></GuestStars>
@@ -54,7 +54,7 @@
   <airsbefore_episode></airsbefore_episode>
   <airsbefore_season></airsbefore_season>
   <filename></filename>
-  <lastupdated>1315097722</lastupdated>
+  <lastupdated>1411007082</lastupdated>
   <seasonid>67261</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added></thumb_added>
@@ -88,7 +88,7 @@
   <airsbefore_episode></airsbefore_episode>
   <airsbefore_season></airsbefore_season>
   <filename></filename>
-  <lastupdated>1315097798</lastupdated>
+  <lastupdated>1411006396</lastupdated>
   <seasonid>67261</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added></thumb_added>
@@ -122,7 +122,7 @@
   <airsbefore_episode></airsbefore_episode>
   <airsbefore_season></airsbefore_season>
   <filename></filename>
-  <lastupdated>1374934615</lastupdated>
+  <lastupdated>1411006510</lastupdated>
   <seasonid>67261</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added></thumb_added>
@@ -156,7 +156,7 @@
   <airsbefore_episode></airsbefore_episode>
   <airsbefore_season></airsbefore_season>
   <filename></filename>
-  <lastupdated>1326658532</lastupdated>
+  <lastupdated>1411005323</lastupdated>
   <seasonid>67261</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added></thumb_added>
@@ -190,7 +190,7 @@
   <airsbefore_episode></airsbefore_episode>
   <airsbefore_season></airsbefore_season>
   <filename></filename>
-  <lastupdated>1374934674</lastupdated>
+  <lastupdated>1411005365</lastupdated>
   <seasonid>67261</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added></thumb_added>
@@ -224,7 +224,7 @@
   <airsbefore_episode></airsbefore_episode>
   <airsbefore_season></airsbefore_season>
   <filename></filename>
-  <lastupdated>1375184438</lastupdated>
+  <lastupdated>1411005387</lastupdated>
   <seasonid>67261</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added></thumb_added>
@@ -258,7 +258,7 @@
   <airsbefore_episode></airsbefore_episode>
   <airsbefore_season></airsbefore_season>
   <filename></filename>
-  <lastupdated>1375184459</lastupdated>
+  <lastupdated>1411005402</lastupdated>
   <seasonid>67261</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added></thumb_added>
@@ -292,7 +292,7 @@
   <airsbefore_episode></airsbefore_episode>
   <airsbefore_season></airsbefore_season>
   <filename></filename>
-  <lastupdated>1375184488</lastupdated>
+  <lastupdated>1411005442</lastupdated>
   <seasonid>67261</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added></thumb_added>
@@ -326,7 +326,7 @@
   <airsbefore_episode></airsbefore_episode>
   <airsbefore_season></airsbefore_season>
   <filename></filename>
-  <lastupdated>1375184508</lastupdated>
+  <lastupdated>1411005455</lastupdated>
   <seasonid>67261</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added></thumb_added>
@@ -360,7 +360,7 @@
   <airsbefore_episode></airsbefore_episode>
   <airsbefore_season></airsbefore_season>
   <filename></filename>
-  <lastupdated>1375184527</lastupdated>
+  <lastupdated>1411005494</lastupdated>
   <seasonid>67261</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added></thumb_added>
@@ -394,7 +394,7 @@
   <airsbefore_episode></airsbefore_episode>
   <airsbefore_season></airsbefore_season>
   <filename></filename>
-  <lastupdated>1375184546</lastupdated>
+  <lastupdated>1411005509</lastupdated>
   <seasonid>67261</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added></thumb_added>
@@ -428,7 +428,7 @@
   <airsbefore_episode></airsbefore_episode>
   <airsbefore_season></airsbefore_season>
   <filename></filename>
-  <lastupdated>1374934791</lastupdated>
+  <lastupdated>1411005526</lastupdated>
   <seasonid>67261</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added></thumb_added>
@@ -462,7 +462,7 @@
   <airsbefore_episode></airsbefore_episode>
   <airsbefore_season></airsbefore_season>
   <filename></filename>
-  <lastupdated>1326658997</lastupdated>
+  <lastupdated>1411006423</lastupdated>
   <seasonid>67261</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added></thumb_added>
@@ -1576,12 +1576,12 @@
   <Overview>We meet Jules, a woman who at her twenties took on marriage and a baby instead of experiencing the dating scene. Now on her forties, she finds herself as a divorcee and eager to live the dating scene that she missed. With the help of her friend, Laurie, her younger co-worker who wants to show Jules to go out there and have fun. Ellie, her sarcastic, married and content to her average but lovable husband Andy. There's also her family, her ex-husband Bobby and her son Travis, who will test her patience, and her new forty-something divorced neighbour Gray, who doesn't believe that Jules can date again.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>93</RatingCount>
+  <RatingCount>95</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>Kevin Biegel|Bill Lawrence</Writer>
+  <Writer>|Kevin Biegel|Bill Lawrence|</Writer>
   <absolute_number>1</absolute_number>
   <filename>episodes/94991/660901.jpg</filename>
-  <lastupdated>1395156278</lastupdated>
+  <lastupdated>1431152037</lastupdated>
   <seasonid>67271</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added></thumb_added>
@@ -1607,12 +1607,12 @@
   <Overview>Jules tries to party hard like a twentysomething and ends up looking like a total fool, when even her best friend Ellie, told her not to do it. Travis discovers trying to avoid further embarrassment due to his father, Bobby, working at his school, can actually add to it. Jules gets as frustrated as she faces the physical limitations of her age.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>73</RatingCount>
+  <RatingCount>75</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Bill Lawrence</Writer>
   <absolute_number>2</absolute_number>
   <filename>episodes/94991/1084121.jpg</filename>
-  <lastupdated>1395156352</lastupdated>
+  <lastupdated>1414918622</lastupdated>
   <seasonid>67271</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added></thumb_added>
@@ -1638,7 +1638,7 @@
   <Overview>Jules family and friends crash the 10th date with her new boyfriend, Josh. Ellie and Laurie help Jules realize that it's ok to be selfish once in a while, when Jules has a disastrous experience in bed with Josh. Meanwhile, Jules left Travis with Bobby, who has to be responsible and deal with his son.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>66</RatingCount>
+  <RatingCount>67</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Kevin Biegel</Writer>
   <absolute_number>3</absolute_number>
@@ -1668,13 +1668,13 @@
   <Language>en</Language>
   <Overview>When Jules inadvertently tells Grayson he's hot and he doesn't reciprocate, she's on a mission to get him to admit she's sexy. With a little help from Laurie and Ellie, Jules uncovers the ultimate burn to put Grayson in his place. Meanwhile, Ellie is feeling like she's lost her looks after the birth of Stan, and Bobby and Travis search for something to bond over.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.3</Rating>
-  <RatingCount>60</RatingCount>
+  <Rating>7.2</Rating>
+  <RatingCount>61</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>Chrissy Pietrosh|Jessica Goldstein</Writer>
+  <Writer>|Chrissy Pietrosh|Jessica Goldstein|</Writer>
   <absolute_number>4</absolute_number>
   <filename>episodes/94991/1084141.jpg</filename>
-  <lastupdated>1395156476</lastupdated>
+  <lastupdated>1431152017</lastupdated>
   <seasonid>67271</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added></thumb_added>
@@ -1699,8 +1699,8 @@
   <Language>en</Language>
   <Overview>Jules rues the day when her ex-husband, Bobby, and Grayson become fast friends over a mercy golf lesson that she organized to help boost Bobby's self esteem. Meanwhile, Laurie surprises even herself when she takes on a new client to prove her worth to Jules.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.3</Rating>
-  <RatingCount>63</RatingCount>
+  <Rating>7.2</Rating>
+  <RatingCount>65</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Linda Videtti Figueiredo</Writer>
   <absolute_number>5</absolute_number>
@@ -1731,7 +1731,7 @@
   <Overview>When Josh tells Jules he's in love with her, she knows the time has come to break things off with him. Unfortunately for Jules, she's not the best at ending relationships without hurting people's feelings, but thankfully she has the expertise of friends Laurie and Ellie to see her through. Meanwhile, Bobby, Grayson and Andy hit the links with money and pride on the line.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.2</Rating>
-  <RatingCount>60</RatingCount>
+  <RatingCount>61</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Ryan Koh</Writer>
   <absolute_number>6</absolute_number>
@@ -1762,7 +1762,7 @@
   <Overview>Jules always seems to be with her friends, her ex or her son. One night when everyone is busy, she reluctantly takes a date with an older man just to get out of the house, so Grayson makes her a wager that she can't spend a whole day by herself.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.2</Rating>
-  <RatingCount>56</RatingCount>
+  <RatingCount>58</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Sanjay Shah</Writer>
   <absolute_number>7</absolute_number>
@@ -1793,7 +1793,7 @@
   <Overview>Mad because her two best friends don't get along, Jules tries to have fun at her birthday. She finally convinces Ellie and Laurie to go with her on a wild birthday weekend, and they accept. But Jules encounters her nemesis with her flirtatious husband.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>60</RatingCount>
+  <RatingCount>62</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Mary Fitzpatrick</Writer>
   <absolute_number>8</absolute_number>
@@ -1824,12 +1824,12 @@
   <Overview>Jules plan for a romanctic dinner for two backfires for Thanksgiving. Travis shows off his girlfriend Kylie to everyone. Jules gives Travis and Kylie advice on birth control. Bobby and Grayson bond over a common interest.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>64</RatingCount>
+  <RatingCount>66</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Sam Laybourne</Writer>
   <absolute_number>9</absolute_number>
   <filename>episodes/94991/1212381.jpg</filename>
-  <lastupdated>1395156687</lastupdated>
+  <lastupdated>1408138274</lastupdated>
   <seasonid>67271</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added></thumb_added>
@@ -1855,7 +1855,7 @@
   <Overview>Scott Foley gest stars as Jeff, a very wealthy potential home buyer who is interested in one of Jules overpriced homes. Meanwhile, Ellie with reserves leaves the baby with Andy for a day to prove that she trusts in him.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>60</RatingCount>
+  <RatingCount>62</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Kevin Biegel</Writer>
   <absolute_number>10</absolute_number>
@@ -1886,7 +1886,7 @@
   <Overview>Despite fearing the meanest and most unrelenting dermatologist in town, Dr. Amy Evans, Jules and Ellie are willing to endure the harsh ridicule and wrath for an appointment with the best in the business. But when Jules learns Dr. Evans is seeing Bobby, she's determined to stand up to her and protect him. Meanwhile, Travis gets a job working for Barb that turns out to be more than he bargained for.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>59</RatingCount>
+  <RatingCount>61</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Kate Purdy</Writer>
   <absolute_number>11</absolute_number>
@@ -1917,7 +1917,7 @@
   <Overview>When the relationship between Jules and her boyfriend start to heat up, Jules starts to get scared. Meanwhile, Laurie seeks diversion sex with an unsuspecting friend and Andy spills the beans about his big secret.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>66</RatingCount>
+  <RatingCount>68</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Kevin Biegel</Writer>
   <absolute_number>12</absolute_number>
@@ -1948,7 +1948,7 @@
   <Overview>After her breakup with Jeff, Jules turns to Bobby for some cheering up. But when a bottle of wine leads to a passionate kiss, will they agree it was only a casual meaningless kiss? Meanwhile, Laurie discovers a thing that both Jules and Grayson have in common, while Travis plans with Kylie don't go as planned.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>59</RatingCount>
+  <RatingCount>61</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Mara Brock Akil</Writer>
   <absolute_number>13</absolute_number>
@@ -1979,7 +1979,7 @@
   <Overview>A hot tennis instructor gets between Ellie and Jules, while Laurie turns to Travis for advice, and Andy and Grayson try to cheer up Bobby after a fresh heartbreak over Jules.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.2</Rating>
-  <RatingCount>64</RatingCount>
+  <RatingCount>65</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Peter Saji</Writer>
   <absolute_number>14</absolute_number>
@@ -2010,7 +2010,7 @@
   <Overview>Jules, not wanting to spend Valentine's Day alone, turns to Grayson to keep her company when everyone else makes plans. Meanwhile, Bobby and Jules take different sides when Travis asks to go to a party where they know he will be drinking; Ellie tries to prove she is the alpha dog, not Grayson; and Laurie meets Smith's father.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>58</RatingCount>
+  <RatingCount>59</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Linda Videtti Figueiredo</Writer>
   <absolute_number>15</absolute_number>
@@ -2041,7 +2041,7 @@
   <Overview>Laurie needs a co-signer to buy her first condo and finds her less than stellar, absentee mother no help at all. Meanwhile, Bobby is mugged by a woman and Travis comes to Barb's aid after her latest cosmetic surgery procedure.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>65</RatingCount>
+  <RatingCount>67</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Jessica Goldstein|Chrissy Pietrosh|</Writer>
   <absolute_number>16</absolute_number>
@@ -2072,7 +2072,7 @@
   <Overview>Jules is determined to prove to Grayson that women and men can be friends without any sexual undertones. Meanwhile, with Jules' encouragement, Andy buys a motorcycle from Laurie to Ellie's dismay and Travis joins Bobby on a man-trip for some &quot;noodling,&quot; only to be mortified by his discovery of what noodling actually is.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>60</RatingCount>
+  <RatingCount>62</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Melody Derloshon</Writer>
   <absolute_number>17</absolute_number>
@@ -2103,7 +2103,7 @@
   <Overview>Sara is a confident wine rep who sets her sights on Grayson; but is he strong enough to be her man? Meanwhile, when Ellie tells Jules she can't change past a certain age, Jules is determined to prove her wrong by giving up wine for a month; and Bobby's new dog poses some unwanted competition for Andy.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>68</RatingCount>
+  <RatingCount>70</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Kate Purdy</Writer>
   <absolute_number>18</absolute_number>
@@ -2128,18 +2128,18 @@
   <EpisodeName>Everything Man</EpisodeName>
   <EpisodeNumber>19</EpisodeNumber>
   <FirstAired>2010-03-31</FirstAired>
-  <GuestStars>|Sheryl Crow| |Spencer Locke|</GuestStars>
+  <GuestStars>|Sheryl Crow|Spencer Locke|</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>Jules and Sara hit it off, but when Grayson is overly attentive to his new girl, Jules warns him to back off before Sara pulls away. Meanwhile, Jules' perfect new bathroom complete with a &quot;talking toilet&quot; becomes the main attraction in her home and Grayson finds inspiration for a new song with a little help from Sara.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>77</RatingCount>
+  <RatingCount>79</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Sam Laybourne</Writer>
   <absolute_number>19</absolute_number>
   <filename>episodes/94991/1799741.jpg</filename>
-  <lastupdated>1395157123</lastupdated>
+  <lastupdated>1431152009</lastupdated>
   <seasonid>67271</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added></thumb_added>
@@ -2165,7 +2165,7 @@
   <Overview>Jules is thrilled for the chance to take care of Travis after his first big break-up. But when Jules discovers the truth about the break-up, she comes to an unwelcome realization about herself. Meanwhile, Sara considers whether Jules threatens her relationship with Grayson and turns to Ellie for guidance; and Andy searches for any resemblance between himself and son Stan.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>66</RatingCount>
+  <RatingCount>68</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Michael McDonald</Writer>
   <absolute_number>20</absolute_number>
@@ -2195,8 +2195,8 @@
   <Language>en</Language>
   <Overview>Jules has mixed feelings when Travis gets accepted to two of his choice colleges. Now he must decide between schools in California or one just 20 minutes from home. As Jules struggles with the thought of Travis moving away, Grayson is there for her. Meanwhile, Laurie considers her feelings for Smith when he returns from law school, and Andy longs for the freedom to do whatever he wants around the house, free of Ellie's rules.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>76</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>78</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Mara Brock Akil</Writer>
   <absolute_number>21</absolute_number>
@@ -2227,12 +2227,12 @@
   <Overview>Jules and Grayson consider the notion of FWB, friends with benefits. Meanwhile Andy hires a nanny for Ellie, and Travis benefits from Bobby's unconventional plans to make some extra cash</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>66</RatingCount>
+  <RatingCount>68</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Sanjay Shah</Writer>
   <absolute_number>22</absolute_number>
   <filename>episodes/94991/2078741.jpg</filename>
-  <lastupdated>1395157247</lastupdated>
+  <lastupdated>1406238198</lastupdated>
   <seasonid>67271</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added></thumb_added>
@@ -2258,7 +2258,7 @@
   <Overview>Despite Grayson's warning, a curious Jules reads the speech without permission and is left crushed when she finds she's not been acknowledged. Meanwhile, Ellie uncharacteristically does something nice for Laurie, and Bobby tries to restrain himself from embarrassing Travis on his big day.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>75</RatingCount>
+  <RatingCount>77</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Bill Lawrence|Kevin Biegel|</Writer>
   <absolute_number>23</absolute_number>
@@ -2289,7 +2289,7 @@
   <Overview>Jules and Grayson hatch an elaborate plan to break the news to Bobby that they're officially dating, and Travis sees the wrath of a truly angry woman for the first time when he forgets his momentous seven-month anniversary with Kylie.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>67</RatingCount>
+  <RatingCount>69</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Ryan Koh</Writer>
   <absolute_number>24</absolute_number>
@@ -2320,12 +2320,12 @@
   <Overview>Bobby struggles with the reality of Jules being in a relationship with Grayson. Jules has issues with her new psychiatrist when she discovers the truth behind her methods.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>75</RatingCount>
+  <RatingCount>77</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>Bill Lawrence|Kevin Biegel</Writer>
+  <Writer>|Bill Lawrence|Kevin Biegel|</Writer>
   <absolute_number>25</absolute_number>
   <filename>episodes/94991/2292341.jpg</filename>
-  <lastupdated>1383442967</lastupdated>
+  <lastupdated>1431152002</lastupdated>
   <seasonid>255131</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added></thumb_added>
@@ -2350,13 +2350,13 @@
   <Language>en</Language>
   <Overview>Jules has difficulty coping when Travis gets ready to leave for college; Andy forms an elaborate plan to deceive Ellie.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.2</Rating>
-  <RatingCount>63</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>64</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Kevin Biegel</Writer>
   <absolute_number>26</absolute_number>
   <filename>episodes/94991/2776171.jpg</filename>
-  <lastupdated>1383442975</lastupdated>
+  <lastupdated>1406238614</lastupdated>
   <seasonid>255131</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added></thumb_added>
@@ -2382,12 +2382,12 @@
   <Overview>As Jules adjusts to living on her own, Grayson unwillingly becomes the new object of her constant attention; Travis turns to Bobby for advice on how to redefine himself at college; and Ellie is determined not to be friends with her new nanny.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>61</RatingCount>
+  <RatingCount>62</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Sam Laybourne</Writer>
   <absolute_number>27</absolute_number>
   <filename>episodes/94991/2817681.jpg</filename>
-  <lastupdated>1383442994</lastupdated>
+  <lastupdated>1406238339</lastupdated>
   <seasonid>255131</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added></thumb_added>
@@ -2407,18 +2407,18 @@
   <EpisodeName>The Damage You've Done</EpisodeName>
   <EpisodeNumber>4</EpisodeNumber>
   <FirstAired>2010-10-13</FirstAired>
-  <GuestStars>LaMarcus Tinker, Ryan Devlin</GuestStars>
+  <GuestStars>|LaMarcus Tinker|Ryan Devlin|</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>Grayson decides that it's the right time to tell Jules about what had happened between Laurie and himself. After Jules knows the truth she tries to project her anger at someone, but cannot decide at who. While Laurie professes hel love for Smith, and Bobby gets obsessed with watching a street performer swallow a sword, and Andy gets Travis to doubt Kylie.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>60</RatingCount>
+  <RatingCount>62</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>Chrissy Pietrosh|Jessica Goldstein</Writer>
+  <Writer>|Chrissy Pietrosh|Jessica Goldstein|</Writer>
   <absolute_number>28</absolute_number>
   <filename>episodes/94991/2913321.jpg</filename>
-  <lastupdated>1383443005</lastupdated>
+  <lastupdated>1431151952</lastupdated>
   <seasonid>255131</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added></thumb_added>
@@ -2444,12 +2444,12 @@
   <Overview>Jules schemes to continue giving Bobby money when he stops taking alimony payments. Ellie ticks off the gang by being arrogant about her intelligence.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>68</RatingCount>
+  <RatingCount>69</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Sanjay Shah</Writer>
   <absolute_number>29</absolute_number>
   <filename>episodes/94991/3007021.jpg</filename>
-  <lastupdated>1395157712</lastupdated>
+  <lastupdated>1415884753</lastupdated>
   <seasonid>255131</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added></thumb_added>
@@ -2475,12 +2475,12 @@
   <Overview>Jules isn't happy when her father pays a visit. Travis gets a surprise at Halloween, and Bobby campaigns to be Stan's guardian should something happen to Ellie and Andy.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>59</RatingCount>
+  <RatingCount>61</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Blake McCormick</Writer>
   <absolute_number>30</absolute_number>
   <filename>episodes/94991/3005821.jpg</filename>
-  <lastupdated>1395157751</lastupdated>
+  <lastupdated>1415884773</lastupdated>
   <seasonid>255131</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added></thumb_added>
@@ -2506,12 +2506,12 @@
   <Overview>It's Jules' 42nd birthday and that can only mean one thing: gift contest! Each year, Jules holds a contest to determine who gives her the best gifts, which Ellie always wins. This year, Laurie teams up with Grayson in an attempt to overthrow her. As Jules contemplates what to do for her birthday, Andy suggests a night of dancing. Meanwhile, Travis introduces Bobby to a Netti Pot, but not without its consequences.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>63</RatingCount>
+  <RatingCount>65</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>Peter Saji|Melody Derloshon</Writer>
+  <Writer>|Peter Saji|Melody Derloshon|</Writer>
   <absolute_number>31</absolute_number>
   <filename>episodes/94991/3004911.jpg</filename>
-  <lastupdated>1395157837</lastupdated>
+  <lastupdated>1431151852</lastupdated>
   <seasonid>255131</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added></thumb_added>
@@ -2542,7 +2542,7 @@
   <Writer>Kate Purdy</Writer>
   <absolute_number>32</absolute_number>
   <filename>episodes/94991/3035881.jpg</filename>
-  <lastupdated>1395157884</lastupdated>
+  <lastupdated>1406238459</lastupdated>
   <seasonid>255131</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added></thumb_added>
@@ -2568,12 +2568,12 @@
   <Overview>Jules says &quot;I love you&quot; to Grayson for the first time, but when Grayson doesn't reciprocate with the words she wants to hear, she's determined to host a &quot;romantic&quot; Thanksgiving in order force the moment on of him. Meanwhile, Ellie and Laurie team up to knock the optimism out of Andy, and Bobby is upset when the gang confesses that sometimes they can't understand what he's saying.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>69</RatingCount>
+  <RatingCount>70</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>Bill Lawrence|Kevin Biegel|Mary Fitzgerald</Writer>
+  <Writer>|Bill Lawrence|Kevin Biegel|Mary Fitzgerald|</Writer>
   <absolute_number>33</absolute_number>
   <filename>episodes/94991/3035871.jpg</filename>
-  <lastupdated>1395157913</lastupdated>
+  <lastupdated>1431152116</lastupdated>
   <seasonid>255131</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added></thumb_added>
@@ -2599,12 +2599,12 @@
   <Overview>Jules wants to help Bobby gain his confidence back and thinks fixing up his boat and getting it back in the water will do the trick.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>66</RatingCount>
+  <RatingCount>68</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>Bill Lawrence|Kevin Biegel|Ryan Koh</Writer>
+  <Writer>|Bill Lawrence|Kevin Biegel|Ryan Koh|</Writer>
   <absolute_number>34</absolute_number>
   <filename>episodes/94991/3053001.jpg</filename>
-  <lastupdated>1395157963</lastupdated>
+  <lastupdated>1431151825</lastupdated>
   <seasonid>255131</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added></thumb_added>
@@ -2631,12 +2631,12 @@
 Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets upset with Andy when he uses their joke on Laurie.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>58</RatingCount>
+  <RatingCount>59</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>Bill Lawrence|Kevin Biegel|Gregg Mettler</Writer>
+  <Writer>|Bill Lawrence|Kevin Biegel|Gregg Mettler|</Writer>
   <absolute_number>35</absolute_number>
   <filename>episodes/94991/3271091.jpg</filename>
-  <lastupdated>1395157988</lastupdated>
+  <lastupdated>1431151888</lastupdated>
   <seasonid>255131</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added></thumb_added>
@@ -2662,12 +2662,12 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <Overview>Although Laurie may be the worst houseguest ever, Jules is there for her when she needs a place to stay; Laurie helps Jules to realize she doesn't need to change for others; and when Bobby is jealous that Travis has gone to Grayson for advice, Grayson comes through for his buddy.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>58</RatingCount>
+  <RatingCount>59</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>Bill Lawrence|Kevin Biegel|Mary Fitzgerald|Kate Purdy</Writer>
+  <Writer>|Bill Lawrence|Kevin Biegel|Mary Fitzgerald|Kate Purdy|</Writer>
   <absolute_number>36</absolute_number>
   <filename>episodes/94991/3271101.jpg</filename>
-  <lastupdated>1395158018</lastupdated>
+  <lastupdated>1431152067</lastupdated>
   <seasonid>255131</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added></thumb_added>
@@ -2693,12 +2693,12 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <Overview>Jules comes up with a new game for the crew; Ellie complains about doing what Jules wants to do; Andy is mad at Grayson; Bobby introduces his new friend to the group.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>60</RatingCount>
+  <RatingCount>61</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>Bill Lawrence|Kevin Biegel|Ryan Koh|Sam Laybourne</Writer>
+  <Writer>|Bill Lawrence|Kevin Biegel|Ryan Koh|Sam Laybourne|</Writer>
   <absolute_number>37</absolute_number>
   <filename>episodes/94991/3485271.jpg</filename>
-  <lastupdated>1395158052</lastupdated>
+  <lastupdated>1431151939</lastupdated>
   <seasonid>255131</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added></thumb_added>
@@ -2724,12 +2724,12 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <Overview>Jules wishes Grayson would share his feelings with her; Ellie insists she doesn't want to do anything for Valentine's Day; Andy makes a date with Bobby; Travis asks Laurie for help with his gift for Kirsten.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>56</RatingCount>
+  <RatingCount>57</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>Bill Lawrence|Kevin Biegel|Melody Derloshon</Writer>
+  <Writer>|Bill Lawrence|Kevin Biegel|Melody Derloshon|</Writer>
   <absolute_number>38</absolute_number>
   <filename>episodes/94991/3456211.jpg</filename>
-  <lastupdated>1395158077</lastupdated>
+  <lastupdated>1431151844</lastupdated>
   <seasonid>255131</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added></thumb_added>
@@ -2755,12 +2755,12 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <Overview>Once again Jules chooses to get too involved in Travis' life.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>62</RatingCount>
+  <RatingCount>63</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>Bill Lawrence|Kevin Biegel|Sean Lavery</Writer>
+  <Writer>|Bill Lawrence|Kevin Biegel|Sean Lavery|</Writer>
   <absolute_number>39</absolute_number>
   <filename>episodes/94991/4077151.jpg</filename>
-  <lastupdated>1395158109</lastupdated>
+  <lastupdated>1431151932</lastupdated>
   <seasonid>255131</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added></thumb_added>
@@ -2786,12 +2786,12 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <Overview>Ellie tricks Jules into watching Baby Stan on her own for a day, but Jules is determined to prove how easy it is... especially when she's roped in Grayson to help. Meanwhile, Bobby's given the chance to play golf for free in order to train for his upcoming tournament, as long as he tees off before 6:00 a.m., and Andy volunteers to be Laurie's wingman as she puts herself back out there after her split with Smith.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>47</RatingCount>
+  <RatingCount>48</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>Bill Lawrence|Kevin Biegel|Peter Saji</Writer>
+  <Writer>|Bill Lawrence|Kevin Biegel|Peter Saji|</Writer>
   <absolute_number>40</absolute_number>
   <filename>episodes/94991/3317401.jpg</filename>
-  <lastupdated>1395158424</lastupdated>
+  <lastupdated>1431151784</lastupdated>
   <seasonid>255131</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added></thumb_added>
@@ -2817,12 +2817,12 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <Overview>Travis joins his father and Andy at a professional golf tournament; Jules faces her fear of public humiliation; Ellie and Grayson are impressed by Laurie in a trivia game.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>53</RatingCount>
+  <RatingCount>54</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>Bill Lawrence|Kevin Biegel|Michael McDonald</Writer>
+  <Writer>|Bill Lawrence|Kevin Biegel|Michael McDonald|</Writer>
   <absolute_number>41</absolute_number>
   <filename>episodes/94991/4077152.jpg</filename>
-  <lastupdated>1395158453</lastupdated>
+  <lastupdated>1431151710</lastupdated>
   <seasonid>255131</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added></thumb_added>
@@ -2842,18 +2842,18 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <EpisodeName>Lonesome Sundown</EpisodeName>
   <EpisodeNumber>18</EpisodeNumber>
   <FirstAired>2011-05-04</FirstAired>
-  <GuestStars>|Lou Diamond Phillips|</GuestStars>
+  <GuestStars>Lou Diamond Phillips</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>Jules tries to not interfere when Travis contemplates a big decision; the gang tries stop taking advantage of each other.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>49</RatingCount>
+  <RatingCount>50</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>Bill Lawrence|Kevin Biegel|Blake McCormick|Sanjay Shah</Writer>
+  <Writer>|Bill Lawrence|Kevin Biegel|Blake McCormick|Sanjay Shah|</Writer>
   <absolute_number>42</absolute_number>
   <filename>episodes/94991/4077153.jpg</filename>
-  <lastupdated>1395158481</lastupdated>
+  <lastupdated>1431151902</lastupdated>
   <seasonid>255131</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added></thumb_added>
@@ -2881,12 +2881,12 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
 </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>51</RatingCount>
+  <RatingCount>52</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>Bill Lawrence|Kevin Biegel|Aaron Ho</Writer>
+  <Writer>|Bill Lawrence|Kevin Biegel|Aaron Ho|</Writer>
   <absolute_number>43</absolute_number>
   <filename>episodes/94991/4080006.jpg</filename>
-  <lastupdated>1395158513</lastupdated>
+  <lastupdated>1431151981</lastupdated>
   <seasonid>255131</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added></thumb_added>
@@ -2912,12 +2912,12 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <Overview>As Travis continues on a downward spiral from his breakup with Kirsten, Jules decides it's time to give him some tough love.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>46</RatingCount>
+  <RatingCount>47</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>Bill Lawrence|Kevin Biegel|Gregg Mettler</Writer>
+  <Writer>|Bill Lawrence|Kevin Biegel|Gregg Mettler|</Writer>
   <absolute_number>44</absolute_number>
   <filename>episodes/94991/4080007.jpg</filename>
-  <lastupdated>1395158541</lastupdated>
+  <lastupdated>1431151739</lastupdated>
   <seasonid>255131</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added></thumb_added>
@@ -2943,12 +2943,12 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <Overview>When Travis abruptly moves to Hawaii, the gang go after him and decide to spend their vacation there too. As Jules struggles with Travis' choice, Grayson tells her he's keen on having kids. Meanwhile, Bobby acts as Ellie and Andy's vacation surrogate, and Laurie hatches a plan to lure Travis back home. </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>39</RatingCount>
+  <RatingCount>40</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>Bill Lawrence|Kevin Biegel|Chrissy Pietrosh|Jessica Goldstein</Writer>
+  <Writer>|Bill Lawrence|Kevin Biegel|Chrissy Pietrosh|Jessica Goldstein|</Writer>
   <absolute_number>45</absolute_number>
   <filename>episodes/94991/4080008.jpg</filename>
-  <lastupdated>1395158620</lastupdated>
+  <lastupdated>1431152051</lastupdated>
   <seasonid>255131</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added></thumb_added>
@@ -2974,12 +2974,12 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <Overview>When Travis abruptly moves to Hawaii, the gang go after him and decide to spend their vacation there too. As Jules struggles with Travis' choice, Grayson tells her he's keen on having kids. Meanwhile, Bobby acts as Ellie and Andy's vacation surrogate, and Laurie hatches a plan to lure Travis back home. </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>17</RatingCount>
+  <RatingCount>18</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>Bill Lawrence|Kevin Biegel|Chrissy Pietrosh|Jessica Goldstein</Writer>
+  <Writer>|Bill Lawrence|Kevin Biegel|Chrissy Pietrosh|Jessica Goldstein|</Writer>
   <absolute_number>46</absolute_number>
   <filename>episodes/94991/4080009.jpg</filename>
-  <lastupdated>1395158689</lastupdated>
+  <lastupdated>1431151804</lastupdated>
   <seasonid>255131</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added></thumb_added>
@@ -2999,18 +2999,18 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <EpisodeName>Ain't Love Strange</EpisodeName>
   <EpisodeNumber>1</EpisodeNumber>
   <FirstAired>2012-02-14</FirstAired>
-  <GuestStars>Robert Clendenin, Shawn Parikh, Sawyer Ever</GuestStars>
+  <GuestStars>|Robert Clendenin|Shawn Parikh|Sawyer Ever|</GuestStars>
   <IMDB_ID>tt2087074</IMDB_ID>
   <Language>en</Language>
   <Overview>Jules is miffed when Grayson (who has an ulterior motive) calls her &quot;predictable&quot;; Ellie frets that little Stan is turning into a &quot;devil child,&quot; or even worse, could grow up to be like Laurie; and Travis likes his new off campus housing, until Bobby tries to convince him to take dog Travis in.</Overview>
   <ProductionCode>#301</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>38</RatingCount>
+  <RatingCount>39</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Bill Lawrence</Writer>
   <absolute_number>47</absolute_number>
   <filename>episodes/94991/4243628.jpg</filename>
-  <lastupdated>1395158794</lastupdated>
+  <lastupdated>1431151703</lastupdated>
   <seasonid>482984</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added></thumb_added>
@@ -3036,12 +3036,12 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <Overview>Jules ends up asking both Ellie and Laurie to be her &quot;co-maids&quot; of honor because she can't stand to hurt anyone's feelings; and Grayson tries to ask Chick for Jules' hand in marriage formally, but Chick decides to have a little fun in the process.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>38</RatingCount>
+  <RatingCount>39</RatingCount>
   <SeasonNumber>3</SeasonNumber>
-  <Writer>Bill Lawrence, Kevin Biegel</Writer>
+  <Writer>|Bill Lawrence|Kevin Biegel|</Writer>
   <absolute_number>48</absolute_number>
   <filename>episodes/94991/4250560.jpg</filename>
-  <lastupdated>1395158860</lastupdated>
+  <lastupdated>1431151881</lastupdated>
   <seasonid>482984</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added></thumb_added>
@@ -3067,12 +3067,12 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <Overview>There is no time for romance when you're planning a wedding, and Jules is in full &quot;AWATT&quot; mode (All Wedding All the Time), until Travis is in an accident and rushed to the hospital. Meanwhile Grayson is feeling neglected by Jules, so the guys try to cheer him up by inventing a new game called &quot;D-Ball,&quot; and things get dangerous when Laurie and Ellie want to play.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>40</RatingCount>
+  <RatingCount>41</RatingCount>
   <SeasonNumber>3</SeasonNumber>
-  <Writer>Bill Lawrence, Kevin Biegel</Writer>
+  <Writer>|Bill Lawrence|Kevin Biegel|</Writer>
   <absolute_number>49</absolute_number>
   <filename>episodes/94991/4250561.jpg</filename>
-  <lastupdated>1395158916</lastupdated>
+  <lastupdated>1431151896</lastupdated>
   <seasonid>482984</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added></thumb_added>
@@ -3087,7 +3087,7 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director>Bill Lawrence, Kevin Biegel</Director>
+  <Director>|Bill Lawrence|Kevin Biegel|</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Full Moon Fever</EpisodeName>
   <EpisodeNumber>4</EpisodeNumber>
@@ -3098,12 +3098,12 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <Overview>One look is all it takes for Bobby to fall for Travis' photography professor, but Travis refuses to introduce them; Laurie falls for a guy she's never met when she begins a romance, via twitter, with a soldier in Iraq; and Jules and Andy prepare to go to war against an unruly gang of kids on bikes who are terrorizing the cul-de-sac.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>39</RatingCount>
+  <RatingCount>40</RatingCount>
   <SeasonNumber>3</SeasonNumber>
-  <Writer>Bill Lawrence, Kevin Biegel</Writer>
+  <Writer>|Bill Lawrence|Kevin Biegel|</Writer>
   <absolute_number>50</absolute_number>
   <filename>episodes/94991/4250562.jpg</filename>
-  <lastupdated>1395158952</lastupdated>
+  <lastupdated>1431151945</lastupdated>
   <seasonid>482984</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added></thumb_added>
@@ -3118,7 +3118,7 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director>Bill Lawrence, Kevin Biegel</Director>
+  <Director>|Bill Lawrence|Kevin Biegel|</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>A One Story Town</EpisodeName>
   <EpisodeNumber>5</EpisodeNumber>
@@ -3129,12 +3129,12 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <Overview>Jules and the gang decide Bobby needs some help romancing Angie so they launch &quot;operation kiss-the-girl.&quot; Meanwhile, other former &quot;Scrubs&quot; cast turn up, as Ted and the Peons pass through on their way to audition at Disney World.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>31</RatingCount>
+  <RatingCount>32</RatingCount>
   <SeasonNumber>3</SeasonNumber>
-  <Writer>Bill Lawrence, Kevin Biegel</Writer>
+  <Writer>|Bill Lawrence|Kevin Biegel|</Writer>
   <absolute_number>51</absolute_number>
   <filename>episodes/94991/4250563.jpg</filename>
-  <lastupdated>1395159346</lastupdated>
+  <lastupdated>1431151812</lastupdated>
   <seasonid>482984</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added></thumb_added>
@@ -3149,7 +3149,7 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director>Bill Lawrence, Kevin Biegel</Director>
+  <Director>|Bill Lawrence|Kevin Biegel|</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Something Big</EpisodeName>
   <EpisodeNumber>6</EpisodeNumber>
@@ -3160,12 +3160,12 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <Overview>Just as Jules is trying to work through Grayson's &quot;baggage&quot; from his wild single days, a chance encounter with a former fling, Holly, ends with him learning that he's the father of a one-year-old baby girl he never knew he had.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>34</RatingCount>
+  <RatingCount>35</RatingCount>
   <SeasonNumber>3</SeasonNumber>
-  <Writer>Bill Lawrence, Kevin Biegel</Writer>
+  <Writer>|Bill Lawrence|Kevin Biegel|</Writer>
   <absolute_number>52</absolute_number>
   <filename>episodes/94991/4250564.jpg</filename>
-  <lastupdated>1395159458</lastupdated>
+  <lastupdated>1431151958</lastupdated>
   <seasonid>482984</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added></thumb_added>
@@ -3180,7 +3180,7 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director>Bill Lawrence, Kevin Biegel</Director>
+  <Director>|Bill Lawrence|Kevin Biegel|</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>You Can Still Change Your Mind</EpisodeName>
   <EpisodeNumber>7</EpisodeNumber>
@@ -3191,12 +3191,12 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <Overview>Travis wants to take Jules and Grayson's wedding pictures, but Jules, who wants everything to be perfect for her second wedding, isn't so sure; meanwhile Bobby wants to get serious with Angie, but does she feel the same way?</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>30</RatingCount>
+  <RatingCount>31</RatingCount>
   <SeasonNumber>3</SeasonNumber>
-  <Writer>Bill Lawrence, Kevin Biegel</Writer>
+  <Writer>|Bill Lawrence|Kevin Biegel|</Writer>
   <absolute_number>53</absolute_number>
   <filename>episodes/94991/4250565.jpg</filename>
-  <lastupdated>1395159502</lastupdated>
+  <lastupdated>1431151994</lastupdated>
   <seasonid>482984</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added></thumb_added>
@@ -3211,7 +3211,7 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director>Bill Lawrence, Kevin Biegel</Director>
+  <Director>|Bill Lawrence|Kevin Biegel|</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Ways To Be Wicked</EpisodeName>
   <EpisodeNumber>8</EpisodeNumber>
@@ -3222,12 +3222,12 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <Overview>Ellie cautions the cul-de-sac crew that her visiting mother is not as nice as she seems. Meanwhile, Grayson offers to help Laurie start a cake business; and Bobby and Chick become accomplices in a college prank pulled by Travis and his friends to steal a cougar statue.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>32</RatingCount>
+  <RatingCount>33</RatingCount>
   <SeasonNumber>3</SeasonNumber>
-  <Writer>Bill Lawrence, Kevin Biegel</Writer>
+  <Writer>|Bill Lawrence|Kevin Biegel|</Writer>
   <absolute_number>54</absolute_number>
   <filename>episodes/94991/4250566.jpg</filename>
-  <lastupdated>1395159549</lastupdated>
+  <lastupdated>1431151966</lastupdated>
   <seasonid>482984</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added></thumb_added>
@@ -3242,7 +3242,7 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director>Bill Lawrence, Kevin Biegel</Director>
+  <Director>|Bill Lawrence|Kevin Biegel|</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Money Becomes King</EpisodeName>
   <EpisodeNumber>9</EpisodeNumber>
@@ -3253,12 +3253,12 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <Overview>Jules and Grayson can't see eye to eye when it comes to joining their finances, but they're both going to have to make some sacrifices if they actually want to get married -- and that is not going to be easy. Meanwhile, Laurie's Krazy Kakes business is doing surprisingly well, and Travis convinces her to make some grown up decisions of her own.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>30</RatingCount>
+  <RatingCount>31</RatingCount>
   <SeasonNumber>3</SeasonNumber>
-  <Writer>Bill Lawrence, Kevin Biegel</Writer>
+  <Writer>|Bill Lawrence|Kevin Biegel|</Writer>
   <absolute_number>55</absolute_number>
   <filename>episodes/94991/4250567.jpg</filename>
-  <lastupdated>1395159588</lastupdated>
+  <lastupdated>1431152059</lastupdated>
   <seasonid>482984</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added></thumb_added>
@@ -3273,7 +3273,7 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director>Bill Lawrence, Kevin Biegel</Director>
+  <Director>|Bill Lawrence|Kevin Biegel|</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Southern Accents</EpisodeName>
   <EpisodeNumber>10</EpisodeNumber>
@@ -3286,10 +3286,10 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <Rating>7.5</Rating>
   <RatingCount>35</RatingCount>
   <SeasonNumber>3</SeasonNumber>
-  <Writer>Bill Lawrence, Kevin Biegel</Writer>
+  <Writer>|Bill Lawrence|Kevin Biegel|</Writer>
   <absolute_number>56</absolute_number>
   <filename>episodes/94991/4250568.jpg</filename>
-  <lastupdated>1395159637</lastupdated>
+  <lastupdated>1431151831</lastupdated>
   <seasonid>482984</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added></thumb_added>
@@ -3304,7 +3304,7 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director>Bill Lawrence, Kevin Biegel</Director>
+  <Director>|Bill Lawrence|Kevin Biegel|</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Down South</EpisodeName>
   <EpisodeNumber>11</EpisodeNumber>
@@ -3315,12 +3315,12 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <Overview>Jules has a hurricane party at her house when a storm blows into town; Travis decides to make a play for Laurie.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>31</RatingCount>
+  <RatingCount>32</RatingCount>
   <SeasonNumber>3</SeasonNumber>
-  <Writer>Bill Lawrence, Kevin Biegel</Writer>
+  <Writer>|Bill Lawrence|Kevin Biegel|</Writer>
   <absolute_number>57</absolute_number>
   <filename>episodes/94991/4250569.jpg</filename>
-  <lastupdated>1395159687</lastupdated>
+  <lastupdated>1431152103</lastupdated>
   <seasonid>482984</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added></thumb_added>
@@ -3346,12 +3346,12 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <Overview>After Grayson's house sustains hurricane damage, he moves in with Jules; Laurie and Ellie ask Travis to help determine which of them is sexier; Bobby and Jules compete in a ``white shirt challenge.''</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>32</RatingCount>
+  <RatingCount>33</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer></Writer>
   <absolute_number>58</absolute_number>
   <filename>episodes/94991/4250570.jpg</filename>
-  <lastupdated>1395159738</lastupdated>
+  <lastupdated>1415883820</lastupdated>
   <seasonid>482984</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added></thumb_added>
@@ -3366,7 +3366,7 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director>Bill Lawrence, Kevin Biegel</Director>
+  <Director>|Bill Lawrence|Kevin Biegel|</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>It'll All Work Out</EpisodeName>
   <EpisodeNumber>13</EpisodeNumber>
@@ -3377,12 +3377,12 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <Overview>Jules plans a spring Thanksgiving after realizing the gang didn't celebrate the holiday together; Ellie's parenting skills are called into question when Stan gets a hold of Big Carl; Grayson helps Andy prepare for an annual pizza toss.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>30</RatingCount>
+  <RatingCount>31</RatingCount>
   <SeasonNumber>3</SeasonNumber>
-  <Writer>Bill Lawrence, Kevin Biegel</Writer>
+  <Writer>|Bill Lawrence|Kevin Biegel|</Writer>
   <absolute_number>59</absolute_number>
   <filename>episodes/94991/4250571.jpg</filename>
-  <lastupdated>1395159903</lastupdated>
+  <lastupdated>1431151973</lastupdated>
   <seasonid>482984</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added></thumb_added>
@@ -3408,12 +3408,12 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <Overview>When Grayson complains that he's living the movie &quot;Groundhog Day&quot; because the gang shows up at the same time every day at Jules' house, Jules asks for a &quot;Groundhog Day&quot;-themed bachelorette party so that Ellie and Laurie can explain the movie to her. Then, fed up with the lack of privacy, Grayson convinces Jules to elope to Napa . . . but the cul de sac crew happily tags along.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>28</RatingCount>
+  <RatingCount>29</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer></Writer>
   <absolute_number>60</absolute_number>
   <filename>episodes/94991/4250572.jpg</filename>
-  <lastupdated>1395159865</lastupdated>
+  <lastupdated>1413823564</lastupdated>
   <seasonid>482984</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added></thumb_added>
@@ -3439,12 +3439,12 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <Overview>When Grayson complains that he's living the movie &quot;Groundhog Day&quot; because the gang shows up at the same time every day at Jules' house, Jules asks for a &quot;Groundhog Day&quot;-themed bachelorette party so that Ellie and Laurie can explain the movie to her. Then, fed up with the lack of privacy, Grayson convinces Jules to elope to Napa . . . but the cul de sac crew happily tags along</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>13</RatingCount>
+  <RatingCount>14</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer></Writer>
   <absolute_number>61</absolute_number>
   <filename>episodes/94991/4250573.jpg</filename>
-  <lastupdated>1395160021</lastupdated>
+  <lastupdated>1413823624</lastupdated>
   <seasonid>482984</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added></thumb_added>
@@ -3459,7 +3459,7 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director>|Courteney Cox|</Director>
+  <Director>Courteney Cox</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Blue Sunday</EpisodeName>
   <EpisodeNumber>1</EpisodeNumber>
@@ -3470,12 +3470,12 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <Overview>It's the first week of marriage for Grayson and Jules, but when Grayson doesn't know the rules, he soon becomes Jules' &quot;coffee and wine bitch.&quot; After Travis' 21st birthday, Bobby tries to make up for lost time by teaching him lessons about being a man. And Ellie and Laurie try to pull Jules out of her depression when Grayson refuses to apologize for what he did in her dream.</Overview>
   <ProductionCode>401</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>33</RatingCount>
+  <RatingCount>34</RatingCount>
   <SeasonNumber>4</SeasonNumber>
-  <Writer>|Bill Lawrence|</Writer>
+  <Writer>Bill Lawrence</Writer>
   <absolute_number>62</absolute_number>
   <filename>episodes/94991/4400411.jpg</filename>
-  <lastupdated>1395160198</lastupdated>
+  <lastupdated>1431151791</lastupdated>
   <seasonid>501079</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added></thumb_added>
@@ -3490,7 +3490,7 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director>|Courteney Cox|</Director>
+  <Director>Courteney Cox</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>I Need To Know</EpisodeName>
   <EpisodeNumber>2</EpisodeNumber>
@@ -3501,12 +3501,12 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <Overview>Jules releases Travis from mandatory family night, but when he stays away too long, she becomes crazed. Ellie discovers she can get Andy to do anything she wants by training him like a dog. And the guys grow mustaches to look cool like Tom Selleck.</Overview>
   <ProductionCode>402</ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>32</RatingCount>
+  <RatingCount>33</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Chrissy Pietrosh|Jessica Goldstein|</Writer>
   <absolute_number>63</absolute_number>
   <filename>episodes/94991/4453086.jpg</filename>
-  <lastupdated>1395160244</lastupdated>
+  <lastupdated>1431151911</lastupdated>
   <seasonid>501079</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added>2013-10-05 15:06:34</thumb_added>
@@ -3521,7 +3521,7 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director>|John Putch|</Director>
+  <Director>John Putch</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Between Two Worlds</EpisodeName>
   <EpisodeNumber>3</EpisodeNumber>
@@ -3534,10 +3534,10 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <Rating>7.3</Rating>
   <RatingCount>33</RatingCount>
   <SeasonNumber>4</SeasonNumber>
-  <Writer>|Kevin Biegel|</Writer>
+  <Writer>Kevin Biegel</Writer>
   <absolute_number>64</absolute_number>
   <filename>episodes/94991/4453087.jpg</filename>
-  <lastupdated>1395160290</lastupdated>
+  <lastupdated>1431151818</lastupdated>
   <seasonid>501079</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added>2013-10-05 15:06:51</thumb_added>
@@ -3552,7 +3552,7 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director>|Michael McDonald|</Director>
+  <Director>Michael McDonald</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>I Should Have Known It</EpisodeName>
   <EpisodeNumber>4</EpisodeNumber>
@@ -3565,10 +3565,10 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <Rating>7.2</Rating>
   <RatingCount>29</RatingCount>
   <SeasonNumber>4</SeasonNumber>
-  <Writer>|Melody Derloshon|</Writer>
+  <Writer>Melody Derloshon</Writer>
   <absolute_number>65</absolute_number>
   <filename>episodes/94991/4453088.jpg</filename>
-  <lastupdated>1395160340</lastupdated>
+  <lastupdated>1431152046</lastupdated>
   <seasonid>501079</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added></thumb_added>
@@ -3583,7 +3583,7 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director>|John Putch|</Director>
+  <Director>John Putch</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Runnin' Down A Dream</EpisodeName>
   <EpisodeNumber>5</EpisodeNumber>
@@ -3594,12 +3594,12 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <Overview>Jules decides that her heart is no longer in the real estate business. Meanwhile, Bobby discovers his dream job selling premade burgers from a truck. Unfortunately Bobby's Burger Truck proves the perfect opportunity for Ellie to be rude to strangers</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>27</RatingCount>
+  <RatingCount>29</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Justin Halpern|Patrick Schumacker|</Writer>
   <absolute_number>66</absolute_number>
   <filename>episodes/94991/4453091.jpg</filename>
-  <lastupdated>1395160384</lastupdated>
+  <lastupdated>1431151724</lastupdated>
   <seasonid>501079</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added></thumb_added>
@@ -3614,7 +3614,7 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director>|Courteney Cox|</Director>
+  <Director>Courteney Cox</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Restless</EpisodeName>
   <EpisodeNumber>6</EpisodeNumber>
@@ -3625,12 +3625,12 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <Overview>Jules has trouble sleeping, and it seems like nothing can help her relax. Grayson's face gets mangled in a roller hockey game. And Ellie goes into hiding after Andy decides to redeem his stash of sex coupons on Valentine’s Day.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>27</RatingCount>
+  <RatingCount>28</RatingCount>
   <SeasonNumber>4</SeasonNumber>
-  <Writer>|Austen Faggen|</Writer>
+  <Writer>Austen Faggen</Writer>
   <absolute_number>67</absolute_number>
   <filename>episodes/94991/4453094.jpg</filename>
-  <lastupdated>1395160425</lastupdated>
+  <lastupdated>1431152023</lastupdated>
   <seasonid>501079</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added></thumb_added>
@@ -3645,7 +3645,7 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director>|Courteney Cox|</Director>
+  <Director>Courteney Cox</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Flirting With Time</EpisodeName>
   <EpisodeNumber>7</EpisodeNumber>
@@ -3656,12 +3656,12 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <Overview>When buyers show interest in Grayson's house, the crew is quick to judge their potential new neighbors. They also become nostalgic about when redneck Bobby and Jules first moved into the neighborhood. Meanwhile, Wade returns home from Afghanistan early, but Laurie's initial excitement quickly turns to fear when he becomes too clingy.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>31</RatingCount>
+  <RatingCount>32</RatingCount>
   <SeasonNumber>4</SeasonNumber>
-  <Writer>|Blake McCormick|</Writer>
+  <Writer>Blake McCormick</Writer>
   <absolute_number>68</absolute_number>
   <filename>episodes/94991/4453089.jpg</filename>
-  <lastupdated>1395160478</lastupdated>
+  <lastupdated>1431151917</lastupdated>
   <seasonid>501079</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added></thumb_added>
@@ -3676,23 +3676,23 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director>|John Putch|</Director>
+  <Director>John Putch</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>You And I Will Meet Again</EpisodeName>
   <EpisodeNumber>8</EpisodeNumber>
   <FirstAired>2013-02-26</FirstAired>
-  <GuestStars>|Edwin Hodge|</GuestStars>
+  <GuestStars>Edwin Hodge</GuestStars>
   <IMDB_ID>tt2483138</IMDB_ID>
   <Language>en</Language>
   <Overview>Laurie and Wade decide to move in together, but breaking the news to Travis doesn't go as planned. Tom becomes Jules' personal cheerleader after losing his &quot;new guy&quot; status. And Jules and Grayson have a naked day that turns out to be anything but sexy.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>25</RatingCount>
+  <RatingCount>26</RatingCount>
   <SeasonNumber>4</SeasonNumber>
-  <Writer>|Peter Saji|</Writer>
+  <Writer>Peter Saji</Writer>
   <absolute_number>69</absolute_number>
   <filename>episodes/94991/4453090.jpg</filename>
-  <lastupdated>1395160513</lastupdated>
+  <lastupdated>1431151732</lastupdated>
   <seasonid>501079</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added></thumb_added>
@@ -3707,12 +3707,12 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director>|Courteney Cox|</Director>
+  <Director>Courteney Cox</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Make It Better</EpisodeName>
   <EpisodeNumber>9</EpisodeNumber>
   <FirstAired>2013-03-05</FirstAired>
-  <GuestStars>|Ken Jenkins|</GuestStars>
+  <GuestStars>Ken Jenkins</GuestStars>
   <IMDB_ID>tt2483144</IMDB_ID>
   <Language>en</Language>
   <Overview>Jules' dad Chick spends some time at her house while recovering from an injury. During his stay, Jules experiences extreme stomach pain, but she's too stubborn to let her dad know. And Bobby and Grayson attempt to teach Travis how to be a &quot;playa.&quot;</Overview>
@@ -3723,7 +3723,7 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <Writer>|Rachel Specter|Audrey Wauchope|</Writer>
   <absolute_number>70</absolute_number>
   <filename>episodes/94991/4453092.jpg</filename>
-  <lastupdated>1395160550</lastupdated>
+  <lastupdated>1431151986</lastupdated>
   <seasonid>501079</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added></thumb_added>
@@ -3738,7 +3738,7 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director>|Michael McDonald|</Director>
+  <Director>Michael McDonald</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>You Tell Me</EpisodeName>
   <EpisodeNumber>10</EpisodeNumber>
@@ -3748,13 +3748,13 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <Language>en</Language>
   <Overview>Confused by her mixed feelings for Travis, Laurie resorts to destroying things. But when her anger gets out of control, newly appointed mayor Andy has to step in. Jules starts hanging out with her therapist after discovering that her friends have been keeping secrets. And Bobby has a fling with the girl of his dreams while enjoying a vacation at Target.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>25</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>26</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Brad Morris|Emily Wilson|</Writer>
   <absolute_number>71</absolute_number>
   <filename>episodes/94991/4453093.jpg</filename>
-  <lastupdated>1395160592</lastupdated>
+  <lastupdated>1431151778</lastupdated>
   <seasonid>501079</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added></thumb_added>
@@ -3769,23 +3769,23 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director>|Michael McDonald|</Director>
+  <Director>Michael McDonald</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Saving Grace</EpisodeName>
   <EpisodeNumber>11</EpisodeNumber>
   <FirstAired>2013-03-19</FirstAired>
-  <GuestStars>|Maria Thayer|</GuestStars>
+  <GuestStars>Maria Thayer</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>Travis and Andy take a backseat to Bobby's new tomboy friend, Riggs. Grayson sparks a religious debate when he sighs during Jules' family prayer. And the Cul-De-Sac Crew form a dodgeball league, but Andy's attention toward another girl leads to a brawl with a group of pre-teens.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>24</RatingCount>
+  <RatingCount>26</RatingCount>
   <SeasonNumber>4</SeasonNumber>
-  <Writer>|Blake McCormick|</Writer>
+  <Writer>Blake McCormick</Writer>
   <absolute_number>72</absolute_number>
   <filename>episodes/94991/4453095.jpg</filename>
-  <lastupdated>1395160631</lastupdated>
+  <lastupdated>1431151838</lastupdated>
   <seasonid>501079</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added></thumb_added>
@@ -3800,23 +3800,23 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director>|John Putch|</Director>
+  <Director>John Putch</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>This Old Town</EpisodeName>
   <EpisodeNumber>12</EpisodeNumber>
   <FirstAired>2013-03-26</FirstAired>
-  <GuestStars>|Shirley Jones|</GuestStars>
+  <GuestStars>Shirley Jones</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>An elderly couple, Ann and Norman McCormack, buy Grayson's old house after Jules promises them that they will all spend time together. Forced to hang out with the McCormacks, Ellie, Jules and Grayson soon discover that there are many perks to being old. Meanwhile, when another one of Bobby's get-rich-quick schemes doesn't pan out, he tries to switch up his luck by renaming his boat.  And Travis searches for the perfect partner to win a high-stakes penny can game. </Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>25</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>28</RatingCount>
   <SeasonNumber>4</SeasonNumber>
-  <Writer>|Melody Derloshon|</Writer>
+  <Writer>Melody Derloshon</Writer>
   <absolute_number>73</absolute_number>
   <filename>episodes/94991/4477983.jpg</filename>
-  <lastupdated>1395160672</lastupdated>
+  <lastupdated>1431152074</lastupdated>
   <seasonid>501079</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added></thumb_added>
@@ -3831,7 +3831,7 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director>|Randall Winston|</Director>
+  <Director>Randall Winston</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>The Criminal Kind</EpisodeName>
   <EpisodeNumber>13</EpisodeNumber>
@@ -3842,12 +3842,12 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <Overview>Inspired by &quot;The Breakfast Club,&quot; the Cul-De-Sac Crew offers insight into their innermost thoughts through voice-overs. Grayson is crushed after discovering some harsh reviews on Yelp. And Jules goes to extremes to prove she's not a goody-two-shoes, ultimately landing herself in grocery store jail.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>22</RatingCount>
+  <RatingCount>24</RatingCount>
   <SeasonNumber>4</SeasonNumber>
-  <Writer>|Sean Lavery|</Writer>
+  <Writer>Sean Lavery</Writer>
   <absolute_number>74</absolute_number>
   <filename>episodes/94991/4477984.jpg</filename>
-  <lastupdated>1395160715</lastupdated>
+  <lastupdated>1431151858</lastupdated>
   <seasonid>501079</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added></thumb_added>
@@ -3862,23 +3862,23 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director>|John Putch|</Director>
+  <Director>John Putch</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Don't Fade On Me</EpisodeName>
   <EpisodeNumber>14</EpisodeNumber>
   <FirstAired>2013-04-09</FirstAired>
-  <GuestStars>|Ken Jenkins|</GuestStars>
+  <GuestStars>Ken Jenkins</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>Chick comes to housesit while the gang goes on vacation. But when Jules discovers that her father hasn't been to the doctor in years, she insists on taking him. Laurie and Travis go on their first date as boyfriend and girlfriend. And Bobby is crushed to discover that Dog Travis is just using him for food.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>25</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>27</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Melody Derloshon|Blake McCormick|</Writer>
   <absolute_number>75</absolute_number>
   <filename>episodes/94991/4477985.jpg</filename>
-  <lastupdated>1395160760</lastupdated>
+  <lastupdated>1431152096</lastupdated>
   <seasonid>501079</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added></thumb_added>
@@ -3893,7 +3893,7 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director>|John Putch|</Director>
+  <Director>John Putch</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Have Love Will Travel</EpisodeName>
   <EpisodeNumber>15</EpisodeNumber>
@@ -3903,13 +3903,13 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <Language>en</Language>
   <Overview>After discovering that Chick has health issues, the gang decides to take him to Hollywood. Once there, they'll stop at nothing to arrange for him to spend an evening with one his favorite stars, Tippi Hedren. Meanwhile, Laurie and Travis try carefully to set up the perfect first kiss. And Andy is upset to discover that no one recognizes him as Latino.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>26</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>28</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Mary Fitzgerald|Peter Saji|</Writer>
   <absolute_number>76</absolute_number>
   <filename>episodes/94991/4477986.jpg</filename>
-  <lastupdated>1395160801</lastupdated>
+  <lastupdated>1431151925</lastupdated>
   <seasonid>501079</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added></thumb_added>
@@ -3924,7 +3924,7 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director>|Michael McDonald|</Director>
+  <Director>Michael McDonald</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>All or Nothin'</EpisodeName>
   <EpisodeNumber>1</EpisodeNumber>
@@ -3934,13 +3934,13 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <Language>en</Language>
   <Overview>The Cul de Sac Crew feels weird about Laurie and Travis dating, but Jules is determined to play it cool. Bobby and Andy make it big when Penny Can goes global. But when Bobby starts throwing around money, Grayson confronts him about years of unpaid bar tabs. Meanwhile, Andy struggles to get Stan to sleep after a slasher movie.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>21</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>24</RatingCount>
   <SeasonNumber>5</SeasonNumber>
-  <Writer>|Blake McCormick|</Writer>
+  <Writer>Blake McCormick</Writer>
   <absolute_number>77</absolute_number>
   <filename>episodes/94991/4643388.jpg</filename>
-  <lastupdated>1395161005</lastupdated>
+  <lastupdated>1431151769</lastupdated>
   <seasonid>527887</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added>2014-01-03 13:28:11</thumb_added>
@@ -3955,23 +3955,23 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director>|Brian Van Holt|</Director>
+  <Director>Brian Van Holt</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Like a Diamond</EpisodeName>
   <EpisodeNumber>2</EpisodeNumber>
   <FirstAired>2014-01-14</FirstAired>
-  <GuestStars>|Matthew Perry|</GuestStars>
+  <GuestStars>Matthew Perry</GuestStars>
   <IMDB_ID>tt3305070</IMDB_ID>
   <Language>en</Language>
   <Overview>After letting her car insurance lapse, Jules winds up in a car accident with an attractive man named Sam. When Jules notices that her wedding ring has fallen off during the fender bender she cannot resist accepting Sam's offer to take her on a date. Meanwhile, Bobby takes steps to prepare for a major snowstorm. But with only a 10% chance of snow, the weather has Travis concerned that his dad will be disappointed.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>16</RatingCount>
+  <RatingCount>21</RatingCount>
   <SeasonNumber>5</SeasonNumber>
-  <Writer>|Melody Derloshon|</Writer>
+  <Writer>Melody Derloshon</Writer>
   <absolute_number>78</absolute_number>
   <filename>episodes/94991/4736326.jpg</filename>
-  <lastupdated>1395161031</lastupdated>
+  <lastupdated>1431151747</lastupdated>
   <seasonid>527887</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added>2014-01-08 13:58:16</thumb_added>
@@ -3986,7 +3986,7 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director>|Courteney Cox|</Director>
+  <Director>Courteney Cox</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Depending on You</EpisodeName>
   <EpisodeNumber>3</EpisodeNumber>
@@ -3996,13 +3996,13 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <Language>en</Language>
   <Overview>Jules and Grayson receive a wedding invitation from a couple they barely know and on a date that conflicts with Grayson's roller-hockey finals. Despite Grayson's important plans, Jules simply cannot say no. Meanwhile, Bobby finds out that Dog Travis has puppies, and the crew discovers that Tom has created a model of the neighborhood with eerily lifelike dolls of everyone. </Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>15</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>18</RatingCount>
   <SeasonNumber>5</SeasonNumber>
-  <Writer>|Melody Derloshon|</Writer>
+  <Writer>Melody Derloshon</Writer>
   <absolute_number>79</absolute_number>
   <filename>episodes/94991/4720010.jpg</filename>
-  <lastupdated>1395161047</lastupdated>
+  <lastupdated>1431151866</lastupdated>
   <seasonid>527887</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added>2014-01-08 14:07:37</thumb_added>
@@ -4017,7 +4017,7 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director>|John Putch|</Director>
+  <Director>John Putch</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>The Trip to Pirate's Cove</EpisodeName>
   <EpisodeNumber>4</EpisodeNumber>
@@ -4028,12 +4028,12 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <Overview>The town of Gulf Haven is transformed into a pirate's cove for Buccaneer Week. Determined to step up his mayoral duties, Andy pleads with Ellie to appeal to tourists by bringing out her alter ego, Charming Ellie. Enamored by this new, lovable version of her best friend, Jules cannot get enough of &quot;Chellie.&quot; Meanwhile, Laurie starts baking &quot;naughty cakes&quot; to increase sales. </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>17</RatingCount>
+  <RatingCount>22</RatingCount>
   <SeasonNumber>5</SeasonNumber>
-  <Writer>|Peter Saji|</Writer>
+  <Writer>Peter Saji</Writer>
   <absolute_number>80</absolute_number>
   <filename>episodes/94991/4736323.jpg</filename>
-  <lastupdated>1395161067</lastupdated>
+  <lastupdated>1431151763</lastupdated>
   <seasonid>527887</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added>2014-01-10 13:19:29</thumb_added>
@@ -4048,23 +4048,23 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director>|John Putch|</Director>
+  <Director>John Putch</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Hard on Me</EpisodeName>
   <EpisodeNumber>5</EpisodeNumber>
   <FirstAired>2014-02-04</FirstAired>
-  <GuestStars>|Ken Jenkins|</GuestStars>
+  <GuestStars>Ken Jenkins</GuestStars>
   <IMDB_ID>tt3305080</IMDB_ID>
   <Language>en</Language>
   <Overview>Andy organizes a Gulf Haven 5k in an effort to save his reputation as Mayor after an embarrassing article comes out in the local paper. Jules uses the race to help her dad Chick get out of the house and relive his coaching days. But the crew struggles to get through his intense workouts. Meanwhile, Grayson fulfills his dream of being cast in a commercial; however, he's in for a big surprise when he receives his role.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>16</RatingCount>
+  <RatingCount>21</RatingCount>
   <SeasonNumber>5</SeasonNumber>
-  <Writer>|Mary Fitzgerald|</Writer>
+  <Writer>Mary Fitzgerald</Writer>
   <absolute_number>81</absolute_number>
   <filename>episodes/94991/4736324.jpg</filename>
-  <lastupdated>1395161086</lastupdated>
+  <lastupdated>1431151754</lastupdated>
   <seasonid>527887</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added>2014-01-14 12:22:17</thumb_added>
@@ -4079,7 +4079,7 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director>|John Putch|</Director>
+  <Director>John Putch</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Learning to Fly</EpisodeName>
   <EpisodeNumber>6</EpisodeNumber>
@@ -4089,13 +4089,13 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <Language>en</Language>
   <Overview>Laurie teaches Jules the rules of karma after Jules lies to customers at the annual cul-de-sac yard sale. Andy uses some of his new yard sale purchases to test Ellie after they make a bet that she can't refrain from being snarky for one day. Meanwhile, Bobby must overcome his fear of rollercoasters to fulfill his grandfather's dying wish.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>15</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>21</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>|Michael Lisbe|Nate Reger|</Writer>
   <absolute_number>82</absolute_number>
   <filename>episodes/94991/4736325.jpg</filename>
-  <lastupdated>1395161105</lastupdated>
+  <lastupdated>1431151696</lastupdated>
   <seasonid>527887</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added>2014-01-27 10:52:00</thumb_added>
@@ -4110,7 +4110,7 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director>|Sam Jones|</Director>
+  <Director>Sam Jones</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Time to Move On</EpisodeName>
   <EpisodeNumber>7</EpisodeNumber>
@@ -4121,12 +4121,12 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <Overview>With Travis graduating college in a few months, Jules starts to worry about his job prospects with an art degree. Laurie and Ellie pose as a lesbian couple in a desperate effort to get Stan into a fancy new school. Meanwhile, Andy insists on making a cat video with the guys for Bro-day.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>14</RatingCount>
+  <RatingCount>19</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>|Brad Morris|Emily Wilson|</Writer>
   <absolute_number>83</absolute_number>
   <filename>episodes/94991/4757129.jpg</filename>
-  <lastupdated>1396022488</lastupdated>
+  <lastupdated>1431152082</lastupdated>
   <seasonid>527887</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added>2014-01-27 10:57:20</thumb_added>
@@ -4141,7 +4141,7 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director>|Courteney Cox|</Director>
+  <Director>Courteney Cox</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Mystery of Love</EpisodeName>
   <EpisodeNumber>8</EpisodeNumber>
@@ -4151,13 +4151,13 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <Language>en</Language>
   <Overview>After Travis and Laurie have Jules and Grayson over for a sophisticated brunch, Jules attempts to prove that she and Grayson are the better couple. Andy plans a beach day for Stan so he will be considered a fun dad. Meanwhile, Tom helps Ellie finish a teen novel she started writing years ago.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>16</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>22</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>|Rachel Specter|Audrey Wauchope|</Writer>
   <absolute_number>84</absolute_number>
   <filename>episodes/94991/4757130.jpg</filename>
-  <lastupdated>1396024774</lastupdated>
+  <lastupdated>1431151718</lastupdated>
   <seasonid>527887</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added>2014-02-03 11:13:17</thumb_added>
@@ -4172,7 +4172,7 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director>|Josh Hopkins|</Director>
+  <Director>Josh Hopkins</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Too Much Ain't Enough</EpisodeName>
   <EpisodeNumber>9</EpisodeNumber>
@@ -4182,13 +4182,13 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <Language>en</Language>
   <Overview>After Jules receives a large commission check, she enlists Andy to be her business partner in a get-rich-quick scheme. Meanwhile, Grayson tries to seem cool to Travis's new hipster friends, and Bobby struggles to feel comfortable with his new bag.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>14</RatingCount>
+  <Rating>7.2</Rating>
+  <RatingCount>20</RatingCount>
   <SeasonNumber>5</SeasonNumber>
-  <Writer>|Sean Lavery|</Writer>
+  <Writer>Sean Lavery</Writer>
   <absolute_number>85</absolute_number>
   <filename>episodes/94991/4781137.jpg</filename>
-  <lastupdated>1396709468</lastupdated>
+  <lastupdated>1431152088</lastupdated>
   <seasonid>527887</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added>2014-02-18 10:02:32</thumb_added>
@@ -4203,23 +4203,23 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director>|John Putch|</Director>
+  <Director>John Putch</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Too Good To Be True</EpisodeName>
   <EpisodeNumber>10</EpisodeNumber>
   <FirstAired>2014-03-11</FirstAired>
-  <GuestStars>|Julianna Guill|</GuestStars>
+  <GuestStars>Julianna Guill</GuestStars>
   <IMDB_ID>tt3561686</IMDB_ID>
   <Language>en</Language>
   <Overview>Travis starts an open mic night at Coffee Bucks, but things go awry when Andy tries to do stand-up comedy. Tom's daughter Haylee comes to visit, and Grayson and Jules decide to play along when they discover that Tom's been lying to Haylee in order to make himself sound cool.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>8.1</Rating>
-  <RatingCount>12</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>18</RatingCount>
   <SeasonNumber>5</SeasonNumber>
-  <Writer>|Jen D'Angelo|</Writer>
+  <Writer>Jen D'Angelo</Writer>
   <absolute_number>86</absolute_number>
   <filename>episodes/94991/4781138.jpg</filename>
-  <lastupdated>1397577926</lastupdated>
+  <lastupdated>1431151798</lastupdated>
   <seasonid>527887</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added>2014-02-24 13:48:36</thumb_added>
@@ -4234,7 +4234,7 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director>|Michael McDonald|</Director>
+  <Director>Michael McDonald</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Refugee</EpisodeName>
   <EpisodeNumber>11</EpisodeNumber>
@@ -4244,13 +4244,13 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <Language>en</Language>
   <Overview>When Bobby's boat goes missing, Jules and Bobby step into their old crime fighting personas, &quot;Blacktop&quot; and &quot;Gumshoe&quot;, in order to solve the mystery. Meanwhile, Grayson helps Andy win over his new supervisor by teaching him &quot;the neg,&quot; and Laurie and Travis attempt to decorate her apartment together.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>16</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>20</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>|Michael Lisbe|Nate Reger|</Writer>
   <absolute_number>87</absolute_number>
   <filename>episodes/94991/4781139.jpg</filename>
-  <lastupdated>1398024318</lastupdated>
+  <lastupdated>1431152031</lastupdated>
   <seasonid>527887</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added>2014-02-24 13:51:32</thumb_added>
@@ -4265,7 +4265,7 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director>|Michael McDonald|</Director>
+  <Director>Michael McDonald</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Love is a Long Road</EpisodeName>
   <EpisodeNumber>12</EpisodeNumber>
@@ -4275,13 +4275,13 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <Language>en</Language>
   <Overview>As Chick deals with the fallout from his first Alzheimers symptoms, Jules convinces him to look at houses nearby.  Without meaning to, Grayson introduces the idea of Chick moving in with them, a suggestion he quickly regrets.  All the while, the Cul de Sac Crew excitedly prepares for Travis's college graduation which kicks off, among other things, a rivalry between Ellie and Laurie for who is #1 on Jules' most-important-friend list.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.9</Rating>
-  <RatingCount>14</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>18</RatingCount>
   <SeasonNumber>5</SeasonNumber>
-  <Writer>|Mary Fitzgerald|</Writer>
+  <Writer>Mary Fitzgerald</Writer>
   <absolute_number>88</absolute_number>
   <filename>episodes/94991/4781140.jpg</filename>
-  <lastupdated>1399113219</lastupdated>
+  <lastupdated>1431152109</lastupdated>
   <seasonid>527887</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added>2014-03-07 11:56:12</thumb_added>
@@ -4296,7 +4296,7 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director>|Courteney Cox|</Director>
+  <Director>Courteney Cox</Director>
   <EpImgFlag>7</EpImgFlag>
   <EpisodeName>We Stand a Chance</EpisodeName>
   <EpisodeNumber>13</EpisodeNumber>
@@ -4306,16 +4306,419 @@ Meanwhile, Travis' new girlfriend throws Bobby off his golf game, and Ellie gets
   <Language>en</Language>
   <Overview>After winning Cul de Sac Crew Trivia, Tom gets to pick the location of the next group vacation. The gang is less than thrilled, however, when Tom opts for a stay-cation. Meanwhile, Jules fakes being healthy at her annual physical exam and gets some shocking results. And Bobby accidentally signs Grayson and himself up for a breakdancing competition.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>13</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>18</RatingCount>
   <SeasonNumber>5</SeasonNumber>
-  <Writer>|Peter Saji|</Writer>
+  <Writer>Peter Saji</Writer>
   <absolute_number>89</absolute_number>
   <filename>episodes/94991/4781141.jpg</filename>
-  <lastupdated>1399224385</lastupdated>
+  <lastupdated>1431151873</lastupdated>
   <seasonid>527887</seasonid>
   <seriesid>94991</seriesid>
   <thumb_added>2014-04-01 20:44:55</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5039205</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>American Dream Plan B</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2015-01-06</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Jules agrees to stop drinking wine during Laurie's pregnancy, but the rest of the gang doesn't agree, so Tom opens up his garage as a speakeasy. Meanwhile, Grayson prepares Travis for fatherhood with the help of a baby pig.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>8</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/94991/5039205.jpg</filename>
+  <lastupdated>1431025874</lastupdated>
+  <seasonid>602370</seasonid>
+  <seriesid>94991</seriesid>
+  <thumb_added>2014-11-25 11:07:46</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5057213</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Full Grown Boy</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2015-01-13</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Jules is overprotective when Chick wants to go to his Civil War reenactment. Bobby considers a job opportunity in another state. Travis hates Laurie's choices for baby names and needs Ellie to destroy them.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.1</Rating>
+  <RatingCount>8</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/94991/5057213.jpg</filename>
+  <lastupdated>1431025883</lastupdated>
+  <seasonid>602370</seasonid>
+  <seriesid>94991</seriesid>
+  <thumb_added>2014-11-25 11:08:44</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5057214</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>To Find a Friend</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2015-01-20</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>When Grayson helps Andy with his tryouts for a new best friend, Jules and Ellie step in to run the bar. But they soon find it's harder than they thought. And Travis and Laurie spend their first weekend alone with Baby Bobby.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.1</Rating>
+  <RatingCount>7</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/94991/5057214.jpg</filename>
+  <lastupdated>1431025892</lastupdated>
+  <seasonid>602370</seasonid>
+  <seriesid>94991</seriesid>
+  <thumb_added>2014-11-25 11:09:41</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5077015</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Waiting For Tonight</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2015-01-27</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Jules and Grayson are determined to make it to their reservation at the hottest restaurant in town; Andy has trouble with a costume he rented for Stan's birthday; Ellie starts ghost-tweeting for Laurie and gets lost in a new identity.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>8</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/94991/5077015.jpg</filename>
+  <lastupdated>1431025903</lastupdated>
+  <seasonid>602370</seasonid>
+  <seriesid>94991</seriesid>
+  <thumb_added>2015-01-30 03:20:16</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5077016</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Even The Losers</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2015-02-03</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Jules lends Travis money to start a new business; Ellie takes Andy on a revenge mission; Grayson fills in as a music teacher at Stan's school.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>9</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/94991/5077016.jpg</filename>
+  <lastupdated>1431025914</lastupdated>
+  <seasonid>602370</seasonid>
+  <seriesid>94991</seriesid>
+  <thumb_added>2015-02-04 03:20:26</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5077017</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Wrong Thing To Do</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2015-02-10</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Jules agrees to coach Andy through his interviews; Ellie goes to Bobby's boat to escape Andy.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.2</Rating>
+  <RatingCount>9</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/94991/5077017.jpg</filename>
+  <lastupdated>1431025926</lastupdated>
+  <seasonid>602370</seasonid>
+  <seriesid>94991</seriesid>
+  <thumb_added>2015-02-15 04:01:53</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5077018</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Wild One, Forever</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2015-02-17</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>A hurricane floods a local high school gym; Jules volunteers Gray's Pub as a venue for their prom.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>8</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/94991/5077018.jpg</filename>
+  <lastupdated>1431025940</lastupdated>
+  <seasonid>602370</seasonid>
+  <seriesid>94991</seriesid>
+  <thumb_added>2015-02-17 11:22:03</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5077019</id>
+  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>This One's For Me</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2015-02-24</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Jules finds a bag of peculiar items Grayson has been hiding; Travis uses a baby gift for himself.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>8</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/94991/5077019.jpg</filename>
+  <lastupdated>1431025953</lastupdated>
+  <seasonid>602370</seasonid>
+  <seriesid>94991</seriesid>
+  <thumb_added>2015-02-17 11:22:18</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5077020</id>
+  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Two Men Talking</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2015-03-03</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Fearing that her dad, Chick, is lonely, Jules tries to set him up with Grayson as a best friend. Laurie helps Andy fit in with a cool mom group and Travis and Ellie open up to each other in the Winebulance.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>7</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/94991/5077020.jpg</filename>
+  <lastupdated>1426936312</lastupdated>
+  <seasonid>602370</seasonid>
+  <seriesid>94991</seriesid>
+  <thumb_added>2015-02-17 11:22:34</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5077021</id>
+  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Yer So Bad</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2015-03-10</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Jules invites Chick and his new girlfriend to a dinner party, but her guests aren't exactly who she expected. Travis and Laurie stake out a cupcake thief, and Andy and Ellie try to figure out who Tom's celebrity patient is.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>7</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/94991/5077021.jpg</filename>
+  <lastupdated>1428353228</lastupdated>
+  <seasonid>602370</seasonid>
+  <seriesid>94991</seriesid>
+  <thumb_added>2015-02-17 11:22:59</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5077022</id>
+  <Combined_episodenumber>11</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Climb That Hill</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired>2015-03-17</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>In the 100th episode, the gang takes on new personal challenges: Jules tries to read a book for the first time, Grayson tries to listen to his friends and remember what they have to say, and Andy tries to keep his hand out of a place it doesn't belong.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>7</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/94991/5077022.jpg</filename>
+  <lastupdated>1428667716</lastupdated>
+  <seasonid>602370</seasonid>
+  <seriesid>94991</seriesid>
+  <thumb_added>2015-02-17 11:23:12</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5127803</id>
+  <Combined_episodenumber>12</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>A Two Story Town</EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired>2015-03-24</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Everyone pitches in to help Tom with his new crush with disastrous results.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.3</Rating>
+  <RatingCount>6</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/94991/5127803.jpg</filename>
+  <lastupdated>1429272538</lastupdated>
+  <seasonid>602370</seasonid>
+  <seriesid>94991</seriesid>
+  <thumb_added>2015-02-17 11:23:25</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5127804</id>
+  <Combined_episodenumber>13</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Mary Jane's Last Dance</EpisodeName>
+  <EpisodeNumber>13</EpisodeNumber>
+  <FirstAired>2015-03-31</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Grayson tries to prevent Jules from running her birthday; everyone experiences major life changes.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>4</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/94991/5127804.jpg</filename>
+  <lastupdated>1429882338</lastupdated>
+  <seasonid>602370</seasonid>
+  <seriesid>94991</seriesid>
+  <thumb_added>2015-02-17 11:23:37</thumb_added>
   <thumb_height>225</thumb_height>
   <thumb_width>400</thumb_width>
 </Episode>

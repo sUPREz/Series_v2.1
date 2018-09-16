@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Data><Series>
   <id>260315</id>
-  <Actors>|Tatiana Maslany|Jordan Gavaris|Dylan Bruce|Michael Mando|Kevin Hanchard|Maria Doyle Kennedy|</Actors>
+  <Actors>|Tatiana Maslany|Jordan Gavaris|Ari Millen|Zoé De Grand Maison|Michael Mando|Kristian Bruun|Michiel Huisman|Évelyne Brochu|Skyler Wexler|Matt Frewer|Kevin Hanchard|Maria Doyle Kennedy|Dylan Bruce|</Actors>
   <Airs_DayOfWeek>Saturday</Airs_DayOfWeek>
   <Airs_Time>9:00 PM</Airs_Time>
   <ContentRating>TV-MA</ContentRating>
@@ -13,19 +13,19 @@
   <NetworkID></NetworkID>
   <Overview>“Orphan Black” follows outsider, orphan and street-wise chameleon Sarah. After witnessing a woman’s suicide, Sarah assumes the stranger’s identity, who happens to look just like her. Expecting to solve all her problems by cleaning out the dead woman’s savings, Sarah is instead thrust headlong into a kaleidoscopic mystery as she realizes the dizzying truth: she and the dead woman are clones.
 
-As Sarah searches for answers, she discovers the chilling fact that there are more people like her out there - genetically identical individuals who were planted in unsuspecting birth parents and nurtured in completely different circumstances. With no idea who created the clones, she’ll need to discover the reason in a hurry as an assassin is killing them one by one. </Overview>
-  <Rating>8.8</Rating>
-  <RatingCount>50</RatingCount>
+As Sarah searches for answers, she discovers the chilling fact that there are more people like her out there - genetically identical individuals who were planted in unsuspecting birth parents and nurtured in completely different circumstances. With no idea who created the clones, she’ll need to discover the reason in a hurry as an assassin is killing them one by one.</Overview>
+  <Rating>8.9</Rating>
+  <RatingCount>79</RatingCount>
   <Runtime>60</Runtime>
   <SeriesID>178173</SeriesID>
   <SeriesName>Orphan Black</SeriesName>
   <Status>Continuing</Status>
   <added>2012-06-28 12:05:42</added>
   <addedBy>360590</addedBy>
-  <banner>graphical/260315-g6.jpg</banner>
-  <fanart>fanart/original/260315-16.jpg</fanart>
-  <lastupdated>1405878225</lastupdated>
-  <poster>posters/260315-1.jpg</poster>
+  <banner>graphical/260315-g8.jpg</banner>
+  <fanart>fanart/original/260315-28.jpg</fanart>
+  <lastupdated>1435030464</lastupdated>
+  <poster>posters/260315-5.jpg</poster>
   <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>EP01634965</zap2it_id>
 </Series>
@@ -42,7 +42,7 @@ As Sarah searches for answers, she discovers the chilling fact that there are mo
   <EpisodeName>The Cloneversation</EpisodeName>
   <EpisodeNumber>1</EpisodeNumber>
   <FirstAired>2014-04-12</FirstAired>
-  <GuestStars>Wil Wheaton|Patton Oswalt|Orlando Jones</GuestStars>
+  <GuestStars>|Wil Wheaton|Patton Oswalt|Orlando Jones|</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>In this one-hour special, cast members, celebrity guests and hard-core fans gather to celebrate BBC AMERICA’s dramatic conspiracy thriller Orphan Black
@@ -57,7 +57,7 @@ Wil Wheaton hosts actress Tatiana Maslany, and clone club favorites Jordan Gavar
   <airsbefore_episode>1</airsbefore_episode>
   <airsbefore_season>2</airsbefore_season>
   <filename>episodes/260315/4850157.jpg</filename>
-  <lastupdated>1399110551</lastupdated>
+  <lastupdated>1430846409</lastupdated>
   <seasonid>495507</seasonid>
   <seriesid>260315</seriesid>
   <thumb_added>2014-04-13 03:23:43</thumb_added>
@@ -83,12 +83,12 @@ Wil Wheaton hosts actress Tatiana Maslany, and clone club favorites Jordan Gavar
   <Overview>Sarah, a streetwise hustler on the run from a lifetime of bad decisions, witnesses the suicide of a stranger who looks just like her. Sarah assumes her identity, hoping that cleaning out the dead woman’s bank account will solve all of her problems. Instead, the street smart chameleon is thrust headlong into a kaleidoscopic mystery. After taking on the new identity, Sarah quickly finds herself caught in the middle of a deadly conspiracy and must race to find answers.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>73</RatingCount>
+  <RatingCount>84</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Graeme Manson</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/260315/4352158.jpg</filename>
-  <lastupdated>1405068911</lastupdated>
+  <lastupdated>1430157354</lastupdated>
   <seasonid>495508</seasonid>
   <seriesid>260315</seriesid>
   <thumb_added></thumb_added>
@@ -114,12 +114,12 @@ Wil Wheaton hosts actress Tatiana Maslany, and clone club favorites Jordan Gavar
   <Overview>With a body in her car and nowhere to turn, Sarah is forced to continue her con and earn “Beth” a second chance on the force. But with a killer on her tail, her only hope of finding answers lies with another apparent ‘identical,’ Alison.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>60</RatingCount>
+  <RatingCount>69</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Graeme Manson</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/260315/4535490.jpg</filename>
-  <lastupdated>1405068924</lastupdated>
+  <lastupdated>1420728274</lastupdated>
   <seasonid>495508</seasonid>
   <seriesid>260315</seriesid>
   <thumb_added></thumb_added>
@@ -145,12 +145,12 @@ Wil Wheaton hosts actress Tatiana Maslany, and clone club favorites Jordan Gavar
   <Overview>Rocked by the revelation that she and her fellow &quot;Orphans&quot; are clones, Sarah just wants to get her hands on the money and skip town. But Sarah’s fake detective ruse stretches thin when the cops find the body she buried and assign “Beth” to the case. As Sarah closes in on the killer, the hunter becomes the hunted.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>57</RatingCount>
+  <RatingCount>66</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Graeme Manson</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/260315/4536409.jpg</filename>
-  <lastupdated>1405068936</lastupdated>
+  <lastupdated>1422333200</lastupdated>
   <seasonid>495508</seasonid>
   <seriesid>260315</seriesid>
   <thumb_added></thumb_added>
@@ -171,17 +171,17 @@ Wil Wheaton hosts actress Tatiana Maslany, and clone club favorites Jordan Gavar
   <EpisodeNumber>4</EpisodeNumber>
   <FirstAired>2013-04-20</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt2545702</IMDB_ID>
   <Language>en</Language>
   <Overview>Sarah realizes that the Orphans’ survival is going to take more than police work. But tracking the killer threatens Sarah’s long awaited reunion with her daughter, Kira. As Sarah gets closer to the killer, the killer gets closer to the truth – the ensuing showdown threatens to expose her ruse as a cop.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>57</RatingCount>
+  <RatingCount>66</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Karen Walton</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/260315/4536410.jpg</filename>
-  <lastupdated>1405068964</lastupdated>
+  <lastupdated>1432139246</lastupdated>
   <seasonid>495508</seasonid>
   <seriesid>260315</seriesid>
   <thumb_added></thumb_added>
@@ -207,12 +207,12 @@ Wil Wheaton hosts actress Tatiana Maslany, and clone club favorites Jordan Gavar
   <Overview>When terrifying evidence suggests the Orphans are part of a sinister ongoing experiment, Sarah’s suspicions turn to Paul, Beth’s boyfriend. But her probing inadvertently triggers Paul’s own investigation, bringing him dangerously close to the truth. Meanwhile, paranoid Alison piles on a whole new level of complication.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>58</RatingCount>
+  <RatingCount>67</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Alex Levine</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/260315/4536411.jpg</filename>
-  <lastupdated>1405068990</lastupdated>
+  <lastupdated>1430157365</lastupdated>
   <seasonid>495508</seasonid>
   <seriesid>260315</seriesid>
   <thumb_added></thumb_added>
@@ -233,17 +233,17 @@ Wil Wheaton hosts actress Tatiana Maslany, and clone club favorites Jordan Gavar
   <EpisodeNumber>6</EpisodeNumber>
   <FirstAired>2013-05-04</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt2639290</IMDB_ID>
   <Language>en</Language>
   <Overview>Sarah’s hunt for answers is interrupted by a trip to the suburbs. Alison’s paranoia has boiled over, putting all the Orphans at risk. But when Sarah, Alison and Beth’s worlds dangerously collide, Sarah must decide who to trust with her secret.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>57</RatingCount>
+  <RatingCount>65</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Will Pascoe</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/260315/4536412.jpg</filename>
-  <lastupdated>1405069011</lastupdated>
+  <lastupdated>1432139258</lastupdated>
   <seasonid>495508</seasonid>
   <seriesid>260315</seriesid>
   <thumb_added></thumb_added>
@@ -269,12 +269,12 @@ Wil Wheaton hosts actress Tatiana Maslany, and clone club favorites Jordan Gavar
   <Overview>With Paul missing, Sarah is forced to confront the conspiracy head on. But when Paul learns Sarah has kept essential information from him, the fragile trust between them threatens to shatter. Meanwhile, Cosima grows closer to Delphine and the dangerously fascinating Dr. Leekie.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>51</RatingCount>
+  <RatingCount>61</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Tony Elliott</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/260315/4536413.jpg</filename>
-  <lastupdated>1405069033</lastupdated>
+  <lastupdated>1422333283</lastupdated>
   <seasonid>495508</seasonid>
   <seriesid>260315</seriesid>
   <thumb_added></thumb_added>
@@ -295,17 +295,17 @@ Wil Wheaton hosts actress Tatiana Maslany, and clone club favorites Jordan Gavar
   <EpisodeNumber>8</EpisodeNumber>
   <FirstAired>2013-05-18</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt2639296</IMDB_ID>
   <Language>en</Language>
   <Overview>Sarah's actions pit the Orphans against each other as she tries to plan her next move. As Paul tries desperately to cover up Sarah’s existence, Alison takes vengeance on her suspected monitor, which could cost her everything she holds dear.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>46</RatingCount>
+  <RatingCount>56</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Karen Walton</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/260315/4536414.jpg</filename>
-  <lastupdated>1405069062</lastupdated>
+  <lastupdated>1432139272</lastupdated>
   <seasonid>495508</seasonid>
   <seriesid>260315</seriesid>
   <thumb_added></thumb_added>
@@ -325,18 +325,18 @@ Wil Wheaton hosts actress Tatiana Maslany, and clone club favorites Jordan Gavar
   <EpisodeName>Unconscious Selection</EpisodeName>
   <EpisodeNumber>9</EpisodeNumber>
   <FirstAired>2013-05-25</FirstAired>
-  <GuestStars>Matt Frewer|Skyler Wexler|Kristian Bruun|Melanie Nicholls-King|Inga Cadranel|Ron Lea|Evelyne Brochu|Daniel Kash|Natalie Lisinska</GuestStars>
+  <GuestStars>|Matt Frewer|Skyler Wexler|Kristian Bruun|Melanie Nicholls-King|Inga Cadranel|Ron Lea|Evelyne Brochu|Daniel Kash|Natalie Lisinska|</GuestStars>
   <IMDB_ID>tt2639302</IMDB_ID>
   <Language>en</Language>
   <Overview>After Kira’s life is threatened, Sarah is on the warpath, but Dr. Leekie makes her think twice about her plans for revenge. Meanwhile, Cosima faces the truth about Delphine, forcing her to choose sides. Now, it’s up to Sarah to decide the killer’s fate, but the truth about where Sarah came from changes everything.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>43</RatingCount>
+  <Rating>7.9</Rating>
+  <RatingCount>53</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Alex Levine</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/260315/4536415.jpg</filename>
-  <lastupdated>1405560522</lastupdated>
+  <lastupdated>1430846403</lastupdated>
   <seasonid>495508</seasonid>
   <seriesid>260315</seriesid>
   <thumb_added></thumb_added>
@@ -357,17 +357,17 @@ Wil Wheaton hosts actress Tatiana Maslany, and clone club favorites Jordan Gavar
   <EpisodeNumber>10</EpisodeNumber>
   <FirstAired>2013-06-01</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt2639304</IMDB_ID>
   <Language>en</Language>
   <Overview>Sarah’s last chance to bring her nemesis back to sanity slips away as Art intervenes to get answers of his own. Meanwhile, the Orphans must decide whether to make peace with their creators, as Sarah is forced into a deadly confrontation with their enemy.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.2</Rating>
-  <RatingCount>46</RatingCount>
+  <RatingCount>57</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Graeme Manson</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/260315/4536416.jpg</filename>
-  <lastupdated>1405069113</lastupdated>
+  <lastupdated>1432139287</lastupdated>
   <seasonid>495508</seasonid>
   <seriesid>260315</seriesid>
   <thumb_added></thumb_added>
@@ -382,7 +382,7 @@ Wil Wheaton hosts actress Tatiana Maslany, and clone club favorites Jordan Gavar
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director>|John Fawcett|</Director>
+  <Director>John Fawcett</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Nature Under Constraint and Vexed</EpisodeName>
   <EpisodeNumber>1</EpisodeNumber>
@@ -393,12 +393,12 @@ Wil Wheaton hosts actress Tatiana Maslany, and clone club favorites Jordan Gavar
   <Overview>Sarah is out of options, on the run, and pursued by deadly adversaries. Desperate to find her daughter Kira, Sarah suspects ruthless pro-clone Rachel is behind her daughter’s disappearance and sparks an all out war against her. Alison and Donnie attend the funeral of her fallen friend, Aynsley, causing Alison to sink into guilt and despair. Cosima is faced with a perplexing decision that may have dire consequences.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>32</RatingCount>
+  <RatingCount>46</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>|Graeme Manson|</Writer>
+  <Writer>Graeme Manson</Writer>
   <absolute_number>11</absolute_number>
   <filename>episodes/260315/4621874.jpg</filename>
-  <lastupdated>1400812839</lastupdated>
+  <lastupdated>1430870767</lastupdated>
   <seasonid>525661</seasonid>
   <seriesid>260315</seriesid>
   <thumb_added>2014-03-17 12:08:44</thumb_added>
@@ -424,12 +424,12 @@ Wil Wheaton hosts actress Tatiana Maslany, and clone club favorites Jordan Gavar
   <Overview>While Alison struggles with Aynsley's death and Cosima grapples with the worsening symptoms of her mysterious sickness, Sarah enlists Art’s help to find Kira and is shocked when she learns where the trail leads.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>26</RatingCount>
+  <RatingCount>38</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>Karen Walton|Graeme Manson</Writer>
+  <Writer>|Karen Walton|Graeme Manson|</Writer>
   <absolute_number>12</absolute_number>
   <filename>episodes/260315/4824705.jpg</filename>
-  <lastupdated>1400812792</lastupdated>
+  <lastupdated>1430870759</lastupdated>
   <seasonid>525661</seasonid>
   <seriesid>260315</seriesid>
   <thumb_added>2014-03-17 12:19:22</thumb_added>
@@ -446,7 +446,7 @@ Wil Wheaton hosts actress Tatiana Maslany, and clone club favorites Jordan Gavar
   <DVD_season></DVD_season>
   <Director>T.J. Scott</Director>
   <EpImgFlag>2</EpImgFlag>
-  <EpisodeName>Mingling Its Own Nature With It</EpisodeName>
+  <EpisodeName>Mingling Its Own Nature with It</EpisodeName>
   <EpisodeNumber>3</EpisodeNumber>
   <FirstAired>2014-05-03</FirstAired>
   <GuestStars></GuestStars>
@@ -455,12 +455,12 @@ Wil Wheaton hosts actress Tatiana Maslany, and clone club favorites Jordan Gavar
   <Overview>After hitting the road with Felix, Sarah is forced to turn to a ghost from her past — an old flame named Cal Morison. When their brief respite is brutally shattered, Sarah realizes that no matter how far she runs, it will never be far enough.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>25</RatingCount>
+  <RatingCount>39</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Alex Levine</Writer>
   <absolute_number>13</absolute_number>
   <filename>episodes/260315/4824706.jpg</filename>
-  <lastupdated>1400812806</lastupdated>
+  <lastupdated>1429142684</lastupdated>
   <seasonid>525661</seasonid>
   <seriesid>260315</seriesid>
   <thumb_added>2014-03-17 12:13:02</thumb_added>
@@ -485,13 +485,13 @@ Wil Wheaton hosts actress Tatiana Maslany, and clone club favorites Jordan Gavar
   <Language>en</Language>
   <Overview>Sarah comes home looking for answers, and with the help of Cosima, they begin digging into the origins of the clone experiment. The hunt for answers takes her right into the belly of the beast, but getting out could cost her more than she knows.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>17</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>29</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Russ Cochrane</Writer>
   <absolute_number>14</absolute_number>
   <filename>episodes/260315/4824707.jpg</filename>
-  <lastupdated>1400812772</lastupdated>
+  <lastupdated>1422333536</lastupdated>
   <seasonid>525661</seasonid>
   <seriesid>260315</seriesid>
   <thumb_added>2014-05-07 09:42:52</thumb_added>
@@ -516,13 +516,13 @@ Wil Wheaton hosts actress Tatiana Maslany, and clone club favorites Jordan Gavar
   <Language>en</Language>
   <Overview>Rachel goes on the warpath, lashing out at Sarah’s nearest and dearest. While she tries to keep her loved ones safe, an unexpected visitor threatens to derail Sarah’s plans.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>17</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>31</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Tony Elliott</Writer>
   <absolute_number>15</absolute_number>
   <filename>episodes/260315/4868801.jpg</filename>
-  <lastupdated>1400812759</lastupdated>
+  <lastupdated>1422333588</lastupdated>
   <seasonid>525661</seasonid>
   <seriesid>260315</seriesid>
   <thumb_added>2014-05-12 12:03:08</thumb_added>
@@ -548,12 +548,12 @@ Wil Wheaton hosts actress Tatiana Maslany, and clone club favorites Jordan Gavar
   <Overview>Sarah joins forces with an unlikely and untrustworthy ally, following a trail of clues that she hopes will lead her to the origins of the clone experiment. Cosima and Delphine make a discovery that could prove to be the key to treating her illness. Alison finds herself in unsavory company at rehab.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>18</RatingCount>
+  <RatingCount>32</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Chris Roberts</Writer>
   <absolute_number>16</absolute_number>
   <filename>episodes/260315/4872786.jpg</filename>
-  <lastupdated>1401024557</lastupdated>
+  <lastupdated>1422333631</lastupdated>
   <seasonid>525661</seasonid>
   <seriesid>260315</seriesid>
   <thumb_added>2014-05-20 02:02:18</thumb_added>
@@ -579,12 +579,12 @@ Wil Wheaton hosts actress Tatiana Maslany, and clone club favorites Jordan Gavar
   <Overview>When a rehab confidante betrays Alison and threatens to expose the truth about Aynsley’s death, she goes into free fall on the eve of Family Day. With Donnie and the kids set to visit, it’s all clones on deck to contain the fallout.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>18</RatingCount>
+  <RatingCount>31</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Aubrey Nealon</Writer>
   <absolute_number>17</absolute_number>
   <filename>episodes/260315/4876623.jpg</filename>
-  <lastupdated>1401664738</lastupdated>
+  <lastupdated>1422333830</lastupdated>
   <seasonid>525661</seasonid>
   <seriesid>260315</seriesid>
   <thumb_added>2014-05-27 12:24:04</thumb_added>
@@ -609,13 +609,13 @@ Wil Wheaton hosts actress Tatiana Maslany, and clone club favorites Jordan Gavar
   <Language>en</Language>
   <Overview>A new player in the clone conspiracy turns up at Felix’s door, sending him into crisis mode. With Cosima running out of options, Sarah struggles with the decision to surrender a crucial piece of leverage and make a deal with Dyad.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.3</Rating>
-  <RatingCount>16</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>30</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Karen Walton</Writer>
   <absolute_number>18</absolute_number>
   <filename>episodes/260315/4880307.jpg</filename>
-  <lastupdated>1402229353</lastupdated>
+  <lastupdated>1422333861</lastupdated>
   <seasonid>525661</seasonid>
   <seriesid>260315</seriesid>
   <thumb_added>2014-06-02 12:17:07</thumb_added>
@@ -630,7 +630,7 @@ Wil Wheaton hosts actress Tatiana Maslany, and clone club favorites Jordan Gavar
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director>TJ Scott</Director>
+  <Director>T.J. Scott</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Things Which Have Never Yet Been Done</EpisodeName>
   <EpisodeNumber>9</EpisodeNumber>
@@ -640,13 +640,13 @@ Wil Wheaton hosts actress Tatiana Maslany, and clone club favorites Jordan Gavar
   <Language>en</Language>
   <Overview>Cosima takes a turn for the worse, forcing Sarah to take desperate action which results in tragic consequences for those she loves. The Proletheans set their ultimate plan in motion, while Alison and Donnie tangle with the law.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.3</Rating>
-  <RatingCount>15</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>30</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Alex Levine</Writer>
   <absolute_number>19</absolute_number>
   <filename>episodes/260315/4880308.jpg</filename>
-  <lastupdated>1402917728</lastupdated>
+  <lastupdated>1422333878</lastupdated>
   <seasonid>525661</seasonid>
   <seriesid>260315</seriesid>
   <thumb_added>2014-06-09 12:14:15</thumb_added>
@@ -671,16 +671,326 @@ Wil Wheaton hosts actress Tatiana Maslany, and clone club favorites Jordan Gavar
   <Language>en</Language>
   <Overview>The war with Dyad is all but lost when Rachel’s latest ploy forces a broken Sarah to concede. The Clone Club springs into action, uniting in a reckless gambit to save Sarah. As they fight to gain their freedom, Sarah encounters a new ally and uncovers a terrifying new dimension to the conspiracy.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.0</Rating>
-  <RatingCount>14</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>30</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Graeme Manson</Writer>
   <absolute_number>20</absolute_number>
   <filename>episodes/260315/4880309.jpg</filename>
-  <lastupdated>1403431246</lastupdated>
+  <lastupdated>1422333907</lastupdated>
   <seasonid>525661</seasonid>
   <seriesid>260315</seriesid>
   <thumb_added>2014-06-16 10:58:20</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5076292</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>David Frazee</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Weight of This Combination</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2015-04-18</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3859370</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Sarah pursues the missing Helena who is held in a faraway compound. Sarah must use her wiles – and acting chops – to deter a Topside investigator who threatens the Leda sisters’ lives. Meanwhile, Cosima appears to be rebounding from her illness, while Alison and Donnie face newfound financial woes. But when the menace of Castor rears its head once more, Sarah and her entire family must come together to survive.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>11</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Graeme Manson</Writer>
+  <absolute_number>21</absolute_number>
+  <filename>episodes/260315/5076292.jpg</filename>
+  <lastupdated>1430319205</lastupdated>
+  <seasonid>606625</seasonid>
+  <seriesid>260315</seriesid>
+  <thumb_added>2015-03-24 12:23:08</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5147778</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>John Fawcett</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Transitory Sacrifices of Crisis</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2015-04-25</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt4277160</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Castor pursues the Leda clones for original tissue samples. Helena, who is pregnant and imprisoned, is examined by a mysterious new villain. The Castor boys are also out to play, toying with a frightened young woman, Patty, in a sexy switcheroo that ultimately sets Sarah – and Art – hot on the Castor trail. But it’s not all fun and games for the Castor boys, as Sarah gleans they may have a mysterious defect that puts their lives in peril.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.2</Rating>
+  <RatingCount>9</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Aubrey Nealon</Writer>
+  <absolute_number>22</absolute_number>
+  <filename>episodes/260315/5147778.jpg</filename>
+  <lastupdated>1430308537</lastupdated>
+  <seasonid>606625</seasonid>
+  <seriesid>260315</seriesid>
+  <thumb_added>2015-03-24 12:23:28</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5167017</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>John Fawcett</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Formalized, Complex, and Costly</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2015-05-02</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt4277162</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Leda and Castor are both on the hunt for original clone DNA. On-the-lam, Mark and Gracie pursue new leads to find the samples that might set them free, while Art and Sarah reunite to track them down. Meanwhile, Cosima and Scott try to learn more about Castor’s biology and Alison’s new money-making venture is going gangbusters. A shocking revelation about the Castor-Leda connection leaves the sisters reeling, just before Sarah witnesses a deadly Prolethean-Castor face-off.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>8</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Chris Roberts</Writer>
+  <absolute_number>23</absolute_number>
+  <filename>episodes/260315/5167017.jpg</filename>
+  <lastupdated>1430658410</lastupdated>
+  <seasonid>606625</seasonid>
+  <seriesid>260315</seriesid>
+  <thumb_added>2015-03-24 12:23:47</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5201059</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Chris Grismer</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Newer Elements of Our Defense</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2015-05-09</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt4226074</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Mark is taken down in a Prolethean shoot-out and Sarah must step in to help. But as Sarah gathers intel that puts her on the trail of the original Castor DNA, a familiar foe is not far behind. While Helena continues to toil in a faraway military compound, it is ultimately Sarah’s fate that will hang in the balance as she tries to save her sister. Meanwhile, Gracie is cast out from the Prolethean fold, and Alison and Donnie come face-to-face with unhappy drug lord, Jason Kellerman.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>7</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Russ Cochrane</Writer>
+  <absolute_number>24</absolute_number>
+  <filename>episodes/260315/5201059.jpg</filename>
+  <lastupdated>1431293770</lastupdated>
+  <seasonid>606625</seasonid>
+  <seriesid>260315</seriesid>
+  <thumb_added>2015-05-04 11:21:38</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5201060</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>David Frazee</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Scarred by Many Past Frustrations</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2015-05-16</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt4277164</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Helena and Sarah are reunited at the Castor camp. As Sarah suffers testing, Paul appears to chide her; but his allegiances are beginning to strain. While the Leda family worries about Sarah’s absence, Gracie ‘breaks loose’ under the care of Mrs. S and an unwilling Felix. Cosima falls hard for an internet date, Shay.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.3</Rating>
+  <RatingCount>6</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Alex Levine</Writer>
+  <absolute_number>25</absolute_number>
+  <filename>episodes/260315/5201060.jpg</filename>
+  <lastupdated>1431832507</lastupdated>
+  <seasonid>606625</seasonid>
+  <seriesid>260315</seriesid>
+  <thumb_added>2015-05-11 16:58:42</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5201061</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Helen Shaver</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Certain Agony of the Battlefield</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2015-05-23</FirstAired>
+  <GuestStars>Justin Chatwin</GuestStars>
+  <IMDB_ID>tt4277166</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Paul digs and finds the ugly truth behind the Castor Boys’ logbooks of names, pushing him into action. Meanwhile, Felix is desperate for info on Sarah’s whereabouts, and presses the still-ailing Rachel for any shred of a lead. In order for Donnie and Alison to take their money-making endeavor to the “next level” she must introduce Jason Kellerman to her unique business plan.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.3</Rating>
+  <RatingCount>6</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Aubrey Nealon</Writer>
+  <absolute_number>26</absolute_number>
+  <filename>episodes/260315/5201061.jpg</filename>
+  <lastupdated>1432447426</lastupdated>
+  <seasonid>606625</seasonid>
+  <seriesid>260315</seriesid>
+  <thumb_added>2015-05-18 10:16:13</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5209789</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Ken Girotti</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Community of Dreadful Fear and Hate</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2015-05-30</FirstAired>
+  <GuestStars>Justin Chatwin</GuestStars>
+  <IMDB_ID>tt4277168</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Alison must secure a store front in order to take her and Donnie’s business to the “next level”. But things don’t go according to plan when her mother, Connie, proves to be a major hindrance. Cosima is facing familiar health issues and calls upon beleaguered Alison for a favor. But with Alison working to save an imperiled Donnie from the merciless hands of a drug lord, it’s Cosima who ends up doing a favor. An unassuming Scott gets closer to the greatest discovery of all, when he sits down with beleaguered clone Rachel.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>6</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Sherry White</Writer>
+  <absolute_number>27</absolute_number>
+  <filename>episodes/260315/5209789.jpg</filename>
+  <lastupdated>1433066386</lastupdated>
+  <seasonid>606625</seasonid>
+  <seriesid>260315</seriesid>
+  <thumb_added>2015-05-30 17:59:22</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5209790</id>
+  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Aaron Morton</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Ruthless in Purpose, and Insidious in Method</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2015-06-06</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>When Rachel makes a promise to Sarah, it comes with a hefty price. Meanwhile, Helena and Gracie work with the Hendrixes, and Donnie takes Kellerman to task. Over at Castor, Coady and Benchman scheme to track down the Castor Original, and Rudy descends on DYAD for a much needed asset.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>5</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Graeme Manson|Chris Roberts</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/260315/5209790.jpg</filename>
+  <lastupdated>1433714681</lastupdated>
+  <seasonid>606625</seasonid>
+  <seriesid>260315</seriesid>
+  <thumb_added>2015-05-31 03:40:13</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5209791</id>
+  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Vincenzo Natali</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Insolvent Phantom of Tomorrow</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2015-06-13</FirstAired>
+  <GuestStars>Ksenia Solo</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Sarah, Felix and Mrs. S take a trip with the hopes of tracking down the Castor Original. But they are not alone. Back home, Donnie tries to save the family business when Pouchy defects, but it is Helena who manages to secure a “full refund.” Meanwhile, Cosima becomes suspicious of Shay, and Delphine takes the matter into her own hands. But nothing will ever be the same again when Leda finally finds what they’ve been looking for.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>6</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Russ Cochrane</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/260315/5209791.jpg</filename>
+  <lastupdated>1434287085</lastupdated>
+  <seasonid>606625</seasonid>
+  <seriesid>260315</seriesid>
+  <thumb_added>2015-06-11 12:04:27</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5209792</id>
+  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>John Fawcett</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>History Yet to Be Written</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2015-06-20</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>As Clone Club races towards the truth, Castor and Topside force Sarah to make uneasy alliances. But there is some rest for the wicked, when Donnie gives Helena an unexpected ‘gift’, and the results of Alison’s candidacy finally come in. Even as team Leda takes a moment to breathe, change is afoot and a life hangs in the balance.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.2</Rating>
+  <RatingCount>6</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Graeme Manson</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/260315/5209792.jpg</filename>
+  <lastupdated>1434863435</lastupdated>
+  <seasonid>606625</seasonid>
+  <seriesid>260315</seriesid>
+  <thumb_added>2015-06-15 08:54:09</thumb_added>
   <thumb_height>225</thumb_height>
   <thumb_width>400</thumb_width>
 </Episode>

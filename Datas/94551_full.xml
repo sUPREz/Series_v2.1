@@ -13,20 +13,20 @@
   <NetworkID></NetworkID>
   <Overview>From writer/executive producer Jason Katims, this contemporary re-imagining of the blockbuster 1989 film depicts the colorful and imperfect Braverman family -- four grown siblings sharing the headaches, heartaches and joy of being parents.
 When Sarah Braverman, a financially strapped single mother, returns home to her parents and siblings in Berkeley, California after packing up her Fresno apartment and uprooting her two inconvenienced kids, Amber and Drew, she is greeted by her opinionated father, Zeek, and strong mother, Camille, who are privately dealing with their own marital issues. As Sarah is reunited with her siblings -- sister Julia and brothers Crosby and Adam -- all struggling with issues of their own, it's clear that the Braverman reunion is just what they need to face the everyday challenges of modern family life.</Overview>
-  <Rating>8.4</Rating>
-  <RatingCount>31</RatingCount>
+  <Rating>8.2</Rating>
+  <RatingCount>34</RatingCount>
   <Runtime>60</Runtime>
   <SeriesID>76680</SeriesID>
   <SeriesName>Parenthood (2010)</SeriesName>
-  <Status>Continuing</Status>
+  <Status>Ended</Status>
   <added>2009-05-16 12:42:03</added>
   <addedBy>5664</addedBy>
   <banner>graphical/94551-g3.jpg</banner>
   <fanart>fanart/original/94551-10.jpg</fanart>
-  <lastupdated>1405540077</lastupdated>
+  <lastupdated>1434714359</lastupdated>
   <poster>posters/94551-2.jpg</poster>
   <tms_wanted_old>1</tms_wanted_old>
-  <zap2it_id>SH01154163</zap2it_id>
+  <zap2it_id>EP01154163</zap2it_id>
 </Series>
 <Episode>
   <id>3290951</id>
@@ -85,7 +85,7 @@ When Sarah Braverman, a financially strapped single mother, returns home to her 
   <SeasonNumber>0</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
-  <airsafter_season>2</airsafter_season>
+  <airsafter_season></airsafter_season>
   <airsbefore_episode>1</airsbefore_episode>
   <airsbefore_season>3</airsbefore_season>
   <filename></filename>
@@ -122,15 +122,83 @@ The “Parenthood” webisodes were written by Julia Cox (part 1), Monica Mitche
   <Writer>Julia Cox (part 1), Monica Mitchell (part 2), Aaron Brownstein &amp; Simon Ganz (part 3) and Adam Karp (part 4)</Writer>
   <absolute_number></absolute_number>
   <airsafter_season></airsafter_season>
-  <airsbefore_episode>15</airsbefore_episode>
-  <airsbefore_season>5</airsbefore_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
   <filename>episodes/94551/4806089.jpg</filename>
-  <lastupdated>1393179318</lastupdated>
+  <lastupdated>1424267418</lastupdated>
   <seasonid>66171</seasonid>
   <seriesid>94551</seriesid>
   <thumb_added>2014-02-23 10:10:39</thumb_added>
   <thumb_height>225</thumb_height>
   <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5133160</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Season 2 Sneak Peak</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2010-09-07</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Parenthood returns this fall. Same people, new challenges. Watch this video for a behind the scenes look at the upcoming season premiering September 14, 2010 on NBC.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode>1</airsbefore_episode>
+  <airsbefore_season>2</airsbefore_season>
+  <filename></filename>
+  <lastupdated>1424267484</lastupdated>
+  <seasonid>66171</seasonid>
+  <seriesid>94551</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5133164</id>
+  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>It Has to Be Now</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2014-02-28</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Features guest stars Jesse Plemons and Derek Phillips who reprise their &quot;Friday Night Lights&quot; roles when &quot;Parenthood's&quot; Amber (Mae Whitman) is tasked with keeping an eye on her cousin Max (Max Burkholder) while also working after hours at the Luncheonette. Then the band Crucifictorious shows up...</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode>16</airsbefore_episode>
+  <airsbefore_season>5</airsbefore_season>
+  <filename></filename>
+  <lastupdated>1424267712</lastupdated>
+  <seasonid>66171</seasonid>
+  <seriesid>94551</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
 </Episode>
 <Episode>
   <id>657691</id>
@@ -555,7 +623,7 @@ The “Parenthood” webisodes were written by Julia Cox (part 1), Monica Mitche
   <Overview>Kristina tries to teach Haddie how to drive while Adam tries to find a balance between his work and personal life. Joel and Julia must explain the birds and the bees to Sydney. Zeek works with Joel to fix a leaky roof in the guest house.</Overview>
   <ProductionCode>201</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>11</RatingCount>
+  <RatingCount>12</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Jason Katims</Writer>
   <absolute_number></absolute_number>
@@ -1518,8 +1586,8 @@ The “Parenthood” webisodes were written by Julia Cox (part 1), Monica Mitche
   <Language>en</Language>
   <Overview>An inappropriate moment at work disrupts Adam and Kristina’s  marriage. Meanwhile, Crosby and Jasmine  reconnect after clearing up Jabbar’s misunderstanding of their relationship. In an attempt to boost his college applications, Drew seeks out extracurricular activities and Amber is uncertain about her future. Also, a meeting with Zoe’s boyfriend may jeopardize Julia  and Joel’s adoption plan.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.2</Rating>
-  <RatingCount>16</RatingCount>
+  <Rating>7.1</Rating>
+  <RatingCount>17</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Monica Henderson</Writer>
   <absolute_number></absolute_number>
@@ -1550,7 +1618,7 @@ The “Parenthood” webisodes were written by Julia Cox (part 1), Monica Mitche
   <Overview>Kristina and Adam discover harsh consequences come with two full-time jobs; Crosby and Jasmine confront their relationship issues and Sarah and Mark think about future plans.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>10</RatingCount>
+  <RatingCount>11</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Sarah Watson</Writer>
   <absolute_number></absolute_number>
@@ -1581,7 +1649,7 @@ The “Parenthood” webisodes were written by Julia Cox (part 1), Monica Mitche
   <Overview>Zeek decides to go on a road trip to visit his mother for her 86th birthday and the whole family tags along. However, the disaster bound trip doesn't prove as troublesome as the birthday girl. </Overview>
   <ProductionCode></ProductionCode>
   <Rating>6.8</Rating>
-  <RatingCount>12</RatingCount>
+  <RatingCount>13</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>David Hudgins</Writer>
   <absolute_number></absolute_number>
@@ -1612,7 +1680,7 @@ The “Parenthood” webisodes were written by Julia Cox (part 1), Monica Mitche
   <Overview>Crosby is frustrated when Adam unexpectedly steals the spotlight for a local newspaper's piece on the Luncheonette. Meanwhile, Amber struggles in a new job and Sarah becomes overwhelmed with thoughts of having a baby. Also, Julia and Joel try to resist interfering in Zoe's personal life.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.1</Rating>
-  <RatingCount>14</RatingCount>
+  <RatingCount>15</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Jamie Duneier</Writer>
   <absolute_number></absolute_number>
@@ -1643,7 +1711,7 @@ The “Parenthood” webisodes were written by Julia Cox (part 1), Monica Mitche
   <Overview>Zeek gets shocking news from his doctor; Crosby advances on a new relationship; Amber's boss's actions confuse her; Adam and Kristina become concerned about the cost of college; Julia worries Zoe will want to keep her baby.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>17</RatingCount>
+  <RatingCount>18</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Eric Guggenheim</Writer>
   <absolute_number></absolute_number>
@@ -1704,13 +1772,13 @@ The “Parenthood” webisodes were written by Julia Cox (part 1), Monica Mitche
   <Language>en</Language>
   <Overview>Julia struggles to detach herself from getting too involved in Zoe's life, Kristina reacts to Amber and Bob Little's plans to go off on a weekend business trip together and Max tries to use his Asperger's as an excuse to get out of P.E. Meanwhile, Sarah and Mark's plan to have a baby elicits an unexpected reaction from Drew.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>8.1</Rating>
-  <RatingCount>9</RatingCount>
+  <Rating>8.0</Rating>
+  <RatingCount>10</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Monica Henderson</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/94551/4264713.jpg</filename>
-  <lastupdated>1397332489</lastupdated>
+  <lastupdated>1406355816</lastupdated>
   <seasonid>466534</seasonid>
   <seriesid>94551</seriesid>
   <thumb_added></thumb_added>
@@ -1735,13 +1803,13 @@ The “Parenthood” webisodes were written by Julia Cox (part 1), Monica Mitche
   <Language>en</Language>
   <Overview>The Bravermans come together to celebrate a momentous event while Julia and Joel strive to overcome the emotional rollercoaster adopting a child has put them through. Also, Crosby and Adam decide on the fate of The Luncheonette and Sarah makes a difficult decision about her future.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>8.0</Rating>
-  <RatingCount>9</RatingCount>
+  <Rating>7.9</Rating>
+  <RatingCount>10</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Kerry Ehrin</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/94551/4264714.jpg</filename>
-  <lastupdated>1397332508</lastupdated>
+  <lastupdated>1406355848</lastupdated>
   <seasonid>466534</seasonid>
   <seriesid>94551</seriesid>
   <thumb_added></thumb_added>
@@ -1767,12 +1835,12 @@ The “Parenthood” webisodes were written by Julia Cox (part 1), Monica Mitche
   <Overview>The Bravermans come together to celebrate a momentous event while Julia and Joel strive to overcome the emotional rollercoaster adopting a child has put them through. Also, Crosby and Adam decide on the fate of The Luncheonette and Sarah makes a difficult decision about her future.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>8</RatingCount>
+  <RatingCount>9</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Jason Katims</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/94551/4264715.jpg</filename>
-  <lastupdated>1397332563</lastupdated>
+  <lastupdated>1406355878</lastupdated>
   <seasonid>466534</seasonid>
   <seriesid>94551</seriesid>
   <thumb_added></thumb_added>
@@ -1797,13 +1865,13 @@ The “Parenthood” webisodes were written by Julia Cox (part 1), Monica Mitche
   <Language>en</Language>
   <Overview>As Haddie prepares to head off to college, the Bravermans gather for a family portrait; Joel and Julia worry about the behavior of their newly adopted son; Sarah tries to impress a photographer with her skills as an assistant.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>9</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>10</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Jason Katims</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/94551/4343852.jpg</filename>
-  <lastupdated>1397332602</lastupdated>
+  <lastupdated>1407958960</lastupdated>
   <seasonid>494643</seasonid>
   <seriesid>94551</seriesid>
   <thumb_added></thumb_added>
@@ -1828,13 +1896,13 @@ The “Parenthood” webisodes were written by Julia Cox (part 1), Monica Mitche
   <Language>en</Language>
   <Overview>Jasmine and Crosby define the boundaries of their marriage; Sarah's new boss (Ray Romano) helps her understand Drew's feelings; Kristina receives potentially life-altering news.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>9</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>10</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>David Hudgins</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/94551/4386886.jpg</filename>
-  <lastupdated>1380049739</lastupdated>
+  <lastupdated>1407959211</lastupdated>
   <seasonid>494643</seasonid>
   <seriesid>94551</seriesid>
   <thumb_added></thumb_added>
@@ -1865,7 +1933,7 @@ The “Parenthood” webisodes were written by Julia Cox (part 1), Monica Mitche
   <Writer>Bridget Carpenter</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/94551/4386887.jpg</filename>
-  <lastupdated>1381302407</lastupdated>
+  <lastupdated>1409405078</lastupdated>
   <seasonid>494643</seasonid>
   <seriesid>94551</seriesid>
   <thumb_added></thumb_added>
@@ -1896,7 +1964,7 @@ The “Parenthood” webisodes were written by Julia Cox (part 1), Monica Mitche
   <Writer>Sarah Watson</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/94551/4386888.jpg</filename>
-  <lastupdated>1381866315</lastupdated>
+  <lastupdated>1409405103</lastupdated>
   <seasonid>494643</seasonid>
   <seriesid>94551</seriesid>
   <thumb_added></thumb_added>
@@ -1927,7 +1995,7 @@ The “Parenthood” webisodes were written by Julia Cox (part 1), Monica Mitche
   <Writer>Jason Katims</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/94551/4386889.jpg</filename>
-  <lastupdated>1382514309</lastupdated>
+  <lastupdated>1409405157</lastupdated>
   <seasonid>494643</seasonid>
   <seriesid>94551</seriesid>
   <thumb_added></thumb_added>
@@ -1958,7 +2026,7 @@ The “Parenthood” webisodes were written by Julia Cox (part 1), Monica Mitche
   <Writer>Sarah Goldfinger</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/94551/4414977.jpg</filename>
-  <lastupdated>1383079183</lastupdated>
+  <lastupdated>1409405200</lastupdated>
   <seasonid>494643</seasonid>
   <seriesid>94551</seriesid>
   <thumb_added></thumb_added>
@@ -1989,7 +2057,7 @@ The “Parenthood” webisodes were written by Julia Cox (part 1), Monica Mitche
   <Writer>Eric Guggenheim</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/94551/4414978.jpg</filename>
-  <lastupdated>1384162661</lastupdated>
+  <lastupdated>1409405224</lastupdated>
   <seasonid>494643</seasonid>
   <seriesid>94551</seriesid>
   <thumb_added></thumb_added>
@@ -2020,7 +2088,7 @@ The “Parenthood” webisodes were written by Julia Cox (part 1), Monica Mitche
   <Writer>Monica Henderson</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/94551/4432899.jpg</filename>
-  <lastupdated>1384547590</lastupdated>
+  <lastupdated>1409405258</lastupdated>
   <seasonid>494643</seasonid>
   <seriesid>94551</seriesid>
   <thumb_added></thumb_added>
@@ -2051,7 +2119,7 @@ The “Parenthood” webisodes were written by Julia Cox (part 1), Monica Mitche
   <Writer>Bridget Carpenter</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/94551/4437781.jpg</filename>
-  <lastupdated>1385386207</lastupdated>
+  <lastupdated>1409405291</lastupdated>
   <seasonid>494643</seasonid>
   <seriesid>94551</seriesid>
   <thumb_added></thumb_added>
@@ -2113,7 +2181,7 @@ The “Parenthood” webisodes were written by Julia Cox (part 1), Monica Mitche
   <Writer>|Jason Katims|</Writer>
   <absolute_number>64</absolute_number>
   <filename>episodes/94551/4437783.jpg</filename>
-  <lastupdated>1386144234</lastupdated>
+  <lastupdated>1413919401</lastupdated>
   <seasonid>494643</seasonid>
   <seriesid>94551</seriesid>
   <thumb_added></thumb_added>
@@ -2144,7 +2212,7 @@ The “Parenthood” webisodes were written by Julia Cox (part 1), Monica Mitche
   <Writer>|David Hudgins|</Writer>
   <absolute_number>65</absolute_number>
   <filename>episodes/94551/4437784.jpg</filename>
-  <lastupdated>1386492021</lastupdated>
+  <lastupdated>1413919449</lastupdated>
   <seasonid>494643</seasonid>
   <seriesid>94551</seriesid>
   <thumb_added></thumb_added>
@@ -2175,7 +2243,7 @@ The “Parenthood” webisodes were written by Julia Cox (part 1), Monica Mitche
   <Writer>Sarah Watson</Writer>
   <absolute_number>66</absolute_number>
   <filename>episodes/94551/4437785.jpg</filename>
-  <lastupdated>1387527885</lastupdated>
+  <lastupdated>1415654517</lastupdated>
   <seasonid>494643</seasonid>
   <seriesid>94551</seriesid>
   <thumb_added></thumb_added>
@@ -2206,7 +2274,7 @@ The “Parenthood” webisodes were written by Julia Cox (part 1), Monica Mitche
   <Writer>Bridget Carpenter</Writer>
   <absolute_number>67</absolute_number>
   <filename>episodes/94551/4454972.jpg</filename>
-  <lastupdated>1387875126</lastupdated>
+  <lastupdated>1415654433</lastupdated>
   <seasonid>494643</seasonid>
   <seriesid>94551</seriesid>
   <thumb_added></thumb_added>
@@ -2237,7 +2305,7 @@ The “Parenthood” webisodes were written by Julia Cox (part 1), Monica Mitche
   <Writer>Jason Katims</Writer>
   <absolute_number>68</absolute_number>
   <filename>episodes/94551/4454973.jpg</filename>
-  <lastupdated>1388912791</lastupdated>
+  <lastupdated>1415654611</lastupdated>
   <seasonid>494643</seasonid>
   <seriesid>94551</seriesid>
   <thumb_added></thumb_added>
@@ -2268,7 +2336,7 @@ The “Parenthood” webisodes were written by Julia Cox (part 1), Monica Mitche
   <Writer>Jason Katims</Writer>
   <absolute_number>69</absolute_number>
   <filename>episodes/94551/4554310.jpg</filename>
-  <lastupdated>1392807323</lastupdated>
+  <lastupdated>1434714283</lastupdated>
   <seasonid>518379</seasonid>
   <seriesid>94551</seriesid>
   <thumb_added>2013-08-13 14:15:03</thumb_added>
@@ -2299,7 +2367,7 @@ The “Parenthood” webisodes were written by Julia Cox (part 1), Monica Mitche
   <Writer>David Hudgins</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/94551/4657607.jpg</filename>
-  <lastupdated>1392807337</lastupdated>
+  <lastupdated>1434714408</lastupdated>
   <seasonid>518379</seasonid>
   <seriesid>94551</seriesid>
   <thumb_added>2013-09-12 19:36:45</thumb_added>
@@ -2826,7 +2894,7 @@ The “Parenthood” webisodes were written by Julia Cox (part 1), Monica Mitche
   <Writer>Jason Katims</Writer>
   <absolute_number>87</absolute_number>
   <filename>episodes/94551/4827327.jpg</filename>
-  <lastupdated>1396218573</lastupdated>
+  <lastupdated>1412030795</lastupdated>
   <seasonid>518379</seasonid>
   <seriesid>94551</seriesid>
   <thumb_added>2014-03-20 16:47:30</thumb_added>
@@ -2934,27 +3002,399 @@ The “Parenthood” webisodes were written by Julia Cox (part 1), Monica Mitche
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>TBA</EpisodeName>
+  <Director>Lawrence Trilling</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Vegas</EpisodeName>
   <EpisodeNumber>1</EpisodeNumber>
   <FirstAired>2014-09-25</FirstAired>
   <GuestStars></GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
+  <Overview>Sarah takes Zeek on a birthday trip to Las Vegas; facing a life change, Amber struggles to navigate adulthood; the family helps Adam and Kristina prepare their charter school for opening.</Overview>
   <ProductionCode></ProductionCode>
   <Rating></Rating>
   <RatingCount>0</RatingCount>
   <SeasonNumber>6</SeasonNumber>
-  <Writer></Writer>
+  <Writer>Jason Katims</Writer>
   <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1401735279</lastupdated>
+  <filename>episodes/94551/4884977.jpg</filename>
+  <lastupdated>1411762871</lastupdated>
   <seasonid>585761</seasonid>
   <seriesid>94551</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-09-07 11:49:53</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4992213</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Lawrence Trilling</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Happy Birthday, Zeek</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2014-10-02</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Kristina tries to meet the individual needs of her students, and the school's lunch vendor quits suddenly; Zeek must make a decision about his health; Sarah struggles with her feelings about Amber's news.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>Sarah Watson</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/94551/4992213.jpg</filename>
+  <lastupdated>1412519418</lastupdated>
+  <seasonid>585761</seasonid>
+  <seriesid>94551</seriesid>
+  <thumb_added>2014-09-20 21:32:31</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4998465</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Patrick Norris</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Waiting Room</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2014-10-09</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Camille and the kids anxiously await news about Zeek. Julia confronts Joel about their relationship status. Amber decides to face her future and Drew supports her. Sarah tries to bond with Ruby and finds herself in a sticky blended family situation. When the Luncheonette gets some unfortunate news, work pressures mount atop all the family stress, and Adam is in worst-case-scenario mode. Emotionally wracked Crosby seeks an escape.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>9.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>Jessica Goldberg</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/94551/4998465.jpg</filename>
+  <lastupdated>1412924544</lastupdated>
+  <seasonid>585761</seasonid>
+  <seriesid>94551</seriesid>
+  <thumb_added>2014-10-03 23:54:34</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5002503</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Peter Krause</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>A Potpourri of Freaks</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2014-10-16</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Max meets a new friend who means more to him than Kristina and Adam initially expect. After an awkward run-in with Sandy, Sarah tries to understand her place in Ruby's life, and conflict-averse Hank must test out his diplomacy skills. Julia and Joel fear that the uncertainty of their separation is harming their children. Crosby tries to avert crisis at the Lunchonette by chasing down Oliver, who has gone off-the-grid.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>Ian Deitchman|Kristin Rusk Robinson</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/94551/5002503.jpg</filename>
+  <lastupdated>1413526213</lastupdated>
+  <seasonid>585761</seasonid>
+  <seriesid>94551</seriesid>
+  <thumb_added>2014-10-11 17:01:43</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5002504</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Bethany Rooney</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Scale of Affection Is Fluid</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2014-10-23</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Max gathers intel on his new friend in search of common ground. Though Kristina fears he'll get his heart broken, he is more determined than ever to pursue this new relationship -- especially after some botched advice from Adam. Amber makes an unexpected connection and finds herself smitten. Julia's new love interest shows up at the family BBQ and runs into Joel. Crosby lets loose with Zeek and Jasmine grows concerned about her husband.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>Jesse Zwick</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/94551/5002504.jpg</filename>
+  <lastupdated>1414132714</lastupdated>
+  <seasonid>585761</seasonid>
+  <seriesid>94551</seriesid>
+  <thumb_added>2014-10-20 00:37:21</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5013513</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Jessica Yu</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Too Big to Fail</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2014-10-30</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Business is slow at the Luncheonette, and Crosby feels the financial pressure. He fears that he'll disappoint Jabbar until Jasmine comes to the rescue. Hank and Sarah plan an ill-fated game night that fails to win over Ruby, but Amber steps up to help. Drew must declare a major, and he confronts the practical realities of choosing a career.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>Ian Deitchman|Kristin Rusk Robinson</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/94551/5013513.jpg</filename>
+  <lastupdated>1414820142</lastupdated>
+  <seasonid>585761</seasonid>
+  <seriesid>94551</seriesid>
+  <thumb_added>2014-10-17 14:01:18</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5018826</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Eric Galileo Tignini</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>These Are the Times We Live In</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2014-11-06</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Amber hopes to prove herself as a future mother when she agrees to babysit Max and Nora, but the results are disastrous. Sarah comes to Amber's side for support. Joel and Julia make strides toward a final decision on their relationship. Hank has a heart-to-heart with Sandy, who is surprised and moved by how Hank has grown. Meanwhile, Drew is guilted into hanging out with Zeek, and an unexpected adventure draws Drew away from his studies.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>Sarah Watson</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/94551/5018826.jpg</filename>
+  <lastupdated>1415342925</lastupdated>
+  <seasonid>585761</seasonid>
+  <seriesid>94551</seriesid>
+  <thumb_added>2014-10-26 00:34:52</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5027919</id>
+  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Lawrence Trilling</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Aaron Brownstein Must Be Stopped</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2014-11-13</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>After a heartbreaking discovery, Max wages a propaganda campaign against another Chambers Academy student. Kristina shields Max from punishment at school, but she can't save him from the pain of young love. Amidst financial troubles at the Luncheonette, Jasmine takes a job to support her family, and Crosby feels like a failure. Hank must put his foot down when Ruby abuses his trust. Amber suffers some pregnancy pains with Crosby by her side.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>Jessica Goldberg</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/94551/5027919.jpg</filename>
+  <lastupdated>1415943936</lastupdated>
+  <seasonid>585761</seasonid>
+  <seriesid>94551</seriesid>
+  <thumb_added>2014-11-09 18:44:53</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5034637</id>
+  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Lawrence Trilling</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Lean In</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2014-11-20</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Tension between Dylan and Max reaches a fever pitch at the Chambers' Academy Open House. Kristina and Adam find themselves tangled in the conflict. Hank is thrilled to see Ruby excited about her school play, but an unexpected encounter with Mark Cyr rocks the boat. Meanwhile, Zeek recruits Drew for help with a secret mission.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>Jesse Zwick</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/94551/5034637.jpg</filename>
+  <lastupdated>1416547064</lastupdated>
+  <seasonid>585761</seasonid>
+  <seriesid>94551</seriesid>
+  <thumb_added>2014-11-18 19:14:53</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5050798</id>
+  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Michael Weaver</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>How Did We Get Here?</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2015-01-08</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Zeek is rushed to the hospital and the entire family hurries to his side. As Adam and Crosby nervously await news of Zeek's health, a serious emergency at The Luncheonette pulls them away. At the hospital, Joel sticks by Julia, offering unwavering support, and further blurring the lines of their relationship.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>Jason Katims</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/94551/5050798.jpg</filename>
+  <lastupdated>1420777901</lastupdated>
+  <seasonid>585761</seasonid>
+  <seriesid>94551</seriesid>
+  <thumb_added>2014-12-18 12:12:26</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5052240</id>
+  <Combined_episodenumber>11</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Allison Liddi-Brown</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Let's Go Home</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired>2015-01-15</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Zeek and Camille discover a bundle of old rolls of film, and they ask Max to develop the mysterious photos. Sarah overanalyzes Hank’s offer with Julia, and the sisters spew their relationship fears. Adam decides the future of the Luncheonette with Crosby, but Jasmine unexpectedly intervenes.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>Sarah Watson</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/94551/5052240.jpg</filename>
+  <lastupdated>1421421117</lastupdated>
+  <seasonid>585761</seasonid>
+  <seriesid>94551</seriesid>
+  <thumb_added>2015-01-06 15:10:42</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5052241</id>
+  <Combined_episodenumber>12</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Jason Katims</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>We Made It Through the Night</EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired>2015-01-22</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Camille and Zeek make a decision concerning Zeek's health. Sarah makes a big decision and shares some good news with her dad. Adam and Crosby clash over differing business opinions, and Adam stands his ground, deepening the tension between the brothers. Amber rushes to the hospital with labor pains, and the Bravermans flock to her side.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>Jason Katims</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/94551/5052241.jpg</filename>
+  <lastupdated>1421990281</lastupdated>
+  <seasonid>585761</seasonid>
+  <seriesid>94551</seriesid>
+  <thumb_added>2015-01-14 19:16:13</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5052242</id>
+  <Combined_episodenumber>13</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Lawrence Trilling</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>May God Bless and Keep You Always</EpisodeName>
+  <EpisodeNumber>13</EpisodeNumber>
+  <FirstAired>2015-01-29</FirstAired>
+  <GuestStars>Matt Lauria</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>In the excitement of her big day, Sarah surrounds herself with the original Braverman clan. Meanwhile, Hank approaches Zeek for his blessing and asks Drew for a special favor. Amber adjusts to life as a new mom with a little help from her grandparents. Julia and Joel get a phone call that forces a life-changing decision. Max gets his first job, while Crosby and Adam reach an understanding about the Luncheonette. Kristina presents Adam with a new plan for the future of Chambers Academy, and for their family.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>Jason Katims</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/94551/5052242.jpg</filename>
+  <lastupdated>1422748353</lastupdated>
+  <seasonid>585761</seasonid>
+  <seriesid>94551</seriesid>
+  <thumb_added>2015-01-26 12:04:44</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 </Data>

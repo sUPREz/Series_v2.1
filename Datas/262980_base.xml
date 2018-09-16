@@ -2,9 +2,9 @@
 <Data>
   <Series>
     <id>262980</id>
-    <Actors>|Kevin Spacey|Robin Wright|Kate Mara|Ben Daniels|Sandrine Holt|Mahershala Ali|Boris McGiver|Michel Gill|Sebastian Arcelus|Constance Zimmer|Kristen Connolly|Sakina Jaffrey|Michael Kelly|Corey Stoll|</Actors>
+    <Actors>|Kevin Spacey|Robin Wright|Michael Kelly|Dan Ziskie|Nathan Darrow|Ben Daniels|Sandrine Holt|Mahershala Ali|Boris McGiver|Michel Gill|Sebastian Arcelus|Constance Zimmer|Kristen Connolly|Sakina Jaffrey|Corey Stoll|Kate Mara|</Actors>
     <Airs_DayOfWeek>Friday</Airs_DayOfWeek>
-    <Airs_Time>12:01 AM</Airs_Time>
+    <Airs_Time>3:01 AM</Airs_Time>
     <ContentRating>TV-MA</ContentRating>
     <FirstAired>2013-02-01</FirstAired>
     <Genre>|Drama|</Genre>
@@ -12,21 +12,20 @@
     <Language>en</Language>
     <Network>Netflix</Network>
     <NetworkID></NetworkID>
-    <Overview>House of Cards is an American political drama series developed and produced by Beau Willimon. It is an adaptation of a previous BBC miniseries of the same name which is based on the novel by Michael Dobbs.
-Set in present day Washington, D.C., House of Cards is the story of Frank Underwood (Kevin Spacey), a Democrat from South Carolina's 5th congressional district and the House Majority Whip, who, after getting passed over for promotion to Secretary of State, decides to exact his revenge on those who betrayed him. The series also stars Robin Wright, Kate Mara and Corey Stoll in lead roles.</Overview>
-    <Rating>9.0</Rating>
-    <RatingCount>77</RatingCount>
-    <Runtime>60</Runtime>
+    <Overview>Ruthless and cunning, Congressman Francis Underwood and his wife Claire stop at nothing to conquer everything. This wicked political drama penetrates the shadowy world of greed, sex and corruption in modern D.C.</Overview>
+    <Rating>8.9</Rating>
+    <RatingCount>117</RatingCount>
+    <Runtime>55</Runtime>
     <SeriesID>81065</SeriesID>
     <SeriesName>House of Cards (US)</SeriesName>
     <Status>Continuing</Status>
     <added>2012-10-04 16:08:09</added>
     <addedBy>79791</addedBy>
-    <banner>graphical/262980-g4.jpg</banner>
-    <fanart>fanart/original/262980-2.jpg</fanart>
-    <lastupdated>1405865645</lastupdated>
+    <banner>graphical/262980-g7.jpg</banner>
+    <fanart>fanart/original/262980-11.jpg</fanart>
+    <lastupdated>1434876324</lastupdated>
     <poster>posters/262980-3.jpg</poster>
     <tms_wanted_old>1</tms_wanted_old>
-    <zap2it_id>EP01676454</zap2it_id>
+    <zap2it_id>SH01676454</zap2it_id>
   </Series>
 </Data>

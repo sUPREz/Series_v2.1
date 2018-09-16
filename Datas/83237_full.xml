@@ -2,8 +2,8 @@
 <Data><Series>
   <id>83237</id>
   <Actors>|Robert Carlyle|Justin Louis|Brian J. Smith|David Blue|Lou Diamond Phillips|Elyse Levesque|Jamil Walker Smith|Alaina Huffman|Ming-Na|Richard Dean Anderson|Patrick Gilmore|Haig Sutherland|Jennifer Spence|Mark Burgess|Peter Kelamis|Julia Benson|</Actors>
-  <Airs_DayOfWeek>Monday</Airs_DayOfWeek>
-  <Airs_Time>9:00 PM</Airs_Time>
+  <Airs_DayOfWeek></Airs_DayOfWeek>
+  <Airs_Time></Airs_Time>
   <ContentRating>TV-14</ContentRating>
   <FirstAired>2009-10-02</FirstAired>
   <Genre>|Action|Adventure|Science-Fiction|</Genre>
@@ -13,7 +13,7 @@
   <NetworkID></NetworkID>
   <Overview>The previously unknown purpose of the ninth chevron is revealed and takes a group of refugees on a one-way trip to a millions of years old Ancient-built ship. Led by Dr. Nicolas Rush and Colonel Everett Young, the refugees are trapped on the ship, unable to change its programmed mission.</Overview>
   <Rating>8.3</Rating>
-  <RatingCount>314</RatingCount>
+  <RatingCount>324</RatingCount>
   <Runtime>45</Runtime>
   <SeriesID>76070</SeriesID>
   <SeriesName>Stargate Universe</SeriesName>
@@ -22,8 +22,8 @@
   <addedBy>4506</addedBy>
   <banner>graphical/83237-g4.jpg</banner>
   <fanart>fanart/original/83237-4.jpg</fanart>
-  <lastupdated>1402869044</lastupdated>
-  <poster>posters/83237-8.jpg</poster>
+  <lastupdated>1433970304</lastupdated>
+  <poster>posters/83237-13.jpg</poster>
   <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>SH1183982</zap2it_id>
 </Series>
@@ -1270,7 +1270,7 @@
   <Overview>When Icarus Base is attacked, it's inhabitants are forced to flee through the Stargate. The base was created on a distant planet to take advantage of a powerful energy supply located there. Their goal is to try and determine the purpose of the mysterious ninth symbol of the Stargate which they have never been able to lock in. In going through the Stargate, they are transported not to Earth but onto an very old, apparently uninhabited but huge spacecraft. With the group's commander injured, Lt. Scott and the chief scientist, Dr. Nicholas Rush lead the exploration of the craft. Several areas of the ship have been damaged but it is basically functional. They are able to learn that they are in fact billions of light years from Earth.</Overview>
   <ProductionCode>101</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>133</RatingCount>
+  <RatingCount>136</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Brad Wright &amp; Robert C. Cooper</Writer>
   <absolute_number></absolute_number>
@@ -1301,12 +1301,12 @@
   <Overview>The survivors arrive on an uninhabited ship floating billions of light years away from Earth. Panic spreads throughout the group and Col. Young, who was severely injured during the escape, transfers command to Lt. Matthew Scott, before lapsing into unconsciousness. Teams led by Dr. Rush and Sgt. Greer try to make sense of the situation, while Lt. Tamara Johansen, a medic who was days away from leaving the program, is thrust into the role of chief medical officer.</Overview>
   <ProductionCode>102</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>44</RatingCount>
+  <RatingCount>45</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Brad Wright &amp; Robert C. Cooper</Writer>
   <absolute_number>2</absolute_number>
   <filename>episodes/83237/418911.jpg</filename>
-  <lastupdated>1302467506</lastupdated>
+  <lastupdated>1415527449</lastupdated>
   <seasonid>38594</seasonid>
   <seriesid>83237</seriesid>
   <thumb_added></thumb_added>
@@ -1332,7 +1332,7 @@
   <Overview>With the air supply failing on the Destiny, a team disembarks to a desert-like planet in search of the mineral needed to scrub the ship’s air of carbon dioxide. After testing numerous sand samples without success, and with their window of opportunity closing fast, the group opts to split into two to cover more ground, despite the unbearable heat.</Overview>
   <ProductionCode>103</ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>106</RatingCount>
+  <RatingCount>109</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Brad Wright|Robert C. Cooper|</Writer>
   <absolute_number>3</absolute_number>
@@ -1363,7 +1363,7 @@
   <Overview>The Destiny suffers a power crisis, putting the lives of the stranded crew in jeopardy and forcing them to consider abandoning the ship.</Overview>
   <ProductionCode>104</ProductionCode>
   <Rating>7.1</Rating>
-  <RatingCount>104</RatingCount>
+  <RatingCount>107</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Brad Wright</Writer>
   <absolute_number>4</absolute_number>
@@ -1394,7 +1394,7 @@
   <Overview>With the ship on a collision course, the crew must decide who will stay and who will flee on the shuttle to try and find a habitable planet.</Overview>
   <ProductionCode>105</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>102</RatingCount>
+  <RatingCount>105</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Brad Wright</Writer>
   <absolute_number>5</absolute_number>
@@ -1425,7 +1425,7 @@
   <Overview>Severe rationing can't save the Destiny's dwindling water supply, forcing Colonel Young and Lieutenant Scott to seek out drinkable water on a deadly ice planet.</Overview>
   <ProductionCode>106</ProductionCode>
   <Rating>7.1</Rating>
-  <RatingCount>102</RatingCount>
+  <RatingCount>105</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Carl Binder</Writer>
   <absolute_number>6</absolute_number>
@@ -1456,7 +1456,7 @@
   <Overview>With the situation onboard the Destiny dire, General O'Neill and Home World Command orders Col. Young to execute a high risk plan concocted by the I.O.A. scientists which, in theory, could return the crew to earth.</Overview>
   <ProductionCode>107</ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>103</RatingCount>
+  <RatingCount>105</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Martin Gero</Writer>
   <absolute_number>7</absolute_number>
@@ -1487,7 +1487,7 @@
   <Overview>Visiting a newly discovered jungle planet, the crew is amazed to recover a Kino by the gate. Downloading the Kino data, Eli discovers video of the team, which appears to have been shot during an earlier visit. The mystery of the video’s origin becomes a secondary concern as members of the team start falling ill.</Overview>
   <ProductionCode>108</ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>101</RatingCount>
+  <RatingCount>104</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Robert C. Cooper</Writer>
   <absolute_number>8</absolute_number>
@@ -1518,7 +1518,7 @@
   <Overview>Aboard Destiny, Dr. Rush supervises the exploration of new areas of the ship. Looking for resources to make their everyday lives easier, the crew stumbles upon a piece of Ancient technology that carries the promise of a way home. While somewhat familiar with the find, Dr. Rush can’t guarantee the safety of using it, bringing him and Col. Young to a standoff on what to do.</Overview>
   <ProductionCode>109</ProductionCode>
   <Rating>6.9</Rating>
-  <RatingCount>111</RatingCount>
+  <RatingCount>114</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Carl Binder</Writer>
   <absolute_number>9</absolute_number>
@@ -1549,7 +1549,7 @@
   <Overview>Everyone is shocked when a member of the crew is found dead from a gunshot wound. While at first glance it appears to be suicide, the gun is nowhere to be found. The crew is confined to quarters while a search is performed and when the gun shows up in Col. Young’s quarters, he becomes the number one suspect.</Overview>
   <ProductionCode>110</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>118</RatingCount>
+  <RatingCount>121</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Alan McCullough</Writer>
   <absolute_number>10</absolute_number>
@@ -1580,7 +1580,7 @@
   <Overview>A snafu with the communications stones lands Col. Young's consciousness in an unknown being, resulting in a standoff between the Destiny and an alien vessel and the abduction of Chloe.</Overview>
   <ProductionCode>111</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>160</RatingCount>
+  <RatingCount>163</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Joseph Mallozzi</Writer>
   <absolute_number>11</absolute_number>
@@ -1611,7 +1611,7 @@
   <Overview>Dr. Nicholas Rush and Chloe suffer nightmares following their ordeal on the alien vessel, and Rush suspects that a tracking device may have been placed on the ship's hull. Later, a splinter group on Destiny executes a coup with life-threatening consequences.</Overview>
   <ProductionCode>112</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>158</RatingCount>
+  <RatingCount>161</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Joseph Mallozzi|Paul Mullie|</Writer>
   <absolute_number>12</absolute_number>
@@ -1642,7 +1642,7 @@
   <Overview>Dr. Rush struggles to determine why Destiny has no record of this star system while Col. Young directs Lt. Scott and a small team to shuttle down to the planet's surface on a fact finding mission. Upon landing, everyone is amazed to discover that the atmosphere and terrain are idyllic. Relishing the sunshine, fresh air, clean water and abundance of food, many are reluctant to return to the ship, believing that providence has intervened.</Overview>
   <ProductionCode>113</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>154</RatingCount>
+  <RatingCount>158</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Denis McGrath</Writer>
   <absolute_number>13</absolute_number>
@@ -1673,7 +1673,7 @@
   <Overview>The episode focuses on Nicholas Rush, who risks his life from an experiment involving the ship's computer, and flashes back to the time when he was recruited into the Stargate Program. His now dead wife, Gloria Rush, will be appear in these flashbacks, as will Michael Shanks as Daniel Jackson.</Overview>
   <ProductionCode>114</ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>153</RatingCount>
+  <RatingCount>156</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Jeff Vlaming</Writer>
   <absolute_number></absolute_number>
@@ -1704,7 +1704,7 @@
   <Overview>Trapped on a planet in rubble and left for dead, Ronald Greer must do everything he can to save himself. His ordeal brings back tragic memories of his past with his abusive father and loving mother.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>158</RatingCount>
+  <RatingCount>161</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Martin Gero</Writer>
   <absolute_number></absolute_number>
@@ -1735,7 +1735,7 @@
   <Overview>When one of the twelve FTL drive modules on the Destiny explodes due to an overload, the crew calls upon a brilliant scientist from Earth to help find a solution.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>153</RatingCount>
+  <RatingCount>154</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Barbara Marshall</Writer>
   <absolute_number></absolute_number>
@@ -1765,8 +1765,8 @@
   <Language>en</Language>
   <Overview>Dr. Tamara Johansen tries to track down what is causing the crew to hallucinate.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.1</Rating>
-  <RatingCount>149</RatingCount>
+  <Rating>7.0</Rating>
+  <RatingCount>152</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Carl Binder</Writer>
   <absolute_number></absolute_number>
@@ -1797,7 +1797,7 @@
   <Overview>Earth's Stargate Program isn't the only group in the Milky Way that's interested in the Ancients' Destiny. What's worse, this long-time foe may have a spy among those closest to the Icarus project.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>150</RatingCount>
+  <RatingCount>151</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Carl Binder</Writer>
   <absolute_number></absolute_number>
@@ -1828,7 +1828,7 @@
   <Overview>An enemy from the Milky Way has boarded the Destiny and has taken hostages. Is it possible that they know how to get back or have they stranded themselves as well?</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>151</RatingCount>
+  <RatingCount>154</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Paul Mullie</Writer>
   <absolute_number></absolute_number>
@@ -1859,7 +1859,7 @@
   <Overview>As Young and Camille attempt to resolve the hostage crisis with Kiva, Destiny suffers from power fluctuations and blackouts due to its proximity to a binary pulsar.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>152</RatingCount>
+  <RatingCount>154</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Joseph Mallozzi</Writer>
   <absolute_number></absolute_number>
@@ -1890,12 +1890,12 @@
   <Overview>Everett and the crew continue their efforts to save Destiny while holding off the Lucian Alliance invaders.</Overview>
   <ProductionCode>202</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>167</RatingCount>
+  <RatingCount>170</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Paul Mullie</Writer>
   <absolute_number>21</absolute_number>
   <filename>episodes/83237/1798981.jpg</filename>
-  <lastupdated>1389056580</lastupdated>
+  <lastupdated>1422533026</lastupdated>
   <seasonid>202101</seasonid>
   <seriesid>83237</seriesid>
   <thumb_added></thumb_added>
@@ -1921,12 +1921,12 @@
   <Overview>Desperate for food and water, Rush directs the ship to a planet that has been locked out of Destiny's controls. Young and Wray clash over what to do with the Alliance prisoners.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>169</RatingCount>
+  <RatingCount>172</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Robert C. Cooper</Writer>
-  <absolute_number></absolute_number>
+  <absolute_number>22</absolute_number>
   <filename>episodes/83237/1798991.jpg</filename>
-  <lastupdated>1402831710</lastupdated>
+  <lastupdated>1422533010</lastupdated>
   <seasonid>202101</seasonid>
   <seriesid>83237</seriesid>
   <thumb_added></thumb_added>
@@ -1952,12 +1952,12 @@
   <Overview>The crew encounters a ship remarkably similar to Destiny, which may hold the key to their returning home.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>153</RatingCount>
+  <RatingCount>155</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Joseph Mallozzi</Writer>
-  <absolute_number></absolute_number>
+  <absolute_number>23</absolute_number>
   <filename>episodes/83237/1799001.jpg</filename>
-  <lastupdated>1402831815</lastupdated>
+  <lastupdated>1422532994</lastupdated>
   <seasonid>202101</seasonid>
   <seriesid>83237</seriesid>
   <thumb_added></thumb_added>
@@ -1983,12 +1983,12 @@
   <Overview>Chloe behaves in a bizarre way, prompting a search of her quarters, where Lt. Scott finds a journal penned in an alien language. Elsewhere, Eli copes with his mother's medical condition.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>167</RatingCount>
+  <RatingCount>168</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Carl Binder</Writer>
-  <absolute_number></absolute_number>
+  <absolute_number>24</absolute_number>
   <filename>episodes/83237/1799011.jpg</filename>
-  <lastupdated>1402832136</lastupdated>
+  <lastupdated>1422532977</lastupdated>
   <seasonid>202101</seasonid>
   <seriesid>83237</seriesid>
   <thumb_added></thumb_added>
@@ -2014,12 +2014,12 @@
   <Overview>When Scott's team explores a new planet, a plant-like organism infects the lieutenant, causing him to hallucinate a life back on Earth where he is getting married.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.0</Rating>
-  <RatingCount>163</RatingCount>
+  <RatingCount>164</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Brad Wright</Writer>
-  <absolute_number></absolute_number>
+  <absolute_number>25</absolute_number>
   <filename>episodes/83237/1799021.jpg</filename>
-  <lastupdated>1402832125</lastupdated>
+  <lastupdated>1422532960</lastupdated>
   <seasonid>202101</seasonid>
   <seriesid>83237</seriesid>
   <thumb_added></thumb_added>
@@ -2045,12 +2045,12 @@
   <Overview>Young is plagued by mysterious dreams where Destiny is destroyed by alien attackers no matter what he does.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>166</RatingCount>
+  <RatingCount>167</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Paul Mullie|Joseph Mallozzi</Writer>
-  <absolute_number></absolute_number>
+  <absolute_number>26</absolute_number>
   <filename>episodes/83237/1887901.jpg</filename>
-  <lastupdated>1402832282</lastupdated>
+  <lastupdated>1422532942</lastupdated>
   <seasonid>202101</seasonid>
   <seriesid>83237</seriesid>
   <thumb_added></thumb_added>
@@ -2079,9 +2079,9 @@
   <RatingCount>177</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Carl Binder</Writer>
-  <absolute_number></absolute_number>
+  <absolute_number>27</absolute_number>
   <filename>episodes/83237/1870291.jpg</filename>
-  <lastupdated>1402868787</lastupdated>
+  <lastupdated>1422532925</lastupdated>
   <seasonid>202101</seasonid>
   <seriesid>83237</seriesid>
   <thumb_added></thumb_added>
@@ -2107,12 +2107,12 @@
   <Overview>Simeon makes his escape from Destiny, sending Nicholas Rush on a vengeful mission. But Young and Greer attempt to retrieve Simeon unharmed.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>164</RatingCount>
+  <RatingCount>165</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Robert C. Cooper</Writer>
-  <absolute_number></absolute_number>
+  <absolute_number>28</absolute_number>
   <filename>episodes/83237/1908911.jpg</filename>
-  <lastupdated>1402832735</lastupdated>
+  <lastupdated>1422532906</lastupdated>
   <seasonid>202101</seasonid>
   <seriesid>83237</seriesid>
   <thumb_added></thumb_added>
@@ -2138,12 +2138,12 @@
   <Overview>Members of the crew left behind in another galaxy make a shocking return to Destiny.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>164</RatingCount>
+  <RatingCount>165</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Remi Aubuchon</Writer>
   <absolute_number>29</absolute_number>
   <filename>episodes/83237/2362581.jpg</filename>
-  <lastupdated>1389056666</lastupdated>
+  <lastupdated>1422532889</lastupdated>
   <seasonid>202101</seasonid>
   <seriesid>83237</seriesid>
   <thumb_added></thumb_added>
@@ -2169,12 +2169,12 @@
   <Overview>The crew's new-found control over Destiny's flight path introduces new risks when they find themselves in the middle of a war between two races.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>162</RatingCount>
+  <RatingCount>163</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Joseph Mallozzi|Paul Mullie</Writer>
   <absolute_number>30</absolute_number>
   <filename>episodes/83237/1858851.jpg</filename>
-  <lastupdated>1389056677</lastupdated>
+  <lastupdated>1422532873</lastupdated>
   <seasonid>202101</seasonid>
   <seriesid>83237</seriesid>
   <thumb_added></thumb_added>
@@ -2200,12 +2200,12 @@
   <Overview>Locked in a battle with a Drone Command Ship, the Destiny is surprised by the arrival of the Aliens that abducted Rush and Chloe.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>144</RatingCount>
+  <RatingCount>146</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Joseph Mallozzi|Paul Mullie</Writer>
   <absolute_number>31</absolute_number>
   <filename>episodes/83237/2881631.jpg</filename>
-  <lastupdated>1389056689</lastupdated>
+  <lastupdated>1422532850</lastupdated>
   <seasonid>202101</seasonid>
   <seriesid>83237</seriesid>
   <thumb_added></thumb_added>
@@ -2231,12 +2231,12 @@
   <Overview>Rush travels back in time to avert a disaster, meeting a past version of himself. </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>147</RatingCount>
+  <RatingCount>149</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Brad Wright</Writer>
   <absolute_number>32</absolute_number>
   <filename>episodes/83237/2881641.jpg</filename>
-  <lastupdated>1389056699</lastupdated>
+  <lastupdated>1422532830</lastupdated>
   <seasonid>202101</seasonid>
   <seriesid>83237</seriesid>
   <thumb_added></thumb_added>
@@ -2262,12 +2262,12 @@
   <Overview>Camille and Sgt. Greer are trapped when Homeworld Command comes under attack.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>147</RatingCount>
+  <RatingCount>148</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Linda McGibney</Writer>
   <absolute_number>33</absolute_number>
   <filename>episodes/83237/2881651.jpg</filename>
-  <lastupdated>1389056709</lastupdated>
+  <lastupdated>1422532807</lastupdated>
   <seasonid>202101</seasonid>
   <seriesid>83237</seriesid>
   <thumb_added></thumb_added>
@@ -2293,12 +2293,12 @@
   <Overview>Chloe's body is taken over by another consciousness. Meanwhile, Dr. Volker is stricken with a mysterious illness.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>151</RatingCount>
+  <RatingCount>152</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Carl Binder</Writer>
   <absolute_number>34</absolute_number>
   <filename>episodes/83237/2881661.jpg</filename>
-  <lastupdated>1389056724</lastupdated>
+  <lastupdated>1422532788</lastupdated>
   <seasonid>202101</seasonid>
   <seriesid>83237</seriesid>
   <thumb_added></thumb_added>
@@ -2324,12 +2324,12 @@
   <Overview>Rush slips into a coma in the neural interface chair, and Amanda connects with him in the ship’s matrix, but Ginn informs Eli of a problem with that scenario. Elsewhere, Dr. Rodney McKay’s plan to dial the ninth chevron address hits a snag. </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>139</RatingCount>
+  <RatingCount>140</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Remi Aubuchon</Writer>
   <absolute_number>35</absolute_number>
   <filename>episodes/83237/2881671.jpg</filename>
-  <lastupdated>1389056743</lastupdated>
+  <lastupdated>1422532768</lastupdated>
   <seasonid>202101</seasonid>
   <seriesid>83237</seriesid>
   <thumb_added></thumb_added>
@@ -2355,7 +2355,7 @@
   <Overview>An alien creature attacks an exploration team from Destiny, taking two crew members captive.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>145</RatingCount>
+  <RatingCount>146</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Joseph Mallozzi</Writer>
   <absolute_number>36</absolute_number>
@@ -2386,7 +2386,7 @@
   <Overview>Destiny comes upon a colony where the people claim their civilization was founded two thousand years earlier ... by Destiny's crew.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>144</RatingCount>
+  <RatingCount>146</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Robert C. Cooper</Writer>
   <absolute_number>37</absolute_number>
@@ -2417,7 +2417,7 @@
   <Overview>While attempting to return a group of colonists to their home, the crew finds that the planet is on the verge of seismic destruction.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>130</RatingCount>
+  <RatingCount>131</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Carl Binder</Writer>
   <absolute_number>38</absolute_number>
@@ -2448,7 +2448,7 @@
   <Overview>When the command ships blockade stars along Destiny's path, the crew must find a different, superhot star to recharge at. Eli and Rush are forced to pilot the ship in, while the rest of the crew evacuates to a nearby planet... only to discover that the drones are already there.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>144</RatingCount>
+  <RatingCount>145</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Linda McGibney</Writer>
   <absolute_number>39</absolute_number>

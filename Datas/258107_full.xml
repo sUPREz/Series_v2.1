@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Data><Series>
   <id>258107</id>
-  <Actors>|Gillian Anderson|Jamie Dornan|Niamh McGready|Archie Panjabi|Bronagh Waugh|John Lynch|</Actors>
-  <Airs_DayOfWeek>Monday</Airs_DayOfWeek>
+  <Actors>|Gillian Anderson|Jamie Dornan|Niamh McGready|Valene Kane|Laura Donnelly|Emmett J Scanlan|Karen Hassan|Brian Milligan|Séainín Brennan|Stuart Graham|Colin Morgan|Archie Panjabi|Bronagh Waugh|John Lynch|</Actors>
+  <Airs_DayOfWeek>Sunday</Airs_DayOfWeek>
   <Airs_Time>9:30 PM</Airs_Time>
   <ContentRating>TV-MA</ContentRating>
   <FirstAired>2013-05-12</FirstAired>
@@ -11,24 +11,23 @@
   <Language>en</Language>
   <Network>BBC Two</Network>
   <NetworkID></NetworkID>
-  <Overview>Gillian Anderson stars as Detective Superintendent Stella Gibson who is brought in from the London Metropolitan Police to help catch the killer when a murder in Belfast remains unsolved.
- 
+  <Overview>Detective Superintendent Stella Gibson is brought in from the London Metropolitan Police to help catch the killer when a murder in Belfast remains unsolved.
 
-As Gibson travels across from London, we are introduced to the murderer himself; Paul Spector (Jamie Dornan).  The drama follows the police investigation uncovering the intricate story of the lives entangled by a series of murders both within the killers’ and the victims’ families.</Overview>
-  <Rating>8.7</Rating>
-  <RatingCount>13</RatingCount>
+As Gibson travels across from London, we are introduced to the murderer himself; Paul Spector.</Overview>
+  <Rating>8.4</Rating>
+  <RatingCount>23</RatingCount>
   <Runtime>60</Runtime>
-  <SeriesID></SeriesID>
+  <SeriesID>184209</SeriesID>
   <SeriesName>The Fall</SeriesName>
   <Status>Continuing</Status>
   <added>2012-04-12 19:03:18</added>
   <addedBy>360590</addedBy>
-  <banner>graphical/258107-g2.jpg</banner>
-  <fanart>fanart/original/258107-2.jpg</fanart>
-  <lastupdated>1405515175</lastupdated>
+  <banner>graphical/258107-g8.jpg</banner>
+  <fanart>fanart/original/258107-10.jpg</fanart>
+  <lastupdated>1434878259</lastupdated>
   <poster>posters/258107-4.jpg</poster>
   <tms_wanted_old>1</tms_wanted_old>
-  <zap2it_id></zap2it_id>
+  <zap2it_id>SH01753165</zap2it_id>
 </Series>
 <Episode>
   <id>4305995</id>
@@ -40,21 +39,21 @@ As Gibson travels across from London, we are introduced to the murderer himself;
   <DVD_season></DVD_season>
   <Director>Jakob Verbruggen</Director>
   <EpImgFlag>2</EpImgFlag>
-  <EpisodeName>Dark Descent</EpisodeName>
+  <EpisodeName>Episode 1</EpisodeName>
   <EpisodeNumber>1</EpisodeNumber>
-  <FirstAired>2013-05-13</FirstAired>
+  <FirstAired>2013-05-12</FirstAired>
   <GuestStars></GuestStars>
   <IMDB_ID>tt2307993</IMDB_ID>
   <Language>en</Language>
   <Overview>When a Belfast murder remains unsolved, Stella Gibson is brought in to catch the killer.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>28</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>35</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Allan Cubitt</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/258107/4305995.jpg</filename>
-  <lastupdated>1395954442</lastupdated>
+  <lastupdated>1417806334</lastupdated>
   <seasonid>490027</seasonid>
   <seriesid>258107</seriesid>
   <thumb_added></thumb_added>
@@ -71,21 +70,21 @@ As Gibson travels across from London, we are introduced to the murderer himself;
   <DVD_season></DVD_season>
   <Director>Jakob Verbruggen</Director>
   <EpImgFlag>2</EpImgFlag>
-  <EpisodeName>Darkness Visible</EpisodeName>
+  <EpisodeName>Episode 2</EpisodeName>
   <EpisodeNumber>2</EpisodeNumber>
-  <FirstAired>2013-05-20</FirstAired>
+  <FirstAired>2013-05-19</FirstAired>
   <GuestStars></GuestStars>
   <IMDB_ID>tt2307995</IMDB_ID>
   <Language>en</Language>
   <Overview>DSI Stella Gibson's fears are realised as Spector's murder spree in Belfast continues.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>22</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>29</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Allan Cubitt</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/258107/4305996.jpg</filename>
-  <lastupdated>1395954477</lastupdated>
+  <lastupdated>1417806346</lastupdated>
   <seasonid>490027</seasonid>
   <seriesid>258107</seriesid>
   <thumb_added></thumb_added>
@@ -102,21 +101,21 @@ As Gibson travels across from London, we are introduced to the murderer himself;
   <DVD_season></DVD_season>
   <Director>Jakob Verbruggen</Director>
   <EpImgFlag>2</EpImgFlag>
-  <EpisodeName>Insolence &amp; Wine</EpisodeName>
+  <EpisodeName>Episode 3</EpisodeName>
   <EpisodeNumber>3</EpisodeNumber>
-  <FirstAired>2013-05-27</FirstAired>
+  <FirstAired>2013-05-26</FirstAired>
   <GuestStars></GuestStars>
   <IMDB_ID>tt2307997</IMDB_ID>
   <Language>en</Language>
   <Overview>As DSI Stella Gibson takes control of the hunt for the serial killer striking women in Belfast, the realisation that his perfect kill is tainted pushes Spector into looking for his next victim.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>25</RatingCount>
+  <RatingCount>30</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Allan Cubitt</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/258107/4305997.jpg</filename>
-  <lastupdated>1395954650</lastupdated>
+  <lastupdated>1417806355</lastupdated>
   <seasonid>490027</seasonid>
   <seriesid>258107</seriesid>
   <thumb_added></thumb_added>
@@ -133,21 +132,21 @@ As Gibson travels across from London, we are introduced to the murderer himself;
   <DVD_season></DVD_season>
   <Director>Jakob Verbruggen</Director>
   <EpImgFlag>2</EpImgFlag>
-  <EpisodeName>My Adventurous Song</EpisodeName>
+  <EpisodeName>Episode 4</EpisodeName>
   <EpisodeNumber>4</EpisodeNumber>
-  <FirstAired>2013-06-03</FirstAired>
+  <FirstAired>2013-06-02</FirstAired>
   <GuestStars></GuestStars>
   <IMDB_ID>tt2307999</IMDB_ID>
   <Language>en</Language>
   <Overview>When Eastwood's investigation into Olson's murder throws open some uncomfortable truths for Burns, Gibson comes under increased pressure in her hunt for Belfast's killer.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>25</RatingCount>
+  <RatingCount>34</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Allan Cubitt</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/258107/4305998.jpg</filename>
-  <lastupdated>1395954671</lastupdated>
+  <lastupdated>1417806366</lastupdated>
   <seasonid>490027</seasonid>
   <seriesid>258107</seriesid>
   <thumb_added></thumb_added>
@@ -164,21 +163,21 @@ As Gibson travels across from London, we are introduced to the murderer himself;
   <DVD_season></DVD_season>
   <Director>Jakob Verbruggen</Director>
   <EpImgFlag>2</EpImgFlag>
-  <EpisodeName>The Vast Abyss</EpisodeName>
+  <EpisodeName>Episode 5</EpisodeName>
   <EpisodeNumber>5</EpisodeNumber>
-  <FirstAired>2013-06-10</FirstAired>
+  <FirstAired>2013-06-09</FirstAired>
   <GuestStars></GuestStars>
   <IMDB_ID>tt2308001</IMDB_ID>
   <Language>en</Language>
   <Overview>Gibson arrives at the Annie Brawley crime scene and realises it is the work of the serial killer, while Burns and his team are still trying to piece together the events surrounding Olson's murder. Spector raises Sally Ann's suspicions when he asks her to provide him with an alibi and he decides to make one final play with Gibson that will bring the two hunters closer than either could have previously imagined</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>21</RatingCount>
+  <RatingCount>26</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Allan Cubitt</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/258107/4305999.jpg</filename>
-  <lastupdated>1395954701</lastupdated>
+  <lastupdated>1417806375</lastupdated>
   <seasonid>490027</seasonid>
   <seriesid>258107</seriesid>
   <thumb_added></thumb_added>
@@ -186,7 +185,7 @@ As Gibson travels across from London, we are introduced to the murderer himself;
   <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
-  <id>4924230</id>
+  <id>5000734</id>
   <Combined_episodenumber>1</Combined_episodenumber>
   <Combined_season>2</Combined_season>
   <DVD_chapter></DVD_chapter>
@@ -194,26 +193,183 @@ As Gibson travels across from London, we are introduced to the murderer himself;
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
   <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>TBC</EpisodeName>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Episode 1</EpisodeName>
   <EpisodeNumber>1</EpisodeNumber>
-  <FirstAired></FirstAired>
+  <FirstAired>2014-11-09</FirstAired>
   <GuestStars></GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
+  <Overview>It has been ten days since Paul Spector told DSI Stella Gibson that she would never catch him. As Gibson tries in vain to help Spector's surviving victim to remember the identity of her attacker, Spector is forced to deal with the loose ends that he left behind in Belfast.
+
+His return to the city reveals that someone from his past has been helping police with their enquiries, forcing Spector to change his plans with terrifying consequences.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
+  <Rating>8.0</Rating>
+  <RatingCount>12</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
-  <filename></filename>
-  <lastupdated>1404525399</lastupdated>
-  <seasonid>590153</seasonid>
+  <filename>episodes/258107/5000734.jpg</filename>
+  <lastupdated>1427665769</lastupdated>
+  <seasonid>598098</seasonid>
   <seriesid>258107</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-11-11 18:55:59</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5038816</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Episode 2</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2014-11-16</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Gibson realises that her mistakes have put the life of witness Rose Stagg in danger. Desperate to save Rose's life, she steps up the police investigation as serial killer Paul Spector continues to stalk Belfast's streets.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.2</Rating>
+  <RatingCount>10</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/258107/5038816.jpg</filename>
+  <lastupdated>1427665836</lastupdated>
+  <seasonid>598098</seasonid>
+  <seriesid>258107</seriesid>
+  <thumb_added>2014-11-11 19:01:35</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5038817</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Episode 3</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2014-11-23</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Gibson orders extensive surveillance on Spector's family, believing they will lead them to Paul, whose whereabouts remain unknown. As the search for Rose Stagg becomes ever more desperate, Spector directs his fury at Gibson after the two narrowly avoid meeting, trespassing into her private world and delighting in taunting and provoking her.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>11</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/258107/5038817.jpg</filename>
+  <lastupdated>1427665857</lastupdated>
+  <seasonid>598098</seasonid>
+  <seriesid>258107</seriesid>
+  <thumb_added>2014-11-21 13:39:10</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5038818</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Episode 4</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2014-11-30</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Gibson informs Burns that their confrontation in her hotel room may have been witnessed by Spector, and the detective is shocked to discover the serial killer has been paying visits to one of his surviving victims in hospital. Seizing on the opportunity, she finally locates Spector and puts him under surveillance, but her success is short-lived as she is forced to face her worst fears.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.2</Rating>
+  <RatingCount>12</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/258107/5038818.jpg</filename>
+  <lastupdated>1427665882</lastupdated>
+  <seasonid>598098</seasonid>
+  <seriesid>258107</seriesid>
+  <thumb_added>2014-11-21 13:38:32</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5038819</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Episode 5</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2014-12-07</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>With Spector under surveillance, Gibson wants to make sure that a solid arrest strategy is put in place so that no evidence is lost and the police have the best chance of saving Rose Stagg. However, the killer's unpredictability forces the detective to act quickly as her carefully laid plans fall apart in front of her eyes.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.3</Rating>
+  <RatingCount>12</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/258107/5038819.jpg</filename>
+  <lastupdated>1427665907</lastupdated>
+  <seasonid>598098</seasonid>
+  <seriesid>258107</seriesid>
+  <thumb_added>2014-11-30 06:48:43</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5038820</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Episode 6</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2014-12-17</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Gibson's investigation leads her to the killer's lair, but there is no sign of Rose Stagg and the detective instructs her team to step up the interviews with Katie, Sally Ann and Spector in a desperate attempt to find her. However, it is only when Spector makes a final move to remain in control that Gibson is offered any answers. </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>9</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/258107/5038820.jpg</filename>
+  <lastupdated>1427665944</lastupdated>
+  <seasonid>598098</seasonid>
+  <seriesid>258107</seriesid>
+  <thumb_added>2014-12-02 16:40:06</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 </Data>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Data><Series>
   <id>79126</id>
-  <Actors>|Dominic West|Michael Kenneth Williams|Idris Elba|Felicia Pearson|Corey Parker Robinson|J.D. Williams|Andre Royo|Wendell Pierce|Seth Gilliam|Lance Reddick|Paul Ben-Victor|John Doman|Amy Ryan|Robert Wisdom|Domenick Lombardozzi|Sonja Sohn|Melvin Williams|Leo Fitzpatrick|Jim True-Frost|Lawrence Gilliard Jr.|Aidan Gillen|Clarke Peters|Chris Bauer|Deirdre Lovejoy|Wood Harris|Frankie Faison|Michael B. Jordan|Tootsie Duvall|Richard Hidlebird|Maestro Harrell|Julito McCullum|Maria Broom|Frederick Strother|Brandon Young|Sam Freed|David Constabile|Tom McCarthy|Kwame Patterson|S. Robert Morgan|Steve Earle|Michael Potts|Hassan Johnson|Thuliso Dingwall|Anwan Glover|Method Man|Robert F. Chew|Benjamin Busch|Bobby Brown|Michael Salconi|Rick Otto|Peter Gerety|Dion Graham|Gary D'Addario|Gregory Williams|Brian Anthony Wilson|Jay Landsman|Al Brown|Delaney Williams|Ed Norris|Chris Ashworth|Pablo Schreiber|Horseface|Bill Raymond|James Ransone|Isiah Whitlock Jr.|Michelle Paress|Michael Kostroff|Tristan Wilds|Jermaine Crawford|Neal Huff|Gbenga Akinnagbe|Clark Johnson|Glynn Turman|Jamie Hector|Chad Coleman|Reg E. Cathey|Tray Chaney|Brandy Burre|Christopher Mann|Megan Anderson|Michael Willis|Sandi McCree|</Actors>
+  <Actors>|Dominic West|Wendell Pierce|Sonja Sohn|Michael Kenneth Williams|Felicia Pearson|Corey Parker Robinson|J.D. Williams|Andre Royo|Seth Gilliam|Lance Reddick|Paul Ben-Victor|John Doman|Amy Ryan|Robert Wisdom|Domenick Lombardozzi|Idris Elba|Melvin Williams|Leo Fitzpatrick|Jim True-Frost|Lawrence Gilliard Jr.|Aidan Gillen|Clarke Peters|Chris Bauer|Deirdre Lovejoy|Wood Harris|Frankie Faison|Michael B. Jordan|Tootsie Duvall|Richard Hidlebird|Maestro Harrell|Julito McCullum|Maria Broom|Frederick Strother|Brandon Young|Sam Freed|David Costabile|Tom McCarthy|Kwame Patterson|S. Robert Morgan|Steve Earle|Michael Potts|Hassan Johnson|Thuliso Dingwall|Anwan Glover|Method Man|Robert F. Chew|Benjamin Busch|Bobby Brown|Michael Salconi|Rick Otto|Peter Gerety|Dion Graham|Gary D'Addario|Gregory Williams|Brian Anthony Wilson|Jay Landsman|Al Brown|Delaney Williams|Ed Norris|Chris Ashworth|Pablo Schreiber|Charley Scalies|Bill Raymond|James Ransone|Isiah Whitlock Jr.|Michelle Paress|Michael Kostroff|Tristan Wilds|Jermaine Crawford|Neal Huff|Gbenga Akinnagbe|Clark Johnson|Glynn Turman|Jamie Hector|Chad L. Coleman|Reg E. Cathey|Tray Chaney|Brandy Burre|Christopher Mann|Megan Anderson|Michael Willis|Sandi McCree|</Actors>
   <Airs_DayOfWeek>Sunday</Airs_DayOfWeek>
   <Airs_Time>9:00 PM</Airs_Time>
   <ContentRating>TV-MA</ContentRating>
@@ -13,16 +13,16 @@
   <NetworkID></NetworkID>
   <Overview>Unlike most television crime dramas, which neatly introduce and then solve a case all in the space of one hour, HBO's THE WIRE follows one single drug and homicide investigation throughout the length of an entire season. Centered on the drug culture of inner-city Baltimore, the series' storyline unfolds from the points of view of both the criminals lording the streets and the police officers determined to bring them down.</Overview>
   <Rating>9.5</Rating>
-  <RatingCount>203</RatingCount>
+  <RatingCount>213</RatingCount>
   <Runtime>60</Runtime>
   <SeriesID>8800</SeriesID>
   <SeriesName>The Wire</SeriesName>
   <Status>Ended</Status>
   <added></added>
   <addedBy></addedBy>
-  <banner>graphical/79126-g.jpg</banner>
-  <fanart>fanart/original/79126-4.jpg</fanart>
-  <lastupdated>1405638938</lastupdated>
+  <banner>graphical/79126-g24.jpg</banner>
+  <fanart>fanart/original/79126-3.jpg</fanart>
+  <lastupdated>1434097119</lastupdated>
   <poster>posters/79126-2.jpg</poster>
   <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>EP00507321</zap2it_id>
@@ -250,7 +250,7 @@
   <Overview>&quot;... when it's not your turn.&quot; - McNultyDuring the trial of D'Angelo Barksdale, a mid-level dealer accused of murder, the prosecution's star witness recants her testimony, resulting in a not guilty verdict. After the trial, Detective James &quot;Jimmy&quot; McNulty is taken to task for his indiscretion. Meanwhile, D'Angelo is free to return to work, but he soon discovers that he's been demoted.</Overview>
   <ProductionCode>101</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>106</RatingCount>
+  <RatingCount>112</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Edward Burns||David Simon|</Writer>
   <absolute_number></absolute_number>
@@ -283,7 +283,7 @@
 The witness who testified against D'Angelo winds up being a murder case for &quot;Bunk&quot; Moreland. However, McNulty tells Bunk that since the victim testified against D'Angelo, this murder was probably ordered by Avon Barkdsdale. McNulty and Bunk pick up D'Angelo for questioning and convince him to write an &quot;apology&quot; to the victim's family. Just as he's about to start, D'Angelo's attorney arrives and makes him leave. Meanwhile in &quot;The Pit&quot;, Detective Greggs gets some inside information courtesy of Bubbles. New investigation team member Prez arrives with a heavy reputation of incompetence, which worries Lieutenant Daniels. Daniels's concerns are supported when Prez teams up with Herc and Carver to make their own moves in the case by going to the projects to &quot;bust heads&quot; for information. Things backfire and a quasi riot ensues.</Overview>
   <ProductionCode>102</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>81</RatingCount>
+  <RatingCount>87</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>David Simon|David Simon|Edward Burns</Writer>
   <absolute_number></absolute_number>
@@ -316,7 +316,7 @@ The witness who testified against D'Angelo winds up being a murder case for &quo
 After early morning &quot;field interviews&quot; conducted by Herc, Carver and Prez lead to a minor riot and bad publicity for the police, Daniels gets called in by the Deputy Commissioner. McNulty sends Mahone and Polk to the terrace to get a photo of Avon Barksdale. They come up short but soft- spoken Freamon comes through with an old photo from Barksdale's boxing days. McNulty and Greggs visit FBI agent Fitzhugh to try and obtain some surveillance equipment. D'Angelo delivers the daily count to Stringer Bell who in turn, gives D'Angelo a bonus. Later, while Bodie and D'Angelo wait for the new supply to arrive, D'Angelo offers to get food. While he's gone Bodie, Stinkum and the crew go to retrieve the new supply only renegade dealer Omar and his crew get there and steal the drugs for themselves. The next day D'Angelo gets chewed out by Wee Bey -- a Barksdale enforcer -- for not being around when the incident happened. After getting chided by his superiors, Lieutenant Daniels mobilizes the team to raid &quot;The Pit&quot;. Bodie hits one of the detectives while getting arrested and the rest of the officers proceed to beat Bodie. McNulty secretly meets with agent Fitzhugh who tells him to watch out for Lieutenant Daniels -- who might be on the take.</Overview>
   <ProductionCode>103</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>65</RatingCount>
+  <RatingCount>70</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>David Simon|David Simon|Edward Burns</Writer>
   <absolute_number></absolute_number>
@@ -349,7 +349,7 @@ After early morning &quot;field interviews&quot; conducted by Herc, Carver and P
 Bodie manages to slip through security and escape from lockup. Meanwhile Herc and Carver continue their renegade ways by travelling to Marlboro to find Bodie and beat him into giving up information on the case. Once they get there, Herc has a change of attitude after meeting Bodie's grandmother. Furious at being robbed of his product during the &quot;re-up&quot;, Avon Barksdale instructs Stinkum, Wee-Bey and Stringer to double the existing reward to anyone who eliminates Omar and his crew. When Bodie returns to the pit, he explains how no jail can hold him because he's too tough. He further challenges D'Angelo's mettle by implying that D'Angelo's weak. D'Angelo responds by telling how he killed one of Avon Barksdale's ex-girlfriends after she threatened to give Avon up to the police. AFter hearing this, Bodie becomes cautiously impressed. Sgt. Landsman tells Major Rawls that despite all the screw ups, McNulty's tenacity and obsession with getting the job done usually results in closed cases and that the Major should probably cut McNulty some slack. Detective Freamon discovers D'Angelo's pager number just when Greggs and McNulty figure out a cloned pager could be the advantage they need.</Overview>
   <ProductionCode>104</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>63</RatingCount>
+  <RatingCount>66</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>David Simon|David Simon|Edward Burns</Writer>
   <absolute_number></absolute_number>
@@ -382,7 +382,7 @@ Bodie manages to slip through security and escape from lockup. Meanwhile Herc an
 Avon becomes more and more suspicious, he orders Wee-Bey to change phone lines in his apartment and promotes Stinkum to manage a new territory. He gets word that one of Omar's crew members has been &quot;got&quot;. Stringer Bell warns D'Angelo that a snitch may be in his camp. The detectives get their affidavit approved for a cloned pager but they are puzzled when the numbers they receive are not regular Baltimore phone numbers.. Herc and Carver catch up with Bodie and attempt to interrogate him.</Overview>
   <ProductionCode>105</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>67</RatingCount>
+  <RatingCount>69</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Edward Burns|David Simon|</Writer>
   <absolute_number></absolute_number>
@@ -415,7 +415,7 @@ Avon becomes more and more suspicious, he orders Wee-Bey to change phone lines i
 Brandon's bloodied body is discovered in a lot that coincidentally is located next to Poot and Wallace's home. Wallace in turn, reports this to D'Angelo, and tells him about how seeing Brandon's boy has started to bother him. D'Angelo tells Wallace that he needs to get over it, but Wallace is still unsure about all he is involved in. Wallace gets even more unsettled about the situation after Avon rewards D'Angelo and him with extra cash for their parts in getting Brandon taken care of in the first place.</Overview>
   <ProductionCode>106</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>70</RatingCount>
+  <RatingCount>72</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Edward Burns|David Simon|David Simon</Writer>
   <absolute_number></absolute_number>
@@ -448,7 +448,7 @@ Brandon's bloodied body is discovered in a lot that coincidentally is located ne
 Greggs, Herc, Carver, and Syndor grab the runner who is holding the re-up stash for the pit. Now that the cops have the stash, a furious Avon begins to question D'Angelo about a possible snitch in the pit. D'Angelo says it can't be possible and he knows nothing of a snitch. Stringer tells D'Angelo and his crew they are to now use pay phones a block away and to not use the same phone twice. This in turn disconnects all the detective's wiretaps they fought so long to get.</Overview>
   <ProductionCode>107</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>56</RatingCount>
+  <RatingCount>58</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Edward Burns|Rafael Alvarez|David Simon</Writer>
   <absolute_number></absolute_number>
@@ -481,7 +481,7 @@ Greggs, Herc, Carver, and Syndor grab the runner who is holding the re-up stash 
 McNulty has his sons play the game of &quot;front and follow&quot; with Stringer Bell as the target at a local market, and the two get Bell's license plate number. As a result, the two get Stringer's license plate number and McNulty couldn't be happier. Greggs and Carver bust a driver picking up a suspiciously large amount of cash from the Towers, only they are forced to return the money on orders of the Deputy Commissioner. Avon finds out about Orlando's inquiries about branching out into &quot;dirty&quot; business, and makes it clear to Orlando that the plan will never happen.</Overview>
   <ProductionCode>108</ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>62</RatingCount>
+  <RatingCount>63</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>David Simon|Edward Burns|David Simon</Writer>
   <absolute_number></absolute_number>
@@ -514,7 +514,7 @@ McNulty has his sons play the game of &quot;front and follow&quot; with Stringer
 Freamon gets Syndor and Prez started on the Barksdale money trail. They discover the usual ties to dummy companies, but they also find large sums of political contributions. Herc and Carver bust Wee-Bey holding $22.000 but only $15,000 is reported. Lieutenant Daniels discovers the discrepancy and orders them to find the money before the morning roll call. Omar's mission takes him to Proposition Joe where he promptly offers another recently stolen Barksdale stash to Joe in exchange for Avon's pager number.</Overview>
   <ProductionCode>109</ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>54</RatingCount>
+  <RatingCount>55</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Edward Burns|David H. Melnick|Shamit Choksey|David Simon</Writer>
   <absolute_number></absolute_number>
@@ -547,7 +547,7 @@ Freamon gets Syndor and Prez started on the Barksdale money trail. They discover
 After being clean for three days straight, Bubbles gets some strong advice from another former addict named Walon. He also gets a promise of extra help from Detective Greggs. When Omar's murder attempt on Avon Barksdale fails, Stringer lays down some new laws for the Barksdale crew. There will be no phone use, no more money runs, a new pager number and anyone that needs to talk to Avon has to go through Stringer first. They also send a word to Omar that a truce will be offered to him. As the team goes through their setup of one of Barksdale's people, one of the officers gets shot.</Overview>
   <ProductionCode>110</ProductionCode>
   <Rating>8.3</Rating>
-  <RatingCount>53</RatingCount>
+  <RatingCount>56</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|David Simon|</Writer>
   <absolute_number></absolute_number>
@@ -580,7 +580,7 @@ After being clean for three days straight, Bubbles gets some strong advice from 
 While Greggs' life hangs in the balance, the officers deals with the shock in many different ways. Herc, Carver, and Syndor get back on the case after Freamon puts the incident into perspective. After seeing McNulty close to the breaking point, Rawls instructs him not to have any guilty over Gregg's shooting because he's not the one responsible. Daniels is ordered by the Deputy Commissioner to raid all the locations to appease the Commissioner's desire for &quot;dope on the table.&quot;</Overview>
   <ProductionCode>111</ProductionCode>
   <Rating>8.2</Rating>
-  <RatingCount>58</RatingCount>
+  <RatingCount>62</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Joy Lusco|</Writer>
   <absolute_number></absolute_number>
@@ -613,7 +613,7 @@ While Greggs' life hangs in the balance, the officers deals with the shock in ma
 After the Barksdale's supply gets confiscated in another bust, Stringer gives more new rules to the crew. Avon and Stringer meet with Levy to discuss the next steps, which include the elimination of any and all persons that can connect Barksdale to the drugs. Wallace goes back to the pit and asks to be let back in but Stringer has another plan for Wallace. Stringer then asks Bodie to take Wallace's old job.</Overview>
   <ProductionCode>112</ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>62</RatingCount>
+  <RatingCount>64</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|George P. Pelecanos|</Writer>
   <absolute_number></absolute_number>
@@ -646,7 +646,7 @@ After the Barksdale's supply gets confiscated in another bust, Stringer gives mo
 In the season finale, Greggs finds the strength to finger &quot;Little Man&quot; as one of the men who shot her. Daniels and McNulty go to the feds with crushing evidence about some Baltimore politicians tied to Barksdale, thinking they finally have him. However, the Feds only want the politiicans and not Barksdale. D'Angelo can't swing a deal, and cops to a possession charge and 20 years hard time after a talk with his mother.</Overview>
   <ProductionCode>113</ProductionCode>
   <Rating>8.2</Rating>
-  <RatingCount>56</RatingCount>
+  <RatingCount>58</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|David Simon|Edward Burns|</Writer>
   <absolute_number></absolute_number>
@@ -678,8 +678,8 @@ In the season finale, Greggs finds the strength to finger &quot;Little Man&quot;
 
 McNulty makes sure to pay back Rawls for reassigning him to the marine unit by sticking City Homicide with the stone cold whodunit floater he fishes out of the harbor; it's the stevedores versus the police when Sobotka beats out Valchek for the honor of  providing a donor-themed stained glass window for the local church; Bodie and Bell take separate business trips; Ziggy makes a fool of himself as Nick negotiates a deal with the Greeks to steal a container from the docks; the Greeks renege on the deal, leaving Russell to discover that the abandoned and broken-sealed container contains the bodies of thirteen women.</Overview>
   <ProductionCode>201</ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>52</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>54</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|David Simon|</Writer>
   <absolute_number></absolute_number>
@@ -712,7 +712,7 @@ McNulty makes sure to pay back Rawls for reassigning him to the marine unit by s
 After the case gets dumped back in Russell's lap, McNulty offers to help, ensuring that it boomerangs back to Rawls; after Sobotka chews the Greeks out about the bodies in the containers, the Greeks do a little investigating of their own and discover that McNulty's floater was killed by a ship's crewman in front of the other girls, who were then killed to ensure their silence; Brianna urges her brother to take care of business, especially D'Angelo; Valchek strikes a deal with Burrell in exchange for his help in waging war on Sobotka, and Sobotka strikes back by handing the BPD a major embarrassment; Daniels decides to put in his papers; Wee-Bey complains to Avon about his treatment at the hands of C.O. Tilghman; Bunk and Lester are ready to kill McNulty after Landsman puts the fourteen whodunits under their names on the Board.</Overview>
   <ProductionCode>202</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>51</RatingCount>
+  <RatingCount>53</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|David Simon|</Writer>
   <absolute_number></absolute_number>
@@ -745,7 +745,7 @@ After the case gets dumped back in Russell's lap, McNulty offers to help, ensuri
 The non-English-speaking crew of the Atlantic Light proves no help in the investigation, but the first mate unwittingly provides a clue that gets the ball rolling; Nick wonders how he's going to provide for Aimee and their daughter when there's no work on the docks, but rejects Ziggy's idea to make a quick buck by dealing drugs; Omar signs up some new partners in crime; after Stringer discovers that Tilghman is buying from Butchie, Stringer convinces Butchie to give the C.O. a bad package the next time they do business; Sobotka lobbies a state senator whose hands are out; Stringer and Donette reach an understanding of sorts; after Prez spills the beans about the do-nothing task force, Valchek strong-arms Burrell into giving him a real task force headed by Daniels; Avon tries to get Dee's head right with a promise that he won't have to do the whole bit; Ziggy and Nick steal a container and fence the goods to the Greeks; Elena sends Jimmy separation papers.</Overview>
   <ProductionCode>203</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>52</RatingCount>
+  <RatingCount>56</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|David Simon|</Writer>
   <absolute_number></absolute_number>
@@ -777,8 +777,8 @@ The non-English-speaking crew of the Atlantic Light proves no help in the invest
 
 The medical examiner determines that the bad package which killed five inmates and hospitalized eight others was cut with strychnine, so the heat is on to close the case quickly; as the pressure mounts to deliver Omar's testimony in the Gant case, McNulty enlists Bubbles in the search, but an unhappy Omar finds Bubbles first; Dee confronts Avon about the bad package and washes his hands of the business; Daniels and Burrell strike a deal on the detail, but Rawls refuses to reassign McNulty while okaying Greggs, Hauk and Lester; Stringer continues to struggle with poor quality product from his suppliers; Avon brokers a deal to give up Tilghman for a reduction in his sentence; McNulty continues his efforts to identify his floater; pleased with the outcome of their prior deal, the Greeks come to Nick and Ziggy with a request for bulk chemicals; after Sobotka chews Nick out for stealing the container and tells him to keep a low profile, Nick passes the word to his cousin, which falls on deaf ears;  Daniels and Greggs get the silent treatment in their respective homes after they break the news of the new detail to their wives; McNulty signs the separation papers as he asks Elena for another chance; Bunk, Lester and Russell terrify Sobotka when they drop by the bar for a little quality face time.</Overview>
   <ProductionCode>204</ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>55</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>57</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Joy Lusco|</Writer>
   <absolute_number></absolute_number>
@@ -811,7 +811,7 @@ The medical examiner determines that the bad package which killed five inmates a
 Ziggy's inability to move a package costs him the Camaro and nearly his life, until Nick intercedes for him; Daniels reaches an understanding with Carver before placing him on the detail; with the help of Bubbles, McNulty delivers Omar to Nathan, who's less than thrilled with her star witness; with Lester transferred to the detail, Daniels gets things moving by sending Herc, Carver, and Greggs out for some hand-to-hands; saddled with Cole, Bunk and Russell end up empty-handed after they haul Sobotka's crew before the grand jury; Russell reaches out to her checker ex-boyfriend and gets information that Sobotka manages to explain away; Nick's dream of home ownership is dashed when Elena, the listing agent for his aunt's house, makes it clear he's priced out of the market; Dee gets a visit from Terrell and Donette, warning her that it's just about business and not to be too impressed with the family love line she's being handed, news that doesn't sit well with Stringer; Bodie has personnel problems in the pit; Valchek lifts a print from the latest picture of the van, which has made its way to San Diego; Stringer gets some advice from his business professor on his supply problem which he passes along to the crew; after The Greek refuses to meet with Sobotka, he calls their deal off, but changes his mind when they triple his fee for each can; McNulty goes to the feds for information on the pross operation but comes away empty-handed when the women refuse to give up what they know without a deal on the table; Ziggy and Nick go surfing and discover that chemicals the Greeks have ordered are used to process coca leaves into cocaine; Daniels agrees to share information with Bunk and Russell, but won't take the bodies without a suspect.</Overview>
   <ProductionCode>205</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>60</RatingCount>
+  <RatingCount>62</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Edward Burns (III)|</Writer>
   <absolute_number></absolute_number>
@@ -844,7 +844,7 @@ Ziggy's inability to move a package costs him the Camaro and nearly his life, un
 The detail continues to look for the source of the union's money; Omar hands Levy his hat and Nathan a win when he gets on the stand; Nick seeks Vondas's juice in resolving Ziggy's problem with Cheese; abandoning the search for his floater's I.D., McNulty courts Elena, hoping for a reconciliation; Greggs gets a direction on the Russian pross ring from Shardene, and a jealous Cheryl accompanies her and Prez on a field trip to the clubs to follow up Shardene's lead; after spending hours poring over the port's database, Russell finds the pattern they're looking for, but Daniels is still reluctant to pick up those fourteen names in red; Nick gets Vondas his chemicals and agrees to accept half his payment in cash and half in heroin; Stringer's out-sourcing a highly clandestine solution to the problem of Dee's distancing himself from the family and its business has tragic consequences.</Overview>
   <ProductionCode>206</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>52</RatingCount>
+  <RatingCount>54</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|David Simon|</Writer>
   <absolute_number></absolute_number>
@@ -877,7 +877,7 @@ The detail continues to look for the source of the union's money; Omar hands Lev
 Russell goes back in the bag for a day to con Sobotka's crew into thinking that the heat is off; Nick and Frog work out a deal that hinges on an upfront and making good on the money Frog owes Ziggy; as Stringer makes the back end payment to his out-source, it appears that this arrangement may have been all on Stringer; Avon and Brianna are inconsolable, but Donette seems to be taking things in stride; the latest in surveillance technology is no match for the modern urban crime environment and the idiocy of Herc and Carver; Landsman and Rawls are unsuccessful in getting  Daniels to take the murders, but Lester finally makes the persuasive argument; after getting a horrifying glimpse of the future during a presentation about robotically-run docks, Sobotka gives DiBiago grease to get some speed under the wheels of union-friendly legislation; depressed that Nick has taken away the package business and made it a success, Ziggy is further demoralized when he becomes the butt of Maui's practical joke; the cloned computer hands the detail the information they need to stake out and follow a stolen can, and thereby connect Sobotka's crew to Proposition Joe; Greggs and Prez continue to follow the pross connection; Daniels tries unsuccessfully to convince Marla that the detail is good for his career; Sobotka asks Nat for another year as union president, as Nat wonders about the source of the contributions Sobotka makes on behalf on the union; Herc and Carver get Nick on surveillance and discuss the merits of creating a phony C.I. to recoup their losses on the bug; taking a break from consoling the bereaved, Stringer discusses a business deal with Proposition Joe, but Avon turns the arrangement down flat; Elena continues to rebuff McNulty's charms.</Overview>
   <ProductionCode>207</ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>51</RatingCount>
+  <RatingCount>54</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Rafael Alvarez|</Writer>
   <absolute_number></absolute_number>
@@ -910,7 +910,7 @@ Russell goes back in the bag for a day to con Sobotka's crew into thinking that 
 Sobotka and Nick visit the diner to meet with The Greek. Vondas tries to persuade them to meet with him, but Sobotka is angry and adamant, and only when he begins to leave does The Greek appear. Sobotka explains the reasons for his paranoia and advises that The Greek shut down the warehouse. Instead, The Greek tells him to deliver more disappeared but clean containers there, &quot;to show them there is nothing to hide.&quot; When Sobotka demands that he be paid the regular rate for disappearing the clean cans, The Greek is at first reluctant, but then agrees to pay after Nick is insistent.</Overview>
   <ProductionCode>208</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>51</RatingCount>
+  <RatingCount>54</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|George P. Pelecanos|</Writer>
   <absolute_number></absolute_number>
@@ -942,8 +942,8 @@ Sobotka and Nick visit the diner to meet with The Greek. Vondas tries to persuad
 
 On the new drug corner they commandeered from their rivals, Bodie and crew sell their repackaged dope, newly named WMD. In an apartment overlooking the scene, a young mother readies her children for school, but soon hits the floor when the rival gang shows up and shooting begins. Both gangs fire wildly, dispersing only when police sirens are heard. Upstairs, the mother discovers that one of her kids has been killed getting ready for school.</Overview>
   <ProductionCode>209</ProductionCode>
-  <Rating>8.0</Rating>
-  <RatingCount>49</RatingCount>
+  <Rating>7.9</Rating>
+  <RatingCount>50</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|David Simon|</Writer>
   <absolute_number></absolute_number>
@@ -976,7 +976,7 @@ On the new drug corner they commandeered from their rivals, Bodie and crew sell 
 The detail uses satellite technology to its advantage.  Bodie is unhappy that Proposition Joe's people are slinging on his turf, but business flows anyway.  Valchek visits the FBI in an attempt on getting real results on the docks.  Ziggy's deal goes bad with Double G in a big way, Greggs considers motherhood and Prez makes a major blunder.</Overview>
   <ProductionCode>210</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>52</RatingCount>
+  <RatingCount>53</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Edward Burns (III)|</Writer>
   <absolute_number></absolute_number>
@@ -1009,7 +1009,7 @@ The detail uses satellite technology to its advantage.  Bodie is unhappy that Pr
 FBI agent Fitzhugh's report detailing Sobotka's plan to flip the next morning in exchange for leniency for Ziggy and Nick reaches FBI agent Koutris, who again tips The Greek to the imminent danger. As Sobotka makes his way to the lonely spot under the Key Bridge for his meeting with Vondas, the FBI agent Koutris sends a message to The Greek and warns him of Sobotka's intention to tell the police what he knows. With Sobotka in sight, The Greek tells Vondas that the union leader must not leave their meeting alive.</Overview>
   <ProductionCode>211</ProductionCode>
   <Rating>8.1</Rating>
-  <RatingCount>48</RatingCount>
+  <RatingCount>49</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|George P. Pelecanos|</Writer>
   <absolute_number></absolute_number>
@@ -1074,8 +1074,8 @@ The detail has a setback. Russell and Bunk revisit Philly, looking for evidence.
 
 A wave of urban reform brings down the notorious Franklin Terrace public housing towers, forcing the Barksdale drug crew to find a new home on the streets of West Baltimore. Stringer Bell sets up shop using a new sales strategy for Bodie, Poot, Puddin and the rest of the gang, as he awaits the return of Avon from prison. McNulty, Greggs and the detail look to make a case against Stringer with a wiretap on a drug ring run by his ally, Proposition Joe. Assigned to the Western District drug unit, Carver and Herc notch up the pressure on street dealers. Burrell is caught in a power play by First District Councilman Tommy Carcetti, an ambitious young man with roots deep in the ethnic politics of Baltimore. Mayor Clarence Royce, facing re-election next year, puts Burrell on notice that crime stats, and murders in particular, must come down - whatever it takes. The order from on high has put police commanders on the hot seat during the new Comstat meetings, where they are held up to aggressive criticism by Rawls and others before their peers. Daniels, too, is confronted by the reach of City Hall, as his promotion to major appears to be derailed because of his estranged wife's political ambitions. A rash of murders cuts short Bunk's day at the ballpark, as Bubbles and Johnny lose big in their latest caper for cash. On the eve of his parole, Cutty Wise is offered a new start on the outside by Avon, but after being released, he finds the drug life has changed.</Overview>
   <ProductionCode>301</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>53</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>55</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|David Simon|</Writer>
   <absolute_number></absolute_number>
@@ -1108,7 +1108,7 @@ A wave of urban reform brings down the notorious Franklin Terrace public housing
 Omar continues his bold strikes on Barksdale stash houses, now heavily guarded. Under orders from Stringer Bell, Bodie faces a critical test against Marlo, a fierce young dealer with lucrative corners near the now-toppled Franklin Terrace towers. As the wire on East Baltimore's Proposition Joe continues to yield little, a restless McNulty launches his own reinvestigation of last year's prison suicide of D'Angelo Barksdale. Greggs is also restless at work, but on the home front, she's chaffing at the domesticity that a partner and infant demands. On the street, bodies continue to drop, prompting Burrell and Rawls to jack up the heat on their district commanders. Burrell himself is feeling heat from Councilman Carcetti and reaches an uneasy peace with the legislator. The street violence also presents Daniels with the difficult decision of whether to help end a drug war in the Eastern -- at the cost of giving up a months-long wiretap. Cheese loses more than a little on his bet at a bloody dogfight and later is hauled downtown for questioning as a murder suspect by Bunk and McNulty. A beleaguered Cutty, once a fierce power in the life, attempts to get on track, seeking employment outside the drug world. Carver, Herc and the Western drug unit take to the street undercover, but a hand-to-hand drug-buy goes sour, prompting Major &quot;&quot;Bunny&quot;&quot; Colvin, the district commander, to question his thirty years on the force and the legacy of his career.</Overview>
   <ProductionCode>302</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>52</RatingCount>
+  <RatingCount>53</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Richard Price|</Writer>
   <absolute_number></absolute_number>
@@ -1141,7 +1141,7 @@ Omar continues his bold strikes on Barksdale stash houses, now heavily guarded. 
 Colvin feels the sting of Burrell and Rawls during a Comstat assessment of his district's felony numbers; a blown wiretap forces Daniels' detail to turn to a new target; Proposition Joe cautions Stringer Bell that the police have been tapping phones, as revealed by Cheese's failed bust. Carcetti continues to curry favor in Mayor Royce's inner circle with a scheme for jump-starting a police academy class for Burrell. Omar and crew get more than they bargained for during a stick-up of a Barksdale stash house; Colvin has a new crime-reduction plan, one that he is not telling to the bosses. Already awash in police work, Bunk is dispatched on a mission impossible. McNulty probes deeper into D'Angelo Barksdale's prison suicide last year, while Marlo suggests Fruit get his slumping sales numbers up with a persuasive visit to Bodie's crew. Cutty struggles to stay on the straight and narrow, still hopeful as he tries to reconnect with his long-ago girlfriend, while a group of colleagues gather to pay tribute and provide a proper send off to a friend at an old-time Irish wake.</Overview>
   <ProductionCode>303</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>52</RatingCount>
+  <RatingCount>54</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Dennis Lehane|</Writer>
   <absolute_number></absolute_number>
@@ -1174,7 +1174,7 @@ Colvin feels the sting of Burrell and Rawls during a Comstat assessment of his d
 West Baltimore residents get some surprising straight talk at a community meeting from Major Colvin. Bubbles finds gainful employment; Stringer lunches uptown; and Bunk dangles the promise of immunity to a group of corner boys, in exchange for a little help; Greggs learns how Marlo takes care of business, as Bubbles instructs her on the next big thing: disposable cell phones. Carcetti reveals his political ambitions and tries to enlist the help of an old acquaintance. The cops of the Western ride into the District for a roundup; Colvin delivers his plan to the corner boys, but they're not buying; and a frustrated Cutty opts to return to the game, welcomed back with open arms. McNulty reconnects with Stringer, but fails to connect with Pearlman, who's otherwise engaged.</Overview>
   <ProductionCode>304</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>53</RatingCount>
+  <RatingCount>55</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|George Pelecanos|</Writer>
   <absolute_number></absolute_number>
@@ -1206,8 +1206,8 @@ West Baltimore residents get some surprising straight talk at a community meetin
 
 Frustrated in his grass-roots reform efforts, Colvin arms himself with intelligence from Daniels' detail and personally delivers a message to the next level of corner management. McNulty sees Stringer Bell's legitimate business dealings as a sign that he is now unreachable as a drug target. Bubbles shakes the tree for Johnny one more time; Carcetti quietly seeks to fix the program for protecting state's witnesses after another one is killed; Omar struggles with dissention in the ranks; Stringer hard-sells his new business model to an under-whelmed Marlo. Greggs' surveillance gives McNulty reason to smile, and then he takes an interest in politics. Cutty flexes his muscle and continues to slide back into the life; and Avon returns from prison.</Overview>
   <ProductionCode>305</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>52</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>53</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Edward Burns (III)|</Writer>
   <absolute_number></absolute_number>
@@ -1240,7 +1240,7 @@ Frustrated in his grass-roots reform efforts, Colvin arms himself with intellige
 Stringer Bell gets an education in construction management; Bunk uses shoe-leather to catch up with Omar and deliver a searing message; a frustrated Colvin unleashes the troops on the corner boys ignoring his new edict;  Avon sends Cutty and Slim Charles against Marlo; Bubbles refocuses the picture for Greggs; Donette receives Brianna's blessing of her hookup with Stringer and lets slip that McNulty visited about Dee. Daniels keeps up the front of marriage to Marla, as she pursues a new career at City Hall; McNulty backdoors Daniels with a visit to Colvin; and Burrell hears from the mayor that he should take Baltimore's rising body count very personally</Overview>
   <ProductionCode>306</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>50</RatingCount>
+  <RatingCount>51</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Rafael Alvarez|</Writer>
   <absolute_number></absolute_number>
@@ -1272,8 +1272,8 @@ Stringer Bell gets an education in construction management; Bunk uses shoe-leath
 
 Herc discovers a blast from his past which he later reveals to his colleagues. Daniels becomes enraged when he finds out that why his detail was reassigned. Stringer Bell finds out from old girlfriend Donette that Brianna might contact McNulty about details into her son D'Angelo's death. Greggs and Cheryl are forced to confront their relationship. Colvin is forced to explain Hamsterdam to members of Daniel's detail after an incident occurs in the area. Freamon finds a way to use a cell phone to find out more about Barksdale's corporation.</Overview>
   <ProductionCode>307</ProductionCode>
-  <Rating>8.0</Rating>
-  <RatingCount>46</RatingCount>
+  <Rating>7.9</Rating>
+  <RatingCount>47</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Joy Lusco|</Writer>
   <absolute_number></absolute_number>
@@ -1306,7 +1306,7 @@ Herc discovers a blast from his past which he later reveals to his colleagues. D
 With Hamsterdam running full tilt, Carver and Truck discover there really is no honor among thieves. Prez impresses the detail with what he's found out from Bodie's cell phone, information that sends McNulty and Greggs on a road trip. Colvin sees the benefits of his plan working, but has overlooked the human toll, until the Deacon points out the deficiencies. Stringer Bell fumes over the cost of being a developer, as state Senator Clay Davis attempts to cool him off with some easy money, and then, delivers on his promise of a federal housing connect. Carcetti confronts a hurdle he must clear if he wants to run for higher office, while Marlo appears to take the bait set by the Barksdale crew. Cutty is shown the possibilities for the future with a tour of a working gym, while the Western District cops tip a few, and weigh the merits of Hamsterdam and their loyalty to their commander. Brianna and McNulty sit down for a heart-to-heart, while Avon dispatches the troops to track Omar and wrestles with a revelation by Stringer.</Overview>
   <ProductionCode>308</ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>59</RatingCount>
+  <RatingCount>60</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Richard Price|</Writer>
   <absolute_number></absolute_number>
@@ -1339,7 +1339,7 @@ With Hamsterdam running full tilt, Carver and Truck discover there really is no 
 Responding to a call for an officer's call for help, McNulty and Prez turn up the wrong alley, with unanticipated results. Under orders, a Barksdale crew violates the long-standing, but unspoken, Sunday truce with gunplay, increasing discontent among the New Day Co-op members. Stymied by the bureaucracy in his effort to open a gym, Cutty is surprised to find help from within Baltimore's power structure. Omar decides to go it alone against Avon and Stringer Bell, who are pressed by Brianna for some answers. Bubbles is wired up and sent into Hamsterdam to help make the case against the Barksdale organization, while Pearlman and Daniels confront a cell phone company over its foot-dragging on wiretap orders. Proposition Joe goes to Vinson in an effort to broker peace between Marlo and Avon, while a murder in Amsterdam presents new challenges and further divides the Western District troops and their allegiance to Colvin. Councilman Gray tells Carcetti he's running for mayor and offers him the council president's slot on his ticket.</Overview>
   <ProductionCode>309</ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>48</RatingCount>
+  <RatingCount>49</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|David Simon|</Writer>
   <absolute_number></absolute_number>
@@ -1371,8 +1371,8 @@ Responding to a call for an officer's call for help, McNulty and Prez turn up th
 
 Brother Mouzone returns to Baltimore on a mission of revenge and casts a wide net in his search for Omar, who has his own plan for vengeance. Colvin manages, for now, to put off a Sun reporter inquiring about Hamsterdam, while Burrell delivers news to City Hall, and the reaction is surprisingly mixed. Carver learns how much he doesn't know about good policing, while Pearlman and Daniels plead their case for a new kind of wiretap to Judge Daniel Phelan. Carcetti is about to launch his campaign, but struggles with its effect on his friendship with Council colleague Tony Gray. Stringer falls out of the loop with Avon and is given an ultimatum by Prop Joe and New Day Co-op crews. Cutty's initial approach to teaching boxing ends up alienating the corner boys, while Marlo raises the stakes against the Barksdale gang. Bubbles provides entree to Freamon in an undercover cell-phone hustle.</Overview>
   <ProductionCode>310</ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>50</RatingCount>
+  <Rating>7.9</Rating>
+  <RatingCount>52</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Edward Burns (III)|</Writer>
   <absolute_number></absolute_number>
@@ -1404,8 +1404,8 @@ Brother Mouzone returns to Baltimore on a mission of revenge and casts a wide ne
 
 The wire begins to yield information about the Barksdale organization, though finding links to the top proves elusive. Stringer and Avon reminisce on how far they've come, with each harboring plans for the future. Tipped by Burrell, Carcetti sees Hamsterdam for himself and weighs the benefits against the political reality--an assessment that mirrors Mayor Royce's own struggle with his advisers. Cutty hits upon an unusual benefactor for his boxing gym and continues to reach out to the corner boys. McNulty and D'Agostino find each other again, while at work, McNulty finds the way to a key piece of the puzzle in an unlikely place. Awaiting his fate, Colvin works behind the scenes to shape the outcome of Hamsterdam, while protecting his men from possible repercussions. With Johnny in the wind, Bubbles considers a new partner, while Omar and Brother Mouzone encounter each other suddenly.</Overview>
   <ProductionCode>311</ProductionCode>
-  <Rating>8.2</Rating>
-  <RatingCount>50</RatingCount>
+  <Rating>8.3</Rating>
+  <RatingCount>51</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|George Pelecanos|</Writer>
   <absolute_number></absolute_number>
@@ -1438,7 +1438,7 @@ The wire begins to yield information about the Barksdale organization, though fi
 A reticent Avon readies his troops for a seemingly endless war against Marlo. Meanwhile, as the detail works towards the top rungs of the Barksdale organization, McNulty reassesses his pursuit of Stringer Bell and the path he's chosen for himself. While Royce continues to grapple with Hamsterdam, Burrell offers a deal to minimize the fallout, even as Colvin's idea becomes public knowledge. Carcetti's ambition becomes obvious to his friend and fellow councilman Tony Gray, even as Gray has disclosed his own political plans. Cutty struggles to keep his young boxers off the corners, as he and Fruit cross paths once again. Bubbles offers his view of the world, both as it is and once was.</Overview>
   <ProductionCode>312</ProductionCode>
   <Rating>8.3</Rating>
-  <RatingCount>53</RatingCount>
+  <RatingCount>54</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|David Simon|</Writer>
   <absolute_number></absolute_number>
@@ -1472,7 +1472,7 @@ Four West Baltimore boys wrestle with what to do with the rest of their summer v
 </Overview>
   <ProductionCode>401</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>46</RatingCount>
+  <RatingCount>47</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>David Simon</Writer>
   <absolute_number></absolute_number>
@@ -1506,7 +1506,7 @@ In the hopes of possibly saving her job, Pearlman and Freamon continue arguing o
 </Overview>
   <ProductionCode>402</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>50</RatingCount>
+  <RatingCount>51</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>David Mills</Writer>
   <absolute_number></absolute_number>
@@ -1607,7 +1607,7 @@ Commissioner Burrell loses Royce's support; Chris Partlow tries to recruit Micha
 </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>46</RatingCount>
+  <RatingCount>47</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>David Simon</Writer>
   <absolute_number></absolute_number>
@@ -1641,7 +1641,7 @@ Carcetti responds to a campaign smear.  Randy is accused of a serious transgress
 </Overview>
   <ProductionCode>406</ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>46</RatingCount>
+  <RatingCount>48</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Eric Overmyer</Writer>
   <absolute_number></absolute_number>
@@ -1675,7 +1675,7 @@ Omar calls in a favor to the police; Carcetti gets advice from the ex-mayor and 
 </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>46</RatingCount>
+  <RatingCount>47</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>William F. Zorzi Junior</Writer>
   <absolute_number></absolute_number>
@@ -1709,7 +1709,7 @@ Prez wants to teach off curriculum. Carcetti visits the Homicide Department and 
 </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>38</RatingCount>
+  <RatingCount>39</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Richard Price</Writer>
   <absolute_number></absolute_number>
@@ -1743,7 +1743,7 @@ Herc and Dozerman search for Little Kevin; Omar gets out of jail; Carcetti has h
 </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>50</RatingCount>
+  <RatingCount>52</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Kia Corthron</Writer>
   <absolute_number></absolute_number>
@@ -1776,8 +1776,8 @@ Herc and Dozerman search for Little Kevin; Omar gets out of jail; Carcetti has h
 Walker catches Donut boosting cars and teaches him a lesson; Commissioner Burrell gets advice from Senator Davis; Little Kevin has a talk with Marlo and regrets it; Herc ignores Bubbles call and regrets it; the Area Superintendent questions the success of Colvin and Parenti's project class; Senator Davis attempts to con Carcetti; Carver arrests Namond but keeps him out of baby booking; Burrell has the police force juke the numbers with street sweeps; Marlo puts the word out that Randy is a snitch; Elena sees McNulty as a grown up; Chris Partlow and Snoop target Bug's father for Michael.
 </Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>47</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>49</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Eric Overmyer</Writer>
   <absolute_number></absolute_number>
@@ -1810,8 +1810,8 @@ Walker catches Donut boosting cars and teaches him a lesson; Commissioner Burrel
 Randy has trouble with his friends at school, while Carcetti faces a huge dilemma. Meanwhile, Omar visits Proposition Joe, while Freamon reveals a secret.
 </Overview>
   <ProductionCode></ProductionCode>
-  <Rating>8.1</Rating>
-  <RatingCount>43</RatingCount>
+  <Rating>8.0</Rating>
+  <RatingCount>44</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Edward Burns (III)</Writer>
   <absolute_number></absolute_number>
@@ -1845,7 +1845,7 @@ While searching for the missing bodies, Freamon goes around the chain of command
 </Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.2</Rating>
-  <RatingCount>44</RatingCount>
+  <RatingCount>46</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>George P. Pelecanos</Writer>
   <absolute_number></absolute_number>
@@ -1878,8 +1878,8 @@ While searching for the missing bodies, Freamon goes around the chain of command
 Burrell tries to help Daniels. Bubbles' big plan backfires and leaves him in big trouble. Colvin tries to find a solution for Namond while Omar makes new plans. McNulty tries to pay back his debt.
 </Overview>
   <ProductionCode></ProductionCode>
-  <Rating>8.6</Rating>
-  <RatingCount>42</RatingCount>
+  <Rating>8.5</Rating>
+  <RatingCount>44</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>David Simon</Writer>
   <absolute_number></absolute_number>
@@ -1911,8 +1911,8 @@ Burrell tries to help Daniels. Bubbles' big plan backfires and leaves him in big
 
 As McNulty and the detail continue to stake out Marlo's crew, recently promoted Sgt. Carver is welcomed by a cauldron of discontent from officers coping with unpaid overtime; Though he wants to keep his campaign promise to lower crime, Mayor Carcetti is strapped by his commitment to schools, and faces some tough choices; Col. Daniels is forced to reallocate his resources, retaining Freamon and Sydnor for the Clay Davis probe; Meanwhile, city editor Augustus &quot;Gus&quot; Haynes and the staff of The Baltimore Sun are reeling from corporate cutbacks, losing key personnel from both the metro and international divisions; Still, with the help of reporters Alma Gutierrez, Jeff Price and Scott Templeton, Haynes is able to break a front-page story that links a politician to a co-op drug dealer; Proposition Joe, Marlo, Fatface Rick and other new day co-op members meet in a hotel conference room to discuss divvying up drug frontiers across East Baltimore's county line.</Overview>
   <ProductionCode>501</ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>42</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>44</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>David Simon</Writer>
   <absolute_number></absolute_number>
@@ -1945,7 +1945,7 @@ As McNulty and the detail continue to stake out Marlo's crew, recently promoted 
 Although he tells Sydnor that the Davis investigation could be a &quot;career case,&quot; Freamon keeps a wary eye out for Marlo, who takes care of some unfinished business and strikes a business deal with Avon Barksdale; Carcetti throws the police a bone by removing the cap on secondary employment, which sends the detectives into fantasy-job reveries; With an eye on the state house, Mayor Carcetti's chief of staff, Michael Steintorf, tries to find good news for the mayor whilst blaming the Royce administration for the Campbell revelation; Davis turns to Burrell for help with his problem, but the commissioner's hands are tied; At the newspaper, executive editor James Whiting outlines a Pulitzer-worthy series in broad strokes, trumping Haynes while liberating the ambitious Templeton; Fed up with broken-down cars and unsolved serial murders, McNulty decides to take matters into his own hands.</Overview>
   <ProductionCode>502</ProductionCode>
   <Rating>8.1</Rating>
-  <RatingCount>37</RatingCount>
+  <RatingCount>39</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>William F. Zorzi</Writer>
   <absolute_number></absolute_number>
@@ -1978,7 +1978,7 @@ Although he tells Sydnor that the Davis investigation could be a &quot;career ca
 Mayor Carcetti's master plan for the police department is leaked to the press, sending the brass into a panic; Marlo turns to Proposition Joe for help with an enviable problem; executive editor Whiting and managing editor Thomas Klebanow drop a bombshell on the newspaper staff; Michael finds temporary respite from his life on the corner by taking Dukie and Bug on a trip; McNulty shares some inside info with Gutierrez, but her subsequent story doesn't cause the splash either envisioned; McNulty, undaunted, looks for a new ally in Freamon.</Overview>
   <ProductionCode>503</ProductionCode>
   <Rating>8.2</Rating>
-  <RatingCount>45</RatingCount>
+  <RatingCount>48</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>David Simon|Chris Collins</Writer>
   <absolute_number></absolute_number>
@@ -2011,7 +2011,7 @@ Mayor Carcetti's master plan for the police department is leaked to the press, s
 Campbell tries to smooth out the transitions in the police department; The Baltimore Sun scrambles to confirm surprising news from City Hall, but lose out to the TV media in scooping a high-profile grand jury appearance; Marlo tries to win favor with the Greeks, whilst Proposition Joe pays his last respects to a fallen colleague and prepares to make himself scarce in anticipation of a showdown; Freamon enlists the help of a past partner to help with the investigation.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.1</Rating>
-  <RatingCount>43</RatingCount>
+  <RatingCount>45</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Ed Burns</Writer>
   <absolute_number></absolute_number>
@@ -2044,7 +2044,7 @@ Campbell tries to smooth out the transitions in the police department; The Balti
 Marlo forges an alliance with a drug connect, who shows him a new communications trick; McNulty's case gets increased attention from the newspaper, in large part thanks to the addition of Templeton to the reporting team; Dukie turns to Dennis &quot;Cutty&quot; Wise and Michael to hone his pitiful self-defense skills; Clay Davis finds a new ally; State's Attorney Rupert Bond raises his public profile; Maurice Levy and Herc prepare for litigation; Elena confronts her ex-husband about his behavior; Bubbles has fears about new opportunities; Greggs gets some overtime work; Omar shows patience as Marlo throws out his bait. </Overview>
   <ProductionCode>505</ProductionCode>
   <Rating>8.1</Rating>
-  <RatingCount>39</RatingCount>
+  <RatingCount>42</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>David Simon|Agnieszka Holland</Writer>
   <absolute_number></absolute_number>
@@ -2078,7 +2078,7 @@ Mystified by Omar's disappearance, Marlo and Chris ramp up their efforts to loca
 </Overview>
   <ProductionCode>506</ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>44</RatingCount>
+  <RatingCount>45</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>David Simon|Ed Burns</Writer>
   <absolute_number></absolute_number>
@@ -2111,7 +2111,7 @@ Mystified by Omar's disappearance, Marlo and Chris ramp up their efforts to loca
 After cooking up another scheme for the homeless case, McNulty and Lester become popular figures. Davis is set for his day in court by collecting the best legal assistance money can buy. Plus, Michael has brushes with the wrong side of the law, while Gus seeks help for an old story by going outside the Sun.</Overview>
   <ProductionCode>507</ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>42</RatingCount>
+  <RatingCount>44</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>David Simon|Richard Price</Writer>
   <absolute_number></absolute_number>
@@ -2144,7 +2144,7 @@ After cooking up another scheme for the homeless case, McNulty and Lester become
 A shift in the police department sends Carver to a new location. Meanwhile, Carcetti is forced to put his political future in jeopardy, Haynes digs deeper into Templeton's work, and an important case has a breakthrough by Sydnor, while Fletcher continues working with Bubbles. </Overview>
   <ProductionCode>508</ProductionCode>
   <Rating>8.2</Rating>
-  <RatingCount>43</RatingCount>
+  <RatingCount>46</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>David Simon|Dennis Lehane</Writer>
   <absolute_number></absolute_number>
@@ -2177,7 +2177,7 @@ A shift in the police department sends Carver to a new location. Meanwhile, Carc
 With Carcetti's Chief of Staff Michael Steintorf ordering Rawls to initiate &quot;creative&quot; remedies for the rising crime rate, Freamon's vigilance pays off with a promising lead, sending Sydnor and the department into overdrive; although Daniels is originally delighted, a further probe with Pearlman reveals some troubling source information; McNulty, feeling betrayed, doesn't feel like sharing in Freamon's celebration; Michael is suspicious about his latest assignment; Haynes gets fresh eyes to help with fact-checking; Namond's debating skills make Colvin proud; Davis points a finger at Levy and the courts; and Bubbles recounts a recent temptation overcome.</Overview>
   <ProductionCode>509</ProductionCode>
   <Rating>8.2</Rating>
-  <RatingCount>42</RatingCount>
+  <RatingCount>45</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>David Simon|George Pelecanos</Writer>
   <absolute_number></absolute_number>
@@ -2211,7 +2211,7 @@ Carcetti maps out a damage-control scenario with the police brass in the wake of
 </Overview>
   <ProductionCode>510</ProductionCode>
   <Rating>8.7</Rating>
-  <RatingCount>44</RatingCount>
+  <RatingCount>46</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>David Simon|Ed Burns</Writer>
   <absolute_number></absolute_number>

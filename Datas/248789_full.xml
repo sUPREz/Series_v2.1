@@ -12,8 +12,8 @@
   <Network>NBC</Network>
   <NetworkID></NetworkID>
   <Overview>Smash is a musical drama that celebrates the beauty and heartbreak of the Broadway theater as it follows a cross-section of dreamers and schemers who all have one common desire - to be a Smash </Overview>
-  <Rating>7.8</Rating>
-  <RatingCount>15</RatingCount>
+  <Rating>8.0</Rating>
+  <RatingCount>18</RatingCount>
   <Runtime>60</Runtime>
   <SeriesID>8063</SeriesID>
   <SeriesName>Smash (2012)</SeriesName>
@@ -22,79 +22,11 @@
   <addedBy>342859</addedBy>
   <banner>graphical/248789-g4.jpg</banner>
   <fanart>fanart/original/248789-6.jpg</fanart>
-  <lastupdated>1404990852</lastupdated>
+  <lastupdated>1434201246</lastupdated>
   <poster>posters/248789-6.jpg</poster>
   <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>SH01418959</zap2it_id>
 </Series>
-<Episode>
-  <id>4332177</id>
-  <Combined_episodenumber>1</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag>2</EpImgFlag>
-  <EpisodeName>Pilot Alternate Cut</EpisodeName>
-  <EpisodeNumber>1</EpisodeNumber>
-  <FirstAired></FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview>In the pilot of Smash we are introduced to Tom Levitt and Julia Houstona song-writing duo who had planned on taking a break from the business of Broadway but, find themselves drawn back in when they get the desire to produce a musical based around the life of Marilyn Monroe. When a demo of one of the tracks goes viral the project attracts the eye and ear of tenacious producer Eileen Rand and, although causing a conflict that of director Derek Wills. But the biggest and most important task is to find their Marilyn after, auditioning a range of girls they whittle it down to two but, who do they go for. Ivy Lynn a veteran of the stage who wants to break away from the chorus line to get her break as a lead or Karen Cartwright a fresh talent who is trying to follow her dream of becoming a star.</Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename>episodes/248789/4332177.jpg</filename>
-  <lastupdated>1368337523</lastupdated>
-  <seasonid>466063</seasonid>
-  <seriesid>248789</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height>225</thumb_height>
-  <thumb_width>400</thumb_width>
-</Episode>
-<Episode>
-  <id>4480552</id>
-  <Combined_episodenumber>2</Combined_episodenumber>
-  <Combined_season>0</Combined_season>
-  <DVD_chapter></DVD_chapter>
-  <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director></Director>
-  <EpImgFlag></EpImgFlag>
-  <EpisodeName>Season 2 Sneak Peek</EpisodeName>
-  <EpisodeNumber>2</EpisodeNumber>
-  <FirstAired>2013-01-18</FirstAired>
-  <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
-  <Language>en</Language>
-  <Overview></Overview>
-  <ProductionCode></ProductionCode>
-  <Rating></Rating>
-  <RatingCount>0</RatingCount>
-  <SeasonNumber>0</SeasonNumber>
-  <Writer></Writer>
-  <absolute_number></absolute_number>
-  <airsafter_season></airsafter_season>
-  <airsbefore_episode></airsbefore_episode>
-  <airsbefore_season></airsbefore_season>
-  <filename></filename>
-  <lastupdated>1358568006</lastupdated>
-  <seasonid>466063</seasonid>
-  <seriesid>248789</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
-</Episode>
 <Episode>
   <id>4144136</id>
   <Combined_episodenumber>1</Combined_episodenumber>
@@ -176,7 +108,7 @@
   <Overview>The search begins for a Joe DiMaggio to play opposite Marilyn - but everyone's first choice, Michael, has a secret. Karen returns to Iowa for a baby shower and must decide what she wants for her future. Eileen begins rounding up investors - but ex-husband Jerry may already have poisoned the well.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.0</Rating>
-  <RatingCount>10</RatingCount>
+  <RatingCount>11</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
@@ -238,7 +170,7 @@
   <Overview>Karen finds a new use for her acting talents as she joins Dev at a high-powered government party. The drama between Michael and Julia heats up, as Eileen and Tom's ambitious assistant Ellis forge an alliance. Ivy senses trouble in her relationship with Derek.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.0</Rating>
-  <RatingCount>11</RatingCount>
+  <RatingCount>12</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
@@ -331,7 +263,7 @@
   <Overview>The team deals with the workshop's after-effects; Derek asks Karen to help him steal the show from Tom and Julia; Eileen's daughter's surprise visit forces her to deal with her ex-husband.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.2</Rating>
-  <RatingCount>10</RatingCount>
+  <RatingCount>11</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
@@ -362,7 +294,7 @@
   <Overview>Julia and Tom must find a title for the recently reinvigorated musical; Ivy and Karen compete for an orange juice commercial; Frank makes a discovery.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.2</Rating>
-  <RatingCount>11</RatingCount>
+  <RatingCount>12</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
@@ -562,11 +494,11 @@
 </Episode>
 <Episode>
   <id>4430244</id>
-  <Combined_episodenumber>1.1</Combined_episodenumber>
+  <Combined_episodenumber>1.0</Combined_episodenumber>
   <Combined_season>2</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber>1.1</DVD_episodenumber>
+  <DVD_episodenumber>1.0</DVD_episodenumber>
   <DVD_season>2</DVD_season>
   <Director>Michael Morris</Director>
   <EpImgFlag>2</EpImgFlag>
@@ -578,13 +510,13 @@
   <Language>en</Language>
   <Overview>Back from a successful run in Boston, Eileen, Julia and Tom are blindsided by both personal and professional obstacles as they seek to take &quot;Bombshell&quot; to Broadway. Karen consults her new mentor, Broadway star Veronica &quot;Ronnie&quot; Moore, as she finds herself on the brink of fame, but her success may come at cost to Ivy. A new talent is discovered in an unexpected place. Meanwhile, Derek copes with a damaging accusation.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>6.8</Rating>
-  <RatingCount>9</RatingCount>
+  <Rating>7.0</Rating>
+  <RatingCount>11</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Joshua Safran</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248789/4430244.jpg</filename>
-  <lastupdated>1387780676</lastupdated>
+  <lastupdated>1422982102</lastupdated>
   <seasonid>501423</seasonid>
   <seriesid>248789</seriesid>
   <thumb_added></thumb_added>
@@ -593,12 +525,12 @@
 </Episode>
 <Episode>
   <id>4472550</id>
-  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_episodenumber>2.0</Combined_episodenumber>
   <Combined_season>2</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>2.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
   <Director>Craig Zisk</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>The Fallout</EpisodeName>
@@ -610,12 +542,12 @@
   <Overview>Back from a successful run in Boston, Eileen, Julia and Tom are blindsided by both personal and professional obstacles as they seek to take &quot;Bombshell&quot; to Broadway. Karen consults her new mentor, Broadway star Veronica &quot;Ronnie&quot; Moore, as she finds herself on the brink of fame, but her success may come at cost to Ivy. A new talent is discovered in an unexpected place. Meanwhile, Derek copes with a damaging accusation.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>1</RatingCount>
+  <RatingCount>2</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Julie Rottenberg|Elisa Zuritsky</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248789/4472550.jpg</filename>
-  <lastupdated>1387929260</lastupdated>
+  <lastupdated>1423130470</lastupdated>
   <seasonid>501423</seasonid>
   <seriesid>248789</seriesid>
   <thumb_added></thumb_added>
@@ -624,11 +556,11 @@
 </Episode>
 <Episode>
   <id>4472551</id>
-  <Combined_episodenumber>2.0</Combined_episodenumber>
+  <Combined_episodenumber>3.0</Combined_episodenumber>
   <Combined_season>2</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber>2.0</DVD_episodenumber>
+  <DVD_episodenumber>3.0</DVD_episodenumber>
   <DVD_season>2</DVD_season>
   <Director>Larry Shaw</Director>
   <EpImgFlag>2</EpImgFlag>
@@ -640,13 +572,13 @@
   <Language>en</Language>
   <Overview>Partnerships are tested as Eileen asks Tom and Julia to contend with an unwelcome new collaborator, while Jimmy and Kyle prepare to present their work for the first time. Derek attempts to get Ronnie back on his side. Ivy finds it hard to move on, but help from an old friend might take her one step closer to her dream.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>6.9</Rating>
-  <RatingCount>9</RatingCount>
+  <Rating>7.1</Rating>
+  <RatingCount>11</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Bryan Goluboff</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248789/4472551.jpg</filename>
-  <lastupdated>1387780716</lastupdated>
+  <lastupdated>1422980992</lastupdated>
   <seasonid>501423</seasonid>
   <seriesid>248789</seriesid>
   <thumb_added></thumb_added>
@@ -655,11 +587,11 @@
 </Episode>
 <Episode>
   <id>4500821</id>
-  <Combined_episodenumber>3.0</Combined_episodenumber>
+  <Combined_episodenumber>4.0</Combined_episodenumber>
   <Combined_season>2</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber>3.0</DVD_episodenumber>
+  <DVD_episodenumber>4.0</DVD_episodenumber>
   <DVD_season>2</DVD_season>
   <Director>Michael Morris</Director>
   <EpImgFlag>2</EpImgFlag>
@@ -671,13 +603,13 @@
   <Language>en</Language>
   <Overview>Derek calls in help for a special event, but Jimmy's pride might get in the way of a huge opportunity Karen orchestrates for him and Kyle. Peter challenges Julia's pride as they continue to work together. Meanwhile, Ronnie struggles to assert her independence from a powerful mother, as Eileen finds herself at a moral crossroads with huge ramifications for &quot;Bombshell.&quot; </Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.0</Rating>
-  <RatingCount>8</RatingCount>
+  <Rating>7.2</Rating>
+  <RatingCount>10</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Bathsheba Doran</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248789/4500821.jpg</filename>
-  <lastupdated>1387780728</lastupdated>
+  <lastupdated>1422982049</lastupdated>
   <seasonid>501423</seasonid>
   <seriesid>248789</seriesid>
   <thumb_added></thumb_added>
@@ -686,11 +618,11 @@
 </Episode>
 <Episode>
   <id>4517022</id>
-  <Combined_episodenumber>4.0</Combined_episodenumber>
+  <Combined_episodenumber>5.0</Combined_episodenumber>
   <Combined_season>2</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber>4.0</DVD_episodenumber>
+  <DVD_episodenumber>5.0</DVD_episodenumber>
   <DVD_season>2</DVD_season>
   <Director>David Petrarca</Director>
   <EpImgFlag>2</EpImgFlag>
@@ -702,13 +634,13 @@
   <Language>en</Language>
   <Overview>Tom informs Julia that he has doubts about Peter, which intensifies Julia's concerns. Meanwhile, the first reading for &quot;Hit List&quot; takes place; Ivy's hopes are dashed when she meets her new costar; and Karen is unsure if she can place her trust in Jimmy.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.0</Rating>
-  <RatingCount>10</RatingCount>
+  <Rating>7.2</Rating>
+  <RatingCount>12</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Liz Tuccillo</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248789/4517022.jpg</filename>
-  <lastupdated>1387780738</lastupdated>
+  <lastupdated>1422982033</lastupdated>
   <seasonid>501423</seasonid>
   <seriesid>248789</seriesid>
   <thumb_added></thumb_added>
@@ -717,11 +649,11 @@
 </Episode>
 <Episode>
   <id>4517023</id>
-  <Combined_episodenumber>5.0</Combined_episodenumber>
+  <Combined_episodenumber>6.0</Combined_episodenumber>
   <Combined_season>2</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber>5.0</DVD_episodenumber>
+  <DVD_episodenumber>6.0</DVD_episodenumber>
   <DVD_season>2</DVD_season>
   <Director>Dan Lerner</Director>
   <EpImgFlag>2</EpImgFlag>
@@ -733,13 +665,13 @@
   <Language>en</Language>
   <Overview>Derek and Karen reach a turning point, so one of them makes a tough decision. Meanwhile, problems emerge in Jerry and Eileen's partnership; complications arise at the &quot;Hit List&quot; debut at the Fringe Festival; and Ivy attempts to save her and Terry's show.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.0</Rating>
-  <RatingCount>5</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>7</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Julia Brownell</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248789/4517023.jpg</filename>
-  <lastupdated>1387780746</lastupdated>
+  <lastupdated>1422982004</lastupdated>
   <seasonid>501423</seasonid>
   <seriesid>248789</seriesid>
   <thumb_added></thumb_added>
@@ -748,11 +680,11 @@
 </Episode>
 <Episode>
   <id>4517024</id>
-  <Combined_episodenumber>6.0</Combined_episodenumber>
+  <Combined_episodenumber>7.0</Combined_episodenumber>
   <Combined_season>2</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber>6.0</DVD_episodenumber>
+  <DVD_episodenumber>7.0</DVD_episodenumber>
   <DVD_season>2</DVD_season>
   <Director>Casey Nicholaw</Director>
   <EpImgFlag>2</EpImgFlag>
@@ -764,13 +696,13 @@
   <Language>en</Language>
   <Overview>Karen, Tom, Julia and Derek adapt to a new environment, where clashes arise. Meanwhile, pressure mounts at &quot;Liaisons&quot;; and Katie's assistance leads Eileen to discover how to salvage &quot;Bombshell.&quot; </Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.1</Rating>
-  <RatingCount>7</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>8</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Becky Mode</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248789/4517024.jpg</filename>
-  <lastupdated>1387780758</lastupdated>
+  <lastupdated>1422982363</lastupdated>
   <seasonid>501423</seasonid>
   <seriesid>248789</seriesid>
   <thumb_added></thumb_added>
@@ -779,11 +711,11 @@
 </Episode>
 <Episode>
   <id>4526477</id>
-  <Combined_episodenumber>7.0</Combined_episodenumber>
+  <Combined_episodenumber>8.0</Combined_episodenumber>
   <Combined_season>2</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber>7.0</DVD_episodenumber>
+  <DVD_episodenumber>8.0</DVD_episodenumber>
   <DVD_season>2</DVD_season>
   <Director>Craig Zisk</Director>
   <EpImgFlag>2</EpImgFlag>
@@ -795,13 +727,13 @@
   <Language>en</Language>
   <Overview>Ivy brings Sam back to New York City which makes things uncomfortable for Tom. Jimmy finds himself at odds with Derek regarding &quot;Hit List&quot;. Ana and Karen struggle with being assertive.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>6.5</Rating>
-  <RatingCount>6</RatingCount>
+  <Rating>7.0</Rating>
+  <RatingCount>8</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Noelle Valdivia</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248789/4526477.jpg</filename>
-  <lastupdated>1387780768</lastupdated>
+  <lastupdated>1423130659</lastupdated>
   <seasonid>501423</seasonid>
   <seriesid>248789</seriesid>
   <thumb_added></thumb_added>
@@ -810,11 +742,11 @@
 </Episode>
 <Episode>
   <id>4526478</id>
-  <Combined_episodenumber>8.0</Combined_episodenumber>
+  <Combined_episodenumber>9.0</Combined_episodenumber>
   <Combined_season>2</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber>8.0</DVD_episodenumber>
+  <DVD_episodenumber>9.0</DVD_episodenumber>
   <DVD_season>2</DVD_season>
   <Director>Tricia Brock</Director>
   <EpImgFlag>2</EpImgFlag>
@@ -826,13 +758,13 @@
   <Language>en</Language>
   <Overview>After Leigh Conroy joins the cast of &quot;Bombshell,&quot; Tom finds himself struggling to diffuse the years of tension between her and Ivy. Jimmy and Karen’s connection is threatened by both Ana’s newfound success and an unexpected visitor. Derek learns more about Jimmy’s past just as the public sees their first piece of &quot;Hit List.&quot;</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>6.6</Rating>
-  <RatingCount>7</RatingCount>
+  <Rating>7.0</Rating>
+  <RatingCount>9</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Jordon Nardino</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248789/4526478.jpg</filename>
-  <lastupdated>1387780776</lastupdated>
+  <lastupdated>1422998791</lastupdated>
   <seasonid>501423</seasonid>
   <seriesid>248789</seriesid>
   <thumb_added></thumb_added>
@@ -841,11 +773,11 @@
 </Episode>
 <Episode>
   <id>4526479</id>
-  <Combined_episodenumber>9.0</Combined_episodenumber>
+  <Combined_episodenumber>10.0</Combined_episodenumber>
   <Combined_season>2</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber>9.0</DVD_episodenumber>
+  <DVD_episodenumber>10.0</DVD_episodenumber>
   <DVD_season>2</DVD_season>
   <Director>S.J. Clarkson</Director>
   <EpImgFlag>2</EpImgFlag>
@@ -857,13 +789,13 @@
   <Language>en</Language>
   <Overview>Tom plans a surprise for Ivy in an attempt to find a balance between their work life and their friendship. Relations between Karen, Jimmy, and Derek explode just as &quot;Hit List's&quot; rehearsal process nears its close. While Richard asks Eileen to spend less time at work and more time with him, Julia finds herself also pulled away from &quot;Bombshell&quot; by an unlikely source.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>6.8</Rating>
-  <RatingCount>5</RatingCount>
+  <Rating>7.3</Rating>
+  <RatingCount>8</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Julie Rottenberg &amp; Elisa Zuritsky</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248789/4526479.jpg</filename>
-  <lastupdated>1387780788</lastupdated>
+  <lastupdated>1423130729</lastupdated>
   <seasonid>501423</seasonid>
   <seriesid>248789</seriesid>
   <thumb_added></thumb_added>
@@ -872,11 +804,11 @@
 </Episode>
 <Episode>
   <id>4526480</id>
-  <Combined_episodenumber>10.0</Combined_episodenumber>
+  <Combined_episodenumber>11.0</Combined_episodenumber>
   <Combined_season>2</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber>10.0</DVD_episodenumber>
+  <DVD_episodenumber>11.0</DVD_episodenumber>
   <DVD_season>2</DVD_season>
   <Director>Mimi Leder</Director>
   <EpImgFlag>2</EpImgFlag>
@@ -888,13 +820,13 @@
   <Language>en</Language>
   <Overview>Tom’s overeagerness may hurt “Bombshell” as he and Julia prepare the show for previews. Meanwhile, Ivy has an on-stage blunder, which leads her to make an important decision; and Karen begins to question Derek’s true motives.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>6.9</Rating>
-  <RatingCount>8</RatingCount>
+  <Rating>7.2</Rating>
+  <RatingCount>11</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Julia Brownell</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248789/4526480.jpg</filename>
-  <lastupdated>1387780803</lastupdated>
+  <lastupdated>1423000349</lastupdated>
   <seasonid>501423</seasonid>
   <seriesid>248789</seriesid>
   <thumb_added></thumb_added>
@@ -903,11 +835,11 @@
 </Episode>
 <Episode>
   <id>4526481</id>
-  <Combined_episodenumber>11.0</Combined_episodenumber>
+  <Combined_episodenumber>12.0</Combined_episodenumber>
   <Combined_season>2</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber>11.0</DVD_episodenumber>
+  <DVD_episodenumber>12.0</DVD_episodenumber>
   <DVD_season>2</DVD_season>
   <Director>Michael Morris</Director>
   <EpImgFlag>2</EpImgFlag>
@@ -919,13 +851,13 @@
   <Language>en</Language>
   <Overview>It's &quot;Bombshell's&quot; opening night. As Ivy's nerves get the better of her, support comes from an unlikely source. Meanwhile, Tom and Julia look to their next project. &quot;Bombshell's&quot; success may be in jeopardy as Eileen's issues with Richard come to a head. Jimmy finally opens up to Karen about his past, but is it too little too late?</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>6</RatingCount>
+  <Rating>7.9</Rating>
+  <RatingCount>8</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Bathsheba Doran and Noelle Valdivia</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248789/4526481.jpg</filename>
-  <lastupdated>1387780814</lastupdated>
+  <lastupdated>1423000846</lastupdated>
   <seasonid>501423</seasonid>
   <seriesid>248789</seriesid>
   <thumb_added></thumb_added>
@@ -934,11 +866,11 @@
 </Episode>
 <Episode>
   <id>4526482</id>
-  <Combined_episodenumber>12.0</Combined_episodenumber>
+  <Combined_episodenumber>13.0</Combined_episodenumber>
   <Combined_season>2</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber>12.0</DVD_episodenumber>
+  <DVD_episodenumber>13.0</DVD_episodenumber>
   <DVD_season>2</DVD_season>
   <Director>Tricia Brock</Director>
   <EpImgFlag>2</EpImgFlag>
@@ -950,13 +882,13 @@
   <Language>en</Language>
   <Overview>An off-the-rails Jimmy threatens &quot;Hit List's&quot; future, as Karen, Derek, Ana and Kyle try to help him before something bad happens. Tom and Julia's partnership is strained to the breaking point just as Ivy, Eileen, and the entire &quot;Bombshell&quot; team are running themselves ragged to outshine the competition. </Overview>
   <ProductionCode></ProductionCode>
-  <Rating>5.8</Rating>
-  <RatingCount>4</RatingCount>
+  <Rating>6.6</Rating>
+  <RatingCount>5</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Becky Mode</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248789/4526482.jpg</filename>
-  <lastupdated>1387780822</lastupdated>
+  <lastupdated>1423066064</lastupdated>
   <seasonid>501423</seasonid>
   <seriesid>248789</seriesid>
   <thumb_added></thumb_added>
@@ -965,11 +897,11 @@
 </Episode>
 <Episode>
   <id>4526483</id>
-  <Combined_episodenumber>13.0</Combined_episodenumber>
+  <Combined_episodenumber>14.0</Combined_episodenumber>
   <Combined_season>2</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber>13.0</DVD_episodenumber>
+  <DVD_episodenumber>14.0</DVD_episodenumber>
   <DVD_season>2</DVD_season>
   <Director>Roxann Dawson</Director>
   <EpImgFlag>2</EpImgFlag>
@@ -981,13 +913,13 @@
   <Language>en</Language>
   <Overview>An unexpected event bonds both &quot;Bombshell&quot; and &quot;Hit List.&quot;</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>6.2</Rating>
-  <RatingCount>5</RatingCount>
+  <Rating>6.8</Rating>
+  <RatingCount>6</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Jordon Nardino &amp; Joshua Safran</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248789/4526483.jpg</filename>
-  <lastupdated>1387780832</lastupdated>
+  <lastupdated>1423066192</lastupdated>
   <seasonid>501423</seasonid>
   <seriesid>248789</seriesid>
   <thumb_added></thumb_added>
@@ -996,11 +928,11 @@
 </Episode>
 <Episode>
   <id>4526484</id>
-  <Combined_episodenumber>14.0</Combined_episodenumber>
+  <Combined_episodenumber>15.0</Combined_episodenumber>
   <Combined_season>2</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber>14.0</DVD_episodenumber>
+  <DVD_episodenumber>15.0</DVD_episodenumber>
   <DVD_season>2</DVD_season>
   <Director>Holly Dale</Director>
   <EpImgFlag>2</EpImgFlag>
@@ -1012,13 +944,13 @@
   <Language>en</Language>
   <Overview>With his sights set on the Tony, Tom pulls out all the stops at a Houston &amp; Levitt tribute night, but can Julia turn away from &quot;Hit List&quot; long enough to help? Ivy is afraid of damaging her reputation when Tom asks her to perform a risqué number. The cast of &quot;Hit List&quot; is rocked by a betrayal close to home.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>6.3</Rating>
-  <RatingCount>6</RatingCount>
+  <Rating>6.9</Rating>
+  <RatingCount>7</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Justin Brenneman &amp; Julia Brownell</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248789/4526484.jpg</filename>
-  <lastupdated>1387780840</lastupdated>
+  <lastupdated>1423129696</lastupdated>
   <seasonid>501423</seasonid>
   <seriesid>248789</seriesid>
   <thumb_added></thumb_added>
@@ -1027,11 +959,11 @@
 </Episode>
 <Episode>
   <id>4526485</id>
-  <Combined_episodenumber>15.1</Combined_episodenumber>
+  <Combined_episodenumber>16.0</Combined_episodenumber>
   <Combined_season>2</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber>15.1</DVD_episodenumber>
+  <DVD_episodenumber>16.0</DVD_episodenumber>
   <DVD_season>2</DVD_season>
   <Director>Michael Morris</Director>
   <EpImgFlag>2</EpImgFlag>
@@ -1043,13 +975,13 @@
   <Language>en</Language>
   <Overview>It's a crucial moment for both shows as Tony nominations loom, but keeping your eye on the prize can be hard. As Tom crosses an influential Tony voter and Ivy copes with some very distracting news, Derek's past has repercussions for the entire &quot;Hit List&quot; team.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>6.0</Rating>
-  <RatingCount>4</RatingCount>
+  <Rating>6.8</Rating>
+  <RatingCount>5</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Bryan Goluboff</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248789/4526485.jpg</filename>
-  <lastupdated>1387780851</lastupdated>
+  <lastupdated>1423067781</lastupdated>
   <seasonid>501423</seasonid>
   <seriesid>248789</seriesid>
   <thumb_added></thumb_added>
@@ -1058,12 +990,12 @@
 </Episode>
 <Episode>
   <id>4526486</id>
-  <Combined_episodenumber>17</Combined_episodenumber>
+  <Combined_episodenumber>17.0</Combined_episodenumber>
   <Combined_season>2</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>17.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
   <Director>Michael Morris</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>The Tonys</EpisodeName>
@@ -1074,13 +1006,13 @@
   <Language>en</Language>
   <Overview>On Tony night, the awards might not provide the answers everyone is looking for. As Jimmy faces a final reckoning, Tom, Julia, Derek, Karen, Ivy, and most of all, Eileen wait to see if the ceremony will confirm their place in the Broadway pantheon once and for all.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>1.0</Rating>
-  <RatingCount>1</RatingCount>
+  <Rating>5.5</Rating>
+  <RatingCount>2</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Joshua Safran</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248789/4526486.jpg</filename>
-  <lastupdated>1387929277</lastupdated>
+  <lastupdated>1423130037</lastupdated>
   <seasonid>501423</seasonid>
   <seriesid>248789</seriesid>
   <thumb_added></thumb_added>

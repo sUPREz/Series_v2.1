@@ -3,7 +3,7 @@
   <id>277165</id>
   <Actors>|Thomas Middleditch|T.J. Miller|Zach Woods|Kumail Nanjiani|Matt Ross|Amanda Crew|Christopher Evan Welch|Josh Brener|Martin Starr|</Actors>
   <Airs_DayOfWeek>Sunday</Airs_DayOfWeek>
-  <Airs_Time>10:00 PM</Airs_Time>
+  <Airs_Time>22:00</Airs_Time>
   <ContentRating>TV-14</ContentRating>
   <FirstAired>2014-04-06</FirstAired>
   <Genre>|Comedy|</Genre>
@@ -11,19 +11,19 @@
   <Language>en</Language>
   <Network>HBO</Network>
   <NetworkID></NetworkID>
-  <Overview>In the high-tech gold rush of modern Silicon Valley, the people most qualified to succeed are the least capable of handling success. A comedy partially inspired by Mike Judge's own experiences as a Silicon Valley engineer in the late 1980s. </Overview>
-  <Rating>8.8</Rating>
-  <RatingCount>20</RatingCount>
+  <Overview>In the high-tech gold rush of modern Silicon Valley, the people most qualified to succeed are the least capable of handling success. A comedy partially inspired by Mike Judge's own experiences as a Silicon Valley engineer in the late 1980s.</Overview>
+  <Rating>8.4</Rating>
+  <RatingCount>45</RatingCount>
   <Runtime>30</Runtime>
-  <SeriesID>193400</SeriesID>
+  <SeriesID>3072410</SeriesID>
   <SeriesName>Silicon Valley</SeriesName>
   <Status>Continuing</Status>
   <added>2014-01-10 11:18:03</added>
   <addedBy>346515</addedBy>
   <banner>graphical/277165-g5.jpg</banner>
   <fanart>fanart/original/277165-2.jpg</fanart>
-  <lastupdated>1405787069</lastupdated>
-  <poster>posters/277165-6.jpg</poster>
+  <lastupdated>1434939752</lastupdated>
+  <poster>posters/277165-1.jpg</poster>
   <tms_wanted_old>0</tms_wanted_old>
   <zap2it_id>SH01859571</zap2it_id>
 </Series>
@@ -63,12 +63,12 @@
 </Episode>
 <Episode>
   <id>4765079</id>
-  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_episodenumber>1.0</Combined_episodenumber>
   <Combined_season>1</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>1.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
   <Director>Mike Judge</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Minimum Viable Product</EpisodeName>
@@ -80,12 +80,12 @@
   <Overview>Attending an elaborate launch party, Richard and his computer programmer friends - Big Head, Dinesh and Gilfoyle - dream of making it big. Instead, they're living in the communal Hacker Hostel owned by former programmer Erlich, who gets to claim ten percent of anything they invent there. When it becomes clear that Richard has developed a powerful compression algorithm for his website, Pied Piper, he finds himself courted by Gavin Belson, his egomaniacal corporate boss, who offers a $10 million buyout by his firm, Hooli. But Richard holds back when well-known investor Peter Gregory makes a counteroffer. </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>29</RatingCount>
+  <RatingCount>42</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|John Altschuler|Dave Krinskey|Mike Judge|</Writer>
   <absolute_number>1</absolute_number>
   <filename>episodes/277165/4765079.jpg</filename>
-  <lastupdated>1404561099</lastupdated>
+  <lastupdated>1430925174</lastupdated>
   <seasonid>572784</seasonid>
   <seriesid>277165</seriesid>
   <thumb_added>2014-03-31 01:18:19</thumb_added>
@@ -94,12 +94,12 @@
 </Episode>
 <Episode>
   <id>4794504</id>
-  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_episodenumber>2.0</Combined_episodenumber>
   <Combined_season>1</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>2.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
   <Director>Mike Judge</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>The Cap Table</EpisodeName>
@@ -108,15 +108,15 @@
   <GuestStars></GuestStars>
   <IMDB_ID>tt3668816</IMDB_ID>
   <Language>en</Language>
-  <Overview>After a celebratory party at the Hacker Hostel, Richard and Erlich learn that Peter Gregory won't pay up until they deliver a viable business plan that includes a slimmed-downed staff. A desperate Richard hires former Belson underling Jared, and they set about trying to trim the fat. While Gilfoyle and Dinesh prove essential, Big Head's place in the company is less certain.</Overview>
+  <Overview>After a celebratory party at the Hacker Hostel, Richard and Erlich learn that Peter Gregory won't pay up until they deliver a viable business plan that includes a slimmed-down staff. A desperate Richard hires former Belson underling Jared, and they set about trying to trim the fat. While Gilfoyle and Dinesh prove essential, Big Head's place in the company is less certain.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>23</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>37</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Carson Mell</Writer>
   <absolute_number>2</absolute_number>
   <filename>episodes/277165/4794504.jpg</filename>
-  <lastupdated>1404562685</lastupdated>
+  <lastupdated>1430925184</lastupdated>
   <seasonid>572784</seasonid>
   <seriesid>277165</seriesid>
   <thumb_added>2014-04-29 12:17:47</thumb_added>
@@ -125,12 +125,12 @@
 </Episode>
 <Episode>
   <id>4794505</id>
-  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_episodenumber>3.0</Combined_episodenumber>
   <Combined_season>1</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>3.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
   <Director>Tricia Brock</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Articles of Incorporation</EpisodeName>
@@ -141,13 +141,13 @@
   <Language>en</Language>
   <Overview>While Gavin Belson begins to hype Nucleus, a competing compression platform, Richard learns that the name Pied Piper is already registered to a sprinkler company, forcing him to negotiate. Meanwhile, Erlich goes on a vision quest for a new company name, and Peter Gregory proves elusive when one of his companies asks for money.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.4</Rating>
-  <RatingCount>25</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>36</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Matteo Borghese|Rob Turbovsk|</Writer>
   <absolute_number>3</absolute_number>
   <filename>episodes/277165/4794505.jpg</filename>
-  <lastupdated>1405349852</lastupdated>
+  <lastupdated>1430925194</lastupdated>
   <seasonid>572784</seasonid>
   <seriesid>277165</seriesid>
   <thumb_added>2014-04-29 12:18:31</thumb_added>
@@ -156,12 +156,12 @@
 </Episode>
 <Episode>
   <id>4794506</id>
-  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_episodenumber>4.0</Combined_episodenumber>
   <Combined_season>1</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>4.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
   <Director>Maggie Carey</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Fiduciary Duties</EpisodeName>
@@ -172,13 +172,13 @@
   <Language>en</Language>
   <Overview>At Peter's toga party, Richard drunkenly promises to make Erlich a board member, which he regrets the next morning. After being unassigned at Hooli, Big Head finds others like him who have made careers out of doing nothing. Richard struggles to put Pied Piper's vision into words for a presentation without Erlich; later, he discovers an interesting connection between Peter and Gavin Belson.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>19</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>31</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Rob Weiner</Writer>
   <absolute_number>4</absolute_number>
   <filename>episodes/277165/4794506.jpg</filename>
-  <lastupdated>1404564726</lastupdated>
+  <lastupdated>1430925202</lastupdated>
   <seasonid>572784</seasonid>
   <seriesid>277165</seriesid>
   <thumb_added>2014-04-29 12:19:20</thumb_added>
@@ -187,12 +187,12 @@
 </Episode>
 <Episode>
   <id>4794507</id>
-  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_episodenumber>5.0</Combined_episodenumber>
   <Combined_season>1</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>5.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
   <Director>Alec Berg</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Signaling Risk</EpisodeName>
@@ -203,13 +203,13 @@
   <Language>en</Language>
   <Overview>Erlich taps a graffiti artist to design Pied Piper's logo, with predictably controversial results. Meanwhile, Richard learns he doesn't have much time to prepare for a live demonstration at TechCrunch Disrupt; Gavin Belson and Peter Gregory have an unexpected encounter; and Jared works on the company's efficiency. </Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>20</RatingCount>
+  <Rating>7.9</Rating>
+  <RatingCount>31</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Jessica Gao</Writer>
   <absolute_number>5</absolute_number>
   <filename>episodes/277165/4794507.jpg</filename>
-  <lastupdated>1404564765</lastupdated>
+  <lastupdated>1430925210</lastupdated>
   <seasonid>572784</seasonid>
   <seriesid>277165</seriesid>
   <thumb_added>2014-05-06 01:05:41</thumb_added>
@@ -218,12 +218,12 @@
 </Episode>
 <Episode>
   <id>4794508</id>
-  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_episodenumber>6.0</Combined_episodenumber>
   <Combined_season>1</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>6.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
   <Director>Alec Berg</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Third Party Insourcing</EpisodeName>
@@ -234,13 +234,13 @@
   <Language>en</Language>
   <Overview>Richard feels threatened when the team hires The Carver a hacker with a notorious reputation, to help with Pied Piper’s cloud. Jared finds himself taken for a ride when he seeks out Peter Gregory’s signature. Erlich and Dinesh compete for the attention of Tara, Gilfoyles visiting girlfriend. Later, Dinesh faces a sexual dilemma.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>19</RatingCount>
+  <Rating>7.9</Rating>
+  <RatingCount>30</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Dan O’Keefe</Writer>
   <absolute_number>6</absolute_number>
   <filename>episodes/277165/4794508.jpg</filename>
-  <lastupdated>1405786810</lastupdated>
+  <lastupdated>1430925218</lastupdated>
   <seasonid>572784</seasonid>
   <seriesid>277165</seriesid>
   <thumb_added>2014-05-06 01:07:31</thumb_added>
@@ -249,12 +249,12 @@
 </Episode>
 <Episode>
   <id>4794509</id>
-  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_episodenumber>7.0</Combined_episodenumber>
   <Combined_season>1</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>7.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
   <Director>Mike Judge</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Proof of Concept</EpisodeName>
@@ -265,13 +265,13 @@
   <Language>en</Language>
   <Overview>At TechCrunch Disrupt, Richard feels the pressure to finish his demo, but finds himself distracted by a girl he dated briefly, who’s now spreading rumors about him. Jared worries that Monica is taking his place in the company. Dinesh develops a crush on a girl at a neighboring booth. Erlich’s scandalous past connection to one of the judges threatens Pied Piper’s chances.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>17</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>30</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Clay Tarver</Writer>
   <absolute_number>7</absolute_number>
   <filename>episodes/277165/4794509.jpg</filename>
-  <lastupdated>1404564831</lastupdated>
+  <lastupdated>1430925225</lastupdated>
   <seasonid>572784</seasonid>
   <seriesid>277165</seriesid>
   <thumb_added>2014-05-12 05:24:44</thumb_added>
@@ -280,15 +280,15 @@
 </Episode>
 <Episode>
   <id>4822932</id>
-  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_episodenumber>8.0</Combined_episodenumber>
   <Combined_season>1</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>8.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
   <Director>Mike Judge</Director>
   <EpImgFlag>2</EpImgFlag>
-  <EpisodeName>Optimal Tip-To-Tip Efficiency</EpisodeName>
+  <EpisodeName>Optimal Tip-to-Tip Efficiency</EpisodeName>
   <EpisodeNumber>8</EpisodeNumber>
   <FirstAired>2014-06-01</FirstAired>
   <GuestStars></GuestStars>
@@ -296,16 +296,326 @@
   <Language>en</Language>
   <Overview>Poised to compete at TechCrunch Disrupt, the guys of Pied Piper become worried after an impressive presentation by Gavin Belson. As Jared tries to pivot the company, Richard is inspired to make big changes at the last minute. </Overview>
   <ProductionCode></ProductionCode>
-  <Rating>8.0</Rating>
-  <RatingCount>15</RatingCount>
+  <Rating>8.3</Rating>
+  <RatingCount>28</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Alec Berg</Writer>
   <absolute_number>8</absolute_number>
   <filename>episodes/277165/4822932.jpg</filename>
-  <lastupdated>1404564929</lastupdated>
+  <lastupdated>1430925233</lastupdated>
   <seasonid>572784</seasonid>
   <seriesid>277165</seriesid>
   <thumb_added>2014-06-02 14:59:52</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5091616</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Mike Judge</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Sand Hill Shuffle</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2015-04-12</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3682540</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Following their success at TechCrunch Disrupt, the guys of Pied Piper find themselves aggressively courted by every VC in Silicon Valley. With Peter Gregory’s company facing major changes, Monica tries to do what’s best while dealing with new managing partner Laurie, a competitive bigwig who will do anything to hold onto Pied Piper. Later, Richard makes a decision about the company’s future and faces big news from Hooli.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>16</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Clay Tarver</Writer>
+  <absolute_number>9</absolute_number>
+  <filename>episodes/277165/5091616.jpg</filename>
+  <lastupdated>1432318639</lastupdated>
+  <seasonid>608408</seasonid>
+  <seriesid>277165</seriesid>
+  <thumb_added>2015-04-10 05:58:44</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5148405</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Mike Judge</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Runaway Devaluation</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2015-04-19</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3682600</IMDB_ID>
+  <Language>en</Language>
+  <Overview>In the wake of Hooli’s bombshell, Richard and the guys struggle to find a backer as they face legal and financial woes. Monica attempts to balance her interest in Pied Piper with her job. A cash-strapped Dinesh tries to put an end to the Kickstarter campaign for his cousin’s new app, Bro. Richard gets a surprising offer.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>13</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Ron Weiner</Writer>
+  <absolute_number>10</absolute_number>
+  <filename>episodes/277165/5148405.jpg</filename>
+  <lastupdated>1432318694</lastupdated>
+  <seasonid>608408</seasonid>
+  <seriesid>277165</seriesid>
+  <thumb_added>2015-04-19 21:02:02</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5148406</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Alec Berg</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Bad Money</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2015-04-26</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3682606</IMDB_ID>
+  <Language>en</Language>
+  <Overview>While considering Gavin’s proposal, Richard is approached by Russ Hanneman, an image-conscious billionaire who wants to back Pied Piper, but may not be as “hands-off” as he claims. Gilfoyle and Dinesh play hardball to get what they want; Gavin finds a new strategy in dealing with the enemy.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>16</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Alec Berg</Writer>
+  <absolute_number>11</absolute_number>
+  <filename>episodes/277165/5148406.jpg</filename>
+  <lastupdated>1431713716</lastupdated>
+  <seasonid>608408</seasonid>
+  <seriesid>277165</seriesid>
+  <thumb_added>2015-04-26 18:56:21</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5148407</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Alec Berg</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Lady</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2015-05-03</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3682586</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Richard butts heads with Erlich over a prospective hire, while Dinesh and Gilfoyle become suspicious that a new employee they recommended is commanding a higher salary. Big Head gets a surprising promotion at Hooli. At a board meeting, Monica and Richard find themselves outvoted; Jared institutes a workplace harassment policy.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>14</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Carson Mell</Writer>
+  <absolute_number>12</absolute_number>
+  <filename>episodes/277165/5148407.jpg</filename>
+  <lastupdated>1432318742</lastupdated>
+  <seasonid>608408</seasonid>
+  <seriesid>277165</seriesid>
+  <thumb_added>2015-05-03 06:42:28</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5195798</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Mike Judge</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Server Space</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2015-05-10</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3682590</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Gavin’s interference causes Pied Piper to struggle with securing their expansion, while a nosy neighbor puts the guys at risk. Gilfoyle takes on the task of building servers, and an overstressed Richard reluctantly takes in Jared as a roommate. Big Head’s management skills are questioned, and Nucleus’ debut zeroes in on a big event.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>14</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Sonny Lee</Writer>
+  <absolute_number>13</absolute_number>
+  <filename>episodes/277165/5195798.jpg</filename>
+  <lastupdated>1432137431</lastupdated>
+  <seasonid>608408</seasonid>
+  <seriesid>277165</seriesid>
+  <thumb_added>2015-05-10 15:52:09</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5195799</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Mike Judge</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Homicide</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2015-05-17</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3682592</IMDB_ID>
+  <Language>en</Language>
+  <Overview>When Monica encourages the guys to pounce on a livestream opportunity, Erlich reconnects with his old mentee, Double-A, an energy drink billionaire, but Richard finds out their friendship isn’t quite what Erlich thinks. After learning that the livestream might hit a snag, Gilfoyle and Dinesh brainstorm their options. Jared encourages a friendship between Carla and Monica.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>15</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Carrie Kemper</Writer>
+  <absolute_number>14</absolute_number>
+  <filename>episodes/277165/5195799.jpg</filename>
+  <lastupdated>1432678791</lastupdated>
+  <seasonid>608408</seasonid>
+  <seriesid>277165</seriesid>
+  <thumb_added>2015-05-16 19:42:20</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5195800</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Alec Berg</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Adult Content</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2015-05-24</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3682588</IMDB_ID>
+  <Language>en</Language>
+  <Overview>With the Pied Piper team fielding job offers and Russ distracted by financial news, Richard faces the prospect of either merging with a nemesis or folding. Gavin attempts to turn Nucleus’ failure into a success. Dinesh tries his hand at wooing a woman online. After Gilfoyle suggests a risky move, Richard reaches out to an unconventional client.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.2</Rating>
+  <RatingCount>9</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Amy Aniobi</Writer>
+  <absolute_number>15</absolute_number>
+  <filename>episodes/277165/5195800.jpg</filename>
+  <lastupdated>1434202824</lastupdated>
+  <seasonid>608408</seasonid>
+  <seriesid>277165</seriesid>
+  <thumb_added>2015-05-24 17:54:21</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5195801</id>
+  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Alec Berg</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>White Hat/Black Hat</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2015-05-31</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3682604</IMDB_ID>
+  <Language>en</Language>
+  <Overview>When Richard takes pity on a competitor, he accidentally sparks a feud that finds him paranoid about security. Jared exaggerates Pied Piper’s size to get results. Facing pressure from board members, Gavin looks to place responsibility elsewhere.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>12</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Dan Lyons</Writer>
+  <absolute_number>16</absolute_number>
+  <filename>episodes/277165/5195801.jpg</filename>
+  <lastupdated>1434202852</lastupdated>
+  <seasonid>608408</seasonid>
+  <seriesid>277165</seriesid>
+  <thumb_added>2015-05-30 18:17:21</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5196851</id>
+  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Mike Judge</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Binding Arbitration</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2015-06-07</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt4185454</IMDB_ID>
+  <Language>en</Language>
+  <Overview>When Pied Piper and Hooli enter binding arbitration, Erlich demands to be put on the stand. Big Head finds himself propped up. Richard worries Hooli’s claim could have legs.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.2</Rating>
+  <RatingCount>9</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Dan O'Keefe</Writer>
+  <absolute_number>17</absolute_number>
+  <filename>episodes/277165/5196851.jpg</filename>
+  <lastupdated>1434569132</lastupdated>
+  <seasonid>608408</seasonid>
+  <seriesid>277165</seriesid>
+  <thumb_added>2015-06-07 19:32:41</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5196852</id>
+  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Alec Berg</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Two Days of the Condor</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2015-06-14</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt4185460</IMDB_ID>
+  <Language>en</Language>
+  <Overview>As the guys await the verdict on Pied Piper’s fate, an unexpected real-life drama draws a spike in traffic to their livestream and leaves them fighting to hold things together – literally. While Erlich considers his future, Richard scrambles to save Pied Piper’s.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.4</Rating>
+  <RatingCount>9</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Alec Berg</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/277165/5196852.jpg</filename>
+  <lastupdated>1434379359</lastupdated>
+  <seasonid>608408</seasonid>
+  <seriesid>277165</seriesid>
+  <thumb_added>2015-06-14 21:30:17</thumb_added>
   <thumb_height>225</thumb_height>
   <thumb_width>400</thumb_width>
 </Episode>

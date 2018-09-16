@@ -11,18 +11,19 @@
   <Language>en</Language>
   <Network>M6</Network>
   <NetworkID></NetworkID>
-  <Overview>In this off beat account of King Arthur's quest for the Grail, virtually every journey, battle or adventure is stopped dead in its tracks by the knights of the round table's most worldly traits : cowardice, greed, idiocy or misplaced chivalry. As a consequence, instead of epic adventures we are treated with the characters' pragmatic and anachronistic take on each and every event in the Grail legend, true to the purest sitcom tradition</Overview>
+  <Overview>Kaamelott is a French series. It was created and written by Alexandre Astier and broadcast on French channel M6 since 2004. The show's four first seasons (called &quot;livres&quot;, French for &quot;books&quot;) were composed of short episodes (about 3 and a half minutes each.) Early seasons consisted of humorous depictions of daily life at King Arthur's court and of the knights' ineffective quest for the Holy Grail; but as the author grew more self-confident, it got spiced by more and more continuity (including Retcon at some point), half-serious story arcs. The fifth season then had longer episodes (7 minutes) and a Darker and Edgier tone.
+The sixth season aired in October 2009; it depicts Arthur's youth in Rome (partly filmed in the décors of the series of the same name, in Cinecittà.) Alexandre Astier also plans to make three movies.</Overview>
   <Rating>9.6</Rating>
-  <RatingCount>41</RatingCount>
+  <RatingCount>47</RatingCount>
   <Runtime>7</Runtime>
   <SeriesID></SeriesID>
   <SeriesName>Kaamelott</SeriesName>
-  <Status>Continuing</Status>
+  <Status>Ended</Status>
   <added></added>
   <addedBy></addedBy>
   <banner>graphical/79175-g.jpg</banner>
-  <fanart>fanart/original/79175-15.jpg</fanart>
-  <lastupdated>1403951878</lastupdated>
+  <fanart>fanart/original/79175-5.jpg</fanart>
+  <lastupdated>1434113511</lastupdated>
   <poster>posters/79175-2.jpg</poster>
   <tms_wanted_old>0</tms_wanted_old>
   <zap2it_id></zap2it_id>
@@ -594,7 +595,7 @@
   <SeasonNumber>0</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
-  <airsafter_season>5</airsafter_season>
+  <airsafter_season></airsafter_season>
   <airsbefore_episode>1</airsbefore_episode>
   <airsbefore_season>6</airsbefore_season>
   <filename>episodes/79175/1219671.jpg</filename>
@@ -628,7 +629,7 @@
   <SeasonNumber>0</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
-  <airsafter_season>5</airsafter_season>
+  <airsafter_season></airsafter_season>
   <airsbefore_episode>1</airsbefore_episode>
   <airsbefore_season>6</airsbefore_season>
   <filename>episodes/79175/1219701.jpg</filename>
@@ -662,7 +663,7 @@
   <SeasonNumber>0</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
-  <airsafter_season>5</airsafter_season>
+  <airsafter_season></airsafter_season>
   <airsbefore_episode>1</airsbefore_episode>
   <airsbefore_season>6</airsbefore_season>
   <filename>episodes/79175/1219711.jpg</filename>
@@ -696,7 +697,7 @@
   <SeasonNumber>0</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
-  <airsafter_season>5</airsafter_season>
+  <airsafter_season></airsafter_season>
   <airsbefore_episode>1</airsbefore_episode>
   <airsbefore_season>6</airsbefore_season>
   <filename>episodes/79175/1219721.jpg</filename>
@@ -730,7 +731,7 @@
   <SeasonNumber>0</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
-  <airsafter_season>5</airsafter_season>
+  <airsafter_season></airsafter_season>
   <airsbefore_episode>1</airsbefore_episode>
   <airsbefore_season>6</airsbefore_season>
   <filename>episodes/79175/1219731.jpg</filename>
@@ -764,7 +765,7 @@
   <SeasonNumber>0</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
-  <airsafter_season>5</airsafter_season>
+  <airsafter_season></airsafter_season>
   <airsbefore_episode>1</airsbefore_episode>
   <airsbefore_season>6</airsbefore_season>
   <filename>episodes/79175/1219741.jpg</filename>
@@ -798,7 +799,7 @@
   <SeasonNumber>0</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
-  <airsafter_season>5</airsafter_season>
+  <airsafter_season></airsafter_season>
   <airsbefore_episode>1</airsbefore_episode>
   <airsbefore_season>6</airsbefore_season>
   <filename>episodes/79175/1219751.jpg</filename>
@@ -832,7 +833,7 @@
   <SeasonNumber>0</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
-  <airsafter_season>5</airsafter_season>
+  <airsafter_season></airsafter_season>
   <airsbefore_episode>1</airsbefore_episode>
   <airsbefore_season>6</airsbefore_season>
   <filename>episodes/79175/1219761.jpg</filename>
@@ -11506,7 +11507,7 @@
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/79175/338227.jpg</filename>
-  <lastupdated>1366915643</lastupdated>
+  <lastupdated>1434113560</lastupdated>
   <seasonid>28889</seasonid>
   <seriesid>79175</seriesid>
   <thumb_added></thumb_added>
@@ -14879,8 +14880,8 @@
   <Language>en</Language>
   <Overview></Overview>
   <ProductionCode></ProductionCode>
-  <Rating>8.5</Rating>
-  <RatingCount>2</RatingCount>
+  <Rating>8.0</Rating>
+  <RatingCount>3</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>Alexandre Astier</Writer>
   <absolute_number></absolute_number>

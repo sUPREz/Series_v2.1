@@ -6,14 +6,14 @@
   <Airs_Time>10:00 PM</Airs_Time>
   <ContentRating>TV-14</ContentRating>
   <FirstAired>2012-03-01</FirstAired>
-  <Genre>|Drama|Fantasy|Mystery|</Genre>
+  <Genre>|Drama|Mystery|Science-Fiction|</Genre>
   <IMDB_ID>tt1839683</IMDB_ID>
   <Language>en</Language>
   <Network>NBC</Network>
   <NetworkID></NetworkID>
   <Overview>After Detective Michael Britten wakes up from a car accident with his wife and teenage son, he learns the devastating news that his wife died in the crash. Trying to put the pieces of his life back together, he wakes up a few days later to realize that his wife is very much alive and his son died in the accident! Did he lose his wife or his son? Or neither of them?</Overview>
-  <Rating>7.8</Rating>
-  <RatingCount>31</RatingCount>
+  <Rating>7.9</Rating>
+  <RatingCount>32</RatingCount>
   <Runtime>60</Runtime>
   <SeriesID>81484</SeriesID>
   <SeriesName>Awake</SeriesName>
@@ -22,7 +22,7 @@
   <addedBy>235881</addedBy>
   <banner>graphical/248735-g.jpg</banner>
   <fanart>fanart/original/248735-3.jpg</fanart>
-  <lastupdated>1405807305</lastupdated>
+  <lastupdated>1427358939</lastupdated>
   <poster>posters/248735-4.jpg</poster>
   <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id></zap2it_id>
@@ -51,7 +51,7 @@
   <Writer>Kyle Killen</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248735/4099456.jpg</filename>
-  <lastupdated>1394706424</lastupdated>
+  <lastupdated>1426008461</lastupdated>
   <seasonid>465932</seasonid>
   <seriesid>248735</seriesid>
   <thumb_added></thumb_added>
@@ -82,7 +82,7 @@
   <Writer>Kyle Killen</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248735/4267502.jpg</filename>
-  <lastupdated>1386963246</lastupdated>
+  <lastupdated>1426264206</lastupdated>
   <seasonid>465932</seasonid>
   <seriesid>248735</seriesid>
   <thumb_added></thumb_added>
@@ -113,7 +113,7 @@
   <Writer>Howard Gordon|Evan Katz</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248735/4267507.jpg</filename>
-  <lastupdated>1386963266</lastupdated>
+  <lastupdated>1426265456</lastupdated>
   <seasonid>465932</seasonid>
   <seriesid>248735</seriesid>
   <thumb_added></thumb_added>
@@ -144,7 +144,7 @@
   <Writer>Kyle Killen</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248735/4267508.jpg</filename>
-  <lastupdated>1387056576</lastupdated>
+  <lastupdated>1426266301</lastupdated>
   <seasonid>465932</seasonid>
   <seriesid>248735</seriesid>
   <thumb_added></thumb_added>
@@ -175,7 +175,7 @@
   <Writer>Lisa Zwerling</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248735/4287611.jpg</filename>
-  <lastupdated>1388609633</lastupdated>
+  <lastupdated>1426602647</lastupdated>
   <seasonid>465932</seasonid>
   <seriesid>248735</seriesid>
   <thumb_added></thumb_added>
@@ -206,7 +206,7 @@
   <Writer>|Kyle Killen|Noelle Valdivia|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248735/4289349.jpg</filename>
-  <lastupdated>1388609654</lastupdated>
+  <lastupdated>1426602683</lastupdated>
   <seasonid>465932</seasonid>
   <seriesid>248735</seriesid>
   <thumb_added></thumb_added>
@@ -232,12 +232,12 @@
   <Overview>An unexpected tip leads Detective Britten to an empty warehouse that was tied to a case he was investigating prior to the accident. His curiosity causes concern for Captain Harper. Meanwhile, Hannah prepares for the move to Oregon. Bird and Britten investigate a mysterious suicide, while Detective Vega and Britten work on a 3 year-old homicide. Later, Dr. Lee gives Britten the key to solving one of his cases while Dr. Evans helps him make a decision about the move.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>36</RatingCount>
+  <RatingCount>37</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Kyle Killen</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248735/4293927.jpg</filename>
-  <lastupdated>1388609674</lastupdated>
+  <lastupdated>1426772097</lastupdated>
   <seasonid>465932</seasonid>
   <seriesid>248735</seriesid>
   <thumb_added></thumb_added>
@@ -263,12 +263,12 @@
   <Overview>Detective Britten helps reunite and prepare a couple for a new life in the witness protection program; an introduction between Detective Vega and Britten's longtime informant doesn't go smoothly.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>35</RatingCount>
+  <RatingCount>36</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Leonard Chang|Davey Holmes|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248735/4294806.jpg</filename>
-  <lastupdated>1389126753</lastupdated>
+  <lastupdated>1426772975</lastupdated>
   <seasonid>465932</seasonid>
   <seriesid>248735</seriesid>
   <thumb_added></thumb_added>
@@ -294,12 +294,12 @@
   <Overview>The final play in a big football rivalry happens differently in Detective Britten's two realities; Rex's heart is broken; Vega and Hannah plan a going-away party for Britten.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>36</RatingCount>
+  <RatingCount>37</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Howard Gordon|David Graziano|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248735/4299624.jpg</filename>
-  <lastupdated>1390048578</lastupdated>
+  <lastupdated>1426936635</lastupdated>
   <seasonid>465932</seasonid>
   <seriesid>248735</seriesid>
   <thumb_added></thumb_added>
@@ -325,12 +325,12 @@
   <Overview>Detective Britten and Bird look into what appears to be a case of gang violence, but clues from his other reality force him to look a little closer. Meanwhile, Hannah uses her intuition to talk through a tough situation with Rex's girlfriend Emma. Later, Captain Harper finds herself having to take back a promise and Detective Vega is planning Britten's going away party.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>31</RatingCount>
+  <RatingCount>32</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Noelle Valdivia</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248735/4299625.jpg</filename>
-  <lastupdated>1391456895</lastupdated>
+  <lastupdated>1427195084</lastupdated>
   <seasonid>465932</seasonid>
   <seriesid>248735</seriesid>
   <thumb_added></thumb_added>
@@ -361,7 +361,7 @@
   <Writer>|Kyle Killen|Leonard Chang|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248735/4299626.jpg</filename>
-  <lastupdated>1391456917</lastupdated>
+  <lastupdated>1427195108</lastupdated>
   <seasonid>465932</seasonid>
   <seriesid>248735</seriesid>
   <thumb_added></thumb_added>
@@ -392,7 +392,7 @@
   <Writer>Evan Katz</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248735/4299627.jpg</filename>
-  <lastupdated>1392557416</lastupdated>
+  <lastupdated>1427278789</lastupdated>
   <seasonid>465932</seasonid>
   <seriesid>248735</seriesid>
   <thumb_added></thumb_added>
@@ -423,7 +423,7 @@
   <Writer>|Kyle Killen|Leonard Chang|Noelle Valdivia|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248735/4299628.jpg</filename>
-  <lastupdated>1392557456</lastupdated>
+  <lastupdated>1427358987</lastupdated>
   <seasonid>465932</seasonid>
   <seriesid>248735</seriesid>
   <thumb_added></thumb_added>

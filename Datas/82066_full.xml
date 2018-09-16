@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Data><Series>
   <id>82066</id>
-  <Actors>|Anna Torv|Joshua Jackson|John Noble|Jasika Nicole|Blair Brown|Mark Valley|Kirk Acevedo|Seth Gabel|Lance Reddick|Michael Cerveris|Georgina Haig|</Actors>
-  <Airs_DayOfWeek>Friday</Airs_DayOfWeek>
-  <Airs_Time>9:00 PM</Airs_Time>
+  <Actors>|Anna Torv|Joshua Jackson|John Noble|Jasika Nicole|Blair Brown|Mark Valley|Kirk Acevedo|Seth Gabel|Lance Reddick|Georgina Haig|Michael Cerveris|</Actors>
+  <Airs_DayOfWeek></Airs_DayOfWeek>
+  <Airs_Time></Airs_Time>
   <ContentRating>TV-14</ContentRating>
   <FirstAired>2008-08-26</FirstAired>
-  <Genre>|Crime|Drama|Science-Fiction|</Genre>
+  <Genre>|Crime|Drama|Mystery|Science-Fiction|Thriller|</Genre>
   <IMDB_ID>tt1119644</IMDB_ID>
   <Language>en</Language>
-  <Network>FOX</Network>
+  <Network>FOX (US)</Network>
   <NetworkID></NetworkID>
   <Overview>The series follows a Federal Bureau of Investigation &quot;Fringe Division&quot; team based in Boston. The team uses unorthodox &quot;fringe&quot; science and FBI investigative techniques to investigate a series of unexplained, often ghastly occurrences, some of which are related to mysteries surrounding a parallel universe.</Overview>
   <Rating>8.7</Rating>
-  <RatingCount>658</RatingCount>
+  <RatingCount>684</RatingCount>
   <Runtime>60</Runtime>
   <SeriesID>75146</SeriesID>
   <SeriesName>Fringe</SeriesName>
   <Status>Ended</Status>
   <added></added>
   <addedBy></addedBy>
-  <banner>graphical/82066-g44.jpg</banner>
-  <fanart>fanart/original/82066-13.jpg</fanart>
-  <lastupdated>1405769062</lastupdated>
-  <poster>posters/82066-6.jpg</poster>
+  <banner>graphical/82066-g20.jpg</banner>
+  <fanart>fanart/original/82066-72.jpg</fanart>
+  <lastupdated>1433917062</lastupdated>
+  <poster>posters/82066-46.jpg</poster>
   <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>SH01059103</zap2it_id>
 </Series>
@@ -550,18 +550,18 @@
   <EpisodeName>Pilot</EpisodeName>
   <EpisodeNumber>1</EpisodeNumber>
   <FirstAired>2008-09-09</FirstAired>
-  <GuestStars>Quinn Martin|Peter Outerbridge|Omar Habib|Rick Parker|Chris Britton|Tauqir Shah|Andrew Hinkson|Kelly King|Frank D'Andrea|Jason Butler Harner|Lee Jay Gladman|Dennis Mockler|Bernadeta Wrobel</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <GuestStars>|Quinn Martin|Peter Outerbridge|Omar Habib|Rick Parker|Chris Britton|Tauqir Shah|Andrew Hinkson|Kelly King|Frank D'Andrea|Jason Butler Harner|Lee Jay Gladman|Dennis Mockler|Bernadeta Wrobel|</GuestStars>
+  <IMDB_ID>tt1248537</IMDB_ID>
   <Language>en</Language>
   <Overview>When all the passengers on a plane die, FBI agent Olivia Dunham investigates the events and her partner almost dies. A desperate Olivia looks for help from Dr. Walter Bishop who has been institutionalized. Olivia, Dr. Bishop and his son Peter begin to discover what really happened on Flight 627 and begin to uncover a larger truth.</Overview>
   <ProductionCode>276038</ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>244</RatingCount>
+  <RatingCount>246</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>J.J. Abrams|Roberto Orci|Alex Kurtzman</Writer>
+  <Writer>|J.J. Abrams|Roberto Orci|Alex Kurtzman|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82066/367882.jpg</filename>
-  <lastupdated>1326190149</lastupdated>
+  <lastupdated>1433646213</lastupdated>
   <seasonid>32606</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -581,18 +581,18 @@
   <EpisodeName>The Same Old Story</EpisodeName>
   <EpisodeNumber>2</EpisodeNumber>
   <FirstAired>2008-09-16</FirstAired>
-  <GuestStars>Betty Gilpin|Mark Blum|Derek Cecil</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <GuestStars>|Betty Gilpin|Mark Blum|Derek Cecil|</GuestStars>
+  <IMDB_ID>tt1248542</IMDB_ID>
   <Language>en</Language>
   <Overview>Olivia, along with Peter and Walter Bishop, investigates the strange death of a woman who had an even stranger child. The woman was pregnant for only hours, yet the baby she birthed was fully developed - and also aged eighty years in the span of a few minutes. Olivia asks Nina Sharp of Massive Dynamic for help.</Overview>
   <ProductionCode>3T7651</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>221</RatingCount>
+  <RatingCount>222</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>Jeff Pinkner|J.J. Abrams|Roberto Orci</Writer>
+  <Writer>|Jeff Pinkner|J.J. Abrams|Roberto Orci|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82066/386103.jpg</filename>
-  <lastupdated>1326190166</lastupdated>
+  <lastupdated>1433646131</lastupdated>
   <seasonid>32606</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -612,18 +612,18 @@
   <EpisodeName>The Ghost Network</EpisodeName>
   <EpisodeNumber>3</EpisodeNumber>
   <FirstAired>2008-09-23</FirstAired>
-  <GuestStars>Zak Orth|Peter Hermann|David Lansbury|Donnie Keshawarz|Brian Tarantina</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <GuestStars>|Zak Orth|Peter Hermann|David Lansbury|Donnie Keshawarz|Brian Tarantina|</GuestStars>
+  <IMDB_ID>tt1248543</IMDB_ID>
   <Language>en</Language>
   <Overview>The team investigates a bus full of dead commuters that appear to be fossilized and uncover a man who has visions of pattern-related disturbances before they happen; Dr. Bishop requests a piano in the lab to help him process data.</Overview>
   <ProductionCode>3T7652</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>205</RatingCount>
+  <RatingCount>206</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>J.J. Abrams|Roberto Orci|Alex Kurtzman</Writer>
+  <Writer>|J.J. Abrams|Roberto Orci|Alex Kurtzman|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82066/386717.jpg</filename>
-  <lastupdated>1326190187</lastupdated>
+  <lastupdated>1433646151</lastupdated>
   <seasonid>32606</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -644,17 +644,17 @@
   <EpisodeNumber>4</EpisodeNumber>
   <FirstAired>2008-09-30</FirstAired>
   <GuestStars>|Nestor Serrano|Michael Kelly|Michael Cerveris|</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt1248544</IMDB_ID>
   <Language>en</Language>
   <Overview>Broyles calls in the team to investigate a deadly explosion and its source: a strange cylinder unharmed despite the destruction. Olivia determines that the same cylinder, or a similar one, is responsible for similar events in widely diverse locations.</Overview>
   <ProductionCode>3T7653</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>192</RatingCount>
+  <RatingCount>193</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>Jeff Pinkner|J. J. Abrams</Writer>
+  <Writer>|Jeff Pinkner|J. J. Abrams|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82066/387578.jpg</filename>
-  <lastupdated>1326190200</lastupdated>
+  <lastupdated>1433646319</lastupdated>
   <seasonid>32606</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -675,17 +675,17 @@
   <EpisodeNumber>5</EpisodeNumber>
   <FirstAired>2008-10-14</FirstAired>
   <GuestStars>|Ebon Moss-Bachrach|Max Baker|Marylouise Burke|Diane Davis|</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt1248545</IMDB_ID>
   <Language>en</Language>
   <Overview>The team investigate the case of a man who can project electricity... and is at the center of a series of strange deaths involving electricity.</Overview>
   <ProductionCode>3T7654</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>191</RatingCount>
+  <RatingCount>192</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>Jason Cahill|Julia Cho</Writer>
+  <Writer>|Jason Cahill|Julia Cho|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82066/391049.jpg</filename>
-  <lastupdated>1326190216</lastupdated>
+  <lastupdated>1433646178</lastupdated>
   <seasonid>32606</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -706,17 +706,17 @@
   <EpisodeNumber>6</EpisodeNumber>
   <FirstAired>2008-10-21</FirstAired>
   <GuestStars>|Chris Eigemann|Marjan Neshat|Alok Tewari|Maria Dizzia|Robert Eli|Lisa Emery|William Hill|</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt1248546</IMDB_ID>
   <Language>en</Language>
   <Overview>The team investigates a woman that re-appears after weeks of being missing with a rare disease.  She also inexplicably causes pain and death to the people she meets. During the investigation, dangerous level of radiation are detected. Walter obsesses about cotton candy; Peter strikes a deal with Nina Sharp; and a truth about Olivia is discovered.</Overview>
   <ProductionCode>3T7655</ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>191</RatingCount>
+  <RatingCount>192</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>Felicia D. Henderson|Brad Caleb Kane</Writer>
+  <Writer>|Felicia D. Henderson|Brad Caleb Kane|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82066/393881.jpg</filename>
-  <lastupdated>1326190249</lastupdated>
+  <lastupdated>1433646262</lastupdated>
   <seasonid>32606</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -737,17 +737,17 @@
   <EpisodeNumber>7</EpisodeNumber>
   <FirstAired>2008-11-11</FirstAired>
   <GuestStars>|Billy Burke|Jared Harris|Kenneth Tigar|Chance Kelly|Trini Alvarado|John Boyd|</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt1248547</IMDB_ID>
   <Language>en</Language>
   <Overview>When a strange parasite attaches itself to the internal organs of a dying FBI agent, Olivia suspects a connection to the Pattern; Peter and Walter tap into a dead man's brain waves.</Overview>
   <ProductionCode>3T7656</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>190</RatingCount>
+  <RatingCount>192</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>Jeff Pinkner|J. J. Abrams</Writer>
+  <Writer>|Jeff Pinkner|J. J. Abrams|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82066/399476.jpg</filename>
-  <lastupdated>1326190265</lastupdated>
+  <lastupdated>1433646110</lastupdated>
   <seasonid>32606</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -768,17 +768,17 @@
   <EpisodeNumber>8</EpisodeNumber>
   <FirstAired>2008-11-18</FirstAired>
   <GuestStars>|Charlie Tahan|Randall Duk Kim|Gillian Jacobs|Bill Sadler|</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt1248548</IMDB_ID>
   <Language>en</Language>
   <Overview>Walter thinks the abduction of a young music prodigy is linked back to his old bunkmate at St. Claire's Hospital. When he kidnaps the child he see's a sequence of flashing lights. Olivia wants Walter to return to the mental institution much to Peter's outcry, but Walter's determination to help ends up having chilling ramifications.</Overview>
   <ProductionCode>3T7657</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>179</RatingCount>
+  <RatingCount>180</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>|David H. Goodman|J.R. Orci|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82066/402433.jpg</filename>
-  <lastupdated>1326190278</lastupdated>
+  <lastupdated>1428960558</lastupdated>
   <seasonid>32606</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -799,17 +799,17 @@
   <EpisodeNumber>9</EpisodeNumber>
   <FirstAired>2008-11-25</FirstAired>
   <GuestStars>|Ptolemy Slocum|Yul Vazquez|David Vadim|Susie Misner|Tom Riis Farrell|</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt1248549</IMDB_ID>
   <Language>en</Language>
   <Overview>The team is called in to investigate why a man jumps out a window because he thinks he's being attacked by butterflies. Olivia gets some breaks in solving the case from her former partner and that she is so desperate to rid herself of him that she demands to go back into the tank. Meanwhile, some former friends and current foes of Peter find out that he's back in Boston.</Overview>
   <ProductionCode>3T7658</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>183</RatingCount>
+  <RatingCount>184</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>Julia Cho|Zack Whedon</Writer>
+  <Writer>|Julia Cho|Zack Whedon|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82066/402434.jpg</filename>
-  <lastupdated>1326190290</lastupdated>
+  <lastupdated>1433646123</lastupdated>
   <seasonid>32606</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -829,18 +829,18 @@
   <EpisodeName>Safe</EpisodeName>
   <EpisodeNumber>10</EpisodeNumber>
   <FirstAired>2008-12-02</FirstAired>
-  <GuestStars>Jared Harris|Paul Fitzgerald|Chance Kelly|James Frain</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <GuestStars>|Jared Harris|Paul Fitzgerald|Chance Kelly|James Frain|</GuestStars>
+  <IMDB_ID>tt1248538</IMDB_ID>
   <Language>en</Language>
   <Overview>The team is called in on a bank robbery similar to other robberies in the area but this particular bank has the thief embedded inside the steel wall of the bank. Somehow the thieves have found a way to defy the law of physics. Walter thinks they're after something of his. As the investigation deepens it all comes to a head when the thieves ambush one of the team. </Overview>
   <ProductionCode>3T7659</ProductionCode>
   <Rating>7.9</Rating>
   <RatingCount>186</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>Julia Cho|Zack Whedon</Writer>
+  <Writer>|Julia Cho|Zack Whedon|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82066/408746.jpg</filename>
-  <lastupdated>1326190302</lastupdated>
+  <lastupdated>1433646137</lastupdated>
   <seasonid>32606</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -865,13 +865,13 @@
   <Language>en</Language>
   <Overview>Olivia's sister, Rachel (Ari Graynor), visits; Walter, Peter and Olivia try to solve the murder of an esteemed epidemiologist, which may be linked to Olivia's abduction.</Overview>
   <ProductionCode>3T7660</ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>181</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>182</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>J. J. Abrams|Jeff Pinkner|Roberto Orci|Alex Kurtzman</Writer>
+  <Writer>|J. J. Abrams|Jeff Pinkner|Roberto Orci|Alex Kurtzman|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82066/412091.jpg</filename>
-  <lastupdated>1326190315</lastupdated>
+  <lastupdated>1433646158</lastupdated>
   <seasonid>32606</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -891,18 +891,18 @@
   <EpisodeName>No Brainer</EpisodeName>
   <EpisodeNumber>12</EpisodeNumber>
   <FirstAired>2009-01-27</FirstAired>
-  <GuestStars>Chris Bauer|Noah Fleiss|Mary Beth Peil|Gbenga Akinagbe|Mark Lotito|Susan Knight|Jake O’Connor|Randy Kovitz as Mark</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <GuestStars>|Chris Bauer|Noah Fleiss|Mary Beth Peil|Gbenga Akinagbe|Mark Lotito|Susan Knight|Jake O’Connor|Randy Kovitz as Mark|</GuestStars>
+  <IMDB_ID>tt1248540</IMDB_ID>
   <Language>en</Language>
   <Overview>Olivia, Walter and Peter are called in to investigate the death of a car salesman who was found in a pool of &quot;goo,&quot; exactly like another man across the country. When Walter discovers that the &quot;goo&quot; is brain matter, the trio tries to figure out how the killer can liquefy human brains. As the deaths pile up, the investigation reveals a common thread linking the victims together in an unthinkable manner. Meanwhile, Olivia is horrified when the case places a loved one in harm's way</Overview>
   <ProductionCode>3T7661</ProductionCode>
   <Rating>7.2</Rating>
-  <RatingCount>175</RatingCount>
+  <RatingCount>176</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>Brad Caleb Kane|David H. Goodman</Writer>
+  <Writer>|Brad Caleb Kane|David H. Goodman|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82066/420373.jpg</filename>
-  <lastupdated>1326190327</lastupdated>
+  <lastupdated>1433646248</lastupdated>
   <seasonid>32606</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -923,17 +923,17 @@
   <EpisodeNumber>13</EpisodeNumber>
   <FirstAired>2009-02-03</FirstAired>
   <GuestStars>|Felix Solis|Neal Huff|Armando Riesco|Darby Totten|Ash Roeca|Guisseppe Jones|Al Sapienza|Chris Lapanta|Dina Comolli|</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt1248541</IMDB_ID>
   <Language>en</Language>
   <Overview>When the Fringe Division delves into another bizarre occurrence aboard an international jumbo jet, freakish remains are discovered at the crash site. Memories tip the team toward some promising leads, but the bigger picture and mysterious threat eludes them. With limited options and insufficient intelligence, Olivia and Peter go undercover.</Overview>
   <ProductionCode>3T7662</ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>177</RatingCount>
+  <RatingCount>178</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>Zack Whedon|J. R. Orci</Writer>
+  <Writer>|Zack Whedon|J. R. Orci|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82066/420374.jpg</filename>
-  <lastupdated>1326190339</lastupdated>
+  <lastupdated>1433646102</lastupdated>
   <seasonid>32606</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -954,17 +954,17 @@
   <EpisodeNumber>14</EpisodeNumber>
   <FirstAired>2009-02-10</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt1352058</IMDB_ID>
   <Language>en</Language>
   <Overview>German agents question Olivia about her “relationship” with David Robert Jones, an escaped prisoner questioned months earlier now living in the U.S. The Fringe Division investigates a threatening case where victims die faceless from their orifices suddenly sealing. </Overview>
   <ProductionCode>3T7663</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>181</RatingCount>
+  <RatingCount>183</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>Robert Chiappetta|Glen Whitman</Writer>
+  <Writer>|Robert Chiappetta|Glen Whitman|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82066/422561.jpg</filename>
-  <lastupdated>1326190351</lastupdated>
+  <lastupdated>1433646284</lastupdated>
   <seasonid>32606</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -985,17 +985,17 @@
   <EpisodeNumber>15</EpisodeNumber>
   <FirstAired>2009-04-07</FirstAired>
   <GuestStars>|Spencer List|Jeremy Shamos|</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt1371600</IMDB_ID>
   <Language>en</Language>
   <Overview>Just seconds before a building is demolished, a mysterious mute child that has been living alone underground is discovered. When the FBI’s Fringe Division investigates, the boy forms an unspoken connection with Agent Olivia Dunham. Meanwhile, an especially gruesome serial killer resurfaces and showcases his “artistry” by displaying his work publicly. As the boy gradually assimilates into a new environment, Olivia and the team must race against the clock to prevent the mad man from causing further massacre.</Overview>
   <ProductionCode>3T7664</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>186</RatingCount>
+  <RatingCount>187</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>Julia Cho|Brad Caleb Kane</Writer>
+  <Writer>|Julia Cho|Brad Caleb Kane|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82066/437727.jpg</filename>
-  <lastupdated>1326190364</lastupdated>
+  <lastupdated>1433646277</lastupdated>
   <seasonid>32606</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -1016,17 +1016,17 @@
   <EpisodeNumber>16</EpisodeNumber>
   <FirstAired>2009-04-14</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt1375588</IMDB_ID>
   <Language>en</Language>
   <Overview>As animal rights activists ransack a laboratory, they get more than they bargained for when one of the caged “animals” unleashes a ferocious appetite. Leaving grotesquely mutilated dead bodies in its wake, the scientifically engineered beast with the body of a lion, claws of an eagle, fangs of a viper, skin of a rhinoceros and tail of a serpent attacks Charlie. With Charlie’s life on the line, Walter must come face-to-face with both his past and the beast.</Overview>
   <ProductionCode>3T7665</ProductionCode>
   <Rating>7.3</Rating>
   <RatingCount>184</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>Zack Whedon|J. R. Orci</Writer>
+  <Writer>|Zack Whedon|J. R. Orci|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82066/444943.jpg</filename>
-  <lastupdated>1326190377</lastupdated>
+  <lastupdated>1433646199</lastupdated>
   <seasonid>32606</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -1046,8 +1046,8 @@
   <EpisodeName>Bad Dreams</EpisodeName>
   <EpisodeNumber>17</EpisodeNumber>
   <FirstAired>2009-04-21</FirstAired>
-  <GuestStars>|Leonard Nimoy|</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <GuestStars>Leonard Nimoy</GuestStars>
+  <IMDB_ID>tt1380404</IMDB_ID>
   <Language>en</Language>
   <Overview>Olivia dreams about a suicide as the event really happens at Grand Central Station; shocking information about the Z.F.T. manuscript is revealed.</Overview>
   <ProductionCode>3T7666</ProductionCode>
@@ -1057,7 +1057,7 @@
   <Writer>Akiva Goldsman</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82066/444944.jpg</filename>
-  <lastupdated>1326190387</lastupdated>
+  <lastupdated>1433646227</lastupdated>
   <seasonid>32606</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -1078,17 +1078,17 @@
   <EpisodeNumber>18</EpisodeNumber>
   <FirstAired>2009-04-28</FirstAired>
   <GuestStars>Jefferson Mays</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt1390443</IMDB_ID>
   <Language>en</Language>
   <Overview>The Fringe Division is on the case when severely mutilated bodies drained of spinal cord fluid begin to pile up. After their investigation leads them to a scientist (guest star Jefferson Mays) with possible ties to the Z.F.T. bioterrorist cell, they are shocked to discover the identity and motive of the killer. When the kills occur with increasing frequency, Olivia, Peter and Walter go to desperate lengths to stop them.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
   <RatingCount>170</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>Andrew Kreisberg|J. H. Wyman</Writer>
+  <Writer>|Andrew Kreisberg|J. H. Wyman|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82066/444945.jpg</filename>
-  <lastupdated>1326190397</lastupdated>
+  <lastupdated>1433646118</lastupdated>
   <seasonid>32606</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -1109,17 +1109,17 @@
   <EpisodeNumber>19</EpisodeNumber>
   <FirstAired>2009-05-05</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt1400654</IMDB_ID>
   <Language>en</Language>
   <Overview>Olivia experiences &quot;awake dreams,&quot; seeing elaborate visions of things not really there. While investigating a disturbing case of a woman who apparently spontaneously combusted, Olivia throws caution to the wind and explores her unexplained visions further. Meanwhile, Walter discusses key information about the Z.F.T. manifesto, and Peter reveals a secret that yields unexpected results in the case.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
   <RatingCount>170</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>Jeff Pinkner|J.R. Orci|Akiva Goldsman</Writer>
+  <Writer>|Jeff Pinkner|J.R. Orci|Akiva Goldsman|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82066/444946.jpg</filename>
-  <lastupdated>1326190409</lastupdated>
+  <lastupdated>1433646163</lastupdated>
   <seasonid>32606</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -1140,17 +1140,17 @@
   <EpisodeNumber>20</EpisodeNumber>
   <FirstAired>2009-05-12</FirstAired>
   <GuestStars>|Leonard Nimoy|Jared Harris|</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt1400652</IMDB_ID>
   <Language>en</Language>
   <Overview>Setting the stage for the dramatic and revealing first season finale are a sudden and unexpected attack on someone with close ties to Fringe Division, the return of bioterrorist David Robert Jones and the inexplicable disappearance of Walter. Find out more about the mysterious events surrounding our trio when questions are answered, observations made, loyalties are tested and the elusive William Bell is finally introduced.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.1</Rating>
   <RatingCount>177</RatingCount>
   <SeasonNumber>1</SeasonNumber>
-  <Writer>Jeff Pinkner|J.H. Wyman|Akiva Goldsman</Writer>
+  <Writer>|Jeff Pinkner|J.H. Wyman|Akiva Goldsman|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82066/497841.jpg</filename>
-  <lastupdated>1326190422</lastupdated>
+  <lastupdated>1433646145</lastupdated>
   <seasonid>32606</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -1180,10 +1180,10 @@ Walter reenters the lab to cook up some fringe science and of course, some custa
   <Rating>7.5</Rating>
   <RatingCount>231</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>J.J. Abrams|Akiva Goldsman</Writer>
+  <Writer>|J.J. Abrams|Akiva Goldsman|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82066/761301.jpg</filename>
-  <lastupdated>1326190673</lastupdated>
+  <lastupdated>1433646222</lastupdated>
   <seasonid>79101</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -1210,12 +1210,12 @@ Walter reenters the lab to cook up some fringe science and of course, some custa
 Walter also tries to recreate Olivia's accident using frogs and Charlie tries to find out how much she remembers.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>213</RatingCount>
+  <RatingCount>214</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>Jeff Pinkner|J.H. Wyman</Writer>
+  <Writer>|Jeff Pinkner|J.H. Wyman|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82066/1039421.jpg</filename>
-  <lastupdated>1326190689</lastupdated>
+  <lastupdated>1433646254</lastupdated>
   <seasonid>79101</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -1241,7 +1241,7 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <Overview>Peter, Walter, Olivia and Broyles pursue a strange and deadly occurrence in Philadelphia where a bomb blew up inside a train station but left no trace of any explosive device. The perplexing and unexplained set of circumstances returns Walter to the lab to closely examine the human remains where he uncovers an unlikely energy source that triggered the explosion. With the explosive threat of more bombs and links to a classified military project, the intense investigation leads Olivia and Peter to Iraq.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>217</RatingCount>
+  <RatingCount>218</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>David Wilcox</Writer>
   <absolute_number></absolute_number>
@@ -1266,18 +1266,18 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <EpisodeName>Momentum Deferred</EpisodeName>
   <EpisodeNumber>4</EpisodeNumber>
   <FirstAired>2009-10-08</FirstAired>
-  <GuestStars>|Leonard Nimoy|Theresa Russell</GuestStars>
+  <GuestStars>|Leonard Nimoy|Theresa Russell|</GuestStars>
   <IMDB_ID>tt1478013</IMDB_ID>
   <Language>en</Language>
   <Overview>Recuperating from the traumatic and alarming meeting with Massive Dynamic founder William Bell, Agent Dunham consumes a powerful &quot;fringe&quot; concoction that Dr. Bishop prescribes to stimulate her memory. Meanwhile, the Fringe Division investigates a series of robbery cases that are tied to shape-shifting. As clues are tracked and memories are jogged, another woman experimented on by Dr. Bishop is introduced and a flashback reveals more about Olivia's visit to the alternate reality.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>212</RatingCount>
+  <RatingCount>213</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>Zack Stentz|Ashley Edward Miller</Writer>
+  <Writer>|Zack Stentz|Ashley Edward Miller|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82066/1108001.jpg</filename>
-  <lastupdated>1326190716</lastupdated>
+  <lastupdated>1433646234</lastupdated>
   <seasonid>79101</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -1334,7 +1334,7 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <Overview>Human beings are reduced to ash statues and Broyles realizes that the same person responsible murdered five other persons four years ago... a case that he never solved.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>222</RatingCount>
+  <RatingCount>223</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>J. H. WymanJeff Vlaming</Writer>
   <absolute_number></absolute_number>
@@ -1365,12 +1365,12 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <Overview>When a kidnapping rapidly escalates into a hostage situation in New York, local authorities close in on the suspects only to discover that an unknowable force has mind-blowing consequences. The investigation intensifies and the mystery and threat deepen to unimaginable proportions when the Fringe Division identifies a link between the kidnapping and Massive Dynamic.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
-  <RatingCount>208</RatingCount>
+  <RatingCount>209</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>Robert Chiappetta|Glen Whitman</Writer>
+  <Writer>|Robert Chiappetta|Glen Whitman|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82066/1183751.jpg</filename>
-  <lastupdated>1326190756</lastupdated>
+  <lastupdated>1433646171</lastupdated>
   <seasonid>79101</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -1395,13 +1395,13 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <Language>en</Language>
   <Overview>A peculiar abduction occurs in Boston, leading the Fringe team to uncover details of the mysterious man known as The Observer. While the bizarre case takes center stage, Walter, Peter and Astrid hit the lab to analyze unusual evidence and deal with Walter’s insatiable appetite for milkshakes.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.5</Rating>
-  <RatingCount>226</RatingCount>
+  <Rating>7.6</Rating>
+  <RatingCount>227</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>Jeff Pinkner|J. H. Wyman</Writer>
+  <Writer>|Jeff Pinkner|J. H. Wyman|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82066/1183761.jpg</filename>
-  <lastupdated>1326190769</lastupdated>
+  <lastupdated>1433646297</lastupdated>
   <seasonid>79101</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -1422,7 +1422,7 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <EpisodeNumber>9</EpisodeNumber>
   <FirstAired>2009-12-03</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt1537549</IMDB_ID>
   <Language>en</Language>
   <Overview>After a cargo ship runs aground, the shoreline becomes littered with bodies hosting a giant squid-like creature. The Fringe team descends upon the scene to examine the bodies and discovers that the mysterious organisms are actually giant parasites. As the investigation unfolds, Walter heads back to the lab while Olivia, Peter and Broyles race against time when they realize the case has ties to a threatening organization.</Overview>
   <ProductionCode></ProductionCode>
@@ -1432,7 +1432,7 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <Writer>David Wilcox</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82066/1299911.jpg</filename>
-  <lastupdated>1326190780</lastupdated>
+  <lastupdated>1428960392</lastupdated>
   <seasonid>79101</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -1452,18 +1452,18 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <EpisodeName>Grey Matters</EpisodeName>
   <EpisodeNumber>10</EpisodeNumber>
   <FirstAired>2009-12-10</FirstAired>
-  <GuestStars>Jeannetta Arnette|Roger R. Cross|Jeff Perry|Sebastian Roché|Leonard Nimoy</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <GuestStars>|Jeannetta Arnette|Roger R. Cross|Jeff Perry|Sebastian Roché|Leonard Nimoy|</GuestStars>
+  <IMDB_ID>tt1537548</IMDB_ID>
   <Language>en</Language>
   <Overview>A patient at a mental hospital undergoes impromptu surgery that leaves his brain exposed. William Bell resurfaces during the investigation of the strange circumstances and Olivia finds reason that the leader of the shape-shifters may have something to do with it.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>221</RatingCount>
+  <RatingCount>223</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>Ashley Edward Miller|Zack Stentz</Writer>
+  <Writer>|Ashley Edward Miller|Zack Stentz|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82066/1331151.jpg</filename>
-  <lastupdated>1326190792</lastupdated>
+  <lastupdated>1433646192</lastupdated>
   <seasonid>79101</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -1484,19 +1484,19 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <EpisodeNumber>11</EpisodeNumber>
   <FirstAired>2010-01-11</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt1537132</IMDB_ID>
   <Language>en</Language>
   <Overview>After a teenage girl is pronounced brain dead, her mother takes her off life support, but when doctors operate quickly to remove her organs, the deceased girl shockingly awakens screaming an alphanumeric code. Equally as perplexing as her resurrection is that she is now somehow able to speak Russian and possesses classified information only a high-ranking soldier would know. While the girl's mind-bending condition intensifies, Walter dusts off some old lab videos and hypothesizes the unthinkable, sending Olivia and Peter to investigate the bewildering case in an original.
 
 (This is a season 1 un-aired episode)</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.2</Rating>
-  <RatingCount>195</RatingCount>
+  <RatingCount>196</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Josh Singer</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82066/1342111.jpg</filename>
-  <lastupdated>1402524745</lastupdated>
+  <lastupdated>1428960372</lastupdated>
   <seasonid>79101</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -1517,18 +1517,18 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <EpisodeNumber>12</EpisodeNumber>
   <FirstAired>2010-01-14</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt1537133</IMDB_ID>
   <Language>en</Language>
   <Overview>Following an unexplained attack involving hideously deformed humans, the Fringe team visits the small town in upstate New York to uncover leads surrounding the bizarre case. When it's determined that these deformed people have managed to hide themselves for a while and they'll do just about anything to keep it that way.
 </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>198</RatingCount>
+  <RatingCount>199</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Josh Singer</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82066/1342371.jpg</filename>
-  <lastupdated>1326190839</lastupdated>
+  <lastupdated>1428960362</lastupdated>
   <seasonid>79101</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -1549,17 +1549,17 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <EpisodeNumber>13</EpisodeNumber>
   <FirstAired>2010-01-21</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt1537134</IMDB_ID>
   <Language>en</Language>
   <Overview>When a man enters an office in Boston for a meeting, he becomes disoriented and collapses, only to have his veins erupt and spray blood everywhere. Shortly after Olivia and Peter arrive at the scene to investigate the bizarre case, it's discovered that a lethal virus with deep ties to something very valuable is spreading, so the CDC moves in to quarantine the building and eradicate the pathogens. Isolated inside with the rest of the exposed office employees, Peter and Olivia face life-threatening circumstances, sending Walter, Broyles and Astrid on a frantic search for a solution to save them.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>216</RatingCount>
+  <RatingCount>217</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82066/1342381.jpg</filename>
-  <lastupdated>1326190852</lastupdated>
+  <lastupdated>1428960356</lastupdated>
   <seasonid>79101</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -1580,17 +1580,17 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <EpisodeNumber>14</EpisodeNumber>
   <FirstAired>2010-01-28</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt1537135</IMDB_ID>
   <Language>en</Language>
   <Overview>When a specific group of guests at a wedding in Brookline, MA, suffocate from the inside out, the upsetting and disconcerting crime scene has the Fringe team investigating how the toxin was delivered and targeted. As evidence is taken into the lab, it’s discovered that the wedding ceremony was a testing ground for a weaponized science experiment. Adding to the intense lab investigation, Walter uncovers an alarming formula that reveals a link to a branch on the Bishop family tree. With the escalating threat of more deadly attacks and unexpected familial ties to the case, the Fringe team stops at nothing to prevent further catastrophic events.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>224</RatingCount>
+  <RatingCount>225</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>Glen Whitman|Robert Chiappetta</Writer>
+  <Writer>|Glen Whitman|Robert Chiappetta|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82066/1342391.jpg</filename>
-  <lastupdated>1326190869</lastupdated>
+  <lastupdated>1433646305</lastupdated>
   <seasonid>79101</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -1610,18 +1610,18 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <EpisodeName>Jacksonville</EpisodeName>
   <EpisodeNumber>15</EpisodeNumber>
   <FirstAired>2010-02-02</FirstAired>
-  <GuestStars>Jenni Blong|Orla Brady</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <GuestStars>|Jenni Blong|Orla Brady|</GuestStars>
+  <IMDB_ID>tt1537136</IMDB_ID>
   <Language>en</Language>
   <Overview>After a violent tremor shakes a Manhattan office building to its core, leaving only one survivor who leads the Fringe Team to believe he is not from this reality. Walter surmises that what shook the building was not geologic, but rather something discovered by him and William Bell many years ago. With another catastrophe imminent, the team races to Jacksonville, the site of Walter and William’s experiments, forcing Olivia to face her mysterious past in an effort to save hundreds of people from certain death.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>244</RatingCount>
+  <RatingCount>245</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>Ashley Edward Miller|Zack Stentz</Writer>
+  <Writer>|Ashley Edward Miller|Zack Stentz|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82066/1342401.jpg</filename>
-  <lastupdated>1326190883</lastupdated>
+  <lastupdated>1433646186</lastupdated>
   <seasonid>79101</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -1641,18 +1641,18 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <EpisodeName>Peter</EpisodeName>
   <EpisodeNumber>16</EpisodeNumber>
   <FirstAired>2010-04-01</FirstAired>
-  <GuestStars>Eugene Lipinski|Michael Cerveris|Peter Woodward|James Louis Watkins (3)|Jenni Blong|Orla Brady|Quinn Lord|Serge Houde</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <GuestStars>|Eugene Lipinski|Michael Cerveris|Peter Woodward|James Louis Watkins (3)|Jenni Blong|Orla Brady|Quinn Lord|Serge Houde|</GuestStars>
+  <IMDB_ID>tt1537137</IMDB_ID>
   <Language>en</Language>
   <Overview>Walter flashes back to 1985 while explaining Peter's otherworldly origins to Olivia. Also, Peter's mother is introduced, and details of the neighboring world reaffirms that there is more than one of everything.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>273</RatingCount>
+  <RatingCount>274</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>Josh Singer|Akiva Goldsman|Jeff Pinkner|J. H. Wyman</Writer>
+  <Writer>|Josh Singer|Akiva Goldsman|Jeff Pinkner|J. H. Wyman|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82066/1342411.jpg</filename>
-  <lastupdated>1326190900</lastupdated>
+  <lastupdated>1433646095</lastupdated>
   <seasonid>79101</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -1673,7 +1673,7 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <EpisodeNumber>17</EpisodeNumber>
   <FirstAired>2010-04-08</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt1537138</IMDB_ID>
   <Language>en</Language>
   <Overview>When a perfectly healthy woman is found dead from a disease she never had, the Fringe team investigates the origin of this inexplicably fatal condition before it claims more innocent victims. Meanwhile, Olivia struggles to keep Walter's secret from Peter, and her loyalty to Peter is tested as time goes on.</Overview>
   <ProductionCode>FR-216</ProductionCode>
@@ -1683,7 +1683,7 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <Writer>Matthew Pitts</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82066/1342421.jpg</filename>
-  <lastupdated>1326190912</lastupdated>
+  <lastupdated>1428960325</lastupdated>
   <seasonid>79101</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -1704,17 +1704,17 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <EpisodeNumber>18</EpisodeNumber>
   <FirstAired>2010-04-15</FirstAired>
   <GuestStars>Peter Weller</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt1537139</IMDB_ID>
   <Language>en</Language>
   <Overview>When passengers aboard a commuter train appear to have died a still death, it seems that a switch was flipped because all cell phones, mp3 players, laptops, batteries and bodies have been drained of power. As the Fringe team assembles at the bizarre crime scene, Peter remains suspicious that something is amiss with Walter, who is struggling to keep the unimaginable a secret. When the investigation leads them to Alistair Peck, a very powerful man who has tremendous energy with severe consequences, an ironic set of circumstances surface.</Overview>
   <ProductionCode>FR-217</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>284</RatingCount>
+  <RatingCount>285</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>J. H. Wyman|Jeff Vlaming</Writer>
+  <Writer>|J. H. Wyman|Jeff Vlaming|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82066/1342431.jpg</filename>
-  <lastupdated>1326190928</lastupdated>
+  <lastupdated>1433646311</lastupdated>
   <seasonid>79101</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -1735,17 +1735,17 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <EpisodeNumber>19</EpisodeNumber>
   <FirstAired>2010-04-22</FirstAired>
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt1595401</IMDB_ID>
   <Language>en</Language>
   <Overview>When two teenagers on a date turn up &quot;dead&quot; at an abandoned warehouse with the three puncture wounds to the soft palate — a trademark of the shape-shifters — the Fringe team investigates the evidence as well as the motives of mastermind Newton. Upon discovering a shape-shifting embryo, Walter returns to the lab to conduct further analysis, and Olivia and Peter head to Massive Dynamic for answers. Meanwhile, Peter reveals a family secret to Olivia as Walter struggles to recall what Newton knows about &quot;building a door&quot;.</Overview>
   <ProductionCode>FR-218</ProductionCode>
-  <Rating>7.7</Rating>
-  <RatingCount>278</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>279</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>Josh Singer|Ethan Gross</Writer>
+  <Writer>|Josh Singer|Ethan Gross|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82066/1342441.jpg</filename>
-  <lastupdated>1326190941</lastupdated>
+  <lastupdated>1433646269</lastupdated>
   <seasonid>79101</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -1766,17 +1766,17 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <EpisodeNumber>20</EpisodeNumber>
   <FirstAired>2010-04-29</FirstAired>
   <GuestStars>Lily Pilblad</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt1595402</IMDB_ID>
   <Language>en</Language>
   <Overview>While Walter deals with some very upsetting news, he tells Olivia's niece, Ella, a fairy tale that includes musical performances by Olivia and Agent Broyles.</Overview>
   <ProductionCode>FR-219</ProductionCode>
   <Rating>6.4</Rating>
-  <RatingCount>267</RatingCount>
+  <RatingCount>268</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>Akiva Goldsman|J.H. Wyman|Jeff Pinkner</Writer>
+  <Writer>|Akiva Goldsman|J.H. Wyman|Jeff Pinkner|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82066/1342451.jpg</filename>
-  <lastupdated>1326190957</lastupdated>
+  <lastupdated>1433646206</lastupdated>
   <seasonid>79101</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -1797,17 +1797,17 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <EpisodeNumber>21</EpisodeNumber>
   <FirstAired>2010-05-06</FirstAired>
   <GuestStars>|Martha Plimpton|Sebastian Roché|</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt1616753</IMDB_ID>
   <Language>en</Language>
   <Overview>Peter teams up with a local law enforcement official, Sheriff Mathis, on a serial murder investigation with ties to Newton. Meanwhile, Walter copes with the possibility of being sent back to St. Claire's, and someone from the &quot;other side&quot; pays a visit.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>284</RatingCount>
+  <RatingCount>286</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>Ashley Edward|Miller Nora|Zuckerman|Lilla Zuckerman|Zack Stentz</Writer>
+  <Writer>|Ashley Edward|Miller Nora|Zuckerman|Lilla Zuckerman|Zack Stentz|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82066/1342461.jpg</filename>
-  <lastupdated>1326190976</lastupdated>
+  <lastupdated>1433646240</lastupdated>
   <seasonid>79101</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -1828,17 +1828,17 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <EpisodeNumber>22</EpisodeNumber>
   <FirstAired>2010-05-13</FirstAired>
   <GuestStars>|Leonard Nimoy|Orla Brady|Ari Graynor|</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt1616754</IMDB_ID>
   <Language>en</Language>
   <Overview>In part one of the two-part, two-night second season finale, Walter and Olivia travel to the parallel universe, and the anticipated face-off between Walter Bishop and William Bell occurs.</Overview>
   <ProductionCode>FR-221</ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>280</RatingCount>
+  <RatingCount>283</RatingCount>
   <SeasonNumber>2</SeasonNumber>
-  <Writer>Akiva Goldsman|J.H. Wyman|Jeff Pinkner</Writer>
+  <Writer>|Akiva Goldsman|J.H. Wyman|Jeff Pinkner|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82066/1342471.jpg</filename>
-  <lastupdated>1364141449</lastupdated>
+  <lastupdated>1433646292</lastupdated>
   <seasonid>79101</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -1859,17 +1859,17 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <EpisodeNumber>23</EpisodeNumber>
   <FirstAired>2010-05-20</FirstAired>
   <GuestStars>Leonard Nimoy</GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt1634617</IMDB_ID>
   <Language>en</Language>
   <Overview>Sacrifices will be made and both universes may never be the same again after Walter and Olivia visit the “other side” </Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.2</Rating>
-  <RatingCount>279</RatingCount>
+  <RatingCount>280</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82066/2070551.jpg</filename>
-  <lastupdated>1364141454</lastupdated>
+  <lastupdated>1428960274</lastupdated>
   <seasonid>79101</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -1889,18 +1889,18 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <EpisodeName>Olivia</EpisodeName>
   <EpisodeNumber>1</EpisodeNumber>
   <FirstAired>2010-09-23</FirstAired>
-  <GuestStars>Seth Gabel|Amy Madigan|Andre Royo|Philip Winchester|Ryan McDonald|Gerard Plunkett|Gabrielle Rose|Kirk Acevedo|Ryan McDonald|</GuestStars>
+  <GuestStars>|Seth Gabel|Amy Madigan|Andre Royo|Philip Winchester|Ryan McDonald|Gerard Plunkett|Gabrielle Rose|Kirk Acevedo|Ryan McDonald|</GuestStars>
   <IMDB_ID>tt1635941</IMDB_ID>
   <Language>en</Language>
   <Overview>After the extraordinary turn of events that shockingly left an imprisoned Olivia &quot;over there,&quot; she fights to find her way home. Meanwhile, Peter and Walter try to move on with their lives unknowingly alongside alternate Olivia.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>301</RatingCount>
+  <RatingCount>302</RatingCount>
   <SeasonNumber>3</SeasonNumber>
-  <Writer>J.H. Wyman|Jeff Pinkner</Writer>
+  <Writer>|J.H. Wyman|Jeff Pinkner|</Writer>
   <absolute_number>44</absolute_number>
   <filename>episodes/82066/2545921.jpg</filename>
-  <lastupdated>1402913507</lastupdated>
+  <lastupdated>1431172658</lastupdated>
   <seasonid>280471</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -1920,18 +1920,18 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <EpisodeName>The Box</EpisodeName>
   <EpisodeNumber>2</EpisodeNumber>
   <FirstAired>2010-09-30</FirstAired>
-  <GuestStars>Sebastian Roché|Russell Harvard|Artine Brown|Kyle Cassie|Robert Egger|Steve Elliott|Khaira Ledeyo|Eric Lunch|David Neale|</GuestStars>
+  <GuestStars>|Sebastian Roché|Russell Harvard|Artine Brown|Kyle Cassie|Robert Egger|Steve Elliott|Khaira Ledeyo|Eric Lunch|David Neale|</GuestStars>
   <IMDB_ID>tt1635952</IMDB_ID>
   <Language>en</Language>
   <Overview>The story alternates to the Fringe Team &quot;over here&quot; where they investigate a mystifying case that people are discovered in a trance-like state that ultimately leads to their death. The unlikely suspect: a mysterious box. As Peter and Walter collaborate to study its properties, alternate Olivia presses on and turns up the heat on an unsuspecting Peter. Meanwhile, key information about the future is revealed when Walter and Nina meet at Massive Dynamic for the emotional reading of the last will and testament of William Bell.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>286</RatingCount>
+  <RatingCount>287</RatingCount>
   <SeasonNumber>3</SeasonNumber>
-  <Writer>Josh Singer|Graham Roland</Writer>
+  <Writer>|Josh Singer|Graham Roland|</Writer>
   <absolute_number>45</absolute_number>
   <filename>episodes/82066/2788771.jpg</filename>
-  <lastupdated>1385770985</lastupdated>
+  <lastupdated>1431172486</lastupdated>
   <seasonid>280471</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -1951,18 +1951,18 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <EpisodeName>The Plateau</EpisodeName>
   <EpisodeNumber>3</EpisodeNumber>
   <FirstAired>2010-10-07</FirstAired>
-  <GuestStars>Michael Eklund|Seth Gabel|Philip Winchester|Ryan Mcdonald|Kacey Rohl|Malcolm Stewart|Kirk Acevedo</GuestStars>
+  <GuestStars>|Michael Eklund|Seth Gabel|Philip Winchester|Ryan Mcdonald|Kacey Rohl|Malcolm Stewart|Kirk Acevedo|</GuestStars>
   <IMDB_ID>tt1635956</IMDB_ID>
   <Language>en</Language>
   <Overview>In this case, timing is everything as a series of anomalous events lead the Fringe Division to investigate deadly incidents with unimaginable coincidences. As the freaky crimes continue to occur, the team is in a race against time to protect potential victims. Meanwhile, Secretary Bishop shares his strategic plan with Colonel Broyles as Olivia grapples with a heart-stopping vision.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>268</RatingCount>
+  <RatingCount>269</RatingCount>
   <SeasonNumber>3</SeasonNumber>
-  <Writer>Alison Schapker|Monica Breen</Writer>
+  <Writer>|Alison Schapker|Monica Breen|</Writer>
   <absolute_number>46</absolute_number>
   <filename>episodes/82066/2817211.jpg</filename>
-  <lastupdated>1372931956</lastupdated>
+  <lastupdated>1431172470</lastupdated>
   <seasonid>280471</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -1982,18 +1982,18 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <EpisodeName>Do Shapeshifters Dream of Electric Sheep?</EpisodeName>
   <EpisodeNumber>4</EpisodeNumber>
   <FirstAired>2010-10-14</FirstAired>
-  <GuestStars>Sebastian Roché|Marcus Giamatti|Gerard Plunkett|Shannon Cochran|Dean Atwal|Mittitta Barber|Chelsea Bourdegas|Erica Carroll|Nikolas Filipovic</GuestStars>
+  <GuestStars>|Sebastian Roché|Marcus Giamatti|Gerard Plunkett|Shannon Cochran|Dean Atwal|Mittitta Barber|Chelsea Bourdegas|Erica Carroll|Nikolas Filipovic|</GuestStars>
   <IMDB_ID>tt1635957</IMDB_ID>
   <Language>en</Language>
   <Overview>Newton, concerned about the consequences of a distressing development involving a high-ranking official, is forced to call to action a sleeping shapeshifter. As Walter and the rest of the team gather evidence, they move the investigation to Massive Dynamic, where Olivia goes on high alert and Walter finds himself in a perilous situation.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>282</RatingCount>
+  <RatingCount>283</RatingCount>
   <SeasonNumber>3</SeasonNumber>
-  <Writer>David Wilcox|Matthew Pitts</Writer>
+  <Writer>|David Wilcox|Matthew Pitts|</Writer>
   <absolute_number>47</absolute_number>
   <filename>episodes/82066/2847821.jpg</filename>
-  <lastupdated>1398630075</lastupdated>
+  <lastupdated>1431172569</lastupdated>
   <seasonid>280471</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -2013,18 +2013,18 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <EpisodeName>Amber 31422</EpisodeName>
   <EpisodeNumber>5</EpisodeNumber>
   <FirstAired>2010-11-04</FirstAired>
-  <GuestStars>Aaron Ashmore|Shawn Ashmore|Seth Gabel|Amy Madigan|Holly Elissa|Ryan Mcdonald|Kirk Acevedo|Holly Elissa|Nate Bell|Chaz Chamberlain</GuestStars>
+  <GuestStars>|Aaron Ashmore|Shawn Ashmore|Seth Gabel|Amy Madigan|Holly Elissa|Ryan Mcdonald|Kirk Acevedo|Holly Elissa|Nate Bell|Chaz Chamberlain|</GuestStars>
   <IMDB_ID>tt1635958</IMDB_ID>
   <Language>en</Language>
   <Overview>The alternate universe Fringe Division investigates a shocking breach of security when a twin frees his brother from a quarantined Amber area. As the team sets out to crack this sophisticated case, Walternate experiments over there more with Olivia as she reenters the tank. Meanwhile, visions of Peter continue to haunt Olivia about returning to the “other side”.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>274</RatingCount>
+  <RatingCount>275</RatingCount>
   <SeasonNumber>3</SeasonNumber>
-  <Writer>Josh Singer|Ethan Gross</Writer>
+  <Writer>|Josh Singer|Ethan Gross|</Writer>
   <absolute_number>48</absolute_number>
   <filename>episodes/82066/2948641.jpg</filename>
-  <lastupdated>1368397009</lastupdated>
+  <lastupdated>1431172634</lastupdated>
   <seasonid>280471</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -2044,19 +2044,19 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <EpisodeName>6955 kHz</EpisodeName>
   <EpisodeNumber>6</EpisodeNumber>
   <FirstAired>2010-11-11</FirstAired>
-  <GuestStars>Kevin Weisman|Ryan McDonald|Clark Middleton|Mark Acheson|Rual Herrara|Rena Kawabata|Paula Lindberg|Minh Ly|Dan Martin|</GuestStars>
+  <GuestStars>|Kevin Weisman|Ryan McDonald|Clark Middleton|Mark Acheson|Rual Herrara|Rena Kawabata|Paula Lindberg|Minh Ly|Dan Martin|</GuestStars>
   <IMDB_ID>tt1635959</IMDB_ID>
   <Language>en</Language>
   <Overview>Back “over here,” the Fringe Division investigates a bizarre phenomenon when 15 people up and down the Eastern Seaboard, all suffer retrograde amnesia from listening to their shortwave radios on the same frequency. Much to Walter’s dismay, Peter presses on with piecing together the mass destruction device. Just as alternate Olivia and Peter’s chemistry deepens, the anticipation of Olivia’s return escalates.
 </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>286</RatingCount>
+  <RatingCount>287</RatingCount>
   <SeasonNumber>3</SeasonNumber>
-  <Writer>Robert Chiappetta|Glen Whitman</Writer>
+  <Writer>|Robert Chiappetta|Glen Whitman|</Writer>
   <absolute_number>49</absolute_number>
   <filename>episodes/82066/2969801.jpg</filename>
-  <lastupdated>1372932042</lastupdated>
+  <lastupdated>1431172763</lastupdated>
   <seasonid>280471</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -2076,18 +2076,18 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <EpisodeName>The Abducted</EpisodeName>
   <EpisodeNumber>7</EpisodeNumber>
   <FirstAired>2010-11-18</FirstAired>
-  <GuestStars>Seth Gabel|Will Rothhaar|Andre Royo|Curtis Harris|Michael Strusievici|Kirk Acevedo|David Nykl|Tristin Leffler|Karen Holness|Elizabeth McCarthy</GuestStars>
+  <GuestStars>|Seth Gabel|Will Rothhaar|Andre Royo|Curtis Harris|Michael Strusievici|Kirk Acevedo|David Nykl|Tristin Leffler|Karen Holness|Elizabeth McCarthy|</GuestStars>
   <IMDB_ID>tt1635960</IMDB_ID>
   <Language>en</Language>
   <Overview>When a serial kidnapper “over there” strikes again, the emotional and familiar case hits home for Colonel Broyles, sending a determined Olivia to uncover additional details about the abductions. In the meantime, Olivia fights on and reunites with Henry to enlist his services on an intense and covert mission to return home.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>306</RatingCount>
+  <RatingCount>307</RatingCount>
   <SeasonNumber>3</SeasonNumber>
-  <Writer>David Wilcox|Graham Roland</Writer>
+  <Writer>|David Wilcox|Graham Roland|</Writer>
   <absolute_number>50</absolute_number>
   <filename>episodes/82066/2971191.jpg</filename>
-  <lastupdated>1372932090</lastupdated>
+  <lastupdated>1431172358</lastupdated>
   <seasonid>280471</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -2107,18 +2107,18 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <EpisodeName>Entrada</EpisodeName>
   <EpisodeNumber>8</EpisodeNumber>
   <FirstAired>2010-12-02</FirstAired>
-  <GuestStars>John Cassini|Seth Gabel|Ryan Mcdonald|Karen Holness|Anthony Shim</GuestStars>
+  <GuestStars>|John Cassini|Seth Gabel|Ryan Mcdonald|Karen Holness|Anthony Shim|</GuestStars>
   <IMDB_ID>tt1635961</IMDB_ID>
   <Language>en</Language>
   <Overview>Peter struggles to cope with recent events; Olivia searches for an ally; a device that communicates between universes is discovered...</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>287</RatingCount>
+  <RatingCount>288</RatingCount>
   <SeasonNumber>3</SeasonNumber>
-  <Writer>Jeff Pinkner|J.H. Wyman</Writer>
+  <Writer>|Jeff Pinkner|J.H. Wyman|</Writer>
   <absolute_number>51</absolute_number>
   <filename>episodes/82066/3135931.jpg</filename>
-  <lastupdated>1372932123</lastupdated>
+  <lastupdated>1431172721</lastupdated>
   <seasonid>280471</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -2138,18 +2138,18 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <EpisodeName>Marionette</EpisodeName>
   <EpisodeNumber>9</EpisodeNumber>
   <FirstAired>2010-12-09</FirstAired>
-  <GuestStars>Michael Cerveris|Mark Ivanir|Barbara Tyson|Genevieve Buechner|Mike Coleman|Jarod Joseph|Robin Nielsen</GuestStars>
+  <GuestStars>|Michael Cerveris|Mark Ivanir|Barbara Tyson|Genevieve Buechner|Mike Coleman|Jarod Joseph|Robin Nielsen|</GuestStars>
   <IMDB_ID>tt1635962</IMDB_ID>
   <Language>en</Language>
   <Overview>When the Fringe Team investigates a case where a victim had his heart extracted, it’s just the beginning of a series of mysterious and reanimating events tied together. Meanwhile, Peter comes to terms with the reality of his relationship with Olivia. </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>283</RatingCount>
+  <RatingCount>284</RatingCount>
   <SeasonNumber>3</SeasonNumber>
-  <Writer>Monica Owusa-Breen|Alison Schapker</Writer>
+  <Writer>|Monica Owusa-Breen|Alison Schapker|</Writer>
   <absolute_number>52</absolute_number>
   <filename>episodes/82066/3191751.jpg</filename>
-  <lastupdated>1372932251</lastupdated>
+  <lastupdated>1431172674</lastupdated>
   <seasonid>280471</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -2169,18 +2169,18 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <EpisodeName>The Firefly</EpisodeName>
   <EpisodeNumber>10</EpisodeNumber>
   <FirstAired>2011-01-21</FirstAired>
-  <GuestStars>Michael Cerveris|Christopher Lloyd</GuestStars>
+  <GuestStars>|Michael Cerveris|Christopher Lloyd|</GuestStars>
   <IMDB_ID>tt1635942</IMDB_ID>
   <Language>en</Language>
   <Overview>An Observer makes contact with the Fringe Team to help rectify a mistake. Meanwhile, Walter befriends Roscoe Joyce, keyboardist for Walter's favorite 1970s band, &quot;Violet Sedan Chair.&quot; Walter will learn the real reason the band broke up, and realize that the lives of these two men, who have never met before, overlap in strange and unexpected ways.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>289</RatingCount>
+  <RatingCount>290</RatingCount>
   <SeasonNumber>3</SeasonNumber>
-  <Writer>J. H. Wyman|Jeff Pinkner</Writer>
+  <Writer>|J. H. Wyman|Jeff Pinkner|</Writer>
   <absolute_number>53</absolute_number>
   <filename>episodes/82066/3267501.jpg</filename>
-  <lastupdated>1372932271</lastupdated>
+  <lastupdated>1431172784</lastupdated>
   <seasonid>280471</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -2200,18 +2200,18 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <EpisodeName>Reciprocity</EpisodeName>
   <EpisodeNumber>11</EpisodeNumber>
   <FirstAired>2011-01-28</FirstAired>
-  <GuestStars>Sean Campbell|Ryan McDonald|Charles Parnell|Lars Anderson|Noah Beggs|Michael Charrois|Brett Delaney|Melissa Demmers|Paula Giroday</GuestStars>
+  <GuestStars>|Sean Campbell|Ryan McDonald|Charles Parnell|Lars Anderson|Noah Beggs|Michael Charrois|Brett Delaney|Melissa Demmers|Paula Giroday|</GuestStars>
   <IMDB_ID>tt1635943</IMDB_ID>
   <Language>en</Language>
   <Overview>When the Fringe Team visits Massive Dynamic’s assembly of the doomsday device, Walter becomes greatly concerned for Peter’s well-being, so he turns to Nina for added brain power to understand the relationship between Peter and the superweapon. Meanwhile, the discovery of a dead body triggers an intense investigation.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>276</RatingCount>
+  <RatingCount>277</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Josh Singer</Writer>
   <absolute_number>54</absolute_number>
   <filename>episodes/82066/3458521.jpg</filename>
-  <lastupdated>1372932293</lastupdated>
+  <lastupdated>1431172694</lastupdated>
   <seasonid>280471</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -2231,7 +2231,7 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <EpisodeName>Concentrate and Ask Again</EpisodeName>
   <EpisodeNumber>12</EpisodeNumber>
   <FirstAired>2011-02-04</FirstAired>
-  <GuestStars>Omid Abtahi|Kevin Corrigan|JR Bourne|Jody Thompson|Adam Beauchesne|Alexandra Castillo|Natalie Gibson|Paul Jarrett|</GuestStars>
+  <GuestStars>|Omid Abtahi|Kevin Corrigan|JR Bourne|Jody Thompson|Adam Beauchesne|Alexandra Castillo|Natalie Gibson|Paul Jarrett|</GuestStars>
   <IMDB_ID>tt1635944</IMDB_ID>
   <Language>en</Language>
   <Overview>When a scientist falls dead after ingesting a lethal cloud of blue powder and his bones disintegrate in his body, the CDC suspects a biological attack. As the Fringe Team investigates further, a subject from Walter’s past with ties to Olivia reluctantly agrees to assist with the intense case.</Overview>
@@ -2239,10 +2239,10 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <Rating>7.6</Rating>
   <RatingCount>286</RatingCount>
   <SeasonNumber>3</SeasonNumber>
-  <Writer>Matt Pitts|Graham Roland</Writer>
+  <Writer>|Matt Pitts|Graham Roland|</Writer>
   <absolute_number>55</absolute_number>
   <filename>episodes/82066/3466061.jpg</filename>
-  <lastupdated>1372932320</lastupdated>
+  <lastupdated>1431172507</lastupdated>
   <seasonid>280471</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -2262,18 +2262,18 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <EpisodeName>Immortality</EpisodeName>
   <EpisodeNumber>13</EpisodeNumber>
   <FirstAired>2011-02-11</FirstAired>
-  <GuestStars>Alon Aboutboul|Seth Gabel|Philip Winchester|Julie McNiven|Ryan Mcdonald|Kirk Acevedo|Joan Chen|Alon Aboutboul|Eric Keenleyside|Haig Sutherland|David Milchard</GuestStars>
+  <GuestStars>|Alon Aboutboul|Seth Gabel|Philip Winchester|Julie McNiven|Ryan Mcdonald|Kirk Acevedo|Joan Chen|Alon Aboutboul|Eric Keenleyside|Haig Sutherland|David Milchard|</GuestStars>
   <IMDB_ID>tt1635945</IMDB_ID>
   <Language>en</Language>
   <Overview>As the story shifts back to life “over there,” the absence of Colonel Broyles changes the dynamic of the Fringe Team as they investigate a bioterrorist armed with an insect that has a taste for human flesh. Meanwhile, alternate Olivia is reunited with her beau, and Walternate remains determined to save his world but discovers there are certain lines he will not cross.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>291</RatingCount>
+  <RatingCount>290</RatingCount>
   <SeasonNumber>3</SeasonNumber>
-  <Writer>David Wilcox|Ethan Gross</Writer>
+  <Writer>|David Wilcox|Ethan Gross|</Writer>
   <absolute_number>56</absolute_number>
   <filename>episodes/82066/3502081.jpg</filename>
-  <lastupdated>1368397092</lastupdated>
+  <lastupdated>1431172320</lastupdated>
   <seasonid>280471</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -2293,18 +2293,18 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <EpisodeName>6B</EpisodeName>
   <EpisodeNumber>14</EpisodeNumber>
   <FirstAired>2011-02-18</FirstAired>
-  <GuestStars>Seth Gabel|Phyllis Somerville|Ken Pogue|Ryan Mcdonald|Michelle Brezinski|Conan Graham|Colby Johannson|Monica Mustelier|Erin Simms</GuestStars>
+  <GuestStars>|Seth Gabel|Phyllis Somerville|Ken Pogue|Ryan Mcdonald|Michelle Brezinski|Conan Graham|Colby Johannson|Monica Mustelier|Erin Simms|</GuestStars>
   <IMDB_ID>tt1635946</IMDB_ID>
   <Language>en</Language>
   <Overview>A series of Fringe events leads the team to the home of a woman grieving over the death of her husband, while Peter and Olivia make an effort to repair the emotional rift between them.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>284</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>285</RatingCount>
   <SeasonNumber>3</SeasonNumber>
-  <Writer>Glen Whitman|Robert Chiappetta</Writer>
+  <Writer>|Glen Whitman|Robert Chiappetta|</Writer>
   <absolute_number>57</absolute_number>
   <filename>episodes/82066/3606051.jpg</filename>
-  <lastupdated>1368397103</lastupdated>
+  <lastupdated>1431172462</lastupdated>
   <seasonid>280471</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -2324,18 +2324,18 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <EpisodeName>Subject 13</EpisodeName>
   <EpisodeNumber>15</EpisodeNumber>
   <FirstAired>2011-02-25</FirstAired>
-  <GuestStars>Orla Brady|Chandler Canterbury|Karley Scott Collins|Sarah-Jane Redmond|Chris Bradford|Jay Jay Jackson|Peter Kawaski|Sophie Lui|Christopher Pearce</GuestStars>
+  <GuestStars>|Orla Brady|Chandler Canterbury|Karley Scott Collins|Sarah-Jane Redmond|Chris Bradford|Jay Jay Jackson|Peter Kawaski|Sophie Lui|Christopher Pearce|</GuestStars>
   <IMDB_ID>tt1635947</IMDB_ID>
   <Language>en</Language>
   <Overview>In a follow up to last season’s “Peter” flashback episode, the all-new “Six Months Later” episode revisits a poignant period of time for both the Bishops and Olivia.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>283</RatingCount>
+  <RatingCount>284</RatingCount>
   <SeasonNumber>3</SeasonNumber>
-  <Writer>Jeff Pinkner|J. H. Wyman|Akiva Goldsman</Writer>
+  <Writer>|Jeff Pinkner|J. H. Wyman|Akiva Goldsman|</Writer>
   <absolute_number>58</absolute_number>
   <filename>episodes/82066/3606061.jpg</filename>
-  <lastupdated>1368397116</lastupdated>
+  <lastupdated>1431172579</lastupdated>
   <seasonid>280471</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -2355,18 +2355,18 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <EpisodeName>Os</EpisodeName>
   <EpisodeNumber>16</EpisodeNumber>
   <FirstAired>2011-03-11</FirstAired>
-  <GuestStars>Alan Ruck|Michael Teigen|Nelson Wong|Greyston Holt|Jorge Garcia|Tom Stevens|Jeff Sanca|Ash Lee|D. Harlan Cutshall|Jase-Anthony Griffith|Robert Hayley|Khaira Ledeyo</GuestStars>
+  <GuestStars>|Alan Ruck|Michael Teigen|Nelson Wong|Greyston Holt|Jorge Garcia|Tom Stevens|Jeff Sanca|Ash Lee|D. Harlan Cutshall|Jase-Anthony Griffith|Robert Hayley|Khaira Ledeyo|</GuestStars>
   <IMDB_ID>tt1635948</IMDB_ID>
   <Language>en</Language>
   <Overview>The Fringe Team investigates a group of thieves who can break the laws of gravity. Meanwhile, Walter attempts to delay the damage he's caused to the fabric of the universe. </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>292</RatingCount>
+  <RatingCount>293</RatingCount>
   <SeasonNumber>3</SeasonNumber>
-  <Writer>Josh Singer|Graham Roland</Writer>
+  <Writer>|Josh Singer|Graham Roland|</Writer>
   <absolute_number>59</absolute_number>
   <filename>episodes/82066/3783081.jpg</filename>
-  <lastupdated>1368397127</lastupdated>
+  <lastupdated>1431172388</lastupdated>
   <seasonid>280471</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -2386,7 +2386,7 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <EpisodeName>Stowaway</EpisodeName>
   <EpisodeNumber>17</EpisodeNumber>
   <FirstAired>2011-03-18</FirstAired>
-  <GuestStars>Seth Gabel|Paula Malcomson</GuestStars>
+  <GuestStars>|Seth Gabel|Paula Malcomson|</GuestStars>
   <IMDB_ID>tt1635949</IMDB_ID>
   <Language>en</Language>
   <Overview>When the Fringe team investigates an apparent suicide victim, they uncover a second set of fingerprints leading them to a woman with uncanny characteristics that cannot die. </Overview>
@@ -2397,7 +2397,7 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <Writer>Danielle Dispaltro</Writer>
   <absolute_number>60</absolute_number>
   <filename>episodes/82066/3789041.jpg</filename>
-  <lastupdated>1368397139</lastupdated>
+  <lastupdated>1431172792</lastupdated>
   <seasonid>280471</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -2417,18 +2417,18 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <EpisodeName>Bloodline</EpisodeName>
   <EpisodeNumber>18</EpisodeNumber>
   <FirstAired>2011-03-25</FirstAired>
-  <GuestStars>Michael Cerveris|Seth Gabel|Amy Madigan|Andre Royo|Kendall Cross|Darcy Laurie|Ryan Mcdonald|Françoise Yip|Kirk Acevedo</GuestStars>
+  <GuestStars>|Michael Cerveris|Seth Gabel|Amy Madigan|Andre Royo|Kendall Cross|Darcy Laurie|Ryan Mcdonald|Françoise Yip|Kirk Acevedo|</GuestStars>
   <IMDB_ID>tt1635950</IMDB_ID>
   <Language>en</Language>
   <Overview>The intensity of life “over there” accelerates as Olivia finds herself in mortal danger.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>266</RatingCount>
+  <RatingCount>267</RatingCount>
   <SeasonNumber>3</SeasonNumber>
-  <Writer>Alison Schapker|Monica Breen</Writer>
+  <Writer>|Alison Schapker|Monica Breen|</Writer>
   <absolute_number>61</absolute_number>
   <filename>episodes/82066/3832681.jpg</filename>
-  <lastupdated>1368397149</lastupdated>
+  <lastupdated>1431172476</lastupdated>
   <seasonid>280471</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -2448,18 +2448,18 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <EpisodeName>Lysergic Acid Diethylamide</EpisodeName>
   <EpisodeNumber>19</EpisodeNumber>
   <FirstAired>2011-04-15</FirstAired>
-  <GuestStars>Ryan Mcdonald|Ulrich Thomsen|Leonard Nimoy</GuestStars>
+  <GuestStars>|Ryan Mcdonald|Ulrich Thomsen|Leonard Nimoy|</GuestStars>
   <IMDB_ID>tt1635951</IMDB_ID>
   <Language>en</Language>
   <Overview>In an effort to remove Bell's consciousness from Olivia's mind, Peter, Bell, and Walter enter Olivia's subconscious and attempt to find her personality, which has hidden itself somewhere safe. </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>287</RatingCount>
+  <RatingCount>288</RatingCount>
   <SeasonNumber>3</SeasonNumber>
-  <Writer>J.H. Wyman|Jeff Pinkner</Writer>
+  <Writer>|J.H. Wyman|Jeff Pinkner|</Writer>
   <absolute_number>62</absolute_number>
   <filename>episodes/82066/3971331.jpg</filename>
-  <lastupdated>1368397159</lastupdated>
+  <lastupdated>1431172737</lastupdated>
   <seasonid>280471</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -2479,18 +2479,18 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <EpisodeName>6:02 AM EST</EpisodeName>
   <EpisodeNumber>20</EpisodeNumber>
   <FirstAired>2011-04-22</FirstAired>
-  <GuestStars>Kevin Corrigan|Seth Gabel|Ryan Mcdonald</GuestStars>
+  <GuestStars>|Kevin Corrigan|Seth Gabel|Ryan Mcdonald|</GuestStars>
   <IMDB_ID>tt1635953</IMDB_ID>
   <Language>en</Language>
   <Overview>The beginning of the end is triggered when Walternate finds a way to wreak havoc “over here.&quot;</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>281</RatingCount>
+  <RatingCount>282</RatingCount>
   <SeasonNumber>3</SeasonNumber>
-  <Writer>David Wilcox|Josh Singer|Graham Roland</Writer>
+  <Writer>|David Wilcox|Josh Singer|Graham Roland|</Writer>
   <absolute_number>63</absolute_number>
   <filename>episodes/82066/3971341.jpg</filename>
-  <lastupdated>1404248075</lastupdated>
+  <lastupdated>1431172545</lastupdated>
   <seasonid>280471</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -2510,7 +2510,7 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <EpisodeName>The Last Sam Weiss</EpisodeName>
   <EpisodeNumber>21</EpisodeNumber>
   <FirstAired>2011-04-29</FirstAired>
-  <GuestStars>Kevin Corrigan|Ryan Mcdonald</GuestStars>
+  <GuestStars>|Kevin Corrigan|Ryan Mcdonald|</GuestStars>
   <IMDB_ID>tt1635954</IMDB_ID>
   <Language>en</Language>
   <Overview>As devastation spreads on This Side, Walter, Olivia, and Sam Weiss struggle to find a way to stop the destruction and discover that one individual has the ability to allow Peter access to the Machine.</Overview>
@@ -2518,10 +2518,10 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <Rating>8.0</Rating>
   <RatingCount>289</RatingCount>
   <SeasonNumber>3</SeasonNumber>
-  <Writer>Monica Breen|Alison Schapker</Writer>
+  <Writer>|Monica Breen|Alison Schapker|</Writer>
   <absolute_number>64</absolute_number>
   <filename>episodes/82066/3990011.jpg</filename>
-  <lastupdated>1404248118</lastupdated>
+  <lastupdated>1431172727</lastupdated>
   <seasonid>280471</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -2541,18 +2541,18 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <EpisodeName>The Day We Died</EpisodeName>
   <EpisodeNumber>22</EpisodeNumber>
   <FirstAired>2011-05-06</FirstAired>
-  <GuestStars>Michael Cerveris|Brad Dourif|Ryan Mcdonald|Emily Meade</GuestStars>
+  <GuestStars>|Michael Cerveris|Brad Dourif|Ryan Mcdonald|Emily Meade|</GuestStars>
   <IMDB_ID>tt1635955</IMDB_ID>
   <Language>en</Language>
   <Overview>As the thrilling third season propels to a climactic close, questions will be answered as Peter confronts his destiny and a beloved team member meets an untimely demise.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>272</RatingCount>
+  <RatingCount>273</RatingCount>
   <SeasonNumber>3</SeasonNumber>
-  <Writer>J.H. Wyman|Jeff Pinkner</Writer>
+  <Writer>|J.H. Wyman|Jeff Pinkner|</Writer>
   <absolute_number>65</absolute_number>
   <filename>episodes/82066/3990021.jpg</filename>
-  <lastupdated>1404248147</lastupdated>
+  <lastupdated>1431172368</lastupdated>
   <seasonid>280471</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -2572,18 +2572,18 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <EpisodeName>Neither Here Nor There</EpisodeName>
   <EpisodeNumber>1</EpisodeNumber>
   <FirstAired>2011-09-23</FirstAired>
-  <GuestStars>Michael Cerveris|Joe Flanigan|Michelle Krusiec</GuestStars>
+  <GuestStars>|Michael Cerveris|Joe Flanigan|Michelle Krusiec|</GuestStars>
   <IMDB_ID>tt1942299</IMDB_ID>
   <Language>en</Language>
   <Overview>Just one week after Peter Bishop saved the day and was then wiped from existence, the truce between the two worlds remains intact and the two sides are forced to work together. Lincoln Lee joins the Fringe team as they investigate a shapeshifter case that is very personal to him.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>248</RatingCount>
+  <RatingCount>249</RatingCount>
   <SeasonNumber>4</SeasonNumber>
-  <Writer>Jeff Pinkner|J. H. Wyman|Akiva Goldsmith</Writer>
+  <Writer>|Jeff Pinkner|J. H. Wyman|Akiva Goldsmith|</Writer>
   <absolute_number>66</absolute_number>
   <filename>episodes/82066/4120435.jpg</filename>
-  <lastupdated>1404249307</lastupdated>
+  <lastupdated>1433876664</lastupdated>
   <seasonid>468438</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -2609,12 +2609,12 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <Overview>As the victims of a highly intelligent serial killer &quot;Over There&quot; stack up, the Fringe Division &quot;Over Here&quot; is asked to assist. As the two sides tangle and innocent people remain at risk, the suspect's doppelganger &quot;Over Here,&quot; a professor who teaches Forensic Psychology, is brought into the fold and forces the team to consider the notion of sending civilians to the other side</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>221</RatingCount>
+  <RatingCount>222</RatingCount>
   <SeasonNumber>4</SeasonNumber>
-  <Writer>Alison Schapker|Monica Owusu-Breen</Writer>
-  <absolute_number></absolute_number>
+  <Writer>|Alison Schapker|Monica Owusu-Breen|</Writer>
+  <absolute_number>67</absolute_number>
   <filename>episodes/82066/4169646.jpg</filename>
-  <lastupdated>1371322736</lastupdated>
+  <lastupdated>1433876683</lastupdated>
   <seasonid>468438</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -2634,18 +2634,18 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <EpisodeName>Alone in the World</EpisodeName>
   <EpisodeNumber>3</EpisodeNumber>
   <FirstAired>2011-10-07</FirstAired>
-  <GuestStars>William Sadler|Evan Bird</GuestStars>
+  <GuestStars>|William Sadler|Evan Bird|</GuestStars>
   <IMDB_ID>tt1998676</IMDB_ID>
   <Language>en</Language>
   <Overview>Two young bullies are found dead and in just a few hours they rot to an advanced state of decomposition. The Fringe team investigates and uncovers an amorphous figure claiming more victims. Walter becomes increasingly distracted with his mental state.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>229</RatingCount>
+  <RatingCount>230</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>David Fury</Writer>
-  <absolute_number></absolute_number>
+  <absolute_number>68</absolute_number>
   <filename>episodes/82066/4169647.jpg</filename>
-  <lastupdated>1372880080</lastupdated>
+  <lastupdated>1433876700</lastupdated>
   <seasonid>468438</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -2665,18 +2665,18 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <EpisodeName>Subject 9</EpisodeName>
   <EpisodeNumber>4</EpisodeNumber>
   <FirstAired>2011-10-14</FirstAired>
-  <GuestStars>Chadwick Boseman|Brent Stait</GuestStars>
+  <GuestStars>|Chadwick Boseman|Brent Stait|</GuestStars>
   <IMDB_ID>tt2032721</IMDB_ID>
   <Language>en</Language>
   <Overview>Olivia uncovers a dangerous force that may be connected to past experiments with Cortexiphan. The investigation forces Walter to leave the lab for the first time in years and travel to Massive Dynamic to examine old case files. Walter struggles with his emotional state as he confronts the demons of his past.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>228</RatingCount>
+  <RatingCount>229</RatingCount>
   <SeasonNumber>4</SeasonNumber>
-  <Writer>Jeff Pinkner|J. H. Wyman|Akiva Goldsmith</Writer>
-  <absolute_number></absolute_number>
+  <Writer>|Jeff Pinkner|J. H. Wyman|Akiva Goldsmith|</Writer>
+  <absolute_number>69</absolute_number>
   <filename>episodes/82066/4174454.jpg</filename>
-  <lastupdated>1372931806</lastupdated>
+  <lastupdated>1433876713</lastupdated>
   <seasonid>468438</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -2696,7 +2696,7 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <EpisodeName>Novation</EpisodeName>
   <EpisodeNumber>5</EpisodeNumber>
   <FirstAired>2011-11-04</FirstAired>
-  <GuestStars>Arye Gross|Michelle Krusiec</GuestStars>
+  <GuestStars>|Arye Gross|Michelle Krusiec|</GuestStars>
   <IMDB_ID>tt2032722</IMDB_ID>
   <Language>en</Language>
   <Overview>Olivia and the others of Fringe division attempt to determine the origin of Peter Bishop, who purports himself as Walter's son who had died as a young boy in the original time line.</Overview>
@@ -2704,10 +2704,10 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <Rating>7.8</Rating>
   <RatingCount>232</RatingCount>
   <SeasonNumber>4</SeasonNumber>
-  <Writer>J. R. Orci|Graham Roland</Writer>
-  <absolute_number></absolute_number>
+  <Writer>|J. R. Orci|Graham Roland|</Writer>
+  <absolute_number>70</absolute_number>
   <filename>episodes/82066/4185941.jpg</filename>
-  <lastupdated>1372826285</lastupdated>
+  <lastupdated>1433876728</lastupdated>
   <seasonid>468438</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -2727,18 +2727,18 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <EpisodeName>And Those We've Left Behind</EpisodeName>
   <EpisodeNumber>6</EpisodeNumber>
   <FirstAired>2011-11-11</FirstAired>
-  <GuestStars>Stephen Root|Romy Rosemont|Victoria Bidewill</GuestStars>
+  <GuestStars>|Stephen Root|Romy Rosemont|Victoria Bidewill|</GuestStars>
   <IMDB_ID>tt2032723</IMDB_ID>
   <Language>en</Language>
   <Overview>The Fringe team must find the pattern between tragic time loop anomalies. As the investigation unfolds, Raymond, an electrical engineer, and his wife Kate, a professor of theoretical physics, enter the picture.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>237</RatingCount>
+  <RatingCount>238</RatingCount>
   <SeasonNumber>4</SeasonNumber>
-  <Writer>Robert Chiappetta|Glen Whitman</Writer>
-  <absolute_number></absolute_number>
+  <Writer>|Robert Chiappetta|Glen Whitman|</Writer>
+  <absolute_number>71</absolute_number>
   <filename>episodes/82066/4185942.jpg</filename>
-  <lastupdated>1373365226</lastupdated>
+  <lastupdated>1433876755</lastupdated>
   <seasonid>468438</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -2758,18 +2758,18 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <EpisodeName>Wallflower</EpisodeName>
   <EpisodeNumber>7</EpisodeNumber>
   <FirstAired>2011-11-18</FirstAired>
-  <GuestStars>Tobias Segal|Monte Markham|Nancy Sivak</GuestStars>
+  <GuestStars>|Tobias Segal|Monte Markham|Nancy Sivak|</GuestStars>
   <IMDB_ID>tt2032724</IMDB_ID>
   <Language>en</Language>
   <Overview>When a man mysteriously dies by an invisible force, his body rapidly begins turning ghostly white. The Fringe team learns that this is not an isolated incident, and there’s evidence that links the predator to someone who passed away with an unknown genetic disorder. Meanwhile, Olivia suffers from migraines.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>237</RatingCount>
+  <RatingCount>238</RatingCount>
   <SeasonNumber>4</SeasonNumber>
-  <Writer>Matthew Pitts|Justin Doble</Writer>
-  <absolute_number></absolute_number>
+  <Writer>|Matthew Pitts|Justin Doble|</Writer>
+  <absolute_number>72</absolute_number>
   <filename>episodes/82066/4185943.jpg</filename>
-  <lastupdated>1373990127</lastupdated>
+  <lastupdated>1433876828</lastupdated>
   <seasonid>468438</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -2789,18 +2789,18 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <EpisodeName>Back to Where You've Never Been</EpisodeName>
   <EpisodeNumber>8</EpisodeNumber>
   <FirstAired>2012-01-13</FirstAired>
-  <GuestStars>Orla Brady|Michael Cerveris|Jared Harris|Ryan McDonald|Daren A. Herbert|James Bamford</GuestStars>
+  <GuestStars>|Orla Brady|Michael Cerveris|Jared Harris|Ryan McDonald|Daren A. Herbert|James Bamford|</GuestStars>
   <IMDB_ID>tt2080688</IMDB_ID>
   <Language>en</Language>
   <Overview>In an effort to find a way home, Peter journeys to the Other Side to confront Walternate. However, his venture proves more dangerous than expected. Meanwhile, Olivia receives a dire premonition from an Observer.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>231</RatingCount>
+  <RatingCount>232</RatingCount>
   <SeasonNumber>4</SeasonNumber>
-  <Writer>David Fury|Graham Roland</Writer>
-  <absolute_number></absolute_number>
+  <Writer>|David Fury|Graham Roland|</Writer>
+  <absolute_number>73</absolute_number>
   <filename>episodes/82066/4185944.jpg</filename>
-  <lastupdated>1382629918</lastupdated>
+  <lastupdated>1433876845</lastupdated>
   <seasonid>468438</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -2820,18 +2820,18 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <EpisodeName>Enemy of My Enemy</EpisodeName>
   <EpisodeNumber>9</EpisodeNumber>
   <FirstAired>2012-01-20</FirstAired>
-  <GuestStars>Orla Brady| Jared Harris| Michelle Krusiec</GuestStars>
+  <GuestStars>|Orla Brady|Jared Harris|Michelle Krusiec|</GuestStars>
   <IMDB_ID>tt2097487</IMDB_ID>
   <Language>en</Language>
   <Overview>Peter's visit to the other side intensifies as the alternate FRINGE division faces off against a formidable new foe in a harrowing race against time.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>225</RatingCount>
+  <RatingCount>226</RatingCount>
   <SeasonNumber>4</SeasonNumber>
-  <Writer>Monica Owusu-Breen|Alison Schapker</Writer>
-  <absolute_number></absolute_number>
+  <Writer>|Monica Owusu-Breen|Alison Schapker|</Writer>
+  <absolute_number>74</absolute_number>
   <filename>episodes/82066/4231301.jpg</filename>
-  <lastupdated>1382629886</lastupdated>
+  <lastupdated>1433876862</lastupdated>
   <seasonid>468438</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -2851,7 +2851,7 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <EpisodeName>Forced Perspective</EpisodeName>
   <EpisodeNumber>10</EpisodeNumber>
   <FirstAired>2012-01-27</FirstAired>
-  <GuestStars>Currie Graham| Alexis Raich</GuestStars>
+  <GuestStars>|Currie Graham|Alexis Raich|</GuestStars>
   <IMDB_ID>tt2097485</IMDB_ID>
   <Language>en</Language>
   <Overview>Olivia continues to cope with the ominous warning from the Observers, while Peter and the team track a girl with the mysterious ability to predict death.</Overview>
@@ -2860,9 +2860,9 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <RatingCount>234</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Ethan Gross</Writer>
-  <absolute_number></absolute_number>
+  <absolute_number>75</absolute_number>
   <filename>episodes/82066/4231303.jpg</filename>
-  <lastupdated>1382629863</lastupdated>
+  <lastupdated>1433876879</lastupdated>
   <seasonid>468438</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -2882,18 +2882,18 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <EpisodeName>Making Angels</EpisodeName>
   <EpisodeNumber>11</EpisodeNumber>
   <FirstAired>2012-02-03</FirstAired>
-  <GuestStars>Chin Han|G. Michael Gray|Adrian Hough|Blu Mankuma|Brad Dryborough</GuestStars>
+  <GuestStars>|Chin Han|G. Michael Gray|Adrian Hough|Blu Mankuma|Brad Dryborough|</GuestStars>
   <IMDB_ID>tt2097486</IMDB_ID>
   <Language>en</Language>
   <Overview>Over Here Astrid gets an unexpected visit from her Alternate, while Peter and Olivia track a killer using a toxin that has yet to be invented. Both universes collide in a case that pushes the boundaries of what is possible. </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>222</RatingCount>
+  <RatingCount>223</RatingCount>
   <SeasonNumber>4</SeasonNumber>
-  <Writer>Akiva Goldsman|J. H. Wyman|Jeff Pinkner</Writer>
-  <absolute_number></absolute_number>
+  <Writer>|Akiva Goldsman|J. H. Wyman|Jeff Pinkner|</Writer>
+  <absolute_number>76</absolute_number>
   <filename>episodes/82066/4231304.jpg</filename>
-  <lastupdated>1382629805</lastupdated>
+  <lastupdated>1433876897</lastupdated>
   <seasonid>468438</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -2913,18 +2913,18 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <EpisodeName>Welcome to Westfield</EpisodeName>
   <EpisodeNumber>12</EpisodeNumber>
   <FirstAired>2012-02-10</FirstAired>
-  <GuestStars>Tim Kelleher|Michelle Addison|Kevin Andruschak|Simon Bradbury|Paul Duchart|Rebecca Husain|Ron James|Jill Morrison</GuestStars>
+  <GuestStars>|Tim Kelleher|Michelle Addison|Kevin Andruschak|Simon Bradbury|Paul Duchart|Rebecca Husain|Ron James|Jill Morrison|</GuestStars>
   <IMDB_ID>tt2125858</IMDB_ID>
   <Language>en</Language>
   <Overview>Peter, Olivia and Walter come face to face with a mysterious and terrifying Fringe event as they get trapped in a town that there’s no escaping from.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>225</RatingCount>
+  <RatingCount>226</RatingCount>
   <SeasonNumber>4</SeasonNumber>
-  <Writer>Graham Roland|J. R. Orci</Writer>
-  <absolute_number></absolute_number>
+  <Writer>|Graham Roland|J. R. Orci|</Writer>
+  <absolute_number>77</absolute_number>
   <filename>episodes/82066/4231306.jpg</filename>
-  <lastupdated>1382629778</lastupdated>
+  <lastupdated>1433876915</lastupdated>
   <seasonid>468438</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -2944,18 +2944,18 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <EpisodeName>A Better Human Being</EpisodeName>
   <EpisodeNumber>13</EpisodeNumber>
   <FirstAired>2012-02-17</FirstAired>
-  <GuestStars>John Aylward|Harrison Thomas|Sandra Ferens|Allison Hossack</GuestStars>
+  <GuestStars>|John Aylward|Harrison Thomas|Sandra Ferens|Allison Hossack|</GuestStars>
   <IMDB_ID>tt2125859</IMDB_ID>
   <Language>en</Language>
   <Overview>As the Fringe team investigates a mentally ill patient who appears to be connected to a series of murders, frightening clues and connections are uncovered that lead Olivia to some shocking revelations.</Overview>
   <ProductionCode>FR-413</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>230</RatingCount>
+  <RatingCount>231</RatingCount>
   <SeasonNumber>4</SeasonNumber>
-  <Writer>Glen Whitman|Robert Chiappetta|Monica Breen|Alison Schapker</Writer>
-  <absolute_number></absolute_number>
+  <Writer>|Glen Whitman|Robert Chiappetta|Monica Breen|Alison Schapker|</Writer>
+  <absolute_number>78</absolute_number>
   <filename>episodes/82066/4235821.jpg</filename>
-  <lastupdated>1382629745</lastupdated>
+  <lastupdated>1433876938</lastupdated>
   <seasonid>468438</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -2975,18 +2975,18 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <EpisodeName>The End of All Things</EpisodeName>
   <EpisodeNumber>14</EpisodeNumber>
   <FirstAired>2012-02-24</FirstAired>
-  <GuestStars>Michael Cerveris|Jared Harris|Monte Markham|Eugene Lipinski|Amos Stern|Steve Weller</GuestStars>
+  <GuestStars>|Michael Cerveris|Jared Harris|Monte Markham|Eugene Lipinski|Amos Stern|Steve Weller|</GuestStars>
   <IMDB_ID>tt2142215</IMDB_ID>
   <Language>en</Language>
   <Overview>The dying Observer comes to see Walter and Peter, who must take extreme measures to learn what secrets he hides and determine if he knows where Olivia is. Meanwhile, David Robert Jones tries to force Olivia to use her cortexiphan abilities by torturing Nina.</Overview>
   <ProductionCode>FR-414</ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>214</RatingCount>
+  <RatingCount>215</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>David Fury</Writer>
-  <absolute_number></absolute_number>
+  <absolute_number>79</absolute_number>
   <filename>episodes/82066/4235822.jpg</filename>
-  <lastupdated>1382953432</lastupdated>
+  <lastupdated>1433876984</lastupdated>
   <seasonid>468438</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -3006,18 +3006,18 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <EpisodeName>A Short Story About Love</EpisodeName>
   <EpisodeNumber>15</EpisodeNumber>
   <FirstAired>2012-03-23</FirstAired>
-  <GuestStars>Michael Masse|Paul Andrich|Devin Johnston|Jarod Joseph|Michael Cerveris|Ona Grauer</GuestStars>
+  <GuestStars>|Michael Masse|Paul Andrich|Devin Johnston|Jarod Joseph|Michael Cerveris|Ona Grauer|</GuestStars>
   <IMDB_ID>tt2166857</IMDB_ID>
   <Language>en</Language>
   <Overview>Following the recent shocking revelations and emotional events, Peter weighs his options as the Fringe team investigates a killer targeting love.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>225</RatingCount>
+  <RatingCount>226</RatingCount>
   <SeasonNumber>4</SeasonNumber>
-  <Writer>J. H. Wyman|Graham Roland</Writer>
-  <absolute_number></absolute_number>
+  <Writer>|J. H. Wyman|Graham Roland|</Writer>
+  <absolute_number>80</absolute_number>
   <filename>episodes/82066/4246123.jpg</filename>
-  <lastupdated>1383070120</lastupdated>
+  <lastupdated>1433876999</lastupdated>
   <seasonid>468438</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -3037,18 +3037,18 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <EpisodeName>Nothing As It Seems</EpisodeName>
   <EpisodeNumber>16</EpisodeNumber>
   <FirstAired>2012-03-30</FirstAired>
-  <GuestStars>Gina Holden|Alessandro Juliani|Neal Huff|Clark Middleton|Martin Christopher|Gabrielle Rose|Emily Jackson|Daniel Cudmore</GuestStars>
+  <GuestStars>|Gina Holden|Alessandro Juliani|Neal Huff|Clark Middleton|Martin Christopher|Gabrielle Rose|Emily Jackson|Daniel Cudmore|</GuestStars>
   <IMDB_ID>tt2201537</IMDB_ID>
   <Language>en</Language>
   <Overview>The Fringe team faces a case that appears familiar to Peter. Strangely, it takes place in this timeline.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>218</RatingCount>
+  <RatingCount>219</RatingCount>
   <SeasonNumber>4</SeasonNumber>
-  <Writer>Jeff Pinkner|Akiva Goldsman</Writer>
-  <absolute_number></absolute_number>
+  <Writer>|Jeff Pinkner|Akiva Goldsman|</Writer>
+  <absolute_number>81</absolute_number>
   <filename>episodes/82066/4281962.jpg</filename>
-  <lastupdated>1383070175</lastupdated>
+  <lastupdated>1433877018</lastupdated>
   <seasonid>468438</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -3068,18 +3068,18 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <EpisodeName>Everything in Its Right Place</EpisodeName>
   <EpisodeNumber>17</EpisodeNumber>
   <FirstAired>2012-04-06</FirstAired>
-  <GuestStars>Tim Guinee|Max Arciniega|Biski Gugushe|Zahf Paroo</GuestStars>
+  <GuestStars>|Tim Guinee|Max Arciniega|Biski Gugushe|Zahf Paroo|</GuestStars>
   <IMDB_ID>tt2201539</IMDB_ID>
   <Language>en</Language>
   <Overview>Lincoln travels to the other side to join forces with Fauxlivia and his own alternate, as they search for a vigilante with a surprising connection to the shapeshifters.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>213</RatingCount>
+  <RatingCount>214</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>|David Fury|J. R. Orci|Matt Pitts|</Writer>
-  <absolute_number></absolute_number>
+  <absolute_number>82</absolute_number>
   <filename>episodes/82066/4289028.jpg</filename>
-  <lastupdated>1383071108</lastupdated>
+  <lastupdated>1433877036</lastupdated>
   <seasonid>468438</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -3099,19 +3099,19 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <EpisodeName>The Consultant</EpisodeName>
   <EpisodeNumber>18</EpisodeNumber>
   <FirstAired>2012-04-13</FirstAired>
-  <GuestStars>Jared Harris|Curtis Harris</GuestStars>
+  <GuestStars>|Jared Harris|Curtis Harris|</GuestStars>
   <IMDB_ID>tt2208523</IMDB_ID>
   <Language>en</Language>
   <Overview>Walter travels to the Alternate Universe to assist in the investigation of a Fringe event with ties to both worlds. Meanwhile, David Robert Jones reveals his next target.
 </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>204</RatingCount>
+  <RatingCount>205</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Christine Lavaf</Writer>
-  <absolute_number></absolute_number>
+  <absolute_number>83</absolute_number>
   <filename>episodes/82066/4289029.jpg</filename>
-  <lastupdated>1383071128</lastupdated>
+  <lastupdated>1433877056</lastupdated>
   <seasonid>468438</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -3131,18 +3131,18 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <EpisodeName>Letters of Transit</EpisodeName>
   <EpisodeNumber>19</EpisodeNumber>
   <FirstAired>2012-04-20</FirstAired>
-  <GuestStars>Henry Ian Cusick|Georgina Haig|Ben Cotton</GuestStars>
+  <GuestStars>|Henry Ian Cusick|Georgina Haig|Ben Cotton|</GuestStars>
   <IMDB_ID>tt2208525</IMDB_ID>
   <Language>en</Language>
   <Overview>The Fringe team goes back to the future as the story jumps ahead to 2036, when the Observers and the Fringe team engage in a game-changing battle.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>214</RatingCount>
+  <RatingCount>215</RatingCount>
   <SeasonNumber>4</SeasonNumber>
-  <Writer>J.J. Abrams|Alex Kurtzman|Roberto Orci</Writer>
-  <absolute_number></absolute_number>
+  <Writer>|J.J. Abrams|Alex Kurtzman|Roberto Orci|</Writer>
+  <absolute_number>84</absolute_number>
   <filename>episodes/82066/4289030.jpg</filename>
-  <lastupdated>1401054282</lastupdated>
+  <lastupdated>1433877074</lastupdated>
   <seasonid>468438</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -3162,18 +3162,18 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <EpisodeName>Worlds Apart</EpisodeName>
   <EpisodeNumber>20</EpisodeNumber>
   <FirstAired>2012-04-27</FirstAired>
-  <GuestStars>David Call|Pascale Hutton</GuestStars>
+  <GuestStars>|David Call|Pascale Hutton|</GuestStars>
   <IMDB_ID>tt2208527</IMDB_ID>
   <Language>en</Language>
   <Overview>The teams on both sides fight on for a common cause, and there are shocking developments tied to the Cortexiphan children.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>209</RatingCount>
+  <RatingCount>211</RatingCount>
   <SeasonNumber>4</SeasonNumber>
-  <Writer>Graham Roland|Matt Pitts|Nicole Phillips</Writer>
-  <absolute_number></absolute_number>
+  <Writer>|Graham Roland|Matt Pitts|Nicole Phillips|</Writer>
+  <absolute_number>85</absolute_number>
   <filename>episodes/82066/4289031.jpg</filename>
-  <lastupdated>1384928430</lastupdated>
+  <lastupdated>1433877096</lastupdated>
   <seasonid>468438</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -3193,18 +3193,18 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <EpisodeName>Brave New World (1)</EpisodeName>
   <EpisodeNumber>21</EpisodeNumber>
   <FirstAired>2012-05-04</FirstAired>
-  <GuestStars>Leonard Nimoy|Rebecca Mader|Jared Harris|Samantha Noble</GuestStars>
+  <GuestStars>|Leonard Nimoy|Rebecca Mader|Jared Harris|Samantha Noble|</GuestStars>
   <IMDB_ID>tt2208529</IMDB_ID>
   <Language>en</Language>
   <Overview>A mysterious Fringe event causing people to spontaneously combust forces Walter to revisit his painful past while the Fringe team faces off against David Robert Jones to save the world, or worlds.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>213</RatingCount>
+  <RatingCount>215</RatingCount>
   <SeasonNumber>4</SeasonNumber>
-  <Writer>Akiva Goldsman|Jeff Pinkner|J. H. Wyman</Writer>
-  <absolute_number></absolute_number>
+  <Writer>|Akiva Goldsman|Jeff Pinkner|J. H. Wyman|</Writer>
+  <absolute_number>86</absolute_number>
   <filename>episodes/82066/4289032.jpg</filename>
-  <lastupdated>1384928460</lastupdated>
+  <lastupdated>1433877132</lastupdated>
   <seasonid>468438</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -3224,18 +3224,18 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <EpisodeName>Brave New World (2)</EpisodeName>
   <EpisodeNumber>22</EpisodeNumber>
   <FirstAired>2012-05-11</FirstAired>
-  <GuestStars>Leonard Nimoy|Rebecca Mader|Gerard Plunkett</GuestStars>
+  <GuestStars>|Leonard Nimoy|Rebecca Mader|Gerard Plunkett|</GuestStars>
   <IMDB_ID>tt2208531</IMDB_ID>
   <Language>en</Language>
   <Overview>The Fringe team is pushed to the breaking point as they desperately attempt to prevent a catastrophic event that threatens the lives of everyone.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.2</Rating>
-  <RatingCount>211</RatingCount>
+  <RatingCount>212</RatingCount>
   <SeasonNumber>4</SeasonNumber>
-  <Writer>Jeff Pinkner|J.H. Wyman|Akiva Goldsman</Writer>
-  <absolute_number></absolute_number>
+  <Writer>|Jeff Pinkner|J.H. Wyman|Akiva Goldsman|</Writer>
+  <absolute_number>87</absolute_number>
   <filename>episodes/82066/4289033.jpg</filename>
-  <lastupdated>1384928473</lastupdated>
+  <lastupdated>1433877163</lastupdated>
   <seasonid>468438</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -3244,29 +3244,29 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
 </Episode>
 <Episode>
   <id>4345286</id>
-  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_episodenumber>1.0</Combined_episodenumber>
   <Combined_season>5</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
-  <Director>Jeannot Szwarc|Miguel Sapochnik</Director>
+  <DVD_episodenumber>1.0</DVD_episodenumber>
+  <DVD_season>5</DVD_season>
+  <Director>|Jeannot Szwarc|Miguel Sapochnik|</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Transilience Thought Unifier Model-11</EpisodeName>
   <EpisodeNumber>1</EpisodeNumber>
   <FirstAired>2012-09-28</FirstAired>
-  <GuestStars>Georgina Haig|Michael Kopsa|Clark Middleton|Shaun Smyth</GuestStars>
+  <GuestStars>|Georgina Haig|Michael Kopsa|Clark Middleton|Shaun Smyth|</GuestStars>
   <IMDB_ID>tt2383819</IMDB_ID>
   <Language>en</Language>
   <Overview>The Fringe team - preserved in amber for 20 years - is now a rebel resistance team fighting for freedom. Peter, reunited with his now adult daughter, Etta, sets out to find out what happened to his wife and Etta's mom - Olivia - as they start their mission to save the world from the Observers.</Overview>
   <ProductionCode>3X7501</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>191</RatingCount>
+  <RatingCount>192</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>J.H. Wyman</Writer>
   <absolute_number>88</absolute_number>
   <filename>episodes/82066/4345286.jpg</filename>
-  <lastupdated>1388618731</lastupdated>
+  <lastupdated>1433916871</lastupdated>
   <seasonid>494897</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -3275,29 +3275,29 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
 </Episode>
 <Episode>
   <id>4375791</id>
-  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_episodenumber>2.0</Combined_episodenumber>
   <Combined_season>5</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>2.0</DVD_episodenumber>
+  <DVD_season>5</DVD_season>
   <Director>Jeannot Szwarc</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>In Absentia</EpisodeName>
   <EpisodeNumber>2</EpisodeNumber>
   <FirstAired>2012-10-05</FirstAired>
-  <GuestStars>Georgina Haig|Eric Lange</GuestStars>
+  <GuestStars>|Georgina Haig|Eric Lange|</GuestStars>
   <IMDB_ID>tt2222882</IMDB_ID>
   <Language>en</Language>
   <Overview>The Fringe team revisits the Harvard lab, now under Observer control, to try to find the information they need as the team fights on in their mission to save the world.</Overview>
   <ProductionCode>3X7502</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>190</RatingCount>
+  <RatingCount>191</RatingCount>
   <SeasonNumber>5</SeasonNumber>
-  <Writer>J.H. Wyman|David Fury</Writer>
+  <Writer>|J.H. Wyman|David Fury|</Writer>
   <absolute_number>89</absolute_number>
   <filename>episodes/82066/4375791.jpg</filename>
-  <lastupdated>1388618805</lastupdated>
+  <lastupdated>1433916891</lastupdated>
   <seasonid>494897</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -3306,29 +3306,29 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
 </Episode>
 <Episode>
   <id>4375792</id>
-  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_episodenumber>3.0</Combined_episodenumber>
   <Combined_season>5</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>3.0</DVD_episodenumber>
+  <DVD_season>5</DVD_season>
   <Director>Jeff T. Thomas</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>The Recordist</EpisodeName>
   <EpisodeNumber>3</EpisodeNumber>
   <FirstAired>2012-10-12</FirstAired>
-  <GuestStars>Connor Beardmore|Georgina Haig|Michael Kopsa|Paul McGillion|Shaun Smyth</GuestStars>
+  <GuestStars>|Connor Beardmore|Georgina Haig|Michael Kopsa|Paul McGillion|Shaun Smyth|</GuestStars>
   <IMDB_ID>tt2352398</IMDB_ID>
   <Language>en</Language>
   <Overview>As the rogue Fringe team continues to fight off the oppressive Observers’ invasion, unforeseen events lead them into a forest where they encounter a strange subculture of people devoted to recording human history.</Overview>
   <ProductionCode>3X7503</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>195</RatingCount>
+  <RatingCount>194</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Graham Roland</Writer>
   <absolute_number>90</absolute_number>
   <filename>episodes/82066/4375792.jpg</filename>
-  <lastupdated>1388618822</lastupdated>
+  <lastupdated>1433916905</lastupdated>
   <seasonid>494897</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -3337,29 +3337,29 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
 </Episode>
 <Episode>
   <id>4375793</id>
-  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_episodenumber>4.0</Combined_episodenumber>
   <Combined_season>5</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>4.0</DVD_episodenumber>
+  <DVD_season>5</DVD_season>
   <Director>David Straiton</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>The Bullet That Saved the World</EpisodeName>
   <EpisodeNumber>4</EpisodeNumber>
   <FirstAired>2012-10-26</FirstAired>
-  <GuestStars>Georgina Haig|Michael Kopsa|Lance Reddick</GuestStars>
+  <GuestStars>|Georgina Haig|Michael Kopsa|Lance Reddick|</GuestStars>
   <IMDB_ID>tt2385734</IMDB_ID>
   <Language>en</Language>
   <Overview>When the Fringe team tracks a lead into a hostile and heavily guarded location, Phillip Broyles resurfaces... but can he be trusted?</Overview>
   <ProductionCode>3X7504</ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>177</RatingCount>
+  <RatingCount>178</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Alison Schapker</Writer>
   <absolute_number>91</absolute_number>
   <filename>episodes/82066/4375793.jpg</filename>
-  <lastupdated>1399892506</lastupdated>
+  <lastupdated>1433916928</lastupdated>
   <seasonid>494897</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -3368,29 +3368,29 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
 </Episode>
 <Episode>
   <id>4375794</id>
-  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_episodenumber>5.0</Combined_episodenumber>
   <Combined_season>5</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>5.0</DVD_episodenumber>
+  <DVD_season>5</DVD_season>
   <Director>P. J. Pesce</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>An Origin Story</EpisodeName>
   <EpisodeNumber>5</EpisodeNumber>
   <FirstAired>2012-11-02</FirstAired>
-  <GuestStars>John Prosky|Michael Rogers|Shaun Smyth</GuestStars>
+  <GuestStars>|John Prosky|Michael Rogers|Shaun Smyth|</GuestStars>
   <IMDB_ID>tt2385736</IMDB_ID>
   <Language>en</Language>
   <Overview>The Fringe team responds to recent devastating events, and a key member makes a pivotal and shocking move.</Overview>
   <ProductionCode>3X7505</ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>189</RatingCount>
+  <RatingCount>190</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>J. H. Wyman</Writer>
   <absolute_number>92</absolute_number>
   <filename>episodes/82066/4375794.jpg</filename>
-  <lastupdated>1399892592</lastupdated>
+  <lastupdated>1433916942</lastupdated>
   <seasonid>494897</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -3399,29 +3399,29 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
 </Episode>
 <Episode>
   <id>4375795</id>
-  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_episodenumber>6.0</Combined_episodenumber>
   <Combined_season>5</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>6.0</DVD_episodenumber>
+  <DVD_season>5</DVD_season>
   <Director>Jon Cassar</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Through the Looking Glass and What Walter Found There</EpisodeName>
   <EpisodeNumber>6</EpisodeNumber>
   <FirstAired>2012-11-09</FirstAired>
-  <GuestStars>Michael Kopsa|Zak Santiago</GuestStars>
+  <GuestStars>|Michael Kopsa|Zak Santiago|</GuestStars>
   <IMDB_ID>tt2385738</IMDB_ID>
   <Language>en</Language>
   <Overview>A Fringe team member takes on a new role, and Walter follows leads to a key piece needed in the battle against the Observers.</Overview>
   <ProductionCode>3X7506</ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>168</RatingCount>
+  <RatingCount>169</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>David Fury</Writer>
   <absolute_number>93</absolute_number>
   <filename>episodes/82066/4375795.jpg</filename>
-  <lastupdated>1390821758</lastupdated>
+  <lastupdated>1433916958</lastupdated>
   <seasonid>494897</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -3430,29 +3430,29 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
 </Episode>
 <Episode>
   <id>4393016</id>
-  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_episodenumber>7.0</Combined_episodenumber>
   <Combined_season>5</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>7.0</DVD_episodenumber>
+  <DVD_season>5</DVD_season>
   <Director>Eagle Egilsson</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Five-Twenty-Ten</EpisodeName>
   <EpisodeNumber>7</EpisodeNumber>
   <FirstAired>2012-11-16</FirstAired>
-  <GuestStars>Michael Kopsa|Shaun Smyth|Blair Brown|Jordana Largy</GuestStars>
+  <GuestStars>|Michael Kopsa|Shaun Smyth|Blair Brown|Jordana Largy|</GuestStars>
   <IMDB_ID>tt2411938</IMDB_ID>
   <Language>en</Language>
   <Overview>As the fight for the future intensifies, a member of the Fringe team orchestrates a Fringe event of his own.</Overview>
   <ProductionCode>3X7507</ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>166</RatingCount>
+  <RatingCount>167</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Graham Roland</Writer>
   <absolute_number>94</absolute_number>
   <filename>episodes/82066/4393016.jpg</filename>
-  <lastupdated>1399892701</lastupdated>
+  <lastupdated>1433916971</lastupdated>
   <seasonid>494897</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -3461,29 +3461,29 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
 </Episode>
 <Episode>
   <id>4429599</id>
-  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_episodenumber>8.0</Combined_episodenumber>
   <Combined_season>5</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>8.0</DVD_episodenumber>
+  <DVD_season>5</DVD_season>
   <Director>Dennis Smith</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>The Human Kind</EpisodeName>
   <EpisodeNumber>8</EpisodeNumber>
   <FirstAired>2012-12-07</FirstAired>
-  <GuestStars>Michael Kopsa|Jill Scott|Shaun Smyth|Kett Turton|Claude Duhamel|Nathan Dashwood</GuestStars>
+  <GuestStars>|Michael Kopsa|Jill Scott|Shaun Smyth|Kett Turton|Claude Duhamel|Nathan Dashwood|</GuestStars>
   <IMDB_ID>tt2411942</IMDB_ID>
   <Language>en</Language>
   <Overview>Olivia encounters a very intuitive and oracle-like person named Simone as she looks to recover a key piece of equipment for Walter. Meanwhile, Peter finds himself in a perilous situation as he observes Windmark.</Overview>
   <ProductionCode>3X7508</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>165</RatingCount>
+  <RatingCount>166</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Alison Schapker</Writer>
   <absolute_number>95</absolute_number>
   <filename>episodes/82066/4429599.jpg</filename>
-  <lastupdated>1391155170</lastupdated>
+  <lastupdated>1433916984</lastupdated>
   <seasonid>494897</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -3492,29 +3492,29 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
 </Episode>
 <Episode>
   <id>4429600</id>
-  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_episodenumber>9.0</Combined_episodenumber>
   <Combined_season>5</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>9.0</DVD_episodenumber>
+  <DVD_season>5</DVD_season>
   <Director>Tommy Gormley</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Black Blotter</EpisodeName>
   <EpisodeNumber>9</EpisodeNumber>
   <FirstAired>2012-12-14</FirstAired>
-  <GuestStars>Jenni Blong|Tom Butler|Maria Marlow|Shaun Smyth|Blair Brown</GuestStars>
+  <GuestStars>|Jenni Blong|Tom Butler|Maria Marlow|Shaun Smyth|Blair Brown|</GuestStars>
   <IMDB_ID>tt2411940</IMDB_ID>
   <Language>en</Language>
   <Overview>In attempt to recall a plan to defeat the Observers, Walter takes an LSD trip down memory lane. Meanwhile, Peter and Olivia trace a mysterious signal to the woods, where they come upon a grisly scene.</Overview>
   <ProductionCode>3X7509</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>157</RatingCount>
+  <RatingCount>158</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Kristin Cantrell</Writer>
   <absolute_number>96</absolute_number>
   <filename>episodes/82066/4429600.jpg</filename>
-  <lastupdated>1399892846</lastupdated>
+  <lastupdated>1433917000</lastupdated>
   <seasonid>494897</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -3523,18 +3523,18 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
 </Episode>
 <Episode>
   <id>4429601</id>
-  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_episodenumber>10.0</Combined_episodenumber>
   <Combined_season>5</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>10.0</DVD_episodenumber>
+  <DVD_season>5</DVD_season>
   <Director>Jeffrey Hunt</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Anomaly XB-6783746</EpisodeName>
   <EpisodeNumber>10</EpisodeNumber>
   <FirstAired>2012-12-21</FirstAired>
-  <GuestStars>Michael Cerveris|Michael Kopsa|Blair Brown</GuestStars>
+  <GuestStars>|Michael Cerveris|Michael Kopsa|Blair Brown|</GuestStars>
   <IMDB_ID>tt2411944</IMDB_ID>
   <Language>en</Language>
   <Overview>The Fringe team is running out of time to save the world. As Peter, Olivia, Astrid and Walter scramble to tap into a key piece of the puzzle to defeat the Observers, they enlist the aid of Nina Sharp who conjures up a plan.</Overview>
@@ -3545,7 +3545,7 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <Writer>David Fury</Writer>
   <absolute_number>97</absolute_number>
   <filename>episodes/82066/4429601.jpg</filename>
-  <lastupdated>1393574927</lastupdated>
+  <lastupdated>1433917015</lastupdated>
   <seasonid>494897</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -3554,29 +3554,29 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
 </Episode>
 <Episode>
   <id>4429602</id>
-  <Combined_episodenumber>11</Combined_episodenumber>
+  <Combined_episodenumber>11.0</Combined_episodenumber>
   <Combined_season>5</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>11.0</DVD_episodenumber>
+  <DVD_season>5</DVD_season>
   <Director>Paul Holahan</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>The Boy Must Live</EpisodeName>
   <EpisodeNumber>11</EpisodeNumber>
   <FirstAired>2013-01-11</FirstAired>
-  <GuestStars>Michael Cerveris|James Kidnie|Michael Kopsa</GuestStars>
+  <GuestStars>|Michael Cerveris|James Kidnie|Michael Kopsa|</GuestStars>
   <IMDB_ID>tt2411948</IMDB_ID>
   <Language>en</Language>
   <Overview>As time dramatically ticks down, Peter, Olivia and Walter stop at nothing to save the universe from Observer rule. Walter enters the infamous deprivation tank in an attempt to uncover a key piece of information about the mysterious figure, Donald. Meanwhile, Captain Windmark sets out on a revealing mission of his own as long-standing questions are answered.</Overview>
   <ProductionCode>3X7511</ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>156</RatingCount>
+  <RatingCount>158</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Graham Roland</Writer>
   <absolute_number>98</absolute_number>
   <filename>episodes/82066/4429602.jpg</filename>
-  <lastupdated>1399892931</lastupdated>
+  <lastupdated>1433917031</lastupdated>
   <seasonid>494897</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -3585,18 +3585,18 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
 </Episode>
 <Episode>
   <id>4429603</id>
-  <Combined_episodenumber>12</Combined_episodenumber>
+  <Combined_episodenumber>12.0</Combined_episodenumber>
   <Combined_season>5</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>12.0</DVD_episodenumber>
+  <DVD_season>5</DVD_season>
   <Director>P. J. Pesce</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Liberty</EpisodeName>
   <EpisodeNumber>12</EpisodeNumber>
   <FirstAired>2013-01-18</FirstAired>
-  <GuestStars>Michael Cerveris|James Kidnie|Michael Kopsa|Seth Gabel|Lance Reddick</GuestStars>
+  <GuestStars>|Michael Cerveris|James Kidnie|Michael Kopsa|Seth Gabel|Lance Reddick|</GuestStars>
   <IMDB_ID>tt2411946</IMDB_ID>
   <Language>en</Language>
   <Overview>The Fringe team engages a desperate plan as Olivia embarks on a dangerous and otherworldly journey into the unknown.</Overview>
@@ -3607,7 +3607,7 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <Writer>Alison Schapker</Writer>
   <absolute_number>99</absolute_number>
   <filename>episodes/82066/4429603.jpg</filename>
-  <lastupdated>1405700671</lastupdated>
+  <lastupdated>1433917047</lastupdated>
   <seasonid>494897</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -3616,29 +3616,29 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
 </Episode>
 <Episode>
   <id>4429604</id>
-  <Combined_episodenumber>13</Combined_episodenumber>
+  <Combined_episodenumber>13.0</Combined_episodenumber>
   <Combined_season>5</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>13.0</DVD_episodenumber>
+  <DVD_season>5</DVD_season>
   <Director>J. H. Wyman</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>An Enemy of Fate</EpisodeName>
   <EpisodeNumber>13</EpisodeNumber>
   <FirstAired>2013-01-18</FirstAired>
-  <GuestStars>Michael Cerveris|Michael Kopsa|Shaun Smyth|Lance Reddick</GuestStars>
+  <GuestStars>|Michael Cerveris|Michael Kopsa|Shaun Smyth|Lance Reddick|</GuestStars>
   <IMDB_ID>tt2411954</IMDB_ID>
   <Language>en</Language>
   <Overview>Peter, Olivia, Walter, Astrid and Broyles face off against the Observers in one final and extraordinary battle for the fate of mankind.</Overview>
   <ProductionCode>3X7513</ProductionCode>
   <Rating>8.3</Rating>
-  <RatingCount>152</RatingCount>
+  <RatingCount>153</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>J. H. Wyman</Writer>
   <absolute_number>100</absolute_number>
   <filename>episodes/82066/4429604.jpg</filename>
-  <lastupdated>1405700699</lastupdated>
+  <lastupdated>1433917062</lastupdated>
   <seasonid>494897</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>

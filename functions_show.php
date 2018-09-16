@@ -291,7 +291,9 @@ function ShowSerie($SerieID)
   global $_Content;
 
   $xml = GetLocalSerieFull($SerieID);
-
+  //$xml = GetDistantSerieFull($SerieID);
+  //print_r_pre( $xml );
+	
   $_Series[$SerieID]['id'] =           $SerieID;
   $_Series[$SerieID]['SeriesName'] =   (string)$xml->Series->SeriesName;
 
@@ -503,7 +505,15 @@ function ShowEpisodeList( $EpisodesList , $Format , $Sort )
               else
                 $EpisodeNumber = $Episode['EpisodeNumber'];
 
-              $SearchText = str_replace( ' ' , '+' , $_Series[$Episode['SerieID']]['SeriesName']).'+S'.$SeasonNumber.'E'.$EpisodeNumber;
+              switch( $_Series[$Episode['SerieID']]['SeriesName'] ){
+                case "Shameless (US)":
+                  $SerieName = "Shameless US";
+                  break;
+                default:
+                  $SerieName = $_Series[$Episode['SerieID']]['SeriesName'];
+                  break;
+              }
+              $SearchText = str_replace( ' ' , '+' , $SerieName).'+S'.$SeasonNumber.'E'.$EpisodeNumber;
               $SearchText = str_replace( "'" , '' , $SearchText );
 
               if( $Episode['Downloaded'] )
@@ -514,7 +524,10 @@ function ShowEpisodeList( $EpisodesList , $Format , $Sort )
 
               //$_Content .= '&nbsp;'.str_replace( '[[TEXT]]' , $SearchText , $CONTENT_LINK['btjunkie.org'] ).'&nbsp;';
               $_Content .= '&nbsp;'.str_replace( '[[TEXT]]' , $SearchText , $CONTENT_LINK['thepiratebay.org']  ).'&nbsp;';
-              $_Content .= '&nbsp;|&nbsp;'.str_replace( '[[TEXT]]' , $SearchText , $CONTENT_LINK['google'] ).'&nbsp;';
+              $_Content .= '|';
+              $_Content .= '&nbsp;'.str_replace( '[[TEXT]]' , $SearchText."+720" , $CONTENT_LINK['kickass.so']  ).'&nbsp;';
+              //$_Content .= '|';
+              //$_Content .= '&nbsp'.str_replace( '[[TEXT]]' , $SearchText , $CONTENT_LINK['google'] ).'&nbsp;';
             }
             else
               $_Content .= '&nbsp;';

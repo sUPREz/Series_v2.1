@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Data><Series>
   <id>259063</id>
-  <Actors>|Mads Mikkelsen|Hugh Dancy|Caroline Dhavernas|Laurence Fishburne|Michael Pitt|Katharine Isabelle|Anna Chlumsky|Eddie Izzard|Raúl Esparza|Vladimir Jon Cubrt|Lara Jean Chorostecki |Kacey Rohl|Aaron Abrams|Hettienne Park|Scott Thompson|Gillian Anderson|</Actors>
-  <Airs_DayOfWeek>Friday</Airs_DayOfWeek>
+  <Actors>|Mads Mikkelsen|Hugh Dancy|Caroline Dhavernas|Tao Okamoto|Michael Pitt|Katharine Isabelle|Anna Chlumsky|Eddie Izzard|Raúl Esparza|Vladimir Jon Cubrt|Lara Jean Chorostecki |Kacey Rohl|Aaron Abrams|Hettienne Park|Scott Thompson|Gillian Anderson|Laurence Fishburne|</Actors>
+  <Airs_DayOfWeek>Thursday</Airs_DayOfWeek>
   <Airs_Time>10:00 PM</Airs_Time>
   <ContentRating>TV-MA</ContentRating>
   <FirstAired>2013-04-04</FirstAired>
-  <Genre>|Crime|Drama|Horror|Thriller|</Genre>
+  <Genre>|Crime|Drama|Food|Horror|</Genre>
   <IMDB_ID>tt2243973</IMDB_ID>
   <Language>en</Language>
   <Network>NBC</Network>
   <NetworkID></NetworkID>
-  <Overview>Explores the early relationship between the renowned psychiatrist and his patient, a young FBI criminal profiler, who is haunted by his ability to empathize with serial killers. </Overview>
-  <Rating>8.5</Rating>
-  <RatingCount>78</RatingCount>
-  <Runtime>45</Runtime>
+  <Overview>Both a gift and a curse, Graham has the extraordinary ability to think like his prey—he sees what they see, feels what they feel. But while Graham is pursuing an especially troubling, cannibalistic murderer, Special Agent Jack Crawford teams him with a highly respected psychiatrist – a man with a taste for the criminal minded – Dr. Hannibal Lecter.</Overview>
+  <Rating>8.7</Rating>
+  <RatingCount>109</RatingCount>
+  <Runtime>60</Runtime>
   <SeriesID>158551</SeriesID>
   <SeriesName>Hannibal</SeriesName>
-  <Status>Continuing</Status>
+  <Status>Ended</Status>
   <added>2012-05-15 12:40:31</added>
   <addedBy>20821</addedBy>
   <banner>graphical/259063-g8.jpg</banner>
-  <fanart>fanart/original/259063-18.jpg</fanart>
-  <lastupdated>1405879621</lastupdated>
-  <poster>posters/259063-20.jpg</poster>
+  <fanart>fanart/original/259063-48.jpg</fanart>
+  <lastupdated>1435028276</lastupdated>
+  <poster>posters/259063-17.jpg</poster>
   <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>EP01567935</zap2it_id>
 </Series>
@@ -47,8 +47,8 @@
 
 NBC decided not to air the full episode and instead offered this web only version that was approximately 20 minutes long.</Overview>
   <ProductionCode></ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>4</RatingCount>
+  <Rating>7.4</Rating>
+  <RatingCount>5</RatingCount>
   <SeasonNumber>0</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
@@ -56,7 +56,7 @@ NBC decided not to air the full episode and instead offered this web only versio
   <airsbefore_episode>4</airsbefore_episode>
   <airsbefore_season>1</airsbefore_season>
   <filename>episodes/259063/4553762.jpg</filename>
-  <lastupdated>1368148138</lastupdated>
+  <lastupdated>1407333264</lastupdated>
   <seasonid>492476</seasonid>
   <seriesid>259063</seriesid>
   <thumb_added></thumb_added>
@@ -76,18 +76,18 @@ NBC decided not to air the full episode and instead offered this web only versio
   <EpisodeName>Apéritif</EpisodeName>
   <EpisodeNumber>1</EpisodeNumber>
   <FirstAired>2013-04-04</FirstAired>
-  <GuestStars></GuestStars>
+  <GuestStars>Scott Thompson|Aaron Abrams|Dan Fogler|Kacey Rohl</GuestStars>
   <IMDB_ID>tt2243973</IMDB_ID>
   <Language>en</Language>
-  <Overview>When the FBI takes on a case of disappearing college girls, Jack Crawford recruits Will Graham, a gifted criminal profiler with a unique view into the psyche of serial killers, to consult. Jack also seeks the help of Dr. Hannibal Lecter, a brilliant psychiatrist. After a copycat strikes, Will and Hannibal join forces to track down the culprit.</Overview>
+  <Overview>When the FBI takes on a case of disappearing college girls, Jack Crawford recruits Will Graham, a gifted criminal profiler with a unique view into the psyche of serial killers, to consult along with a brilliant psychiatrist — Dr. Hannibal Lecter.</Overview>
   <ProductionCode>101</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>117</RatingCount>
+  <RatingCount>123</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Bryan Fuller</Writer>
   <absolute_number>1</absolute_number>
   <filename>episodes/259063/4333901.jpg</filename>
-  <lastupdated>1400697210</lastupdated>
+  <lastupdated>1431742556</lastupdated>
   <seasonid>493342</seasonid>
   <seriesid>259063</seriesid>
   <thumb_added></thumb_added>
@@ -107,18 +107,18 @@ NBC decided not to air the full episode and instead offered this web only versio
   <EpisodeName>Amuse-Bouche</EpisodeName>
   <EpisodeNumber>2</EpisodeNumber>
   <FirstAired>2013-04-11</FirstAired>
-  <GuestStars></GuestStars>
+  <GuestStars>Scott Thompson|Aaron Abrams|Kacey Rohl|Lara Jean Chorostecki|Aidan Devine</GuestStars>
   <IMDB_ID>tt2373027</IMDB_ID>
   <Language>en</Language>
-  <Overview>Will Graham, now an official special investigator with the FBI, helps Jack Crawford and the BAU unit search for a murderer who buries his victims alive to grow mushrooms. In their therapy sessions, Hannibal begins to gain Will's trust as they bond over responsibility for Abigail, and helps Will open up about his true feelings about killing Hobbs. Meanwhile, Freddie Lounds snoops around the BAU's investigation.</Overview>
+  <Overview>Will Graham, now an official special investigator with the FBI, helps Jack Crawford and the BAU unit search for a murderer who buries his victims alive to use as fertilizer. Tabloid journalist, Freddie Lounds, sets her sights on Will.</Overview>
   <ProductionCode>103</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>101</RatingCount>
+  <RatingCount>105</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Jim Danger Gray</Writer>
   <absolute_number>2</absolute_number>
   <filename>episodes/259063/4515450.jpg</filename>
-  <lastupdated>1400697231</lastupdated>
+  <lastupdated>1431742977</lastupdated>
   <seasonid>493342</seasonid>
   <seriesid>259063</seriesid>
   <thumb_added></thumb_added>
@@ -138,18 +138,18 @@ NBC decided not to air the full episode and instead offered this web only versio
   <EpisodeName>Potage</EpisodeName>
   <EpisodeNumber>3</EpisodeNumber>
   <FirstAired>2013-04-18</FirstAired>
-  <GuestStars></GuestStars>
+  <GuestStars>Kacey Rohl|Mark Rendall|Lara Jean Chorostecki|Vladimir Cubrt</GuestStars>
   <IMDB_ID>tt2373029</IMDB_ID>
   <Language>en</Language>
-  <Overview>Jack theorizes that Abigail may have aided her father, Garret Jacob Hobbs in his serial killings. Against Dr. Alana Bloom's advice, but at Hannibal's behest, Abigail is escorted back to Minnesota, where she discovers much violent hostility against her and her family. Things go from bad to worse when a copycat killer murders a friend of Abigail. Hannibal suggests they hide the body to protect Abigail - but secrets come at a cost.</Overview>
+  <Overview>Determined to give Abigail closure after waking up from her coma, Will and Hannibal take her back to the scene of her father's crimes.</Overview>
   <ProductionCode>102</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>99</RatingCount>
+  <RatingCount>102</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>David Fury|Chris Brancato|Bryan Fuller</Writer>
   <absolute_number>3</absolute_number>
   <filename>episodes/259063/4517952.jpg</filename>
-  <lastupdated>1400697257</lastupdated>
+  <lastupdated>1431743381</lastupdated>
   <seasonid>493342</seasonid>
   <seriesid>259063</seriesid>
   <thumb_added></thumb_added>
@@ -158,29 +158,29 @@ NBC decided not to air the full episode and instead offered this web only versio
 </Episode>
 <Episode>
   <id>4561500</id>
-  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_episodenumber>4.0</Combined_episodenumber>
   <Combined_season>1</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>4.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
   <Director>Peter Medak</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Œuf</EpisodeName>
   <EpisodeNumber>4</EpisodeNumber>
   <FirstAired>2013-04-24</FirstAired>
-  <GuestStars></GuestStars>
+  <GuestStars>Scott Thompson|Aaron Abrams|Kacey Rohl|Molly Shannon|Gina Torres</GuestStars>
   <IMDB_ID>tt2373031</IMDB_ID>
   <Language>en</Language>
-  <Overview>Two families are found murdered, with both mothers killed last. The only link between the families is that they both have sons who have been on the missing persons list for approximately a year. Graham concludes these &quot;Lost Boys&quot; are killing their old families to bond more closely to their new family. Graham continues his sessions with Dr. Lecter and confides that even if he finds the boys he will never be able to give them back what they gave away: their families. Lecter's escalating interest in Abigail Hobbs leads him to check her out of the hospital, against Dr. Alana Bloom's wishes, and take her into his care.</Overview>
+  <Overview>A string of family murders takes place and Will determines they were conducted by each of the families' missing children, who were abducted and brainwashed into killing their old families for their sinister &quot;new family.&quot; Against Alana's recommendation, Hannibal checks Abigail out of the hospital for some frightening psychiatric practices that ultimately align her loyalty with him.</Overview>
   <ProductionCode>104</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>77</RatingCount>
+  <RatingCount>82</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Jennifer Schuur</Writer>
   <absolute_number>4</absolute_number>
   <filename>episodes/259063/4561500.jpg</filename>
-  <lastupdated>1400697277</lastupdated>
+  <lastupdated>1432505313</lastupdated>
   <seasonid>493342</seasonid>
   <seriesid>259063</seriesid>
   <thumb_added></thumb_added>
@@ -189,29 +189,29 @@ NBC decided not to air the full episode and instead offered this web only versio
 </Episode>
 <Episode>
   <id>4517953</id>
-  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_episodenumber>5.0</Combined_episodenumber>
   <Combined_season>1</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>5.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
   <Director>Guillermo Navarro</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Coquilles</EpisodeName>
   <EpisodeNumber>5</EpisodeNumber>
   <FirstAired>2013-04-25</FirstAired>
-  <GuestStars>Gina Torres|Austin Macdonald|Nicholas Bode</GuestStars>
+  <GuestStars>Scott Thompson|Aaron Abrams|Gina Torres</GuestStars>
   <IMDB_ID>tt2373033</IMDB_ID>
   <Language>en</Language>
-  <Overview>Will Graham and the BAU team track a serial killer whose bloody ritual includes cutting the victims' back flesh and stretching it to look like angel wings. Returning to the field weighs heavily on Will's psyche and Hannibal tries to drive a wedge between Will and Jack. Meanwhile, Jack Crawford's wife Bella pulls away from him and begins seeing Hannibal as her therapist, in an effort to come to terms with the fact she is dying. Beverly tries to connect with Will on a more personal level. </Overview>
+  <Overview>Will Graham and the BAU team track a serial killer whose bloody ritual includes cutting the victims' back flesh and stretching it to look like angel wings. Returning to the field weighs heavily on Will's psyche and Hannibal tries to drive a wedge between Will and Jack. Meanwhile, Jack Crawford's wife Bella pulls away from him and begins seeing Hannibal as her therapist, in an effort to come to terms with the fact she is dying. Beverly tries to connect with Will on a more personal level.</Overview>
   <ProductionCode>106</ProductionCode>
   <Rating>7.7</Rating>
-  <RatingCount>74</RatingCount>
+  <RatingCount>80</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Scott Nimerfro|Bryan Fuller</Writer>
   <absolute_number>5</absolute_number>
   <filename>episodes/259063/4517953.jpg</filename>
-  <lastupdated>1400697288</lastupdated>
+  <lastupdated>1432505323</lastupdated>
   <seasonid>493342</seasonid>
   <seriesid>259063</seriesid>
   <thumb_added></thumb_added>
@@ -220,29 +220,29 @@ NBC decided not to air the full episode and instead offered this web only versio
 </Episode>
 <Episode>
   <id>4517955</id>
-  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_episodenumber>6.0</Combined_episodenumber>
   <Combined_season>1</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>6.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
   <Director>Michael Rymer</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Entrée</EpisodeName>
   <EpisodeNumber>6</EpisodeNumber>
   <FirstAired>2013-05-02</FirstAired>
-  <GuestStars>Eddie Izzard</GuestStars>
+  <GuestStars>Eddie Izzard|Raúl Esparza|Scott Thompson|Aaron Abrams|Anna Chlumsky|Lara Jean Chorostecki</GuestStars>
   <IMDB_ID>tt2373035</IMDB_ID>
   <Language>en</Language>
-  <Overview>Jack &amp; Alana are contacted by a former colleague, Dr. Chilton, who believes he has The Chesapeake Ripper in custody, but then one of his patients commits a murder that matches The Ripper's profile. The team determines the Ripper was a surgeon and is still at large when Jack's former protégé Miriam becomes the next victim. Jack copes with her loss and the prospect of losing his wife by opening-up to Hannibal.</Overview>
+  <Overview>Jack and Alana are contacted by a former colleague, Dr. Chilton, who believes he has The Chesapeake Ripper in custody, but then one of his patients commits a murder that matches The Ripper's profile. The team determines the Ripper was a surgeon and is still at large when Jack's former protege Miriam becomes the next victim. Jack copes with her loss and the prospect of losing his wife by opening-up to Hannibal.</Overview>
   <ProductionCode>107</ProductionCode>
-  <Rating>7.9</Rating>
-  <RatingCount>70</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>76</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Kai Yu Wu|Bryan Fuller</Writer>
   <absolute_number>6</absolute_number>
   <filename>episodes/259063/4517955.jpg</filename>
-  <lastupdated>1400697301</lastupdated>
+  <lastupdated>1432505336</lastupdated>
   <seasonid>493342</seasonid>
   <seriesid>259063</seriesid>
   <thumb_added></thumb_added>
@@ -251,29 +251,29 @@ NBC decided not to air the full episode and instead offered this web only versio
 </Episode>
 <Episode>
   <id>4517956</id>
-  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_episodenumber>7.0</Combined_episodenumber>
   <Combined_season>1</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>7.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
   <Director>James Foley</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Sorbet</EpisodeName>
   <EpisodeNumber>7</EpisodeNumber>
   <FirstAired>2013-05-09</FirstAired>
-  <GuestStars></GuestStars>
+  <GuestStars>Gillian Anderson|Scott Thompson|Aaron Abrams|Kacey Rohl|Anna Chlumsky|Dan Fogler|Ellen Greene</GuestStars>
   <IMDB_ID>tt2373037</IMDB_ID>
   <Language>en</Language>
   <Overview>When the BAU investigates a murder involving organ removal Jack believes that the Chesapeake Ripper may have resurfaced, but Will determines that the victim's murder is the result of illegal organ harvesting accident. Meanwhile, Will suffers from nightmares where he is Abigail's father, and Hannibal slowly starts to seduce Alana Bloom and begins to visit his own therapist, Dr. Bedelia Du Maurier.</Overview>
   <ProductionCode>105</ProductionCode>
   <Rating>7.8</Rating>
-  <RatingCount>71</RatingCount>
+  <RatingCount>77</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Jesse Alexander|Bryan Fuller</Writer>
   <absolute_number>7</absolute_number>
   <filename>episodes/259063/4517956.jpg</filename>
-  <lastupdated>1400697324</lastupdated>
+  <lastupdated>1432505361</lastupdated>
   <seasonid>493342</seasonid>
   <seriesid>259063</seriesid>
   <thumb_added></thumb_added>
@@ -282,29 +282,29 @@ NBC decided not to air the full episode and instead offered this web only versio
 </Episode>
 <Episode>
   <id>4520365</id>
-  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_episodenumber>8.0</Combined_episodenumber>
   <Combined_season>1</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>8.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
   <Director>Tim Hunter</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Fromage</EpisodeName>
   <EpisodeNumber>8</EpisodeNumber>
   <FirstAired>2013-05-16</FirstAired>
-  <GuestStars></GuestStars>
+  <GuestStars>Gillian Anderson|Scott Thompson|Aaron Abrams|Dan Fogler|Demore Barnes</GuestStars>
   <IMDB_ID>tt2373039</IMDB_ID>
   <Language>en</Language>
-  <Overview>The BAU investigates a murder in which the killer exposes the victim's vocal cords to literally play them like a cello. Meanwhile, Hannibal discovers that the killer, Tobias, murdered the victim as an attempt to gain Hannibal's attention but then makes an attempt to take Lecter’s life. Will is driven to distraction by strange noises in his head and turns to Alana, in a romantic way, seeking peace and stability. Hannibal describes his relationship with Will to his therapist, Dr. Bedilia Du Maurier.</Overview>
+  <Overview>The BAU investigates a murder in which the killer exposes the victim's vocal cords to literally play them like a cello. Meanwhile, Hannibal discovers that the killer, Tobias, murdered the victim as an attempt to gain Hannibal's attention but then makes an attempt to take Lecter's life. Will is driven to distraction by strange noises in his head and turns to Alana, in a romantic way, seeking peace and stability. Hannibal describes his relationship with Will to his therapist, Dr. Bedilia Du Maurier.</Overview>
   <ProductionCode>108</ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>64</RatingCount>
+  <RatingCount>69</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Jennifer Schuur|Bryan Fuller</Writer>
   <absolute_number>8</absolute_number>
   <filename>episodes/259063/4520365.jpg</filename>
-  <lastupdated>1400697339</lastupdated>
+  <lastupdated>1432505372</lastupdated>
   <seasonid>493342</seasonid>
   <seriesid>259063</seriesid>
   <thumb_added></thumb_added>
@@ -313,29 +313,29 @@ NBC decided not to air the full episode and instead offered this web only versio
 </Episode>
 <Episode>
   <id>4520366</id>
-  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_episodenumber>9.0</Combined_episodenumber>
   <Combined_season>1</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>9.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
   <Director>Guillermo Navarro</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Trou Normand</EpisodeName>
   <EpisodeNumber>9</EpisodeNumber>
   <FirstAired>2013-05-23</FirstAired>
-  <GuestStars>Lance Henriksen</GuestStars>
+  <GuestStars>Scott Thompson|Aaron Abrams|Kacey Rohl|Lara Jean Chorostecki|Lance Henriksen|Mark Rendall|Vladimir Cubrt</GuestStars>
   <IMDB_ID>tt2373041</IMDB_ID>
   <Language>en</Language>
-  <Overview>The BAU team hunts a serial killer who digs up his victims, creating a totem pole of their bodies as a macabre trophy. When Nick Boyle's body is found, Jack &amp; Alana question Abigail about his death. The resurrection of Nick's body enlightens Will to some of Abigail's secrets and Hannibal convinces Will to keep some of his own. Attempting to assert independence, Abigail agrees to write a book with Freddy Lounds and in the process, reveals her biggest secret to Hannibal.</Overview>
+  <Overview>The BAU team hunts a serial killer who digs up his victims, creating a totem pole of their bodies as a macabre trophy. When Nick Boyle's body is found, Jack and Alana question Abigail about his death. The resurrection of Nick's body enlightens Will to some of Abigail's secrets and Hannibal convinces Will to keep some of his own. Attempting to assert independence, Abigail agrees to write a book with Freddy Lounds and in the process, reveals her biggest secret to Hannibal.</Overview>
   <ProductionCode>109</ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>65</RatingCount>
+  <RatingCount>73</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Steve Lightfoot|Bryan Fuller</Writer>
   <absolute_number>9</absolute_number>
   <filename>episodes/259063/4520366.jpg</filename>
-  <lastupdated>1400697352</lastupdated>
+  <lastupdated>1432505378</lastupdated>
   <seasonid>493342</seasonid>
   <seriesid>259063</seriesid>
   <thumb_added></thumb_added>
@@ -344,29 +344,29 @@ NBC decided not to air the full episode and instead offered this web only versio
 </Episode>
 <Episode>
   <id>4520367</id>
-  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_episodenumber>10.0</Combined_episodenumber>
   <Combined_season>1</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>10.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
   <Director>John Dahl</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Buffet Froid</EpisodeName>
   <EpisodeNumber>10</EpisodeNumber>
   <FirstAired>2013-05-30</FirstAired>
-  <GuestStars>Hilary Jardine|Krista Bridges|Ellen Muth</GuestStars>
+  <GuestStars>Scott Thompson|Aaron Abrams|Ellen Muth|John Benjamin Hickey</GuestStars>
   <IMDB_ID>tt2373019</IMDB_ID>
   <Language>en</Language>
-  <Overview>BAU investigates a murder in which two victims' faces are similarly mutilated; given a “Glasgow Smile.” For the first time, Will contaminates a crime scene thinking he committed the first murder and an MRI shows he suffers from Advanced Encephalitis. But Hannibal intimidates the attending physician, Dr. Sutcliffe, into telling Will he's okay. Meanwhile, the team doubts Will who says, while revisiting the crime scene alone, he saw a mysterious, “dead-looking” woman who may be involved. With his fears fed by Hannibal, Will returns to Dr. Sutcliffe for more mental health tests, when the doctor is murdered.</Overview>
+  <Overview>The BAU investigates a murder in which two victims' faces are similarly mutilated; given a &quot;Glasgow Smile.&quot; For the first time, Will contaminates a crime scene thinking he committed the first murder and an MRI shows he suffers from Advanced Encephalitis. But Hannibal intimidates the attending physician, Dr. Sutcliffe, into telling Will he's okay. Meanwhile, the team doubts Will who says, while revisiting the crime scene alone, he saw a mysterious, &quot;dead-looking&quot; woman who may be involved. With his fears fed by Hannibal, Will returns to Dr. Sutcliffe for more mental health tests, when the doctor is murdered.</Overview>
   <ProductionCode>110</ProductionCode>
-  <Rating>7.6</Rating>
-  <RatingCount>65</RatingCount>
+  <Rating>7.5</Rating>
+  <RatingCount>71</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Andrew Black|Chris Brancato	|Bryan Fuller</Writer>
   <absolute_number>10</absolute_number>
   <filename>episodes/259063/4520367.jpg</filename>
-  <lastupdated>1400697365</lastupdated>
+  <lastupdated>1432505384</lastupdated>
   <seasonid>493342</seasonid>
   <seriesid>259063</seriesid>
   <thumb_added></thumb_added>
@@ -375,29 +375,29 @@ NBC decided not to air the full episode and instead offered this web only versio
 </Episode>
 <Episode>
   <id>4520368</id>
-  <Combined_episodenumber>11</Combined_episodenumber>
+  <Combined_episodenumber>11.0</Combined_episodenumber>
   <Combined_season>1</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>11.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
   <Director>Guillermo Navarro</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Rôti</EpisodeName>
   <EpisodeNumber>11</EpisodeNumber>
   <FirstAired>2013-06-06</FirstAired>
-  <GuestStars>Eddie Izzard</GuestStars>
+  <GuestStars>Eddie Izzard|Raúl Esparza|Scott Thompson|Aaron Abrams|Lara Jean Chorostecki|Gillian Anderson</GuestStars>
   <IMDB_ID>tt2373021</IMDB_ID>
   <Language>en</Language>
-  <Overview>When Dr. Gideon escapes from police custody, he seeks to kill psychiatrists who have profiled him. Will and the BAU team try to track him down by following Freddie Lounds' blog before Gideon can get to Alana. Hannibal misleads the BAU team in order to put Will in the same room as Gideon, and Jack questions Dr. Chilton regarding Gideon’s escape.</Overview>
+  <Overview>When Dr. Gideon escapes from police custody, he seeks to kill psychiatrists who have profiled him. Will and the BAU team try to track him down by following Freddie Lounds' blog before Gideon can get to Alana. Hannibal misleads the BAU team in order to put Will in the same room as Gideon, and Jack questions Dr. Chilton regarding Gideon's escape.</Overview>
   <ProductionCode>111</ProductionCode>
-  <Rating>7.9</Rating>
-  <RatingCount>63</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>69</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Steve Lightfoot|Bryan Fuller|Scott Nimerfro</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/259063/4520368.jpg</filename>
-  <lastupdated>1400697380</lastupdated>
+  <lastupdated>1432505390</lastupdated>
   <seasonid>493342</seasonid>
   <seriesid>259063</seriesid>
   <thumb_added></thumb_added>
@@ -406,29 +406,29 @@ NBC decided not to air the full episode and instead offered this web only versio
 </Episode>
 <Episode>
   <id>4520369</id>
-  <Combined_episodenumber>12</Combined_episodenumber>
+  <Combined_episodenumber>12.0</Combined_episodenumber>
   <Combined_season>1</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>12.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
   <Director>Michael Rymer</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Relevés</EpisodeName>
   <EpisodeNumber>12</EpisodeNumber>
   <FirstAired>2013-06-13</FirstAired>
-  <GuestStars>Gillian Anderson, Ellen Muth</GuestStars>
+  <GuestStars>Gillian Anderson|Scott Thompson|Aaron Abrams|Kacey Rohl|Lara Jean Chorostecki|Ellen Muth</GuestStars>
   <IMDB_ID>tt2373023</IMDB_ID>
   <Language>en</Language>
   <Overview>After Georgia Madchen dies in an explosion, Will asserts that the copy cat killer is still alive. The BAU team links Abigail to the Minnesota Shrike victims and plan to arrest her only to find Will has checked her out of the hospital. Will's hallucinations intensify, causing him to lose Abigail in Minnesota. Meanwhile, Hannibal's subtle manipulation convinces Jack that Will is capable of murder. Hannibal makes an astonishing admission to Abigail.</Overview>
   <ProductionCode>112</ProductionCode>
   <Rating>8.1</Rating>
-  <RatingCount>67</RatingCount>
+  <RatingCount>72</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Chris Brancato|Bryan Fuller</Writer>
   <absolute_number>12</absolute_number>
   <filename>episodes/259063/4520369.jpg</filename>
-  <lastupdated>1400697392</lastupdated>
+  <lastupdated>1432505396</lastupdated>
   <seasonid>493342</seasonid>
   <seriesid>259063</seriesid>
   <thumb_added></thumb_added>
@@ -437,29 +437,29 @@ NBC decided not to air the full episode and instead offered this web only versio
 </Episode>
 <Episode>
   <id>4520370</id>
-  <Combined_episodenumber>13</Combined_episodenumber>
+  <Combined_episodenumber>13.0</Combined_episodenumber>
   <Combined_season>1</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>13.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
   <Director>David Slade</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Savoureux</EpisodeName>
   <EpisodeNumber>13</EpisodeNumber>
   <FirstAired>2013-06-20</FirstAired>
-  <GuestStars></GuestStars>
+  <GuestStars>Gillian Anderson|Scott Thompson|Aaron Abrams|Kacey Rohl</GuestStars>
   <IMDB_ID>tt2373025</IMDB_ID>
   <Language>en</Language>
-  <Overview>When Will returns from Minnesota without Abigail, Hannibal turns Will in, and Jack and the BAU team find strong evidence of Will having killed not only Abigail but additional evidence points to all the murders of the Copy Cat Killer. Jack and Alana begin to accept that Will is indeed capable of murder. Will is arrested and in a desperate attempt to escape, breaks his own thumb to slip the handcuffs and frees himself. Will takes Hannibal back to Minnesota to clear his name and to prove Hannibal's guilt. But before he can, the situation takes another ugly and unexpected turn.</Overview>
+  <Overview>When Will returns from Minnesota without Abigail, Hannibal turns Will in and Jack and the BAU team find strong evidence of Will having killed not only Abigail but additional evidence points to all the murders of the Copy Cat Killer. Jack and Alana begin to accept that Will is indeed capable of murder. Will is arrested and in a desperate attempt to escape, breaks his own thumb to slip the handcuffs and frees himself. Will takes Hannibal back to Minnesota to clear his name and to prove Hannibal's guilt. But before he can, the situation takes another ugly and unexpected turn.</Overview>
   <ProductionCode>113</ProductionCode>
-  <Rating>8.0</Rating>
-  <RatingCount>62</RatingCount>
+  <Rating>7.9</Rating>
+  <RatingCount>68</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Steve Lightfoot|Bryan Fuller|Scott Nimerfro</Writer>
-  <absolute_number></absolute_number>
+  <absolute_number>13</absolute_number>
   <filename>episodes/259063/4520370.jpg</filename>
-  <lastupdated>1400697404</lastupdated>
+  <lastupdated>1432505406</lastupdated>
   <seasonid>493342</seasonid>
   <seriesid>259063</seriesid>
   <thumb_added></thumb_added>
@@ -479,18 +479,18 @@ NBC decided not to air the full episode and instead offered this web only versio
   <EpisodeName>Kaiseki</EpisodeName>
   <EpisodeNumber>1</EpisodeNumber>
   <FirstAired>2014-02-28</FirstAired>
-  <GuestStars></GuestStars>
+  <GuestStars>Gillian Anderson|Cynthia Nixon|Raúl Esparza</GuestStars>
   <IMDB_ID>tt3000124</IMDB_ID>
   <Language>en</Language>
-  <Overview>Will is determined to fight for his innocence as Hannibal and Jack try to wrap their heads around the fact he's behind bars. Meanwhile, Alana faces a strained relationship with Will while Kade Purnell with the FBI pays him a visit. </Overview>
+  <Overview>Will is determined to fight for his innocence as Hannibal and Jack try to wrap their heads around the fact he's behind bars. Meanwhile, Alana faces a strained relationship with Will while Kade Purnell with the FBI pays him a visit.</Overview>
   <ProductionCode>201</ProductionCode>
   <Rating>8.1</Rating>
-  <RatingCount>28</RatingCount>
+  <RatingCount>46</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Bryan Fuller</Writer>
   <absolute_number>14</absolute_number>
   <filename>episodes/259063/4653574.jpg</filename>
-  <lastupdated>1405731856</lastupdated>
+  <lastupdated>1430187051</lastupdated>
   <seasonid>528928</seasonid>
   <seriesid>259063</seriesid>
   <thumb_added>2014-02-27 21:12:45</thumb_added>
@@ -510,18 +510,18 @@ NBC decided not to air the full episode and instead offered this web only versio
   <EpisodeName>Sakizuke</EpisodeName>
   <EpisodeNumber>2</EpisodeNumber>
   <FirstAired>2014-03-07</FirstAired>
-  <GuestStars></GuestStars>
+  <GuestStars>Gillian Anderson|Cynthia Nixon|Martin Donovan</GuestStars>
   <IMDB_ID>tt3230882</IMDB_ID>
   <Language>en</Language>
-  <Overview>The team investigates a soupy crime scene as valuable evidence comes to the fore. Meanwhile, Hannibal sniffs out clues on his own; Will continues a quest to prove his innocence; Jack feels guilty for not protecting Will and goes to therapy.</Overview>
+  <Overview>The case of the human soup becomes clearer when a victim that has escaped from the killer's clutches washes downstream after a deadly fall, leaving valuable evidence for the BAU team to uncover. Hannibal Lecter assists on the case, sniffing out clues of his own from of the victim's body. Meanwhile, Will Graham begins a plan of manipulation from within the asylum, set on proving his own innocence. Jack tries to deal with his guilt over not protecting Will and submits to mandated therapy after Alana Bloom's scathing report. Awaiting his upcoming trial, Will is surprised by an unexpected guest - Bedelia du Maurier - who gives him a much-needed boost to his psyche.</Overview>
   <ProductionCode>202</ProductionCode>
-  <Rating>8.1</Rating>
-  <RatingCount>30</RatingCount>
+  <Rating>8.0</Rating>
+  <RatingCount>47</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Jeff Vlaming|Bryan Fuller</Writer>
   <absolute_number>15</absolute_number>
   <filename>episodes/259063/4748756.jpg</filename>
-  <lastupdated>1405731892</lastupdated>
+  <lastupdated>1430187098</lastupdated>
   <seasonid>528928</seasonid>
   <seriesid>259063</seriesid>
   <thumb_added>2014-03-01 20:43:29</thumb_added>
@@ -541,18 +541,18 @@ NBC decided not to air the full episode and instead offered this web only versio
   <EpisodeName>Hassun</EpisodeName>
   <EpisodeNumber>3</EpisodeNumber>
   <FirstAired>2014-03-14</FirstAired>
-  <GuestStars></GuestStars>
+  <GuestStars>Cynthia Nixon|Raúl Esparza|Lara Jean Chorostecki|Maria del Mar|Shawn Doyle|Barry Flatman</GuestStars>
   <IMDB_ID>tt3230884</IMDB_ID>
   <Language>en</Language>
-  <Overview>Will Graham's trial begins and he must watch as those closest to him are forced to take sides. Jack Crawfords scathing report about his conduct with Will, is pulled in conflicting directions. To add confusion to an already suspenseful trial, a court bailiff is killed in a Copycat-like manner and those closest to Will start to wonder if they were wrong about him.</Overview>
+  <Overview>Will Graham's trial begins and he must watch as those closest to him are forced to take sides. Jack Crawford scathing report about his conduct with Will, is pulled in conflicting directions. He acknowledges that he may be partially to blame for pushing his star pupil over the edge. To add confusion to an already suspenseful trial, a court bailiff is killed in a Copycat-like manner and those closest to Will start to wonder if they were wrong about him. The outcome of the entire trial hangs in the balance as one last key victim is served up.</Overview>
   <ProductionCode>203</ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>29</RatingCount>
+  <RatingCount>44</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Jason Grote|Steve Lightfoot</Writer>
   <absolute_number>16</absolute_number>
   <filename>episodes/259063/4772307.jpg</filename>
-  <lastupdated>1405731937</lastupdated>
+  <lastupdated>1430187587</lastupdated>
   <seasonid>528928</seasonid>
   <seriesid>259063</seriesid>
   <thumb_added>2014-03-08 18:49:01</thumb_added>
@@ -572,18 +572,18 @@ NBC decided not to air the full episode and instead offered this web only versio
   <EpisodeName>Takiawase</EpisodeName>
   <EpisodeNumber>4</EpisodeNumber>
   <FirstAired>2014-03-21</FirstAired>
-  <GuestStars>Gina Torres</GuestStars>
+  <GuestStars>Eddie Izzard|Gina Torres|Kacey Rohl|Raúl Esparza|Amanda Plummer</GuestStars>
   <IMDB_ID>tt3230886</IMDB_ID>
   <Language>en</Language>
-  <Overview>Our team is called in when a body is found in a meadow, the cranial cavity converted into a beehive. Meanwhile, Beverly Katz continues to work on the mural killer case, secretly consulting with Will Graham to decipher the killer's human tapestry. Will insists that the killer was put in the mural by Hannibal Lecter, and urges her to prove that Hannibal is the real Chesapeake Ripper and Copycat Killer.</Overview>
+  <Overview>A killer murders their victim and converts the cranial cavity into a beehive, leaving the corpse for the authorities. Meanwhile, Beverly secretly consults with Will to figure out who the mural killer is, and Will insists that Hannibal is both the Chesapeake Ripper and the Copycat Killer.</Overview>
   <ProductionCode>204</ProductionCode>
   <Rating>8.2</Rating>
-  <RatingCount>25</RatingCount>
+  <RatingCount>40</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Scott Nimerfro|Bryan Fuller</Writer>
   <absolute_number>17</absolute_number>
   <filename>episodes/259063/4772308.jpg</filename>
-  <lastupdated>1405731970</lastupdated>
+  <lastupdated>1430187867</lastupdated>
   <seasonid>528928</seasonid>
   <seriesid>259063</seriesid>
   <thumb_added>2014-03-15 17:05:45</thumb_added>
@@ -603,18 +603,18 @@ NBC decided not to air the full episode and instead offered this web only versio
   <EpisodeName>Mukōzuke</EpisodeName>
   <EpisodeNumber>5</EpisodeNumber>
   <FirstAired>2014-03-28</FirstAired>
-  <GuestStars></GuestStars>
+  <GuestStars>Eddie Izzard|Raúl Esparza|Lara Jean Chorostecki|Jonathan Tucker</GuestStars>
   <IMDB_ID>tt3230890</IMDB_ID>
   <Language>en</Language>
-  <Overview>When one of the team's own is found in a grotesque tableau, Will volunteers to assist with the profile and informs Jack that it's the work of the Chesapeake Ripper and the Copycat Killer, the two are one and the same. Dr. Able Gideon is brought back to the asylum to help confirm Will's claims of the Ripper's true identity, but instead suggests to Will the idea of putting an end to the Ripper once and for all. Confined behind bars, Will enlists the help of Freddie Lounds to contact his murderous admirer through her website. Once he has the killer's attention, Will asks for help dealing with Hannibal.</Overview>
+  <Overview>When one of the team's own is found in a grotesque tableau, Will volunteers to assist with the profile and informs Jack that it's the work of the Chesapeake Ripper and the Copycat Killer, the two are one and the same. Dr. Able Gideon is brought back to the asylum to help confirm Will's claims of the Ripper's true identity, but instead suggests to Will the idea of putting an end to the Ripper once and for all. Confined behind bars, Will enlists the help of Freddie Lounds to contact his murderous admirer through her website.</Overview>
   <ProductionCode>205</ProductionCode>
   <Rating>8.0</Rating>
-  <RatingCount>25</RatingCount>
+  <RatingCount>41</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Ayanna A.Floyd|Steve Lightfoot|Bryan Fuller</Writer>
   <absolute_number>18</absolute_number>
   <filename>episodes/259063/4772309.jpg</filename>
-  <lastupdated>1405732005</lastupdated>
+  <lastupdated>1430187944</lastupdated>
   <seasonid>528928</seasonid>
   <seriesid>259063</seriesid>
   <thumb_added>2014-03-22 09:21:10</thumb_added>
@@ -634,18 +634,18 @@ NBC decided not to air the full episode and instead offered this web only versio
   <EpisodeName>Futamono</EpisodeName>
   <EpisodeNumber>6</EpisodeNumber>
   <FirstAired>2014-04-04</FirstAired>
-  <GuestStars></GuestStars>
+  <GuestStars>Eddie Izzard|Raúl Esparza</GuestStars>
   <IMDB_ID>tt3230896</IMDB_ID>
   <Language>en</Language>
-  <Overview>When a city councilman’s body is found in a parking lot, intertwined with a tree, the artistry and missing organs suggest the work of the Chesapeake Ripper. Jack and the team race against time to catch the Ripper while he’s still on his killing spree. When Will suggests the possibility that the Ripper is filling his pantry with the victims’ organs, Jack crashes Hannibal Lecter’s dinner party to collect evidence and test the meat for human DNA. Jack’s growing suspicions drive Alana even closer to Hannibal, believing he is the victim of a witch hunt. Meanwhile, clues from the tree man help the BAU zero in on a location they believe the Ripper used.</Overview>
+  <Overview>When a city councilman's body is found in a parking lot, intertwined with a tree, the artistry and missing organs suggest the work of the Chesapeake Ripper. Jack and the team race against time to catch the Ripper while he's still on his killing spree. When Will suggests the possibility that the Ripper is filling his pantry with the victims' organs, Jack crashes Hannibal Lecter's dinner party to collect evidence and test the meat for human DNA. Jack's growing suspicions drive Alana even closer to Hannibal, believing he is the victim of a witch hunt. Meanwhile, clues from the tree man help the BAU zero in on a location they believe the Ripper used.</Overview>
   <ProductionCode>206</ProductionCode>
-  <Rating>8.0</Rating>
-  <RatingCount>30</RatingCount>
+  <Rating>7.9</Rating>
+  <RatingCount>47</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Andy Black</Writer>
   <absolute_number>19</absolute_number>
   <filename>episodes/259063/4772310.jpg</filename>
-  <lastupdated>1405732045</lastupdated>
+  <lastupdated>1430188042</lastupdated>
   <seasonid>528928</seasonid>
   <seriesid>259063</seriesid>
   <thumb_added>2014-03-29 15:22:53</thumb_added>
@@ -668,15 +668,15 @@ NBC decided not to air the full episode and instead offered this web only versio
   <GuestStars>Raúl Esparza|Anna Chlumsky</GuestStars>
   <IMDB_ID>tt3230898</IMDB_ID>
   <Language>en</Language>
-  <Overview>When Jack Crawford’s star pupil Miriam Lass is found alive, she becomes the FBI’s best hope to identifying the Chesapeake Ripper, but her foggy memory complicates the search. Evidence found at the site of Miriam’s rescue exonerates Will Graham of any involvement in the Ripper and Copycat cases, and he is released from the asylum. Will warns Dr. Chilton that he could be in danger due to his intimate knowledge of the Ripper case, but when Chilton tries to confide in Jack that he shares Will’s fears about Hannibal, he is rebuffed — no evidence has been found against Hannibal, despite the FBI’s efforts. Meanwhile, Jack wastes no time in reinstating Will on the BAU team as they hunt for the Ripper. After introducing Will and Miriam to compare notes, Jack’s suspicions of Hannibal’s involvement continue to build. Only Miriam’s memory holds the key to unlocking the Ripper’s true identity, but can it be trusted?</Overview>
+  <Overview>When Jack Crawford’s star pupil Miriam Lass is found alive, she becomes the FBI’s best hope to identifying the Chesapeake Ripper, but her foggy memory complicates the search. Evidence found at the site of Miriam’s rescue exonerates Will Graham of any involvement in the Ripper and Copycat cases, and he is released from the asylum. Will warns Dr. Chilton that he could be in danger due to his intimate knowledge of the Ripper case, but when Chilton tries to confide in Jack that he shares Will’s fears about Hannibal, he is rebuffed — no evidence has been found against Hannibal, despite the FBI’s efforts. Meanwhile, Jack wastes no time in reinstating Will on the BAU team as they hunt for the Ripper.</Overview>
   <ProductionCode>207</ProductionCode>
-  <Rating>7.8</Rating>
-  <RatingCount>28</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>47</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Steve Lightfoot|Bryan Fuller</Writer>
   <absolute_number>20</absolute_number>
   <filename>episodes/259063/4772311.jpg</filename>
-  <lastupdated>1405732078</lastupdated>
+  <lastupdated>1428072674</lastupdated>
   <seasonid>528928</seasonid>
   <seriesid>259063</seriesid>
   <thumb_added>2014-04-05 09:43:52</thumb_added>
@@ -696,18 +696,18 @@ NBC decided not to air the full episode and instead offered this web only versio
   <EpisodeName>Su-zakana</EpisodeName>
   <EpisodeNumber>8</EpisodeNumber>
   <FirstAired>2014-04-18</FirstAired>
-  <GuestStars>Jeremy Davies|Chris Diamantopoulos</GuestStars>
+  <GuestStars>Katharine Isabelle|Jeremy Davies|Chris Diamantopoulos</GuestStars>
   <IMDB_ID>tt3230894</IMDB_ID>
   <Language>en</Language>
   <Overview>When a young woman's body is discovered inside of a horse, Hannibal suggests to Jack that Will be brought in to help crack this peculiar case. Will has seemingly cast aside his suspicions of Hannibal, resuming their doctor-patient relationship, but Alana remains skeptical regarding Will's true intentions and worries that Hannibal may still be in danger. The FBI questions the man they suspect to be the killer in their case, but lack of evidence forces them to let him go. Will and Hannibal race to guard the safety of a witness they believe is in jeopardy, but it might be Will's own judgment that is in peril.</Overview>
   <ProductionCode>208</ProductionCode>
-  <Rating>8.1</Rating>
-  <RatingCount>26</RatingCount>
+  <Rating>7.9</Rating>
+  <RatingCount>42</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Scott Nimerfro</Writer>
   <absolute_number>21</absolute_number>
   <filename>episodes/259063/4772312.jpg</filename>
-  <lastupdated>1405732110</lastupdated>
+  <lastupdated>1430188283</lastupdated>
   <seasonid>528928</seasonid>
   <seriesid>259063</seriesid>
   <thumb_added>2014-04-15 06:58:18</thumb_added>
@@ -727,18 +727,18 @@ NBC decided not to air the full episode and instead offered this web only versio
   <EpisodeName>Shiizakana</EpisodeName>
   <EpisodeNumber>9</EpisodeNumber>
   <FirstAired>2014-04-25</FirstAired>
-  <GuestStars>Katherine Isabelle</GuestStars>
+  <GuestStars>Katharine Isabelle|Jeremy Davies|Chris Diamantopoulos|Mark O'Brien</GuestStars>
   <IMDB_ID>tt3230900</IMDB_ID>
   <Language>en</Language>
-  <Overview>The FBI is called in to investigate the discovery of a truck driver’s body, seemingly torn apart by two separate species of animal working in tandem, neither of which consumed their kill. After one of his therapy sessions, Will meets Hannibal’s  strange new patient, Margot Verger. Will and Margot compare notes on Hannibal and his unconventional advice. Continually encouraging his patients to revel in what they are, Hannibal aims to determine Will’s true self by sending him a test, the results of which surprise even Hannibal.</Overview>
+  <Overview>The FBI is called in to investigate the discovery of a truck driver's body, seemingly torn apart by two separate species of animal working in tandem, neither of which consumed their kill. After one of his therapy sessions, Will meets Hannibal's strange new patient, Margot Verger. Will and Margot compare notes on Hannibal and his unconventional advice. Continually encouraging his patients to revel in what they are, Hannibal aims to determine Will's true self by sending him a test, the results of which surprise even Hannibal.</Overview>
   <ProductionCode>209</ProductionCode>
-  <Rating>8.1</Rating>
-  <RatingCount>23</RatingCount>
+  <Rating>7.8</Rating>
+  <RatingCount>40</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Jeff Vlaming</Writer>
   <absolute_number>22</absolute_number>
   <filename>episodes/259063/4772306.jpg</filename>
-  <lastupdated>1405732147</lastupdated>
+  <lastupdated>1430188385</lastupdated>
   <seasonid>528928</seasonid>
   <seriesid>259063</seriesid>
   <thumb_added>2014-04-21 21:05:14</thumb_added>
@@ -758,18 +758,18 @@ NBC decided not to air the full episode and instead offered this web only versio
   <EpisodeName>Naka-Choko</EpisodeName>
   <EpisodeNumber>10</EpisodeNumber>
   <FirstAired>2014-05-02</FirstAired>
-  <GuestStars>Mark O’Brien|Katherine Isabelle|Michael Pitt</GuestStars>
+  <GuestStars>Michael Pitt|Katharine Isabelle|Lara Jean Chorostecki|Mark O'Brien</GuestStars>
   <IMDB_ID>tt3230904</IMDB_ID>
   <Language>en</Language>
-  <Overview>The bond between Hannibal and Will grows after Will demonstrates his willingness to go to dark places, a shift that does not go unnoticed by Jack. Jack and the FBI team investigate a tableau made of Randal Tier and his animal exoskeleton, fully realized as the vicious hunter he yearned to be. Hannibal advises Margot Verger regarding her concerns over her brother Mason’s violent nature, a fear that intensifies when Mason demonstrates how he has trained pigs to consume human flesh. Will agrees to an interview with Freddie Lounds for her upcoming book, and learns that she is looking into his allegations of Hannibal’s possible guilt.</Overview>
+  <Overview>The bond between Hannibal and Will grows after Will demonstrates his willingness to go to dark places, a shift that does not go unnoticed by Jack. Jack and the FBI team investigate a tableau made of Randal Tier and his animal exoskeleton, fully realized as the vicious hunter he yearned to be. </Overview>
   <ProductionCode>210</ProductionCode>
-  <Rating>7.9</Rating>
-  <RatingCount>18</RatingCount>
+  <Rating>7.7</Rating>
+  <RatingCount>36</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Steve Lightfoot</Writer>
   <absolute_number>23</absolute_number>
   <filename>episodes/259063/4795921.jpg</filename>
-  <lastupdated>1405732188</lastupdated>
+  <lastupdated>1431741846</lastupdated>
   <seasonid>528928</seasonid>
   <seriesid>259063</seriesid>
   <thumb_added>2014-04-26 09:55:39</thumb_added>
@@ -789,18 +789,18 @@ NBC decided not to air the full episode and instead offered this web only versio
   <EpisodeName>Kō No Mono</EpisodeName>
   <EpisodeNumber>11</EpisodeNumber>
   <FirstAired>2014-05-09</FirstAired>
-  <GuestStars></GuestStars>
+  <GuestStars>Michael Pitt|Katharine Isabelle</GuestStars>
   <IMDB_ID>tt3230906</IMDB_ID>
   <Language>en</Language>
   <Overview>The truth of Freddie Lounds’ disappearance is discovered by Jack and his team. Alana expresses her concern over Will’s mental state, but he confuses her fears by encouraging her to arm and protect herself. Mason Verger suspects that his sister, Margot, is plotting to usurp him by getting pregnant with an heir. Hannibal reveals to Will how much Abigail reminded him of his sister, making it even harder for Will to understand why she had to die.</Overview>
   <ProductionCode>211</ProductionCode>
-  <Rating>8.2</Rating>
-  <RatingCount>23</RatingCount>
+  <Rating>8.0</Rating>
+  <RatingCount>42</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Jeff Vlaming|Andy Black|Bryan Fuller</Writer>
   <absolute_number>24</absolute_number>
   <filename>episodes/259063/4795922.jpg</filename>
-  <lastupdated>1405732217</lastupdated>
+  <lastupdated>1430188514</lastupdated>
   <seasonid>528928</seasonid>
   <seriesid>259063</seriesid>
   <thumb_added>2014-05-03 16:24:25</thumb_added>
@@ -820,18 +820,18 @@ NBC decided not to air the full episode and instead offered this web only versio
   <EpisodeName>Tome-wan</EpisodeName>
   <EpisodeNumber>12</EpisodeNumber>
   <FirstAired>2014-05-16</FirstAired>
-  <GuestStars></GuestStars>
+  <GuestStars>Michael Pitt|Katharine Isabelle</GuestStars>
   <IMDB_ID>tt3230910</IMDB_ID>
   <Language>en</Language>
-  <Overview>In a therapy session, Will imagines how he would kill Hannibal, honestly sharing his visions, and oddly bolstering their co-dependency. Later, in a session with Mason Verger, Hannibal discusses Margot’s unfortunate &quot;accident&quot; and other veiled threats. Jack grows impatient with Will’s progress on catching Hannibal, and brings in a surprise witness from the past to help. And when Hannibal’s life is threatened, Will must decide whether to come to his aid, and give Hannibal the opportunity for revenge.</Overview>
+  <Overview>In a therapy session, Will imagines how he would kill Hannibal, honestly sharing his visions, and oddly bolstering their co-dependency. Later, in a session with Mason Verger, Hannibal discusses Margot’s unfortunate “accident” and other veiled threats. Jack grows impatient with Will’s progress on catching Hannibal, and brings in a surprise witness from the past to help. And when Hannibal’s life is threatened, Will must decide whether to come to his aid, and give Hannibal the opportunity for revenge.</Overview>
   <ProductionCode>212</ProductionCode>
-  <Rating>8.4</Rating>
-  <RatingCount>22</RatingCount>
+  <Rating>8.1</Rating>
+  <RatingCount>39</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Chris Brancato|Bryan Fuller|Scott Nimerfro</Writer>
   <absolute_number>25</absolute_number>
   <filename>episodes/259063/4810880.jpg</filename>
-  <lastupdated>1405732257</lastupdated>
+  <lastupdated>1430181456</lastupdated>
   <seasonid>528928</seasonid>
   <seriesid>259063</seriesid>
   <thumb_added>2014-05-10 23:59:12</thumb_added>
@@ -840,33 +840,436 @@ NBC decided not to air the full episode and instead offered this web only versio
 </Episode>
 <Episode>
   <id>4810881</id>
-  <Combined_episodenumber>13</Combined_episodenumber>
+  <Combined_episodenumber>13.0</Combined_episodenumber>
   <Combined_season>2</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
-  <DVD_episodenumber></DVD_episodenumber>
-  <DVD_season></DVD_season>
+  <DVD_episodenumber>13.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
   <Director>David Slade</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Mizumono</EpisodeName>
   <EpisodeNumber>13</EpisodeNumber>
   <FirstAired>2014-05-23</FirstAired>
-  <GuestStars></GuestStars>
+  <GuestStars>Cynthia Nixon|Gina Torres|Lara Jean Chorostecki</GuestStars>
   <IMDB_ID>tt3230908</IMDB_ID>
   <Language>en</Language>
-  <Overview>Hannibal prepares for his imminent departure with, he believes, Will. Will prepares for a departure of another sort, tying up loose ends, not sure if he’ll survive the trap he’s set for Hannibal. Both men feel that Jack deserves the truth, but what is that truth? Loyalties will be tested and forgiveness will be asked…and the inevitable battle between Hannibal and Jack is upon them.</Overview>
+  <Overview>Hannibal prepares for his imminent departure with, he believes, Will. Will prepares for a departure of another sort, tying up loose ends, not sure if he’ll survive the trap he’s set for Hannibal. Both men feel that Jack deserves the truth, but what is that truth? Loyalties will be tested and forgiveness will be asked… and the inevitable battle between Hannibal and Jack is upon them.</Overview>
   <ProductionCode>213</ProductionCode>
-  <Rating>9.0</Rating>
-  <RatingCount>20</RatingCount>
+  <Rating>8.3</Rating>
+  <RatingCount>38</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Steve Lightfoot</Writer>
   <absolute_number>26</absolute_number>
   <filename>episodes/259063/4810881.jpg</filename>
-  <lastupdated>1405732283</lastupdated>
+  <lastupdated>1430184359</lastupdated>
   <seasonid>528928</seasonid>
   <seriesid>259063</seriesid>
   <thumb_added>2014-05-17 16:14:20</thumb_added>
   <thumb_height>225</thumb_height>
   <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4999808</id>
+  <Combined_episodenumber>1.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>1.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Vincenzo Natali</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Antipasto</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2015-06-04</FirstAired>
+  <GuestStars>Eddie Izzard|Tom Wisdom|Jeremy Crutchley|Zachary Quinto</GuestStars>
+  <IMDB_ID>tt3724578</IMDB_ID>
+  <Language>en</Language>
+  <Overview>After the devastating bloodbath at Lecters home Hannibal establishes a new life for himself in Italy along with the company of his own psychiatrist Bedelia.</Overview>
+  <ProductionCode>301</ProductionCode>
+  <Rating>8.4</Rating>
+  <RatingCount>8</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Bryan Fuller|Steve Lightfoot</Writer>
+  <absolute_number>27</absolute_number>
+  <filename>episodes/259063/4999808.jpg</filename>
+  <lastupdated>1434568251</lastupdated>
+  <seasonid>598005</seasonid>
+  <seriesid>259063</seriesid>
+  <thumb_added>2015-05-31 10:39:39</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5010014</id>
+  <Combined_episodenumber>2.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>2.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Vincenzo Natali</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Primavera</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2015-06-11</FirstAired>
+  <GuestStars>Fortunato Cerlino</GuestStars>
+  <IMDB_ID>tt3984450</IMDB_ID>
+  <Language>en</Language>
+  <Overview>With his wounds now healed, Will Graham heads to Europe eight months after the horrific event that almost took his life, in search of closure with Hannibal Lecter. Meanwhile an Italian inspector thinks that Lecter and a killer he pursued 20 years earlier are the same person.</Overview>
+  <ProductionCode>302</ProductionCode>
+  <Rating>8.2</Rating>
+  <RatingCount>5</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Bryan Fuller|Jeff Vlaming</Writer>
+  <absolute_number>28</absolute_number>
+  <filename>episodes/259063/5010014.jpg</filename>
+  <lastupdated>1434751826</lastupdated>
+  <seasonid>598005</seasonid>
+  <seriesid>259063</seriesid>
+  <thumb_added>2015-05-28 11:34:15</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5010015</id>
+  <Combined_episodenumber>3.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>3.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Vincenzo Natali</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Secondo</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2015-06-18</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3984452</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Will Graham continues his search for Hannibal Lecter, making his way to Hannibal's childhood home in Lithuania. Meanwhile, Jack Crawford arrives in Italy, hoping to find Will and intervene before tragedy strikes again, and Bedelia warns Hannibal against unraveling his new life.</Overview>
+  <ProductionCode>303</ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>5</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Bryan Fuller|Angelina Burnett|Steve Lightfoot</Writer>
+  <absolute_number>29</absolute_number>
+  <filename>episodes/259063/5010015.jpg</filename>
+  <lastupdated>1434751856</lastupdated>
+  <seasonid>598005</seasonid>
+  <seriesid>259063</seriesid>
+  <thumb_added>2015-06-17 06:44:39</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5010016</id>
+  <Combined_episodenumber>4.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>4.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Marc Jobst|David Slade</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Aperitivo</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2015-06-25</FirstAired>
+  <GuestStars>Raúl Esparza</GuestStars>
+  <IMDB_ID>tt3984456</IMDB_ID>
+  <Language>en</Language>
+  <Overview>After surviving a disfiguring gunshot, Dr. Fredrick Chilton is now focused on rallying support to capture Hannibal, using Will as bait. Jack is distracted by Bella's failing health, but he implores Will to abandon the risky idea of finding Hannibal. Meanwhile, Alana Bloom entertains a different approach, potentially partnering with Mason Verger to utilize his vast resources.</Overview>
+  <ProductionCode>304</ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>30</absolute_number>
+  <filename>episodes/259063/5010016.jpg</filename>
+  <lastupdated>1434607125</lastupdated>
+  <seasonid>598005</seasonid>
+  <seriesid>259063</seriesid>
+  <thumb_added>2015-06-15 10:36:14</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5010017</id>
+  <Combined_episodenumber>5.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>5.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Vincenzo Natali</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Contorno</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2015-07-02</FirstAired>
+  <GuestStars>Fortunato Cerlino|Joe Anderson</GuestStars>
+  <IMDB_ID>tt4035340</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Jack Crawford and Inspector Pazzi search for clues that will lead them closer to Hannibal Lecter's location in Florence, but the promise of riches offered by Mason Verger threatens to corrupt Pazzi's quest for redemption. Meanwhile, Will Graham and Chiyoh travel to Florence, both on a mission to find Hannibal, but at odds over the desired outcome. Elsewhere, as Alana Bloom continues to work with Mason Verger she grows concerned for the safety of all involved.</Overview>
+  <ProductionCode>305</ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>31</absolute_number>
+  <filename>episodes/259063/5010017.jpg</filename>
+  <lastupdated>1434750789</lastupdated>
+  <seasonid>598005</seasonid>
+  <seriesid>259063</seriesid>
+  <thumb_added>2015-06-19 14:52:21</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5010018</id>
+  <Combined_episodenumber>6.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>6.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Vincenzo Natali</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Dolce</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2015-07-09</FirstAired>
+  <GuestStars>Joe Anderson|Katharine Isabelle|Fortunato Cerlino|Glenn Fleshler</GuestStars>
+  <IMDB_ID>tt4057954</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Sensing their time in Florence is coming to an end, Bedelia Du Maurier and Hannibal consider their parting as Hannibal plans for his final stand. Meanwhile, Will Graham and Jack Crawford reunite, but Jack remains uncertain about Will's true loyalty. Back in the States, Mason Verger hungrily makes plans for Hannibal's capture, while Alana Bloom and Margot Verger makes plans of their own for Mason.</Overview>
+  <ProductionCode>306</ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>32</absolute_number>
+  <filename></filename>
+  <lastupdated>1434735385</lastupdated>
+  <seasonid>598005</seasonid>
+  <seriesid>259063</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5010019</id>
+  <Combined_episodenumber>7.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>7.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Adam Kane</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Digestivo</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2015-07-16</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt4057962</IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode>307</ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>33</absolute_number>
+  <filename></filename>
+  <lastupdated>1433764099</lastupdated>
+  <seasonid>598005</seasonid>
+  <seriesid>259063</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5010020</id>
+  <Combined_episodenumber>8.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>8.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Neil Marshall</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>The Great Red Dragon</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2015-07-23</FirstAired>
+  <GuestStars>Richard Armitage</GuestStars>
+  <IMDB_ID>tt4057974</IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode>308</ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>34</absolute_number>
+  <filename></filename>
+  <lastupdated>1433764667</lastupdated>
+  <seasonid>598005</seasonid>
+  <seriesid>259063</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5137492</id>
+  <Combined_episodenumber>9.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>9.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>...And the Woman Clothed in Sun</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2015-07-30</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt4089740</IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode>309</ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>35</absolute_number>
+  <filename></filename>
+  <lastupdated>1434109962</lastupdated>
+  <seasonid>598005</seasonid>
+  <seriesid>259063</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5137493</id>
+  <Combined_episodenumber>10.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>10.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Guillermo Navarro</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>...And the Woman Clothed with the Sun</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2015-08-06</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt4089746</IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode>310</ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>36</absolute_number>
+  <filename></filename>
+  <lastupdated>1434109967</lastupdated>
+  <seasonid>598005</seasonid>
+  <seriesid>259063</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5137494</id>
+  <Combined_episodenumber>11.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>11.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>... And the Beast from the Sea</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired>2015-08-13</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt4089748</IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode>311</ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>37</absolute_number>
+  <filename></filename>
+  <lastupdated>1434109973</lastupdated>
+  <seasonid>598005</seasonid>
+  <seriesid>259063</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5137495</id>
+  <Combined_episodenumber>12.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>12.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Guillermo Navarro</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName></EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired>2015-08-20</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt4089752</IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode>312</ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>38</absolute_number>
+  <filename></filename>
+  <lastupdated>1433764294</lastupdated>
+  <seasonid>598005</seasonid>
+  <seriesid>259063</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5137496</id>
+  <Combined_episodenumber>13.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>13.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Michael Rymer</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>The Wrath of the Lamb</EpisodeName>
+  <EpisodeNumber>13</EpisodeNumber>
+  <FirstAired>2015-09-03</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt4089754</IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Bryan Fuller\Steve Lightfoot|Nick Antosca</Writer>
+  <absolute_number>39</absolute_number>
+  <filename></filename>
+  <lastupdated>1433764373</lastupdated>
+  <seasonid>598005</seasonid>
+  <seriesid>259063</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
 </Episode>
 </Data>

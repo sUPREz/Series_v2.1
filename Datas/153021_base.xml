@@ -2,7 +2,7 @@
 <Data>
   <Series>
     <id>153021</id>
-    <Actors>|Andrew Lincoln|Steven Yeun|Chandler Riggs|Danai Gurira|Dallas Roberts|Chad L. Coleman|Sonequa Martin-Green|Melissa McBride|David Morrissey|Michael Rooker|Emily Kinney|Scott Wilson|Irone Singleton|Lauren Cohan|Norman Reedus|Emma Bell|Laurie Holden|Jeffrey DeMunn|Jon Bernthal|Sarah Wayne Callies|Lawrence Gilliard Jr.|</Actors>
+    <Actors>|Andrew Lincoln|Norman Reedus|Steven Yeun|Chandler Riggs|Danai Gurira|Josh McDermitt|Christian Serratos|Michael Cudlitz|Alanna Masterson|Lawrence Gilliard Jr.|Dallas Roberts|Chad L. Coleman|Sonequa Martin-Green|Melissa McBride|David Morrissey|Michael Rooker|Emily Kinney|Scott Wilson|Irone Singleton|Lauren Cohan|Emma Bell|Laurie Holden|Jeffrey DeMunn|Jon Bernthal|Sarah Wayne Callies|</Actors>
     <Airs_DayOfWeek>Sunday</Airs_DayOfWeek>
     <Airs_Time>9:00 PM</Airs_Time>
     <ContentRating>TV-MA</ContentRating>
@@ -12,19 +12,20 @@
     <Language>en</Language>
     <Network>AMC</Network>
     <NetworkID></NetworkID>
-    <Overview>Based on the comic book series of the same name, The Walking Dead tells the story of a small group of survivors living in the aftermath of a zombie apocalypse.</Overview>
+    <Overview>The world we knew is gone. An epidemic of apocalyptic proportions has swept the globe causing the dead to rise and feed on the living. In a matter of months society has crumbled. In a world ruled by the dead, we are forced to finally start living. Based on a comic book series of the same name by Robert Kirkman, this AMC project focuses on the world after a zombie apocalypse. The series follows a police officer, Rick Grimes, who wakes up from a coma to find the world ravaged with zombies. Looking for his family, he and a group of survivors attempt to battle against the zombies in order to stay alive.
+</Overview>
     <Rating>8.9</Rating>
-    <RatingCount>534</RatingCount>
-    <Runtime>60</Runtime>
+    <RatingCount>656</RatingCount>
+    <Runtime>45</Runtime>
     <SeriesID></SeriesID>
     <SeriesName>The Walking Dead</SeriesName>
     <Status>Continuing</Status>
     <added>2010-03-30 01:30:16</added>
     <addedBy>76261</addedBy>
     <banner>graphical/153021-g32.jpg</banner>
-    <fanart>fanart/original/153021-47.jpg</fanart>
-    <lastupdated>1405812680</lastupdated>
-    <poster>posters/153021-8.jpg</poster>
+    <fanart>fanart/original/153021-46.jpg</fanart>
+    <lastupdated>1435009348</lastupdated>
+    <poster>posters/153021-31.jpg</poster>
     <tms_wanted_old>1</tms_wanted_old>
     <zap2it_id>SH01324002</zap2it_id>
   </Series>

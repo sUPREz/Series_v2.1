@@ -2,9 +2,9 @@
 <Data>
   <Series>
     <id>248880</id>
-    <Actors>|Rachel Bilson|Scott Porter|Wilson Bethel|Cress Williams|Jaime King|Tim Matheson|Kaitlyn Black|McKaley Miller|</Actors>
+    <Actors>|Rachel Bilson|Wilson Bethel|Scott Porter|Cress Williams|Jaime King|Claudia Lee|Tim Matheson|Kaitlyn Black|McKaley Miller|</Actors>
     <Airs_DayOfWeek>Friday</Airs_DayOfWeek>
-    <Airs_Time>9:00 PM</Airs_Time>
+    <Airs_Time>8:00 PM</Airs_Time>
     <ContentRating>TV-PG</ContentRating>
     <FirstAired>2011-09-26</FirstAired>
     <Genre>|Comedy|Drama|Romance|</Genre>
@@ -14,17 +14,17 @@
     <NetworkID></NetworkID>
     <Overview>Fast-talking New Yorker and brand new doctor Zoe Hart has it all figured out - after graduating top of her class from medical school, she'll follow in her father's footsteps and become a cardio-thoracic surgeon. But when her dreams fall apart, Zoe decides to accept an offer from a stranger, Dr. Harley Wilkes, to work with him at his small practice in Bluebell, Alabama. Zoe arrives in this small Gulf Coast town only to find that Harley has passed away and left his half of the medical practice to her in his will.</Overview>
     <Rating>7.8</Rating>
-    <RatingCount>24</RatingCount>
-    <Runtime>60</Runtime>
+    <RatingCount>29</RatingCount>
+    <Runtime>45</Runtime>
     <SeriesID>80915</SeriesID>
     <SeriesName>Hart of Dixie</SeriesName>
-    <Status>Continuing</Status>
+    <Status>Ended</Status>
     <added>2011-05-19 14:34:20</added>
     <addedBy>235</addedBy>
     <banner>graphical/248880-g12.jpg</banner>
-    <fanart>fanart/original/248880-5.jpg</fanart>
-    <lastupdated>1405834247</lastupdated>
-    <poster>posters/248880-11.jpg</poster>
+    <fanart>fanart/original/248880-15.jpg</fanart>
+    <lastupdated>1434615736</lastupdated>
+    <poster>posters/248880-15.jpg</poster>
     <tms_wanted_old>1</tms_wanted_old>
     <zap2it_id>EP01420283</zap2it_id>
   </Series>
