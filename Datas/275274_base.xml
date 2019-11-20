@@ -13,17 +13,28 @@
     <Network>Adult Swim</Network>
     <NetworkID></NetworkID>
     <Overview>A sociopathic scientist drags his unintelligent grandson on insanely dangerous adventures across the universe.</Overview>
+<<<<<<< HEAD
     <Rating>9.0</Rating>
     <RatingCount>25</RatingCount>
+=======
+    <Rating>8.9</Rating>
+    <RatingCount>20</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <Runtime>25</Runtime>
     <SeriesID></SeriesID>
     <SeriesName>Rick and Morty</SeriesName>
     <Status>Continuing</Status>
     <added>2013-11-13 09:41:13</added>
     <addedBy>346515</addedBy>
+<<<<<<< HEAD
     <banner>graphical/275274-g6.jpg</banner>
     <fanart>fanart/original/275274-9.jpg</fanart>
     <lastupdated>1432663709</lastupdated>
+=======
+    <banner>graphical/275274-g5.jpg</banner>
+    <fanart>fanart/original/275274-2.jpg</fanart>
+    <lastupdated>1414984499</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <poster>posters/275274-2.jpg</poster>
     <tms_wanted_old>0</tms_wanted_old>
     <zap2it_id>EP01833673</zap2it_id>

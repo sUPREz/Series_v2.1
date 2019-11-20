@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Data><Series>
   <id>79349</id>
+<<<<<<< HEAD
   <Actors>|Michael C. Hall|Jennifer Carpenter|James Remar|Julie Benz|Lauren Vélez|David Zayas|Desmond Harrington|Keith Carradine|C.S. Lee|Christina Robinson|Erik King|Katia Winter|Billy Brown|Preston Bailey|Charlotte Rampling|Ray Stevenson|Jason Gedrick|Aimee Garcia|Josh Cooke|Yvonne Strahovski|Jonny Lee Miller|Colin Hanks|Edward James Olmos|Mos Def|Julia Stiles|Jimmy Smits|Jaime Murray|John Lithgow|Christian Camargo|</Actors>
   <Airs_DayOfWeek></Airs_DayOfWeek>
   <Airs_Time></Airs_Time>
+=======
+  <Actors>|Michael C. Hall|Jennifer Carpenter|James Remar|Julie Benz|Lauren Vélez|David Zayas|Charlotte Rampling|Desmond Harrington|Keith Carradine|C.S. Lee|Christina Robinson|Erik King|Ray Stevenson|Jason Gedrick|Josh Cooke|Yvonne Strahovski|Jonny Lee Miller|Colin Hanks|Edward James Olmos|Mos Def|Julia Stiles|Jimmy Smits|Jaime Murray|John Lithgow|Aimee Garcia|Christian Camargo|Preston Bailey|</Actors>
+  <Airs_DayOfWeek>Sunday</Airs_DayOfWeek>
+  <Airs_Time>9:00 PM</Airs_Time>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <ContentRating>TV-MA</ContentRating>
   <FirstAired>2006-10-01</FirstAired>
   <Genre>|Crime|Drama|Mystery|Suspense|Thriller|</Genre>
@@ -13,16 +19,26 @@
   <NetworkID></NetworkID>
   <Overview>He's smart, he's good looking, and he's got a great sense of humor. He's Dexter Morgan, everyone's favorite serial killer. As a Miami forensics expert, he spends his days solving crimes, and nights committing them. But Dexter lives by a strict code of honor that is both his saving grace and lifelong burden. Torn between his deadly compulsion and his desire for true happiness, Dexter is a man in profound conflict with the world and himself.</Overview>
   <Rating>9.2</Rating>
+<<<<<<< HEAD
   <RatingCount>1449</RatingCount>
+=======
+  <RatingCount>1392</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <Runtime>60</Runtime>
   <SeriesID>62683</SeriesID>
   <SeriesName>Dexter</SeriesName>
   <Status>Ended</Status>
   <added></added>
   <addedBy></addedBy>
+<<<<<<< HEAD
   <banner>graphical/79349-g28.jpg</banner>
   <fanart>fanart/original/79349-42.jpg</fanart>
   <lastupdated>1435032811</lastupdated>
+=======
+  <banner>graphical/79349-g7.jpg</banner>
+  <fanart>fanart/original/79349-22.jpg</fanart>
+  <lastupdated>1414961476</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <poster>posters/79349-24.jpg</poster>
   <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>EP00859795</zap2it_id>
@@ -2036,7 +2052,7 @@ Meanwhile, Debra works with Anton, her confidential informant, to track down one
   <Overview>The friendship between Dexter and Miguel become strained even as Rita resolves to confront Miguel about his suspected infidelity. Meanwhile, Debra searches furiously for Anton when it's revealed that he was abducted by the Skinner.</Overview>
   <ProductionCode>309</ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>165</RatingCount>
+  <RatingCount>166</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Melissa Rosenberg</Writer>
   <absolute_number>33</absolute_number>
@@ -2532,7 +2548,11 @@ Meanwhile, Debra works with Anton, her confidential informant, to track down one
   <Overview>Dexter must make a choice; Quinn stirs up trouble for Dexter but supports Deb.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>326</RatingCount>
+=======
+  <RatingCount>325</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>5</SeasonNumber>
   <Writer>Chip Johannessen</Writer>
   <absolute_number>49</absolute_number>
@@ -2687,7 +2707,11 @@ Meanwhile, Debra works with Anton, her confidential informant, to track down one
   <Overview>Dexter is drawn into a precarious situation; Batista discovers an interesting lead; Quinn gets information about Dexter from a questionable source.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.0</Rating>
+<<<<<<< HEAD
   <RatingCount>290</RatingCount>
+=======
+  <RatingCount>289</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>5</SeasonNumber>
   <Writer>Wendy West</Writer>
   <absolute_number>54</absolute_number>
@@ -3276,7 +3300,11 @@ Meanwhile, Debra works with Anton, her confidential informant, to track down one
   <Overview>Deb tries to cover up involvement in Travis' murder; Detective Mike Anderson has an unfortunate run-in; Quinn and Batista make amends; LaGuerta rethinks the Bay Harbor Butcher case.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.4</Rating>
+<<<<<<< HEAD
   <RatingCount>191</RatingCount>
+=======
+  <RatingCount>189</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>Scott Buck</Writer>
   <absolute_number>73</absolute_number>
@@ -3307,7 +3335,11 @@ Meanwhile, Debra works with Anton, her confidential informant, to track down one
   <Overview>Miami Metro sets out to unearth new evidence on a claim from a local convict that he has new information regarding a 15-year-old crime spree; Debra tries to cure Dexter of his killer tendencies.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.0</Rating>
+<<<<<<< HEAD
   <RatingCount>185</RatingCount>
+=======
+  <RatingCount>184</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>Manny Coto</Writer>
   <absolute_number>74</absolute_number>
@@ -3338,7 +3370,11 @@ Meanwhile, Debra works with Anton, her confidential informant, to track down one
   <Overview>Dexter tries to bring Debra on board with his new target. While the Ukrainian mob seeks revenge for the killing of one of their own, Quinn grows close to a dancer at their strip club. LaGuerta, convinced the Bay Harbor Butcher is still out there, attempts to enlist Batista to help her re-open the case.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.0</Rating>
+<<<<<<< HEAD
   <RatingCount>180</RatingCount>
+=======
+  <RatingCount>179</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>Jace Richdale</Writer>
   <absolute_number>75</absolute_number>
@@ -3369,7 +3405,11 @@ Meanwhile, Debra works with Anton, her confidential informant, to track down one
   <Overview>After capturing a deadly killer, things go awry for Miami Metro, sending Debra into a tailspin. In an effort to help his sister, Dexter enters into a dangerous game of cat and mouse, while the Ukrainian mob continues to seek revenge.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.0</Rating>
+<<<<<<< HEAD
   <RatingCount>187</RatingCount>
+=======
+  <RatingCount>186</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>James Manos Jr.|Jeff Lindsay</Writer>
   <absolute_number>76</absolute_number>
@@ -3400,7 +3440,11 @@ Meanwhile, Debra works with Anton, her confidential informant, to track down one
   <Overview>While trying to uncover why someone was killed on his boat, Dexter must out-maneuver a vengeful Isaak. New leads are brought to light on the Wayne Randall case by Hannah McKay, Randall's alluring former accomplice.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
+<<<<<<< HEAD
   <RatingCount>183</RatingCount>
+=======
+  <RatingCount>182</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>Scott Reynolds</Writer>
   <absolute_number>77</absolute_number>
@@ -3431,7 +3475,11 @@ Meanwhile, Debra works with Anton, her confidential informant, to track down one
   <Overview>Debra gets to know a local crime writer who's dug up some incriminating dirt on Hannah McKay. Quinn gets an offer he tries to refuse and Batista is drawn to a new business opportunity. LaGuerta keeps digging into the Bay Harbor Butcher case. </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
+<<<<<<< HEAD
   <RatingCount>178</RatingCount>
+=======
+  <RatingCount>177</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>Lauren Gussis</Writer>
   <absolute_number>78</absolute_number>
@@ -3462,7 +3510,11 @@ Meanwhile, Debra works with Anton, her confidential informant, to track down one
   <Overview>Quinn falls back into his old ways as he makes some questionable choices to protect Nadia. Things heat up as Dexter and Hannah grow closer, but when Sal Price discovers the two are involved, he wants the exclusive story. </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
+<<<<<<< HEAD
   <RatingCount>175</RatingCount>
+=======
+  <RatingCount>174</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>Tim Schlattman</Writer>
   <absolute_number>79</absolute_number>
@@ -3493,7 +3545,11 @@ Meanwhile, Debra works with Anton, her confidential informant, to track down one
   <Overview>Fresh out of jail, Isaak renews his pursuit of Dexter while Quinn continues his power struggle with the Koshkas. Dexter tries to keep Debra in the dark about his relationship with Hannah, but a surprise visit from Astor, Cody and Harrison throws a wrench into his plans. </Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.0</Rating>
+<<<<<<< HEAD
   <RatingCount>171</RatingCount>
+=======
+  <RatingCount>170</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>Arika Lisanne Mittman</Writer>
   <absolute_number>80</absolute_number>
@@ -3524,7 +3580,11 @@ Meanwhile, Debra works with Anton, her confidential informant, to track down one
   <Overview>As Dexter scrambles to track down Isaak, a power struggle erupts among the Koshka Brotherhood, which could prove to Dexter's advantage. Meanwhile, Miami Dade tries to smoke out the Phantom Arsonist.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
+<<<<<<< HEAD
   <RatingCount>172</RatingCount>
+=======
+  <RatingCount>171</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>Tim Schlattman</Writer>
   <absolute_number>81</absolute_number>
@@ -3555,7 +3615,11 @@ Meanwhile, Debra works with Anton, her confidential informant, to track down one
   <Overview>Dexter is unnerved when Hannah's father pays him a surprise visit; the Phantom Arsonist's crimes become more vicious; and Quinn defends Nadia's honor and finds himself in a volatile situation. Meanwhile; LaGuerta asks a former superior for help on the Bay Harbor Butcher case.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
+<<<<<<< HEAD
   <RatingCount>173</RatingCount>
+=======
+  <RatingCount>172</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>Lauren Gussis|Jace Richdale|Scott Reynolds</Writer>
   <absolute_number>82</absolute_number>
@@ -3586,7 +3650,11 @@ Meanwhile, Debra works with Anton, her confidential informant, to track down one
   <Overview>It's Christmas time, and Debra learns it may be better to receive when she gets a tip from Hannah's father... one that could lead to incriminating Dexter in a crime. Meanwhile, Dexter discovers that the man behind his mother's death has been released from prison.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.0</Rating>
+<<<<<<< HEAD
   <RatingCount>181</RatingCount>
+=======
+  <RatingCount>180</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>Manny Coto|Wendy West</Writer>
   <absolute_number>83</absolute_number>
@@ -3617,7 +3685,11 @@ Meanwhile, Debra works with Anton, her confidential informant, to track down one
   <Overview>Dexter must protect himself when LaGuerta closes in on his secret.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.2</Rating>
+<<<<<<< HEAD
   <RatingCount>177</RatingCount>
+=======
+  <RatingCount>176</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>Scott Buck|Wendy West</Writer>
   <absolute_number>84</absolute_number>
@@ -3648,7 +3720,11 @@ Meanwhile, Debra works with Anton, her confidential informant, to track down one
   <Overview>It’s been 6 months since LaGuerta’s murder – and Dexter is still managing life as a dad, brother, and serial killer. Debra now works as a PI for a private firm and Batista has replaced her as Lieutenant. Meanwhile, Miami Metro investigates the murder of a man who has had pieces of his brain removed.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>133</RatingCount>
+=======
+  <RatingCount>131</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>8</SeasonNumber>
   <Writer>Scott Buck</Writer>
   <absolute_number>85</absolute_number>
@@ -3679,12 +3755,20 @@ Meanwhile, Debra works with Anton, her confidential informant, to track down one
   <Overview>Miami Metro continues their hunt for the Brain Surgeon, while Dr. Vogel enlists Dexter to do her bidding based on her own personal experience with her previous patients. Debra continues to track down her PI case and has to take matters into her own hands.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>129</RatingCount>
+=======
+  <RatingCount>126</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>8</SeasonNumber>
   <Writer>Manny Coto</Writer>
   <absolute_number>86</absolute_number>
   <filename>episodes/79349/4516898.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1415114896</lastupdated>
+=======
+  <lastupdated>1409273522</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>509766</seasonid>
   <seriesid>79349</seriesid>
   <thumb_added></thumb_added>
@@ -3710,7 +3794,11 @@ Meanwhile, Debra works with Anton, her confidential informant, to track down one
   <Overview>Dexter continues his manhunt for the Brain Surgeon. Dr. Vogel tries to prove to Dexter that he’s perfect as a psychopath. Debra’s PTSD kicks in and she makes a desperate plea to confess to LaGuerta’s murder.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>122</RatingCount>
+=======
+  <RatingCount>119</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>8</SeasonNumber>
   <Writer>Lauren Gussis</Writer>
   <absolute_number>87</absolute_number>
@@ -3741,7 +3829,11 @@ Meanwhile, Debra works with Anton, her confidential informant, to track down one
   <Overview>Dexter tracks down another potential serial killer from Dr. Vogel’s list. Quinn celebrates passing the Sergeant’s exam by defending Debra’s honor in a fight. Dr. Vogel begins treating Debra for her PTSD.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>126</RatingCount>
+=======
+  <RatingCount>124</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>8</SeasonNumber>
   <Writer>Tim Schlattmann</Writer>
   <absolute_number>88</absolute_number>
@@ -3772,7 +3864,11 @@ Meanwhile, Debra works with Anton, her confidential informant, to track down one
   <Overview>Dr. Vogel gets abducted by the Brain Surgeon, while Dexter and Debra try and rescue her. Masuka finds out he has a daughter.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>115</RatingCount>
+=======
+  <RatingCount>113</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>8</SeasonNumber>
   <Writer>Scott Reynolds</Writer>
   <absolute_number>89</absolute_number>
@@ -3803,7 +3899,11 @@ Meanwhile, Debra works with Anton, her confidential informant, to track down one
   <Overview>Dexter monitors a young psychopath to see if he is suited for his table. Dexter and Debra finally get back to normal.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>119</RatingCount>
+=======
+  <RatingCount>116</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>8</SeasonNumber>
   <Writer>Jace Richdale</Writer>
   <absolute_number>90</absolute_number>
@@ -3834,7 +3934,11 @@ Meanwhile, Debra works with Anton, her confidential informant, to track down one
   <Overview>Dexter hunts down Hannah to figure out why she’s back in Miami. Dexter also takes on a protégé and starts teaching him the Code.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>115</RatingCount>
+=======
+  <RatingCount>113</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>8</SeasonNumber>
   <Writer>Arika Lisanne Mittman</Writer>
   <absolute_number>91</absolute_number>
@@ -3865,7 +3969,11 @@ Meanwhile, Debra works with Anton, her confidential informant, to track down one
   <Overview>Dexter tracks down his protégé in the belief that he murdered his neighbor. Meanwhile, Dexter tries to help Hannah escape the country.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
+<<<<<<< HEAD
   <RatingCount>124</RatingCount>
+=======
+  <RatingCount>121</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>8</SeasonNumber>
   <Writer>Wendy West</Writer>
   <absolute_number>92</absolute_number>
@@ -3896,7 +4004,11 @@ Meanwhile, Debra works with Anton, her confidential informant, to track down one
   <Overview>Dexter investigates a murder that hits close to home. Meanwhile, Dr. Vogel gets the surprise of her life when someone from her past returns.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>128</RatingCount>
+=======
+  <RatingCount>125</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>8</SeasonNumber>
   <Writer>Karen Campbell</Writer>
   <absolute_number>93</absolute_number>
@@ -3927,7 +4039,11 @@ Meanwhile, Debra works with Anton, her confidential informant, to track down one
   <Overview>Dexter enlists Dr. Vogel's help to lure the Brain Surgeon to a location in order to get him on the table. Later, an important person in Dexter's life is murdered before his eyes.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
+<<<<<<< HEAD
   <RatingCount>120</RatingCount>
+=======
+  <RatingCount>117</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>8</SeasonNumber>
   <Writer>Scott Reynolds|Jace Richdale</Writer>
   <absolute_number>94</absolute_number>
@@ -3958,7 +4074,11 @@ Meanwhile, Debra works with Anton, her confidential informant, to track down one
   <Overview>Dexter is torn between fleeing the country with Hannah and Harrison, and taking Saxon out once and for all.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>118</RatingCount>
+=======
+  <RatingCount>115</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>8</SeasonNumber>
   <Writer>Tim Schlattmann|Wendy West</Writer>
   <absolute_number>95</absolute_number>
@@ -3989,7 +4109,11 @@ Meanwhile, Debra works with Anton, her confidential informant, to track down one
   <Overview>With a hurricane threatening Miami, Dexter becomes determined to end things his way.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>6.9</Rating>
+<<<<<<< HEAD
   <RatingCount>130</RatingCount>
+=======
+  <RatingCount>128</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>8</SeasonNumber>
   <Writer>Scott Buck|Manny Coto</Writer>
   <absolute_number>96</absolute_number>

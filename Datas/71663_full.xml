@@ -13,7 +13,11 @@
   <NetworkID></NetworkID>
   <Overview>Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.</Overview>
   <Rating>9.0</Rating>
+<<<<<<< HEAD
   <RatingCount>572</RatingCount>
+=======
+  <RatingCount>493</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <Runtime>30</Runtime>
   <SeriesID>146</SeriesID>
   <SeriesName>The Simpsons</SeriesName>
@@ -22,8 +26,13 @@
   <addedBy></addedBy>
   <banner>graphical/71663-g24.jpg</banner>
   <fanart>fanart/original/71663-31.jpg</fanart>
+<<<<<<< HEAD
   <lastupdated>1434910192</lastupdated>
   <poster>posters/71663-10.jpg</poster>
+=======
+  <lastupdated>1415043171</lastupdated>
+  <poster>posters/71663-20.jpg</poster>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>EP00018693</zap2it_id>
 </Series>
@@ -2246,7 +2255,11 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Writer>|Al Jean|Mike Reiss|</Writer>
   <absolute_number>4</absolute_number>
   <filename>episodes/71663/55455.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433627040</lastupdated>
+=======
+  <lastupdated>1407663950</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>2727</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added></thumb_added>
@@ -2308,7 +2321,11 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Writer>|Al Jean|Mike Reiss|</Writer>
   <absolute_number>6</absolute_number>
   <filename>episodes/71663/55457.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433625662</lastupdated>
+=======
+  <lastupdated>1407663975</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>2727</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added></thumb_added>
@@ -2370,7 +2387,11 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Writer>|Sam Simon|Mike Reiss|Al Jean|Matt Groening|</Writer>
   <absolute_number>8</absolute_number>
   <filename>episodes/71663/55459.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433626944</lastupdated>
+=======
+  <lastupdated>1407663995</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>2727</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added></thumb_added>
@@ -2463,7 +2484,11 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Writer>|Jon Vitti|John Swartzwelder|Sam Simon|George Meyer|</Writer>
   <absolute_number>11</absolute_number>
   <filename>episodes/71663/55462.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433626601</lastupdated>
+=======
+  <lastupdated>1407664022</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>2727</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added></thumb_added>
@@ -2550,8 +2575,13 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Language>en</Language>
   <Overview>In danger of flunking the fourth grade, Bart strikes a deal with the class brain: in exchange for tutoring, he will help Martin become more popular.</Overview>
   <ProductionCode>7F03</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.4</Rating>
   <RatingCount>53</RatingCount>
+=======
+  <Rating>7.3</Rating>
+  <RatingCount>52</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>David M. Stern</Writer>
   <absolute_number>14</absolute_number>
@@ -2618,7 +2648,11 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Writer>|Sam Simon|Wallace Wolodarsky|Jay Kogen|John Swartzwelder|</Writer>
   <absolute_number>16</absolute_number>
   <filename>episodes/71663/55467.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433626095</lastupdated>
+=======
+  <lastupdated>1407664102</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>2736</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added></thumb_added>
@@ -2649,7 +2683,11 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Writer>|Sam Simon|John Swartzwelder|</Writer>
   <absolute_number>17</absolute_number>
   <filename>episodes/71663/55468.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433626296</lastupdated>
+=======
+  <lastupdated>1407664111</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>2736</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added></thumb_added>
@@ -2680,7 +2718,11 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Writer>|David Isaacs|Ken Levine|</Writer>
   <absolute_number>18</absolute_number>
   <filename>episodes/71663/55469.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433626615</lastupdated>
+=======
+  <lastupdated>1407664118</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>2736</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added></thumb_added>
@@ -2705,8 +2747,13 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Language>en</Language>
   <Overview>Competition erupts between neighbors when Todd Flanders and Bart enter a miniature golf tournament. Facing increasing pressure from their fathers, the boys find a way to settle things.</Overview>
   <ProductionCode>7F08</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.6</Rating>
   <RatingCount>40</RatingCount>
+=======
+  <Rating>7.5</Rating>
+  <RatingCount>39</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Jeff Martin</Writer>
   <absolute_number>19</absolute_number>
@@ -2773,7 +2820,11 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Writer>|Jay Kogen|Wallace Wolodarsky|</Writer>
   <absolute_number>21</absolute_number>
   <filename>episodes/71663/55472.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433626259</lastupdated>
+=======
+  <lastupdated>1407664147</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>2736</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added></thumb_added>
@@ -2866,7 +2917,11 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Writer>Nell Scovell</Writer>
   <absolute_number>24</absolute_number>
   <filename>episodes/71663/55475.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433627110</lastupdated>
+=======
+  <lastupdated>1407664182</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>2736</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added></thumb_added>
@@ -2897,7 +2952,11 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Writer>|Sam Simon|Mike Reiss|Al Jean|</Writer>
   <absolute_number>25</absolute_number>
   <filename>episodes/71663/55476.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433625815</lastupdated>
+=======
+  <lastupdated>1407664193</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>2736</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added></thumb_added>
@@ -2923,7 +2982,11 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Overview>Homer becomes the most popular guy in town when he gets an illegal cable hook-up, but Lisa fears he will go to hell for violating the Eighth Commandment. </Overview>
   <ProductionCode>7F13</ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>33</RatingCount>
+=======
+  <RatingCount>34</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Steve Pepoon</Writer>
   <absolute_number>26</absolute_number>
@@ -3052,7 +3115,11 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Writer>|Jay Kogen|Wallace Wolodarsky|</Writer>
   <absolute_number>30</absolute_number>
   <filename>episodes/71663/55481.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433627046</lastupdated>
+=======
+  <lastupdated>1407664263</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>2736</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added></thumb_added>
@@ -3109,7 +3176,11 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Overview>With Miss Hoover out sick, a substitute teacher takes over the class and becomes an inspiring role model for Lisa. </Overview>
   <ProductionCode>7F19</ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>28</RatingCount>
+=======
+  <RatingCount>27</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Jon Vitti</Writer>
   <absolute_number>32</absolute_number>
@@ -3139,8 +3210,13 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Language>en</Language>
   <Overview>At a lakeside retreat for married couples, Marge is determined to fix her marriage with Homer, but Homer is more determined to catch General Sherman, the freakishly large catfish that lives in the lake. </Overview>
   <ProductionCode>7F20</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.3</Rating>
   <RatingCount>33</RatingCount>
+=======
+  <Rating>7.5</Rating>
+  <RatingCount>32</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>John Swartzwelder</Writer>
   <absolute_number>33</absolute_number>
@@ -3177,7 +3253,11 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Writer>Jeff Martin</Writer>
   <absolute_number>34</absolute_number>
   <filename>episodes/71663/55485.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433626936</lastupdated>
+=======
+  <lastupdated>1407664324</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>2736</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added></thumb_added>
@@ -3239,7 +3319,11 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Writer>Al Jean &amp; Mike Reiss</Writer>
   <absolute_number>36</absolute_number>
   <filename>episodes/71663/55487.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433626432</lastupdated>
+=======
+  <lastupdated>1411026173</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>2737</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added></thumb_added>
@@ -3270,7 +3354,11 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Writer>George Meyer</Writer>
   <absolute_number>37</absolute_number>
   <filename>episodes/71663/55488.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433626812</lastupdated>
+=======
+  <lastupdated>1411026183</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>2737</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added></thumb_added>
@@ -3363,7 +3451,11 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Writer>Howard Gewirtz</Writer>
   <absolute_number>40</absolute_number>
   <filename>episodes/71663/55491.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433625653</lastupdated>
+=======
+  <lastupdated>1411026224</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>2737</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added></thumb_added>
@@ -3394,7 +3486,11 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Writer>|Jay Kogen|Wallace Wolodarsky|</Writer>
   <absolute_number>41</absolute_number>
   <filename>episodes/71663/55492.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433627128</lastupdated>
+=======
+  <lastupdated>1411026233</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>2737</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added></thumb_added>
@@ -3419,13 +3515,22 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Language>en</Language>
   <Overview>In the first story, the family buys a cursed monkey paw in Morocco, and their three wishes turn out badly. In a Twilight Zone parody, Bart is the fearsome “monster” who can read the townspeople’s thoughts. In the final story, Mr. Burns steals Homer’s brain for a giant robot he’s building.</Overview>
   <ProductionCode>8F02</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.8</Rating>
   <RatingCount>39</RatingCount>
+=======
+  <Rating>7.9</Rating>
+  <RatingCount>38</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Al Jean|Mike Reiss|Jeff Martin|George Meyer|Sam Simon|John Swartzwelder|</Writer>
   <absolute_number>42</absolute_number>
   <filename>episodes/71663/55493.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433626153</lastupdated>
+=======
+  <lastupdated>1411026262</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>2737</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added></thumb_added>
@@ -3450,13 +3555,22 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Language>en</Language>
   <Overview>Overcompensating for his neglect, Homer buys Lisa a pony; the high cost of maintaining the animal forces him to work the graveyard shift at the Kwik-E-Mart.</Overview>
   <ProductionCode>8F06</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.1</Rating>
   <RatingCount>29</RatingCount>
+=======
+  <Rating>7.0</Rating>
+  <RatingCount>28</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Mike Reiss|Al Jean|</Writer>
   <absolute_number>43</absolute_number>
   <filename>episodes/71663/55494.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433625625</lastupdated>
+=======
+  <lastupdated>1411026279</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>2737</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added></thumb_added>
@@ -3482,12 +3596,20 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Overview>Homer tries to bond with Bart by building a soapbox racer. On race day, Bart must decide between driving Martin’s aerodynamic racer and disappointing Homer, or driving his own racer and losing to Nelson.</Overview>
   <ProductionCode>8F07</ProductionCode>
   <Rating>7.4</Rating>
+<<<<<<< HEAD
   <RatingCount>32</RatingCount>
+=======
+  <RatingCount>31</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Ken Levine|David Isaacs|</Writer>
   <absolute_number>44</absolute_number>
   <filename>episodes/71663/55495.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433626017</lastupdated>
+=======
+  <lastupdated>1411026289</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>2737</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added></thumb_added>
@@ -3512,13 +3634,22 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Language>en</Language>
   <Overview>Moe steals the drink recipe Homer invented, and the rechristened “Flaming Moe” turns his tavern into a hotspot. When a national franchise wants to buy the recipe, Homer wants revenge.</Overview>
   <ProductionCode>8F08</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.9</Rating>
   <RatingCount>35</RatingCount>
+=======
+  <Rating>7.8</Rating>
+  <RatingCount>34</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>Robert Cohen</Writer>
   <absolute_number>45</absolute_number>
   <filename>episodes/71663/55496.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433626301</lastupdated>
+=======
+  <lastupdated>1411026299</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>2737</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added></thumb_added>
@@ -3575,7 +3706,11 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Overview>Homer and Marge recount their early years, when the couple faced a shotgun wedding and Homer’s poor career prospects.</Overview>
   <ProductionCode>8F10</ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>31</RatingCount>
+=======
+  <RatingCount>30</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>Jeff Martin</Writer>
   <absolute_number>47</absolute_number>
@@ -3605,8 +3740,13 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Language>en</Language>
   <Overview>Bart plays practical jokes with a radio microphone, and his hoax tests the limits of the town’s kindness.</Overview>
   <ProductionCode>8F11</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.8</Rating>
   <RatingCount>32</RatingCount>
+=======
+  <Rating>7.7</Rating>
+  <RatingCount>31</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>Jon Vitti</Writer>
   <absolute_number>48</absolute_number>
@@ -3637,12 +3777,20 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Overview>Sundays become “Daddy-Daughter Days” when Homer discovers Lisa’s uncanny ability to pick winning football teams.</Overview>
   <ProductionCode>8F12</ProductionCode>
   <Rating>8.0</Rating>
+<<<<<<< HEAD
   <RatingCount>32</RatingCount>
+=======
+  <RatingCount>30</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Wallace Wolodarsky|Jay Kogen|</Writer>
   <absolute_number>49</absolute_number>
   <filename>episodes/71663/55500.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433625768</lastupdated>
+=======
+  <lastupdated>1411026672</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>2737</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added></thumb_added>
@@ -3667,8 +3815,13 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Language>en</Language>
   <Overview>Marge has a nervous breakdown and goes on a vacation alone, leaving Bart and Lisa with Patty and Selma, and Maggie with Homer.</Overview>
   <ProductionCode>8F14</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.8</Rating>
   <RatingCount>38</RatingCount>
+=======
+  <Rating>7.9</Rating>
+  <RatingCount>36</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>David Stern</Writer>
   <absolute_number>50</absolute_number>
@@ -3699,7 +3852,11 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Overview>Bart discovers his teacher’s personal ad and invents a fictional suitor to string her along. When Mrs. Krabappel falls madly in love with “Woodrow,” Bart’s conscience starts to bother him.</Overview>
   <ProductionCode>8F16</ProductionCode>
   <Rating>7.9</Rating>
+<<<<<<< HEAD
   <RatingCount>27</RatingCount>
+=======
+  <RatingCount>25</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>Jon Vitti</Writer>
   <absolute_number>51</absolute_number>
@@ -3730,12 +3887,20 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Overview>With a million dollars on the line, Mr. Burns hires ringers for the upcoming baseball game against the Shelbyville Nuclear Power Plant. But as misfortunes fell the pros, with bases loaded and the score tied in the ninth inning, Homer is sent to bat.</Overview>
   <ProductionCode>8F13</ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>32</RatingCount>
+=======
+  <RatingCount>29</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>John Swartzwelder</Writer>
   <absolute_number>52</absolute_number>
   <filename>episodes/71663/55503.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433627250</lastupdated>
+=======
+  <lastupdated>1411026821</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>2737</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added></thumb_added>
@@ -3760,8 +3925,13 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Language>en</Language>
   <Overview>After a career aptitude test pegs Lisa as a homemaker and Bart as a police officer, she becomes a rebel and he becomes a hall monitor. When Lisa’s subversive behavior goes too far, Bart steps in.</Overview>
   <ProductionCode>8F15</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.8</Rating>
   <RatingCount>32</RatingCount>
+=======
+  <Rating>7.7</Rating>
+  <RatingCount>30</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>George Meyer</Writer>
   <absolute_number>53</absolute_number>
@@ -3791,8 +3961,13 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Language>en</Language>
   <Overview>When Santa’s Little Helper needs a life-saving operation, the family tightens their belts to save up the money. Sensing their resentment, the dog runs away from home, only to be adopted by Mr. Burns.</Overview>
   <ProductionCode>8F17</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.6</Rating>
   <RatingCount>29</RatingCount>
+=======
+  <Rating>7.5</Rating>
+  <RatingCount>28</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>John Swartzwelder</Writer>
   <absolute_number>54</absolute_number>
@@ -3823,7 +3998,11 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Overview>Homer becomes the manager of a beautiful country music singer, whose attentions drive a wedge between Marge and Homer.</Overview>
   <ProductionCode>8F19</ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>28</RatingCount>
+=======
+  <RatingCount>27</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>Matt Groening</Writer>
   <absolute_number>55</absolute_number>
@@ -3854,7 +4033,11 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Overview>When Selma agrees to marry her prison pen pal, Sideshow Bob, only Bart remains suspicious of his motives.</Overview>
   <ProductionCode>8F20</ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>29</RatingCount>
+=======
+  <RatingCount>28</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>Jon Vitti</Writer>
   <absolute_number>56</absolute_number>
@@ -3890,7 +4073,11 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Writer>Jeff Martin</Writer>
   <absolute_number>57</absolute_number>
   <filename>episodes/71663/55508.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433626075</lastupdated>
+=======
+  <lastupdated>1411027121</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>2737</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added></thumb_added>
@@ -3915,6 +4102,7 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Language>en</Language>
   <Overview>Everything’s coming up Milhouse when Bart’s best friend falls in love with the new girl at school. Jealous, Bart snitches to Milhouse’s father and the lovebirds are separated.</Overview>
   <ProductionCode>8F22</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.4</Rating>
   <RatingCount>27</RatingCount>
   <SeasonNumber>3</SeasonNumber>
@@ -3922,6 +4110,15 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <absolute_number>58</absolute_number>
   <filename>episodes/71663/55509.jpg</filename>
   <lastupdated>1433627285</lastupdated>
+=======
+  <Rating>7.3</Rating>
+  <RatingCount>26</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Jay Kogen|Wallace Wolodarsky</Writer>
+  <absolute_number>58</absolute_number>
+  <filename>episodes/71663/55509.jpg</filename>
+  <lastupdated>1411027140</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>2737</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added></thumb_added>
@@ -3941,18 +4138,30 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <EpisodeName>Brother, Can You Spare Two Dimes?</EpisodeName>
   <EpisodeNumber>24</EpisodeNumber>
   <FirstAired>1992-08-27</FirstAired>
+<<<<<<< HEAD
   <GuestStars>|Danny DeVito|Joe Frazier|</GuestStars>
+=======
+  <GuestStars>Danny DeVito|Joe Frazier</GuestStars>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>Homer’s half-brother Herb Powell returns, his finances in ruin from his last encounter with Homer. With a little help from the family, he invents a product that’s sure to turn his life around.</Overview>
   <ProductionCode>8F23</ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>33</RatingCount>
+=======
+  <RatingCount>32</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>John Swartzwelder</Writer>
   <absolute_number>59</absolute_number>
   <filename>episodes/71663/55510.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433627206</lastupdated>
+=======
+  <lastupdated>1411027154</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>2737</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added></thumb_added>
@@ -3978,7 +4187,11 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Overview>When Bart and Lisa arrive at Kamp Krusty, they find the summer camp is more like a prison camp. When Krusty doesn't show up to set things straight, the kids seize control and take their case to the media. </Overview>
   <ProductionCode>8F24</ProductionCode>
   <Rating>7.4</Rating>
+<<<<<<< HEAD
   <RatingCount>43</RatingCount>
+=======
+  <RatingCount>41</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>David M. Stern</Writer>
   <absolute_number>60</absolute_number>
@@ -4009,7 +4222,11 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Overview>Feeling underappreciated at home, Marge takes up acting and channels her pent-up rage as Blanche DuBois in a community production. Meanwhile, Maggie leads a revolt at the Ayn Rand School for Tots.</Overview>
   <ProductionCode>8F18</ProductionCode>
   <Rating>7.2</Rating>
+<<<<<<< HEAD
   <RatingCount>39</RatingCount>
+=======
+  <RatingCount>38</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>Jeff Martin</Writer>
   <absolute_number>61</absolute_number>
@@ -4040,7 +4257,11 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Overview>After skipping church one Sunday morning, Homer decides to quit church altogether and spend Sundays worshiping in his own way -- with cigars and beer. </Overview>
   <ProductionCode>9F01</ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>43</RatingCount>
+=======
+  <RatingCount>42</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>George Meyer</Writer>
   <absolute_number>62</absolute_number>
@@ -4070,8 +4291,13 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Language>en</Language>
   <Overview>Homer enters Lisa into the Little Miss Springfield Pageant to help her feel better about her looks. But when she must choose between the title and her integrity, she realizes that confidence comes from within.</Overview>
   <ProductionCode>9F02</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.5</Rating>
   <RatingCount>42</RatingCount>
+=======
+  <Rating>7.4</Rating>
+  <RatingCount>41</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>Jeff Martin</Writer>
   <absolute_number>63</absolute_number>
@@ -4101,8 +4327,13 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Language>en</Language>
   <Overview>In &quot;Clown Without Pity,&quot; Bart's Krusty doll is determined to murder Homer. In &quot;King Homer,&quot; Homer plays King Kong to Marge's Fay Wray. Finally, in &quot;Dial Z for Zombies,&quot; Bart finds a book of witchcraft and accidentally brings Springfield's dead to life.</Overview>
   <ProductionCode>9F04</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.7</Rating>
   <RatingCount>41</RatingCount>
+=======
+  <Rating>7.8</Rating>
+  <RatingCount>40</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Al Jean|Mike Reiss|Jay Kogen|Wallace Wolodarsky|Sam Simon|Jack Vitti|</Writer>
   <absolute_number>64</absolute_number>
@@ -4133,7 +4364,11 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Overview>When Bart's misdeeds at school and at home reach new extremes, Homer puts his foot down and imposes the ultimate punishment: Bart is forbidden to go see the new Itchy &amp; Scratchy movie.</Overview>
   <ProductionCode>9F03</ProductionCode>
   <Rating>8.0</Rating>
+<<<<<<< HEAD
   <RatingCount>44</RatingCount>
+=======
+  <RatingCount>43</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>John Swartzwelder</Writer>
   <absolute_number>65</absolute_number>
@@ -4164,7 +4399,11 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Overview>Mr. Burns is instantly smitten when Marge takes a job at the nuclear power plant.</Overview>
   <ProductionCode>9F05</ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>47</RatingCount>
+=======
+  <RatingCount>46</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Bill Oakley|Josh Weinstein|</Writer>
   <absolute_number>66</absolute_number>
@@ -4195,7 +4434,11 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Overview>Bart has a crush on his new neighbor, a teenage girl who only has eyes for Jimbo Jones. Bart sets out to prove that Jimbo is not as tough as he seems.</Overview>
   <ProductionCode>9F06</ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>38</RatingCount>
+=======
+  <RatingCount>37</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>Conan O'Brien</Writer>
   <absolute_number>67</absolute_number>
@@ -4226,7 +4469,11 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Overview>Homer starts a thriving snow-plowing business, but cutthroat competition arrives when Barney sets up shop as the &quot;Plow King.&quot; When an avalanche buries Barney, Homer realizes the rivalry has gone too far. </Overview>
   <ProductionCode>9F07</ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>44</RatingCount>
+=======
+  <RatingCount>42</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>Jon Vitti</Writer>
   <absolute_number>68</absolute_number>
@@ -4256,8 +4503,13 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Language>en</Language>
   <Overview>While trying to get Maggie to say her first word, Marge and Homer reminisce about Bart's and Lisa's first words. </Overview>
   <ProductionCode>9F08</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.6</Rating>
   <RatingCount>41</RatingCount>
+=======
+  <Rating>7.7</Rating>
+  <RatingCount>40</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>Jeff Martin</Writer>
   <absolute_number>69</absolute_number>
@@ -4287,8 +4539,13 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Language>en</Language>
   <Overview>Homer's doughnut-clogged heart needs a triple bypass operation, but Dr. Hibbert's fee is $40,000... so Homer takes his chances with Dr. Nick Riviera, who'll do any operation for $129. </Overview>
   <ProductionCode>9F09</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.6</Rating>
   <RatingCount>44</RatingCount>
+=======
+  <Rating>7.7</Rating>
+  <RatingCount>43</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Michael Carrington|Gary Apple|</Writer>
   <absolute_number>70</absolute_number>
@@ -4319,7 +4576,11 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Overview>When Springfield gets a sudden windfall, a charismatic traveling salesman convinces the town to build a monorail. </Overview>
   <ProductionCode>9F10</ProductionCode>
   <Rating>8.3</Rating>
+<<<<<<< HEAD
   <RatingCount>32</RatingCount>
+=======
+  <RatingCount>31</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>Conan O'Brien</Writer>
   <absolute_number>71</absolute_number>
@@ -4350,7 +4611,11 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Overview>After seeing Aunt Gladys die alone, Aunt Selma wants to get married and have a baby... until she spends a day babysitting Bart and Lisa at Duff Gardens. </Overview>
   <ProductionCode>9F11</ProductionCode>
   <Rating>7.5</Rating>
+<<<<<<< HEAD
   <RatingCount>35</RatingCount>
+=======
+  <RatingCount>34</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>David M. Stern</Writer>
   <absolute_number>72</absolute_number>
@@ -4381,7 +4646,11 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Overview>When Homer neglects Bart once too often, Bart goes to the Big Brother program to get a new father figure. Stung, Homer replaces Bart with a little brother. </Overview>
   <ProductionCode>9F12</ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>39</RatingCount>
+=======
+  <RatingCount>38</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>Jon Vitti</Writer>
   <absolute_number>73</absolute_number>
@@ -4411,8 +4680,13 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Language>en</Language>
   <Overview>Ralph Wiggum mistakes pity for love when Lisa gives him a Valentine's Day card. After a public humiliation, broken-hearted Ralph gives an unexpectedly moving performance in the school's President's Day pageant.</Overview>
   <ProductionCode>9F13</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.6</Rating>
   <RatingCount>38</RatingCount>
+=======
+  <Rating>7.7</Rating>
+  <RatingCount>37</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>Frank Mula</Writer>
   <absolute_number>74</absolute_number>
@@ -4443,7 +4717,11 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Overview>After a DUI, Homer swears off beer for a month. Meanwhile, Bart and Lisa's sibling rivalry plays out in the school science fair. </Overview>
   <ProductionCode>9F14</ProductionCode>
   <Rating>7.9</Rating>
+<<<<<<< HEAD
   <RatingCount>35</RatingCount>
+=======
+  <RatingCount>34</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>David M. Stern</Writer>
   <absolute_number>75</absolute_number>
@@ -4629,7 +4907,11 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Overview>An advertising blitz for &quot;Gabbo&quot; spells trouble for Krusty: his show gets canceled when the new ventriloquist act gets higher ratings. Bart and Lisa enlist Krusty's Hollywood pals for a comeback special.</Overview>
   <ProductionCode>9F19</ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>33</RatingCount>
+=======
+  <RatingCount>32</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>John Swartzwelder</Writer>
   <absolute_number>81</absolute_number>
@@ -4691,7 +4973,11 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Overview>When Bart receives death threats from newly paroled Sideshow Bob, the family goes into the Witness Relocation Program and starts a new life on a houseboat on Terror Lake. </Overview>
   <ProductionCode>9F22</ProductionCode>
   <Rating>7.9</Rating>
+<<<<<<< HEAD
   <RatingCount>44</RatingCount>
+=======
+  <RatingCount>43</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>5</SeasonNumber>
   <Writer>Jon Vitti</Writer>
   <absolute_number>83</absolute_number>
@@ -4910,7 +5196,11 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Overview>Homer struggles with his attraction to new coworker Mindy, a beautiful engineer whose love for doughnuts is equal to his own.</Overview>
   <ProductionCode>1F07</ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>41</RatingCount>
+=======
+  <RatingCount>40</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>5</SeasonNumber>
   <Writer>Frank Mula</Writer>
   <absolute_number>90</absolute_number>
@@ -5219,8 +5509,13 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Language>en</Language>
   <Overview>When Bart gets Principal Skinner fired, Ned Flanders is brought in to act as principal. Skinner befriends his former nemesis and the pair look for a way to get Skinner reinstated.</Overview>
   <ProductionCode>1F18</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.9</Rating>
   <RatingCount>45</RatingCount>
+=======
+  <Rating>8.0</Rating>
+  <RatingCount>43</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>5</SeasonNumber>
   <Writer>|Josh Weinstein|Bill Oakley|</Writer>
   <absolute_number>100</absolute_number>
@@ -5375,7 +5670,11 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Overview>Lisa feels threatened when a new girl moves to Springfield: Allison is smart, pretty, a great saxophone player and a crack diorama builder. Lisa tries to befriend her new rival, but she's consumed with envy and competitiveness.</Overview>
   <ProductionCode>1F17</ProductionCode>
   <Rating>7.5</Rating>
+<<<<<<< HEAD
   <RatingCount>49</RatingCount>
+=======
+  <RatingCount>48</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>6</SeasonNumber>
   <Writer>Mike Scully</Writer>
   <absolute_number>105</absolute_number>
@@ -5964,7 +6263,11 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Overview>A teachers' strike forces the Board of Education to enlist PTA members as substitute teachers. Realizing he preferred the old regime, Bart locks Skinner and Mrs. Krabappel in a room together until they can agree on the contract.</Overview>
   <ProductionCode>2F19</ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>34</RatingCount>
+=======
+  <RatingCount>33</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>6</SeasonNumber>
   <Writer>Jennifer Crittenden</Writer>
   <absolute_number>124</absolute_number>
@@ -6026,7 +6329,11 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Overview>After Marge helps catch a petty criminal, the adrenaline rush inspires her to join the Springfield Police Department. Marge experiences feelings of power and authority that she's never known before, but police corruption makes her question her newfound calling.</Overview>
   <ProductionCode>2F21</ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>38</RatingCount>
+=======
+  <RatingCount>36</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>6</SeasonNumber>
   <Writer>Jonathan Collier</Writer>
   <absolute_number>126</absolute_number>
@@ -6057,7 +6364,11 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Overview>The simmering rivalry between Springfield and a neighboring town heats up when Shelbyville kids steal Springfield's prized lemon tree. </Overview>
   <ProductionCode>2F22</ProductionCode>
   <Rating>8.0</Rating>
+<<<<<<< HEAD
   <RatingCount>38</RatingCount>
+=======
+  <RatingCount>35</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>6</SeasonNumber>
   <Writer>Brent Forrester</Writer>
   <absolute_number>127</absolute_number>
@@ -6088,7 +6399,11 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Overview>In Part I of this two-part suspense story, Mr. Burns' evil schemes go too far. When Burns winds up shot, everyone is a suspect. </Overview>
   <ProductionCode>2F16</ProductionCode>
   <Rating>7.9</Rating>
+<<<<<<< HEAD
   <RatingCount>34</RatingCount>
+=======
+  <RatingCount>32</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>6</SeasonNumber>
   <Writer>|Josh Weinstein|Bill Oakley|</Writer>
   <absolute_number>128</absolute_number>
@@ -6119,7 +6434,11 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Overview>With Mr. Burns shot, Chief Wiggum investigates the crime, and nearly everyone in town has a motive. At the end, it all comes down to the Simpson DNA. </Overview>
   <ProductionCode>2F20</ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>37</RatingCount>
+=======
+  <RatingCount>34</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>|Josh Weinstein|Bill Oakley|</Writer>
   <absolute_number></absolute_number>
@@ -6150,7 +6469,11 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Overview>Bart longs to play &quot;Fallout Boy&quot; in the new Radioactive Man movie, but the Van Houtens thrust Milhouse into the spotlight. Meanwhile, the town of Springfield sees an opportunity for profit.</Overview>
   <ProductionCode>2F17</ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>45</RatingCount>
+=======
+  <RatingCount>44</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>John Swartzwelder</Writer>
   <absolute_number></absolute_number>
@@ -6181,7 +6504,11 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Overview>When Homer and Marge are found to be unfit parents, the kids are placed with the Flanders family. Reluctant participants in the Flanderses' wholesome family activities, Bart and Lisa become the targets of an emergency baptism.</Overview>
   <ProductionCode>3F01</ProductionCode>
   <Rating>7.5</Rating>
+<<<<<<< HEAD
   <RatingCount>44</RatingCount>
+=======
+  <RatingCount>42</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>Jon Vitti</Writer>
   <absolute_number></absolute_number>
@@ -6212,7 +6539,11 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Overview>Bart sells his soul to Milhouse for five dollars, but soon regrets his decision. Meanwhile, Moe turns the Tavern into a family-friendly restaurant.</Overview>
   <ProductionCode>3F02</ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>45</RatingCount>
+=======
+  <RatingCount>43</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>Greg Daniels</Writer>
   <absolute_number></absolute_number>
@@ -6243,12 +6574,20 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Overview>After visiting a local petting zoo, Lisa becomes a vegetarian and faces ridicule from family and friends. When she lashes out and ruins Homer's barbecue, she learns a lesson in tolerance.</Overview>
   <ProductionCode>3F03</ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>50</RatingCount>
+=======
+  <RatingCount>48</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>David X. Cohen</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/71663/55585.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433626929</lastupdated>
+=======
+  <lastupdated>1410713778</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>2741</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added>2014-09-14 10:00:37</thumb_added>
@@ -6306,7 +6645,11 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Overview>Homer tries to gain sixty pounds so he can stay home on disability. When he nearly causes a catastrophe at the plant, Homer reconsiders his plan.</Overview>
   <ProductionCode>3F05</ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>43</RatingCount>
+=======
+  <RatingCount>41</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>Dan Greaney</Writer>
   <absolute_number></absolute_number>
@@ -6337,12 +6680,20 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Overview>Homer discovers that his mother is still alive, a former radical who is a fugitive from the law. When her old nemesis Burns spots her and tips off the FBI, she is forced to return to the underground.</Overview>
   <ProductionCode>3F06</ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>34</RatingCount>
+=======
+  <RatingCount>32</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>Richard Appel</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/71663/55588.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433626972</lastupdated>
+=======
+  <lastupdated>1410713972</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>2741</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added>2014-09-14 10:03:51</thumb_added>
@@ -6368,7 +6719,11 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Overview>After Sideshow Bob escapes from prison, the Springfield Air Show is the setting for his ill-fated vendetta against television and Krusty the Clown. </Overview>
   <ProductionCode>3F08</ProductionCode>
   <Rating>7.4</Rating>
+<<<<<<< HEAD
   <RatingCount>31</RatingCount>
+=======
+  <RatingCount>30</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>Spike Feresten</Writer>
   <absolute_number></absolute_number>
@@ -6399,7 +6754,11 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Overview>Troy McClure hosts a behind-the-scenes look at the show, including clips of the series' beginnings as filler on &quot;The Tracy Ullman Show,&quot; Simpsons trivia questions, and unaired scenes from popular episodes.</Overview>
   <ProductionCode>3F31</ProductionCode>
   <Rating>7.2</Rating>
+<<<<<<< HEAD
   <RatingCount>34</RatingCount>
+=======
+  <RatingCount>33</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>Penny Wise</Writer>
   <absolute_number></absolute_number>
@@ -6430,7 +6789,11 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Overview>Nabbed for shoplifting, Bart manages to keep it a secret from the family... until it's time to have the family Christmas photo taken at the Try-N-Save.</Overview>
   <ProductionCode>3F07</ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>35</RatingCount>
+=======
+  <RatingCount>33</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>Mike Scully</Writer>
   <absolute_number></absolute_number>
@@ -6461,7 +6824,11 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Overview>Homer catches Mr. Burns in an ether-induced haze and asks for $500 for his bowling team. When Burns' head clears, he demands to join the team. Meanwhile, Bart's inflammatory T-shirt provokes Principal Skinner to require school uniforms. </Overview>
   <ProductionCode>3F10</ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>32</RatingCount>
+=======
+  <RatingCount>30</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>Mike Scully</Writer>
   <absolute_number></absolute_number>
@@ -6492,7 +6859,11 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Overview>Homer resents being upstaged when former president George Bush moves into the neighborhood. After Bush spanks Bart, an all-out prank war ensues.</Overview>
   <ProductionCode>3F09</ProductionCode>
   <Rating>7.5</Rating>
+<<<<<<< HEAD
   <RatingCount>36</RatingCount>
+=======
+  <RatingCount>34</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>Ken Keeler</Writer>
   <absolute_number></absolute_number>
@@ -6523,7 +6894,11 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Overview>A chance encounter with a former classmate yields an invitation to the Springfield Country Club, where Marge tries to parlay a bargain basement Chanel suit into elevated social status for her family. </Overview>
   <ProductionCode>3F11</ProductionCode>
   <Rating>7.5</Rating>
+<<<<<<< HEAD
   <RatingCount>34</RatingCount>
+=======
+  <RatingCount>31</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>Jennifer Crittenden</Writer>
   <absolute_number></absolute_number>
@@ -6554,7 +6929,11 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Overview>In a scheme to get Krusty's autograph, Bart sends him a check. When Krusty's offshore holding corporation endorses the check, his illegal tax shelter is exposed. In despair after the government auctions off his possessions, Krusty fakes his own death.</Overview>
   <ProductionCode>3F12</ProductionCode>
   <Rating>7.5</Rating>
+<<<<<<< HEAD
   <RatingCount>35</RatingCount>
+=======
+  <RatingCount>33</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>John Swartzwelder</Writer>
   <absolute_number></absolute_number>
@@ -6584,8 +6963,13 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Language>en</Language>
   <Overview>While researching into Jebediah Springfield's past for an essay, Lisa discovers that the town founder wasn't the hero that everyone thinks he was. </Overview>
   <ProductionCode>3F13</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.4</Rating>
   <RatingCount>28</RatingCount>
+=======
+  <Rating>7.3</Rating>
+  <RatingCount>26</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>Jonathan Collier</Writer>
   <absolute_number></absolute_number>
@@ -6616,7 +7000,11 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Overview>Forced to take a vacation, Smithers needs to find a temporary replacement who won't outshine him. Homer seems the perfect choice until a sudden outburst forces Mr. Burns to assert his independence. </Overview>
   <ProductionCode>3F14</ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>39</RatingCount>
+=======
+  <RatingCount>36</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>John Swartzwelder</Writer>
   <absolute_number></absolute_number>
@@ -6647,12 +7035,20 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Overview>Bart meets the original animator who created Itchy,  penniless some 70 years after the studio stole his idea. When Bart helps him sue for restitution, he unwittingly bankrupts Itchy &amp; Scratchy.</Overview>
   <ProductionCode>3F16</ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>31</RatingCount>
+=======
+  <RatingCount>30</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>John Swartzwelder</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/71663/55598.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433626395</lastupdated>
+=======
+  <lastupdated>1410713145</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>2741</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added>2014-09-14 09:50:04</thumb_added>
@@ -6677,13 +7073,22 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Language>en</Language>
   <Overview>Washed up and plagued by scandal, Troy McClure sees a marriage to Selma as his ticket back to success.</Overview>
   <ProductionCode>3F15</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.7</Rating>
   <RatingCount>27</RatingCount>
+=======
+  <Rating>7.6</Rating>
+  <RatingCount>25</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>Jack Barth</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/71663/55599.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433626694</lastupdated>
+=======
+  <lastupdated>1410713331</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>2741</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added>2014-09-14 09:53:15</thumb_added>
@@ -6709,7 +7114,11 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Overview>Bart creates a fake driver's license for himself and uses it to go on a spring break road trip with Milhouse, Nelson, and Martin. Meanwhile, Homer and Lisa bond after spending some quality time together at work.</Overview>
   <ProductionCode>3F17</ProductionCode>
   <Rating>7.4</Rating>
+<<<<<<< HEAD
   <RatingCount>36</RatingCount>
+=======
+  <RatingCount>35</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>Richard Appel</Writer>
   <absolute_number></absolute_number>
@@ -6740,12 +7149,20 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Overview>Bart and Milhouse wonder if anything interesting happens to the citizens of Springfield, which leads to a series of interconnected vignettes.</Overview>
   <ProductionCode>3F18</ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>30</RatingCount>
+=======
+  <RatingCount>27</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>|Richard Appel|David X. Cohen|Jennifer Crittenden|Jonathan Collier|Greg Daniels|Brent Forrester|Rachel Pulido|Steve Tompkins|Josh Weinstein|Matt Groening|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/71663/55601.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433626537</lastupdated>
+=======
+  <lastupdated>1410714677</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>2741</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added>2014-09-14 10:15:37</thumb_added>
@@ -6771,7 +7188,11 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Overview>When a fellow veteran dies, Grandpa Simpson and Mr. Burns fight for buried WWII treasure as the only surviving members of their battalion.</Overview>
   <ProductionCode>3F19</ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>27</RatingCount>
+=======
+  <RatingCount>25</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>Jonathan Collier</Writer>
   <absolute_number></absolute_number>
@@ -6802,7 +7223,11 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Overview>When Mayor Quimby uses immigrants as a political scapegoat, the Simpsons discover that Apu is an illegal immigrant. </Overview>
   <ProductionCode>3F20</ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>30</RatingCount>
+=======
+  <RatingCount>28</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>David X. Cohen</Writer>
   <absolute_number></absolute_number>
@@ -6833,12 +7258,20 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Overview>To show his kids how hip he is, Homer takes Bart and Lisa to a music festival, where he earns himself a place in the sideshow by catching a cannonball with his belly.</Overview>
   <ProductionCode>3F21</ProductionCode>
   <Rating>7.5</Rating>
+<<<<<<< HEAD
   <RatingCount>30</RatingCount>
+=======
+  <RatingCount>28</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>Brent Forrester</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/71663/55604.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433626985</lastupdated>
+=======
+  <lastupdated>1410714922</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>2741</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added>2014-09-14 10:19:41</thumb_added>
@@ -6863,8 +7296,13 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Language>en</Language>
   <Overview>On a family vacation, Lisa tries on a new identity to fit in with the other kids at the beach. Jealous, Bart reveals her true nerdiness to the group.</Overview>
   <ProductionCode>3F22</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.5</Rating>
   <RatingCount>31</RatingCount>
+=======
+  <Rating>7.6</Rating>
+  <RatingCount>29</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>Dan Greaney</Writer>
   <absolute_number></absolute_number>
@@ -6926,8 +7364,13 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Language>en</Language>
   <Overview>When Homer accepts a job offer, the Simpsons move to Cypress Creek, where everything seems too good to be true. Finally happy at his job, Homer fails to notice that his new boss is an evil megalomaniac bent on world domination. </Overview>
   <ProductionCode>3F23</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.9</Rating>
   <RatingCount>51</RatingCount>
+=======
+  <Rating>8.1</Rating>
+  <RatingCount>49</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>8</SeasonNumber>
   <Writer>John Swartzwelder</Writer>
   <absolute_number></absolute_number>
@@ -6957,8 +7400,13 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Language>en</Language>
   <Overview>When Moe sees that Homer can absorb massive blows to the head, he turns him into a prizefighter and sets up a match with heavyweight champion Drederick Tatum.</Overview>
   <ProductionCode>4F03</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.6</Rating>
   <RatingCount>41</RatingCount>
+=======
+  <Rating>7.7</Rating>
+  <RatingCount>38</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>8</SeasonNumber>
   <Writer>Jonathan Collier</Writer>
   <absolute_number></absolute_number>
@@ -6989,7 +7437,11 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Overview>Mr. Burns' boorish long-lost son Larry gets the brush-off from Burns, but Homer hatches a plan to reconcile them. </Overview>
   <ProductionCode>4F05</ProductionCode>
   <Rating>7.4</Rating>
+<<<<<<< HEAD
   <RatingCount>37</RatingCount>
+=======
+  <RatingCount>35</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>8</SeasonNumber>
   <Writer>Ian Maxtone-Graham</Writer>
   <absolute_number></absolute_number>
@@ -7051,7 +7503,11 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Overview>Kirk and Luann Van Houten are getting a divorce. Homer is confident that it will never happen to him, but Kirk tells him how quickly things can change.</Overview>
   <ProductionCode>4F04</ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>40</RatingCount>
+=======
+  <RatingCount>38</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>8</SeasonNumber>
   <Writer>Steve Tompkins</Writer>
   <absolute_number></absolute_number>
@@ -7081,8 +7537,13 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Language>en</Language>
   <Overview>Lisa develops a crush on Nelson and tries to change him into a better person. Meanwhile, Homer finds an autodialer and starts a telemarketing scam.</Overview>
   <ProductionCode>4F01</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.5</Rating>
   <RatingCount>39</RatingCount>
+=======
+  <Rating>7.4</Rating>
+  <RatingCount>36</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>8</SeasonNumber>
   <Writer>Mike Scully</Writer>
   <absolute_number></absolute_number>
@@ -7144,7 +7605,11 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Overview>After eating a dish laced with potent peppers during the chili cookoff, Homer has hallucinations where a mystical coyote urges him to find his soulmate.</Overview>
   <ProductionCode>3F24</ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>29</RatingCount>
+=======
+  <RatingCount>28</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>8</SeasonNumber>
   <Writer>Ken Keeler</Writer>
   <absolute_number></absolute_number>
@@ -7175,7 +7640,11 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Overview>Homer witnesses something out of this world in Springfield woods, but no one believes him -- not even FBI agents Fox Mulder and Dana Scully, who come to investigate the incident.</Overview>
   <ProductionCode>3G01</ProductionCode>
   <Rating>7.9</Rating>
+<<<<<<< HEAD
   <RatingCount>34</RatingCount>
+=======
+  <RatingCount>32</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>8</SeasonNumber>
   <Writer>Reid Harrison</Writer>
   <absolute_number></absolute_number>
@@ -7547,7 +8016,11 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Overview>Disturbed that Reverend Lovejoy has lost interest in counseling parishioners, Marge volunteers as the &quot;Listen Lady.&quot; Meanwhile, Homer sees his likeness on a box of Japanese detergent.</Overview>
   <ProductionCode>4F18</ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>31</RatingCount>
+=======
+  <RatingCount>30</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>8</SeasonNumber>
   <Writer>Donick Cary</Writer>
   <absolute_number></absolute_number>
@@ -7794,8 +8267,13 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Language>en</Language>
   <Overview>Alarmed by a soccer riot, Homer buys a handgun. His reckless behavior drives Marge and the kids out of the house, and even his new gun club buddies desert him. </Overview>
   <ProductionCode>5F01</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.4</Rating>
   <RatingCount>36</RatingCount>
+=======
+  <Rating>7.3</Rating>
+  <RatingCount>34</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>9</SeasonNumber>
   <Writer>John Swartzwelder</Writer>
   <absolute_number></absolute_number>
@@ -7826,7 +8304,11 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Overview>When Homer becomes the coach of a peewee football team, he replaces star quarterback Nelson with the less talented Bart. Facing his teammates’ scorn, Bart looks for a way out but finds a better way to show his team spirit.</Overview>
   <ProductionCode>5F03</ProductionCode>
   <Rating>7.2</Rating>
+<<<<<<< HEAD
   <RatingCount>34</RatingCount>
+=======
+  <RatingCount>33</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>9</SeasonNumber>
   <Writer>Donick Cary</Writer>
   <absolute_number></absolute_number>
@@ -7857,7 +8339,11 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Overview>Trying to escape his arranged marriage, Apu asks Marge to pose as his wife during his mother’s visit. When the ruse fails, Homer makes a last-ditch attempt to intervene, but Apu is smitten with his new bride Manjula.</Overview>
   <ProductionCode>5F04</ProductionCode>
   <Rating>7.4</Rating>
+<<<<<<< HEAD
   <RatingCount>33</RatingCount>
+=======
+  <RatingCount>31</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>9</SeasonNumber>
   <Writer>Richard Appel</Writer>
   <absolute_number></absolute_number>
@@ -7887,8 +8373,13 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Language>en</Language>
   <Overview>When a skeleton is unearthed at the site of a future shopping mall, all Springfield is convinced it is the skeleton of an angel – except Lisa. </Overview>
   <ProductionCode>5F05</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.5</Rating>
   <RatingCount>33</RatingCount>
+=======
+  <Rating>7.6</Rating>
+  <RatingCount>32</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>9</SeasonNumber>
   <Writer>David X. Cohen</Writer>
   <absolute_number></absolute_number>
@@ -7919,7 +8410,11 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Overview>When Marge gets her real estate license, she learns to put a positive spin on the flaws of the houses she’s selling. But when the Flanders buy the Murder House, she realizes she has to tell the truth.</Overview>
   <ProductionCode>5F06</ProductionCode>
   <Rating>7.3</Rating>
+<<<<<<< HEAD
   <RatingCount>30</RatingCount>
+=======
+  <RatingCount>29</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>9</SeasonNumber>
   <Writer>Dan Greaney</Writer>
   <absolute_number></absolute_number>
@@ -8012,7 +8507,11 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Overview>When the carnival comes to town, Homer and Bart wind up working the ring toss. A father-son team of grifters shows them the downside of the “carny code,” but the Simpsons beat them at their own game.</Overview>
   <ProductionCode>5F08</ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>30</RatingCount>
+=======
+  <RatingCount>29</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>9</SeasonNumber>
   <Writer>John Swartzwelder</Writer>
   <absolute_number></absolute_number>
@@ -8198,7 +8697,11 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Overview>At Marge’s insistence, Bart has a “play date” with Ralph. Bart suddenly sees the upside of this friendship when he discovers Chief Wiggum’s “master key” and goes to explore Springfield’s abandoned prison.</Overview>
   <ProductionCode>5F13</ProductionCode>
   <Rating>7.5</Rating>
+<<<<<<< HEAD
   <RatingCount>27</RatingCount>
+=======
+  <RatingCount>26</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>9</SeasonNumber>
   <Writer>Dan Greaney</Writer>
   <absolute_number></absolute_number>
@@ -8353,8 +8856,13 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Overview>After Rainier Wolfcastle helps Homer get in shape, Homer accepts a challenge to climb the Murderhorn, the tallest mountain in Springfield. 
 </Overview>
   <ProductionCode>5F16</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.6</Rating>
   <RatingCount>29</RatingCount>
+=======
+  <Rating>7.5</Rating>
+  <RatingCount>28</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>9</SeasonNumber>
   <Writer>John Swartzwelder</Writer>
   <absolute_number></absolute_number>
@@ -9138,7 +9646,11 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
 </Overview>
   <ProductionCode>AABF20</ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>24</RatingCount>
+=======
+  <RatingCount>23</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>10</SeasonNumber>
   <Writer>|Dan Greaney|Donick Cary|</Writer>
   <absolute_number></absolute_number>
@@ -9417,7 +9929,7 @@ This is last Tracey Ullman Short we hear a character from The Simpsons series sa
   <Overview>In this Christmas-themed episode, the students of Springfield Elementary are unwittingly used as a focus group to test new toys. The product of their labors, a cuddly doll named Funzo, is a lot more sinister than he appears.</Overview>
   <ProductionCode>BABF07</ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>30</RatingCount>
+  <RatingCount>31</RatingCount>
   <SeasonNumber>11</SeasonNumber>
   <Writer>Tom Martin</Writer>
   <absolute_number></absolute_number>
@@ -9894,7 +10406,11 @@ Lisa lets a dolphin go free but it turns out this particular dolphin is the dolp
 </Overview>
   <ProductionCode>BABF20</ProductionCode>
   <Rating>7.3</Rating>
+<<<<<<< HEAD
   <RatingCount>31</RatingCount>
+=======
+  <RatingCount>30</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>12</SeasonNumber>
   <Writer>John Swartzwelder</Writer>
   <absolute_number></absolute_number>
@@ -10582,7 +11098,11 @@ Bart and Lisa are attending wizard school.  The evil Lord Montymort and Slithers
 </Overview>
   <ProductionCode>CABF22</ProductionCode>
   <Rating>7.4</Rating>
+<<<<<<< HEAD
   <RatingCount>37</RatingCount>
+=======
+  <RatingCount>35</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>13</SeasonNumber>
   <Writer>|George Meyer|Mike Scully|</Writer>
   <absolute_number></absolute_number>
@@ -13452,7 +13972,11 @@ Homer finds out from his fellow employees how to survive working at Sprawl Mart.
 </Overview>
   <ProductionCode>GABF19</ProductionCode>
   <Rating>7.2</Rating>
+<<<<<<< HEAD
   <RatingCount>34</RatingCount>
+=======
+  <RatingCount>33</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>17</SeasonNumber>
   <Writer>Patric M. Verrone</Writer>
   <absolute_number></absolute_number>
@@ -13536,7 +14060,11 @@ Meanwhile at Moe’s Homer shows off the strength in one of his arms he’s gain
 </Overview>
   <ProductionCode>GABF20</ProductionCode>
   <Rating>7.1</Rating>
+<<<<<<< HEAD
   <RatingCount>36</RatingCount>
+=======
+  <RatingCount>35</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>17</SeasonNumber>
   <Writer>Daniel Chun</Writer>
   <absolute_number></absolute_number>
@@ -13568,7 +14096,11 @@ Meanwhile at Moe’s Homer shows off the strength in one of his arms he’s gain
 </Overview>
   <ProductionCode>GABF21</ProductionCode>
   <Rating>7.2</Rating>
+<<<<<<< HEAD
   <RatingCount>25</RatingCount>
+=======
+  <RatingCount>24</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>17</SeasonNumber>
   <Writer>Stephanie Gillis</Writer>
   <absolute_number></absolute_number>
@@ -13732,7 +14264,11 @@ The kids at Springfield Elementary perform “Perhaps the worst version ever” 
 </Overview>
   <ProductionCode>HABF04</ProductionCode>
   <Rating>7.1</Rating>
+<<<<<<< HEAD
   <RatingCount>29</RatingCount>
+=======
+  <RatingCount>28</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>17</SeasonNumber>
   <Writer>Kevin Curran</Writer>
   <absolute_number></absolute_number>
@@ -13763,8 +14299,13 @@ The kids at Springfield Elementary perform “Perhaps the worst version ever” 
   <Overview>Mr. Krupt is the school’s new gym teacher and introduces Bart and the kids to “BOMBARDMENT!”  Bart’s attempt to get back at the new gym teacher results in the destruction of Groundskeeper Willie’s shack and the family takes him in.  Lisa decides to make Willie the focus of her science fair project and tries to turn him into a “proper gentleman” with surprising results.  Meanwhile, Homer has ruined his last pair of blue pants and attempts to generate interest in them so the manufacturer will start making them again.
 </Overview>
   <ProductionCode>HABF05</ProductionCode>
+<<<<<<< HEAD
   <Rating>6.7</Rating>
   <RatingCount>25</RatingCount>
+=======
+  <Rating>7.0</Rating>
+  <RatingCount>23</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>17</SeasonNumber>
   <Writer>Michael Price</Writer>
   <absolute_number></absolute_number>
@@ -13795,8 +14336,13 @@ The kids at Springfield Elementary perform “Perhaps the worst version ever” 
   <Overview>The family is on a nature walk through “Carl’s Dad Caverns,” when Homer tries to get a piece from a stalactite.  This results in the family falling through the cave floor and winds up with Homer getting stuck in the ceiling of one of the lower chambers of the cave.  Marge, Bart and Maggie go off to find help, while Lisa stays behind and tells her father a story to pass the time.  Her story involves running from a bighorn sheep and into Mr. Burn’s mansion.  The pair evades the tenacious sheep by finding refuge in the mansion’s attic, where Mr. Burns tells her the story of how he came to work at Moe’s Tavern by losing a scavenger hunt with a rich Texan.  While there he learned (and tells to Lisa) the tale of the Moe’s treasure.  The stories within stories culminate in the fate of the treasure being determined in the cave.
 </Overview>
   <ProductionCode>HABF06</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.2</Rating>
   <RatingCount>30</RatingCount>
+=======
+  <Rating>7.4</Rating>
+  <RatingCount>28</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>17</SeasonNumber>
   <Writer>Ian Maxtone-Graham</Writer>
   <absolute_number></absolute_number>
@@ -13827,8 +14373,13 @@ The kids at Springfield Elementary perform “Perhaps the worst version ever” 
   <Overview>The family is at a church fund-raiser, where Homer tries to ensure his rubber duck onto victory, but Flanders wins the big prize, which he doesn’t want and gives it to Marge.  In return Marge agrees to watch Rod and Todd while Ned is attending a left-handed convention.  While Marge is spending all her time with the Rod and Todd and trying to let them learn how to be boys; Homer takes Bart and Lisa to a home for former celebrity animals and a monkey kidnaps Bart.  Marge’s ability to be a mother comes into question when Ned discovers what she is doing with his boys and the local news covers Bart’s current predicament.
 </Overview>
   <ProductionCode>HABF07</ProductionCode>
+<<<<<<< HEAD
   <Rating>6.8</Rating>
   <RatingCount>24</RatingCount>
+=======
+  <Rating>7.0</Rating>
+  <RatingCount>22</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>17</SeasonNumber>
   <Writer>Dana Gould</Writer>
   <absolute_number></absolute_number>
@@ -13859,8 +14410,13 @@ The kids at Springfield Elementary perform “Perhaps the worst version ever” 
   <Overview>Homer is stoked for a party, where Lenny shows off his new plasma screen HD TV.  Three days later and Homer still hasn’t left Lenny’s apartment.  Lenny eventually gets him to leave and Marge enters them in a contest where they can win a plasma TV of their own.  They don’t win, but 3rd place gets them a tour of the FOX studios, where Homer learns about a wife-swapping show where he can win enough money to buy his own plasma TV.  Marge agrees to appear and they exchange wives with the Heathbar family.  Charles Heathbar winds up falling in love with Marge (who is giving him what he needs), while his real wife Verity finds Homer detestable.
 </Overview>
   <ProductionCode>HABF08</ProductionCode>
+<<<<<<< HEAD
   <Rating>6.6</Rating>
   <RatingCount>22</RatingCount>
+=======
+  <Rating>7.0</Rating>
+  <RatingCount>20</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>17</SeasonNumber>
   <Writer>Ricky Gervais</Writer>
   <absolute_number></absolute_number>
@@ -13923,8 +14479,13 @@ The kids at Springfield Elementary perform “Perhaps the worst version ever” 
   <Overview>At the power plant a movie is shown where the workers endorse outsourcing and Mr. Burns announces that he is closing the plant and moving the work to India.  Homer is the only union employee left on the payroll and he is sent to India to train the replacement workers, when he succeeds beyond expectations, he is given total control of the plant and declares himself a god.  Meanwhile, Selma &amp; Patty take Bart and Lisa to their MacGyver convention.  When they discover Richard Dean Anderson doesn’t like MacGyver and much as they do, they kidnap him in retaliation.  Anderson escapes only to enjoy the thrill and he turns himself back in so that he can escape again.  When it happens over and over again, soon Patty and Selma are the ones who need a means of escape.
 </Overview>
   <ProductionCode>HABF10</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.0</Rating>
   <RatingCount>27</RatingCount>
+=======
+  <Rating>7.2</Rating>
+  <RatingCount>26</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>17</SeasonNumber>
   <Writer>|Dan Castellaneta|Deb Lacusta|</Writer>
   <absolute_number></absolute_number>
@@ -13987,8 +14548,13 @@ The kids at Springfield Elementary perform “Perhaps the worst version ever” 
   <Overview>The family attends &quot;Stab-A-Lot: The Itchy and Scratchy Musical.&quot;  The musical's director is a graduate of Springfield Elementary and Principal Skinner puts his foot in mouth when he makes sexist comments about her education and that of women in general.  He tries to make the situation better, but only buries himself deeper and deeper until he is fired and replaced by Women's Educational Expert Melanie Upfoot.  The first thing she does is split the school into girls and the boys.  Lisa dislikes the way girls are being taught math and she ventures over to the boy's side of the school in search of a challenge.  Disguising herself as Jake Boyman she starts attending the boy's school but while she finds the math problems more interesting, it is being a boy that is a greater challenge.
 </Overview>
   <ProductionCode>HABF12</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.2</Rating>
   <RatingCount>31</RatingCount>
+=======
+  <Rating>7.1</Rating>
+  <RatingCount>29</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>17</SeasonNumber>
   <Writer>Matt Selman</Writer>
   <absolute_number></absolute_number>
@@ -14019,8 +14585,13 @@ The kids at Springfield Elementary perform “Perhaps the worst version ever” 
   <Overview>Marge goes on a cleaning frenzy before the housekeeper she’s won the services of comes to the house. One spot remains and she mixes a number of toxic cleaners together to tackle the job. The noxious mixture knocks her out and she wakes up suffering from amnesia. Marge is taken home and the family tries to bring back her memory. She starts to get back memories of her children and other insignificant things, but when it comes to remembering her husband, nothing he does seems to jog her memory. When he can’t get her to remember him, he tries to win her all over again, especially after Patty and Selma get her back out on the dating scene.
 </Overview>
   <ProductionCode>HABF13</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.1</Rating>
   <RatingCount>34</RatingCount>
+=======
+  <Rating>7.0</Rating>
+  <RatingCount>33</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>17</SeasonNumber>
   <Writer>Marc Wilmore</Writer>
   <absolute_number></absolute_number>
@@ -14052,7 +14623,11 @@ The kids at Springfield Elementary perform “Perhaps the worst version ever” 
 </Overview>
   <ProductionCode>HABF14</ProductionCode>
   <Rating>7.2</Rating>
+<<<<<<< HEAD
   <RatingCount>27</RatingCount>
+=======
+  <RatingCount>26</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>17</SeasonNumber>
   <Writer>J. Stewart Burns</Writer>
   <absolute_number></absolute_number>
@@ -14306,8 +14881,13 @@ The kids at Springfield Elementary perform “Perhaps the worst version ever” 
   <Overview>After Homer is fired from the power plant, he buys an ice-cream truck and sells ice-cream. His successful business yields an abundance of discarded popsicle sticks and Marge finds another calling in life, as she uses the leftover sticks to create popular life-size statues of various citizens from Springfield.
 </Overview>
   <ProductionCode>HABF22</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.1</Rating>
   <RatingCount>29</RatingCount>
+=======
+  <Rating>7.0</Rating>
+  <RatingCount>28</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>18</SeasonNumber>
   <Writer>Carolyn Omine</Writer>
   <absolute_number></absolute_number>
@@ -14338,8 +14918,13 @@ The kids at Springfield Elementary perform “Perhaps the worst version ever” 
   <Overview>After being forced to attend Nelson’s birthday party, Bart becomes best friends with the schoolyard bully. Meanwhile, Homer develops a big interest with one of Lisa’s fantasy books.
 </Overview>
   <ProductionCode>JABF02</ProductionCode>
+<<<<<<< HEAD
   <Rating>6.7</Rating>
   <RatingCount>22</RatingCount>
+=======
+  <Rating>7.0</Rating>
+  <RatingCount>21</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>18</SeasonNumber>
   <Writer>Matt Selman</Writer>
   <absolute_number></absolute_number>
@@ -14402,8 +14987,13 @@ The kids at Springfield Elementary perform “Perhaps the worst version ever” 
   <Overview>Homer surprises Marge with a visit to her favorite childhood vacation spot: an island called Barnacle Bay. But when the family arrives, they are shocked to discover Barnacle Bay’s tourism and economy has been decimated by the disappearance of the local delicacy, the “Yum-Yum” fish. After causing some major damage to the boardwalk, Homer is forced to join a fishing crew to work off his debt and a parody of The Perfect Storm ensues.
 </Overview>
   <ProductionCode>JABF03</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.0</Rating>
   <RatingCount>23</RatingCount>
+=======
+  <Rating>6.8</Rating>
+  <RatingCount>22</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>18</SeasonNumber>
   <Writer>Kevin Curran</Writer>
   <absolute_number></absolute_number>
@@ -14434,8 +15024,13 @@ The kids at Springfield Elementary perform “Perhaps the worst version ever” 
   <Overview>In an effort to stop Homer from taking revenge on the Rich Texan for cutting him off on the highway, Marge, Lisa and Bart offer up three cautionary tales of revenge.The Count of Monte Fatso: A parody of the book and film The Count of Monte Cristo, in which Homer is cast as the Count.Revenge of the Geeks: Using a futuristic device called the “Get-back-inator,” Milhouse takes revenge on the Springfield Elementary bullies.Bartman Begins: A parody of the Batman origin story, in which Bart is cast in the title role.
 </Overview>
   <ProductionCode>JABF05</ProductionCode>
+<<<<<<< HEAD
   <Rating>6.8</Rating>
   <RatingCount>30</RatingCount>
+=======
+  <Rating>7.0</Rating>
+  <RatingCount>29</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>18</SeasonNumber>
   <Writer>Joel H. Cohen</Writer>
   <absolute_number></absolute_number>
@@ -14750,8 +15345,13 @@ The kids at Springfield Elementary perform “Perhaps the worst version ever” 
   <Overview>When finding out Jimbo, Dolph, and Kearney plan on sabotaging Springfield Elementary School's annual bake sale by releasing the &quot;ultimate stinkbomb&quot; (a rotten yogurt cup from Springfield's Nuclear Power Plant), Bart and Lisa enlist the help of Jack Bauer and Chloe O'Brian. Meanwhile, Marge attempts to make the perfect cake, so she can win the bake sale.
 </Overview>
   <ProductionCode>JABF14</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.7</Rating>
   <RatingCount>32</RatingCount>
+=======
+  <Rating>7.6</Rating>
+  <RatingCount>31</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>18</SeasonNumber>
   <Writer>|Ian Maxtone-Graham|Billy Kimball|</Writer>
   <absolute_number></absolute_number>
@@ -14905,8 +15505,13 @@ The kids at Springfield Elementary perform “Perhaps the worst version ever” 
   <Language>en</Language>
   <Overview>During a bank robbery, Marge convinces Dwight, the bank robber, to turn himself in with the assurance that she will visit him once in jail. Marge never makes good on her promise and things get interesting when Dwight escapes from jail and comes looking for Marge.</Overview>
   <ProductionCode>JABF19</ProductionCode>
+<<<<<<< HEAD
   <Rating>6.8</Rating>
   <RatingCount>32</RatingCount>
+=======
+  <Rating>7.0</Rating>
+  <RatingCount>31</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>19</SeasonNumber>
   <Writer>Dana Gould</Writer>
   <absolute_number></absolute_number>
@@ -15101,7 +15706,11 @@ Flanders decides to scare Bart, Lisa, and their friends straight after they go t
   <Overview>In an effort to raise money with a bond issue Mayor Quimby moves up election day, making Springfield's primary election the first in the nation causing the media, candidates and political pundits to descend in the city.</Overview>
   <ProductionCode>KABF03</ProductionCode>
   <Rating>6.9</Rating>
+<<<<<<< HEAD
   <RatingCount>33</RatingCount>
+=======
+  <RatingCount>32</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>19</SeasonNumber>
   <Writer>Michael Price</Writer>
   <absolute_number></absolute_number>
@@ -15286,8 +15895,13 @@ Flanders decides to scare Bart, Lisa, and their friends straight after they go t
   <Language>en</Language>
   <Overview>When Mayor Quimby realizes the city of Springfield has gone broke, Lisa goes through the town's financial records and discovers millions in uncollected city taxes; Marge reluctantly allows a fugitive to stay with the family.</Overview>
   <ProductionCode>KABF09</ProductionCode>
+<<<<<<< HEAD
   <Rating>6.8</Rating>
   <RatingCount>32</RatingCount>
+=======
+  <Rating>7.0</Rating>
+  <RatingCount>31</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>19</SeasonNumber>
   <Writer>Reid Harrison</Writer>
   <absolute_number></absolute_number>
@@ -15473,7 +16087,11 @@ Flanders decides to scare Bart, Lisa, and their friends straight after they go t
   <Overview>Bart lands himself in trouble when he steals a mobile phone from Denis Leary and subsequently uses it to land the actor a comical film role. The troublemaker then leads his family to the ancient ruins of Machu Picchu after Marge confiscates the device and decides to use its GPS technology to track her son.</Overview>
   <ProductionCode>KABF15</ProductionCode>
   <Rating>7.0</Rating>
+<<<<<<< HEAD
   <RatingCount>63</RatingCount>
+=======
+  <RatingCount>62</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>20</SeasonNumber>
   <Writer>John Fink</Writer>
   <absolute_number></absolute_number>
@@ -15658,8 +16276,13 @@ Flanders decides to scare Bart, Lisa, and their friends straight after they go t
   <Language>en</Language>
   <Overview>Mr Burns wins a professional basketball team in a poker game at the annual billionaire's retreat. He decides to build a state-of-the-art facility in an attempt to lure fans, but the stadium site is on the last remaining bee colony in Springfield - prompting Lisa to lead a protest.</Overview>
   <ProductionCode>KABF21</ProductionCode>
+<<<<<<< HEAD
   <Rating>6.9</Rating>
   <RatingCount>47</RatingCount>
+=======
+  <Rating>7.0</Rating>
+  <RatingCount>46</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>20</SeasonNumber>
   <Writer>Stephanie Gillis</Writer>
   <absolute_number></absolute_number>
@@ -15751,8 +16374,13 @@ Flanders decides to scare Bart, Lisa, and their friends straight after they go t
   <Language>en</Language>
   <Overview>Bart gets a perfect score on a practice test for a national achievement test, which not only rattles Lisa, but it means Bart gets to attend a special party instead of having to take the actual test. Meanwhile, Homer must avoid injuring himself for an entire afternoon after failing to pay his insurance.</Overview>
   <ProductionCode>LABF02</ProductionCode>
+<<<<<<< HEAD
   <Rating>6.9</Rating>
   <RatingCount>51</RatingCount>
+=======
+  <Rating>6.8</Rating>
+  <RatingCount>50</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>20</SeasonNumber>
   <Writer>Michael Price</Writer>
   <absolute_number></absolute_number>
@@ -15783,7 +16411,11 @@ Flanders decides to scare Bart, Lisa, and their friends straight after they go t
   <Overview>When the adjustable rate on Homer's home mortgage (taken out to pay for Homer's annual Mardi Gras parties) increases drastically and Homer can't make the payments, 742 Evergreen Terrace is sold...to Ned Flanders, who rents it back to Homer... at least until Homer demands that Flanders repair the house.</Overview>
   <ProductionCode>LABF03</ProductionCode>
   <Rating>6.9</Rating>
+<<<<<<< HEAD
   <RatingCount>52</RatingCount>
+=======
+  <RatingCount>51</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>20</SeasonNumber>
   <Writer>Jeff Westbrook</Writer>
   <absolute_number></absolute_number>
@@ -15968,8 +16600,13 @@ Flanders decides to scare Bart, Lisa, and their friends straight after they go t
   <Language>en</Language>
   <Overview>Bart and Lisa start struggling in their academic and social lives at school and Homer starts monitoring them and forcing them to do better. Meanwhile, Marge discovers a sauna in the basement.</Overview>
   <ProductionCode>LABF08</ProductionCode>
+<<<<<<< HEAD
   <Rating>6.9</Rating>
   <RatingCount>47</RatingCount>
+=======
+  <Rating>7.0</Rating>
+  <RatingCount>46</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>20</SeasonNumber>
   <Writer>Rob LaZebnik</Writer>
   <absolute_number></absolute_number>
@@ -16098,7 +16735,11 @@ Flanders decides to scare Bart, Lisa, and their friends straight after they go t
   <Writer>|Seth Rogen|Evan Goldberg|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/71663/420660.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431276212</lastupdated>
+=======
+  <lastupdated>1406378573</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>38840</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added></thumb_added>
@@ -16129,7 +16770,11 @@ Flanders decides to scare Bart, Lisa, and their friends straight after they go t
   <Writer>Matt Selman</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/71663/1129231.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1416004375</lastupdated>
+=======
+  <lastupdated>1406378598</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>38840</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added></thumb_added>
@@ -16155,7 +16800,11 @@ Flanders decides to scare Bart, Lisa, and their friends straight after they go t
   <Overview>Mixed martial arts (MMA) gains popularity in Springfield, and Marge leads a protest against it. The promoter of a local MMA company decides to gain publicity from the controversy by challenging Marge to a match, with the promise that he will shut down if she wins.</Overview>
   <ProductionCode>LABF16</ProductionCode>
   <Rating>7.1</Rating>
+<<<<<<< HEAD
   <RatingCount>69</RatingCount>
+=======
+  <RatingCount>68</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>21</SeasonNumber>
   <Writer>Carolyn Omine</Writer>
   <absolute_number></absolute_number>
@@ -16222,7 +16871,11 @@ Flanders decides to scare Bart, Lisa, and their friends straight after they go t
   <Writer>Tim Long</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/71663/1129261.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1416006383</lastupdated>
+=======
+  <lastupdated>1406378732</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>38840</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added></thumb_added>
@@ -16284,7 +16937,11 @@ Flanders decides to scare Bart, Lisa, and their friends straight after they go t
   <Writer>Kevin Curran</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/71663/1129271.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1416006144</lastupdated>
+=======
+  <lastupdated>1406378807</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>38840</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added></thumb_added>
@@ -16309,13 +16966,22 @@ Flanders decides to scare Bart, Lisa, and their friends straight after they go t
   <Language>en</Language>
   <Overview>One snowy day in Springfield, Lisa informs Bart that she and Maggie share a bond that Bart will never understand because he doesn't have a brother, so Bart asks Homer for a baby brother. When Homer denies Bart's request, Bart makes his way to the Springfield Orphanage to find what he thinks he's missing.</Overview>
   <ProductionCode>MABF01</ProductionCode>
+<<<<<<< HEAD
   <Rating>6.9</Rating>
   <RatingCount>70</RatingCount>
+=======
+  <Rating>7.0</Rating>
+  <RatingCount>69</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>21</SeasonNumber>
   <Writer>Matt Selman</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/71663/1129291.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1416004402</lastupdated>
+=======
+  <lastupdated>1406378841</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>38840</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added></thumb_added>
@@ -16346,7 +17012,11 @@ Flanders decides to scare Bart, Lisa, and their friends straight after they go t
   <Writer>Don Payne</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/71663/1129301.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1429530043</lastupdated>
+=======
+  <lastupdated>1406379280</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>38840</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added></thumb_added>
@@ -16408,7 +17078,11 @@ Flanders decides to scare Bart, Lisa, and their friends straight after they go t
   <Writer>Bill Odenkirk</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/71663/1155961.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1416005674</lastupdated>
+=======
+  <lastupdated>1406378977</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>38840</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added></thumb_added>
@@ -16439,7 +17113,11 @@ Flanders decides to scare Bart, Lisa, and their friends straight after they go t
   <Writer>Rob LaZebnik</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/71663/1618371.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1416005634</lastupdated>
+=======
+  <lastupdated>1406379121</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>38840</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added></thumb_added>
@@ -16470,7 +17148,11 @@ Flanders decides to scare Bart, Lisa, and their friends straight after they go t
   <Writer>|Billy Kimball|Ian Maxtone-Graham|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/71663/1654361.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1416006000</lastupdated>
+=======
+  <lastupdated>1406379056</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>38840</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added></thumb_added>
@@ -16496,12 +17178,20 @@ Flanders decides to scare Bart, Lisa, and their friends straight after they go t
   <Overview>When Bart fails to turn in his homework, Mrs. Krabappel sends a letter home about Bart's behaviour. Despite Bart's best efforts to intercept it, Homer reads the letter, and he and Marge visit Principal Skinner for a parent-teacher conference. Furious, Homer punishes him, but Marge takes a more sympathetic approach. When Bart realizes he can pit Homer and Marge against each other to his benefit, his scheming reaches new heights.</Overview>
   <ProductionCode>MABF04</ProductionCode>
   <Rating>7.1</Rating>
+<<<<<<< HEAD
   <RatingCount>76</RatingCount>
+=======
+  <RatingCount>75</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>21</SeasonNumber>
   <Writer>Brian Kelley</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/71663/1765661.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1416005480</lastupdated>
+=======
+  <lastupdated>1406379308</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>38840</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added></thumb_added>
@@ -16532,7 +17222,11 @@ Flanders decides to scare Bart, Lisa, and their friends straight after they go t
   <Writer>John Frink</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/71663/1793861.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1416005271</lastupdated>
+=======
+  <lastupdated>1406379343</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>38840</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added></thumb_added>
@@ -16557,8 +17251,13 @@ Flanders decides to scare Bart, Lisa, and their friends straight after they go t
   <Language>en</Language>
   <Overview>When Homer is playing noisily in the yard, it disrupts Flanders' bible-study group. Coaxed by the reverend, a frustrated Flanders takes it upon himself to redeem Homer by inviting the Simpson family on his church retreat to Jerusalem. Unappreciative of the history and culture, Homer would rather hang out at the hotel's breakfast buffet rather than tour the city. But when an eccentric tour guide takes the group to famous monuments, including the Dome of the Rock and the Wailing Wall, Homer finally proves he is not beyond salvation.</Overview>
   <ProductionCode>MABF10</ProductionCode>
+<<<<<<< HEAD
   <Rating>6.9</Rating>
   <RatingCount>81</RatingCount>
+=======
+  <Rating>7.0</Rating>
+  <RatingCount>80</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>21</SeasonNumber>
   <Writer>Kevin Curran</Writer>
   <absolute_number></absolute_number>
@@ -16594,7 +17293,11 @@ Flanders decides to scare Bart, Lisa, and their friends straight after they go t
   <Writer>Michael Price</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/71663/1922461.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433321700</lastupdated>
+=======
+  <lastupdated>1406555366</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>38840</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added></thumb_added>
@@ -16625,7 +17328,11 @@ Flanders decides to scare Bart, Lisa, and their friends straight after they go t
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/71663/1962611.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1416004988</lastupdated>
+=======
+  <lastupdated>1406555384</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>38840</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added></thumb_added>
@@ -16651,12 +17358,20 @@ Flanders decides to scare Bart, Lisa, and their friends straight after they go t
   <Overview>The Simpsons decide to embrace a cheaper, alternate source of energy by erecting a wind turbine in their backyard. But when Homer realizes some of the power is being directed to the local electric company, he decides to remove his home from the grid and becomes completely dependent upon an unreliable source of power. Meanwhile, a storm erupts, trapping a magnificent 150-foot-long blue whale ashore, and Lisa and Homer attempt to help the poor creature.</Overview>
   <ProductionCode>MABF14</ProductionCode>
   <Rating>7.1</Rating>
+<<<<<<< HEAD
   <RatingCount>78</RatingCount>
+=======
+  <RatingCount>77</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>21</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/71663/1793911.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1416005968</lastupdated>
+=======
+  <lastupdated>1406555409</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>38840</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added></thumb_added>
@@ -16687,7 +17402,11 @@ Flanders decides to scare Bart, Lisa, and their friends straight after they go t
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/71663/1793901.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1416004644</lastupdated>
+=======
+  <lastupdated>1406555428</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>38840</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added></thumb_added>
@@ -16712,13 +17431,22 @@ Flanders decides to scare Bart, Lisa, and their friends straight after they go t
   <Language>en</Language>
   <Overview>As Mother's Day approaches, Moe narrates an episode in which he writes a letter to Homer, Apu and Reverend Lovejoy, who are vacationing with their children, and threatens to run away with one of their wives. While the trio tries to determine whose wife Moe is referring to, Homer, Lovejoy and Apu flashback to the intimate moments they initially ignored between Moe and Marge, Manjula and Helen Lovejoy. But when the boys return from their trip, they're in for the surprise of their lives.</Overview>
   <ProductionCode>SI-2113</ProductionCode>
+<<<<<<< HEAD
   <Rating>6.9</Rating>
   <RatingCount>67</RatingCount>
+=======
+  <Rating>7.0</Rating>
+  <RatingCount>66</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>21</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/71663/1793891.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433321679</lastupdated>
+=======
+  <lastupdated>1406555459</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>38840</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added></thumb_added>
@@ -16780,7 +17508,11 @@ Flanders decides to scare Bart, Lisa, and their friends straight after they go t
   <Writer>|Dan Greaney|Allen Glazier|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/71663/1793881.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431276628</lastupdated>
+=======
+  <lastupdated>1406798345</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>38840</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added></thumb_added>
@@ -16930,7 +17662,11 @@ Flanders decides to scare Bart, Lisa, and their friends straight after they go t
   <Overview>Discovering that Marge was once a stellar A+ student whose grades plummeted after being distracted, Lisa fears that she will end up just like her mom unless she pledges to focus solely on academics in an encore episode. When Marge makes a secret deal allowing Lisa to attend her dream school, Lisa learns a lesson in family and altruism. Meanwhile, Bart puts Nelson Muntz in his place and unintentionally claims the title of &quot;School Bully&quot;</Overview>
   <ProductionCode>MABF20</ProductionCode>
   <Rating>7.4</Rating>
+<<<<<<< HEAD
   <RatingCount>95</RatingCount>
+=======
+  <RatingCount>94</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>22</SeasonNumber>
   <Writer>Joel H. Cohen</Writer>
   <absolute_number>469</absolute_number>
@@ -17057,7 +17793,11 @@ But when Homer and Marge learn about their new houseguest, they decide it’s pa
   <Overview>Jon Hamm will guest star as a Federal Bureau of Investigation agent as Homer goes undercover to infiltrate Fat Tony's mob. Joe Mantegna will return as Fat Tony, and also voice his cousin Fit Tony.</Overview>
   <ProductionCode>MABF19</ProductionCode>
   <Rating>7.3</Rating>
+<<<<<<< HEAD
   <RatingCount>89</RatingCount>
+=======
+  <RatingCount>91</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>22</SeasonNumber>
   <Writer>Chris Cluess</Writer>
   <absolute_number>473</absolute_number>
@@ -17598,7 +18338,11 @@ Bart and Milhouse in an Avatar spoof.
   <Overview>Bart’s science fair project, a mechanical baby seal, outshines Lisa’s brainy asteroid model and quickly becomes a popular pet among the retirement home patrons. Meanwhile, Homer’s new and eager assistant Roz, steals Homer’s job, forcing him to team up with Flanders to reveal her true colors and evil past.</Overview>
   <ProductionCode>NABF21</ProductionCode>
   <Rating>7.1</Rating>
+<<<<<<< HEAD
   <RatingCount>72</RatingCount>
+=======
+  <RatingCount>71</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>23</SeasonNumber>
   <Writer>Stephanie Gillis</Writer>
   <absolute_number></absolute_number>
@@ -17660,7 +18404,11 @@ Bart and Milhouse in an Avatar spoof.
   <Overview>Lisa becomes disheartened when she learns the shocking truth behind the “tween lit” industry and her beloved fantasy novel characters, but Homer decides to cash in on the craze and forms a team to group-write the next “tween lit” hit, with the king of fantasy, Neil Gaiman, lending his expertise to the effort.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>72</RatingCount>
+=======
+  <RatingCount>70</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>23</SeasonNumber>
   <Writer>|Matt Groening|James L. Brooks|</Writer>
   <absolute_number></absolute_number>
@@ -17691,7 +18439,11 @@ Bart and Milhouse in an Avatar spoof.
   <Overview>The Simpsons host a tastemaker party at their home to promote Absolut Krusty, Krusty the Clown's own brand of liquor. Mr. Burns takes notice of the party's success and decides to promote Homer to &quot;Account Man&quot; for the Springfield Nuclear Plant.</Overview>
   <ProductionCode>PABF01</ProductionCode>
   <Rating>7.1</Rating>
+<<<<<<< HEAD
   <RatingCount>64</RatingCount>
+=======
+  <RatingCount>63</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>23</SeasonNumber>
   <Writer>Jeff Westbrook</Writer>
   <absolute_number></absolute_number>
@@ -17722,7 +18474,11 @@ Bart and Milhouse in an Avatar spoof.
   <Overview>Krusty the Clown is fired from his show and gets a new agent named Annie to help him stage a comeback.</Overview>
   <ProductionCode>PABF02</ProductionCode>
   <Rating>6.9</Rating>
+<<<<<<< HEAD
   <RatingCount>65</RatingCount>
+=======
+  <RatingCount>64</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>23</SeasonNumber>
   <Writer>|Matt Groening|James L. Brooks|Sam Simon|</Writer>
   <absolute_number></absolute_number>
@@ -17753,7 +18509,11 @@ Bart and Milhouse in an Avatar spoof.
   <Overview>In this futuristic holiday episode, Bart is a deadbeat dad living in Springfield Elementary (which is now an apartment complex instead of a school) with Principal Skinner as his landlord. Meanwhile, a pregnant Maggie goes into labor during a family dinner. </Overview>
   <ProductionCode>NABF18</ProductionCode>
   <Rating>7.9</Rating>
+<<<<<<< HEAD
   <RatingCount>68</RatingCount>
+=======
+  <RatingCount>67</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>23</SeasonNumber>
   <Writer>|Matt Groening|James L. Brooks|</Writer>
   <absolute_number></absolute_number>
@@ -17784,7 +18544,11 @@ Bart and Milhouse in an Avatar spoof.
   <Overview>Homer lands his own political talk show and becomes the spokesperson for the Gravy Movement. He then is asked to select the next Republican nominee for President and officially endorses right-wing rock star Ted Nugent.</Overview>
   <ProductionCode>PABF03</ProductionCode>
   <Rating>7.0</Rating>
+<<<<<<< HEAD
   <RatingCount>68</RatingCount>
+=======
+  <RatingCount>66</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>23</SeasonNumber>
   <Writer>|Matt Groening|James L. Brooks|</Writer>
   <absolute_number></absolute_number>
@@ -17914,7 +18678,11 @@ Meanwhile, Bart and Milhouse are inspired by the hosts of &quot;MythCrackers&quo
 But when Homer and Marge try to sneak back into Springfield, they are welcomed with hostility from their former friends and neighbors and begin to appreciate their new and more accepting home.</Overview>
   <ProductionCode>PABF07</ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>69</RatingCount>
+=======
+  <RatingCount>68</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>23</SeasonNumber>
   <Writer>|Matt Groening|James L. Brooks|</Writer>
   <absolute_number>500</absolute_number>
@@ -17946,8 +18714,13 @@ But when Homer and Marge try to sneak back into Springfield, they are welcomed w
 
 Meanwhile, a hip, new health food superstore opens in Springfield that threatens to put Apu and the Kwik-E-Mart out of business.</Overview>
   <ProductionCode>PABF09</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.6</Rating>
   <RatingCount>67</RatingCount>
+=======
+  <Rating>7.7</Rating>
+  <RatingCount>66</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>23</SeasonNumber>
   <Writer>|Matt Groening|James L. Brooks|</Writer>
   <absolute_number></absolute_number>
@@ -18040,7 +18813,11 @@ Meanwhile, a hip, new health food superstore opens in Springfield that threatens
   <Overview>When Bart supervises Jimbo's girlfriend at a movie, she develops a crush on him; Homer is persuaded to buy a state-of-the-art treadmill with a television, and he becomes obsessed with watching it from the treadmill, but not actually working out.</Overview>
   <ProductionCode>PABF11</ProductionCode>
   <Rating>7.4</Rating>
+<<<<<<< HEAD
   <RatingCount>58</RatingCount>
+=======
+  <RatingCount>57</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>23</SeasonNumber>
   <Writer>Ben Joseph</Writer>
   <absolute_number></absolute_number>
@@ -18195,7 +18972,11 @@ Meanwhile, a hip, new health food superstore opens in Springfield that threatens
   <Overview>Bart will be visited by many of his past girlfriends. Zooey Deschanel, Anne Hathaway, Sarah Silverman, Natalie Portman, and Sarah Michelle Gellar will guest star, reprising their roles as Mary Spuckler, Jenny, Nikki McKenna, Darcy, and Gina Vendetti.</Overview>
   <ProductionCode>PABF21</ProductionCode>
   <Rating>7.2</Rating>
+<<<<<<< HEAD
   <RatingCount>75</RatingCount>
+=======
+  <RatingCount>74</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>24</SeasonNumber>
   <Writer>Tim Long</Writer>
   <absolute_number></absolute_number>
@@ -18320,7 +19101,11 @@ Meanwhile, a hip, new health food superstore opens in Springfield that threatens
   <Overview>Homer is shocked to discover that his bowling teammate, Dan Gillick (guest voice Steve Carell), is an accountant for Fat Tony (guest voice Joe Mantegna) and his mob. Meanwhile, Lisa adds insects to her vegetarian diet after passing out during a saxophone solo, but starts questioning her decision when bugs start pleading for mercy in her dreams.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.0</Rating>
+<<<<<<< HEAD
   <RatingCount>62</RatingCount>
+=======
+  <RatingCount>61</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>24</SeasonNumber>
   <Writer>Michael Price</Writer>
   <absolute_number></absolute_number>
@@ -18351,7 +19136,11 @@ Meanwhile, a hip, new health food superstore opens in Springfield that threatens
   <Overview>Homer wins a MyPad at the school auction and quickly becomes obessed with it. He goes into a funk when he breaks it, until Ned Flanders discovers a miracle tree in the Simpsons' back garden.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.1</Rating>
+<<<<<<< HEAD
   <RatingCount>58</RatingCount>
+=======
+  <RatingCount>56</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>24</SeasonNumber>
   <Writer>Stephanie Gillis</Writer>
   <absolute_number></absolute_number>
@@ -18382,7 +19171,11 @@ Meanwhile, a hip, new health food superstore opens in Springfield that threatens
   <Overview>A &quot;cool family&quot; from Portland moves in next door to the Simpsons. Homer is desperate to befriend them, while Marge is skeptical, worried about some of their more eccentric qualities.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.2</Rating>
+<<<<<<< HEAD
   <RatingCount>59</RatingCount>
+=======
+  <RatingCount>58</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>24</SeasonNumber>
   <Writer>Matt Selman</Writer>
   <absolute_number></absolute_number>
@@ -18413,7 +19206,11 @@ Meanwhile, a hip, new health food superstore opens in Springfield that threatens
   <Overview>A distracted Homer allows Santa's Little Helper to get loose, and the family are furious with his unconcerned attitude, until Grandpa shines some light on things by telling them the story of Homer's childhood pup, Bongo.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
+<<<<<<< HEAD
   <RatingCount>51</RatingCount>
+=======
+  <RatingCount>50</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>24</SeasonNumber>
   <Writer>Carolyn Omine</Writer>
   <absolute_number></absolute_number>
@@ -18444,7 +19241,11 @@ Meanwhile, a hip, new health food superstore opens in Springfield that threatens
   <Overview>With the end of the world looming, Homer decides to join an off the grid group of survivalists who've set up a secret sanctuary outside of Springfield to prep for the apocalypse. However, a skeptical Marge is suspicious of the plans.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
+<<<<<<< HEAD
   <RatingCount>47</RatingCount>
+=======
+  <RatingCount>46</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>24</SeasonNumber>
   <Writer>Brian Kelley</Writer>
   <absolute_number></absolute_number>
@@ -18475,7 +19276,11 @@ Meanwhile, a hip, new health food superstore opens in Springfield that threatens
   <Overview>Springfield Elementary must depend on Bartificial intelligence when it's threatened with closure after doing poorly on standardized testing, and since Bart's the only one who missed the exam, it's up to him to raise the average grade to save the school.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.2</Rating>
+<<<<<<< HEAD
   <RatingCount>52</RatingCount>
+=======
+  <RatingCount>51</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>24</SeasonNumber>
   <Writer>Joel H. Cohen</Writer>
   <absolute_number></absolute_number>
@@ -18506,7 +19311,11 @@ Meanwhile, a hip, new health food superstore opens in Springfield that threatens
   <Overview>A tornado inspires Homer and Marge look for guardians for the kids in case something bad happens; Marge questions the motives of potential guardians. </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.2</Rating>
+<<<<<<< HEAD
   <RatingCount>48</RatingCount>
+=======
+  <RatingCount>47</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>24</SeasonNumber>
   <Writer>Rob Lazebnik</Writer>
   <absolute_number></absolute_number>
@@ -18569,8 +19378,13 @@ Meanwhile, a hip, new health food superstore opens in Springfield that threatens
 
 Marge fears Maggie is slipping into the clutches of children's television.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>6.9</Rating>
   <RatingCount>49</RatingCount>
+=======
+  <Rating>7.0</Rating>
+  <RatingCount>47</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>24</SeasonNumber>
   <Writer>|Tom Gammill|Max Pross|</Writer>
   <absolute_number></absolute_number>
@@ -18602,8 +19416,13 @@ Marge fears Maggie is slipping into the clutches of children's television.</Over
 
 What's more amazing, he was once revered by a young Montgomery Burns, who now convinces Grampa to get back in the ring. But when Bart starts to adopt some of his grandfather's former cheating ways, Grampa must reconcile with his past before it's too late.</Overview>
   <ProductionCode>RABF06</ProductionCode>
+<<<<<<< HEAD
   <Rating>6.8</Rating>
   <RatingCount>52</RatingCount>
+=======
+  <Rating>6.7</Rating>
+  <RatingCount>50</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>24</SeasonNumber>
   <Writer>Matt Selman</Writer>
   <absolute_number></absolute_number>
@@ -18634,7 +19453,11 @@ What's more amazing, he was once revered by a young Montgomery Burns, who now co
   <Overview>When Flanders' parents prove to prefer Homer's company to his, he jealously responds by giving Homer a shiner, and then tries desperately to reconcile with him. Meanwhile, Lisa is at a loss to understand why a new substitute teacher is bullying her for no obvious reason.</Overview>
   <ProductionCode>RABF09</ProductionCode>
   <Rating>7.1</Rating>
+<<<<<<< HEAD
   <RatingCount>46</RatingCount>
+=======
+  <RatingCount>44</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>24</SeasonNumber>
   <Writer>John Frink</Writer>
   <absolute_number></absolute_number>
@@ -18664,8 +19487,13 @@ What's more amazing, he was once revered by a young Montgomery Burns, who now co
   <Language>en</Language>
   <Overview>Lisa comes to her brother's defense when Bart is accused of an Easter prank involving the school marching band, the horn section and some rotten eggs. Meanwhile, Mr. Burns seizes the opportunity to realize his lifelong ambition to become a superhero.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.5</Rating>
   <RatingCount>45</RatingCount>
+=======
+  <Rating>7.4</Rating>
+  <RatingCount>43</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>24</SeasonNumber>
   <Writer>|Billy Kimball|Ian Maxtone-Graham|</Writer>
   <absolute_number></absolute_number>
@@ -18695,8 +19523,13 @@ What's more amazing, he was once revered by a young Montgomery Burns, who now co
   <Language>en</Language>
   <Overview>Homer's behavior once again lands him in hot water with Marge and he needs to fathom a way to save his marriage, while a dose of &quot;A Streetcar Named Desire&quot; drives Milhouse to affect a Marlon Brando-esque bad-boy demeanor in an effort to impress Lisa.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.1</Rating>
   <RatingCount>47</RatingCount>
+=======
+  <Rating>7.2</Rating>
+  <RatingCount>46</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>24</SeasonNumber>
   <Writer>Stewart Burns</Writer>
   <absolute_number></absolute_number>
@@ -18727,7 +19560,11 @@ What's more amazing, he was once revered by a young Montgomery Burns, who now co
   <Overview>Homer is recruited to be a deacon by the cutting-edge new pastor. The dry cleaner mistakenly switches Marge's wedding dress for one of Krusty's costumes.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.2</Rating>
+<<<<<<< HEAD
   <RatingCount>50</RatingCount>
+=======
+  <RatingCount>48</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>24</SeasonNumber>
   <Writer>Bill Odenkirk</Writer>
   <absolute_number></absolute_number>
@@ -18757,8 +19594,13 @@ What's more amazing, he was once revered by a young Montgomery Burns, who now co
   <Language>en</Language>
   <Overview>Moe is flying high after venture capitalists take a shine to his homemade whiskey, while Grampa, after injuring himself babysitting Bart, decides he'd rather be looked after by his grandson than be at the nursing home. Also, Lisa voices her displeasure at a hologram of music legend Bleeding Gums Murphy, and Sonny Rollins (as himself) shows up to ask her to stop all that jazz about boycotting a record label.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.0</Rating>
   <RatingCount>36</RatingCount>
+=======
+  <Rating>7.1</Rating>
+  <RatingCount>35</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>24</SeasonNumber>
   <Writer>Valentina Garza</Writer>
   <absolute_number></absolute_number>
@@ -18790,8 +19632,13 @@ What's more amazing, he was once revered by a young Montgomery Burns, who now co
 
 Homer is shocked when he loses the last two hairs on his head, and employs a wide variety of headgear to try and keep his new found baldness a secret from Marge.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.0</Rating>
   <RatingCount>40</RatingCount>
+=======
+  <Rating>7.1</Rating>
+  <RatingCount>39</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>24</SeasonNumber>
   <Writer>Brian McConnachie</Writer>
   <absolute_number></absolute_number>
@@ -18822,7 +19669,11 @@ Homer is shocked when he loses the last two hairs on his head, and employs a wid
   <Overview>Homer, Moe, Lenny and Carl win $200,000 in the Springfield Lottery. But when Carl takes off to Iceland – his homeland – with all the winnings, the guys embark on a Nordic adventure to get the cash back.</Overview>
   <ProductionCode>RABF14</ProductionCode>
   <Rating>7.4</Rating>
+<<<<<<< HEAD
   <RatingCount>36</RatingCount>
+=======
+  <RatingCount>35</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>24</SeasonNumber>
   <Writer>Eric Kaplan</Writer>
   <absolute_number></absolute_number>
@@ -18854,7 +19705,11 @@ Homer is shocked when he loses the last two hairs on his head, and employs a wid
 Meanwhile, Bart and Homer obtain a small steam train from the now closed down Itchy &amp; Scratchy Land.</Overview>
   <ProductionCode>RABF17</ProductionCode>
   <Rating>6.9</Rating>
+<<<<<<< HEAD
   <RatingCount>37</RatingCount>
+=======
+  <RatingCount>36</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>24</SeasonNumber>
   <Writer>Michael Price</Writer>
   <absolute_number></absolute_number>
@@ -18885,12 +19740,20 @@ Meanwhile, Bart and Homer obtain a small steam train from the now closed down It
   <Overview>A parody of &quot;Homeland&quot;. Homer starts to act strangely polite after returning from a nuclear power plant convention, prompting a suspicious Lisa to ask an intense FBI agent named Annie to help her solve this mystery.</Overview>
   <ProductionCode>RABF20</ProductionCode>
   <Rating>7.4</Rating>
+<<<<<<< HEAD
   <RatingCount>41</RatingCount>
+=======
+  <RatingCount>39</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>25</SeasonNumber>
   <Writer>Stephanie Gillis</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/71663/4601102.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433423345</lastupdated>
+=======
+  <lastupdated>1414658185</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>523483</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added>2013-09-30 12:09:09</thumb_added>
@@ -18916,12 +19779,20 @@ Meanwhile, Bart and Homer obtain a small steam train from the now closed down It
   <Overview>In &quot;Oh The Places You'll D'oh,&quot; the first of three spine-tingling stories, Homer rides around Springfield wreaking havoc as &quot;The Fat in The Hat&quot; in a rhyming Dr. Seuss-ian tale. In &quot;Dead and Shoulders,&quot; Bart is beheaded during a kite accident, his head is attached to Lisa's body and they must live together as one. The final terrifying tale, &quot;Freaks no Geeks,&quot; features Mr. Burns' traveling circus, The Burnsum and Bailey Circus, which has stopped in Springfieldland in the 1930s. Trapeze artist Marge and Strong Man Homer are performers and things go awry when circus freak Moe starts to make advances towards Marge.</Overview>
   <ProductionCode>RABF16</ProductionCode>
   <Rating>7.0</Rating>
+<<<<<<< HEAD
   <RatingCount>38</RatingCount>
+=======
+  <RatingCount>35</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>25</SeasonNumber>
   <Writer>Jeff Westbrook</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/71663/4661174.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433423529</lastupdated>
+=======
+  <lastupdated>1414658234</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>523483</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added>2013-10-06 19:07:57</thumb_added>
@@ -18946,13 +19817,22 @@ Meanwhile, Bart and Homer obtain a small steam train from the now closed down It
   <Language>en</Language>
   <Overview>Kent Brockman has decided that local news has been a real mistake and a terrible career move for him.</Overview>
   <ProductionCode>RABF18</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.1</Rating>
   <RatingCount>30</RatingCount>
+=======
+  <Rating>7.3</Rating>
+  <RatingCount>27</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>25</SeasonNumber>
   <Writer>Marc Wilmore</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/71663/4678046.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433423579</lastupdated>
+=======
+  <lastupdated>1414658260</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>523483</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added>2013-11-03 21:48:46</thumb_added>
@@ -18977,13 +19857,22 @@ Meanwhile, Bart and Homer obtain a small steam train from the now closed down It
   <Language>en</Language>
   <Overview>Marge encourages Homer to cross an item off an old to-do list by inviting an old pen pal to visit; Lisa institutes an honor code at school.</Overview>
   <ProductionCode>RABF22</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.2</Rating>
   <RatingCount>32</RatingCount>
+=======
+  <Rating>7.3</Rating>
+  <RatingCount>29</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>25</SeasonNumber>
   <Writer>Michael Nobori</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/71663/4705660.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433423607</lastupdated>
+=======
+  <lastupdated>1414658289</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>523483</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added>2013-11-10 18:27:18</thumb_added>
@@ -19009,12 +19898,20 @@ Meanwhile, Bart and Homer obtain a small steam train from the now closed down It
   <Overview>Homer delivers a baby in an elevator. When the mother names the child Homer Jr., he develops a deep emotional bond with the kid. Lisa is recruited by the cheerleaders of the local pro football team.</Overview>
   <ProductionCode>RABF19</ProductionCode>
   <Rating>7.4</Rating>
+<<<<<<< HEAD
   <RatingCount>26</RatingCount>
+=======
+  <RatingCount>23</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>25</SeasonNumber>
   <Writer>|Don Payne|Mitch Glazer|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/71663/4705661.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433423626</lastupdated>
+=======
+  <lastupdated>1414658314</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>523483</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added>2013-11-17 22:24:45</thumb_added>
@@ -19039,13 +19936,22 @@ Meanwhile, Bart and Homer obtain a small steam train from the now closed down It
   <Language>en</Language>
   <Overview>Lisa finally makes a new best friend, Isabel Gutierrez, only to discover that she's a Republican and her opponent in the campaign for second grade class representative.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>6.9</Rating>
   <RatingCount>31</RatingCount>
+=======
+  <Rating>7.1</Rating>
+  <RatingCount>26</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>25</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/71663/4715358.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433423644</lastupdated>
+=======
+  <lastupdated>1414658339</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>523483</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added>2013-11-20 20:17:02</thumb_added>
@@ -19071,12 +19977,20 @@ Meanwhile, Bart and Homer obtain a small steam train from the now closed down It
   <Overview>Principal Skinner promises the students that the best-behaved among them can take a ride in a submarine. When Skinner gives all the kids a clean slate, Bart believes even his own past indiscretions will be forgotten if he doesn't get into any more trouble. Meanwhile Lisa tries to help a cash-poor Krusty to turn things around by suggesting he sell the foreign rights to his shows.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.1</Rating>
+<<<<<<< HEAD
   <RatingCount>25</RatingCount>
+=======
+  <RatingCount>22</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>25</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/71663/4717074.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433423658</lastupdated>
+=======
+  <lastupdated>1414658374</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>523483</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added>2013-11-21 22:44:37</thumb_added>
@@ -19102,12 +20016,20 @@ Meanwhile, Bart and Homer obtain a small steam train from the now closed down It
   <Overview>Springfield is inundated with holiday revelers after the nuclear power plant springs a radiation leak, causing snow to fall all over town. When the tourists drive up Christmas shopping prices, Marge opens up the Simpsons' house to boarders.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>6.8</Rating>
+<<<<<<< HEAD
   <RatingCount>25</RatingCount>
+=======
+  <RatingCount>21</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>25</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/71663/4721163.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433423677</lastupdated>
+=======
+  <lastupdated>1414658401</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>523483</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added>2013-11-27 01:17:44</thumb_added>
@@ -19132,13 +20054,22 @@ Meanwhile, Bart and Homer obtain a small steam train from the now closed down It
   <Language>en</Language>
   <Overview>Homer becomes annoyed with movie theaters, so Bart teaches him how to download movies illegally. Homer is delighted with his discovery of free movies until he's caught for piracy.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.3</Rating>
   <RatingCount>32</RatingCount>
+=======
+  <Rating>7.5</Rating>
+  <RatingCount>29</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>25</SeasonNumber>
   <Writer>J. Stewart Burns</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/71663/4721164.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433423690</lastupdated>
+=======
+  <lastupdated>1414658432</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>523483</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added>2014-01-05 21:04:47</thumb_added>
@@ -19169,7 +20100,11 @@ Meanwhile, Bart and Homer obtain a small steam train from the now closed down It
   <Writer>Tim Long</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/71663/4721165.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433423703</lastupdated>
+=======
+  <lastupdated>1414658453</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>523483</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added>2014-01-12 16:21:54</thumb_added>
@@ -19195,12 +20130,20 @@ Meanwhile, Bart and Homer obtain a small steam train from the now closed down It
   <Overview>Mr. Burns gives high-tech eyeglasses to all of his employees in order to spy on them. Homer loves the enhanced reality of his new gadget - that is, until Marge tries them on and he finds out she's seeing a marriage counselor. Meanwhile, Bart takes a stand against buying Nelson a Valentine's Day card, despite buying one for every other kid in class, and Nelson delivers him an ultimatum: find him the best Valentine's Day gift ever or be fed to the classroom electric pencil sharpener.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.1</Rating>
+<<<<<<< HEAD
   <RatingCount>30</RatingCount>
+=======
+  <RatingCount>24</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>25</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/71663/4721166.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433423717</lastupdated>
+=======
+  <lastupdated>1414658472</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>523483</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added>2014-01-26 17:00:35</thumb_added>
@@ -19231,7 +20174,11 @@ Meanwhile, Bart and Homer obtain a small steam train from the now closed down It
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/71663/4796787.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433423731</lastupdated>
+=======
+  <lastupdated>1414658540</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>523483</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added>2014-03-04 18:46:11</thumb_added>
@@ -19262,7 +20209,11 @@ Meanwhile, Bart and Homer obtain a small steam train from the now closed down It
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/71663/4771201.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433423747</lastupdated>
+=======
+  <lastupdated>1414658561</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>523483</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added>2014-03-04 18:54:30</thumb_added>
@@ -19287,13 +20238,22 @@ Meanwhile, Bart and Homer obtain a small steam train from the now closed down It
   <Language>en</Language>
   <Overview>When the retirement home closes, Marge invites Grampa and two other elderly folks to stay at the Simpsons' house. Nelson becomes Bart's friend, after Bart defends him for wearing used underwear.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>6.8</Rating>
   <RatingCount>24</RatingCount>
+=======
+  <Rating>7.1</Rating>
+  <RatingCount>16</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>25</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/71663/4771200.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433423762</lastupdated>
+=======
+  <lastupdated>1414658581</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>523483</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added>2014-03-04 18:53:57</thumb_added>
@@ -19324,7 +20284,11 @@ Meanwhile, Bart and Homer obtain a small steam train from the now closed down It
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/71663/4771199.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433423775</lastupdated>
+=======
+  <lastupdated>1414658600</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>523483</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added>2014-03-20 01:14:51</thumb_added>
@@ -19355,7 +20319,11 @@ Meanwhile, Bart and Homer obtain a small steam train from the now closed down It
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/71663/4771198.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433423792</lastupdated>
+=======
+  <lastupdated>1414658621</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>523483</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added>2014-03-23 00:39:21</thumb_added>
@@ -19386,7 +20354,11 @@ Meanwhile, Bart and Homer obtain a small steam train from the now closed down It
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/71663/4721167.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433423806</lastupdated>
+=======
+  <lastupdated>1413150260</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>523483</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added>2014-04-03 16:28:11</thumb_added>
@@ -19417,7 +20389,11 @@ Meanwhile, Bart and Homer obtain a small steam train from the now closed down It
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/71663/4835124.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433423820</lastupdated>
+=======
+  <lastupdated>1413150271</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>523483</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added>2014-03-31 00:35:42</thumb_added>
@@ -19448,7 +20424,11 @@ Meanwhile, Bart and Homer obtain a small steam train from the now closed down It
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/71663/4835126.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433423835</lastupdated>
+=======
+  <lastupdated>1413150287</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>523483</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added>2014-04-10 18:35:16</thumb_added>
@@ -19479,7 +20459,11 @@ Meanwhile, Bart and Homer obtain a small steam train from the now closed down It
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/71663/4835127.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433423872</lastupdated>
+=======
+  <lastupdated>1415041996</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>523483</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added>2014-04-17 20:07:42</thumb_added>
@@ -19504,13 +20488,22 @@ Meanwhile, Bart and Homer obtain a small steam train from the now closed down It
   <Language>en</Language>
   <Overview>Marge swears off befriending any more couples when Homer offends their charming new British neighbors, but when Lisa declares that she, too, doesn't need friends, Marge reconsiders. </Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>6.8</Rating>
   <RatingCount>20</RatingCount>
+=======
+  <Rating>6.7</Rating>
+  <RatingCount>18</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>25</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/71663/4835128.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433423983</lastupdated>
+=======
+  <lastupdated>1413150313</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>523483</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added>2014-04-26 10:28:14</thumb_added>
@@ -19535,13 +20528,22 @@ Meanwhile, Bart and Homer obtain a small steam train from the now closed down It
   <Language>en</Language>
   <Overview>Bart is plagued with guilt when he wins the annual &quot;last day of school&quot; race around Springfield Elementary, with assistance from Nelson, who beats up frontrunner Milhouse. Meanwhile, Homer tries to bring back the annual 4th of July fireworks display after it's canceled for budget reasons.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.3</Rating>
   <RatingCount>21</RatingCount>
+=======
+  <Rating>7.2</Rating>
+  <RatingCount>18</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>25</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/71663/4835129.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433424000</lastupdated>
+=======
+  <lastupdated>1413150325</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>523483</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added>2014-04-28 23:45:16</thumb_added>
@@ -19561,18 +20563,30 @@ Meanwhile, Bart and Homer obtain a small steam train from the now closed down It
   <EpisodeName>Clown in the Dumps</EpisodeName>
   <EpisodeNumber>1</EpisodeNumber>
   <FirstAired>2014-09-28</FirstAired>
+<<<<<<< HEAD
   <GuestStars>|David Hyde Pierce|Sarah Silverman|Jeff Ross|Kelsey Grammer|Jackie Mason|Don Hertzfeldt|Maurice LaMarche|</GuestStars>
+=======
+  <GuestStars>David Hyde Pierce, Sarah Silverman, Jeff Ross, Kelsey Grammer, Jackie Mason</GuestStars>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>A Springfield resident dies, Krusty retires after he's offended by a comedy cable channel roast of him, and Lisa tries to protect Homer from getting hurt.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>6.7</Rating>
+<<<<<<< HEAD
   <RatingCount>18</RatingCount>
+=======
+  <RatingCount>13</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>26</SeasonNumber>
   <Writer>Joel H. Cohen</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/71663/4905889.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431276253</lastupdated>
+=======
+  <lastupdated>1413277179</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>588131</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added>2014-09-18 02:18:59</thumb_added>
@@ -19592,6 +20606,7 @@ Meanwhile, Bart and Homer obtain a small steam train from the now closed down It
   <EpisodeName>The Wreck of the Relationship</EpisodeName>
   <EpisodeNumber>2</EpisodeNumber>
   <FirstAired>2014-10-05</FirstAired>
+<<<<<<< HEAD
   <GuestStars>Nick Offerman</GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
@@ -19627,14 +20642,304 @@ Meanwhile, Bart and Homer obtain a small steam train from the now closed down It
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>Marge opens a sandwich franchise store after her sandwiches become a huge hit at Springfield Elementary. But running day-to-day at the store proves challenging, especially when the same franchise opens another location across the street.</Overview>
+=======
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>When Bart disrespects Homer's authority, Homer makes a point to try his hand at parenting. This proves fruitless, so Marge signs them up for the Relation Ship, where they'll resolve their conflicts at sea. Meanwhile, Marge is in charge of Homer's fantasy football league, but manages to win despite being the underdog.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>6.5</Rating>
+  <RatingCount>15</RatingCount>
+  <SeasonNumber>26</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/71663/4955009.jpg</filename>
+  <lastupdated>1413277232</lastupdated>
+  <seasonid>588131</seasonid>
+  <seriesid>71663</seriesid>
+  <thumb_added>2014-10-05 19:49:27</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4955010</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>26</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Super Franchise Me</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2014-10-12</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Marge opens a sandwich franchise store after her sandwiches become a huge hit at Springfield Elementary. But running day-to-day at the store proves challenging, especially when the same franchise opens another location across the street.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>6.8</Rating>
+  <RatingCount>15</RatingCount>
+  <SeasonNumber>26</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/71663/4955010.jpg</filename>
+  <lastupdated>1413277273</lastupdated>
+  <seasonid>588131</seasonid>
+  <seriesid>71663</seriesid>
+  <thumb_added>2014-10-13 16:40:13</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4955011</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>26</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Treehouse of Horror XXV</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2014-10-19</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>In a Halloween-theme episode Bart reads Aramaic symbols from the bottom of his desk and he and Lisa are transported to an alternate world filled with demons. Also, Moe organizes a &quot;Clockwork Orange&quot;-ish gang in which member Dum (Homer) falls for a young lady (Marge) who wants him to quit. In a homage to &quot;The Others,&quot; the Simpsons reconnect with their earlier incarnations from the Tracey Ullman era.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>6.9</Rating>
+  <RatingCount>15</RatingCount>
+  <SeasonNumber>26</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/71663/4955011.jpg</filename>
+  <lastupdated>1413819337</lastupdated>
+  <seasonid>588131</seasonid>
+  <seriesid>71663</seriesid>
+  <thumb_added>2014-10-15 12:40:19</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5011820</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>26</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Opposites A-Frack</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2014-11-02</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Lisa brings in assembly woman Maxine Lombard to put a stop to Mr. Burns' fracking operation, but is taken aback when the two political opponents find themselves attracted to one another.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>2.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>26</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/71663/5011820.jpg</filename>
+  <lastupdated>1413934803</lastupdated>
+  <seasonid>588131</seasonid>
+  <seriesid>71663</seriesid>
+  <thumb_added>2014-10-21 16:44:20</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4955012</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>26</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Simpsorama</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2014-11-09</FirstAired>
+  <GuestStars>Billy West, Katey Sagal, John DiMaggio, Phil LaMarr, Maurice LaMarche, Lauren Tom</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>The Planet Express crew come to present-day Springfield to prevent the Simpsons from destroying the future.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>26</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/71663/4955012.jpg</filename>
+  <lastupdated>1413934761</lastupdated>
+  <seasonid>588131</seasonid>
+  <seriesid>71663</seriesid>
+  <thumb_added>2014-10-21 16:43:38</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4970654</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>26</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Blazed and Confused</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2014-11-16</FirstAired>
+  <GuestStars>Willem Dafoe</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Bart schemes to bring down his new teacher, Mr. Lassen, who is a terrible bully. Meanwhile, The Simpsons go to Burning Man.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>26</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1412730200</lastupdated>
+  <seasonid>588131</seasonid>
+  <seriesid>71663</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5032293</id>
+  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_season>26</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Covercraft</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2014-11-23</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Homer has a mid-life crisis, takes up bass guitar and forms a cover band with some of the other dads in town. But the band's modest early success is soon overwhelmed by the breakout potential of their most unlikely star, Apu.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>26</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1414672933</lastupdated>
+  <seasonid>588131</seasonid>
+  <seriesid>71663</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4970655</id>
+  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_season>26</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>I Won't Be Home for Christmas</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2014-12-07</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>It will be about the sad side of Christmas.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>26</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1414859375</lastupdated>
+  <seasonid>588131</seasonid>
+  <seriesid>71663</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4970658</id>
+  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_season>26</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>The Man Who Came to Be Dinner</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2015-01-04</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>The Simpsons go to Diz-Nee Land where the lines for the rides are terrible, except for this one rocket called &quot;Journey to Your Future&quot; that takes them to the home planet of Kang and Kodos, Rigel 7 where the inhabitants try to eat Homer in a giant fondue. </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>26</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1414860405</lastupdated>
+  <seasonid>588131</seasonid>
+  <seriesid>71663</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4970656</id>
+  <Combined_episodenumber>11</Combined_episodenumber>
+  <Combined_season>26</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>The Musk Who Fell to Earth</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired>2015-01-11</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Mr. Burns will lose all his money to Elon Musk. Burns will try to kill him, and Musk's master password will be revealed.</Overview>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <ProductionCode></ProductionCode>
   <Rating>6.7</Rating>
   <RatingCount>18</RatingCount>
   <SeasonNumber>26</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
+<<<<<<< HEAD
   <filename>episodes/71663/4955010.jpg</filename>
   <lastupdated>1429483530</lastupdated>
+=======
+  <filename></filename>
+  <lastupdated>1414672984</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>588131</seasonid>
   <seriesid>71663</seriesid>
   <thumb_added>2014-10-13 16:40:13</thumb_added>

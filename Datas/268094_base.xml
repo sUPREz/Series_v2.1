@@ -13,17 +13,28 @@
     <Network>FX</Network>
     <NetworkID></NetworkID>
     <Overview>The series tells the story of an unassuming American family drawn into the workings of a turbulent Middle Eastern nation. Bassam &quot;Barry&quot; Al Fayeed, the younger son of the dictator of a war-torn nation, ends a self-imposed 20-year exile to return to his homeland, accompanied by his American wife and children, for his nephew's wedding. Barry’s reluctant homecoming leads to a dramatic clash of cultures as he is thrown back into the familial and national politics of his youth.</Overview>
+<<<<<<< HEAD
     <Rating>8.2</Rating>
     <RatingCount>16</RatingCount>
+=======
+    <Rating>8.1</Rating>
+    <RatingCount>14</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <Runtime>60</Runtime>
     <SeriesID>176198</SeriesID>
     <SeriesName>Tyrant</SeriesName>
     <Status>Continuing</Status>
     <added>2013-03-25 10:03:23</added>
     <addedBy>95341</addedBy>
+<<<<<<< HEAD
     <banner>graphical/268094-g6.jpg</banner>
     <fanart>fanart/original/268094-5.jpg</fanart>
     <lastupdated>1434917187</lastupdated>
+=======
+    <banner>graphical/268094-g3.jpg</banner>
+    <fanart>fanart/original/268094-4.jpg</fanart>
+    <lastupdated>1415051573</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <poster>posters/268094-1.jpg</poster>
     <tms_wanted_old>0</tms_wanted_old>
     <zap2it_id>SH01863216</zap2it_id>

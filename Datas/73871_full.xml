@@ -12,17 +12,28 @@
   <Network>Comedy Central</Network>
   <NetworkID></NetworkID>
   <Overview>A late 20th-century New York City pizza delivery boy, Philip J. Fry, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the 31st century.</Overview>
+<<<<<<< HEAD
   <Rating>9.2</Rating>
   <RatingCount>518</RatingCount>
+=======
+  <Rating>9.3</Rating>
+  <RatingCount>487</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <Runtime>30</Runtime>
   <SeriesID>249</SeriesID>
   <SeriesName>Futurama</SeriesName>
   <Status>Ended</Status>
   <added></added>
   <addedBy></addedBy>
+<<<<<<< HEAD
   <banner>graphical/73871-g24.jpg</banner>
   <fanart>fanart/original/73871-21.jpg</fanart>
   <lastupdated>1434811028</lastupdated>
+=======
+  <banner>graphical/73871-g15.jpg</banner>
+  <fanart>fanart/original/73871-26.jpg</fanart>
+  <lastupdated>1415038765</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <poster>posters/73871-2.jpg</poster>
   <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>SH00303483</zap2it_id>
@@ -250,7 +261,11 @@
   <Overview>Fry, a 20th-century New-York pizza delivery boy receives a prank call and is frozen in a capsule and wakes up in year 2999. He meets an alien named Leela that wants to assign his permanent career... delivery boy. Fry refuses, so he escapes. He then meets Bender, a robot who likes to drink and has suicidal tendencies. Together, they start running away from Leela, arriving to the ruins of old New York. Leela finds them, but instead of inserting the permanent chip on Fry, she removes her own. All three go to Prof. Hubert Farnsworth's house, Fry's only living relative, becoming his new space crew.</Overview>
   <ProductionCode>1ACV01</ProductionCode>
   <Rating>8.0</Rating>
+<<<<<<< HEAD
   <RatingCount>79</RatingCount>
+=======
+  <RatingCount>77</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Matt Groening|David X. Cohen|</Writer>
   <absolute_number>1</absolute_number>
@@ -281,7 +296,11 @@
   <Overview>After joining Planet Express, Fry, Bender, Farnsworth's assistant Amy and Captain Leela must deliver their first package to the moon. Fry imagines himself walking on the moon, but he finds out that there is an amusement park on the moon - Luna Park. While lowering the package, Amy drops the ship keys inside it. Fry is the only one who wants to walk on the real moon, so he goes with Leela on an educational trip, yet he goes off the road and they are now marooned on the moon with almost no oxygen. Amy and Bender discover that the key that fell inside a crane game machine. Bender is thrown out of the park after putting his hand inside the machine. Fry and Leela arrive at a farm in the middle of the moon where they have to work for oxygen. After Bender sleeps with one of the robo-daughters of the farmer, the farmer starts chasing Fry, Leela and Bender. Amy appears just in time to save them.</Overview>
   <ProductionCode>1ACV02</ProductionCode>
   <Rating>7.5</Rating>
+<<<<<<< HEAD
   <RatingCount>81</RatingCount>
+=======
+  <RatingCount>80</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Ken Keeler|</Writer>
   <absolute_number>2</absolute_number>
@@ -312,7 +331,11 @@
   <Overview>Everyone is sick of Fry living at Planet Express, so he is forced to move out to become Bender's roommate. The only catch is that Bender's apartment is too small for the two of them. After some searching they find a great apartment. A problem arises when Bender's antenna interferes with the TV reception. Bender decides to cut off his antenna so that he can live with Fry again. However he doesn't feel right without it, so he decides to leave and go back to his old apartment where he feels lonely. Leela convinces Fry to going back to the &quot;small&quot; apartment.</Overview>
   <ProductionCode>1ACV03</ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>77</RatingCount>
+=======
+  <RatingCount>75</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Eric Horsted|</Writer>
   <absolute_number>3</absolute_number>
@@ -343,7 +366,11 @@
   <Overview>On a mission intended to save endangered animals on a collapsing planet, Leela and the crew run into legendary starship captain Zapp Brannigan. A self-proclaimed ladies man, Zapp sees Leela as a potential new conquest. When the captain refuses to aid the animal rescue, Leela and her crew try to leave Zapp's starship. But Zapp throws Fry and Bender in jail, and summons Leela to his &quot;Lovenasium&quot;. They ultimately escape and arrive on the doomed planet, where Leela finally finds love - with a cute, and very useful, creature named Nibbler.</Overview>
   <ProductionCode>1ACV04</ProductionCode>
   <Rating>7.3</Rating>
+<<<<<<< HEAD
   <RatingCount>70</RatingCount>
+=======
+  <RatingCount>69</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Brian Kelley|</Writer>
   <absolute_number>4</absolute_number>
@@ -374,7 +401,11 @@
   <Overview>At Madison Cube Garden watching a blernsball game, Bender complains about the poor treatment of robots. They're only there to clean up, polish the balls or water the fields. They never get any respect. Later, Bender must deliver a package to a planet inhabited by murderous robots that kill humans on sight. He discovers a robotopia - a land where the robot is king! However, when Leela and Fry are captured, Bender must choose between protecting his celebrity status or saving his friends.</Overview>
   <ProductionCode>1ACV05</ProductionCode>
   <Rating>7.4</Rating>
+<<<<<<< HEAD
   <RatingCount>76</RatingCount>
+=======
+  <RatingCount>73</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Evan Gore|Heather Lombard|</Writer>
   <absolute_number>5</absolute_number>
@@ -436,7 +467,11 @@
   <Overview>The crew visits an arid planet in the Galaxy of Terror distinctive for it's three suns and liquid alien inhabitants. Fry, after delivering a package under the scorching heat, quenches his thirst with a bottle of cool blue liquid. Fry soon finds out he drank the planet's royal leader and is named the new emperor. Fry abuses his newfound power, even appointing Bender second in command, until the aliens retaliate and the real battle for power begins.</Overview>
   <ProductionCode>1ACV07</ProductionCode>
   <Rating>7.3</Rating>
+<<<<<<< HEAD
   <RatingCount>75</RatingCount>
+=======
+  <RatingCount>73</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>|J. Stewart Burns|</Writer>
   <absolute_number>7</absolute_number>
@@ -467,7 +502,11 @@
   <Overview>A big piece of garbage that was released a thousand years ago is now on the way to Earth to destroy it. After Fry, Leela and Bender fail on placing a bomb on it, the city has to build another big piece of garbage, yet that may be a problem since trash doesn't exist in year 3000.</Overview>
   <ProductionCode>1ACV08</ProductionCode>
   <Rating>7.4</Rating>
+<<<<<<< HEAD
   <RatingCount>81</RatingCount>
+=======
+  <RatingCount>80</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Lewis Morton|</Writer>
   <absolute_number>8</absolute_number>
@@ -529,7 +568,11 @@
   <Overview>The Planet Express crew take a space cruise vacation. Leela tells Captain Zapp Brannigan that Fry is his boyfriend and Amy tells the same thing to her parents. Bender falls in love with a rich female robot. Problems start when the spaceship approaches a black hole.</Overview>
   <ProductionCode>1ACV10</ProductionCode>
   <Rating>7.5</Rating>
+<<<<<<< HEAD
   <RatingCount>68</RatingCount>
+=======
+  <RatingCount>67</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Eric Horsted|</Writer>
   <absolute_number>10</absolute_number>
@@ -622,7 +665,11 @@
   <Overview>When Fry wins a free tour of the Slurm soda factory, he and his friends split off from the tour group and make a horrifying discovery concerning the &quot;secret ingredient&quot; that makes Slurm so addictive.</Overview>
   <ProductionCode>1ACV13</ProductionCode>
   <Rating>7.5</Rating>
+<<<<<<< HEAD
   <RatingCount>59</RatingCount>
+=======
+  <RatingCount>58</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Lewis Morton|</Writer>
   <absolute_number>13</absolute_number>
@@ -715,7 +762,11 @@
   <Overview>When the price of titanium skyrockets, Bender pawns his titanium-rich body and lives the high life as just a head. But when the head-in-a-jar of Richard M. Nixon uses Bender's body to run for election for President of Earth, Bender vows to get his rightful property back.</Overview>
   <ProductionCode>2ACV03</ProductionCode>
   <Rating>7.5</Rating>
+<<<<<<< HEAD
   <RatingCount>57</RatingCount>
+=======
+  <RatingCount>56</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>|J. Stewart Burns|</Writer>
   <absolute_number>16</absolute_number>
@@ -746,7 +797,11 @@
   <Overview>To apologize for an inconsiderate remark, Fry searches for the perfect Xmas gift for Leela, all the while trying to avoid the murderous SantaBot, whose standards for niceness are astronomically high.</Overview>
   <ProductionCode>2ACV04</ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>56</RatingCount>
+=======
+  <RatingCount>55</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>|David X. Cohen|</Writer>
   <absolute_number>17</absolute_number>
@@ -838,8 +893,13 @@
   <Language>en</Language>
   <Overview>Fry suspects Bender's new buddy, a bending unit named Flexo who looks almost exactly like Bender, of being pure evil. When a valuable atom of Jumbonium goes missing, Fry suspects Flexo, but can't tell which robot is which.</Overview>
   <ProductionCode>2ACV06</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.4</Rating>
   <RatingCount>57</RatingCount>
+=======
+  <Rating>7.3</Rating>
+  <RatingCount>56</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Eric Horsted|</Writer>
   <absolute_number>19</absolute_number>
@@ -994,7 +1054,11 @@
   <Overview>A fishing trip over the ocean takes a turn for the worse when a colossal mouth bass pulls the Planet Express ship to the bottom of the sea. There, Fry falls in love with a mermaid named Umbriel, and the crew discovers the sunken city of Atlanta, Georgia.</Overview>
   <ProductionCode>2ACV12</ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>55</RatingCount>
+=======
+  <RatingCount>54</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>|J. Stewart Burns|</Writer>
   <absolute_number>25</absolute_number>
@@ -1025,7 +1089,11 @@
   <Overview>Bender takes a new job in the Robot Mafia, but his loyalty is tested when he goes along on the robotic gangster's efforts to rob the Planet Express ship.</Overview>
   <ProductionCode>2ACV13</ProductionCode>
   <Rating>7.3</Rating>
+<<<<<<< HEAD
   <RatingCount>48</RatingCount>
+=======
+  <RatingCount>47</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Eric Horsted|</Writer>
   <absolute_number>26</absolute_number>
@@ -1086,7 +1154,11 @@
   <Language>en</Language>
   <Overview>Mom reprograms the world's robots to rebel against humanity. The only hope of salvation is Mom's old flame - Professor Farnsworth, who must rekindle his romance with Mom in order to save mankind.</Overview>
   <ProductionCode>2ACV14</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.3</Rating>
+=======
+  <Rating>7.4</Rating>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <RatingCount>51</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Lewis Morton|</Writer>
@@ -1118,7 +1190,11 @@
   <Overview>The Professor's &quot;What-If&quot; machine simulates Bender, Leela and Fry's wishes. Bender discovers what it would be like if he were 500 feet tall, Leela discovers what it would be like if she were more impulsive, and Fry discovers what would happen if he never came to the future.</Overview>
   <ProductionCode>2ACV16</ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>51</RatingCount>
+=======
+  <RatingCount>50</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Eric Rogers|Ken Keeler|David X. Cohen|</Writer>
   <absolute_number>29</absolute_number>
@@ -1211,7 +1287,11 @@
   <Overview>Fry, Leela, and Bender all lose their jobs at Planet Express, and they endeavor to return to their old jobs. Due to a mix-up of their career chips, Fry becomes a career counselor at Applied Cryogenics, where he meets up with a familiar defrostee - his girlfriend from the 20th century, Michelle.</Overview>
   <ProductionCode>2ACV19</ProductionCode>
   <Rating>7.4</Rating>
+<<<<<<< HEAD
   <RatingCount>59</RatingCount>
+=======
+  <RatingCount>58</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>|J. Stewart Burns|</Writer>
   <absolute_number>32</absolute_number>
@@ -1273,7 +1353,11 @@
   <Overview>A double-date for Kif, Amy, Zapp, and Leela ends in disaster when their orbiting restaurant crashes on planet Amazonia. The hulking female inhabitants of the planet take their male captives to the omniscient Femputer, who orders Fry, Zapp, and Kif to death by &quot;snu-snu&quot;.</Overview>
   <ProductionCode>3ACV01</ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>48</RatingCount>
+=======
+  <RatingCount>47</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Lewis Morton|</Writer>
   <absolute_number>33</absolute_number>
@@ -1304,7 +1388,11 @@
   <Overview>Bender's urge to bend prompts Professor Farnsworth to send him on a rehabilitation visit to a steel factory, where he falls in love with a shapely fem-bot named Angleyne. But Bender's old rival Flexo and the intrusion of the Robot Mafia threaten to throw a wrench into the proceedings.</Overview>
   <ProductionCode>3ACV06</ProductionCode>
   <Rating>7.3</Rating>
+<<<<<<< HEAD
   <RatingCount>43</RatingCount>
+=======
+  <RatingCount>42</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Eric Horsted|</Writer>
   <absolute_number>38</absolute_number>
@@ -1335,7 +1423,11 @@
   <Overview>Earth is invaded by super-intelligent flying brains, who sap the Earth's populace of their intelligence. Leela is taken to Nibbler's home planet Eternia, where the Nibblonians explain that only one human is immune to the brains' powers - Fry.</Overview>
   <ProductionCode>3ACV07</ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>60</RatingCount>
+=======
+  <RatingCount>59</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Jeff Westbrook|</Writer>
   <absolute_number>39</absolute_number>
@@ -2048,7 +2140,11 @@
   <Overview>Farnsworth's clone Cubert teams up with Hermes' son Dwight to launch a newspaper delivery business. Farnsworth and Hermes scoff at the kids' efforts - until the delivery boys accumulate enough capital to buy out Planet Express. Meanwhile, Fry and Leela use Bender to brew their own homemade beer.</Overview>
   <ProductionCode>3ACV12</ProductionCode>
   <Rating>7.2</Rating>
+<<<<<<< HEAD
   <RatingCount>45</RatingCount>
+=======
+  <RatingCount>46</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>5</SeasonNumber>
   <Writer>|Dan Vebber|</Writer>
   <absolute_number>44</absolute_number>
@@ -2482,7 +2578,11 @@
   <Overview>After a devastating spaceship crash, Professor Farnsworth attempts to resuscitate the crew with his birth machine.</Overview>
   <ProductionCode>6ACV01</ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>164</RatingCount>
+=======
+  <RatingCount>163</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>6</SeasonNumber>
   <Writer>David X. Cohen</Writer>
   <absolute_number>73</absolute_number>
@@ -2544,7 +2644,11 @@
   <Overview>The latest trend in social networking and having no life takes over Earth!</Overview>
   <ProductionCode>6ACV03</ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>154</RatingCount>
+=======
+  <RatingCount>155</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>6</SeasonNumber>
   <Writer>Patric M. Verrone</Writer>
   <absolute_number>75</absolute_number>
@@ -2792,7 +2896,11 @@
   <Overview>After a bungled Earth invasion, alien leader Lrrr faces a midlife crisis. </Overview>
   <ProductionCode>6ACV11</ProductionCode>
   <Rating>7.4</Rating>
+<<<<<<< HEAD
   <RatingCount>137</RatingCount>
+=======
+  <RatingCount>136</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>6</SeasonNumber>
   <Writer>Patric M. Verrone</Writer>
   <absolute_number></absolute_number>
@@ -2947,7 +3055,11 @@
   <Overview>Fed up with the crew, Bender decides to kill himself using a suicide booth. After he dies, his software takes on a ghostly existence.</Overview>
   <ProductionCode>6ACV19</ProductionCode>
   <Rating>7.4</Rating>
+<<<<<<< HEAD
   <RatingCount>105</RatingCount>
+=======
+  <RatingCount>106</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>6</SeasonNumber>
   <Writer>Patric M. Verrone</Writer>
   <absolute_number></absolute_number>
@@ -3040,7 +3152,11 @@
   <Overview>Leela becomes a Hollywood Big Shot after creating a hit children's television series.</Overview>
   <ProductionCode>6ACV21</ProductionCode>
   <Rating>7.1</Rating>
+<<<<<<< HEAD
   <RatingCount>94</RatingCount>
+=======
+  <RatingCount>93</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>6</SeasonNumber>
   <Writer>Eric Horsted</Writer>
   <absolute_number></absolute_number>
@@ -3102,7 +3218,11 @@
   <Overview>Professor Farnsworth sends the Planet Express to find a statue of his crew for the 50th memorial service honoring their disappearance. They end up going through the Bermuda Tetrahedron and find a ton of lost spaceships - including the original Planet Express! They look around the ship and a 4D whale comes by and eats the old ship and the statue. Leela makes it her mission to kill the whale and get revenge, which makes them late for the memorial. Eventually, the whale eats the Planet Express ship and the whole team. The only person who escapes is Zoidberg, who returns to Earth in an escape pod. While inside the whale, Leela meets the original captain of the ship, Lando Tucker, who is now attached to the whale's stomach. Leela ends up being able to control the whale and steers him back to Earth to attend the memorial. Leela coaxes the whale to spit everything out, including the statue and the original crew and kills the whale.</Overview>
   <ProductionCode>6ACV15</ProductionCode>
   <Rating>7.4</Rating>
+<<<<<<< HEAD
   <RatingCount>94</RatingCount>
+=======
+  <RatingCount>93</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>6</SeasonNumber>
   <Writer>Dan Vebber</Writer>
   <absolute_number></absolute_number>
@@ -3133,7 +3253,11 @@
   <Overview>Fry nurtures an alien egg out of which hatches a monster.</Overview>
   <ProductionCode>6ACV22</ProductionCode>
   <Rating>7.5</Rating>
+<<<<<<< HEAD
   <RatingCount>94</RatingCount>
+=======
+  <RatingCount>93</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>6</SeasonNumber>
   <Writer>Michael Rowe</Writer>
   <absolute_number></absolute_number>
@@ -3256,7 +3380,11 @@
   <Language>en</Language>
   <Overview>An episode featuring 3 different segments, in the same vein as episodes such as &quot;Anthology of Interest I&quot; and &quot;The Futurama Holiday Spectacular&quot;. Each segment showcases a different style of animation. The first segment will be animated in &quot;a black-and-white Fleischer style&quot;, the second segment will be in the style of a low-resolution video game, and the third drawn in the style of anime. The episode is not be canon, and is the final episode of the sixth season of Futurama.</Overview>
   <ProductionCode>6ACV26</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.5</Rating>
+=======
+  <Rating>7.4</Rating>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <RatingCount>85</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer></Writer>
@@ -3287,8 +3415,13 @@
   <Language>en</Language>
   <Overview>Bender impregnates Bev, the new Planet Express soda machine, who gives birth to a son named Ben. As his mother lacks arms, Ben does not inherit his father's bending ability.</Overview>
   <ProductionCode>7ACV01</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.5</Rating>
   <RatingCount>99</RatingCount>
+=======
+  <Rating>7.6</Rating>
+  <RatingCount>97</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>Eric Horsted</Writer>
   <absolute_number></absolute_number>
@@ -3319,7 +3452,11 @@
   <Overview>An ancient prophecy predicts the world will end in 3012.</Overview>
   <ProductionCode>7ACV02</ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>101</RatingCount>
+=======
+  <RatingCount>100</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>Josh Weinstein</Writer>
   <absolute_number></absolute_number>
@@ -3350,7 +3487,11 @@
   <Overview>Leela becomes a campaign manager for a presidential candidate whose birth certificate is missing.</Overview>
   <ProductionCode>7ACV03</ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>96</RatingCount>
+=======
+  <RatingCount>94</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>Patric M. Verrone</Writer>
   <absolute_number></absolute_number>
@@ -3381,7 +3522,11 @@
   <Overview>Bender joins the paparazzi and tries to take a photo of an actor whose face has never been seen.</Overview>
   <ProductionCode>7ACV04</ProductionCode>
   <Rating>7.5</Rating>
+<<<<<<< HEAD
   <RatingCount>94</RatingCount>
+=======
+  <RatingCount>91</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>Dan Vebber</Writer>
   <absolute_number></absolute_number>
@@ -3411,8 +3556,13 @@
   <Language>en</Language>
   <Overview>Zapp Brannigan loses interest in Leela and instead turns his attentions towards her mother, Turanga Munda.</Overview>
   <ProductionCode>7ACV05</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.2</Rating>
   <RatingCount>94</RatingCount>
+=======
+  <Rating>7.3</Rating>
+  <RatingCount>91</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>Eric Rogers</Writer>
   <absolute_number></absolute_number>
@@ -3443,7 +3593,11 @@
   <Overview>Leela and Amy become addicted to the performance enhancing drug known as &quot;Nectar&quot; to increase their chances of winning at the epic sport of the Butterfly Derby.</Overview>
   <ProductionCode>7ACV06</ProductionCode>
   <Rating>7.5</Rating>
+<<<<<<< HEAD
   <RatingCount>95</RatingCount>
+=======
+  <RatingCount>93</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>Michael Rowe</Writer>
   <absolute_number></absolute_number>
@@ -3474,7 +3628,11 @@
   <Overview>Hermes replaces parts of his body with robotic counterparts so as to increase his productivity.</Overview>
   <ProductionCode>7ACV07</ProductionCode>
   <Rating>7.5</Rating>
+<<<<<<< HEAD
   <RatingCount>88</RatingCount>
+=======
+  <RatingCount>87</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>Ken Keeler</Writer>
   <absolute_number></absolute_number>
@@ -3505,7 +3663,11 @@
   <Overview>Fry is the victim of a sausage-making accident during the crew's visit to Oktoberfest.</Overview>
   <ProductionCode>7ACV08</ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>91</RatingCount>
+=======
+  <RatingCount>89</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>Dan Vebber</Writer>
   <absolute_number></absolute_number>
@@ -3567,7 +3729,11 @@
   <Overview>The crew finds out Professor Farnsworth's parents are still alive on the Near Death Star.</Overview>
   <ProductionCode>7ACV10</ProductionCode>
   <Rating>7.5</Rating>
+<<<<<<< HEAD
   <RatingCount>82</RatingCount>
+=======
+  <RatingCount>80</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>Eric Horsted</Writer>
   <absolute_number></absolute_number>
@@ -3598,7 +3764,11 @@
   <Overview>The crew stages a casino heist to recover stolen property from the Robot Mafia.</Overview>
   <ProductionCode>7ACV12</ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>72</RatingCount>
+=======
+  <RatingCount>70</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>Josh Weinstein</Writer>
   <absolute_number></absolute_number>
@@ -3629,7 +3799,11 @@
   <Overview>Patrick Stewart is the leader of a robot fox hunt, inspiring Bender to fight for robot fox rights.</Overview>
   <ProductionCode>7ACV11</ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>75</RatingCount>
+=======
+  <RatingCount>74</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>Patric M. Verrone</Writer>
   <absolute_number></absolute_number>
@@ -3660,7 +3834,11 @@
   <Overview>A triptych episode parodying nature documentaries. The crew are reincarnated as animals, trying to carve out an existence in the wild.</Overview>
   <ProductionCode>7ACV13</ProductionCode>
   <Rating>7.3</Rating>
+<<<<<<< HEAD
   <RatingCount>80</RatingCount>
+=======
+  <RatingCount>79</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>Eric Rogers|Michael Saikin|Neil Mukhopadhyay</Writer>
   <absolute_number></absolute_number>
@@ -3721,8 +3899,13 @@
   <Language>en</Language>
   <Overview>Fry and Leela's romantic getaway goes awry when their vacation spot turns out to be an alien zoo.</Overview>
   <ProductionCode>7ACV15</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.8</Rating>
   <RatingCount>48</RatingCount>
+=======
+  <Rating>7.7</Rating>
+  <RatingCount>47</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>Eric Rogers</Writer>
   <absolute_number></absolute_number>
@@ -3783,8 +3966,13 @@
   <Language>en</Language>
   <Overview>Bender meets his hero, a famous folksinger who has been in jail 30 times, and wants to duplicate his success. This means duplicating his guitar too, which he tries to steal from a maximum-security prison, but fails, so instead resorts to 3D-printing technology to duplicate the guitar — again resulting in horrible consequences.</Overview>
   <ProductionCode>7ACV17</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.0</Rating>
   <RatingCount>41</RatingCount>
+=======
+  <Rating>7.1</Rating>
+  <RatingCount>39</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>Ken Keeler</Writer>
   <absolute_number></absolute_number>
@@ -3815,7 +4003,11 @@
   <Overview>Bender becomes a famous firefighter, but the crew suspects him of arson.</Overview>
   <ProductionCode>7ACV18</ProductionCode>
   <Rating>7.5</Rating>
+<<<<<<< HEAD
   <RatingCount>37</RatingCount>
+=======
+  <RatingCount>35</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>Dan Vebber</Writer>
   <absolute_number></absolute_number>
@@ -3845,8 +4037,13 @@
   <Language>en</Language>
   <Overview>The Futurama gang stars in a trio of craptastic morning cartoons.</Overview>
   <ProductionCode>7ACV19</ProductionCode>
+<<<<<<< HEAD
   <Rating>6.5</Rating>
   <RatingCount>44</RatingCount>
+=======
+  <Rating>6.6</Rating>
+  <RatingCount>42</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>Patric M. Verrone</Writer>
   <absolute_number></absolute_number>
@@ -3877,7 +4074,11 @@
   <Overview>When Fry and Bender go to Robot Hell to retrieve Calculon's soul, the Robot Devil is surprisingly eager to give them what they want.</Overview>
   <ProductionCode>7ACV20</ProductionCode>
   <Rating>7.4</Rating>
+<<<<<<< HEAD
   <RatingCount>40</RatingCount>
+=======
+  <RatingCount>39</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>Lewis Morton</Writer>
   <absolute_number></absolute_number>
@@ -3908,7 +4109,11 @@
   <Overview>Bender looks for his rear end all over the universe.</Overview>
   <ProductionCode>7ACV21</ProductionCode>
   <Rating>7.3</Rating>
+<<<<<<< HEAD
   <RatingCount>40</RatingCount>
+=======
+  <RatingCount>39</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>Maiya Williams</Writer>
   <absolute_number></absolute_number>
@@ -3939,7 +4144,11 @@
   <Overview>Leela grows tentacles due to a rare condition, and stumbles upon a secret genetic engineering lab.</Overview>
   <ProductionCode>7ACV22</ProductionCode>
   <Rating>7.2</Rating>
+<<<<<<< HEAD
   <RatingCount>42</RatingCount>
+=======
+  <RatingCount>41</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>Eric Horsted</Writer>
   <absolute_number></absolute_number>
@@ -3969,8 +4178,13 @@
   <Language>en</Language>
   <Overview>The Planet Express crew journeys into Fry's dreams to pull off a mission in the year 1999.</Overview>
   <ProductionCode>7ACV23</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.7</Rating>
   <RatingCount>41</RatingCount>
+=======
+  <Rating>7.8</Rating>
+  <RatingCount>38</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>Michael Rowe</Writer>
   <absolute_number></absolute_number>
@@ -4001,12 +4215,20 @@
   <Overview>During a team-building exercise, the crew get trapped aboard the Planet Express ship with a horrific alien creature.</Overview>
   <ProductionCode>7ACV24</ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>39</RatingCount>
+=======
+  <RatingCount>36</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>Lewis Morton</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73871/4515509.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1415482365</lastupdated>
+=======
+  <lastupdated>1414508397</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>468993</seasonid>
   <seriesid>73871</seriesid>
   <thumb_added>2013-08-20 11:43:35</thumb_added>
@@ -4031,13 +4253,22 @@
   <Language>en</Language>
   <Overview>A flower stand owner falls in love with Doctor Zoidberg, unable to smell his unpleasant odor due to being born without a sense of smell. Their budding romance is challenged when Zoidberg has the opportunity to give her a nose transplant and restore her sense of smell.</Overview>
   <ProductionCode>7ACV25</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.7</Rating>
   <RatingCount>35</RatingCount>
+=======
+  <Rating>7.8</Rating>
+  <RatingCount>33</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>Eric Horsted</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73871/4515511.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1415482389</lastupdated>
+=======
+  <lastupdated>1414508408</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>468993</seasonid>
   <seriesid>73871</seriesid>
   <thumb_added>2013-08-28 11:38:13</thumb_added>
@@ -4062,13 +4293,22 @@
   <Language>en</Language>
   <Overview>Professor Farnsworth invents a button that can take a person 10 seconds back in time, inadvertently causing major consequences.</Overview>
   <ProductionCode>7ACV26</ProductionCode>
+<<<<<<< HEAD
   <Rating>8.5</Rating>
   <RatingCount>40</RatingCount>
+=======
+  <Rating>8.4</Rating>
+  <RatingCount>37</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>Ken Keeler</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/73871/4515513.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1415482413</lastupdated>
+=======
+  <lastupdated>1414508417</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>468993</seasonid>
   <seriesid>73871</seriesid>
   <thumb_added>2014-08-17 16:14:12</thumb_added>

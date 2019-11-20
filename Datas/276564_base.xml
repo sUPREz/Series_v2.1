@@ -2,9 +2,15 @@
 <Data>
   <Series>
     <id>276564</id>
+<<<<<<< HEAD
     <Actors>|Corey Stoll|David Bradley|Mia Maestro|Sean Astin|Richard Sammel|Natalie Brown|Miguel Gomez|Jonathan Hyde|Jack Kesy|Ben Hyland|Kevin Durand|</Actors>
     <Airs_DayOfWeek>Sunday</Airs_DayOfWeek>
     <Airs_Time>10:00 PM</Airs_Time>
+=======
+    <Actors>|Corey Stoll|David Bradley|Sean Astin|Richard Sammel|Natalie Brown|Miguel Gomez|Mia Maestro|Jonathan Hyde|Jack Kesy|Ben Hyland|Kevin Durand|</Actors>
+    <Airs_DayOfWeek>Sunday</Airs_DayOfWeek>
+    <Airs_Time>10:00 pm</Airs_Time>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <ContentRating>TV-14</ContentRating>
     <FirstAired>2014-07-13</FirstAired>
     <Genre>|Drama|Horror|</Genre>
@@ -13,18 +19,30 @@
     <Network>FX</Network>
     <NetworkID></NetworkID>
     <Overview>The Strain is a high concept thriller that tells the story of Dr. Ephraim Goodweather, the head of the Center for Disease Control Canary Team in New York City. He and his team are called upon to investigate a mysterious viral outbreak with hallmarks of an ancient and evil strain of vampirism. As the strain spreads, Eph, his team, and an assembly of everyday New Yorkers, wage war for the fate of humanity itself.</Overview>
+<<<<<<< HEAD
     <Rating>8.0</Rating>
     <RatingCount>46</RatingCount>
+=======
+    <Rating>7.8</Rating>
+    <RatingCount>32</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <Runtime>60</Runtime>
     <SeriesID>179638</SeriesID>
     <SeriesName>The Strain</SeriesName>
     <Status>Continuing</Status>
     <added>2013-12-26 18:25:50</added>
     <addedBy>10110</addedBy>
+<<<<<<< HEAD
     <banner>graphical/276564-g10.jpg</banner>
     <fanart>fanart/original/276564-16.jpg</fanart>
     <lastupdated>1434806850</lastupdated>
     <poster>posters/276564-5.jpg</poster>
+=======
+    <banner>graphical/276564-g.jpg</banner>
+    <fanart>fanart/original/276564-16.jpg</fanart>
+    <lastupdated>1414703092</lastupdated>
+    <poster>posters/276564-4.jpg</poster>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <tms_wanted_old>0</tms_wanted_old>
     <zap2it_id>SH01836850</zap2it_id>
   </Series>

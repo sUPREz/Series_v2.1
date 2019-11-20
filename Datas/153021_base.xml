@@ -2,7 +2,11 @@
 <Data>
   <Series>
     <id>153021</id>
+<<<<<<< HEAD
     <Actors>|Andrew Lincoln|Norman Reedus|Steven Yeun|Chandler Riggs|Danai Gurira|Josh McDermitt|Christian Serratos|Michael Cudlitz|Alanna Masterson|Lawrence Gilliard Jr.|Dallas Roberts|Chad L. Coleman|Sonequa Martin-Green|Melissa McBride|David Morrissey|Michael Rooker|Emily Kinney|Scott Wilson|Irone Singleton|Lauren Cohan|Emma Bell|Laurie Holden|Jeffrey DeMunn|Jon Bernthal|Sarah Wayne Callies|</Actors>
+=======
+    <Actors>|Andrew Lincoln|Steven Yeun|Chandler Riggs|Danai Gurira|Norman Reedus|Josh McDermitt|Christian Serratos|Michael Cudlitz|Alanna Masterson|Lawrence Gilliard Jr.|Dallas Roberts|Chad L. Coleman|Sonequa Martin-Green|Melissa McBride|David Morrissey|Michael Rooker|Emily Kinney|Scott Wilson|Irone Singleton|Lauren Cohan|Emma Bell|Laurie Holden|Jeffrey DeMunn|Jon Bernthal|Sarah Wayne Callies|</Actors>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <Airs_DayOfWeek>Sunday</Airs_DayOfWeek>
     <Airs_Time>9:00 PM</Airs_Time>
     <ContentRating>TV-MA</ContentRating>
@@ -15,17 +19,28 @@
     <Overview>The world we knew is gone. An epidemic of apocalyptic proportions has swept the globe causing the dead to rise and feed on the living. In a matter of months society has crumbled. In a world ruled by the dead, we are forced to finally start living. Based on a comic book series of the same name by Robert Kirkman, this AMC project focuses on the world after a zombie apocalypse. The series follows a police officer, Rick Grimes, who wakes up from a coma to find the world ravaged with zombies. Looking for his family, he and a group of survivors attempt to battle against the zombies in order to stay alive.
 </Overview>
     <Rating>8.9</Rating>
+<<<<<<< HEAD
     <RatingCount>656</RatingCount>
     <Runtime>45</Runtime>
+=======
+    <RatingCount>569</RatingCount>
+    <Runtime>60</Runtime>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <SeriesID></SeriesID>
     <SeriesName>The Walking Dead</SeriesName>
     <Status>Continuing</Status>
     <added>2010-03-30 01:30:16</added>
     <addedBy>76261</addedBy>
     <banner>graphical/153021-g32.jpg</banner>
+<<<<<<< HEAD
     <fanart>fanart/original/153021-46.jpg</fanart>
     <lastupdated>1435009348</lastupdated>
     <poster>posters/153021-31.jpg</poster>
+=======
+    <fanart>fanart/original/153021-11.jpg</fanart>
+    <lastupdated>1415049271</lastupdated>
+    <poster>posters/153021-8.jpg</poster>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <tms_wanted_old>1</tms_wanted_old>
     <zap2it_id>SH01324002</zap2it_id>
   </Series>

@@ -12,17 +12,28 @@
   <Network>Adult Swim</Network>
   <NetworkID></NetworkID>
   <Overview>A sociopathic scientist drags his unintelligent grandson on insanely dangerous adventures across the universe.</Overview>
+<<<<<<< HEAD
   <Rating>9.0</Rating>
   <RatingCount>25</RatingCount>
+=======
+  <Rating>8.9</Rating>
+  <RatingCount>20</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <Runtime>25</Runtime>
   <SeriesID></SeriesID>
   <SeriesName>Rick and Morty</SeriesName>
   <Status>Continuing</Status>
   <added>2013-11-13 09:41:13</added>
   <addedBy>346515</addedBy>
+<<<<<<< HEAD
   <banner>graphical/275274-g6.jpg</banner>
   <fanart>fanart/original/275274-9.jpg</fanart>
   <lastupdated>1432663709</lastupdated>
+=======
+  <banner>graphical/275274-g5.jpg</banner>
+  <fanart>fanart/original/275274-2.jpg</fanart>
+  <lastupdated>1414984499</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <poster>posters/275274-2.jpg</poster>
   <tms_wanted_old>0</tms_wanted_old>
   <zap2it_id>EP01833673</zap2it_id>
@@ -203,6 +214,43 @@ By Justin Roiland and Kelsy Abbott</Overview>
   <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
+<<<<<<< HEAD
+=======
+  <id>5001291</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Season 1 Blu-Ray Promo w/R&amp;M Puppets</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Rick and Morty Summon Mr. Meeseeks for a Very Important Task.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>1</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/275274/5001291.jpg</filename>
+  <lastupdated>1411592311</lastupdated>
+  <seasonid>567214</seasonid>
+  <seriesid>275274</seriesid>
+  <thumb_added>2014-09-24 13:57:41</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <id>5014929</id>
   <Combined_episodenumber>7</Combined_episodenumber>
   <Combined_season>0</Combined_season>
@@ -253,6 +301,7 @@ By Justin Roiland and Kelsy Abbott</Overview>
   <IMDB_ID>tt2169080</IMDB_ID>
   <Language>en</Language>
   <Overview>Rick moves in with his daughter's family and establishes himself as a bad influence on his grandson, Morty.</Overview>
+<<<<<<< HEAD
   <ProductionCode>RAM100</ProductionCode>
   <Rating>8.1</Rating>
   <RatingCount>10</RatingCount>
@@ -261,6 +310,16 @@ By Justin Roiland and Kelsy Abbott</Overview>
   <absolute_number>1</absolute_number>
   <filename>episodes/275274/4711142.jpg</filename>
   <lastupdated>1432578642</lastupdated>
+=======
+  <ProductionCode></ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>9</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Dan Harmon &amp; Justin Roiland</Writer>
+  <absolute_number>1</absolute_number>
+  <filename>episodes/275274/4711142.jpg</filename>
+  <lastupdated>1413475033</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>567215</seasonid>
   <seriesid>275274</seriesid>
   <thumb_added>2013-11-28 02:11:25</thumb_added>
@@ -280,6 +339,7 @@ By Justin Roiland and Kelsy Abbott</Overview>
   <EpisodeName>Lawnmower Dog</EpisodeName>
   <EpisodeNumber>2</EpisodeNumber>
   <FirstAired>2013-12-09</FirstAired>
+<<<<<<< HEAD
   <GuestStars>Rob Paulsen|Jess Harnell</GuestStars>
   <IMDB_ID>tt3333824</IMDB_ID>
   <Language>en</Language>
@@ -287,11 +347,24 @@ By Justin Roiland and Kelsy Abbott</Overview>
   <ProductionCode>RAM101</ProductionCode>
   <Rating>8.2</Rating>
   <RatingCount>9</RatingCount>
+=======
+  <GuestStars>Rob Paulsen, Jess Harnell</GuestStars>
+  <IMDB_ID>tt3333824</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Rick and Morty try to incept Morty's math teacher into giving Morty an 'A'.  Meanwhile 'Snowball' plots world domination.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.3</Rating>
+  <RatingCount>7</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Ryan Ridley</Writer>
   <absolute_number>2</absolute_number>
   <filename>episodes/275274/4725805.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1432578674</lastupdated>
+=======
+  <lastupdated>1413501460</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>567215</seasonid>
   <seriesid>275274</seriesid>
   <thumb_added>2013-12-10 11:24:00</thumb_added>
@@ -311,6 +384,7 @@ By Justin Roiland and Kelsy Abbott</Overview>
   <EpisodeName>Anatomy Park</EpisodeName>
   <EpisodeNumber>3</EpisodeNumber>
   <FirstAired>2013-12-16</FirstAired>
+<<<<<<< HEAD
   <GuestStars>Dana Carvey|John Oliver</GuestStars>
   <IMDB_ID>tt3333828</IMDB_ID>
   <Language>en</Language>
@@ -323,6 +397,20 @@ By Justin Roiland and Kelsy Abbott</Overview>
   <absolute_number>3</absolute_number>
   <filename>episodes/275274/4730467.jpg</filename>
   <lastupdated>1432578706</lastupdated>
+=======
+  <GuestStars>Dana Carvey, John Oliver</GuestStars>
+  <IMDB_ID>tt3333828</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Christmas day, Rick's friend, Reuben, comes over for his annual medical checkup.  Meanwhile Jerry learns his parents have a new friend.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>9</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Eric Acosta &amp; Wade Randolph</Writer>
+  <absolute_number>3</absolute_number>
+  <filename>episodes/275274/4730467.jpg</filename>
+  <lastupdated>1413501653</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>567215</seasonid>
   <seriesid>275274</seriesid>
   <thumb_added>2013-12-16 19:33:03</thumb_added>
@@ -345,15 +433,26 @@ By Justin Roiland and Kelsy Abbott</Overview>
   <GuestStars>David Cross</GuestStars>
   <IMDB_ID>tt3333830</IMDB_ID>
   <Language>en</Language>
+<<<<<<< HEAD
   <Overview>Rick and Morty try to get to the bottom of a mystery in this M. Night Shyamalan style twistaroony of an episode!</Overview>
   <ProductionCode>RAM103</ProductionCode>
   <Rating>8.4</Rating>
   <RatingCount>11</RatingCount>
+=======
+  <Overview>Rick and Morty try to get to the bottom of a mystery in this M. Night Shamyaloin style twistaroony of an episode!</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.4</Rating>
+  <RatingCount>9</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Tom Kauffman</Writer>
   <absolute_number>4</absolute_number>
   <filename>episodes/275274/4743885.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1432578740</lastupdated>
+=======
+  <lastupdated>1413475121</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>567215</seasonid>
   <seriesid>275274</seriesid>
   <thumb_added>2014-01-13 15:55:41</thumb_added>
@@ -376,15 +475,26 @@ By Justin Roiland and Kelsy Abbott</Overview>
   <GuestStars>Tom Kenny</GuestStars>
   <IMDB_ID>tt3333832</IMDB_ID>
   <Language>en</Language>
+<<<<<<< HEAD
   <Overview>When Morty thinks Rick's adventures are too dangerous, he challenges Rick to let him lead one instead.</Overview>
   <ProductionCode>RAM104</ProductionCode>
   <Rating>8.8</Rating>
   <RatingCount>9</RatingCount>
+=======
+  <Overview>Morty thinks Rick's adventures are too dangerous and they go on one when he's in charge.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.5</Rating>
+  <RatingCount>6</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Ryan Ridley</Writer>
   <absolute_number>5</absolute_number>
   <filename>episodes/275274/4743886.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1432578775</lastupdated>
+=======
+  <lastupdated>1413475201</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>567215</seasonid>
   <seriesid>275274</seriesid>
   <thumb_added>2014-01-20 13:04:14</thumb_added>
@@ -408,14 +518,24 @@ By Justin Roiland and Kelsy Abbott</Overview>
   <IMDB_ID>tt3333834</IMDB_ID>
   <Language>en</Language>
   <Overview>Rick helps Morty woo his dream girl.</Overview>
+<<<<<<< HEAD
   <ProductionCode>RAM102</ProductionCode>
   <Rating>8.4</Rating>
   <RatingCount>10</RatingCount>
+=======
+  <ProductionCode></ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>7</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Justin Roiland</Writer>
   <absolute_number>6</absolute_number>
   <filename>episodes/275274/4743887.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1432578823</lastupdated>
+=======
+  <lastupdated>1413475238</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>567215</seasonid>
   <seriesid>275274</seriesid>
   <thumb_added>2014-01-27 18:13:22</thumb_added>
@@ -424,17 +544,27 @@ By Justin Roiland and Kelsy Abbott</Overview>
 </Episode>
 <Episode>
   <id>4743888</id>
+<<<<<<< HEAD
   <Combined_episodenumber>7.0</Combined_episodenumber>
   <Combined_season>1</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>7.0</DVD_episodenumber>
   <DVD_season>1</DVD_season>
+=======
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <Director>Jeff Myers</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Raising Gazorpazorp</EpisodeName>
   <EpisodeNumber>7</EpisodeNumber>
   <FirstAired>2014-03-10</FirstAired>
+<<<<<<< HEAD
   <GuestStars>Claudia Black|Richard Christy|Virginia Hey</GuestStars>
   <IMDB_ID>tt3333836</IMDB_ID>
   <Language>en</Language>
@@ -447,6 +577,20 @@ By Justin Roiland and Kelsy Abbott</Overview>
   <absolute_number>7</absolute_number>
   <filename>episodes/275274/4743888.jpg</filename>
   <lastupdated>1432578926</lastupdated>
+=======
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3333836</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Morty convinces Rick to buy him a sexy robot.  Later Rick and Summer spend some quality time together.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.9</Rating>
+  <RatingCount>7</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Eric Acosta &amp; Wade Randolph</Writer>
+  <absolute_number>7</absolute_number>
+  <filename>episodes/275274/4743888.jpg</filename>
+  <lastupdated>1413501515</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>567215</seasonid>
   <seriesid>275274</seriesid>
   <thumb_added>2014-03-07 15:01:13</thumb_added>
@@ -455,12 +599,21 @@ By Justin Roiland and Kelsy Abbott</Overview>
 </Episode>
 <Episode>
   <id>4743889</id>
+<<<<<<< HEAD
   <Combined_episodenumber>8.0</Combined_episodenumber>
   <Combined_season>1</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>8.0</DVD_episodenumber>
   <DVD_season>1</DVD_season>
+=======
+  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <Director>Bryan Newton</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Rixty Minutes</EpisodeName>
@@ -469,6 +622,7 @@ By Justin Roiland and Kelsy Abbott</Overview>
   <GuestStars></GuestStars>
   <IMDB_ID>tt3333838</IMDB_ID>
   <Language>en</Language>
+<<<<<<< HEAD
   <Overview>Rick hacks the cable box, but the family are distracted by another one of his inventions.</Overview>
   <ProductionCode>RAM108</ProductionCode>
   <Rating>8.8</Rating>
@@ -478,6 +632,17 @@ By Justin Roiland and Kelsy Abbott</Overview>
   <absolute_number>8</absolute_number>
   <filename>episodes/275274/4743889.jpg</filename>
   <lastupdated>1432578963</lastupdated>
+=======
+  <Overview>Rick hacks the cable box, but the family are distracted by another invention.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.9</Rating>
+  <RatingCount>9</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Tom Kauffman &amp; Justin Roiland</Writer>
+  <absolute_number>8</absolute_number>
+  <filename>episodes/275274/4743889.jpg</filename>
+  <lastupdated>1413475314</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>567215</seasonid>
   <seriesid>275274</seriesid>
   <thumb_added>2014-03-17 20:26:51</thumb_added>
@@ -486,17 +651,27 @@ By Justin Roiland and Kelsy Abbott</Overview>
 </Episode>
 <Episode>
   <id>4743890</id>
+<<<<<<< HEAD
   <Combined_episodenumber>8.0</Combined_episodenumber>
   <Combined_season>1</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>8.0</DVD_episodenumber>
   <DVD_season>1</DVD_season>
+=======
+  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <Director>John Rice</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Something Ricked This Way Comes</EpisodeName>
   <EpisodeNumber>9</EpisodeNumber>
   <FirstAired>2014-03-24</FirstAired>
+<<<<<<< HEAD
   <GuestStars>Alfred Molina|Rich Fulcher|Nolan North</GuestStars>
   <IMDB_ID>tt3333840</IMDB_ID>
   <Language>en</Language>
@@ -504,11 +679,24 @@ By Justin Roiland and Kelsy Abbott</Overview>
   <ProductionCode>RAM109</ProductionCode>
   <Rating>9.2</Rating>
   <RatingCount>9</RatingCount>
+=======
+  <GuestStars>Alfred Molina</GuestStars>
+  <IMDB_ID>tt3333840</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Rick battles the devil and upsets Summer. Meanwhile, Jerry and Morty hang out.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>9.4</Rating>
+  <RatingCount>7</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Mike McMahan</Writer>
   <absolute_number>9</absolute_number>
   <filename>episodes/275274/4743890.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1432579011</lastupdated>
+=======
+  <lastupdated>1413475374</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>567215</seasonid>
   <seriesid>275274</seriesid>
   <thumb_added>2014-03-24 11:49:25</thumb_added>
@@ -517,12 +705,21 @@ By Justin Roiland and Kelsy Abbott</Overview>
 </Episode>
 <Episode>
   <id>4743891</id>
+<<<<<<< HEAD
   <Combined_episodenumber>10.0</Combined_episodenumber>
   <Combined_season>1</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
   <DVD_episodenumber>10.0</DVD_episodenumber>
   <DVD_season>1</DVD_season>
+=======
+  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <Director>Stephen Sandoval</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Close Rick-Counters of the Rick Kind</EpisodeName>
@@ -532,14 +729,24 @@ By Justin Roiland and Kelsy Abbott</Overview>
   <IMDB_ID>tt3333846</IMDB_ID>
   <Language>en</Language>
   <Overview>Rick and Morty have a falling out when Rick is approached by some familiar associates.</Overview>
+<<<<<<< HEAD
   <ProductionCode>RAM106</ProductionCode>
   <Rating>8.4</Rating>
   <RatingCount>9</RatingCount>
+=======
+  <ProductionCode></ProductionCode>
+  <Rating>9.0</Rating>
+  <RatingCount>5</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Ryan Ridley</Writer>
   <absolute_number>10</absolute_number>
   <filename>episodes/275274/4743891.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1432579049</lastupdated>
+=======
+  <lastupdated>1413501586</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>567215</seasonid>
   <seriesid>275274</seriesid>
   <thumb_added>2014-04-07 20:55:30</thumb_added>
@@ -548,6 +755,7 @@ By Justin Roiland and Kelsy Abbott</Overview>
 </Episode>
 <Episode>
   <id>4743892</id>
+<<<<<<< HEAD
   <Combined_episodenumber>11.0</Combined_episodenumber>
   <Combined_season>1</Combined_season>
   <DVD_chapter></DVD_chapter>
@@ -555,6 +763,15 @@ By Justin Roiland and Kelsy Abbott</Overview>
   <DVD_episodenumber>11.0</DVD_episodenumber>
   <DVD_season>1</DVD_season>
   <Director>Stephen Sandoval</Director>
+=======
+  <Combined_episodenumber>11</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Ricksy Business</EpisodeName>
   <EpisodeNumber>11</EpisodeNumber>
@@ -563,6 +780,7 @@ By Justin Roiland and Kelsy Abbott</Overview>
   <IMDB_ID>tt3333854</IMDB_ID>
   <Language>en</Language>
   <Overview>Beth and Jerry go away on a trip, so Rick decides to throw a party.</Overview>
+<<<<<<< HEAD
   <ProductionCode>RAM110</ProductionCode>
   <Rating>8.7</Rating>
   <RatingCount>7</RatingCount>
@@ -571,12 +789,23 @@ By Justin Roiland and Kelsy Abbott</Overview>
   <absolute_number>11</absolute_number>
   <filename>episodes/275274/4743892.jpg</filename>
   <lastupdated>1432579071</lastupdated>
+=======
+  <ProductionCode></ProductionCode>
+  <Rating>8.8</Rating>
+  <RatingCount>5</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>11</absolute_number>
+  <filename>episodes/275274/4743892.jpg</filename>
+  <lastupdated>1413475449</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>567215</seasonid>
   <seriesid>275274</seriesid>
   <thumb_added>2014-04-14 23:06:52</thumb_added>
   <thumb_height>225</thumb_height>
   <thumb_width>400</thumb_width>
 </Episode>
+<<<<<<< HEAD
 <Episode>
   <id>5225680</id>
   <Combined_episodenumber>1</Combined_episodenumber>
@@ -608,4 +837,6 @@ By Justin Roiland and Kelsy Abbott</Overview>
   <thumb_height></thumb_height>
   <thumb_width></thumb_width>
 </Episode>
+=======
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
 </Data>

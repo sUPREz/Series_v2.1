@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Data><Series>
   <id>250487</id>
+<<<<<<< HEAD
   <Actors>|Evan Peters (Season 4)|Sarah Paulson  (Season 4)|Jessica Lange  (Season 4)|Kathy Bates (Season 4)|Michael Chiklis|Emma Roberts (Season 4)|Angela Bassett (Season 4)|Finn Wittrock |Frances Conroy (Season 4)|Denis O'Hare (Season 4)|Jamie Brewer (Season 4)|Neil Patrick Harris|Gabourey Sidibe (Season 4)|John Carroll Lynch|Rose Siggins|Patti LaBelle|Skyler Samuels|Wes Bentley|Jyoti Amge|Erika Ervin|Mat Fraser|Evan Peters  (Season 3)|Dylan McDermott|Sarah Paulson|Jamie Brewer|Denis O'Hare|Lily Rabe (Season 3)|Lily Rabe|Frances Hardman Conroy|Frances Conroy (Season 3)|Sarah Paulson (Season 3)|Danny Huston|Denis O'Hare (Season 3)|Frances Conroy (Season 3)|Jessica Lange (Season 3)|Taissa Farmiga (Season 3)|Alexander Dreymon|Patti LuPone|Teddy Sears|Riley Schmidt|Jenna Dewan-Tatum|Morris Chestnut|Britne Oldford|Matt Ross|Naomi Grossman|Josh Hamilton|Kate Mara|Gabourey Sidibe (Season 3)|Angela Bassett (Season 3)|Kathy Bates (Season 3)|Jamie Brewer (Season 3)|Emma Roberts (Season 3)|Clea Duvall|Adam Levine|Chloë Sevigny|Joseph Fiennes|Lizzie Brocheré|Zachary Quinto (Season 2)|Lily Rabe (Season 2)|Evan Peters (Season 2)|Sarah Paulson (Season 2)|James Cromwell|Jessica Lange (Season 2)|Alexandra Breckenridge|Connie Britton|Dylan McDermott|Jessica Lange|Zachary Quinto|Evan Peters|Taissa Farmiga|</Actors>
+=======
+  <Actors>|Jessica Lange|Sarah Paulson|Evan Peters|Taissa Farmiga|Angela Bassett|Kathy Bates|Emma Roberts|Clea Duvall|Adam Levine|Chloë Sevigny|Joseph Fiennes|Lizzie Brocheré|Zachary Quinto|Lily Rabe|James Cromwell|Alex Breckenridge|Denis O'Hare|Alexander Dreymon|Bodhi Schulz|Britne Oldford|Christine Estabrook|Connie Britton|Dylan McDermott|Evan Peters|Frances Conroy|Fredric Lehne|Gabourey Sidibe|Jamie Brewer|Jenna Dewan-Tatum|Jessica Lange|Josh Hamilton|Kai Schulz|Kate Mara|Matt Ross|Morris Chestnut|Naomi Grossman|Patti LuPone|Riley Schmidt|Teddy Sears|Zachary Quinto|</Actors>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <Airs_DayOfWeek>Wednesday</Airs_DayOfWeek>
   <Airs_Time>10:00 PM</Airs_Time>
   <ContentRating>TV-MA</ContentRating>
@@ -12,18 +16,31 @@
   <Network>FX</Network>
   <NetworkID></NetworkID>
   <Overview>American Horror Story is a horror-drama television franchise created and produced by Ryan Murphy and Brad Falchuk. Described as an anthology series, each season is conceived as a self-contained miniseries, following a disparate set of characters and settings, and a storyline with its own &quot;beginning, middle and end&quot;.</Overview>
+<<<<<<< HEAD
   <Rating>8.4</Rating>
   <RatingCount>143</RatingCount>
   <Runtime>55</Runtime>
+=======
+  <Rating>8.5</Rating>
+  <RatingCount>124</RatingCount>
+  <Runtime>60</Runtime>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeriesID>81011</SeriesID>
   <SeriesName>American Horror Story</SeriesName>
   <Status>Continuing</Status>
   <added>2011-07-26 07:19:34</added>
   <addedBy>346503</addedBy>
+<<<<<<< HEAD
   <banner>graphical/250487-g3.jpg</banner>
   <fanart>fanart/original/250487-18.jpg</fanart>
   <lastupdated>1434760374</lastupdated>
   <poster>posters/250487-22.jpg</poster>
+=======
+  <banner>graphical/250487-g21.jpg</banner>
+  <fanart>fanart/original/250487-14.jpg</fanart>
+  <lastupdated>1414983545</lastupdated>
+  <poster>posters/250487-18.jpg</poster>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>EP01605266</zap2it_id>
 </Series>
@@ -46,12 +63,20 @@
   <Overview>A therapist and his family move across the country to escape their troubled past but quickly discover that their new home comes with its own horrific baggage.</Overview>
   <ProductionCode>1ATS79</ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>171</RatingCount>
+=======
+  <RatingCount>166</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Ryan Murphy|Brad Falchuk|</Writer>
   <absolute_number>1</absolute_number>
   <filename>episodes/250487/4147673.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1434230881</lastupdated>
+=======
+  <lastupdated>1408732450</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>471302</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added></thumb_added>
@@ -75,14 +100,24 @@
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>Vivien and Violet get themselves caught in a dangerous situation. Meanwhile, Ben goes back to Boston to fix a mistake that he made. </Overview>
+<<<<<<< HEAD
   <ProductionCode>1ATS01</ProductionCode>
   <Rating>7.6</Rating>
   <RatingCount>155</RatingCount>
+=======
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>152</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Ryan Murphy|Brad Falchuk|</Writer>
   <absolute_number>2</absolute_number>
   <filename>episodes/250487/4180231.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1434230897</lastupdated>
+=======
+  <lastupdated>1407356305</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>471302</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added></thumb_added>
@@ -108,12 +143,20 @@
   <Overview>Vivien learns the horrific truth about the house's first residents and Ben's visitor causes him to further unravel about what really happened in the haunted house. Constance and Moira have their history revealed.</Overview>
   <ProductionCode>1ATS02</ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>144</RatingCount>
+=======
+  <RatingCount>141</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Jennifer Salt</Writer>
   <absolute_number>3</absolute_number>
   <filename>episodes/250487/4183585.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1434230907</lastupdated>
+=======
+  <lastupdated>1407356344</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>471302</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added></thumb_added>
@@ -139,12 +182,20 @@
   <Overview>The line between the living and the dead blurs on Halloween. Two of the house's previous residents give the Harmons decorating advice.</Overview>
   <ProductionCode>1ATS03</ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>132</RatingCount>
+=======
+  <RatingCount>129</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>James Wong</Writer>
   <absolute_number>4</absolute_number>
   <filename>episodes/250487/4189066.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1434230915</lastupdated>
+=======
+  <lastupdated>1410071101</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>471302</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added></thumb_added>
@@ -170,12 +221,20 @@
   <Overview>Tate comes face to face with his past, and Ben and Vivien are haunted by a new houseguest before Halloween night comes to an end.</Overview>
   <ProductionCode>1ATS04</ProductionCode>
   <Rating>7.5</Rating>
+<<<<<<< HEAD
   <RatingCount>134</RatingCount>
+=======
+  <RatingCount>130</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Tim Minear</Writer>
   <absolute_number>5</absolute_number>
   <filename>episodes/250487/4191655.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1434230924</lastupdated>
+=======
+  <lastupdated>1410071107</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>471302</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added></thumb_added>
@@ -201,12 +260,20 @@
   <Overview>Constance enlists Violet's assistance with Tate. Ben helps a new patient confront his fears.</Overview>
   <ProductionCode>1ATS05</ProductionCode>
   <Rating>7.4</Rating>
+<<<<<<< HEAD
   <RatingCount>120</RatingCount>
+=======
+  <RatingCount>117</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Jessica Sharzer</Writer>
   <absolute_number>6</absolute_number>
   <filename>episodes/250487/4194085.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1434230933</lastupdated>
+=======
+  <lastupdated>1407356438</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>471302</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added></thumb_added>
@@ -232,12 +299,20 @@
   <Overview>Moira persuades a buyer to make an offer while Constance and Larry work against her efforts.</Overview>
   <ProductionCode>1ATS06</ProductionCode>
   <Rating>7.5</Rating>
+<<<<<<< HEAD
   <RatingCount>116</RatingCount>
+=======
+  <RatingCount>114</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Brad Falchuk</Writer>
   <absolute_number>7</absolute_number>
   <filename>episodes/250487/4194086.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1434230942</lastupdated>
+=======
+  <lastupdated>1407356474</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>471302</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added></thumb_added>
@@ -261,14 +336,24 @@
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>The man in the rubber suit is revealed.</Overview>
+<<<<<<< HEAD
   <ProductionCode>1ATS07</ProductionCode>
   <Rating>7.5</Rating>
   <RatingCount>107</RatingCount>
+=======
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>106</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Ryan Murphy</Writer>
   <absolute_number>8</absolute_number>
   <filename>episodes/250487/4195857.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1434230950</lastupdated>
+=======
+  <lastupdated>1407356504</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>471302</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added></thumb_added>
@@ -294,12 +379,20 @@
   <Overview>One of history's most famous murder victims pays the house a visit. Constance discovers more of Tate's bad behavior.</Overview>
   <ProductionCode>1ATS08</ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>106</RatingCount>
+=======
+  <RatingCount>105</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Jennifer Salt</Writer>
   <absolute_number>9</absolute_number>
   <filename>episodes/250487/4195858.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1423400519</lastupdated>
+=======
+  <lastupdated>1407356551</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>471302</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added></thumb_added>
@@ -323,14 +416,24 @@
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>Violet learns about the rules of the house. The truth about Larry's condition is explained. Constance is interrogated by the police.</Overview>
+<<<<<<< HEAD
   <ProductionCode>1ATS09</ProductionCode>
   <Rating>7.8</Rating>
   <RatingCount>106</RatingCount>
+=======
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>105</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>James Wong</Writer>
   <absolute_number>10</absolute_number>
   <filename>episodes/250487/4207785.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1434230968</lastupdated>
+=======
+  <lastupdated>1407356588</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>471302</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added></thumb_added>
@@ -356,12 +459,20 @@
   <Overview>Vivien gives birth. Tate and Violet attempt to rid the house of some of its ghosts for good.</Overview>
   <ProductionCode>1ATS10</ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>96</RatingCount>
+=======
+  <RatingCount>93</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Tim Minear</Writer>
   <absolute_number>11</absolute_number>
   <filename>episodes/250487/4207786.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1434230976</lastupdated>
+=======
+  <lastupdated>1407356631</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>471302</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added></thumb_added>
@@ -387,12 +498,20 @@
   <Overview>In the aftermath of family tragedy, Ben tries to take his child out of the Murder House. Meanwhile, Violet and Vivien accustom themselves to their new living arrangements, Constance raises Tate's child as her own and a new family buys the house.</Overview>
   <ProductionCode>1ATS11</ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>95</RatingCount>
+=======
+  <RatingCount>93</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Jessica Sharzer</Writer>
   <absolute_number>12</absolute_number>
   <filename>episodes/250487/4207787.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1423400570</lastupdated>
+=======
+  <lastupdated>1407356644</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>471302</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added></thumb_added>
@@ -418,12 +537,20 @@
   <Overview>Terrifying evils blur the boundaries between reality and insanity at the Briarcliff Manor.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>80</RatingCount>
+=======
+  <RatingCount>77</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Tim Minear</Writer>
   <absolute_number>13</absolute_number>
   <filename>episodes/250487/4386604.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1434231013</lastupdated>
+=======
+  <lastupdated>1407357309</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>497727</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added></thumb_added>
@@ -449,7 +576,11 @@
   <Overview>An exorcist is called to Briarcliff to help save a troubled farm boy; Sister Jude's darkest secret is revealed.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>77</RatingCount>
+=======
+  <RatingCount>75</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>James Wong</Writer>
   <absolute_number>14</absolute_number>
@@ -480,12 +611,20 @@
   <Overview>A violent storm allows a group of patients to plan a daring escape; Sister Jude is haunted by her past.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>75</RatingCount>
+=======
+  <RatingCount>74</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Jennifer Salt</Writer>
   <absolute_number>15</absolute_number>
   <filename>episodes/250487/4395925.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1434231028</lastupdated>
+=======
+  <lastupdated>1407357446</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>497727</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added></thumb_added>
@@ -511,12 +650,20 @@
   <Overview>A new patient exposes Arden's past; Kit learns why Grace was admitted to Briarcliff.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>76</RatingCount>
+=======
+  <RatingCount>75</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Jessica Sharzer</Writer>
   <absolute_number>16</absolute_number>
   <filename>episodes/250487/4395926.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1434231037</lastupdated>
+=======
+  <lastupdated>1410071059</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>497727</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added></thumb_added>
@@ -542,12 +689,20 @@
   <Overview>Sister Jude employs a renowned Nazi hunter to gather evidence against Arden; Kit makes a surprising confession; Bloody Face is unmasked.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.1</Rating>
+<<<<<<< HEAD
   <RatingCount>74</RatingCount>
+=======
+  <RatingCount>73</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Brad Falchuk</Writer>
   <absolute_number>17</absolute_number>
   <filename>episodes/250487/4395927.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1434231045</lastupdated>
+=======
+  <lastupdated>1410071067</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>497727</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added></thumb_added>
@@ -578,7 +733,11 @@
   <Writer>Ryan Murphy</Writer>
   <absolute_number>18</absolute_number>
   <filename>episodes/250487/4395928.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1434231054</lastupdated>
+=======
+  <lastupdated>1407357584</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>497727</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added></thumb_added>
@@ -604,12 +763,20 @@
   <Overview>Sister Mary Eunice is terrified to discover a dark angel at Briarcliff; Kit makes a bold move to be reunited with Grace.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
+<<<<<<< HEAD
   <RatingCount>69</RatingCount>
+=======
+  <RatingCount>67</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Tim Minear</Writer>
   <absolute_number>19</absolute_number>
   <filename>episodes/250487/4420013.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1434231061</lastupdated>
+=======
+  <lastupdated>1407357618</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>497727</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added></thumb_added>
@@ -635,12 +802,20 @@
   <Overview>A murderous Santa wreaks havoc on Briarcliff; Sister Jude faces off with the devil; Arden has a shocking encounter in the death chute.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>64</RatingCount>
+=======
+  <RatingCount>62</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>James Wong</Writer>
   <absolute_number>20</absolute_number>
   <filename>episodes/250487/4428050.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1434231069</lastupdated>
+=======
+  <lastupdated>1407357657</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>497727</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added></thumb_added>
@@ -666,12 +841,20 @@
   <Overview>The Monsignor takes an unlikely convert under his wing; Lana secures a new piece of evidence that can exonerate Kit; Dr. Arden witnesses a miraculous return.</Overview>
   <ProductionCode>2ATS09</ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>61</RatingCount>
+=======
+  <RatingCount>58</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Jennifer Salt</Writer>
   <absolute_number>21</absolute_number>
   <filename>episodes/250487/4428051.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1434231076</lastupdated>
+=======
+  <lastupdated>1407357697</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>497727</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added></thumb_added>
@@ -697,7 +880,11 @@
   <Overview>The Monsignor confronts the Devil. Dr. Arden’s experiments reach a shocking conclusion. Dr. Thredson facilitates a surprising reunion for Kit.</Overview>
   <ProductionCode>2ATS10</ProductionCode>
   <Rating>8.1</Rating>
+<<<<<<< HEAD
   <RatingCount>59</RatingCount>
+=======
+  <RatingCount>56</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Jessica Sharzer</Writer>
   <absolute_number>22</absolute_number>
@@ -728,12 +915,20 @@
   <Overview>Grace tells Kit devastating news about the aliens' experiments on Alma; Dr. Thredson receives an unexpected visitor; the Monsignor goes to extreme lengths to silence Jude.</Overview>
   <ProductionCode>2ATS11</ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>65</RatingCount>
+=======
+  <RatingCount>63</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Brad Falchuk</Writer>
   <absolute_number>23</absolute_number>
   <filename>episodes/250487/4428053.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1434231089</lastupdated>
+=======
+  <lastupdated>1407357867</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>497727</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added></thumb_added>
@@ -759,12 +954,20 @@
   <Overview>A deadly new inmate threatens Sister Jude's chance of release; Grace's obsession with the aliens turns violent.</Overview>
   <ProductionCode>2ATS12</ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>56</RatingCount>
+=======
+  <RatingCount>54</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Ryan Murphy</Writer>
   <absolute_number>24</absolute_number>
   <filename>episodes/250487/4428054.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1434231097</lastupdated>
+=======
+  <lastupdated>1407357916</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>497727</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added></thumb_added>
@@ -790,12 +993,20 @@
   <Overview>Johnny sets out to complete his father's work; Lana leads the charge to finally shut down Briarcliff.</Overview>
   <ProductionCode>2ATS13</ProductionCode>
   <Rating>7.9</Rating>
+<<<<<<< HEAD
   <RatingCount>57</RatingCount>
+=======
+  <RatingCount>55</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Tim Minear</Writer>
   <absolute_number>25</absolute_number>
   <filename>episodes/250487/4431749.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1434231103</lastupdated>
+=======
+  <lastupdated>1407357987</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>497727</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added></thumb_added>
@@ -821,12 +1032,20 @@
   <Overview>A young girl discovers she possesses a strange genetic affliction tracing back to the dark days of Salem; Fiona Goode returns to town.</Overview>
   <ProductionCode>3ATS01</ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>46</RatingCount>
+=======
+  <RatingCount>42</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Ryan Murphy|Brad Falchuk|</Writer>
   <absolute_number>26</absolute_number>
   <filename>episodes/250487/4558764.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1434231128</lastupdated>
+=======
+  <lastupdated>1407358130</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>518858</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added>2013-09-12 10:26:13</thumb_added>
@@ -852,7 +1071,11 @@
   <Overview>Fiona helps Zoe and Madison deal with a horrible tragedy; Delphine LaLaurie struggles to adjust to modern life; Cordelia faces a dark decision about her family.</Overview>
   <ProductionCode>3ATS02</ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>37</RatingCount>
+=======
+  <RatingCount>33</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>Tim Minear</Writer>
   <absolute_number>27</absolute_number>
@@ -883,12 +1106,20 @@
   <Overview>Fiona takes on an unlikely protégé; a guilt-ridden Zoe tries to give Kyle his old life back; Madison has a fiery exchange with Joan Ramsey.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
+<<<<<<< HEAD
   <RatingCount>41</RatingCount>
+=======
+  <RatingCount>37</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>James Wong</Writer>
   <absolute_number>28</absolute_number>
   <filename>episodes/250487/4626060.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1434231140</lastupdated>
+=======
+  <lastupdated>1407358267</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>518858</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added>2013-10-18 01:03:31</thumb_added>
@@ -913,8 +1144,13 @@
   <Language>en</Language>
   <Overview>Fiona's choices rattle a decades-long truce between the Salem witches and Marie Laveau; the Council of Witchcraft pays a surprise visit to the academy with disturbing allegations.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.9</Rating>
   <RatingCount>35</RatingCount>
+=======
+  <Rating>7.8</Rating>
+  <RatingCount>31</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>Jennifer Salt</Writer>
   <absolute_number>29</absolute_number>
@@ -945,12 +1181,20 @@
   <Overview>Besieged by Marie Laveau's army, Zoe unleashes a new power; Fiona and Myrtle clash over control of the coven; Madame LaLaurie is confronted by old ghosts.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
+<<<<<<< HEAD
   <RatingCount>38</RatingCount>
+=======
+  <RatingCount>33</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>Jessica Sharzer</Writer>
   <absolute_number>30</absolute_number>
   <filename>episodes/250487/4644381.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1434231151</lastupdated>
+=======
+  <lastupdated>1407358300</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>518858</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added>2013-11-01 13:04:24</thumb_added>
@@ -976,12 +1220,20 @@
   <Overview>Zoe, Queenie and Nan make contact with a dark spirit trapped in the academy; Cordelia's new power brings on a heartbreaking revelation.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
+<<<<<<< HEAD
   <RatingCount>28</RatingCount>
+=======
+  <RatingCount>24</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>Douglas Petrie</Writer>
   <absolute_number>31</absolute_number>
   <filename>episodes/250487/4665655.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1434231160</lastupdated>
+=======
+  <lastupdated>1407358320</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>518858</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added>2013-11-10 12:33:08</thumb_added>
@@ -1006,13 +1258,22 @@
   <Language>en</Language>
   <Overview>Fiona finds purpose in a dangerous love affair; Queenie questions her place in the Coven; Cordelia makes a decision about her mother.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.5</Rating>
   <RatingCount>35</RatingCount>
+=======
+  <Rating>7.4</Rating>
+  <RatingCount>31</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>Brad Falchuk</Writer>
   <absolute_number>32</absolute_number>
   <filename>episodes/250487/4671833.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1434231165</lastupdated>
+=======
+  <lastupdated>1407358336</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>518858</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added>2013-11-15 14:16:17</thumb_added>
@@ -1038,7 +1299,11 @@
   <Overview>Cordelia rallies the girls in the fight to stop Fiona; a dangerous new enemy puts Misty in the cross hairs; the rivalry between Marie Laveau and Delphine comes to a head.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>37</RatingCount>
+=======
+  <RatingCount>34</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>Ryan Murphy</Writer>
   <absolute_number>33</absolute_number>
@@ -1068,13 +1333,22 @@
   <Language>en</Language>
   <Overview>Cordelia’s attacker is revealed. Fiona looks to form an alliance with Marie Laveau. Nan learns a disturbing truth about Luke’s past.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.6</Rating>
   <RatingCount>30</RatingCount>
+=======
+  <Rating>7.5</Rating>
+  <RatingCount>26</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>Tim Minear</Writer>
   <absolute_number>34</absolute_number>
   <filename>episodes/250487/4708823.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1434231177</lastupdated>
+=======
+  <lastupdated>1407358368</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>518858</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added>2013-12-06 09:26:26</thumb_added>
@@ -1099,13 +1373,22 @@
   <Language>en</Language>
   <Overview>Fiona attempts to out the new supreme with a visit from Stevie Nicks; Cordelia learns the truth about Hank and the witch hunters; Madison tries to eliminate her competition for the supremacy.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.5</Rating>
   <RatingCount>37</RatingCount>
+=======
+  <Rating>7.4</Rating>
+  <RatingCount>33</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>|James Wong|</Writer>
   <absolute_number>35</absolute_number>
   <filename>episodes/250487/4708824.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1434231184</lastupdated>
+=======
+  <lastupdated>1407358390</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>518858</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added>2014-01-09 00:49:56</thumb_added>
@@ -1131,12 +1414,20 @@
   <Overview>Fiona and Laveau have a deadly face off with The Corporation; Cordelia makes a desperate sacrifice.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.2</Rating>
+<<<<<<< HEAD
   <RatingCount>26</RatingCount>
+=======
+  <RatingCount>23</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>Jennifer Salt</Writer>
   <absolute_number>36</absolute_number>
   <filename>episodes/250487/4708825.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1434231192</lastupdated>
+=======
+  <lastupdated>1407358409</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>518858</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added>2014-01-14 16:59:05</thumb_added>
@@ -1161,13 +1452,22 @@
   <Language>en</Language>
   <Overview>Cordelia's latest vision puts the coven's future in question; the girls manifest powerful new gifts; Queenie's search for Marie Laveau leads her to hell and back.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.5</Rating>
   <RatingCount>33</RatingCount>
+=======
+  <Rating>7.4</Rating>
+  <RatingCount>30</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>Jessica Sharzer</Writer>
   <absolute_number>37</absolute_number>
   <filename>episodes/250487/4708826.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1434231199</lastupdated>
+=======
+  <lastupdated>1407358430</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>518858</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added>2014-01-18 08:30:12</thumb_added>
@@ -1192,13 +1492,22 @@
   <Language>en</Language>
   <Overview>A new Supreme rises.</Overview>
   <ProductionCode>#313</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.8</Rating>
   <RatingCount>31</RatingCount>
+=======
+  <Rating>7.7</Rating>
+  <RatingCount>26</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>Douglas Petrie</Writer>
   <absolute_number>38</absolute_number>
   <filename>episodes/250487/4708827.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1434231206</lastupdated>
+=======
+  <lastupdated>1407358525</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>518858</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added>2014-01-25 17:09:39</thumb_added>
@@ -1223,13 +1532,22 @@
   <Language>en</Language>
   <Overview>One of the only surviving sideshows in the country struggles to stay in business during the dawning era of television; police make a terrifying discovery at a local farmhouse.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>8.0</Rating>
   <RatingCount>18</RatingCount>
+=======
+  <Rating>8.2</Rating>
+  <RatingCount>10</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Ryan Murphy|Brad Falchuk|</Writer>
   <absolute_number>39</absolute_number>
   <filename>episodes/250487/4964295.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1434231222</lastupdated>
+=======
+  <lastupdated>1413398445</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>593869</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added>2014-10-07 09:29:04</thumb_added>
@@ -1254,13 +1572,22 @@
   <Language>en</Language>
   <Overview>A citywide curfew threatens to shut down the freak show; a strongman from Ethel's troubled past arrives at camp; Gloria arranges a terrifying play date for Dandy; the Tattler Twins reveal a talent that could knock Elsa from the spotlight.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>8.1</Rating>
   <RatingCount>17</RatingCount>
+=======
+  <Rating>8.2</Rating>
+  <RatingCount>10</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Tim Minear|</Writer>
   <absolute_number>40</absolute_number>
   <filename>episodes/250487/4977788.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1434231230</lastupdated>
+=======
+  <lastupdated>1413702441</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>593869</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added>2014-10-09 07:52:06</thumb_added>
@@ -1285,13 +1612,22 @@
   <Language>en</Language>
   <Overview>The freaks refuse to perform on Halloween due to an old carny superstition; Jimmy is smitten by a woman claiming to be a fortuneteller; Ethel receives life-changing news.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.9</Rating>
   <RatingCount>13</RatingCount>
+=======
+  <Rating>8.2</Rating>
+  <RatingCount>5</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>|James Wong|</Writer>
   <absolute_number>41</absolute_number>
   <filename>episodes/250487/4977793.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1434231238</lastupdated>
+=======
+  <lastupdated>1414362417</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>593869</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added>2014-10-26 15:31:14</thumb_added>
@@ -1314,15 +1650,26 @@
   <GuestStars></GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
+<<<<<<< HEAD
   <Overview>Edward Mordrake continues his search for a Freak to add to his ghostly coterie; Elsa tells the grisly story of her days in Germany; Jimmy and Maggie have a run-in with the Twisted Clown. </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
   <RatingCount>14</RatingCount>
+=======
+  <Overview>Edward Mordrake continues his search for a Freak to add to his ghostly coterie. Elsa tells the grisly story of her days in Germany. Jimmy and Maggie have a run-in with the Twisted Clown. </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>2</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>Jennifer Salt</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/250487/4977795.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1434231244</lastupdated>
+=======
+  <lastupdated>1414352498</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>593869</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added>2014-10-22 13:38:51</thumb_added>
@@ -1345,18 +1692,32 @@
   <GuestStars></GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
+<<<<<<< HEAD
   <Overview>Stanley and Maggie hatch a plan to murder the Freaks; Gloria hides the evidence of Dandy's gruesome new hobby; a health scare reveals Desiree may not be the oddity she once thought.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
   <RatingCount>16</RatingCount>
+=======
+  <Overview>Stanley and Maggie hatch a plan to murder the Freaks. Gloria hides the evidence of Dandy's gruesome new hobby. A health scare reveals Desiree may not be the oddity she once thought.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>Jessica Sharzer</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/250487/4977797.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1434231253</lastupdated>
   <seasonid>593869</seasonid>
   <seriesid>250487</seriesid>
   <thumb_added>2014-11-06 17:32:43</thumb_added>
+=======
+  <lastupdated>1414683590</lastupdated>
+  <seasonid>593869</seasonid>
+  <seriesid>250487</seriesid>
+  <thumb_added>2014-10-30 08:39:50</thumb_added>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <thumb_height>225</thumb_height>
   <thumb_width>400</thumb_width>
 </Episode>
@@ -1369,11 +1730,16 @@
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
   <Director></Director>
+<<<<<<< HEAD
   <EpImgFlag>2</EpImgFlag>
+=======
+  <EpImgFlag></EpImgFlag>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <EpisodeName>Bullseye</EpisodeName>
   <EpisodeNumber>6</EpisodeNumber>
   <FirstAired>2014-11-12</FirstAired>
   <GuestStars></GuestStars>
+<<<<<<< HEAD
   <IMDB_ID>tt3687742</IMDB_ID>
   <Language>en</Language>
   <Overview>Elsa unveils a dangerous new act; Stanley puts pressure on Maggie to murder Jimmy; Paul indulges in a secret romance. </Overview>
@@ -1390,6 +1756,24 @@
   <thumb_added>2014-11-13 08:07:52</thumb_added>
   <thumb_height>225</thumb_height>
   <thumb_width>400</thumb_width>
+=======
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Elsa unveils a dangerous new act. Stanley puts pressure on Maggie to murder Jimmy. Paul indulges in a secret romance. </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1413441218</lastupdated>
+  <seasonid>593869</seasonid>
+  <seriesid>250487</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
 </Episode>
 <Episode>
   <id>5000975</id>
@@ -1400,11 +1784,16 @@
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
   <Director></Director>
+<<<<<<< HEAD
   <EpImgFlag>2</EpImgFlag>
+=======
+  <EpImgFlag></EpImgFlag>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <EpisodeName>Test of Strength</EpisodeName>
   <EpisodeNumber>7</EpisodeNumber>
   <FirstAired>2014-11-19</FirstAired>
   <GuestStars></GuestStars>
+<<<<<<< HEAD
   <IMDB_ID>tt3687732</IMDB_ID>
   <Language>en</Language>
   <Overview>The women of the Freak Show rally against Dell after his latest act of violence; a strange encounter with Dandy raises Jimmy’s suspicion about the clown murders.</Overview>
@@ -1421,6 +1810,24 @@
   <thumb_added>2014-11-13 08:06:01</thumb_added>
   <thumb_height>225</thumb_height>
   <thumb_width>400</thumb_width>
+=======
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>The women of the Freak Show rally against Dell after his latest act of violence. A strange encounter with Dandy raises Jimmy’s suspicion about the clown murders.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1414096243</lastupdated>
+  <seasonid>593869</seasonid>
+  <seriesid>250487</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
 </Episode>
 <Episode>
   <id>5018383</id>
@@ -1431,11 +1838,16 @@
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
   <Director></Director>
+<<<<<<< HEAD
   <EpImgFlag>2</EpImgFlag>
+=======
+  <EpImgFlag></EpImgFlag>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <EpisodeName>Blood Bath</EpisodeName>
   <EpisodeNumber>8</EpisodeNumber>
   <FirstAired>2014-12-03</FirstAired>
   <GuestStars></GuestStars>
+<<<<<<< HEAD
   <IMDB_ID>tt3687730</IMDB_ID>
   <Language>en</Language>
   <Overview>Recent disappearances around camp raise Ethel’s suspicion of Elsa; Gloria makes a last ditch effort to contain Dandy’s bloodlust.</Overview>
@@ -1452,6 +1864,24 @@
   <thumb_added>2014-11-21 12:54:51</thumb_added>
   <thumb_height>225</thumb_height>
   <thumb_width>400</thumb_width>
+=======
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1413977933</lastupdated>
+  <seasonid>593869</seasonid>
+  <seriesid>250487</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
 </Episode>
 <Episode>
   <id>5024360</id>
@@ -1461,14 +1891,21 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
+<<<<<<< HEAD
   <Director>Loni Peristere</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Tupperware Party Massacre</EpisodeName>
+=======
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>The Fat Lady Sings</EpisodeName>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <EpisodeNumber>9</EpisodeNumber>
   <FirstAired>2014-12-10</FirstAired>
   <GuestStars></GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
+<<<<<<< HEAD
   <Overview>In the wake of a tragic loss, Jimmy sinks into a drunken despair; a reading from Maggie spurs Dandy to action; Stanley and Elsa track down the Twins.</Overview>
   <ProductionCode>#409</ProductionCode>
   <Rating>7.5</Rating>
@@ -1608,5 +2045,21 @@
   <thumb_added>2015-01-15 13:12:43</thumb_added>
   <thumb_height>225</thumb_height>
   <thumb_width>400</thumb_width>
+=======
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1414188540</lastupdated>
+  <seasonid>593869</seasonid>
+  <seriesid>250487</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
 </Episode>
 </Data>

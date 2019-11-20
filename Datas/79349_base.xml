@@ -2,9 +2,15 @@
 <Data>
   <Series>
     <id>79349</id>
+<<<<<<< HEAD
     <Actors>|Michael C. Hall|Jennifer Carpenter|James Remar|Julie Benz|Lauren Vélez|David Zayas|Desmond Harrington|Keith Carradine|C.S. Lee|Christina Robinson|Erik King|Katia Winter|Billy Brown|Preston Bailey|Charlotte Rampling|Ray Stevenson|Jason Gedrick|Aimee Garcia|Josh Cooke|Yvonne Strahovski|Jonny Lee Miller|Colin Hanks|Edward James Olmos|Mos Def|Julia Stiles|Jimmy Smits|Jaime Murray|John Lithgow|Christian Camargo|</Actors>
     <Airs_DayOfWeek></Airs_DayOfWeek>
     <Airs_Time></Airs_Time>
+=======
+    <Actors>|Michael C. Hall|Jennifer Carpenter|James Remar|Julie Benz|Lauren Vélez|David Zayas|Charlotte Rampling|Desmond Harrington|Keith Carradine|C.S. Lee|Christina Robinson|Erik King|Ray Stevenson|Jason Gedrick|Josh Cooke|Yvonne Strahovski|Jonny Lee Miller|Colin Hanks|Edward James Olmos|Mos Def|Julia Stiles|Jimmy Smits|Jaime Murray|John Lithgow|Aimee Garcia|Christian Camargo|Preston Bailey|</Actors>
+    <Airs_DayOfWeek>Sunday</Airs_DayOfWeek>
+    <Airs_Time>9:00 PM</Airs_Time>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <ContentRating>TV-MA</ContentRating>
     <FirstAired>2006-10-01</FirstAired>
     <Genre>|Crime|Drama|Mystery|Suspense|Thriller|</Genre>
@@ -14,16 +20,26 @@
     <NetworkID></NetworkID>
     <Overview>He's smart, he's good looking, and he's got a great sense of humor. He's Dexter Morgan, everyone's favorite serial killer. As a Miami forensics expert, he spends his days solving crimes, and nights committing them. But Dexter lives by a strict code of honor that is both his saving grace and lifelong burden. Torn between his deadly compulsion and his desire for true happiness, Dexter is a man in profound conflict with the world and himself.</Overview>
     <Rating>9.2</Rating>
+<<<<<<< HEAD
     <RatingCount>1449</RatingCount>
+=======
+    <RatingCount>1392</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <Runtime>60</Runtime>
     <SeriesID>62683</SeriesID>
     <SeriesName>Dexter</SeriesName>
     <Status>Ended</Status>
     <added></added>
     <addedBy></addedBy>
+<<<<<<< HEAD
     <banner>graphical/79349-g28.jpg</banner>
     <fanart>fanart/original/79349-42.jpg</fanart>
     <lastupdated>1435032811</lastupdated>
+=======
+    <banner>graphical/79349-g7.jpg</banner>
+    <fanart>fanart/original/79349-22.jpg</fanart>
+    <lastupdated>1414961476</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <poster>posters/79349-24.jpg</poster>
     <tms_wanted_old>1</tms_wanted_old>
     <zap2it_id>EP00859795</zap2it_id>

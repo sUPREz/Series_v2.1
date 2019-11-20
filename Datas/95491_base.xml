@@ -2,7 +2,11 @@
 <Data>
   <Series>
     <id>95491</id>
+<<<<<<< HEAD
     <Actors>|Nina Dobrev|Paul Wesley|Ian Somerhalder|Matthew Davis|Michael Trevino|Zach Roerig|Steven R. McQueen|Katerina Graham|Candice Accola|Michael Malarkey|Marguerite MacIntyre|Claire Holt|Torrey DeVitto|Joseph Morgan|Daniel Gillies|Sara Canning|Jodi Lyn O'Keefe|</Actors>
+=======
+    <Actors>|Nina Dobrev|Paul Wesley|Ian Somerhalder|Matthew Davis|Michael Trevino|Zach Roerig|Steven R. McQueen|Katerina Graham|Candice Accola|Michael Malarkey|Marguerite MacIntyre|Claire Holt|Torrey DeVitto|Joseph Morgan|Daniel Gillies|Sara Canning|Penelope Mitchell|</Actors>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <Airs_DayOfWeek>Thursday</Airs_DayOfWeek>
     <Airs_Time>8:00 PM</Airs_Time>
     <ContentRating>TV-14</ContentRating>
@@ -14,7 +18,11 @@
     <NetworkID></NetworkID>
     <Overview>As the school year begins, Elena Gilbert is immediately drawn to a handsome and mysterious new student, Stefan Salvatore. Elena has no way of knowing that Stefan is a vampire struggling to live peacefully among humans, while his brother Damon is the embodiment of vampire violence and brutality.</Overview>
     <Rating>8.4</Rating>
+<<<<<<< HEAD
     <RatingCount>190</RatingCount>
+=======
+    <RatingCount>177</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <Runtime>60</Runtime>
     <SeriesID>76739</SeriesID>
     <SeriesName>The Vampire Diaries</SeriesName>
@@ -22,9 +30,15 @@
     <added>2009-05-22 03:09:12</added>
     <addedBy>5664</addedBy>
     <banner>text/95491.jpg</banner>
+<<<<<<< HEAD
     <fanart>fanart/original/95491-68.jpg</fanart>
     <lastupdated>1435010062</lastupdated>
     <poster>posters/95491-28.jpg</poster>
+=======
+    <fanart>fanart/original/95491-73.jpg</fanart>
+    <lastupdated>1415047493</lastupdated>
+    <poster>posters/95491-33.jpg</poster>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <tms_wanted_old>1</tms_wanted_old>
     <zap2it_id>EP01158752</zap2it_id>
   </Series>

@@ -2,7 +2,11 @@
 <Data>
   <Series>
     <id>248742</id>
+<<<<<<< HEAD
     <Actors>|Michael Emerson|Jim Caviezel|Amy Acker|Kevin Chapman|Sarah Shahi|Taraji P. Henson|Paige Turco|John Nolan|Enrico Colantoni|</Actors>
+=======
+    <Actors>|Michael Emerson|Jim Caviezel|Kevin Chapman|Amy Acker|Sarah Shahi|Enrico Colantoni|Taraji P. Henson|</Actors>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <Airs_DayOfWeek>Tuesday</Airs_DayOfWeek>
     <Airs_Time>10:00 PM</Airs_Time>
     <ContentRating>TV-14</ContentRating>
@@ -14,7 +18,11 @@
     <NetworkID></NetworkID>
     <Overview>Person of Interest is an American science fiction crime drama television series created for CBS by Jonathan Nolan, who serves as an executive producer alongside J.J. Abrams, Bryan Burk, and Greg Plageman. The series stars Jim Caviezel as John Reese, a presumed dead former CIA agent who is approached by a mysterious billionaire named Harold Finch (Michael Emerson) to prevent violent crimes before they happen by using an advanced surveillance system dubbed &quot;The Machine&quot;. Their unique brand of vigilante justice attracts the attention of two NYPD officers, Joss Carter (Taraji P. Henson) and Lionel Fusco (Kevin Chapman), whom Reese uses to his advantage as he investigates persons of interest. Reese and Finch are later aided by Samantha &quot;Root&quot; Groves (Amy Acker), a highly intelligent computer hacker and contract killer who the Machine later identifies as its &quot;analog interface&quot; and Sameen Shaw (Sarah Shahi), a former ISA assassin who unknowingly dealt with the &quot;relevant&quot; numbers found by the Machine.</Overview>
     <Rating>8.9</Rating>
+<<<<<<< HEAD
     <RatingCount>237</RatingCount>
+=======
+    <RatingCount>208</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <Runtime>60</Runtime>
     <SeriesID>80967</SeriesID>
     <SeriesName>Person of Interest</SeriesName>
@@ -23,7 +31,11 @@
     <addedBy>235881</addedBy>
     <banner>graphical/248742-g11.jpg</banner>
     <fanart>fanart/original/248742-21.jpg</fanart>
+<<<<<<< HEAD
     <lastupdated>1435010002</lastupdated>
+=======
+    <lastupdated>1415045857</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <poster>posters/248742-15.jpg</poster>
     <tms_wanted_old>1</tms_wanted_old>
     <zap2it_id>EP01419847</zap2it_id>

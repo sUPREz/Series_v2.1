@@ -12,8 +12,13 @@
   <Network>ABC Family</Network>
   <NetworkID></NetworkID>
   <Overview>Switched at Birth, a one-hour scripted drama, tells the story of two teenage girls who discover they were accidentally switched as newborns in the hospital. Bay Kennish grew up in a wealthy family with two parents and a brother, while Daphne Vasquez, who lost her hearing at an early age due to a case of meningitis, grew up with a single mother in a working-class neighborhood. Things come to a dramatic head when both families meet and struggle to learn how to live together for the sake of the girls.</Overview>
+<<<<<<< HEAD
   <Rating>7.9</Rating>
   <RatingCount>22</RatingCount>
+=======
+  <Rating>8.0</Rating>
+  <RatingCount>21</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <Runtime>60</Runtime>
   <SeriesID>80187</SeriesID>
   <SeriesName>Switched at Birth</SeriesName>
@@ -22,11 +27,49 @@
   <addedBy>134361</addedBy>
   <banner>graphical/247773-g3.jpg</banner>
   <fanart>fanart/original/247773-7.jpg</fanart>
+<<<<<<< HEAD
   <lastupdated>1435022127</lastupdated>
+=======
+  <lastupdated>1414137404</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <poster>posters/247773-3.jpg</poster>
   <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>SH01384566</zap2it_id>
 </Series>
+<Episode>
+  <id>4968070</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Michael Grossman</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Yuletide Fortune Tellers</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2014-12-08</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>As the holidays approach, Bay bristles at Kathryn’s festive holiday spirit, complete with homemade peanut brittle and Christmas karaoke, while Daphne is frustrated with Regina’s usual tradition of movies and Chinese food for Christmas. Then, after a joint family dinner including “magical” garlic knots, they wake to discover that the switch never happened. In this alternate life, Bay  is an Olympic hopeful and Daphne  is a successful artist with an upcoming exhibit. Is it the Christmas miracle they’ve always wanted? Could they even get back if they tried?</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer>Terrence Coli | Lizzy Weiss</Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>3</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1413840721</lastupdated>
+  <seasonid>547873</seasonid>
+  <seriesid>247773</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
 <Episode>
   <id>4077755</id>
   <Combined_episodenumber>1</Combined_episodenumber>
@@ -828,7 +871,11 @@
   <Writer>|Ariel Rubin|Michael V. Ross|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/247773/4355402.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431225237</lastupdated>
+=======
+  <lastupdated>1406568878</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>463717</seasonid>
   <seriesid>247773</seriesid>
   <thumb_added></thumb_added>
@@ -859,7 +906,11 @@
   <Writer>Anne Kenney</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/247773/4355403.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1423595163</lastupdated>
+=======
+  <lastupdated>1406568896</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>463717</seasonid>
   <seriesid>247773</seriesid>
   <thumb_added></thumb_added>
@@ -890,7 +941,11 @@
   <Writer>Henry Robles</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/247773/4355400.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1423595222</lastupdated>
+=======
+  <lastupdated>1406568915</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>463717</seasonid>
   <seriesid>247773</seriesid>
   <thumb_added></thumb_added>
@@ -921,7 +976,11 @@
   <Writer>|Joy Gregory|Becky Hartman Edwards|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/247773/4355404.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431225273</lastupdated>
+=======
+  <lastupdated>1406568931</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>463717</seasonid>
   <seriesid>247773</seriesid>
   <thumb_added></thumb_added>
@@ -952,7 +1011,11 @@
   <Writer>Lizzy Weiss</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/247773/4355405.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1423595457</lastupdated>
+=======
+  <lastupdated>1406568951</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>463717</seasonid>
   <seriesid>247773</seriesid>
   <thumb_added></thumb_added>
@@ -983,7 +1046,11 @@
   <Writer>Lizzy Weiss</Writer>
   <absolute_number>31</absolute_number>
   <filename>episodes/247773/4427066.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1414914296</lastupdated>
+=======
+  <lastupdated>1406569024</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>504266</seasonid>
   <seriesid>247773</seriesid>
   <thumb_added></thumb_added>
@@ -1015,7 +1082,11 @@
   <Writer>|Joy Gregory|Bekah Brunsetter|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/247773/4427067.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431225366</lastupdated>
+=======
+  <lastupdated>1410299357</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>504266</seasonid>
   <seriesid>247773</seriesid>
   <thumb_added></thumb_added>
@@ -1046,7 +1117,11 @@
   <Writer>Anne Kenney</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/247773/4453083.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1414914335</lastupdated>
+=======
+  <lastupdated>1410299394</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>504266</seasonid>
   <seriesid>247773</seriesid>
   <thumb_added></thumb_added>
@@ -1077,7 +1152,11 @@
   <Writer>|James Stoteraux|Chad Fiveash|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/247773/4453084.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431225095</lastupdated>
+=======
+  <lastupdated>1410299423</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>504266</seasonid>
   <seriesid>247773</seriesid>
   <thumb_added></thumb_added>
@@ -1108,7 +1187,11 @@
   <Writer>Joy Gregory / Henry Robles</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/247773/4453085.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1414914377</lastupdated>
+=======
+  <lastupdated>1411582449</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>504266</seasonid>
   <seriesid>247773</seriesid>
   <thumb_added></thumb_added>
@@ -1139,7 +1222,11 @@
   <Writer>|Lizzy Weiss|Bekah Brunsetter|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/247773/4480330.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431225381</lastupdated>
+=======
+  <lastupdated>1411582468</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>504266</seasonid>
   <seriesid>247773</seriesid>
   <thumb_added></thumb_added>
@@ -1170,7 +1257,11 @@
   <Writer>|James Stoteraux|Chad Fiveash|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/247773/4480331.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431225132</lastupdated>
+=======
+  <lastupdated>1411582497</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>504266</seasonid>
   <seriesid>247773</seriesid>
   <thumb_added></thumb_added>
@@ -1201,7 +1292,11 @@
   <Writer>|Anne Kenney|Henry Robles|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/247773/4480332.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431225209</lastupdated>
+=======
+  <lastupdated>1411582518</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>504266</seasonid>
   <seriesid>247773</seriesid>
   <thumb_added></thumb_added>
@@ -1232,7 +1327,11 @@
   <Writer>Lizzy Weiss</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/247773/4501459.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1414914698</lastupdated>
+=======
+  <lastupdated>1411582543</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>504266</seasonid>
   <seriesid>247773</seriesid>
   <thumb_added></thumb_added>
@@ -1263,7 +1362,11 @@
   <Writer>|Becky Hartman Edwards|Lizzy Weiss|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/247773/4510641.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431225405</lastupdated>
+=======
+  <lastupdated>1411582599</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>504266</seasonid>
   <seriesid>247773</seriesid>
   <thumb_added></thumb_added>
@@ -1294,7 +1397,11 @@
   <Writer>Lizzy Weiss</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/247773/4520856.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1414914738</lastupdated>
+=======
+  <lastupdated>1411582629</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>504266</seasonid>
   <seriesid>247773</seriesid>
   <thumb_added></thumb_added>
@@ -1325,7 +1432,11 @@
   <Writer>|Joy Gregory|Henry Robles|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/247773/4559325.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431225230</lastupdated>
+=======
+  <lastupdated>1411582658</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>504266</seasonid>
   <seriesid>247773</seriesid>
   <thumb_added></thumb_added>
@@ -1356,7 +1467,11 @@
   <Writer>|Becky Hartman Edwards|Bekah Brunsetter|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/247773/4559326.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431225200</lastupdated>
+=======
+  <lastupdated>1414136873</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>504266</seasonid>
   <seriesid>247773</seriesid>
   <thumb_added></thumb_added>
@@ -1387,7 +1502,11 @@
   <Writer>|Lizzy Weiss|Michael V. Ross|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/247773/4597382.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431225299</lastupdated>
+=======
+  <lastupdated>1414137145</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>504266</seasonid>
   <seriesid>247773</seriesid>
   <thumb_added></thumb_added>
@@ -1629,8 +1748,13 @@
   <Language>en</Language>
   <Overview>Senior year means big changes for Bay and Daphne, as the Carlton School for the Deaf receives an influx of hearing students who are not happy to be there. Daphne begins working at a free clinic as part of her probation from the Senator Coto blackmail scandal, and bonds with a pre-med student with a spinal injury. Bay is inspired by her art teacher and surprised by her jock classmate, when she takes an art class at a local college. Toby tries to unite a divided Carlton by coaching girls' field hockey, and Kathryn dips her toes into new territory when she makes friends with a gregarious tap dancer.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.4</Rating>
   <RatingCount>5</RatingCount>
+=======
+  <Rating>7.5</Rating>
+  <RatingCount>4</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>Lizzy Weiss</Writer>
   <absolute_number></absolute_number>
@@ -2163,7 +2287,11 @@
   <Writer>|Henry Robles|J.R. Phillips|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/247773/4900863.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431225103</lastupdated>
+=======
+  <lastupdated>1406132719</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>565097</seasonid>
   <seriesid>247773</seriesid>
   <thumb_added>2014-07-23 09:29:36</thumb_added>
@@ -2194,7 +2322,11 @@
   <Writer>Joy Gregory</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/247773/4920614.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1414791395</lastupdated>
+=======
+  <lastupdated>1406693716</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>565097</seasonid>
   <seriesid>247773</seriesid>
   <thumb_added>2014-07-29 21:15:16</thumb_added>
@@ -2225,7 +2357,11 @@
   <Writer>Linda Gase</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/247773/4920615.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1414791413</lastupdated>
+=======
+  <lastupdated>1407338304</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>565097</seasonid>
   <seriesid>247773</seriesid>
   <thumb_added>2014-08-06 08:18:24</thumb_added>
@@ -2249,6 +2385,7 @@
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
   <Overview>Everyone is looking forward to commencement until shocking news about Carlton threatens to overshadow their special day. Daphne fears her future is in jeopardy when her past catches up with her. John and Kathryn are not happy when they learn about Bay’s non-traditional post-graduation plans. Meanwhile, Mary Beth is pleased when Travis’s wish comes true. </Overview>
+<<<<<<< HEAD
   <ProductionCode></ProductionCode>
   <Rating>8.5</Rating>
   <RatingCount>2</RatingCount>
@@ -2289,6 +2426,48 @@
   <filename>episodes/247773/4968070.jpg</filename>
   <lastupdated>1431225340</lastupdated>
   <seasonid>565097</seasonid>
+=======
+  <ProductionCode></ProductionCode>
+  <Rating>8.5</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Lizzy Weiss|William H. Brown</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/247773/4920616.jpg</filename>
+  <lastupdated>1407869702</lastupdated>
+  <seasonid>565097</seasonid>
+  <seriesid>247773</seriesid>
+  <thumb_added>2014-08-12 11:55:02</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4998209</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>And It Cannot Be Changed</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Lizzy Weiss</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1411227362</lastupdated>
+  <seasonid>597816</seasonid>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seriesid>247773</seriesid>
   <thumb_added>2014-12-01 01:47:24</thumb_added>
   <thumb_height>225</thumb_height>

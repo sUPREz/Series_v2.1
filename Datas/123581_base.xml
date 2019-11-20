@@ -13,8 +13,13 @@
     <Network>Showtime</Network>
     <NetworkID></NetworkID>
     <Overview>Episodes follows the lives of Sean and Beverly Lincoln, British sitcom producers who are persuaded to move to Hollywood and remake their series for an American audience. When the couple is forced to cast Matt LeBlanc in the lead role, a bizarre triangle is formed that strains their marriage and threatens their show.</Overview>
+<<<<<<< HEAD
     <Rating>7.8</Rating>
     <RatingCount>43</RatingCount>
+=======
+    <Rating>7.7</Rating>
+    <RatingCount>39</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <Runtime>30</Runtime>
     <SeriesID>78049</SeriesID>
     <SeriesName>Episodes</SeriesName>
@@ -22,8 +27,13 @@
     <added>2009-11-10 05:59:31</added>
     <addedBy>76261</addedBy>
     <banner>graphical/123581-g5.jpg</banner>
+<<<<<<< HEAD
     <fanart>fanart/original/123581-5.jpg</fanart>
     <lastupdated>1434662788</lastupdated>
+=======
+    <fanart>fanart/original/123581-8.jpg</fanart>
+    <lastupdated>1415012417</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <poster>posters/123581-7.jpg</poster>
     <tms_wanted_old>1</tms_wanted_old>
     <zap2it_id>EP01352131</zap2it_id>

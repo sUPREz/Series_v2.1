@@ -14,17 +14,28 @@
     <NetworkID></NetworkID>
     <Overview>The series follows a Federal Bureau of Investigation &quot;Fringe Division&quot; team based in Boston. The team uses unorthodox &quot;fringe&quot; science and FBI investigative techniques to investigate a series of unexplained, often ghastly occurrences, some of which are related to mysteries surrounding a parallel universe.</Overview>
     <Rating>8.7</Rating>
+<<<<<<< HEAD
     <RatingCount>684</RatingCount>
+=======
+    <RatingCount>672</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <Runtime>60</Runtime>
     <SeriesID>75146</SeriesID>
     <SeriesName>Fringe</SeriesName>
     <Status>Ended</Status>
     <added></added>
     <addedBy></addedBy>
+<<<<<<< HEAD
     <banner>graphical/82066-g20.jpg</banner>
     <fanart>fanart/original/82066-72.jpg</fanart>
     <lastupdated>1433917062</lastupdated>
     <poster>posters/82066-46.jpg</poster>
+=======
+    <banner>graphical/82066-g44.jpg</banner>
+    <fanart>fanart/original/82066-74.jpg</fanart>
+    <lastupdated>1414959344</lastupdated>
+    <poster>posters/82066-6.jpg</poster>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <tms_wanted_old>1</tms_wanted_old>
     <zap2it_id>SH01059103</zap2it_id>
   </Series>

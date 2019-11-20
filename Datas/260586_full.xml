@@ -13,17 +13,26 @@
   <NetworkID></NetworkID>
   <Overview>Hosted by renowned astrophysicist Dr. Neil deGrasse Tyson, Cosmos continues from its 1980 predecessor, exploring how we discovered the laws of nature and found our coordinates in space and time. It brings to life never-before-told stories of the heroic quest for knowledge and transports viewers to new worlds and across the universe for a vision of the cosmos on the grandest scale. The most profound scientific concepts are presented with stunning clarity, uniting skepticism and wonder, weaving rigorous science with emotion and spirituality to form a single, united, transcendent experience.</Overview>
   <Rating>9.4</Rating>
+<<<<<<< HEAD
   <RatingCount>60</RatingCount>
+=======
+  <RatingCount>51</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <Runtime>60</Runtime>
   <SeriesID>81819</SeriesID>
   <SeriesName>Cosmos: A Spacetime Odyssey</SeriesName>
   <Status>Ended</Status>
   <added>2012-07-09 13:37:49</added>
   <addedBy>6568</addedBy>
-  <banner>graphical/260586-g4.jpg</banner>
+  <banner>graphical/260586-g5.jpg</banner>
   <fanart>fanart/original/260586-9.jpg</fanart>
+<<<<<<< HEAD
   <lastupdated>1433692148</lastupdated>
   <poster>posters/260586-1.jpg</poster>
+=======
+  <lastupdated>1415047201</lastupdated>
+  <poster>posters/260586-3.jpg</poster>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <tms_wanted_old>0</tms_wanted_old>
   <zap2it_id>SH01446110</zap2it_id>
 </Series>
@@ -153,7 +162,11 @@
   <Writer>|Ann Druyan|Steven Soter|</Writer>
   <absolute_number>1</absolute_number>
   <filename>episodes/260586/4357825.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431151626</lastupdated>
+=======
+  <lastupdated>1407187633</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>496165</seasonid>
   <seriesid>260586</seriesid>
   <thumb_added>2014-03-09 18:23:10</thumb_added>
@@ -184,7 +197,11 @@
   <Writer>|Ann Druyan|Steven Soter|</Writer>
   <absolute_number>2</absolute_number>
   <filename>episodes/260586/4816584.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431151648</lastupdated>
+=======
+  <lastupdated>1407187528</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>496165</seasonid>
   <seriesid>260586</seriesid>
   <thumb_added>2014-03-23 20:19:45</thumb_added>
@@ -215,7 +232,11 @@
   <Writer>|Ann Druyan|Steven Soter|</Writer>
   <absolute_number>3</absolute_number>
   <filename>episodes/260586/4816585.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431151613</lastupdated>
+=======
+  <lastupdated>1408137309</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>496165</seasonid>
   <seriesid>260586</seriesid>
   <thumb_added>2014-03-23 20:22:35</thumb_added>
@@ -241,12 +262,20 @@
   <Overview>An exploration of how light, time and gravity combine to distort our perceptions of the universe. We eavesdrop on a series of walks along a beach on summer nights in the year 1809. William Herschel, whose many discoveries include the insight that telescopes are time machines, tells bedtime stories to his young son, John, who will grow up to make some rather profound discoveries of his own. </Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.4</Rating>
+<<<<<<< HEAD
   <RatingCount>22</RatingCount>
+=======
+  <RatingCount>21</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Ann Druyan|Steven Soter|</Writer>
   <absolute_number>4</absolute_number>
   <filename>episodes/260586/4816586.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433517776</lastupdated>
+=======
+  <lastupdated>1408780449</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>496165</seasonid>
   <seriesid>260586</seriesid>
   <thumb_added>2014-03-23 20:31:51</thumb_added>
@@ -277,7 +306,11 @@
   <Writer>|Ann Druyan|Steven Soter|</Writer>
   <absolute_number>5</absolute_number>
   <filename>episodes/260586/4816587.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433517778</lastupdated>
+=======
+  <lastupdated>1407187410</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>496165</seasonid>
   <seriesid>260586</seriesid>
   <thumb_added>2014-03-23 20:33:48</thumb_added>
@@ -308,7 +341,11 @@
   <Writer>|Ann Druyan|Steven Soter|</Writer>
   <absolute_number>6</absolute_number>
   <filename>episodes/260586/4816588.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431151620</lastupdated>
+=======
+  <lastupdated>1407187372</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>496165</seasonid>
   <seriesid>260586</seriesid>
   <thumb_added>2014-04-13 17:32:59</thumb_added>
@@ -339,7 +376,11 @@
   <Writer>|Ann Druyan|Steven Soter|</Writer>
   <absolute_number>7</absolute_number>
   <filename>episodes/260586/4816589.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431151661</lastupdated>
+=======
+  <lastupdated>1408792927</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>496165</seasonid>
   <seriesid>260586</seriesid>
   <thumb_added>2014-04-20 20:48:35</thumb_added>
@@ -359,18 +400,31 @@
   <EpisodeName>Sisters of the Sun</EpisodeName>
   <EpisodeNumber>8</EpisodeNumber>
   <FirstAired>2014-04-27</FirstAired>
+<<<<<<< HEAD
   <GuestStars>|Kirsten Dunst|Marlee Matlin|</GuestStars>
+=======
+  <GuestStars>Kirsten Dunst|Marlee Matlin</GuestStars>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <IMDB_ID>tt2854226</IMDB_ID>
   <Language>en</Language>
   <Overview>Discover the remarkable story of Annie Jump Cannon and Cecilia Payne, two incredible women who challenged conventional wisdom and uncovered the real-life story of the stars. Cannon led a group of astronomers in the early 20th century to catalogue the spectral characters of stars, and two decades later Payne joined forces with Cannon to analyze the data and uncover the chemical compositions of the stars. Later, travel on the Ship of the Imagination to explore the lives and deaths of stars and visit the planet of a star orbiting a globular cluster.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>8.2</Rating>
   <RatingCount>16</RatingCount>
+=======
+  <Rating>8.3</Rating>
+  <RatingCount>15</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Ann Druyan|Steven Soter|</Writer>
   <absolute_number>8</absolute_number>
   <filename>episodes/260586/4816590.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431151689</lastupdated>
+=======
+  <lastupdated>1407187292</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>496165</seasonid>
   <seriesid>260586</seriesid>
   <thumb_added>2014-04-27 06:45:35</thumb_added>
@@ -396,12 +450,20 @@
   <Overview>The Ship of the Imagination embarks on a journey through space and time to grasp how the autobiography of the Earth is written in its atoms, its oceans, its continents and all living things. Later, American geologist Marie Tharp creates the first true map of Earth’s ocean floor, and discovers microscopic life that exists deep beneath the ocean</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.3</Rating>
+<<<<<<< HEAD
   <RatingCount>16</RatingCount>
+=======
+  <RatingCount>15</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Ann Druyan|Steven Soter|</Writer>
   <absolute_number>9</absolute_number>
   <filename>episodes/260586/4816592.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433517758</lastupdated>
+=======
+  <lastupdated>1408780528</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>496165</seasonid>
   <seriesid>260586</seriesid>
   <thumb_added>2014-05-04 18:37:37</thumb_added>
@@ -427,12 +489,20 @@
   <Overview>Travel to 19th century England and meet Michael Faraday, a child of poverty who grew up to invent the motor and the generator. His ideas about electricity and discovery of magnetic fields changed the world and paved the way for future scientists to make giant strides in the world of high technology and instantaneous communication</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.2</Rating>
+<<<<<<< HEAD
   <RatingCount>18</RatingCount>
+=======
+  <RatingCount>16</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Ann Druyan|Steven Soter|</Writer>
   <absolute_number>10</absolute_number>
   <filename>episodes/260586/4816591.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433517762</lastupdated>
+=======
+  <lastupdated>1408780477</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>496165</seasonid>
   <seriesid>260586</seriesid>
   <thumb_added>2014-05-10 22:56:31</thumb_added>
@@ -457,13 +527,22 @@
   <Language>en</Language>
   <Overview>The Ship of the Imagination travels across the cosmos to discover the possibility of beings that live forever and explain why other civilizations perish. Then, visit the Cosmic Calendar of the Future and contemplate what lies ahead with a hopeful vision.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>8.3</Rating>
   <RatingCount>18</RatingCount>
+=======
+  <Rating>8.4</Rating>
+  <RatingCount>16</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Ann Druyan|Steven Soter|</Writer>
   <absolute_number>11</absolute_number>
   <filename>episodes/260586/4816593.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431151654</lastupdated>
+=======
+  <lastupdated>1409061360</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>496165</seasonid>
   <seriesid>260586</seriesid>
   <thumb_added>2014-05-18 17:51:29</thumb_added>
@@ -488,13 +567,22 @@
   <Language>en</Language>
   <Overview>The Ship of the Imagination travels to our near neighbor Venus, where we begin our journey to discover the long history of global warming and the greenhouse effect. Later, explore the detrimental effects of climate change and trace the magnitude of our impact on the Earth’s atmosphere. However, with knowledge, technology and science within our grasp, imagine a hopeful future where we dedicate our efforts to taking care of our home, Planet Earth.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.5</Rating>
   <RatingCount>11</RatingCount>
+=======
+  <Rating>7.6</Rating>
+  <RatingCount>10</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Ann Druyan|Steven Soter|</Writer>
   <absolute_number>12</absolute_number>
   <filename>episodes/260586/4816594.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431151634</lastupdated>
+=======
+  <lastupdated>1409235692</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>496165</seasonid>
   <seriesid>260586</seriesid>
   <thumb_added>2014-06-01 19:24:41</thumb_added>
@@ -520,12 +608,20 @@
   <Overview>The Ship of the Imagination makes a final journey to explore one of the biggest mysteries of the universe: dark energy. Meet one of science's greatest unsung heroes, Fritz Zwicky, whose prediction of supernovas paved the way for our larger understanding of dark energy, the unknown force in the universe that overwhelms gravity on the grandest scale. On our final voyage, discover the romantic message embedded in Voyager's Interstellar Golden Record and contemplate the spiritual experience of life on Earth as our cosmic journey concludes with Carl Sagan's unforgettable meditation, The Pale Blue Dot.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.6</Rating>
+<<<<<<< HEAD
   <RatingCount>14</RatingCount>
+=======
+  <RatingCount>11</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Ann Druyan|Steven Soter|</Writer>
   <absolute_number>13</absolute_number>
   <filename>episodes/260586/4816595.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431151675</lastupdated>
+=======
+  <lastupdated>1409235714</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>496165</seasonid>
   <seriesid>260586</seriesid>
   <thumb_added>2014-06-09 19:08:55</thumb_added>

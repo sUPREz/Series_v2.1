@@ -14,17 +14,26 @@
     <NetworkID></NetworkID>
     <Overview>Hosted by renowned astrophysicist Dr. Neil deGrasse Tyson, Cosmos continues from its 1980 predecessor, exploring how we discovered the laws of nature and found our coordinates in space and time. It brings to life never-before-told stories of the heroic quest for knowledge and transports viewers to new worlds and across the universe for a vision of the cosmos on the grandest scale. The most profound scientific concepts are presented with stunning clarity, uniting skepticism and wonder, weaving rigorous science with emotion and spirituality to form a single, united, transcendent experience.</Overview>
     <Rating>9.4</Rating>
+<<<<<<< HEAD
     <RatingCount>60</RatingCount>
+=======
+    <RatingCount>51</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <Runtime>60</Runtime>
     <SeriesID>81819</SeriesID>
     <SeriesName>Cosmos: A Spacetime Odyssey</SeriesName>
     <Status>Ended</Status>
     <added>2012-07-09 13:37:49</added>
     <addedBy>6568</addedBy>
-    <banner>graphical/260586-g4.jpg</banner>
+    <banner>graphical/260586-g5.jpg</banner>
     <fanart>fanart/original/260586-9.jpg</fanart>
+<<<<<<< HEAD
     <lastupdated>1433692148</lastupdated>
     <poster>posters/260586-1.jpg</poster>
+=======
+    <lastupdated>1415047201</lastupdated>
+    <poster>posters/260586-3.jpg</poster>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <tms_wanted_old>0</tms_wanted_old>
     <zap2it_id>SH01446110</zap2it_id>
   </Series>

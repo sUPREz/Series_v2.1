@@ -12,8 +12,13 @@
   <Network>USA Network</Network>
   <NetworkID></NetworkID>
   <Overview>ROYAL PAINS centers on a young E.R. doctor who, after being wrongly blamed for a patient's death, moves to the Hamptons and becomes the reluctant &quot;doctor for hire&quot; to the rich and famous. When the attractive administrator of the local hospital asks him to treat the town's less fortunate, he finds himself walking the line between doing well for himself and doing good for others.</Overview>
+<<<<<<< HEAD
   <Rating>8.3</Rating>
   <RatingCount>69</RatingCount>
+=======
+  <Rating>8.4</Rating>
+  <RatingCount>64</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <Runtime>60</Runtime>
   <SeriesID>75383</SeriesID>
   <SeriesName>Royal Pains</SeriesName>
@@ -22,7 +27,11 @@
   <addedBy>235</addedBy>
   <banner>graphical/92411-g4.jpg</banner>
   <fanart>fanart/original/92411-6.jpg</fanart>
+<<<<<<< HEAD
   <lastupdated>1434757321</lastupdated>
+=======
+  <lastupdated>1414797353</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <poster>posters/92411-5.jpg</poster>
   <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>EP01150465</zap2it_id>
@@ -1936,8 +1945,13 @@
   <Language>en</Language>
   <Overview>Several months after the events of the explosive summer finale. With the Hamptons decked out for the holidays, Dr. Hank Lawson continues to treat his patients in very unexpected ways, but Hank's biggest challenge will be facing his own medical issues. As the wedding approaches, Evan and Hank head to Las Vegas for some bachelor party fun, while Paige and Divya travel out of town for her bachelorette party. And with a snowstorm descending on the Hamptons, Paige rapidly finds her dream wedding turning into a nightmare.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.8</Rating>
   <RatingCount>9</RatingCount>
+=======
+  <Rating>7.9</Rating>
+  <RatingCount>8</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>Constance M. Burge|Michael Rauch</Writer>
   <absolute_number>62</absolute_number>
@@ -2371,12 +2385,20 @@
   <Overview>After a winter abroad, Hank returns to the Hamptons to celebrate the latest addition to the HankMed family. Evan and Paige take a hands-on approach to their marriage. Later Evan hatches a plan to make Hank stay in town after a saxophone player falls ill. Meanwhile Divya experiences the joys of motherhood and a mysterious party guest brings surprising news for the Lawson family.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.0</Rating>
+<<<<<<< HEAD
   <RatingCount>5</RatingCount>
+=======
+  <RatingCount>4</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>6</SeasonNumber>
   <Writer>Andrew Lenchewski|Jeff Drayer</Writer>
   <absolute_number>76</absolute_number>
   <filename>episodes/92411/4863034.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1422811279</lastupdated>
+=======
+  <lastupdated>1409604488</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>583533</seasonid>
   <seriesid>92411</seriesid>
   <thumb_added>2014-06-10 13:43:12</thumb_added>
@@ -2401,13 +2423,22 @@
   <Language>en</Language>
   <Overview>Hank worries a rising tennis star’s health may prevent her from taking her career to the next level, while a fellow pro at her club may have fallen ill from an unexpected source. Later Hank and Evan adjust to a startling revelation about Eddie’s past. And Evan and Paige reach a new milestone. Elsewhere Jeremiah finds peace in an odd place.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>8.2</Rating>
   <RatingCount>5</RatingCount>
+=======
+  <Rating>8.3</Rating>
+  <RatingCount>4</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>6</SeasonNumber>
   <Writer>Michael Rauch|Antonia Ellis</Writer>
   <absolute_number>77</absolute_number>
   <filename>episodes/92411/4863702.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1422811314</lastupdated>
+=======
+  <lastupdated>1410615727</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>583533</seasonid>
   <seriesid>92411</seriesid>
   <thumb_added>2014-06-22 09:24:53</thumb_added>
@@ -2433,12 +2464,20 @@
   <Overview>Hank, Evan and Paige try to help Eddie have a relationship with Emma; Hank treats a private investigator; Divya must find a nanny; Jeremiah makes a friend.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.0</Rating>
+<<<<<<< HEAD
   <RatingCount>5</RatingCount>
+=======
+  <RatingCount>4</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>6</SeasonNumber>
   <Writer>Constance M. Burge|Jeff Drayer</Writer>
   <absolute_number>78</absolute_number>
   <filename>episodes/92411/4863703.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1425730967</lastupdated>
+=======
+  <lastupdated>1410893417</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>583533</seasonid>
   <seriesid>92411</seriesid>
   <thumb_added>2014-06-24 17:49:27</thumb_added>
@@ -2464,7 +2503,11 @@
   <Overview>Hank travels to Monte Carlo and finds himself in the middle of a plot to rid Boris’ bank of a shadowy depositor. Back in the Hamptons, Divya and Jeremiah treat a group of firemen who have fallen mysteriously ill. Paige and Evan find themselves in need of a new place to live, and the most convenient solution may bring its own set of challenges.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.0</Rating>
+<<<<<<< HEAD
   <RatingCount>5</RatingCount>
+=======
+  <RatingCount>4</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>6</SeasonNumber>
   <Writer>Jon Sherman|Carol Flint</Writer>
   <absolute_number>79</absolute_number>
@@ -2495,7 +2538,11 @@
   <Overview>After reading about her struggle online, Evan reaches out to a woman with a mysterious illness in the hope that Hank can finally give her a diagnosis. Paige and Russel’s professional lives take an unexpected turn, and their new client could be a goldmine or a dangerous problem — especially when he becomes a HankMed patient. While Evan and Jeremiah realize they’ll have to go to battle with Symphony if HankMed is to survive the summer, Hank’s watchful eye on Emma helps him win back a former patient.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.0</Rating>
+<<<<<<< HEAD
   <RatingCount>5</RatingCount>
+=======
+  <RatingCount>4</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>6</SeasonNumber>
   <Writer>Jack Bernstein</Writer>
   <absolute_number>80</absolute_number>
@@ -2525,8 +2572,13 @@
   <Language>en</Language>
   <Overview>The chef at Ray’s new restaurant seems to be getting drunk on the job, but Hank believes it’s not just a matter of hitting the bottle. Divya treats a NASCAR crew chief who channels his anxiety into an unexpectedly dangerous habit. Evan’s friendship with Ray helps him find a promising space for HankMed’s new lab, but Jeremiah has concerns about the location. And while Hank tries to get Emma to think about her future, Divya makes an important decision about her own.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.4</Rating>
   <RatingCount>5</RatingCount>
+=======
+  <Rating>7.3</Rating>
+  <RatingCount>4</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>6</SeasonNumber>
   <Writer>Jeff Drayer</Writer>
   <absolute_number>81</absolute_number>
@@ -2557,6 +2609,7 @@
   <Overview>Hank and Divya treat a professional Hamptons house-sitter who never wants to grow up, and Jeremiah gets closer to Viviana when he treats her friend, a burlesque dancer. Paige makes a discovery that could complicate her new business with Russel, and Emma becomes a tipster for the Hamptons’ hottest gossip site.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>5</RatingCount>
   <SeasonNumber>6</SeasonNumber>
   <Writer>Jessica Ball</Writer>
@@ -2812,10 +2865,19 @@
   <filename></filename>
   <lastupdated>1433907799</lastupdated>
   <seasonid>619020</seasonid>
+=======
+  <RatingCount>4</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>Jessica Ball</Writer>
+  <absolute_number>82</absolute_number>
+  <filename>episodes/92411/4863707.jpg</filename>
+  <lastupdated>1406088073</lastupdated>
+  <seasonid>583533</seasonid>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seriesid>92411</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-07-22 12:09:07</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>5207910</id>
@@ -2825,14 +2887,23 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
+<<<<<<< HEAD
   <Director></Director>
   <EpImgFlag></EpImgFlag>
   <EpisodeName>Playing Doctor</EpisodeName>
   <EpisodeNumber>3</EpisodeNumber>
   <FirstAired>2015-06-16</FirstAired>
+=======
+  <Director>Jay Chandrasekhar</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>I Did Not See That Coming</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2014-07-29</FirstAired>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt3887684</IMDB_ID>
   <Language>en</Language>
+<<<<<<< HEAD
   <Overview>An actor wants to shadow Hank in order to prepare for a role; Divya performs a genetic test on a royal patient; Evan accidentally takes his new motto of transparency a step too far; and Paige embraces chaos during a home renovation project.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>6.0</Rating>
@@ -2843,10 +2914,22 @@
   <filename></filename>
   <lastupdated>1432955557</lastupdated>
   <seasonid>619020</seasonid>
+=======
+  <Overview>As a new mother, Divya finds herself bonding with a HankMed patient who is struggling to get pregnant. Hank reignites his romance with a woman he met in Europe when she arrives in the Hamptons, and Divya worries about Jeremiah’s relationship with Viviana. Emma is the new it-girl on SnarkHampton and gets invited to one of the hottest parties of the summer, and Paige and Evan enlist Bob to help with their issues with Russel.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.3</Rating>
+  <RatingCount>3</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>Carol Flint|Jon Sherman</Writer>
+  <absolute_number>83</absolute_number>
+  <filename>episodes/92411/4863708.jpg</filename>
+  <lastupdated>1414353784</lastupdated>
+  <seasonid>583533</seasonid>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seriesid>92411</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-07-30 08:51:00</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>5207911</id>
@@ -2856,14 +2939,23 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
+<<<<<<< HEAD
   <Director></Director>
   <EpImgFlag></EpImgFlag>
   <EpisodeName> The Prince of Nucleotides</EpisodeName>
   <EpisodeNumber>4</EpisodeNumber>
   <FirstAired>2015-06-23</FirstAired>
+=======
+  <Director>Mark Feuerstein</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Oh, M.G.</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2014-08-05</FirstAired>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt3904674</IMDB_ID>
   <Language>en</Language>
+<<<<<<< HEAD
   <Overview>Hank treats a transgender teenager; Evan and Jeremiah host a gala fundraiser.</Overview>
   <ProductionCode></ProductionCode>
   <Rating></Rating>
@@ -2874,10 +2966,22 @@
   <filename></filename>
   <lastupdated>1433646329</lastupdated>
   <seasonid>619020</seasonid>
+=======
+  <Overview>Hank treats a perfumer who fears his livelihood is in jeopardy when he starts losing his sense of smell. Evan and Ray hold a grand opening for their joint venture, HankLab, where HankMed treats a talented nail artist whose summer cold turns out to be something much more serious. Emma finds herself on the receiving end of Oz’s snark while Divya’s attempt to protect Jeremiah puts a strain on their relationship. Hank and Charlotte go to New York to take the first step toward finding a specialist to help with her condition.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>3</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>Aubrey Karr</Writer>
+  <absolute_number>84</absolute_number>
+  <filename>episodes/92411/4863709.jpg</filename>
+  <lastupdated>1414797092</lastupdated>
+  <seasonid>583533</seasonid>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seriesid>92411</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-07-30 08:51:26</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>5207912</id>
@@ -2887,14 +2991,23 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
+<<<<<<< HEAD
   <Director></Director>
   <EpImgFlag></EpImgFlag>
   <EpisodeName>Voices Carry</EpisodeName>
   <EpisodeNumber>5</EpisodeNumber>
   <FirstAired>2015-06-30</FirstAired>
+=======
+  <Director>Jay Chandrasekhar</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Good Air/Bad Air</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2014-08-12</FirstAired>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt3918270</IMDB_ID>
   <Language>en</Language>
+<<<<<<< HEAD
   <Overview>Hank goes to Manhattan with Olympia; Evan fears Boris is keeping a secret; Divya receives a visitor.</Overview>
   <ProductionCode></ProductionCode>
   <Rating></Rating>
@@ -2905,10 +3018,22 @@
   <filename></filename>
   <lastupdated>1433646388</lastupdated>
   <seasonid>619020</seasonid>
+=======
+  <Overview>Hank and Boris travel to Argentina to meet a potential patient for Boris’ clinical trial, and Divya gets more than she bargained for when she tags along to meet Sashi’s Argentinean grandmother. As Russel tries to make amends with Paige, he finds himself in over his head caring for a HankMed patient while Jeremiah tries to smooth things over with Viviana. Meanwhile, Evan enlists Ray’s help in exposing Oz after SnarkHampton posts a libelous photo of Hank. And Paige puts the finishing touches on Ray’s house.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>4</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>Carol Flint|Simran Baidwan</Writer>
+  <absolute_number>85</absolute_number>
+  <filename>episodes/92411/4863710.jpg</filename>
+  <lastupdated>1407917616</lastupdated>
+  <seasonid>583533</seasonid>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seriesid>92411</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-08-12 15:06:11</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>5207913</id>
@@ -2918,14 +3043,23 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
+<<<<<<< HEAD
   <Director></Director>
   <EpImgFlag></EpImgFlag>
   <EpisodeName>Secret Asian Men</EpisodeName>
   <EpisodeNumber>6</EpisodeNumber>
   <FirstAired>2015-07-07</FirstAired>
+=======
+  <Director>Joe Collins</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Hankmed on the Half Shell</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired>2014-08-19</FirstAired>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt3953872</IMDB_ID>
   <Language>en</Language>
+<<<<<<< HEAD
   <Overview>Keller asks Hank for help with an embarrassing medical problem; Divya treats a group of Civil War reenactors who are suffering from an age-old disease; and Evan fears he may be in over his head when he's roped into a secret project with Boris.</Overview>
   <ProductionCode></ProductionCode>
   <Rating></Rating>
@@ -2936,10 +3070,22 @@
   <filename></filename>
   <lastupdated>1434726830</lastupdated>
   <seasonid>619020</seasonid>
+=======
+  <Overview>Despite their strained relationship, Divya and Jeremiah work together to treat a model who is struggling to eat. After Ray’s past catches up with him, Evan tries to distance himself from their partnership but it proves to be harder than he expected. Hank and Boris return from Argentina with an idea to enlarge the scope of Boris’ foundation, and Emma violates her brothers’ trust.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>4</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>Constance M. Burge|Jon Sherman</Writer>
+  <absolute_number>86</absolute_number>
+  <filename>episodes/92411/4863711.jpg</filename>
+  <lastupdated>1408528649</lastupdated>
+  <seasonid>583533</seasonid>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seriesid>92411</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-08-19 14:12:25</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>5207914</id>
@@ -2949,16 +3095,25 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
+<<<<<<< HEAD
   <Director></Director>
   <EpImgFlag></EpImgFlag>
   <EpisodeName>The Sound of One Valve Flapping</EpisodeName>
   <EpisodeNumber>7</EpisodeNumber>
   <FirstAired>2015-07-14</FirstAired>
+=======
+  <Director>Janice Cooke</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>A Bigger Boat</EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired>2014-08-26</FirstAired>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt3913852</IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
+  <Overview>Hank treats Cinco when his sore wrist turns out to be more complicated than a simple sprain. Evan and Paige help Emma set a trap to catch Oz. Divya and Jeremiah treat a boat-builder who resents being left behind when his business partner takes a job sailing around the world. Hank helps Charlotte adjust to regaining her vision but the learning curve is steeper than either of them anticipated. Meanwhile, Boris takes a major step towards expanding his foundation.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating></Rating>
   <RatingCount>0</RatingCount>
   <SeasonNumber>7</SeasonNumber>
@@ -2967,10 +3122,20 @@
   <filename></filename>
   <lastupdated>1434390003</lastupdated>
   <seasonid>619020</seasonid>
+=======
+  <Rating>7.3</Rating>
+  <RatingCount>3</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>Michael Rauch|Jessica Ball</Writer>
+  <absolute_number>87</absolute_number>
+  <filename>episodes/92411/4863712.jpg</filename>
+  <lastupdated>1409716703</lastupdated>
+  <seasonid>583533</seasonid>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seriesid>92411</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-08-26 16:29:36</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
   <id>5207915</id>
@@ -2980,16 +3145,25 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
+<<<<<<< HEAD
   <Director></Director>
   <EpImgFlag></EpImgFlag>
   <EpisodeName>Lending a Shoulder</EpisodeName>
   <EpisodeNumber>8</EpisodeNumber>
   <FirstAired>2015-07-21</FirstAired>
+=======
+  <Director>Michael Rauch</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Ganging Up</EpisodeName>
+  <EpisodeNumber>13</EpisodeNumber>
+  <FirstAired>2014-09-02</FirstAired>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <GuestStars></GuestStars>
-  <IMDB_ID></IMDB_ID>
+  <IMDB_ID>tt3982434</IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
+  <Overview>Hank and Evan search for Emma after her unexpected disappearance. Evan struggles to understand why Hank refuses to join Boris’ latest endeavor. Meanwhile, as Paige and Evan finally are ready to move on from therapy, they discover some surprising news about Bob. And while Jeremiah tries to accept the changes Viviana is making in her life, he realizes he needs to make some changes of his own. Elsewhere, Divya faces a new hurdle in her custody battle, while Boris worries his disease may be catching up with him.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating></Rating>
   <RatingCount>0</RatingCount>
   <SeasonNumber>7</SeasonNumber>
@@ -2998,9 +3172,19 @@
   <filename></filename>
   <lastupdated>1434390036</lastupdated>
   <seasonid>619020</seasonid>
+=======
+  <Rating>6.7</Rating>
+  <RatingCount>3</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer>Andrew Lenchewski</Writer>
+  <absolute_number>88</absolute_number>
+  <filename>episodes/92411/4863713.jpg</filename>
+  <lastupdated>1409716608</lastupdated>
+  <seasonid>583533</seasonid>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seriesid>92411</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-09-02 19:08:17</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 </Data>

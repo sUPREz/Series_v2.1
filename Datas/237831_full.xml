@@ -13,7 +13,11 @@
   <NetworkID></NetworkID>
   <Overview>From Armando Iannucci (The Thick of It) comes a look into American politics, revolving around former Senator Selina Meyer (Julia Louis-Dreyfus) who finds being Vice President of the United States is nothing like she expected and everything everyone ever warned her about.</Overview>
   <Rating>8.3</Rating>
+<<<<<<< HEAD
   <RatingCount>37</RatingCount>
+=======
+  <RatingCount>33</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <Runtime>30</Runtime>
   <SeriesID>80395</SeriesID>
   <SeriesName>Veep</SeriesName>
@@ -21,9 +25,15 @@
   <added>2011-03-07 05:38:06</added>
   <addedBy>322581</addedBy>
   <banner>graphical/237831-g2.jpg</banner>
+<<<<<<< HEAD
   <fanart>fanart/original/237831-9.jpg</fanart>
   <lastupdated>1434920379</lastupdated>
   <poster>posters/237831-5.jpg</poster>
+=======
+  <fanart>fanart/original/237831-5.jpg</fanart>
+  <lastupdated>1415012592</lastupdated>
+  <poster>posters/237831-2.jpg</poster>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>EP01518570</zap2it_id>
 </Series>
@@ -41,17 +51,29 @@
   <EpisodeNumber>1</EpisodeNumber>
   <FirstAired>2012-04-22</FirstAired>
   <GuestStars></GuestStars>
+<<<<<<< HEAD
   <IMDB_ID>tt1927930</IMDB_ID>
+=======
+  <IMDB_ID></IMDB_ID>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <Language>en</Language>
   <Overview>Vice President Selina Meyer and her staff - chief of staff Amy, spokesperson Mike, right-hand man Gary, and executive assistant Sue - are still finding their footing in Washington D.C. Selina decides to make the Clean Jobs Commission a pet project, but a series of missteps requires her staff to work damage control.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.2</Rating>
+<<<<<<< HEAD
   <RatingCount>47</RatingCount>
+=======
+  <RatingCount>45</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Armando Iannucci</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/237831/4234716.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433671543</lastupdated>
+=======
+  <lastupdated>1414510844</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>481929</seasonid>
   <seriesid>237831</seriesid>
   <thumb_added></thumb_added>
@@ -77,12 +99,20 @@
   <Overview>After getting good news on a clean-jobs bill, the staff brainstorm for a photo-op idea, but the trip to a local frozen-yoghurt shop is delayed by a stop in the White House Situation Room and a gastrointestinal illness that's going around.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
+<<<<<<< HEAD
   <RatingCount>31</RatingCount>
+=======
+  <RatingCount>30</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Simon Blackwell</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/237831/4303020.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1427232262</lastupdated>
+=======
+  <lastupdated>1414510885</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>481929</seasonid>
   <seriesid>237831</seriesid>
   <thumb_added></thumb_added>
@@ -108,12 +138,20 @@
   <Overview>Selina celebrates 20 years in Washington, D.C., but tries to keep a low profile after a newspaper article paints her as a diva and rumors float about her feud with the first lady. Meanwhile, Selina’s college-age daughter arrives for a visit, and is surprised that her mother is looking for a dog but appalled by her reaction to “Selina” being on the list of names for hurricanes.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
+<<<<<<< HEAD
   <RatingCount>29</RatingCount>
+=======
+  <RatingCount>28</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Sean Gray|Armando Iannucci|Tony Roche</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/237831/4303021.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1427232351</lastupdated>
+=======
+  <lastupdated>1414696313</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>481929</seasonid>
   <seriesid>237831</seriesid>
   <thumb_added></thumb_added>
@@ -134,17 +172,29 @@
   <EpisodeNumber>4</EpisodeNumber>
   <FirstAired>2012-05-13</FirstAired>
   <GuestStars></GuestStars>
+<<<<<<< HEAD
   <IMDB_ID>tt2101246</IMDB_ID>
+=======
+  <IMDB_ID></IMDB_ID>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <Language>en</Language>
   <Overview>Dan and Amy try to figure out if an Asian-American war hero-cum-governor could be a political threat to Selina. Meanwhile, Selina and Mike prep for her &quot;Meet the Press&quot; interview; and Gary and Amy make a startling discovery about Selina's romantic life.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>21</RatingCount>
+=======
+  <RatingCount>20</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Sean Gray|Armando Iannucci|Will Smith</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/237831/4303022.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433671564</lastupdated>
+=======
+  <lastupdated>1414696384</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>481929</seasonid>
   <seriesid>237831</seriesid>
   <thumb_added></thumb_added>
@@ -165,17 +215,30 @@
   <EpisodeNumber>5</EpisodeNumber>
   <FirstAired>2012-05-20</FirstAired>
   <GuestStars></GuestStars>
+<<<<<<< HEAD
   <IMDB_ID>tt2103089</IMDB_ID>
   <Language>en</Language>
   <Overview>Bloggers' nicknames for Selina become her next obsession; Dan goes on a fact-finding mission after his boss is snubbed by the president; it's make-or-break time for the clean-jobs bill.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
   <RatingCount>25</RatingCount>
+=======
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Bloggers' nicknames for Selina become her next obsession; Dan goes on a fact-finding mission after his boss is snubbed by the president; it's make-or-break time for the clean-jobs bill.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>24</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Simon Blackwell|Armando Iannucci</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/237831/4303023.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433671575</lastupdated>
+=======
+  <lastupdated>1414767065</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>481929</seasonid>
   <seriesid>237831</seriesid>
   <thumb_added></thumb_added>
@@ -196,17 +259,30 @@
   <EpisodeNumber>6</EpisodeNumber>
   <FirstAired>2012-05-27</FirstAired>
   <GuestStars></GuestStars>
+<<<<<<< HEAD
   <IMDB_ID>tt2102237</IMDB_ID>
   <Language>en</Language>
   <Overview>Selina attends a healthy eating event at Camden Yards with some very grumpy fast-food executives, where she also confides a secret to Amy. Mike holds a press briefing for some local news pals, save for the inquisitive Leon West. Later, with the Veep delayed, Amy and Dan are forced to entertain elementary school children.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
   <RatingCount>21</RatingCount>
+=======
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Selina attends a healthy eating event at Camden Yards with some very grumpy fast-food executives, where she also confides a secret to Amy. Mike holds a press briefing for some local news pals, save for the inquisitive Leon West. Later, with the Veep delayed, Amy and Dan are forced to entertain elementary school children.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>20</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Simon Blackwell|Armando Iannucci|Tony Roche</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/237831/4303024.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433671584</lastupdated>
+=======
+  <lastupdated>1415012334</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>481929</seasonid>
   <seriesid>237831</seriesid>
   <thumb_added></thumb_added>
@@ -227,17 +303,29 @@
   <EpisodeNumber>7</EpisodeNumber>
   <FirstAired>2012-06-03</FirstAired>
   <GuestStars></GuestStars>
+<<<<<<< HEAD
   <IMDB_ID>tt2161219</IMDB_ID>
+=======
+  <IMDB_ID></IMDB_ID>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <Language>en</Language>
   <Overview>The vice president's office takes some heat over a pregnancy rumor and the firing of a Secret Service agent, so Selina establishes some new ground rules about internal correspondence. Meanwhile, Dan tries to cover his boss' tracks on the clean-jobs bill; and a staffer's job may be in jeopardy.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>19</RatingCount>
+=======
+  <RatingCount>18</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Roger Drew|Armando Iannucci|Ian Martin</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/237831/4314592.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433671594</lastupdated>
+=======
+  <lastupdated>1413456112</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>481929</seasonid>
   <seriesid>237831</seriesid>
   <thumb_added></thumb_added>
@@ -258,7 +346,11 @@
   <EpisodeNumber>8</EpisodeNumber>
   <FirstAired>2012-06-10</FirstAired>
   <GuestStars></GuestStars>
+<<<<<<< HEAD
   <IMDB_ID>tt2158251</IMDB_ID>
+=======
+  <IMDB_ID></IMDB_ID>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <Language>en</Language>
   <Overview>In the Season 1 finale, an Ohio gubernatorial candidate balks at Selina's endorsement due to her current unpopularity, but Mike and Amy try to make the best of the vice president's emotions during their meeting. Meanwhile, Dan can't shake the clean-jobs bill debacle, especially when it could be the subject of a Congressional hearing.</Overview>
   <ProductionCode></ProductionCode>
@@ -268,7 +360,11 @@
   <Writer>Armando Iannucci|Jesse Armstrong</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/237831/4314593.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433671606</lastupdated>
+=======
+  <lastupdated>1413456124</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>481929</seasonid>
   <seriesid>237831</seriesid>
   <thumb_added></thumb_added>
@@ -294,12 +390,20 @@
   <Overview>Fresh off successful campaign appearances for midterm elections, Selina sees an opportunity to expand her role, but must first curry favor with Kent Davison, the president's icy senior strategist. Meanwhile, there are new developments in the staff's personal lives.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>19</RatingCount>
+=======
+  <RatingCount>18</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Will Smith</Writer>
   <absolute_number>9</absolute_number>
   <filename>episodes/237831/4476951.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1427231975</lastupdated>
+=======
+  <lastupdated>1413456172</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>509995</seasonid>
   <seriesid>237831</seriesid>
   <thumb_added></thumb_added>
@@ -324,13 +428,22 @@
   <Language>en</Language>
   <Overview>Selina attends a pig roast in North Carolina as part of the president's &quot;Listen to Rural America&quot; initiative. Dan takes up Pilates to get face time.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.8</Rating>
   <RatingCount>16</RatingCount>
+=======
+  <Rating>7.9</Rating>
+  <RatingCount>15</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Simon Blackwell</Writer>
   <absolute_number>10</absolute_number>
   <filename>episodes/237831/4488941.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1427232037</lastupdated>
+=======
+  <lastupdated>1413456180</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>509995</seasonid>
   <seriesid>237831</seriesid>
   <thumb_added></thumb_added>
@@ -355,13 +468,22 @@
   <Language>en</Language>
   <Overview>As a hostage crisis in Uzbekistan heats up, Selina and Secretary of Defense General Maddox have trouble getting on the same page at their joint appearance at the Marine Corps Base at Quantico. Sue testifies at a congressional hearing on governmental efficiencies; Dan and Gary jockey for the Veep's ear.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.8</Rating>
   <RatingCount>16</RatingCount>
+=======
+  <Rating>7.7</Rating>
+  <RatingCount>15</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Sean Gray</Writer>
   <absolute_number>11</absolute_number>
   <filename>episodes/237831/4488942.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1427232088</lastupdated>
+=======
+  <lastupdated>1413456215</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>509995</seasonid>
   <seriesid>237831</seriesid>
   <thumb_added></thumb_added>
@@ -386,13 +508,22 @@
   <Language>en</Language>
   <Overview>Selina is rankled when the White House releases an unflattering photo of her. Mike and Kent bond over sailing; Jonah gets an executive parking space; Sue has a job interview. Selina takes steps to keep her staff happy as they prepare for her appearance at the Vic Allen dinner.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.9</Rating>
   <RatingCount>14</RatingCount>
+=======
+  <Rating>7.8</Rating>
+  <RatingCount>13</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Simon Blackwell|Armando Iannucci|</Writer>
   <absolute_number>12</absolute_number>
   <filename>episodes/237831/4488943.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1427232101</lastupdated>
+=======
+  <lastupdated>1413456403</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>509995</seasonid>
   <seriesid>237831</seriesid>
   <thumb_added></thumb_added>
@@ -413,17 +544,30 @@
   <EpisodeNumber>5</EpisodeNumber>
   <FirstAired>2013-05-12</FirstAired>
   <GuestStars></GuestStars>
+<<<<<<< HEAD
   <IMDB_ID>tt2693972</IMDB_ID>
   <Language>en</Language>
   <Overview>Selina and her staff head to Helsinki to finalize a trade agreement, but are worried whether Selina will be received warmly in Europe. Dan call Mike for advice on charming the press and Mike leans on Jonah for help. Ken and Ben argue over how to deal with new intel.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
   <RatingCount>17</RatingCount>
+=======
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Selina and her staff head to Helsinki to finalize a trade agreement, but are worried whether Selina will be received warmly in Europe. Dan call Mike for advice on charming the press and Mike leans on Jonah for help. Ken and Ben argue over how to deal with new intel.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>15</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Armando Iannucci|Ian Martin</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/237831/4488944.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433671909</lastupdated>
+=======
+  <lastupdated>1398763045</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>509995</seasonid>
   <seriesid>237831</seriesid>
   <thumb_added></thumb_added>
@@ -444,7 +588,11 @@
   <EpisodeNumber>6</EpisodeNumber>
   <FirstAired>2013-05-19</FirstAired>
   <GuestStars></GuestStars>
+<<<<<<< HEAD
   <IMDB_ID>tt2693602</IMDB_ID>
+=======
+  <IMDB_ID></IMDB_ID>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <Language>en</Language>
   <Overview>Catherine's 21st birthday party becomes a forum for Selina's budget negotiation with the majority leader, but Amy and Gary are more worried how Selina will handle seeing her ex-husband. Meanwhile, Mike discusses Selina's role in the Uzbek hostage crisis with the press.</Overview>
   <ProductionCode></ProductionCode>
@@ -454,7 +602,11 @@
   <Writer>Armando Iannucci|Tony Roche</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/237831/4488945.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433671917</lastupdated>
+=======
+  <lastupdated>1398763064</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>509995</seasonid>
   <seriesid>237831</seriesid>
   <thumb_added></thumb_added>
@@ -475,7 +627,11 @@
   <EpisodeNumber>7</EpisodeNumber>
   <FirstAired>2013-06-02</FirstAired>
   <GuestStars></GuestStars>
+<<<<<<< HEAD
   <IMDB_ID>tt2845800</IMDB_ID>
+=======
+  <IMDB_ID></IMDB_ID>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <Language>en</Language>
   <Overview>With D.C. in the midst of a government shutdown, Selina is forced to furlough some of her staff. A damaging story leaks about Selina’s ex-husband, Andrew; Danny Chung takes advantage of the shutdown; Gary Jonah go on a run to retrieve Selina’s trash.</Overview>
   <ProductionCode></ProductionCode>
@@ -485,7 +641,11 @@
   <Writer>Simon Blackwell|Armando Iannucci|Tony Roche</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/237831/4488946.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433671928</lastupdated>
+=======
+  <lastupdated>1413456469</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>509995</seasonid>
   <seriesid>237831</seriesid>
   <thumb_added></thumb_added>
@@ -506,7 +666,11 @@
   <EpisodeNumber>8</EpisodeNumber>
   <FirstAired>2013-06-09</FirstAired>
   <GuestStars>Allison Janney</GuestStars>
+<<<<<<< HEAD
   <IMDB_ID>tt2845812</IMDB_ID>
+=======
+  <IMDB_ID></IMDB_ID>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <Language>en</Language>
   <Overview>After being prepped for a “puff piece” interview at the VP residence, Selina is thrown by Janet Ryland’s “gotcha” questions.</Overview>
   <ProductionCode></ProductionCode>
@@ -516,7 +680,11 @@
   <Writer>Roger Drew|Armando Iannucci</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/237831/4488947.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433671935</lastupdated>
+=======
+  <lastupdated>1413456486</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>509995</seasonid>
   <seriesid>237831</seriesid>
   <thumb_added>2013-11-03 18:56:04</thumb_added>
@@ -537,7 +705,11 @@
   <EpisodeNumber>9</EpisodeNumber>
   <FirstAired>2013-06-16</FirstAired>
   <GuestStars></GuestStars>
+<<<<<<< HEAD
   <IMDB_ID>tt2845806</IMDB_ID>
+=======
+  <IMDB_ID></IMDB_ID>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <Language>en</Language>
   <Overview>The Veep continues her plans. Dan attempts to play both sides of the Selina-Danny Chung rivalry.</Overview>
   <ProductionCode></ProductionCode>
@@ -547,7 +719,11 @@
   <Writer>Sean Gray|Armando Iannucci|Will Smith</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/237831/4488948.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433671944</lastupdated>
+=======
+  <lastupdated>1413456500</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>509995</seasonid>
   <seriesid>237831</seriesid>
   <thumb_added></thumb_added>
@@ -568,7 +744,11 @@
   <EpisodeNumber>10</EpisodeNumber>
   <FirstAired>2013-06-23</FirstAired>
   <GuestStars></GuestStars>
+<<<<<<< HEAD
   <IMDB_ID>tt2845808</IMDB_ID>
+=======
+  <IMDB_ID></IMDB_ID>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <Language>en</Language>
   <Overview>With the administration in full crisis mode, Selina and her staff try to cope.</Overview>
   <ProductionCode></ProductionCode>
@@ -578,7 +758,11 @@
   <Writer>Armando Iannucci|Tony Roche</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/237831/4488949.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433671953</lastupdated>
+=======
+  <lastupdated>1398763176</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>509995</seasonid>
   <seriesid>237831</seriesid>
   <thumb_added></thumb_added>
@@ -603,13 +787,22 @@
   <Language>en</Language>
   <Overview>In Iowa, Selina courts possible caucus voters at a book signing for her new autobiography, while her team attends a staff wedding in D.C. As the day proceeds, she and her staff get word of a rumor that could affect the next election. </Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>8.2</Rating>
   <RatingCount>13</RatingCount>
+=======
+  <Rating>8.0</Rating>
+  <RatingCount>11</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Sean Gray|Will Smith|</Writer>
   <absolute_number>19</absolute_number>
   <filename>episodes/237831/4735539.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1427232556</lastupdated>
+=======
+  <lastupdated>1413456540</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>569926</seasonid>
   <seriesid>237831</seriesid>
   <thumb_added>2014-04-06 21:02:42</thumb_added>
@@ -634,13 +827,22 @@
   <Language>en</Language>
   <Overview>After a quick visit to their new campaign HQ, Selina and her team go on a ride-along with the Coast Guard, where they learn the president has flipped on a major issue, which makes Selina reexamine her own stance. Meanwhile, Gary questions his role with the Veep, and Jonah's new political blog causes trouble. </Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>8.1</Rating>
   <RatingCount>15</RatingCount>
+=======
+  <Rating>7.9</Rating>
+  <RatingCount>13</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Roger Drew|Ian Martin|</Writer>
   <absolute_number>20</absolute_number>
   <filename>episodes/237831/4821925.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1427232591</lastupdated>
+=======
+  <lastupdated>1413456549</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>569926</seasonid>
   <seriesid>237831</seriesid>
   <thumb_added>2014-04-13 23:22:22</thumb_added>
@@ -665,13 +867,22 @@
   <Language>en</Language>
   <Overview>While Selina and her staff prepare for an Annapolis event where she will announce her candidacy, Dan gets word that &quot;Saturday Night Live&quot; has done a not-so-flattering sketch about her. </Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>8.4</Rating>
   <RatingCount>14</RatingCount>
+=======
+  <Rating>8.3</Rating>
+  <RatingCount>12</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Sean Gray|Ian Martin|</Writer>
   <absolute_number>21</absolute_number>
   <filename>episodes/237831/4821926.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1427232640</lastupdated>
+=======
+  <lastupdated>1410466990</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>569926</seasonid>
   <seriesid>237831</seriesid>
   <thumb_added>2014-04-20 20:54:54</thumb_added>
@@ -697,12 +908,20 @@
   <Overview>On a fundraising trip in Silicon Valley, Selina is challenged by an anti-fracking mom and visits the campus of Clovis, a tech company with an ambitious young CEO. In D.C., Jonah makes a crude viral video of the Selina-mom encounter, and Dan, with Ben's help, gets an idea for a rumor he can spread against Chung. </Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.0</Rating>
+<<<<<<< HEAD
   <RatingCount>13</RatingCount>
+=======
+  <RatingCount>12</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Kevin Cecil|Roger Drew|Andy Riley|</Writer>
   <absolute_number>22</absolute_number>
   <filename>episodes/237831/4822933.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1427232666</lastupdated>
+=======
+  <lastupdated>1410467008</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>569926</seasonid>
   <seriesid>237831</seriesid>
   <thumb_added>2014-04-28 00:08:24</thumb_added>
@@ -728,12 +947,20 @@
   <Overview>Selina has a secret lunch with a major strategist she may tap as her campaign manager, even as Amy and Dan are openly vying for the job. Meanwhile, Defense Secretary Maddox invites the vice president to his country estate; Gary gets bad news about his shoulder; and Mike's colleagues find out he's mixing business with pleasure.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.2</Rating>
+<<<<<<< HEAD
   <RatingCount>13</RatingCount>
+=======
+  <RatingCount>12</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>Armando Iannucci|Georgia Pritchett|Will Smith</Writer>
   <absolute_number>23</absolute_number>
   <filename>episodes/237831/4833100.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1427232696</lastupdated>
+=======
+  <lastupdated>1413456562</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>569926</seasonid>
   <seriesid>237831</seriesid>
   <thumb_added>2014-05-04 20:21:54</thumb_added>
@@ -759,12 +986,20 @@
   <Overview>At an economic summit in Detroit, Selina’s staff and her family are peeved by the presence of her new personal trainer. Meanwhile, Jonah and Mike negotiate a photo-op with Selina and Maddox. Later, Catherine protects her mom from a protestor, and Selina attends a women’s gun show.  </Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.0</Rating>
+<<<<<<< HEAD
   <RatingCount>14</RatingCount>
+=======
+  <RatingCount>13</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Armando Iannucci|Kevin Cecil|David Quantick|Andy Riley|</Writer>
   <absolute_number>24</absolute_number>
   <filename>episodes/237831/4840945.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1427232772</lastupdated>
+=======
+  <lastupdated>1413375051</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>569926</seasonid>
   <seriesid>237831</seriesid>
   <thumb_added>2014-05-10 22:42:21</thumb_added>
@@ -790,12 +1025,20 @@
   <Overview>In the U.K. for the 100th anniversary of WWI, Selina’s staff worries about Ray’s growing influence on the Veep. Meanwhile, Dan’s nerves begin to fray as Ben gets news that sends him back to D.C. Later, Jonah arrives in London, U.K. to spy for Team Maddox, and Amy leaks a secret.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.0</Rating>
+<<<<<<< HEAD
   <RatingCount>14</RatingCount>
+=======
+  <RatingCount>13</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Simon Blackwell|Armando Iannucci|Tony Roche|</Writer>
   <absolute_number>25</absolute_number>
   <filename>episodes/237831/4840946.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1427232804</lastupdated>
+=======
+  <lastupdated>1413456585</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>569926</seasonid>
   <seriesid>237831</seriesid>
   <thumb_added>2014-05-18 08:04:11</thumb_added>
@@ -820,13 +1063,22 @@
   <Language>en</Language>
   <Overview>Selina and the staff prep for her debate with George Maddox, Danny Chung, congressman Owen Pierce and Joe Thornhill, a major-league baseball manager who recently entered the race. Dan returns with a rosier outlook. Wendy, Mike's wife, arrives to do a style piece on Selina, but eyes a bigger story involving Ray. </Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>8.2</Rating>
   <RatingCount>12</RatingCount>
+=======
+  <Rating>8.0</Rating>
+  <RatingCount>10</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Armando Iannucci|David Quantick|Tony Roche|</Writer>
   <absolute_number>26</absolute_number>
   <filename>episodes/237831/4840947.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1427232826</lastupdated>
+=======
+  <lastupdated>1413456594</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>569926</seasonid>
   <seriesid>237831</seriesid>
   <thumb_added>2014-06-01 20:57:11</thumb_added>
@@ -851,13 +1103,22 @@
   <Language>en</Language>
   <Overview>With Thornhill ahead in the polls, Selina and her staff discuss how to make her more &quot;folksy.&quot; In need of a job, Jonah meets with Bill Ericsson. Selina has an interview with pretentious journalist Quincy Carter. </Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>8.5</Rating>
   <RatingCount>11</RatingCount>
+=======
+  <Rating>8.3</Rating>
+  <RatingCount>9</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Armando Iannucci|Simon Blackwell|Georgia Pritchett|</Writer>
   <absolute_number>27</absolute_number>
   <filename>episodes/237831/4840948.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1427232856</lastupdated>
+=======
+  <lastupdated>1413456605</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>569926</seasonid>
   <seriesid>237831</seriesid>
   <thumb_added>2014-06-09 16:03:47</thumb_added>
@@ -882,19 +1143,29 @@
   <Language>en</Language>
   <Overview>Three days before the New Hampshire primary, Selina and her staff juggle her multiple official obligations and campaign appearances. </Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>8.5</Rating>
   <RatingCount>11</RatingCount>
+=======
+  <Rating>8.4</Rating>
+  <RatingCount>9</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Simon Blackwell|Armando Iannucci|Tony Roche|</Writer>
   <absolute_number>28</absolute_number>
   <filename>episodes/237831/4840949.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1427232876</lastupdated>
+=======
+  <lastupdated>1408570803</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>569926</seasonid>
   <seriesid>237831</seriesid>
   <thumb_added>2014-06-09 16:03:55</thumb_added>
   <thumb_height>225</thumb_height>
   <thumb_width>400</thumb_width>
 </Episode>
+<<<<<<< HEAD
 <Episode>
   <id>5096668</id>
   <Combined_episodenumber>1</Combined_episodenumber>
@@ -1205,4 +1476,6 @@
   <thumb_height>225</thumb_height>
   <thumb_width>400</thumb_width>
 </Episode>
+=======
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
 </Data>

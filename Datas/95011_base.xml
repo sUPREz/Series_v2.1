@@ -14,17 +14,28 @@
     <NetworkID></NetworkID>
     <Overview>This mockumentary explores the many different types of a modern family through the stories of a gay couple, comprised of Mitchell and Cameron, and their daughter Lily, a straight couple, comprised of Phil and Claire, and their three kids, Haley, Alex, and Luke, and a multi-ethnic couple, which is comprised of Jay and Gloria, and her son Manny.</Overview>
     <Rating>8.7</Rating>
+<<<<<<< HEAD
     <RatingCount>278</RatingCount>
+=======
+    <RatingCount>261</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <Runtime>30</Runtime>
     <SeriesID>77270</SeriesID>
     <SeriesName>Modern Family</SeriesName>
     <Status>Continuing</Status>
     <added>2009-05-19 07:39:50</added>
     <addedBy>5664</addedBy>
+<<<<<<< HEAD
     <banner>graphical/95011-g6.jpg</banner>
     <fanart>fanart/original/95011-31.jpg</fanart>
     <lastupdated>1434836097</lastupdated>
     <poster>posters/95011-9.jpg</poster>
+=======
+    <banner>text/95011.jpg</banner>
+    <fanart>fanart/original/95011-21.jpg</fanart>
+    <lastupdated>1415041790</lastupdated>
+    <poster>posters/95011-3.jpg</poster>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <tms_wanted_old>1</tms_wanted_old>
     <zap2it_id>EP01158124</zap2it_id>
   </Series>

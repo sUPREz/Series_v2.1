@@ -16,8 +16,13 @@
 
 The IT Crowd is a playful and somewhat surreal look at what it's really like to be the underclass of every company - the IT Department.</Overview>
     <Rating>8.9</Rating>
+<<<<<<< HEAD
     <RatingCount>247</RatingCount>
     <Runtime>25</Runtime>
+=======
+    <RatingCount>241</RatingCount>
+    <Runtime>30</Runtime>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <SeriesID>54188</SeriesID>
     <SeriesName>The IT Crowd</SeriesName>
     <Status>Ended</Status>
@@ -25,7 +30,11 @@ The IT Crowd is a playful and somewhat surreal look at what it's really like to 
     <addedBy></addedBy>
     <banner>graphical/79216-g8.jpg</banner>
     <fanart>fanart/original/79216-18.jpg</fanart>
+<<<<<<< HEAD
     <lastupdated>1430834711</lastupdated>
+=======
+    <lastupdated>1413827876</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <poster>posters/79216-1.jpg</poster>
     <tms_wanted_old>1</tms_wanted_old>
     <zap2it_id>EP00930794</zap2it_id>

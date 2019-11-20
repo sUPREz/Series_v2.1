@@ -13,8 +13,13 @@
     <Network>FX</Network>
     <NetworkID></NetworkID>
     <Overview>From the Coen brothers is a fresh story spun out of the world of the Oscar-winning film. A drifter named Lorne Malvo arrives in small-town Minnesota and influences the population with his malice and violence, including put-upon insurance salesman Lester Nygaard.</Overview>
+<<<<<<< HEAD
     <Rating>9.1</Rating>
     <RatingCount>58</RatingCount>
+=======
+    <Rating>9.0</Rating>
+    <RatingCount>37</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <Runtime>60</Runtime>
     <SeriesID>179637</SeriesID>
     <SeriesName>Fargo</SeriesName>
@@ -23,8 +28,13 @@
     <addedBy>386264</addedBy>
     <banner>graphical/269613-g3.jpg</banner>
     <fanart>fanart/original/269613-2.jpg</fanart>
+<<<<<<< HEAD
     <lastupdated>1434990583</lastupdated>
     <poster>posters/269613-4.jpg</poster>
+=======
+    <lastupdated>1414875294</lastupdated>
+    <poster>posters/269613-3.jpg</poster>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <tms_wanted_old>0</tms_wanted_old>
     <zap2it_id>SH01720858</zap2it_id>
   </Series>

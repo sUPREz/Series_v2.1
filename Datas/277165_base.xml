@@ -12,9 +12,15 @@
     <Language>en</Language>
     <Network>HBO</Network>
     <NetworkID></NetworkID>
+<<<<<<< HEAD
     <Overview>In the high-tech gold rush of modern Silicon Valley, the people most qualified to succeed are the least capable of handling success. A comedy partially inspired by Mike Judge's own experiences as a Silicon Valley engineer in the late 1980s.</Overview>
     <Rating>8.4</Rating>
     <RatingCount>45</RatingCount>
+=======
+    <Overview>In the high-tech gold rush of modern Silicon Valley, the people most qualified to succeed are the least capable of handling success. A comedy partially inspired by Mike Judge's own experiences as a Silicon Valley engineer in the late 1980s. </Overview>
+    <Rating>8.5</Rating>
+    <RatingCount>25</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <Runtime>30</Runtime>
     <SeriesID>3072410</SeriesID>
     <SeriesName>Silicon Valley</SeriesName>
@@ -23,8 +29,13 @@
     <addedBy>346515</addedBy>
     <banner>graphical/277165-g5.jpg</banner>
     <fanart>fanart/original/277165-2.jpg</fanart>
+<<<<<<< HEAD
     <lastupdated>1434939752</lastupdated>
     <poster>posters/277165-1.jpg</poster>
+=======
+    <lastupdated>1414931047</lastupdated>
+    <poster>posters/277165-5.jpg</poster>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <tms_wanted_old>0</tms_wanted_old>
     <zap2it_id>SH01859571</zap2it_id>
   </Series>

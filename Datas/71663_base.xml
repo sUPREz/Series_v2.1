@@ -14,7 +14,11 @@
     <NetworkID></NetworkID>
     <Overview>Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.</Overview>
     <Rating>9.0</Rating>
+<<<<<<< HEAD
     <RatingCount>572</RatingCount>
+=======
+    <RatingCount>493</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <Runtime>30</Runtime>
     <SeriesID>146</SeriesID>
     <SeriesName>The Simpsons</SeriesName>
@@ -23,8 +27,13 @@
     <addedBy></addedBy>
     <banner>graphical/71663-g24.jpg</banner>
     <fanart>fanart/original/71663-31.jpg</fanart>
+<<<<<<< HEAD
     <lastupdated>1434910192</lastupdated>
     <poster>posters/71663-10.jpg</poster>
+=======
+    <lastupdated>1415043171</lastupdated>
+    <poster>posters/71663-20.jpg</poster>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <tms_wanted_old>1</tms_wanted_old>
     <zap2it_id>EP00018693</zap2it_id>
   </Series>

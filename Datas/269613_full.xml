@@ -12,8 +12,13 @@
   <Network>FX</Network>
   <NetworkID></NetworkID>
   <Overview>From the Coen brothers is a fresh story spun out of the world of the Oscar-winning film. A drifter named Lorne Malvo arrives in small-town Minnesota and influences the population with his malice and violence, including put-upon insurance salesman Lester Nygaard.</Overview>
+<<<<<<< HEAD
   <Rating>9.1</Rating>
   <RatingCount>58</RatingCount>
+=======
+  <Rating>9.0</Rating>
+  <RatingCount>37</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <Runtime>60</Runtime>
   <SeriesID>179637</SeriesID>
   <SeriesName>Fargo</SeriesName>
@@ -22,8 +27,13 @@
   <addedBy>386264</addedBy>
   <banner>graphical/269613-g3.jpg</banner>
   <fanart>fanart/original/269613-2.jpg</fanart>
+<<<<<<< HEAD
   <lastupdated>1434990583</lastupdated>
   <poster>posters/269613-4.jpg</poster>
+=======
+  <lastupdated>1414875294</lastupdated>
+  <poster>posters/269613-3.jpg</poster>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <tms_wanted_old>0</tms_wanted_old>
   <zap2it_id>SH01720858</zap2it_id>
 </Series>
@@ -54,7 +64,11 @@
   <airsbefore_episode>1</airsbefore_episode>
   <airsbefore_season>1</airsbefore_season>
   <filename>episodes/269613/4912337.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1420739512</lastupdated>
+=======
+  <lastupdated>1414875290</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>560034</seasonid>
   <seriesid>269613</seriesid>
   <thumb_added>2014-09-15 14:29:05</thumb_added>
@@ -69,7 +83,11 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
+<<<<<<< HEAD
   <Director>Adam Bernstein</Director>
+=======
+  <Director>|Adam Bernstein|</Director>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>The Crocodile's Dilemma</EpisodeName>
   <EpisodeNumber>1</EpisodeNumber>
@@ -80,12 +98,21 @@
   <Overview>A ruthless, manipulative man meets a small town insurance salesman and sets him on a path of destruction.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.0</Rating>
+<<<<<<< HEAD
   <RatingCount>55</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Noah Hawley</Writer>
   <absolute_number>1</absolute_number>
   <filename>episodes/269613/4626050.jpg</filename>
   <lastupdated>1431168703</lastupdated>
+=======
+  <RatingCount>43</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|Noah Hawley|</Writer>
+  <absolute_number>1</absolute_number>
+  <filename>episodes/269613/4626050.jpg</filename>
+  <lastupdated>1414863856</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>526126</seasonid>
   <seriesid>269613</seriesid>
   <thumb_added>2014-01-16 00:30:53</thumb_added>
@@ -100,7 +127,11 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
+<<<<<<< HEAD
   <Director>Adam Bernstein</Director>
+=======
+  <Director>|Adam Bernstein|</Director>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>The Rooster Prince</EpisodeName>
   <EpisodeNumber>2</EpisodeNumber>
@@ -110,6 +141,7 @@
   <Language>en</Language>
   <Overview>Molly begins to suspect that Lester is involved in the murders, but her new boss points her in a different direction. Meanwhile, Malvo investigates the blackmail plot against a man known as the 'Supermarket King'.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>8.0</Rating>
   <RatingCount>47</RatingCount>
   <SeasonNumber>1</SeasonNumber>
@@ -117,6 +149,15 @@
   <absolute_number>2</absolute_number>
   <filename>episodes/269613/4808528.jpg</filename>
   <lastupdated>1431168689</lastupdated>
+=======
+  <Rating>8.1</Rating>
+  <RatingCount>36</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|Noah Hawley|</Writer>
+  <absolute_number>2</absolute_number>
+  <filename>episodes/269613/4808528.jpg</filename>
+  <lastupdated>1414864452</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>526126</seasonid>
   <seriesid>269613</seriesid>
   <thumb_added>2014-04-16 22:25:50</thumb_added>
@@ -131,7 +172,11 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
+<<<<<<< HEAD
   <Director>Randall Einhorn</Director>
+=======
+  <Director>|Randall Einhorn|</Director>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>A Muddy Road</EpisodeName>
   <EpisodeNumber>3</EpisodeNumber>
@@ -141,6 +186,7 @@
   <Language>en</Language>
   <Overview>Malvo flips the script on the blackmail operation, Molly sets a trap, and Gus debates whether he should come clean. Lester's return to work has complicated repercussions.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>8.0</Rating>
   <RatingCount>42</RatingCount>
   <SeasonNumber>1</SeasonNumber>
@@ -148,6 +194,15 @@
   <absolute_number>3</absolute_number>
   <filename>episodes/269613/4808529.jpg</filename>
   <lastupdated>1431168694</lastupdated>
+=======
+  <Rating>7.9</Rating>
+  <RatingCount>34</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|Noah Hawley|</Writer>
+  <absolute_number>3</absolute_number>
+  <filename>episodes/269613/4808529.jpg</filename>
+  <lastupdated>1414864457</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>526126</seasonid>
   <seriesid>269613</seriesid>
   <thumb_added>2014-04-30 05:23:15</thumb_added>
@@ -162,7 +217,11 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
+<<<<<<< HEAD
   <Director>Randall Einhorn</Director>
+=======
+  <Director>|Randall Einhorn|</Director>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Eating the Blame</EpisodeName>
   <EpisodeNumber>4</EpisodeNumber>
@@ -172,6 +231,7 @@
   <Language>en</Language>
   <Overview>When Gus tries to right a wrong, Malvo embraces his alter ego. Lester finds himself in a surprising situation, and Molly uncovers a promising lead.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.9</Rating>
   <RatingCount>44</RatingCount>
   <SeasonNumber>1</SeasonNumber>
@@ -179,6 +239,15 @@
   <absolute_number>4</absolute_number>
   <filename>episodes/269613/4808530.jpg</filename>
   <lastupdated>1431168708</lastupdated>
+=======
+  <Rating>8.0</Rating>
+  <RatingCount>33</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|Noah Hawley|</Writer>
+  <absolute_number>4</absolute_number>
+  <filename>episodes/269613/4808530.jpg</filename>
+  <lastupdated>1414864462</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>526126</seasonid>
   <seriesid>269613</seriesid>
   <thumb_added>2014-04-30 17:14:16</thumb_added>
@@ -193,7 +262,11 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
+<<<<<<< HEAD
   <Director>Colin Bucksey</Director>
+=======
+  <Director>|Colin Bucksey|</Director>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>The Six Ungraspables</EpisodeName>
   <EpisodeNumber>5</EpisodeNumber>
@@ -203,6 +276,7 @@
   <Language>en</Language>
   <Overview>When Lester has a close call, Molly makes an unorthodox decision. Gus weighs some neighborly advice, and Malvo gets what he wants.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.9</Rating>
   <RatingCount>44</RatingCount>
   <SeasonNumber>1</SeasonNumber>
@@ -210,6 +284,15 @@
   <absolute_number>5</absolute_number>
   <filename>episodes/269613/4808531.jpg</filename>
   <lastupdated>1431168714</lastupdated>
+=======
+  <Rating>8.1</Rating>
+  <RatingCount>33</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|Noah Hawley|</Writer>
+  <absolute_number>5</absolute_number>
+  <filename>episodes/269613/4808531.jpg</filename>
+  <lastupdated>1414864467</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>526126</seasonid>
   <seriesid>269613</seriesid>
   <thumb_added>2014-05-14 04:38:43</thumb_added>
@@ -235,12 +318,20 @@
   <Overview>Malvo executes his master plan, while Lester attempts to craft one of his own. Gus and Molly team up in Duluth. </Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.3</Rating>
+<<<<<<< HEAD
   <RatingCount>40</RatingCount>
+=======
+  <RatingCount>31</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Noah Hawley</Writer>
   <absolute_number>6</absolute_number>
   <filename>episodes/269613/4808533.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1426176285</lastupdated>
+=======
+  <lastupdated>1414864474</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>526126</seasonid>
   <seriesid>269613</seriesid>
   <thumb_added>2014-05-21 07:38:18</thumb_added>
@@ -265,13 +356,22 @@
   <Language>en</Language>
   <Overview>Malvo seeks answers, while Lester finagles a few of his own. Molly and Gus try to get past a setback in the investigation.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>8.0</Rating>
   <RatingCount>42</RatingCount>
+=======
+  <Rating>7.9</Rating>
+  <RatingCount>32</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Noah Hawley</Writer>
   <absolute_number>7</absolute_number>
   <filename>episodes/269613/4808534.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1426176340</lastupdated>
+=======
+  <lastupdated>1414864478</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>526126</seasonid>
   <seriesid>269613</seriesid>
   <thumb_added>2014-05-28 13:25:32</thumb_added>
@@ -297,12 +397,20 @@
   <Overview>Molly faces pressure to close the case, while Lester starts to feel like a new man.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.0</Rating>
+<<<<<<< HEAD
   <RatingCount>37</RatingCount>
+=======
+  <RatingCount>27</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Noah Hawley</Writer>
   <absolute_number>8</absolute_number>
   <filename>episodes/269613/4808535.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1426176351</lastupdated>
+=======
+  <lastupdated>1414864484</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>526126</seasonid>
   <seriesid>269613</seriesid>
   <thumb_added>2014-06-03 14:57:40</thumb_added>
@@ -327,13 +435,22 @@
   <Language>en</Language>
   <Overview>Lester has an unexpected encounter, Malvo changes course, and a new investigation leads Molly down a familiar path.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>8.1</Rating>
   <RatingCount>35</RatingCount>
+=======
+  <Rating>8.2</Rating>
+  <RatingCount>26</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Noah Hawley</Writer>
   <absolute_number>9</absolute_number>
   <filename>episodes/269613/4808536.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1426176373</lastupdated>
+=======
+  <lastupdated>1414864485</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>526126</seasonid>
   <seriesid>269613</seriesid>
   <thumb_added>2014-06-06 16:22:17</thumb_added>
@@ -358,13 +475,22 @@
   <Language>en</Language>
   <Overview>Molly takes the lead, while Gus pursues a hunch. Lester manipulates a situation, and Malvo finds a new target.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>8.6</Rating>
   <RatingCount>36</RatingCount>
+=======
+  <Rating>8.5</Rating>
+  <RatingCount>26</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Noah Hawley</Writer>
   <absolute_number>10</absolute_number>
   <filename>episodes/269613/4808538.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1426176437</lastupdated>
+=======
+  <lastupdated>1414875245</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>526126</seasonid>
   <seriesid>269613</seriesid>
   <thumb_added>2014-06-11 14:06:58</thumb_added>

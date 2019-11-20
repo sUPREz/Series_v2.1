@@ -14,7 +14,11 @@
     <NetworkID></NetworkID>
     <Overview>From Armando Iannucci (The Thick of It) comes a look into American politics, revolving around former Senator Selina Meyer (Julia Louis-Dreyfus) who finds being Vice President of the United States is nothing like she expected and everything everyone ever warned her about.</Overview>
     <Rating>8.3</Rating>
+<<<<<<< HEAD
     <RatingCount>37</RatingCount>
+=======
+    <RatingCount>33</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <Runtime>30</Runtime>
     <SeriesID>80395</SeriesID>
     <SeriesName>Veep</SeriesName>
@@ -22,9 +26,15 @@
     <added>2011-03-07 05:38:06</added>
     <addedBy>322581</addedBy>
     <banner>graphical/237831-g2.jpg</banner>
+<<<<<<< HEAD
     <fanart>fanart/original/237831-9.jpg</fanart>
     <lastupdated>1434920379</lastupdated>
     <poster>posters/237831-5.jpg</poster>
+=======
+    <fanart>fanart/original/237831-5.jpg</fanart>
+    <lastupdated>1415012592</lastupdated>
+    <poster>posters/237831-2.jpg</poster>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <tms_wanted_old>1</tms_wanted_old>
     <zap2it_id>EP01518570</zap2it_id>
   </Series>

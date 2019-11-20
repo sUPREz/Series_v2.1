@@ -15,7 +15,11 @@
     <Overview>Set in New York's world of high stakes litigation, Damages follows the lives of Patty Hewes (Glenn Close), the nation's most revered and most reviled litigator, and her bright, ambitious protege Ellen Parsons (Rose Byrne) as they become embroiled in a class action lawsuit targeting Arthur Frobisher (Ted Danson), one of the country's wealthiest CEOs. As Patty battles Frobisher and his attorney, Ellen learns what it takes to win at all costs -- and that lives, not just fortunes, are at stake.
 </Overview>
     <Rating>8.3</Rating>
+<<<<<<< HEAD
     <RatingCount>88</RatingCount>
+=======
+    <RatingCount>87</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <Runtime>60</Runtime>
     <SeriesID>58333</SeriesID>
     <SeriesName>Damages</SeriesName>
@@ -24,8 +28,13 @@
     <addedBy></addedBy>
     <banner>graphical/80367-g12.jpg</banner>
     <fanart>fanart/original/80367-26.jpg</fanart>
+<<<<<<< HEAD
     <lastupdated>1429459423</lastupdated>
     <poster>posters/80367-10.jpg</poster>
+=======
+    <lastupdated>1412194062</lastupdated>
+    <poster>posters/80367-1.jpg</poster>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <tms_wanted_old>1</tms_wanted_old>
     <zap2it_id>EP00924423</zap2it_id>
   </Series>

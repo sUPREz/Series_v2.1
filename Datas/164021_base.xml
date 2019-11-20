@@ -14,8 +14,13 @@
     <NetworkID></NetworkID>
     <Overview>At 23 years old, Jimmy Chance is going nowhere in life. He skims pools for a living, parties every night and still lives at home with his family, including his parents and his cousin, Mike. 
 Jimmy's life takes a drastic turn when a chance romantic encounter with Lucy goes awry once he discovers she is a wanted felon. Months later, when Jimmy pays a visit to the local prison, he discovers Lucy gave birth to their baby, who he is now charged with raising.</Overview>
+<<<<<<< HEAD
     <Rating>8.5</Rating>
     <RatingCount>57</RatingCount>
+=======
+    <Rating>8.7</Rating>
+    <RatingCount>55</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <Runtime>20</Runtime>
     <SeriesID>79502</SeriesID>
     <SeriesName>Raising Hope</SeriesName>
@@ -24,7 +29,11 @@ Jimmy's life takes a drastic turn when a chance romantic encounter with Lucy goe
     <addedBy>235</addedBy>
     <banner>graphical/164021-g2.jpg</banner>
     <fanart>fanart/original/164021-17.jpg</fanart>
+<<<<<<< HEAD
     <lastupdated>1434270107</lastupdated>
+=======
+    <lastupdated>1413892916</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <poster>posters/164021-2.jpg</poster>
     <tms_wanted_old>1</tms_wanted_old>
     <zap2it_id>EP01279218</zap2it_id>

@@ -22,8 +22,13 @@
     <added>2013-06-07 20:03:30</added>
     <addedBy>382000</addedBy>
     <banner>graphical/270531-g.jpg</banner>
+<<<<<<< HEAD
     <fanart>fanart/original/270531-3.jpg</fanart>
     <lastupdated>1430396840</lastupdated>
+=======
+    <fanart>fanart/original/270531-1.jpg</fanart>
+    <lastupdated>1413281900</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <poster>posters/270531-1.jpg</poster>
     <tms_wanted_old>0</tms_wanted_old>
     <zap2it_id>EP01776228</zap2it_id>

@@ -12,18 +12,31 @@
   <Network>AMC</Network>
   <NetworkID></NetworkID>
   <Overview>In the early 1980s a visionary, an engineer and a prodigy combine to confront the corporate behemoths of the time. Their personal and professional lives will be challenged by greed and ego while charting the changing culture in Texas' Silicon Prairie.</Overview>
+<<<<<<< HEAD
   <Rating>8.1</Rating>
   <RatingCount>30</RatingCount>
   <Runtime>60</Runtime>
+=======
+  <Rating>8.4</Rating>
+  <RatingCount>18</RatingCount>
+  <Runtime>40</Runtime>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeriesID>187158</SeriesID>
   <SeriesName>Halt and Catch Fire</SeriesName>
   <Status>Continuing</Status>
   <added>2013-07-30 09:28:51</added>
   <addedBy>354773</addedBy>
+<<<<<<< HEAD
   <banner>graphical/271910-g2.jpg</banner>
   <fanart>fanart/original/271910-10.jpg</fanart>
   <lastupdated>1435012030</lastupdated>
   <poster>posters/271910-7.jpg</poster>
+=======
+  <banner>graphical/271910-g6.jpg</banner>
+  <fanart>fanart/original/271910-2.jpg</fanart>
+  <lastupdated>1414753244</lastupdated>
+  <poster>posters/271910-3.jpg</poster>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <tms_wanted_old>0</tms_wanted_old>
   <zap2it_id>SH01863199</zap2it_id>
 </Series>
@@ -79,13 +92,22 @@
   <Language>en</Language>
   <Overview>The Texan company Cardiff Electronics gets a new employee from New York. He's apparently working for IBM, but after the he gets the new job it gets clear that he has a hidden agenda, and is not exactly what he claims to be.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>8.1</Rating>
   <RatingCount>21</RatingCount>
+=======
+  <Rating>8.2</Rating>
+  <RatingCount>16</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Christopher Cantwell|Christopher C. Rogers|</Writer>
   <absolute_number>1</absolute_number>
   <filename>episodes/271910/4656713.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1425668724</lastupdated>
+=======
+  <lastupdated>1413482189</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>529315</seasonid>
   <seriesid>271910</seriesid>
   <thumb_added>2014-03-07 14:30:15</thumb_added>
@@ -111,12 +133,20 @@
   <Overview>After surviving a visit from IBM, Joe's team must overcome internal differences and begin the technical feat of building the new machine.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
+<<<<<<< HEAD
   <RatingCount>22</RatingCount>
+=======
+  <RatingCount>17</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Christopher Cantwell|Christopher C. Rogers|</Writer>
   <absolute_number>2</absolute_number>
   <filename>episodes/271910/4750417.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1426292087</lastupdated>
+=======
+  <lastupdated>1413482208</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>529315</seasonid>
   <seriesid>271910</seriesid>
   <thumb_added>2014-06-02 09:00:27</thumb_added>
@@ -141,13 +171,22 @@
   <Language>en</Language>
   <Overview>Gordon and Cameron struggle to make Joe's vision a reality; Joe and Bosworth seek the funds to make the new machine.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.5</Rating>
   <RatingCount>20</RatingCount>
+=======
+  <Rating>7.4</Rating>
+  <RatingCount>16</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Jason Cahill</Writer>
   <absolute_number>3</absolute_number>
   <filename>episodes/271910/4853842.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1426292119</lastupdated>
+=======
+  <lastupdated>1413616118</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>529315</seasonid>
   <seriesid>271910</seriesid>
   <thumb_added>2014-06-09 09:31:16</thumb_added>
@@ -172,13 +211,22 @@
   <Language>en</Language>
   <Overview>As Cameron nears completion of the BIOS, a crisis threatens the project's future and requires all hands on deck to save the machine.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.9</Rating>
   <RatingCount>17</RatingCount>
+=======
+  <Rating>8.0</Rating>
+  <RatingCount>13</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Jonathan Lisco</Writer>
   <absolute_number>4</absolute_number>
   <filename>episodes/271910/4853843.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1426292157</lastupdated>
+=======
+  <lastupdated>1413482235</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>529315</seasonid>
   <seriesid>271910</seriesid>
   <thumb_added>2014-06-16 08:26:19</thumb_added>
@@ -204,12 +252,20 @@
   <Overview>Cameron bristles under a new manager as Joe and Gordon attempt to procure a key piece of new technology for the computer.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>16</RatingCount>
+=======
+  <RatingCount>12</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Dahvi Waller</Writer>
   <absolute_number>5</absolute_number>
   <filename>episodes/271910/4853846.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1426292210</lastupdated>
+=======
+  <lastupdated>1413482255</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>529315</seasonid>
   <seriesid>271910</seriesid>
   <thumb_added>2014-06-30 21:29:31</thumb_added>
@@ -235,12 +291,20 @@
   <Overview>A breakthrough by Cameron places her at odds with Gordon, leaving Joe to make a tough decision. Meanwhile, Hurricane Alicia spurs some personal revelations.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>16</RatingCount>
+=======
+  <RatingCount>13</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Zack Whedon</Writer>
   <absolute_number>6</absolute_number>
   <filename>episodes/271910/4853850.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1426292251</lastupdated>
+=======
+  <lastupdated>1413482272</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>529315</seasonid>
   <seriesid>271910</seriesid>
   <thumb_added>2014-06-30 18:56:00</thumb_added>
@@ -265,13 +329,22 @@
   <Language>en</Language>
   <Overview>A visitor from Joe's past threatens his newfound connection with Cameron. Meanwhile, with Donna out of town, the toll of Gordon's work catches up with him.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.6</Rating>
   <RatingCount>14</RatingCount>
+=======
+  <Rating>7.5</Rating>
+  <RatingCount>10</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Jamie Pachino</Writer>
   <absolute_number>7</absolute_number>
   <filename>episodes/271910/4853854.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1426292327</lastupdated>
+=======
+  <lastupdated>1413482288</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>529315</seasonid>
   <seriesid>271910</seriesid>
   <thumb_added>2014-07-08 13:02:24</thumb_added>
@@ -296,13 +369,22 @@
   <Language>en</Language>
   <Overview>Scandal hits Cardiff Electric as the team finalizes preparations for COMDEX. Meanwhile, Bosworth makes a sacrifice for the good of the PC program.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.6</Rating>
   <RatingCount>15</RatingCount>
+=======
+  <Rating>7.5</Rating>
+  <RatingCount>11</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Dahvi Waller|Zack Whedon|</Writer>
   <absolute_number>8</absolute_number>
   <filename>episodes/271910/4853855.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1426292351</lastupdated>
+=======
+  <lastupdated>1413482301</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>529315</seasonid>
   <seriesid>271910</seriesid>
   <thumb_added>2014-07-14 10:11:56</thumb_added>
@@ -327,13 +409,22 @@
   <Language>en</Language>
   <Overview>Unforeseen opponents and new complications threaten to derail the Cardiff Electric team's work at COMDEX.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.4</Rating>
   <RatingCount>14</RatingCount>
+=======
+  <Rating>7.2</Rating>
+  <RatingCount>10</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Jason Cahill</Writer>
   <absolute_number>9</absolute_number>
   <filename>episodes/271910/4853856.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1426292386</lastupdated>
+=======
+  <lastupdated>1413482316</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>529315</seasonid>
   <seriesid>271910</seriesid>
   <thumb_added>2014-07-21 11:42:40</thumb_added>
@@ -452,6 +543,7 @@
   <Overview>The Clarks receive a surprising invitation as Bosworth tries to reconnect with his former life. Meanwhile, a problem from within Mutiny threatens its survival.
 </Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>8.0</Rating>
   <RatingCount>4</RatingCount>
   <SeasonNumber>2</SeasonNumber>
@@ -677,9 +769,19 @@
   <filename></filename>
   <lastupdated>1432365054</lastupdated>
   <seasonid>617400</seasonid>
+=======
+  <Rating>7.3</Rating>
+  <RatingCount>8</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>10</absolute_number>
+  <filename>episodes/271910/4853857.jpg</filename>
+  <lastupdated>1413482331</lastupdated>
+  <seasonid>529315</seasonid>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seriesid>271910</seriesid>
-  <thumb_added></thumb_added>
-  <thumb_height></thumb_height>
-  <thumb_width></thumb_width>
+  <thumb_added>2014-07-28 21:18:33</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
 </Episode>
 </Data>

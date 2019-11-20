@@ -13,17 +13,28 @@
     <Network>Comedy Central</Network>
     <NetworkID></NetworkID>
     <Overview>A late 20th-century New York City pizza delivery boy, Philip J. Fry, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the 31st century.</Overview>
+<<<<<<< HEAD
     <Rating>9.2</Rating>
     <RatingCount>518</RatingCount>
+=======
+    <Rating>9.3</Rating>
+    <RatingCount>487</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <Runtime>30</Runtime>
     <SeriesID>249</SeriesID>
     <SeriesName>Futurama</SeriesName>
     <Status>Ended</Status>
     <added></added>
     <addedBy></addedBy>
+<<<<<<< HEAD
     <banner>graphical/73871-g24.jpg</banner>
     <fanart>fanart/original/73871-21.jpg</fanart>
     <lastupdated>1434811028</lastupdated>
+=======
+    <banner>graphical/73871-g15.jpg</banner>
+    <fanart>fanart/original/73871-26.jpg</fanart>
+    <lastupdated>1415038765</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <poster>posters/73871-2.jpg</poster>
     <tms_wanted_old>1</tms_wanted_old>
     <zap2it_id>SH00303483</zap2it_id>

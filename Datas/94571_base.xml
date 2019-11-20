@@ -2,9 +2,15 @@
 <Data>
   <Series>
     <id>94571</id>
+<<<<<<< HEAD
     <Actors>|Joel McHale|Gillian Jacobs|Danny Pudi|Jonathan Banks|Jim Rash|Ken Jeong|Donald Glover|Alison Brie|Yvette Nicole Brown|Chevy Chase|</Actors>
     <Airs_DayOfWeek>Tuesday</Airs_DayOfWeek>
     <Airs_Time>3:00 AM</Airs_Time>
+=======
+    <Actors>|Donald Glover|Alison Brie|Danny Pudi|Yvette Nicole Brown|Chevy Chase|Gillian Jacobs|Joel McHale|Jim Rash|Ken Jeong|Jonathan Banks|</Actors>
+    <Airs_DayOfWeek>Thursday</Airs_DayOfWeek>
+    <Airs_Time>8:00 PM</Airs_Time>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <ContentRating>TV-PG</ContentRating>
     <FirstAired>2009-09-17</FirstAired>
     <Genre>|Comedy|</Genre>
@@ -14,17 +20,28 @@
     <NetworkID></NetworkID>
     <Overview>From Emmy Award-winner Dan Harmon comes &quot;Community&quot;, a smart comedy series about higher education – and lower expectations. The student body at Greendale Community College is made up of high-school losers, newly divorced housewives, and old people who want to keep their minds active. Within these not-so-hallowed halls, Community focuses on a band of misfits, at the center of which is a fast-talking lawyer whose degree was found to be fake, who form a study group and end up learning a lot more about themselves than they do about their course work.</Overview>
     <Rating>8.8</Rating>
+<<<<<<< HEAD
     <RatingCount>236</RatingCount>
+=======
+    <RatingCount>228</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <Runtime>30</Runtime>
     <SeriesID>76841</SeriesID>
     <SeriesName>Community</SeriesName>
     <Status>Continuing</Status>
     <added>2009-05-16 12:45:54</added>
     <addedBy>5664</addedBy>
+<<<<<<< HEAD
     <banner>graphical/94571-g6.jpg</banner>
     <fanart>fanart/original/94571-3.jpg</fanart>
     <lastupdated>1435032021</lastupdated>
     <poster>posters/94571-11.jpg</poster>
+=======
+    <banner>graphical/94571-g5.jpg</banner>
+    <fanart>fanart/original/94571-3.jpg</fanart>
+    <lastupdated>1414949403</lastupdated>
+    <poster>posters/94571-7.jpg</poster>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <tms_wanted_old>1</tms_wanted_old>
     <zap2it_id>SH01154162</zap2it_id>
   </Series>

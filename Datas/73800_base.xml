@@ -16,17 +16,28 @@
 
 But, behind every picket fence there are secrets. And, in every seemingly happy home, you'll find jealousy, lust, passion, and sometimes... murder.</Overview>
     <Rating>7.8</Rating>
+<<<<<<< HEAD
     <RatingCount>182</RatingCount>
     <Runtime>60</Runtime>
+=======
+    <RatingCount>181</RatingCount>
+    <Runtime>40</Runtime>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <SeriesID>24641</SeriesID>
     <SeriesName>Desperate Housewives</SeriesName>
     <Status>Ended</Status>
     <added></added>
     <addedBy></addedBy>
     <banner>graphical/73800-g15.jpg</banner>
+<<<<<<< HEAD
     <fanart>fanart/original/73800-48.jpg</fanart>
     <lastupdated>1434915428</lastupdated>
     <poster>posters/73800-9.jpg</poster>
+=======
+    <fanart>fanart/original/73800-43.jpg</fanart>
+    <lastupdated>1414933584</lastupdated>
+    <poster>posters/73800-10.jpg</poster>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <tms_wanted_old>1</tms_wanted_old>
     <zap2it_id>EP00672318</zap2it_id>
   </Series>

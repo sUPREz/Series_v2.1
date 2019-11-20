@@ -12,9 +12,15 @@
   <Network>The CW</Network>
   <NetworkID></NetworkID>
   <Overview>A Kansas family relocates to Beverly Hills, where their two children adapt to the infamous social drama of West Beverly Hills High.</Overview>
+<<<<<<< HEAD
   <Rating>7.4</Rating>
   <RatingCount>52</RatingCount>
   <Runtime>60</Runtime>
+=======
+  <Rating>7.3</Rating>
+  <RatingCount>49</RatingCount>
+  <Runtime>45</Runtime>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeriesID>75487</SeriesID>
   <SeriesName>90210</SeriesName>
   <Status>Ended</Status>
@@ -22,7 +28,11 @@
   <addedBy></addedBy>
   <banner>graphical/82716-g11.jpg</banner>
   <fanart>fanart/original/82716-23.jpg</fanart>
+<<<<<<< HEAD
   <lastupdated>1433678068</lastupdated>
+=======
+  <lastupdated>1413404294</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <poster>posters/82716-14.jpg</poster>
   <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>EP01058729</zap2it_id>
@@ -85,7 +95,11 @@
   <Writer>|Rob Thomas|Gabe Sachs|Jeff Judah|</Writer>
   <absolute_number>1</absolute_number>
   <filename>episodes/82716/380752.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431126794</lastupdated>
+=======
+  <lastupdated>1411945578</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>34304</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -2943,7 +2957,11 @@ After getting into a fight on the beach, Liam, with the help of Dixon, Teddy and
   <Writer>Patti Carr</Writer>
   <absolute_number>93</absolute_number>
   <filename>episodes/82716/4332251.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431126763</lastupdated>
+=======
+  <lastupdated>1410615074</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>493163</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -3160,7 +3178,11 @@ After getting into a fight on the beach, Liam, with the help of Dixon, Teddy and
   <Writer>Scott Weinger</Writer>
   <absolute_number>100</absolute_number>
   <filename>episodes/82716/4427765.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431126740</lastupdated>
+=======
+  <lastupdated>1411557636</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>493163</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -3222,7 +3244,11 @@ After getting into a fight on the beach, Liam, with the help of Dixon, Teddy and
   <Writer>Allen Clary</Writer>
   <absolute_number>102</absolute_number>
   <filename>episodes/82716/4409597.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431126809</lastupdated>
+=======
+  <lastupdated>1411557773</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>493163</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -3284,7 +3310,11 @@ After getting into a fight on the beach, Liam, with the help of Dixon, Teddy and
   <Writer>Liz Sczudlo</Writer>
   <absolute_number>104</absolute_number>
   <filename>episodes/82716/4432496.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431126687</lastupdated>
+=======
+  <lastupdated>1411945334</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>493163</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -3315,7 +3345,11 @@ After getting into a fight on the beach, Liam, with the help of Dixon, Teddy and
   <Writer>|Chris Alberghini|Mike Chessler|</Writer>
   <absolute_number>105</absolute_number>
   <filename>episodes/82716/4440182.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431126693</lastupdated>
+=======
+  <lastupdated>1411945405</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>493163</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -3346,7 +3380,11 @@ After getting into a fight on the beach, Liam, with the help of Dixon, Teddy and
   <Writer>Chris Atwood</Writer>
   <absolute_number>106</absolute_number>
   <filename>episodes/82716/4433311.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431126652</lastupdated>
+=======
+  <lastupdated>1412640207</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>493163</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -3377,7 +3415,11 @@ After getting into a fight on the beach, Liam, with the help of Dixon, Teddy and
   <Writer>Brian Dawson</Writer>
   <absolute_number>107</absolute_number>
   <filename>episodes/82716/4440181.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431126721</lastupdated>
+=======
+  <lastupdated>1412640242</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>493163</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -3408,7 +3450,11 @@ After getting into a fight on the beach, Liam, with the help of Dixon, Teddy and
   <Writer>Bill Brown</Writer>
   <absolute_number>108</absolute_number>
   <filename>episodes/82716/4453039.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431126754</lastupdated>
+=======
+  <lastupdated>1412640298</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>493163</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -3439,7 +3485,11 @@ After getting into a fight on the beach, Liam, with the help of Dixon, Teddy and
   <Writer>Liz Phang</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/82716/4477200.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431126630</lastupdated>
+=======
+  <lastupdated>1412640348</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>493163</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -3470,7 +3520,11 @@ After getting into a fight on the beach, Liam, with the help of Dixon, Teddy and
   <Writer>Scott Weinger</Writer>
   <absolute_number>110</absolute_number>
   <filename>episodes/82716/4477201.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431126638</lastupdated>
+=======
+  <lastupdated>1412733664</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>493163</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -3501,7 +3555,11 @@ After getting into a fight on the beach, Liam, with the help of Dixon, Teddy and
   <Writer>Scott Weinger</Writer>
   <absolute_number>111</absolute_number>
   <filename>episodes/82716/4477199.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431126779</lastupdated>
+=======
+  <lastupdated>1412733731</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>493163</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -3532,7 +3590,11 @@ After getting into a fight on the beach, Liam, with the help of Dixon, Teddy and
   <Writer>Patti Carr</Writer>
   <absolute_number>112</absolute_number>
   <filename>episodes/82716/4496213.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431126706</lastupdated>
+=======
+  <lastupdated>1413161204</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>493163</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -3563,7 +3625,11 @@ After getting into a fight on the beach, Liam, with the help of Dixon, Teddy and
   <Writer>|Terrence Coli|Paul Sciarrotta|</Writer>
   <absolute_number>113</absolute_number>
   <filename>episodes/82716/4510437.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431126604</lastupdated>
+=======
+  <lastupdated>1413161257</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>493163</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>
@@ -3594,7 +3660,11 @@ After getting into a fight on the beach, Liam, with the help of Dixon, Teddy and
   <Writer>Lara Olsen</Writer>
   <absolute_number>114</absolute_number>
   <filename>episodes/82716/4510436.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431126727</lastupdated>
+=======
+  <lastupdated>1413404037</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>493163</seasonid>
   <seriesid>82716</seriesid>
   <thumb_added></thumb_added>

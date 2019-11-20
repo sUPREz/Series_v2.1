@@ -11,9 +11,15 @@
   <Language>en</Language>
   <Network>BBC One</Network>
   <NetworkID></NetworkID>
+<<<<<<< HEAD
   <Overview>Sherlock is a British television crime drama that presents a contemporary adaptation of Sir Arthur Conan Doyle's Sherlock Holmes detective stories. Created by Steven Moffat and Mark Gatiss, it stars Benedict Cumberbatch as Sherlock Holmes and Martin Freeman as Doctor John Watson.</Overview>
   <Rating>9.4</Rating>
   <RatingCount>347</RatingCount>
+=======
+  <Overview>Sherlock depicts &quot;consulting detective&quot; Sherlock Holmes, who assists the Metropolitan Police Service, primarily D.I. Greg Lestrade, in solving various crimes. Holmes is assisted by his flatmate, Dr. John Watson.</Overview>
+  <Rating>9.3</Rating>
+  <RatingCount>305</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <Runtime>90</Runtime>
   <SeriesID>79744</SeriesID>
   <SeriesName>Sherlock</SeriesName>
@@ -22,8 +28,13 @@
   <addedBy>63541</addedBy>
   <banner>graphical/176941-g.jpg</banner>
   <fanart>fanart/original/176941-3.jpg</fanart>
+<<<<<<< HEAD
   <lastupdated>1434754153</lastupdated>
   <poster>posters/176941-4.jpg</poster>
+=======
+  <lastupdated>1414958443</lastupdated>
+  <poster>posters/176941-5.jpg</poster>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>SH01304269</zap2it_id>
 </Series>
@@ -149,8 +160,13 @@ This is the 60 minute pilot.</Overview>
   <Language>en</Language>
   <Overview>A series of seemingly unconnected crimes stretching from Tibet to India to Germany. Sherlock Holmes has been gone for two years. But someone isn't quite convinced that he's dead….</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>8.0</Rating>
   <RatingCount>12</RatingCount>
+=======
+  <Rating>8.4</Rating>
+  <RatingCount>11</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>0</SeasonNumber>
   <Writer>|Mark Gatiss|Steven Moffat|</Writer>
   <absolute_number></absolute_number>
@@ -320,7 +336,11 @@ This is the 60 minute pilot.</Overview>
   <Overview>A war hero, invalided home from Afghanistan, meets a strange but charismatic genius who is looking for a flatmate; it is London, 2010, and Dr Watson and Sherlock Holmes are meeting for the first time. A string of impossible suicides has Scotland Yard baffled - and only one man can help.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.3</Rating>
+<<<<<<< HEAD
   <RatingCount>279</RatingCount>
+=======
+  <RatingCount>270</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Steven Moffat</Writer>
   <absolute_number>1</absolute_number>
@@ -351,7 +371,11 @@ This is the 60 minute pilot.</Overview>
   <Overview>A mysterious cipher is being scrawled on the walls around London. The first person to see the cipher is dead within hours of reading it. Sherlock plunges into a world of codes and symbols, consulting with London's best graffiti artists. He soon learns that the city is in the grip a gang of international smugglers, a secret society called the Black Lotus.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
+<<<<<<< HEAD
   <RatingCount>262</RatingCount>
+=======
+  <RatingCount>254</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Stephen Thompson</Writer>
   <absolute_number>2</absolute_number>
@@ -382,7 +406,11 @@ This is the 60 minute pilot.</Overview>
   <Overview>A strange clue in an empty room, a blood-soaked car, a priceless Old Master, a deranged bomber. With the clock ticking, the curtain rises on a battle of wits between Sherlock, John and the shadowy stranger who seems to know all the answers...</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.1</Rating>
+<<<<<<< HEAD
   <RatingCount>228</RatingCount>
+=======
+  <RatingCount>217</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Mark Gatiss</Writer>
   <absolute_number>3</absolute_number>
@@ -413,7 +441,11 @@ This is the 60 minute pilot.</Overview>
   <Overview>Compromising photographs and a case of blackmail threaten the very heart of the British establishment, but for Sherlock and John the game is on in more ways than one as they find themselves battling international terrorism, rogue CIA agents, and a secret conspiracy involving the British government.  This case will cast a darker shadow over their lives than they could ever imagine, as the great detective begins a long duel of wits with an antagonist as cold and ruthless and brilliant as himself: to Sherlock Holmes, Irene Adler will always be THE woman.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.2</Rating>
+<<<<<<< HEAD
   <RatingCount>221</RatingCount>
+=======
+  <RatingCount>210</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Steven Moffat</Writer>
   <absolute_number>4</absolute_number>
@@ -444,7 +476,11 @@ This is the 60 minute pilot.</Overview>
   <Overview>Something terrible has happened to Henry Knight; Sherlock and John investigate the truth about the monstrous creature which apparently killed their client's father. A hound from hell? What seems like fantasy in Baker Street is a very different prospect in the ultra-secret army base that looms over Dartmoor.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.0</Rating>
+<<<<<<< HEAD
   <RatingCount>191</RatingCount>
+=======
+  <RatingCount>185</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Mark Gatiss</Writer>
   <absolute_number>5</absolute_number>
@@ -474,8 +510,13 @@ This is the 60 minute pilot.</Overview>
   <Language>en</Language>
   <Overview>James Moriarty possesses the greatest criminal mind that the world has ever seen. Sherlock and John knew he wouldn't stay hidden for long, but even they never guessed the sheer scale and audacity of the crime that would propel Moriarty back into the headlines. Sherlock must fight for his reputation, his sanity and his life. But is he all he claims to be?</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>8.5</Rating>
   <RatingCount>206</RatingCount>
+=======
+  <Rating>8.4</Rating>
+  <RatingCount>197</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Stephen Thompson</Writer>
   <absolute_number>6</absolute_number>
@@ -506,12 +547,20 @@ This is the 60 minute pilot.</Overview>
   <Overview>Two years after the devastating effects of Sherlock's 'Death', Dr John Watson has got on with his life. New horizons, romance and a comforting domestic future beckon. But, with London under threat of a huge terrorist attack, Sherlock Holmes is about to rise from the grave with all the theatricality that comes so naturally to him. It’s what his best friend wanted more than anything, but for John Watson it might well be a case of ‘be careful what you wish for’! If Sherlock thinks everything will be just as he left it though, he’s in for a very big surprise…</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.1</Rating>
+<<<<<<< HEAD
   <RatingCount>126</RatingCount>
+=======
+  <RatingCount>117</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>Mark Gatiss</Writer>
   <absolute_number>7</absolute_number>
   <filename>episodes/176941/4520777.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433252180</lastupdated>
+=======
+  <lastupdated>1413997367</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>514622</seasonid>
   <seriesid>176941</seriesid>
   <thumb_added>2013-12-19 19:51:08</thumb_added>
@@ -536,13 +585,22 @@ This is the 60 minute pilot.</Overview>
   <Language>en</Language>
   <Overview>Sherlock faces his biggest challenge of all - delivering a Best Man's speech on John's wedding day! But all isn't quite as it seems. Mortal danger stalks the reception - and someone might not make it to the happy couple's first dance. Sherlock must thank the bridesmaids, solve the case and stop a killer!</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>8.0</Rating>
   <RatingCount>107</RatingCount>
+=======
+  <Rating>7.9</Rating>
+  <RatingCount>99</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>Stephen Thompson</Writer>
   <absolute_number>8</absolute_number>
   <filename>episodes/176941/4543555.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1434468657</lastupdated>
+=======
+  <lastupdated>1414946493</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>514622</seasonid>
   <seriesid>176941</seriesid>
   <thumb_added>2013-12-27 02:34:43</thumb_added>
@@ -567,13 +625,22 @@ This is the 60 minute pilot.</Overview>
   <Language>en</Language>
   <Overview>A case of stolen letters leads Sherlock Holmes into a long conflict with Charles Augustus Magnussen, the Napoleon of blackmail, and the one man he truly hates. But how do you tackle a foe who knows the personal weakness of every person of importance in the Western world?</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>8.4</Rating>
   <RatingCount>103</RatingCount>
+=======
+  <Rating>8.3</Rating>
+  <RatingCount>95</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>Steven Moffat</Writer>
   <absolute_number>9</absolute_number>
   <filename>episodes/176941/4550992.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1434468279</lastupdated>
+=======
+  <lastupdated>1414946513</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>514622</seasonid>
   <seriesid>176941</seriesid>
   <thumb_added>2014-01-10 08:21:54</thumb_added>

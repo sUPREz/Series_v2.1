@@ -14,7 +14,11 @@
     <NetworkID></NetworkID>
     <Overview>Heroes is a cult serial saga about people all over the world discovering that they have superpowers and trying to deal with how this change affects their lives. Not only are they discovering what having superpowers means to them but also the larger picture of where those powers come from and what they might mean to the rest of the world.</Overview>
     <Rating>8.4</Rating>
+<<<<<<< HEAD
     <RatingCount>536</RatingCount>
+=======
+    <RatingCount>530</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <Runtime>45</Runtime>
     <SeriesID>17552</SeriesID>
     <SeriesName>Heroes</SeriesName>
@@ -23,8 +27,13 @@
     <addedBy></addedBy>
     <banner>graphical/79501-g10.jpg</banner>
     <fanart>fanart/original/79501-18.jpg</fanart>
+<<<<<<< HEAD
     <lastupdated>1433910538</lastupdated>
     <poster>posters/79501-2.jpg</poster>
+=======
+    <lastupdated>1414083414</lastupdated>
+    <poster>posters/79501-12.jpg</poster>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <tms_wanted_old>1</tms_wanted_old>
     <zap2it_id>SH00848361</zap2it_id>
   </Series>

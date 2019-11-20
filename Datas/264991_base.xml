@@ -2,7 +2,11 @@
 <Data>
   <Series>
     <id>264991</id>
+<<<<<<< HEAD
     <Actors>|Fiona O'Shaughnessy|Alexandra Roach|Paul Higgins|Nathan Stewart-Jarrett|Neil Maskell|Oliver Woollford|Adeel Akhtar |Geraldine James|Ian McDiarmid|Paul Ready|Emilia Jones|</Actors>
+=======
+    <Actors>|Alexandra Roach|Paul Higgins|Nathan Stewart-Jarrett|Ian McDiarmid|Paul Ready|Emilia Jones|Geraldine James|Neil Maskell|Fiona O'Shaughnessy|Oliver Woollford|Adeel Akhtar |</Actors>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <Airs_DayOfWeek>Tuesday</Airs_DayOfWeek>
     <Airs_Time>10:00 PM</Airs_Time>
     <ContentRating>TV-MA</ContentRating>
@@ -13,8 +17,13 @@
     <Network>Channel 4</Network>
     <NetworkID></NetworkID>
     <Overview>The story follows a small group of people who find themselves in possession of the manuscript sequel of a cult graphic novel called The Utopia Experiments, which is rumoured to have predicted the worst disasters of the last century. This leads them to be targeted by an organisation known as The Network, which they must avoid to survive. Using the manuscript, they must uncover the meaning hidden in its pages before the disasters depicted become reality.</Overview>
+<<<<<<< HEAD
     <Rating>8.9</Rating>
     <RatingCount>44</RatingCount>
+=======
+    <Rating>8.8</Rating>
+    <RatingCount>39</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <Runtime>55</Runtime>
     <SeriesID>177687</SeriesID>
     <SeriesName>Utopia</SeriesName>
@@ -23,8 +32,13 @@
     <addedBy>373874</addedBy>
     <banner>graphical/264991-g5.jpg</banner>
     <fanart>fanart/original/264991-6.jpg</fanart>
+<<<<<<< HEAD
     <lastupdated>1434907945</lastupdated>
     <poster>posters/264991-3.jpg</poster>
+=======
+    <lastupdated>1414837498</lastupdated>
+    <poster>posters/264991-6.jpg</poster>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <tms_wanted_old>1</tms_wanted_old>
     <zap2it_id></zap2it_id>
   </Series>

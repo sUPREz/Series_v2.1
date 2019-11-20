@@ -4,7 +4,11 @@
     <id>273690</id>
     <Actors>|Matt Ryan|Angélica Celaya|Charles Halford|Harold Perrineau|Emmett J. Scanlan |Michael James Shaw|</Actors>
     <Airs_DayOfWeek>Friday</Airs_DayOfWeek>
+<<<<<<< HEAD
     <Airs_Time>8:00 PM</Airs_Time>
+=======
+    <Airs_Time>10:00 p.m.</Airs_Time>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <ContentRating>TV-14</ContentRating>
     <FirstAired>2014-10-24</FirstAired>
     <Genre>|Action|Adventure|Fantasy|Horror|Thriller|</Genre>
@@ -12,19 +16,30 @@
     <Language>en</Language>
     <Network>NBC</Network>
     <NetworkID></NetworkID>
+<<<<<<< HEAD
     <Overview>A man struggling with his faith is haunted by the sins of his past but is suddenly thrust into the role of defending humanity from the gathering forces of darkness.</Overview>
     <Rating>8.2</Rating>
     <RatingCount>40</RatingCount>
+=======
+    <Overview>Based on the DC Comics series &quot;Hellblazer&quot;, this series focuses on seasoned Demon Hunter and Master of The Occult John Constantine, a Dark Magician who is struggling with his past sins as he tries to protect humanity from a gathering supernatural threat. Constantine specializes in giving Hell…hell. Armed with a ferocious knowledge of The Dark Arts and his wickedly naughty dry British wit, he fights against the forces of Darkness.</Overview>
+    <Rating>8.7</Rating>
+    <RatingCount>7</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <Runtime>60</Runtime>
     <SeriesID>193994</SeriesID>
     <SeriesName>Constantine</SeriesName>
     <Status>Ended</Status>
     <added>2013-09-29 06:35:06</added>
     <addedBy>394890</addedBy>
-    <banner>graphical/273690-g2.jpg</banner>
+    <banner>graphical/273690-g4.jpg</banner>
     <fanart>fanart/original/273690-1.jpg</fanart>
+<<<<<<< HEAD
     <lastupdated>1434984875</lastupdated>
     <poster>posters/273690-3.jpg</poster>
+=======
+    <lastupdated>1415045079</lastupdated>
+    <poster>posters/273690-2.jpg</poster>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <tms_wanted_old>0</tms_wanted_old>
     <zap2it_id>EP01921172</zap2it_id>
   </Series>

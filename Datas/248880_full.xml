@@ -13,26 +13,114 @@
   <NetworkID></NetworkID>
   <Overview>Fast-talking New Yorker and brand new doctor Zoe Hart has it all figured out - after graduating top of her class from medical school, she'll follow in her father's footsteps and become a cardio-thoracic surgeon. But when her dreams fall apart, Zoe decides to accept an offer from a stranger, Dr. Harley Wilkes, to work with him at his small practice in Bluebell, Alabama. Zoe arrives in this small Gulf Coast town only to find that Harley has passed away and left his half of the medical practice to her in his will.</Overview>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>29</RatingCount>
   <Runtime>45</Runtime>
+=======
+  <RatingCount>26</RatingCount>
+  <Runtime>60</Runtime>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeriesID>80915</SeriesID>
   <SeriesName>Hart of Dixie</SeriesName>
   <Status>Ended</Status>
   <added>2011-05-19 14:34:20</added>
   <addedBy>235</addedBy>
+<<<<<<< HEAD
   <banner>graphical/248880-g12.jpg</banner>
   <fanart>fanart/original/248880-15.jpg</fanart>
   <lastupdated>1434615736</lastupdated>
   <poster>posters/248880-15.jpg</poster>
+=======
+  <banner>graphical/248880-g11.jpg</banner>
+  <fanart>fanart/original/248880-5.jpg</fanart>
+  <lastupdated>1414869288</lastupdated>
+  <poster>posters/248880-10.jpg</poster>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>EP01420283</zap2it_id>
 </Series>
+<Episode>
+<<<<<<< HEAD
+  <id>4103608</id>
+  <Combined_episodenumber>1.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+=======
+  <id>5002230</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName></EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1411747290</lastupdated>
+  <seasonid>548453</seasonid>
+  <seriesid>248880</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5002231</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName></EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1411747319</lastupdated>
+  <seasonid>548453</seasonid>
+  <seriesid>248880</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
 <Episode>
   <id>4103608</id>
   <Combined_episodenumber>1.0</Combined_episodenumber>
   <Combined_season>1</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <DVD_episodenumber>1.0</DVD_episodenumber>
   <DVD_season>1</DVD_season>
   <Director>Jason Ensler</Director>
@@ -51,7 +139,11 @@
   <Writer>Leila Gerstein</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248880/4103608.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1420698880</lastupdated>
+=======
+  <lastupdated>1412813072</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>466429</seasonid>
   <seriesid>248880</seriesid>
   <thumb_added></thumb_added>
@@ -82,7 +174,11 @@
   <Writer>Leila Gerstein</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248880/4161294.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1420698926</lastupdated>
+=======
+  <lastupdated>1412813087</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>466429</seasonid>
   <seriesid>248880</seriesid>
   <thumb_added></thumb_added>
@@ -107,13 +203,22 @@
   <Language>en</Language>
   <Overview>Zoe enters a gumbo contest in yet another attempt to prove she can fit in as a Bluebell resident; Lavon has a crush on Zoe and Brick's new receptionist, and the news sours Lemon; and Zoe and Brick must look past their differences to save someone's life.</Overview>
   <ProductionCode>2J6153</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.8</Rating>
   <RatingCount>39</RatingCount>
+=======
+  <Rating>7.7</Rating>
+  <RatingCount>38</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>David Babcock</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248880/4161295.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1420698963</lastupdated>
+=======
+  <lastupdated>1412813097</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>466429</seasonid>
   <seriesid>248880</seriesid>
   <thumb_added></thumb_added>
@@ -144,7 +249,11 @@
   <Writer>Rina Mimoun</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248880/4161296.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1420699005</lastupdated>
+=======
+  <lastupdated>1412813110</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>466429</seasonid>
   <seriesid>248880</seriesid>
   <thumb_added></thumb_added>
@@ -169,13 +278,22 @@
   <Language>en</Language>
   <Overview>Zoe discovers something shocking about the local minister and his wife, causing quite a stir among the residents of Bluebell. Lemon is determined to find the funds to renovate the town’s historic bridge that was destroyed by Hurricane Katrina, but first she is put in the extremely awkward position of having to convince Lavon to choose her proposal over so many other worthwhile submissions.</Overview>
   <ProductionCode>2J6154</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.4</Rating>
   <RatingCount>38</RatingCount>
+=======
+  <Rating>7.5</Rating>
+  <RatingCount>37</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Debra Fordham</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248880/4183814.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1420699035</lastupdated>
+=======
+  <lastupdated>1412813119</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>466429</seasonid>
   <seriesid>248880</seriesid>
   <thumb_added></thumb_added>
@@ -206,7 +324,11 @@
   <Writer>Donald Todd</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248880/4190864.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1420699070</lastupdated>
+=======
+  <lastupdated>1412813340</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>466429</seasonid>
   <seriesid>248880</seriesid>
   <thumb_added></thumb_added>
@@ -237,7 +359,11 @@
   <Writer>Leila Gerstein</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248880/4194522.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1420699097</lastupdated>
+=======
+  <lastupdated>1412813354</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>466429</seasonid>
   <seriesid>248880</seriesid>
   <thumb_added></thumb_added>
@@ -263,12 +389,20 @@
   <Overview>Noticing that Zoe is feeling homesick, Lavon suggests that she host his annual pre-game homecoming party to help her feel more connected to Bluebell. Zoe jumps at the opportunity and decides to enlist the help of her friend Gigi from New York, but as it turns out New York and Bluebell have very different ideas of what makes a good party. Meanwhile, George and Wade hatch a plan to get even with their high school nemesis, Jimmy, but when Lemon catches wind of their scheme she wants in on the action, too.</Overview>
   <ProductionCode>2J6158</ProductionCode>
   <Rating>7.4</Rating>
+<<<<<<< HEAD
   <RatingCount>42</RatingCount>
+=======
+  <RatingCount>41</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Rina Mimoun</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248880/4194523.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1420699127</lastupdated>
+=======
+  <lastupdated>1412813366</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>466429</seasonid>
   <seriesid>248880</seriesid>
   <thumb_added></thumb_added>
@@ -295,12 +429,20 @@
 </Overview>
   <ProductionCode>2J6159</ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>40</RatingCount>
+=======
+  <RatingCount>39</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Debra Fordham</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248880/4194524.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1420699152</lastupdated>
+=======
+  <lastupdated>1412813380</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>466429</seasonid>
   <seriesid>248880</seriesid>
   <thumb_added></thumb_added>
@@ -326,12 +468,20 @@
   <Overview>Zoe encourages Rose to enter the annual Miss Cinnamon Cider Pageant even though Lemon’s younger sister, Magnolia Breeland, is a shoo-in to win. Of course, with Zoe coaching Rose and Lemon coaching Magnolia, rivalry takes on a whole new meaning. Meanwhile, George and Wade go on a road trip to pick up a Christmas tree for Bluebell’s town square. Also, in flashbacks, we learn some of the history of Lemon’s relationship with her mother, as well as the details of when Lemon and Lavon first realized they had a connection.</Overview>
   <ProductionCode>2J6160</ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>39</RatingCount>
+=======
+  <RatingCount>38</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>David Babcock</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248880/4194525.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1420699221</lastupdated>
+=======
+  <lastupdated>1412813397</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>466429</seasonid>
   <seriesid>248880</seriesid>
   <thumb_added></thumb_added>
@@ -357,12 +507,20 @@
   <Overview>When Zoe goes in search of some family history in Bluebell, she discovers that she is a legacy to the Bluebell Belles. Of course, once Lemon catches wind of the news, she makes it her sole mission in life to make sure Zoe doesn’t become an official Belle and puts her through a humiliating initiation. With the help of Wade, Lavon attempts to jump back into the dating scene, but he finds it difficult because Didi is telling everyone that he’s in love with her. Meanwhile, George devises a plan to stop a huge chainstore from building near Bluebell and as a result driving business away from the town.</Overview>
   <ProductionCode>2J6161</ProductionCode>
   <Rating>7.5</Rating>
+<<<<<<< HEAD
   <RatingCount>40</RatingCount>
+=======
+  <RatingCount>39</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Donald Todd</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248880/4194526.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1420699247</lastupdated>
+=======
+  <lastupdated>1412813411</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>466429</seasonid>
   <seriesid>248880</seriesid>
   <thumb_added></thumb_added>
@@ -388,12 +546,20 @@
   <Overview>Zoe is so uncharacteristically happy as of late that it causes her friends to speculate as to the possible reason behind her new attitude. Turns out that Zoe is hiding her new friendship with AnnaBeth, who doesn't want Lemon to find out since Zoe is Lemon's sworn enemy. Lemon campaigns to become the Belles' new Memory Matron, but she has to overcome a few obstacles to secure the honored position.</Overview>
   <ProductionCode>2J6163</ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>34</RatingCount>
+=======
+  <RatingCount>33</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Beth Schwartz</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248880/4199200.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1420699332</lastupdated>
+=======
+  <lastupdated>1412813428</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>466429</seasonid>
   <seriesid>248880</seriesid>
   <thumb_added></thumb_added>
@@ -419,12 +585,20 @@
   <Overview>Zoe decides that it’s too soon in her relationship with Judson to go to the annual Sweetie Pie Dance so instead she makes plans to have a sleepover with Rose, whose parents are going out of town. George misplaces the save the dates for his upcoming wedding which causes major trouble in Lemon paradise. Lemon wants her father  to finally move on from her mother leaving him, so she secretly gets him a date for the dance.</Overview>
   <ProductionCode>2J6164</ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>38</RatingCount>
+=======
+  <RatingCount>37</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Leila Gerstein</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248880/4199202.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1420699358</lastupdated>
+=======
+  <lastupdated>1412813439</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>466429</seasonid>
   <seriesid>248880</seriesid>
   <thumb_added></thumb_added>
@@ -450,12 +624,20 @@
   <Overview>Wade somehow convinces Lemon to dress up as Joelle as part of a scheme to convince Joelle’s ex-boyfriend that he didn’t actually see Wade and Joelle together. Lavon asks Zoe to help him figure out why Didi has been avoiding him, but once Zoe uncovers the shocking reason she isn’t quite sure what to do with the information. George comes to Zoe for advice in determining whether there is a medical explanation for the behavior of one of his clients.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>39</RatingCount>
+=======
+  <RatingCount>38</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Debra Fordham</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248880/4199201.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1420699380</lastupdated>
+=======
+  <lastupdated>1412813453</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>466429</seasonid>
   <seriesid>248880</seriesid>
   <thumb_added></thumb_added>
@@ -480,13 +662,22 @@
   <Language>en</Language>
   <Overview>Zoe Hart is thrilled to see snow in Bluebell, but the rest of the town is superstitious that it will bring bad luck. When Lavon’s parents make a visit to Bluebell, Lavon thinks it’s the perfect opportunity to introduce them to Didi, but the introduction doesn’t exactly go according to plan. Lemon and George make a big decision about their future.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.3</Rating>
   <RatingCount>32</RatingCount>
+=======
+  <Rating>7.4</Rating>
+  <RatingCount>31</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>David Babcock</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248880/4216379.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1420699402</lastupdated>
+=======
+  <lastupdated>1412813466</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>466429</seasonid>
   <seriesid>248880</seriesid>
   <thumb_added></thumb_added>
@@ -511,8 +702,13 @@
   <Language>en</Language>
   <Overview>Much to Brick’s disappointment, George is named Bluebell’s Man of the Year. As the town’s mayor, Lavon is expected to host a cocktail party in George’s honor, but for obvious reasons this is a difficult situation for Lavon given his history with Lemon. Fortunately for Lavon, Zoe agrees to step in and help him with the party, but things take a turn for the disastrous when Zoe has to improvise a speech at the gathering. Meanwhile, Magnolia begs Wade to write a song and perform it with her at the party.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.6</Rating>
   <RatingCount>36</RatingCount>
+=======
+  <Rating>7.7</Rating>
+  <RatingCount>35</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Michelle Paradise</Writer>
   <absolute_number></absolute_number>
@@ -542,7 +738,11 @@
   <Language>en</Language>
   <Overview>Zoe has conflicted feelings about seeing her estranged father, world-renowned surgeon Ethan Hart, who has agreed to travel to Bluebell to perform surgery on George’s father as a favor to Zoe. Fearful of losing George, Lemon decides she must befriend Zoe in order to prevent her from telling George about Lemon’s affair with Lavon. Meanwhile, to celebrate the 30th anniversary of the Rammer Jammer, the owner hosts a signature cocktail contest between Wade and Shelley.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.5</Rating>
+=======
+  <Rating>7.6</Rating>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <RatingCount>35</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer>Rina Mimoun</Writer>
@@ -574,7 +774,11 @@
   <Overview>Zoe makes a romantic connection with one of her patients, Jesse, and accepts his invitation to lunch. Lemon agrees to let Magnolia plan her bachelorette party as long as she follows Lemon’s strict instructions, but Magnolia has some more “interesting” plans in store for her big sister. Wade plans a hunting trip for George’s bachelor party.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>40</RatingCount>
+=======
+  <RatingCount>39</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Donald Todd</Writer>
   <absolute_number></absolute_number>
@@ -605,7 +809,11 @@
   <Overview>After a wild night of partying, Wade wakes up with a massive hangover, an uninvited houseguest and no memory of what happened the night before. Meanwhile, George takes an unplanned roadtrip to New Orleans, and Lemon finally confesses her troubles to her father, Brick.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
+<<<<<<< HEAD
   <RatingCount>38</RatingCount>
+=======
+  <RatingCount>37</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Leila Gerstein</Writer>
   <absolute_number></absolute_number>
@@ -636,7 +844,11 @@
   <Overview>Wade signs up for the Bluebell Battle in hopes of winning the five thousand dollar prize, but when he strikes out finding someone to be his race partner, he must swallow his pride and ask Zoe. Meanwhile, Rose is jumping for joy when Frederick Dean finally asks her out on a date, and George and Lemon meet with Reverend Mayfair to discuss their relationship issues.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
+<<<<<<< HEAD
   <RatingCount>37</RatingCount>
+=======
+  <RatingCount>36</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Alex Katsnelson</Writer>
   <absolute_number></absolute_number>
@@ -667,7 +879,11 @@
   <Overview>Zoe blames herself when one of her friends faces a health crisis and she didn’t notice the symptoms. With much encouragement from Lavon, Wade explores the idea of opening his own bar in Bluebell. Meanwhile, Lemon plans a romantic night for George, hoping to get their relationship back on track. Gary Cole returns as Zoe’s father, Ethan Hart.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>36</RatingCount>
+=======
+  <RatingCount>35</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Donald Todd</Writer>
   <absolute_number></absolute_number>
@@ -697,8 +913,13 @@
   <Language>en</Language>
   <Overview>With an impending storm about to hit Bluebell, George and Lemon prepare for their wedding day. Meanwhile, taking shelter from the storm, Zoe finds herself stranded in a barn with Wade.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.8</Rating>
   <RatingCount>33</RatingCount>
+=======
+  <Rating>7.9</Rating>
+  <RatingCount>32</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Leila Gerstein</Writer>
   <absolute_number></absolute_number>
@@ -1416,7 +1637,11 @@
   <Writer>Leila Gerstein</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248880/4599840.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1425817077</lastupdated>
+=======
+  <lastupdated>1409996805</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>523350</seasonid>
   <seriesid>248880</seriesid>
   <thumb_added>2013-10-07 04:07:55</thumb_added>
@@ -1447,7 +1672,11 @@
   <Writer>Alex Taub</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248880/4624364.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1425817097</lastupdated>
+=======
+  <lastupdated>1409996841</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>523350</seasonid>
   <seriesid>248880</seriesid>
   <thumb_added>2013-10-15 14:59:42</thumb_added>
@@ -1478,7 +1707,11 @@
   <Writer>Alex Taub</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248880/4624365.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1425817115</lastupdated>
+=======
+  <lastupdated>1409996874</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>523350</seasonid>
   <seriesid>248880</seriesid>
   <thumb_added>2013-10-22 09:26:53</thumb_added>
@@ -1509,7 +1742,11 @@
   <Writer>Jamie Gorenberg</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248880/4625911.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1425817135</lastupdated>
+=======
+  <lastupdated>1409996927</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>523350</seasonid>
   <seriesid>248880</seriesid>
   <thumb_added>2013-10-29 14:22:30</thumb_added>
@@ -1534,13 +1771,22 @@
   <Language>en</Language>
   <Overview>Zoe is blissfully happy when she sees how well Joel is adjusting to BlueBell, until, she learns the townspeople might have a different opinion of him. Wanting to make things better, Zoe volunteers herself and Joel to chaperone the Go Girl Tween Adventure Camp, but when Joel refuses to go along, she is left to fix the the town's perception on her own. After a rough start with Lynly, George is pleasantly surprised when he learns they work well together. Meanwhile, Lavon is desperate to be part of the Gazebos of Alabama calendar, but when a crucial flower mistake jeopardizes his plan, Lavon begs Lemon to help save the day.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.3</Rating>
   <RatingCount>23</RatingCount>
+=======
+  <Rating>7.2</Rating>
+  <RatingCount>22</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>Sarah Kucserka | Veronica West</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248880/4634504.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1425817165</lastupdated>
+=======
+  <lastupdated>1412581122</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>523350</seasonid>
   <seriesid>248880</seriesid>
   <thumb_added>2013-11-06 07:20:34</thumb_added>
@@ -1571,7 +1817,11 @@
   <Writer>Dan Steele</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248880/4699607.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1425817188</lastupdated>
+=======
+  <lastupdated>1411766934</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>523350</seasonid>
   <seriesid>248880</seriesid>
   <thumb_added>2013-11-12 11:33:47</thumb_added>
@@ -1602,7 +1852,11 @@
   <Writer>Sheila Lawrence</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248880/4701139.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1425816648</lastupdated>
+=======
+  <lastupdated>1412581152</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>523350</seasonid>
   <seriesid>248880</seriesid>
   <thumb_added>2013-11-19 07:09:57</thumb_added>
@@ -1627,13 +1881,22 @@
   <Language>en</Language>
   <Overview>When Zoe finds herself treating her uncle, she takes a chance and invites him to the Hanukkah celebration that she is hosting. However, this lands her in trouble once again with Vivian Wilkes. Lemon enlists George and Lynly to help uncover crucial information about one of Brick's exes before he does anything rash. Meanwhile, Wade has a horrible toothache but refuses to go to the dentist, until Tansy intervenes and helps him to open his eyes to his future.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.6</Rating>
   <RatingCount>24</RatingCount>
+=======
+  <Rating>7.7</Rating>
+  <RatingCount>23</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>Leila Gerstein</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248880/4701151.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431598060</lastupdated>
+=======
+  <lastupdated>1412030837</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>523350</seasonid>
   <seriesid>248880</seriesid>
   <thumb_added>2013-11-26 10:35:57</thumb_added>
@@ -1659,12 +1922,20 @@
   <Overview>When Zoe learns that Wade is interested in dating someone close to her, she tries everything she can do to put a stop to it. Lavon enlists George to help save BlueBell from merging with another town. To help keep the town in the dark about the planned merger, Zoe uses Joel and AnnaBeth to create a scandalous distraction to throw people off the trail. Meanwhile, Brick starts dating again, but finds himself in a tough predicament when someone from his past resurfaces.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
+<<<<<<< HEAD
   <RatingCount>18</RatingCount>
+=======
+  <RatingCount>17</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>Alex Taub</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248880/4721732.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431598116</lastupdated>
+=======
+  <lastupdated>1412581185</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>523350</seasonid>
   <seriesid>248880</seriesid>
   <thumb_added>2014-01-14 13:28:21</thumb_added>
@@ -1689,13 +1960,22 @@
   <Language>en</Language>
   <Overview>When Brick is asked to help with the local cabaret, he nominates Zoe to save the day. Lavon feels defeated about the possible merger with Fillmore, so it is left up to AnnaBeth and Lemon to motivate him to put up one last fight. Lynly continues to become more jealous of George's close friendship with Tansy, and keeps a close on eye him. Meanwhile, Wade is excited about his new romance, but grows concerned when he notices that she is pulling away.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.2</Rating>
   <RatingCount>18</RatingCount>
+=======
+  <Rating>7.4</Rating>
+  <RatingCount>17</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248880/4749255.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431598125</lastupdated>
+=======
+  <lastupdated>1412581240</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>523350</seasonid>
   <seriesid>248880</seriesid>
   <thumb_added>2014-01-21 12:53:03</thumb_added>
@@ -1721,12 +2001,20 @@
   <Overview>In a last ditch effort to stop the merger, enlists the entire town's help to try and convince the Lt. Governor that BlueBell should be named a historic town. Zoe and Joel continue to debate where to live, but the best option lies with Zoe's relative, who does not like New Yorkers. Wade takes a big step in his relationship by meeting Vivian's son, but he soon realizes he has a long way to go to win him over. Meanwhile, Lynly is having some trust issues with George, which starts to create tension between them.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>23</RatingCount>
+=======
+  <RatingCount>22</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>Jamie Gorenberg</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248880/4769636.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431598137</lastupdated>
+=======
+  <lastupdated>1414138879</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>523350</seasonid>
   <seriesid>248880</seriesid>
   <thumb_added>2014-01-28 10:40:16</thumb_added>
@@ -1752,12 +2040,20 @@
   <Overview>Zoe and Joel finally buy a house, but soon realize neither of them make enough money to fix up the place. Brick agrees to help Zoe out but only if she can get the townspeople to lose 500 pounds collectively for Health and Wellness Month. Joel is struggling with his novel and decides to follow Wade around for research, but when Wade leaves Joel to alone to run the bar, Joel finds himself in some trouble. Meanwhile, AnnaBeth struggles to mask her feelings by throwing a last-minute bachelorette party for a friend.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
+<<<<<<< HEAD
   <RatingCount>23</RatingCount>
+=======
+  <RatingCount>22</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>Sarah Kucserka|Veronica West</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248880/4770430.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1429525871</lastupdated>
+=======
+  <lastupdated>1414138863</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>523350</seasonid>
   <seriesid>248880</seriesid>
   <thumb_added>2014-02-04 11:06:56</thumb_added>
@@ -1782,13 +2078,22 @@
   <Language>en</Language>
   <Overview>Zoe reluctantly agrees to allow Joel to throw her a birthday party at Lavon's to help cheer him up, but things go awry when her mom surprises her with a visit. Vivian wants to meet Wade's dad, but Wade is leery of how she might react. AnnaBeth gets an interesting request from the Belles that she was not expecting but, in light of recent developments might be the perfect distraction for her. Meanwhile, George is determined to prove to Tansy that his nemesis Scooter McGreevy has not changed and is fooling everyone.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.7</Rating>
   <RatingCount>17</RatingCount>
+=======
+  <Rating>7.8</Rating>
+  <RatingCount>15</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>Dan Steele</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248880/4775508.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1429525940</lastupdated>
+=======
+  <lastupdated>1409997231</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>523350</seasonid>
   <seriesid>248880</seriesid>
   <thumb_added>2014-02-11 06:36:12</thumb_added>
@@ -1813,13 +2118,22 @@
   <Language>en</Language>
   <Overview>When Zoe's mom takes her on as a client, Zoe is secretly thrilled that she will finally get her mother’s undivided attention. Brick is surprised to hear that Lemon is returning to town soon, so he enlists Lavon’s help to throw a welcome home party for her. However, her return hits an unexpected snag and she is forced to turn to Wade for help. Meanwhile, George is roped into helping Magnolia.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.5</Rating>
   <RatingCount>18</RatingCount>
+=======
+  <Rating>7.6</Rating>
+  <RatingCount>16</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>Sheila Lawrence</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248880/4796630.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1429525983</lastupdated>
+=======
+  <lastupdated>1410289699</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>523350</seasonid>
   <seriesid>248880</seriesid>
   <thumb_added>2014-03-22 09:54:28</thumb_added>
@@ -1845,12 +2159,20 @@
   <Overview>Zoe learns that Joel has hired some unreliable workers to help with the renovations, but when one gets hurt on the job he becomes litigious. Lavon has organized BlueBell’s Renaissance Faire to help keep himself busy, but when no one wants to buy tickets, he decides to use Lemon’s two suitors as the main event. Meanwhile, Wade is excited about his upcoming anniversary with Vivian, but her son has other ideas.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>18</RatingCount>
+=======
+  <RatingCount>17</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248880/4817736.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431598350</lastupdated>
+=======
+  <lastupdated>1410290007</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>523350</seasonid>
   <seriesid>248880</seriesid>
   <thumb_added>2014-03-30 20:21:01</thumb_added>
@@ -1875,13 +2197,22 @@
   <Language>en</Language>
   <Overview>Zoe and Joel are frustrated by all the snags they keep running into while trying to remodel their new home. Rose persuades Lavon to agree that BlueBell will be sister cities with a town in France. Lemon convinces George to help her out with a business venture, but in order for things to go smoothly, Wade has to play peacemaker. Meanwhile, Brick sees an opportunity to become BlueBell's Man of the Year, but he soon discovers he has some tough competition.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.6</Rating>
   <RatingCount>19</RatingCount>
+=======
+  <Rating>7.7</Rating>
+  <RatingCount>18</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248880/4824051.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431598396</lastupdated>
+=======
+  <lastupdated>1409997302</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>523350</seasonid>
   <seriesid>248880</seriesid>
   <thumb_added>2014-04-05 07:57:58</thumb_added>
@@ -1912,7 +2243,11 @@
   <Writer>Sarah Kucserka|Veronica West</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248880/4833632.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433579980</lastupdated>
+=======
+  <lastupdated>1409997326</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>523350</seasonid>
   <seriesid>248880</seriesid>
   <thumb_added>2014-04-12 07:48:03</thumb_added>
@@ -1938,12 +2273,20 @@
   <Overview>Zoe and Lemon seem to find some common ground and turn to each other for some much needed girlfriend advice. Wade is excited to take Vivian out for a nice night out, but when her ex-husband begins texting her, Wade becomes suspicious of her exes’ true intentions. Lavon has the opportunity to bid to have the County Fair in BlueBell, but he loses focus when learns that AnnaBeth is now dating. Meanwhile, Magnolia concocts a plan to get Brick away from his house to throw a party.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
+<<<<<<< HEAD
   <RatingCount>20</RatingCount>
+=======
+  <RatingCount>19</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>Kendall Sand</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248880/4837882.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433580005</lastupdated>
+=======
+  <lastupdated>1409997354</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>523350</seasonid>
   <seriesid>248880</seriesid>
   <thumb_added>2014-04-19 06:09:09</thumb_added>
@@ -1974,7 +2317,11 @@
   <Writer>Jamie Gorenberg</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248880/4847698.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433580045</lastupdated>
+=======
+  <lastupdated>1410373104</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>523350</seasonid>
   <seriesid>248880</seriesid>
   <thumb_added>2014-04-26 11:21:11</thumb_added>
@@ -2000,12 +2347,20 @@
   <Overview>While Wade is upset with Zoe over his relationship issues, she decides to lay low and help George out with his problems with Lemon. Meanwhile Lemon and Wade decide to play hooky from their respective problems. AnnaBeth is excited to introduce her new boyfriend to her parents, until they decide they would rather spend time with Lavon. Brick tries to help Wanda and Tom cope with infertility issues.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>17</RatingCount>
+=======
+  <RatingCount>16</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>Sheila Lawrence|Dan Steele</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248880/4852224.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433580071</lastupdated>
+=======
+  <lastupdated>1409997600</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>523350</seasonid>
   <seriesid>248880</seriesid>
   <thumb_added>2014-05-03 08:41:09</thumb_added>
@@ -2036,7 +2391,11 @@
   <Writer>Alex Taub</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248880/4859325.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1425314069</lastupdated>
+=======
+  <lastupdated>1409997636</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>523350</seasonid>
   <seriesid>248880</seriesid>
   <thumb_added>2014-05-11 17:18:00</thumb_added>
@@ -2061,13 +2420,22 @@
   <Language>en</Language>
   <Overview>Zoe tries to be a supportive friend to Wade, but when she makes a grand gesture, Wade is forced to make a tough decision about his future with the Rammer Jammer and BlueBell. Lavon and George meet their hero Don Todd, who helps them see things in their life more clearly. Grandma Bettie tries to convince Lemon that she has to take her search for a suitable husband more seriously. Meanwhile, AnnaBeth is trying to picture her future with Davis.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>8.0</Rating>
   <RatingCount>16</RatingCount>
+=======
+  <Rating>8.1</Rating>
+  <RatingCount>15</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>Leila Gerstein</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/248880/4859329.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1425501604</lastupdated>
+=======
+  <lastupdated>1409997658</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>523350</seasonid>
   <seriesid>248880</seriesid>
   <thumb_added>2014-05-17 07:37:12</thumb_added>
@@ -2083,6 +2451,7 @@
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
   <Director></Director>
+<<<<<<< HEAD
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Kablang</EpisodeName>
   <EpisodeNumber>1</EpisodeNumber>
@@ -2383,5 +2752,28 @@
   <thumb_added>2015-04-09 18:46:25</thumb_added>
   <thumb_height>225</thumb_height>
   <thumb_width>400</thumb_width>
+=======
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>You're Gonna Miss This</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1410599589</lastupdated>
+  <seasonid>597126</seasonid>
+  <seriesid>248880</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
 </Episode>
 </Data>

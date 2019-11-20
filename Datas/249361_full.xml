@@ -2,8 +2,13 @@
 <Data><Series>
   <id>249361</id>
   <Actors>|Kelsey Grammer|Connie Neilsen|Hannah Ware|Jeff Hephner|Kathleen Robertson|Troy Garity|Rotimi Akinosho|James Vincent Meredith|Martin Donovan|Francis Guinan|Nicole Forester|Jonathan Groff|Sanaa Lathan|Karen Aldridge|Amy Morton|Tip &quot;T.I&quot; Harris|</Actors>
+<<<<<<< HEAD
   <Airs_DayOfWeek></Airs_DayOfWeek>
   <Airs_Time></Airs_Time>
+=======
+  <Airs_DayOfWeek>Friday</Airs_DayOfWeek>
+  <Airs_Time>10:00 PM</Airs_Time>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <ContentRating>TV-MA</ContentRating>
   <FirstAired>2011-10-21</FirstAired>
   <Genre>|Crime|Drama|</Genre>
@@ -22,7 +27,11 @@
   <addedBy>76261</addedBy>
   <banner>graphical/249361-g2.jpg</banner>
   <fanart>fanart/original/249361-3.jpg</fanart>
+<<<<<<< HEAD
   <lastupdated>1433087922</lastupdated>
+=======
+  <lastupdated>1414949832</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <poster>posters/249361-1.jpg</poster>
   <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>SH01416046</zap2it_id>
@@ -299,7 +308,11 @@
   <Writer>Dee Johnson</Writer>
   <absolute_number>9</absolute_number>
   <filename>episodes/249361/4351826.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1432455366</lastupdated>
+=======
+  <lastupdated>1414949009</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>495536</seasonid>
   <seriesid>249361</seriesid>
   <thumb_added></thumb_added>
@@ -330,7 +343,11 @@
   <Writer>Bradford Winters</Writer>
   <absolute_number>10</absolute_number>
   <filename>episodes/249361/4351827.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1432455376</lastupdated>
+=======
+  <lastupdated>1414949043</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>495536</seasonid>
   <seriesid>249361</seriesid>
   <thumb_added></thumb_added>
@@ -361,7 +378,11 @@
   <Writer>Angelina Burnett</Writer>
   <absolute_number>11</absolute_number>
   <filename>episodes/249361/4351828.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1432455389</lastupdated>
+=======
+  <lastupdated>1414949116</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>495536</seasonid>
   <seriesid>249361</seriesid>
   <thumb_added></thumb_added>
@@ -392,7 +413,11 @@
   <Writer>Julie Hébert</Writer>
   <absolute_number>12</absolute_number>
   <filename>episodes/249361/4351829.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1432455405</lastupdated>
+=======
+  <lastupdated>1414949179</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>495536</seasonid>
   <seriesid>249361</seriesid>
   <thumb_added></thumb_added>
@@ -423,7 +448,11 @@
   <Writer>Kevin J. Hynes</Writer>
   <absolute_number>13</absolute_number>
   <filename>episodes/249361/4351830.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1432455417</lastupdated>
+=======
+  <lastupdated>1414949242</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>495536</seasonid>
   <seriesid>249361</seriesid>
   <thumb_added></thumb_added>
@@ -454,7 +483,11 @@
   <Writer>Bradford Winters</Writer>
   <absolute_number>14</absolute_number>
   <filename>episodes/249361/4351831.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1432455427</lastupdated>
+=======
+  <lastupdated>1414949329</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>495536</seasonid>
   <seriesid>249361</seriesid>
   <thumb_added></thumb_added>
@@ -485,7 +518,11 @@
   <Writer>Angelina Burnett</Writer>
   <absolute_number>15</absolute_number>
   <filename>episodes/249361/4351832.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1432455437</lastupdated>
+=======
+  <lastupdated>1414949403</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>495536</seasonid>
   <seriesid>249361</seriesid>
   <thumb_added></thumb_added>
@@ -516,7 +553,11 @@
   <Writer>Paul Keables</Writer>
   <absolute_number>16</absolute_number>
   <filename>episodes/249361/4351833.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1432455450</lastupdated>
+=======
+  <lastupdated>1414949458</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>495536</seasonid>
   <seriesid>249361</seriesid>
   <thumb_added></thumb_added>
@@ -547,7 +588,11 @@
   <Writer>Julie Hébert</Writer>
   <absolute_number>17</absolute_number>
   <filename>episodes/249361/4351834.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1432455462</lastupdated>
+=======
+  <lastupdated>1414949531</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>495536</seasonid>
   <seriesid>249361</seriesid>
   <thumb_added></thumb_added>
@@ -578,7 +623,11 @@
   <Writer>Dee Johnson</Writer>
   <absolute_number>18</absolute_number>
   <filename>episodes/249361/4351835.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433087971</lastupdated>
+=======
+  <lastupdated>1414949570</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>495536</seasonid>
   <seriesid>249361</seriesid>
   <thumb_added></thumb_added>

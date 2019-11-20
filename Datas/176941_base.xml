@@ -12,9 +12,15 @@
     <Language>en</Language>
     <Network>BBC One</Network>
     <NetworkID></NetworkID>
+<<<<<<< HEAD
     <Overview>Sherlock is a British television crime drama that presents a contemporary adaptation of Sir Arthur Conan Doyle's Sherlock Holmes detective stories. Created by Steven Moffat and Mark Gatiss, it stars Benedict Cumberbatch as Sherlock Holmes and Martin Freeman as Doctor John Watson.</Overview>
     <Rating>9.4</Rating>
     <RatingCount>347</RatingCount>
+=======
+    <Overview>Sherlock depicts &quot;consulting detective&quot; Sherlock Holmes, who assists the Metropolitan Police Service, primarily D.I. Greg Lestrade, in solving various crimes. Holmes is assisted by his flatmate, Dr. John Watson.</Overview>
+    <Rating>9.3</Rating>
+    <RatingCount>305</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <Runtime>90</Runtime>
     <SeriesID>79744</SeriesID>
     <SeriesName>Sherlock</SeriesName>
@@ -23,8 +29,13 @@
     <addedBy>63541</addedBy>
     <banner>graphical/176941-g.jpg</banner>
     <fanart>fanart/original/176941-3.jpg</fanart>
+<<<<<<< HEAD
     <lastupdated>1434754153</lastupdated>
     <poster>posters/176941-4.jpg</poster>
+=======
+    <lastupdated>1414958443</lastupdated>
+    <poster>posters/176941-5.jpg</poster>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <tms_wanted_old>1</tms_wanted_old>
     <zap2it_id>SH01304269</zap2it_id>
   </Series>

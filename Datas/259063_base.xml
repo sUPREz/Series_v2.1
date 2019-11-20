@@ -12,9 +12,15 @@
     <Language>en</Language>
     <Network>NBC</Network>
     <NetworkID></NetworkID>
+<<<<<<< HEAD
     <Overview>Both a gift and a curse, Graham has the extraordinary ability to think like his prey—he sees what they see, feels what they feel. But while Graham is pursuing an especially troubling, cannibalistic murderer, Special Agent Jack Crawford teams him with a highly respected psychiatrist – a man with a taste for the criminal minded – Dr. Hannibal Lecter.</Overview>
     <Rating>8.7</Rating>
     <RatingCount>109</RatingCount>
+=======
+    <Overview>Explores the early relationship between the renowned psychiatrist and his patient, a young FBI criminal profiler, who is haunted by his ability to empathize with serial killers. </Overview>
+    <Rating>8.5</Rating>
+    <RatingCount>93</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <Runtime>60</Runtime>
     <SeriesID>158551</SeriesID>
     <SeriesName>Hannibal</SeriesName>
@@ -22,9 +28,15 @@
     <added>2012-05-15 12:40:31</added>
     <addedBy>20821</addedBy>
     <banner>graphical/259063-g8.jpg</banner>
+<<<<<<< HEAD
     <fanart>fanart/original/259063-48.jpg</fanart>
     <lastupdated>1435028276</lastupdated>
     <poster>posters/259063-17.jpg</poster>
+=======
+    <fanart>fanart/original/259063-18.jpg</fanart>
+    <lastupdated>1414590869</lastupdated>
+    <poster>posters/259063-18.jpg</poster>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <tms_wanted_old>1</tms_wanted_old>
     <zap2it_id>EP01567935</zap2it_id>
   </Series>

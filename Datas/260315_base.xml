@@ -2,7 +2,11 @@
 <Data>
   <Series>
     <id>260315</id>
+<<<<<<< HEAD
     <Actors>|Tatiana Maslany|Jordan Gavaris|Ari Millen|Zoé De Grand Maison|Michael Mando|Kristian Bruun|Michiel Huisman|Évelyne Brochu|Skyler Wexler|Matt Frewer|Kevin Hanchard|Maria Doyle Kennedy|Dylan Bruce|</Actors>
+=======
+    <Actors>|Tatiana Maslany|Jordan Gavaris|Dylan Bruce|Kristian Bruun|Michiel Huisman|Évelyne Brochu|Skyler Wexler|Matt Frewer|Michael Mando|Kevin Hanchard|Maria Doyle Kennedy|</Actors>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <Airs_DayOfWeek>Saturday</Airs_DayOfWeek>
     <Airs_Time>9:00 PM</Airs_Time>
     <ContentRating>TV-MA</ContentRating>
@@ -10,23 +14,35 @@
     <Genre>|Action|Science-Fiction|Thriller|</Genre>
     <IMDB_ID>tt2234222</IMDB_ID>
     <Language>en</Language>
-    <Network>Space</Network>
+    <Network>BBC America</Network>
     <NetworkID></NetworkID>
     <Overview>“Orphan Black” follows outsider, orphan and street-wise chameleon Sarah. After witnessing a woman’s suicide, Sarah assumes the stranger’s identity, who happens to look just like her. Expecting to solve all her problems by cleaning out the dead woman’s savings, Sarah is instead thrust headlong into a kaleidoscopic mystery as she realizes the dizzying truth: she and the dead woman are clones.
 
 As Sarah searches for answers, she discovers the chilling fact that there are more people like her out there - genetically identical individuals who were planted in unsuspecting birth parents and nurtured in completely different circumstances. With no idea who created the clones, she’ll need to discover the reason in a hurry as an assassin is killing them one by one.</Overview>
+<<<<<<< HEAD
     <Rating>8.9</Rating>
     <RatingCount>79</RatingCount>
+=======
+    <Rating>8.8</Rating>
+    <RatingCount>58</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <Runtime>60</Runtime>
     <SeriesID>178173</SeriesID>
     <SeriesName>Orphan Black</SeriesName>
     <Status>Continuing</Status>
     <added>2012-06-28 12:05:42</added>
     <addedBy>360590</addedBy>
+<<<<<<< HEAD
     <banner>graphical/260315-g8.jpg</banner>
     <fanart>fanart/original/260315-28.jpg</fanart>
     <lastupdated>1435030464</lastupdated>
     <poster>posters/260315-5.jpg</poster>
+=======
+    <banner>graphical/260315-g6.jpg</banner>
+    <fanart>fanart/original/260315-16.jpg</fanart>
+    <lastupdated>1414774069</lastupdated>
+    <poster>posters/260315-1.jpg</poster>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <tms_wanted_old>1</tms_wanted_old>
     <zap2it_id>EP01634965</zap2it_id>
   </Series>

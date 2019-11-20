@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Data><Series>
   <id>248742</id>
+<<<<<<< HEAD
   <Actors>|Michael Emerson|Jim Caviezel|Amy Acker|Kevin Chapman|Sarah Shahi|Taraji P. Henson|Paige Turco|John Nolan|Enrico Colantoni|</Actors>
+=======
+  <Actors>|Michael Emerson|Jim Caviezel|Kevin Chapman|Amy Acker|Sarah Shahi|Enrico Colantoni|Taraji P. Henson|</Actors>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <Airs_DayOfWeek>Tuesday</Airs_DayOfWeek>
   <Airs_Time>10:00 PM</Airs_Time>
   <ContentRating>TV-14</ContentRating>
@@ -13,7 +17,11 @@
   <NetworkID></NetworkID>
   <Overview>Person of Interest is an American science fiction crime drama television series created for CBS by Jonathan Nolan, who serves as an executive producer alongside J.J. Abrams, Bryan Burk, and Greg Plageman. The series stars Jim Caviezel as John Reese, a presumed dead former CIA agent who is approached by a mysterious billionaire named Harold Finch (Michael Emerson) to prevent violent crimes before they happen by using an advanced surveillance system dubbed &quot;The Machine&quot;. Their unique brand of vigilante justice attracts the attention of two NYPD officers, Joss Carter (Taraji P. Henson) and Lionel Fusco (Kevin Chapman), whom Reese uses to his advantage as he investigates persons of interest. Reese and Finch are later aided by Samantha &quot;Root&quot; Groves (Amy Acker), a highly intelligent computer hacker and contract killer who the Machine later identifies as its &quot;analog interface&quot; and Sameen Shaw (Sarah Shahi), a former ISA assassin who unknowingly dealt with the &quot;relevant&quot; numbers found by the Machine.</Overview>
   <Rating>8.9</Rating>
+<<<<<<< HEAD
   <RatingCount>237</RatingCount>
+=======
+  <RatingCount>208</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <Runtime>60</Runtime>
   <SeriesID>80967</SeriesID>
   <SeriesName>Person of Interest</SeriesName>
@@ -22,7 +30,11 @@
   <addedBy>235881</addedBy>
   <banner>graphical/248742-g11.jpg</banner>
   <fanart>fanart/original/248742-21.jpg</fanart>
+<<<<<<< HEAD
   <lastupdated>1435010002</lastupdated>
+=======
+  <lastupdated>1415045857</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <poster>posters/248742-15.jpg</poster>
   <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>EP01419847</zap2it_id>
@@ -46,7 +58,11 @@
   <Overview>Reese and Finch must figure out whether a young prosecutor is a victim or a suspect.</Overview>
   <ProductionCode>296807</ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>249</RatingCount>
+=======
+  <RatingCount>244</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Jonathan Nolan</Writer>
   <absolute_number>1</absolute_number>
@@ -77,7 +93,11 @@
   <Overview>Reese and Finch question the machine's reliability when it prompts the investigation of a teenager who was killed years earlier; Finch recalls the origin of the machine.</Overview>
   <ProductionCode>2J6202</ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>205</RatingCount>
+=======
+  <RatingCount>203</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Greg Plageman</Writer>
   <absolute_number>2</absolute_number>
@@ -108,7 +128,11 @@
   <Overview>Reese infiltrates a gang to get closer to a former Marine that the machine tagged.</Overview>
   <ProductionCode>2J6203</ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>202</RatingCount>
+=======
+  <RatingCount>200</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Patrick Harbinson</Writer>
   <absolute_number>3</absolute_number>
@@ -138,8 +162,13 @@
   <Language>en</Language>
   <Overview>Reese and Finch try to unravel a threat to a promising young doctor. </Overview>
   <ProductionCode>2J6204</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.8</Rating>
   <RatingCount>198</RatingCount>
+=======
+  <Rating>7.7</Rating>
+  <RatingCount>196</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Denise The</Writer>
   <absolute_number>4</absolute_number>
@@ -170,7 +199,11 @@
   <Overview>Reese and Finch have the added challenge of investigating a Person of Interest who wants nothing to do with their brand of vigilante justice.</Overview>
   <ProductionCode>2J6205</ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>177</RatingCount>
+=======
+  <RatingCount>176</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>David Slack</Writer>
   <absolute_number>5</absolute_number>
@@ -200,8 +233,13 @@
   <Language>en</Language>
   <Overview>Reese becomes romantically involved with the newest Person of Interest: an attractive woman who isn't all that she seems. </Overview>
   <ProductionCode>2J6206</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.9</Rating>
   <RatingCount>186</RatingCount>
+=======
+  <Rating>7.8</Rating>
+  <RatingCount>184</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Nic Van Zeebroeck|Michael Sopczynski|</Writer>
   <absolute_number>6</absolute_number>
@@ -232,7 +270,11 @@
   <Overview>The Machine identifies a school teacher who witnessed a mob hit as their next POI and Reese and Finch rush to save his life.</Overview>
   <ProductionCode>2J6207</ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>177</RatingCount>
+=======
+  <RatingCount>175</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Amanda Segel</Writer>
   <absolute_number>7</absolute_number>
@@ -262,8 +304,13 @@
   <Language>en</Language>
   <Overview>When Reese and Finch discover that their latest POI has connections to Cold War Soviet espionage circles, they quickly learn how covert ops were handled in a world before The Machine.</Overview>
   <ProductionCode>2J6208</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.7</Rating>
   <RatingCount>182</RatingCount>
+=======
+  <Rating>7.6</Rating>
+  <RatingCount>180</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Sean Hennen</Writer>
   <absolute_number>8</absolute_number>
@@ -294,7 +341,11 @@
   <Overview>Reese and Finch’s game of cat and mouse with Detective Carter becomes infinitely more complicated when The Machine declares that she is their newest POI.</Overview>
   <ProductionCode>2J6209</ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>181</RatingCount>
+=======
+  <RatingCount>179</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Greg Plageman|Denise The|</Writer>
   <absolute_number>9</absolute_number>
@@ -325,7 +376,11 @@
   <Overview>As Detective Carter deals with the fallout from her recent encounter with Reese and Finch, The Machine ups the ante for the duo by giving them four Social Security numbers instead of one.</Overview>
   <ProductionCode>2J6210</ProductionCode>
   <Rating>8.0</Rating>
+<<<<<<< HEAD
   <RatingCount>184</RatingCount>
+=======
+  <RatingCount>181</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Patrick Harbinson</Writer>
   <absolute_number>10</absolute_number>
@@ -356,7 +411,11 @@
   <Overview>Reese is confined to a wheelchair recovering from his gunshot wound, but Finch sets him up in an apartment where he’s to keep an eye on the Super, who is their latest POI. Also, Finch approaches Carter and gives her a POI to show her what they do.</Overview>
   <ProductionCode>2J6211</ProductionCode>
   <Rating>7.9</Rating>
+<<<<<<< HEAD
   <RatingCount>174</RatingCount>
+=======
+  <RatingCount>172</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>David Slack</Writer>
   <absolute_number>11</absolute_number>
@@ -387,7 +446,11 @@
   <Overview>When Carter finally comes face-to-face with Reese, he urges her to join forces to help with their latest POI, a scrappy young woman from the wrong side of the tracks who turned her life around and became a lawyer.</Overview>
   <ProductionCode>2J6212</ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>168</RatingCount>
+=======
+  <RatingCount>166</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Amanda Segel</Writer>
   <absolute_number>12</absolute_number>
@@ -418,7 +481,11 @@
   <Overview>The Machine gives Reese and Finch the number of a down-and-out man who has been pushed too far, and they're forced to turn to former Person of Interest Zoe Morgan for help.</Overview>
   <ProductionCode>2J6213</ProductionCode>
   <Rating>7.9</Rating>
+<<<<<<< HEAD
   <RatingCount>175</RatingCount>
+=======
+  <RatingCount>172</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Erik Mountain</Writer>
   <absolute_number>13</absolute_number>
@@ -449,7 +516,11 @@
   <Overview>The Machine identifies Darren, a teenager whose brother was just murdered, as the next POI. Meanwhile, Finch is growing concerned that the son of his former business partner is dangerously close to finding out about the Machine.</Overview>
   <ProductionCode>2J6214</ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>163</RatingCount>
+=======
+  <RatingCount>161</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Nic Van Zeebroeck|Michael Sopczynski|</Writer>
   <absolute_number>14</absolute_number>
@@ -480,7 +551,11 @@
   <Overview>Reese discovers there’s more to the story after he infiltrates a smuggling ring to get close to his latest POI.</Overview>
   <ProductionCode>2J6215</ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>168</RatingCount>
+=======
+  <RatingCount>167</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Denise The</Writer>
   <absolute_number>15</absolute_number>
@@ -511,7 +586,11 @@
   <Overview>The Machine leads Reese and Finch to Wall Street when a sharp young trader at a major investment bank becomes embroiled in a multi-million dollar financial scam.</Overview>
   <ProductionCode>2J6216</ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>156</RatingCount>
+=======
+  <RatingCount>154</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Sean Hennan</Writer>
   <absolute_number>16</absolute_number>
@@ -542,7 +621,11 @@
   <Overview>Reese and Finch are puzzled when the machine names a 6-month-old baby as the latest person of interest; Detective Carter questions her allegiances when Elias resurfaces.</Overview>
   <ProductionCode>2J6217</ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>153</RatingCount>
+=======
+  <RatingCount>150</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Patrick Harbinson</Writer>
   <absolute_number>17</absolute_number>
@@ -573,7 +656,11 @@
   <Overview>The Machine's latest number presents a unique challenge for Reese and Finch since the person has virtually no digital footprint - and appears to be leading a double life.</Overview>
   <ProductionCode>2J6218</ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>153</RatingCount>
+=======
+  <RatingCount>151</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Amy Berg</Writer>
   <absolute_number>18</absolute_number>
@@ -604,7 +691,11 @@
   <Overview>When The Machine spits out five numbers, naming the Don of each of New York’s crime families, Reese and Finch suspect Elias is planning to eliminate his competition.</Overview>
   <ProductionCode>2J6219</ProductionCode>
   <Rating>7.9</Rating>
+<<<<<<< HEAD
   <RatingCount>158</RatingCount>
+=======
+  <RatingCount>156</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Amanda Segel</Writer>
   <absolute_number>19</absolute_number>
@@ -635,7 +726,11 @@
   <Overview>To track the latest person of interest, Reese goes under cover as part of an armored truck crew; throughout the case, Reese is reminded of tough decisions he was forced to make during his last CIA mission.</Overview>
   <ProductionCode>2J6220</ProductionCode>
   <Rating>7.9</Rating>
+<<<<<<< HEAD
   <RatingCount>156</RatingCount>
+=======
+  <RatingCount>153</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Ray Utarnachitt</Writer>
   <absolute_number>20</absolute_number>
@@ -666,7 +761,11 @@
   <Overview>On Reese's birthday, Finch gives him the day off in hope of keeping him away from the latest person of interest.</Overview>
   <ProductionCode>2J6221</ProductionCode>
   <Rating>8.1</Rating>
+<<<<<<< HEAD
   <RatingCount>162</RatingCount>
+=======
+  <RatingCount>158</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Erik Mountain|Jonathan Nolan|</Writer>
   <absolute_number>21</absolute_number>
@@ -697,7 +796,11 @@
   <Overview>A person of interest winds up in the middle of a dark government conspiracy that Finch is all too familiar with; Reese makes a discovery about Finch's past.</Overview>
   <ProductionCode>2J6222</ProductionCode>
   <Rating>8.1</Rating>
+<<<<<<< HEAD
   <RatingCount>157</RatingCount>
+=======
+  <RatingCount>153</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>David Slack</Writer>
   <absolute_number>22</absolute_number>
@@ -728,7 +831,11 @@
   <Overview>Reese becomes trapped with his POI in a heavily surveilled part of the city and must rely on Finch, Carter and Fusco's help.</Overview>
   <ProductionCode>2J6223</ProductionCode>
   <Rating>8.3</Rating>
+<<<<<<< HEAD
   <RatingCount>163</RatingCount>
+=======
+  <RatingCount>161</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Greg Plageman|Jonathan Nolan|</Writer>
   <absolute_number>23</absolute_number>
@@ -759,7 +866,11 @@
   <Overview>Reese asks Detectives Carter and Fusco for help finding Finch, who was kidnapped by his nemesis.</Overview>
   <ProductionCode>2J7201</ProductionCode>
   <Rating>8.0</Rating>
+<<<<<<< HEAD
   <RatingCount>136</RatingCount>
+=======
+  <RatingCount>132</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Denise The|Jonathan Nolan|</Writer>
   <absolute_number>24</absolute_number>
@@ -790,7 +901,11 @@
   <Overview>As Reese investigates a cold case, he gets closer to Finch and his kidnapper, Root.</Overview>
   <ProductionCode>2J7202</ProductionCode>
   <Rating>7.9</Rating>
+<<<<<<< HEAD
   <RatingCount>141</RatingCount>
+=======
+  <RatingCount>135</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Greg Plageman|Patrick Harbinson|</Writer>
   <absolute_number>25</absolute_number>
@@ -821,7 +936,11 @@
   <Overview>Reese protects the spoiled daughter of a Brazilian diplomat.</Overview>
   <ProductionCode>2J7203</ProductionCode>
   <Rating>7.9</Rating>
+<<<<<<< HEAD
   <RatingCount>138</RatingCount>
+=======
+  <RatingCount>133</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Melissa Scrivner-Lov</Writer>
   <absolute_number>26</absolute_number>
@@ -851,8 +970,13 @@
   <Language>en</Language>
   <Overview>Reese and Finch wonder if they should intervene when they learn that a mob enforcer's life is in danger; Finch turns to an unexpected source for help.</Overview>
   <ProductionCode>2J7204</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.8</Rating>
   <RatingCount>132</RatingCount>
+=======
+  <Rating>7.7</Rating>
+  <RatingCount>125</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Erik Mountain</Writer>
   <absolute_number>27</absolute_number>
@@ -883,7 +1007,11 @@
   <Overview>Reese must surreptitiously protect an investigative reporter without becoming a part of her story.</Overview>
   <ProductionCode>2J7205</ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>135</RatingCount>
+=======
+  <RatingCount>131</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>David Slack</Writer>
   <absolute_number>28</absolute_number>
@@ -914,7 +1042,11 @@
   <Overview>The Machine’s latest number sends Reese to the suburbs.</Overview>
   <ProductionCode>2J7206</ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>129</RatingCount>
+=======
+  <RatingCount>123</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Nic Van Zeebroeck|Micheal Sopczynski|</Writer>
   <absolute_number>29</absolute_number>
@@ -945,7 +1077,11 @@
   <Overview>A resourceful third party raises the stakes as Finch and Reese try to protect their latest person of interest, a brilliant surgeon.</Overview>
   <ProductionCode>2J7207</ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>121</RatingCount>
+=======
+  <RatingCount>117</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Sean Hennen</Writer>
   <absolute_number>30</absolute_number>
@@ -977,7 +1113,11 @@
 </Overview>
   <ProductionCode>2J7208</ProductionCode>
   <Rating>7.9</Rating>
+<<<<<<< HEAD
   <RatingCount>116</RatingCount>
+=======
+  <RatingCount>110</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Amanda Segel</Writer>
   <absolute_number>31</absolute_number>
@@ -1008,7 +1148,11 @@
   <Overview>When the machine names a New York cabdriver as a person of interest, any of his passengers could be a part of the impending crime.</Overview>
   <ProductionCode>2J7209</ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>117</RatingCount>
+=======
+  <RatingCount>111</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Ray Utarnachitt</Writer>
   <absolute_number>32</absolute_number>
@@ -1038,8 +1182,13 @@
   <Language>en</Language>
   <Overview>As the FBI pursues &quot;the man in the suit,&quot; Reese is even more determined to protect the latest person of interest after learning she is the sister of a soldier who was killed in action.</Overview>
   <ProductionCode>2J7210</ProductionCode>
+<<<<<<< HEAD
   <Rating>8.0</Rating>
   <RatingCount>128</RatingCount>
+=======
+  <Rating>7.9</Rating>
+  <RatingCount>123</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Patrick Harbinson</Writer>
   <absolute_number>33</absolute_number>
@@ -1069,8 +1218,13 @@
   <Language>en</Language>
   <Overview>Finch goes under cover to protect a youth who reminds him of himself; Carter goes on a dangerous mission for the FBI.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.9</Rating>
   <RatingCount>116</RatingCount>
+=======
+  <Rating>8.0</Rating>
+  <RatingCount>110</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Dan Dietz</Writer>
   <absolute_number></absolute_number>
@@ -1101,7 +1255,11 @@
   <Overview>Carter tries to help Reese by engaging in mental warfare with the FBI; Reese has encounters with old and new enemies; Detective Fusco must protect supermodel Karolina Kurkova, the latest person of interest.</Overview>
   <ProductionCode>2J7212</ProductionCode>
   <Rating>8.1</Rating>
+<<<<<<< HEAD
   <RatingCount>116</RatingCount>
+=======
+  <RatingCount>109</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>David Slack</Writer>
   <absolute_number>35</absolute_number>
@@ -1131,8 +1289,13 @@
   <Language>en</Language>
   <Overview>Reese is captured by a former acquaintance planning a massive and potentially deadly act of cyber-warfare.</Overview>
   <ProductionCode>2J7213</ProductionCode>
+<<<<<<< HEAD
   <Rating>8.0</Rating>
   <RatingCount>125</RatingCount>
+=======
+  <Rating>7.9</Rating>
+  <RatingCount>120</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Erik Mountain</Writer>
   <absolute_number>36</absolute_number>
@@ -1163,7 +1326,11 @@
   <Overview>Finch and Reese meet their match: a tech billionaire whose curiosity and endless resources could expose their identities and ruin their efforts to save his life.</Overview>
   <ProductionCode>2J7214</ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>113</RatingCount>
+=======
+  <RatingCount>107</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Denise The|Melissa Scrivner-Love|</Writer>
   <absolute_number>37</absolute_number>
@@ -1194,7 +1361,11 @@
   <Overview>As Reese and Finch try to save a hotel maid's life, they encounter a litany of suspects; Detective Carter considers a significant offer from the FBI.</Overview>
   <ProductionCode>2J7215</ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>114</RatingCount>
+=======
+  <RatingCount>109</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Nic Van Zeebroeck|Michael Sopczynski|</Writer>
   <absolute_number>38</absolute_number>
@@ -1225,7 +1396,11 @@
   <Overview>The latest POI - a deadly government operative who tackles terrorist threats - proves difficult for Reese and Finch to protect.</Overview>
   <ProductionCode>2J7216</ProductionCode>
   <Rating>8.0</Rating>
+<<<<<<< HEAD
   <RatingCount>114</RatingCount>
+=======
+  <RatingCount>111</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Amanda Segel|Jonathan Nolan|</Writer>
   <absolute_number>39</absolute_number>
@@ -1256,7 +1431,11 @@
   <Overview>As Finch and Reese try to protect six people simultaneously, clues lead them to a coastal town; when a storm forces Finch and Reese to seek shelter in a police station with a group of locals, they realize a killer may be in their midst.</Overview>
   <ProductionCode>2J7217</ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>119</RatingCount>
+=======
+  <RatingCount>113</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Sean Hennen</Writer>
   <absolute_number>40</absolute_number>
@@ -1287,7 +1466,11 @@
   <Overview>Finch and Reese head to Atlantic City to protect the latest person of interest, an elderly gambler; Carter tries to clear another detective's name.</Overview>
   <ProductionCode>2J7218</ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>115</RatingCount>
+=======
+  <RatingCount>108</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Lucas O’Connor</Writer>
   <absolute_number>41</absolute_number>
@@ -1317,8 +1500,13 @@
   <Language>en</Language>
   <Overview>Finch infiltrates a tech corporation to gather intel on an executive whose number has come up; Carter questions Beecher's integrity.</Overview>
   <ProductionCode>2J7219</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.9</Rating>
   <RatingCount>110</RatingCount>
+=======
+  <Rating>7.8</Rating>
+  <RatingCount>104</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Dan Dietz|Erik Mountain|</Writer>
   <absolute_number>42</absolute_number>
@@ -1349,7 +1537,11 @@
   <Overview>When a person of interest is poisoned, Finch and Reese only have 24 hours to identify the toxin and find the person responsible; Detective Fusco's past catches up to him.</Overview>
   <ProductionCode>2J7220</ProductionCode>
   <Rating>7.9</Rating>
+<<<<<<< HEAD
   <RatingCount>117</RatingCount>
+=======
+  <RatingCount>109</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Greg Plageman|Tony Camerino|</Writer>
   <absolute_number>43</absolute_number>
@@ -1380,7 +1572,11 @@
   <Overview>When a virus causes the machine to malfunction, numbers are issued irregularly; the team searches for an extremely elusive tech millionaire.</Overview>
   <ProductionCode>2J7221</ProductionCode>
   <Rating>8.0</Rating>
+<<<<<<< HEAD
   <RatingCount>116</RatingCount>
+=======
+  <RatingCount>110</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Amanda Segel|David Slack|</Writer>
   <absolute_number>44</absolute_number>
@@ -1411,7 +1607,11 @@
   <Overview>Finch and Reese team up with unexpected allies as they race to fix the machine; as Detective Carter tries to apprehend Cal Beecher's murderer, she finds herself up against HR -- a criminal organization.</Overview>
   <ProductionCode>2J7222</ProductionCode>
   <Rating>8.1</Rating>
+<<<<<<< HEAD
   <RatingCount>113</RatingCount>
+=======
+  <RatingCount>107</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Patrick Harbinson|Jonathan Nolan|</Writer>
   <absolute_number>45</absolute_number>
@@ -1442,7 +1642,11 @@
   <Overview>Reese and Shaw struggle to find a naval officer among all those in town for Fleet Week; Carter puts a plan in motion to get rid of those who set her up; Root tests her new surroundings.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
+<<<<<<< HEAD
   <RatingCount>104</RatingCount>
+=======
+  <RatingCount>93</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Greg Plageman|Denise Thé|</Writer>
   <absolute_number>46</absolute_number>
@@ -1473,7 +1677,11 @@
   <Overview>Reese tries to protect an Internet entrepreneur who targets people's privacy; Carter is paired with a rookie partner.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>95</RatingCount>
+=======
+  <RatingCount>89</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>Erik Mountain</Writer>
   <absolute_number>47</absolute_number>
@@ -1504,12 +1712,20 @@
   <Overview>Finch and Reese ask Zoe Morgan, Carter and Shaw to help them determine if a playboy is a predator or a target; Root plots an escape from the psych ward with the help of the machine.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.0</Rating>
+<<<<<<< HEAD
   <RatingCount>86</RatingCount>
+=======
+  <RatingCount>76</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>Amanda Segel</Writer>
   <absolute_number>48</absolute_number>
   <filename>episodes/248742/4624678.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1430850443</lastupdated>
+=======
+  <lastupdated>1414542432</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>522808</seasonid>
   <seriesid>248742</seriesid>
   <thumb_added>2013-09-26 22:12:45</thumb_added>
@@ -1535,12 +1751,20 @@
   <Overview>The team must figure out if a prominent lawyer orchestrated the murder of her husband or if she is being framed; Carter is spotted with Reese by her new partner.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>90</RatingCount>
+=======
+  <RatingCount>81</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>Melissa Scrivner-Love</Writer>
   <absolute_number>49</absolute_number>
   <filename>episodes/248742/4624679.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1430850485</lastupdated>
+=======
+  <lastupdated>1414542449</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>522808</seasonid>
   <seriesid>248742</seriesid>
   <thumb_added>2013-10-11 23:20:00</thumb_added>
@@ -1565,13 +1789,22 @@
   <Language>en</Language>
   <Overview>Shaw must stay close to a 10-year-old girl with highly developed surveillance skills when she is identified by the machine; Carter's mission could be exposed.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>8.0</Rating>
   <RatingCount>93</RatingCount>
+=======
+  <Rating>8.1</Rating>
+  <RatingCount>84</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>David Slack</Writer>
   <absolute_number>50</absolute_number>
   <filename>episodes/248742/4624680.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1430850451</lastupdated>
+=======
+  <lastupdated>1414542479</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>522808</seasonid>
   <seriesid>248742</seriesid>
   <thumb_added>2013-10-21 14:13:20</thumb_added>
@@ -1597,12 +1830,20 @@
   <Overview>After being freed from her confinement to the psych ward, Root needs Shaw's help with a directive from the machine; Finch and Reese look into a mild-mannered investigator.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.0</Rating>
+<<<<<<< HEAD
   <RatingCount>90</RatingCount>
+=======
+  <RatingCount>81</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>Dan Dietz</Writer>
   <absolute_number>51</absolute_number>
   <filename>episodes/248742/4640394.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1430850722</lastupdated>
+=======
+  <lastupdated>1414542506</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>522808</seasonid>
   <seriesid>248742</seriesid>
   <thumb_added>2013-10-25 08:52:23</thumb_added>
@@ -1627,13 +1868,22 @@
   <Language>en</Language>
   <Overview>The team is met with surprises during an investigation into a hypnotherapist; an antiquities dealer has ties to a crime organization.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.9</Rating>
   <RatingCount>87</RatingCount>
+=======
+  <Rating>8.0</Rating>
+  <RatingCount>78</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>Sean Hennen</Writer>
   <absolute_number>52</absolute_number>
   <filename>episodes/248742/4654682.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1430850436</lastupdated>
+=======
+  <lastupdated>1414542527</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>522808</seasonid>
   <seriesid>248742</seriesid>
   <thumb_added>2013-11-01 15:50:00</thumb_added>
@@ -1659,12 +1909,20 @@
   <Overview>The machine gives Finch 38 numbers at once; information about Carter's past is revealed.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.2</Rating>
+<<<<<<< HEAD
   <RatingCount>94</RatingCount>
+=======
+  <RatingCount>85</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Nic Van Zeebroeck|Michael Sopczynski|</Writer>
   <absolute_number>53</absolute_number>
   <filename>episodes/248742/4671408.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1430871710</lastupdated>
+=======
+  <lastupdated>1414542549</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>522808</seasonid>
   <seriesid>248742</seriesid>
   <thumb_added>2013-11-07 15:26:32</thumb_added>
@@ -1690,12 +1948,20 @@
   <Overview>The battle to bring a crime organization to justice reaches a new level; Reese's number comes up in the machine.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.0</Rating>
+<<<<<<< HEAD
   <RatingCount>87</RatingCount>
+=======
+  <RatingCount>79</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>Denise Thé</Writer>
   <absolute_number>54</absolute_number>
   <filename>episodes/248742/4671409.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1430850456</lastupdated>
+=======
+  <lastupdated>1409759383</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>522808</seasonid>
   <seriesid>248742</seriesid>
   <thumb_added>2013-11-18 18:08:33</thumb_added>
@@ -1720,13 +1986,22 @@
   <Language>en</Language>
   <Overview>As the team seeks justice for a death, Finch fears one team member will go too far; the number of one of HR's key players comes up in the machine.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>8.2</Rating>
   <RatingCount>92</RatingCount>
+=======
+  <Rating>8.3</Rating>
+  <RatingCount>82</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Amanda Segel|Jonathan Nolan|</Writer>
   <absolute_number>55</absolute_number>
   <filename>episodes/248742/4695060.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1430871777</lastupdated>
+=======
+  <lastupdated>1408383375</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>522808</seasonid>
   <seriesid>248742</seriesid>
   <thumb_added>2013-11-22 23:40:43</thumb_added>
@@ -1752,12 +2027,20 @@
   <Overview>Flashbacks reveal Finch's creation of the machine; Reese hits the road, leaving the team to deal with the aftermath of their war with HR.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
+<<<<<<< HEAD
   <RatingCount>89</RatingCount>
+=======
+  <RatingCount>79</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>Erik Mountain</Writer>
   <absolute_number>56</absolute_number>
   <filename>episodes/248742/4699799.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1434276363</lastupdated>
+=======
+  <lastupdated>1407184966</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>522808</seasonid>
   <seriesid>248742</seriesid>
   <thumb_added>2013-12-09 18:46:48</thumb_added>
@@ -1782,13 +2065,22 @@
   <Language>en</Language>
   <Overview>Multiple enemies target the team as they try to protect a dying man; Reese's absence could lead to catastrophic repercussions.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>8.0</Rating>
   <RatingCount>74</RatingCount>
+=======
+  <Rating>8.1</Rating>
+  <RatingCount>68</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>Lucas O'Connor</Writer>
   <absolute_number>57</absolute_number>
   <filename>episodes/248742/4699800.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1434276377</lastupdated>
+=======
+  <lastupdated>1407185079</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>522808</seasonid>
   <seriesid>248742</seriesid>
   <thumb_added>2014-01-03 02:35:22</thumb_added>
@@ -1813,13 +2105,22 @@
   <Language>en</Language>
   <Overview>Reese gets on an international flight -- intending to leave the team and the past behind -- but realizes his travel plans were manipulated.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.9</Rating>
   <RatingCount>76</RatingCount>
+=======
+  <Rating>8.0</Rating>
+  <RatingCount>66</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Melissa Scrivner-Love|Greg Plageman|</Writer>
   <absolute_number>58</absolute_number>
   <filename>episodes/248742/4728138.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1430871796</lastupdated>
+=======
+  <lastupdated>1407185162</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>522808</seasonid>
   <seriesid>248742</seriesid>
   <thumb_added>2014-02-09 12:17:41</thumb_added>
@@ -1845,12 +2146,20 @@
   <Overview>Reese comes back to New York; surprising events lead to the team planning a heist that could send them all to jail.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
+<<<<<<< HEAD
   <RatingCount>78</RatingCount>
+=======
+  <RatingCount>69</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>Sean Hennen</Writer>
   <absolute_number>59</absolute_number>
   <filename>episodes/248742/4728139.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1430850506</lastupdated>
+=======
+  <lastupdated>1407185236</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>522808</seasonid>
   <seriesid>248742</seriesid>
   <thumb_added>2014-01-26 19:12:55</thumb_added>
@@ -1875,13 +2184,22 @@
   <Language>en</Language>
   <Overview>Finch tries to protect a 911 operator by going under cover in an emergency call center; the threat proves to be larger than anticipated.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>8.0</Rating>
   <RatingCount>72</RatingCount>
+=======
+  <Rating>8.1</Rating>
+  <RatingCount>62</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>Dan Dietz</Writer>
   <absolute_number>60</absolute_number>
   <filename>episodes/248742/4728140.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1430850624</lastupdated>
+=======
+  <lastupdated>1407185290</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>522808</seasonid>
   <seriesid>248742</seriesid>
   <thumb_added>2014-02-18 17:18:06</thumb_added>
@@ -1907,12 +2225,20 @@
   <Overview>Secrets of Finch's pre-Reese operation are revealed -- including surprising ties to current events.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.1</Rating>
+<<<<<<< HEAD
   <RatingCount>76</RatingCount>
+=======
+  <RatingCount>65</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Nic Van Zeebroeck|Michael Sopczynski|</Writer>
   <absolute_number>61</absolute_number>
   <filename>episodes/248742/4772247.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1430871740</lastupdated>
+=======
+  <lastupdated>1407185387</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>522808</seasonid>
   <seriesid>248742</seriesid>
   <thumb_added>2014-02-26 15:57:12</thumb_added>
@@ -1937,8 +2263,13 @@
   <Language>en</Language>
   <Overview>The Machine assigns Root to seek out a janitor with a mysterious past, but when her very presence puts his life in danger, Finch also receives his number.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>8.1</Rating>
   <RatingCount>74</RatingCount>
+=======
+  <Rating>8.2</Rating>
+  <RatingCount>63</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>David Slack</Writer>
   <absolute_number>62</absolute_number>
@@ -1968,13 +2299,22 @@
   <Language>en</Language>
   <Overview>When Reese and Finch have to protect a former government contractor who is following a UN diplomat, they are thrust into the murky waters of international politics.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.9</Rating>
   <RatingCount>71</RatingCount>
+=======
+  <Rating>8.0</Rating>
+  <RatingCount>61</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>Tony Camerino</Writer>
   <absolute_number>63</absolute_number>
   <filename>episodes/248742/4778372.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1430850491</lastupdated>
+=======
+  <lastupdated>1407185546</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>522808</seasonid>
   <seriesid>248742</seriesid>
   <thumb_added>2014-03-15 05:22:22</thumb_added>
@@ -1999,13 +2339,22 @@
   <Language>en</Language>
   <Overview>In order to protect the latest person of interest, Shaw and Reese go under cover at a high school reunion; Fusco and Finch go to Washington, D.C., to investigate Vigilance's most recent attack.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.9</Rating>
   <RatingCount>67</RatingCount>
+=======
+  <Rating>8.0</Rating>
+  <RatingCount>58</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Denise Thé|Melissa Scrivner-Love|</Writer>
   <absolute_number>64</absolute_number>
   <filename>episodes/248742/4797901.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1430871724</lastupdated>
+=======
+  <lastupdated>1407185599</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>522808</seasonid>
   <seriesid>248742</seriesid>
   <thumb_added>2014-03-29 15:08:37</thumb_added>
@@ -2030,13 +2379,22 @@
   <Language>en</Language>
   <Overview>Reese goes under cover as a secret service agent in order to get close to the latest person of interest, a congressman who may have the key to derailing Decima's plan for a second machine.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>8.0</Rating>
   <RatingCount>65</RatingCount>
+=======
+  <Rating>8.1</Rating>
+  <RatingCount>55</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Lucas O'Connor|Erik Mountain|</Writer>
   <absolute_number>65</absolute_number>
   <filename>episodes/248742/4803978.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1430871815</lastupdated>
+=======
+  <lastupdated>1407185672</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>522808</seasonid>
   <seriesid>248742</seriesid>
   <thumb_added>2014-04-07 19:16:00</thumb_added>
@@ -2062,12 +2420,20 @@
   <Overview>Reese and Shaw are hunted by Decima; Greer uses Finch's greatest weakness -- his former fiancee -- to lure him out of hiding.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.2</Rating>
+<<<<<<< HEAD
   <RatingCount>67</RatingCount>
+=======
+  <RatingCount>57</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Dan Dietz|Sean Hennen|</Writer>
   <absolute_number>66</absolute_number>
   <filename>episodes/248742/4815795.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1430871769</lastupdated>
+=======
+  <lastupdated>1407185740</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>522808</seasonid>
   <seriesid>248742</seriesid>
   <thumb_added>2014-04-27 06:32:10</thumb_added>
@@ -2093,12 +2459,20 @@
   <Overview>The machine sends the team five different numbers to investigate when an unknown entity blocks details about an impending catastrophic event; Root's hackers arrive in New York.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.0</Rating>
+<<<<<<< HEAD
   <RatingCount>74</RatingCount>
+=======
+  <RatingCount>63</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>Amanda Segel</Writer>
   <absolute_number>67</absolute_number>
   <filename>episodes/248742/4820852.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1430850464</lastupdated>
+=======
+  <lastupdated>1407185812</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>522808</seasonid>
   <seriesid>248742</seriesid>
   <thumb_added>2014-05-06 19:15:15</thumb_added>
@@ -2124,12 +2498,20 @@
   <Overview>The team work to stop Samaritan from coming online and targeting them; the battle against Vigilance reaches a conclusion.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.3</Rating>
+<<<<<<< HEAD
   <RatingCount>68</RatingCount>
+=======
+  <RatingCount>58</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Greg Plageman|David Slack|</Writer>
   <absolute_number>68</absolute_number>
   <filename>episodes/248742/4834479.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1430871716</lastupdated>
+=======
+  <lastupdated>1415028130</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>522808</seasonid>
   <seriesid>248742</seriesid>
   <thumb_added>2014-05-11 12:14:42</thumb_added>
@@ -2144,23 +2526,31 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
+<<<<<<< HEAD
   <Director>Richard J. Lewis</Director>
+=======
+  <Director>|Richard J. Lewis|</Director>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Panopticon</EpisodeName>
   <EpisodeNumber>1</EpisodeNumber>
   <FirstAired>2014-09-23</FirstAired>
   <GuestStars></GuestStars>
   <IMDB_ID>tt3596112</IMDB_ID>
+<<<<<<< HEAD
   <Language>en</Language>
   <Overview>In the fourth season premiere, the team must devise new ways to continue their work without being detected by Samaritan after they're forced to take on new identities created by Root. Some, however, find it hard to ignore the Machine's numbers, putting them all at risk of being seen by the rival machine.</Overview>
+=======
+  <Language>en</Language>
+  <Overview>Forced to take on new identities provided by Root, the team members try to adapt to their new lives. However, some find it hard to ignore The Machine's numbers, which puts them all at risk of being detected by Samaritan.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
-  <RatingCount>47</RatingCount>
+  <RatingCount>29</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Erik Mountain|Greg Plageman|</Writer>
   <absolute_number>69</absolute_number>
   <filename>episodes/248742/4917008.jpg</filename>
-  <lastupdated>1434530953</lastupdated>
+  <lastupdated>1415028180</lastupdated>
   <seasonid>589267</seasonid>
   <seriesid>248742</seriesid>
   <thumb_added>2014-09-07 11:47:07</thumb_added>
@@ -2175,6 +2565,204 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
+  <Director>|Chris Fisher|</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Nautilus</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2014-09-30</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3897378</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Despite not wanting to help with the new numbers, Finch's interest is piqued when the newest person of interest turns out to be a brilliant college student involved with a mysterious scavenger hunt.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.1</Rating>
+  <RatingCount>22</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>|Melissa Scrivner-Love|Dan Dietz|</Writer>
+  <absolute_number>70</absolute_number>
+  <filename>episodes/248742/4937072.jpg</filename>
+  <lastupdated>1413724758</lastupdated>
+  <seasonid>589267</seasonid>
+  <seriesid>248742</seriesid>
+  <thumb_added>2014-09-17 16:15:59</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4951679</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Frederick E.O. Toye</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Wingman</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2014-10-07</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3915422</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Finch recruits Fusco to stick close to the latest POI, a professional 'wingman', but learning how to approach women soon becomes the least of his worries. Reese must find a way to play by the rules at his new day job. The Machine sends Finch and Root on a mysterious errand.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>24</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>|Amanda Segel|</Writer>
+  <absolute_number>71</absolute_number>
+  <filename>episodes/248742/4951679.jpg</filename>
+  <lastupdated>1413762884</lastupdated>
+  <seasonid>589267</seasonid>
+  <seriesid>248742</seriesid>
+  <thumb_added>2014-09-29 18:20:15</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4951680</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>|Chris Fisher|</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Brotherhood</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2014-10-14</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3949562</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Reese's cover job as a detective at the NYPD becomes complicated when the young brother and sister he's protecting become targets of a gang investigation.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>20</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>|Denise Thé|</Writer>
+  <absolute_number>72</absolute_number>
+  <filename>episodes/248742/4951680.jpg</filename>
+  <lastupdated>1414259470</lastupdated>
+  <seasonid>589267</seasonid>
+  <seriesid>248742</seriesid>
+  <thumb_added>2014-10-02 00:11:36</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4976474</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Ken Fink</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Prophets</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2014-10-21</FirstAired>
+  <GuestStars>Jason Ritter</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Finch is suspicious when a gifted political pollster’s number comes up at the same time that his typically ironclad predictions go wrong, and believes that the two events are linked. Reese is sidelined by a direct order from Moreno.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>21</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Lucas O'Connor</Writer>
+  <absolute_number>73</absolute_number>
+  <filename>episodes/248742/4976474.jpg</filename>
+  <lastupdated>1414048083</lastupdated>
+  <seasonid>589267</seasonid>
+  <seriesid>248742</seriesid>
+  <thumb_added>2014-10-17 00:32:32</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4976475</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Ken Fink</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Pretenders</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2014-10-28</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Reese, Shaw and Fusco must protect a unassuming office worker who stumbles into a dangerous conspiracy while moonlighting as fake detective. Meanwhile, Finch travels to Hong Kong as part of his academic cover identity.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>15</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Lucas O'Connor</Writer>
+  <absolute_number>74</absolute_number>
+  <filename>episodes/248742/4976475.jpg</filename>
+  <lastupdated>1414613562</lastupdated>
+  <seasonid>589267</seasonid>
+  <seriesid>248742</seriesid>
+  <thumb_added>2014-10-16 12:01:13</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5025623</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Sylvain White</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Honor Among Thieves</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2014-11-11</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Shaw joins a team of international thieves in order to keep tabs on the latest POI, but an unexpected turn of events puts her in danger of being detected by Samaritan. Also, Finch and Root undertake a dangerous sabotage mission.</Overview>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
+  <ProductionCode></ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>47</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+<<<<<<< HEAD
+  <Writer>|Erik Mountain|Greg Plageman|</Writer>
+  <absolute_number>69</absolute_number>
+  <filename>episodes/248742/4917008.jpg</filename>
+  <lastupdated>1434530953</lastupdated>
+  <seasonid>589267</seasonid>
+  <seriesid>248742</seriesid>
+  <thumb_added>2014-09-07 11:47:07</thumb_added>
+=======
+  <Writer>David Slack</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/248742/5025623.jpg</filename>
+  <lastupdated>1414651077</lastupdated>
+  <seasonid>589267</seasonid>
+  <seriesid>248742</seriesid>
+  <thumb_added>2014-10-29 23:42:14</thumb_added>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5030513</id>
+  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+<<<<<<< HEAD
   <Director>Chris Fisher</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Nautilus</EpisodeName>
@@ -2211,14 +2799,26 @@
   <EpisodeName>Wingman</EpisodeName>
   <EpisodeNumber>3</EpisodeNumber>
   <FirstAired>2014-10-07</FirstAired>
+=======
+  <Director>Richard J. Lewis</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Point of Origin</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2014-11-18</FirstAired>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <GuestStars></GuestStars>
   <IMDB_ID>tt3915422</IMDB_ID>
   <Language>en</Language>
+<<<<<<< HEAD
   <Overview>Finch recruits Fusco to stay close to the latest POI, a professional &quot;wingman&quot; whose number has come up, but learning how to approach women soon becomes the least of his worries. Meanwhile, Reese must find a way to play by the rules at his new day job as the Machine sends Finch and Root on a mysterious errand.</Overview>
+=======
+  <Overview>Reese volunteers as an NYPD police academy instructor in order to keep an eye on a talented young officer whose suspicious actions make him question her motives. Meanwhile, Martine – armed with information from Samaritan – hunts a member of the team.</Overview>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
   <RatingCount>42</RatingCount>
   <SeasonNumber>4</SeasonNumber>
+<<<<<<< HEAD
   <Writer>Amanda Segel</Writer>
   <absolute_number>71</absolute_number>
   <filename>episodes/248742/4951679.jpg</filename>
@@ -2347,6 +2947,12 @@
   <absolute_number></absolute_number>
   <filename>episodes/248742/5025623.jpg</filename>
   <lastupdated>1434531085</lastupdated>
+=======
+  <Writer>Tony Camerino</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1414738733</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>589267</seasonid>
   <seriesid>248742</seriesid>
   <thumb_added>2014-10-29 23:42:14</thumb_added>

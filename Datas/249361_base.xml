@@ -3,8 +3,13 @@
   <Series>
     <id>249361</id>
     <Actors>|Kelsey Grammer|Connie Neilsen|Hannah Ware|Jeff Hephner|Kathleen Robertson|Troy Garity|Rotimi Akinosho|James Vincent Meredith|Martin Donovan|Francis Guinan|Nicole Forester|Jonathan Groff|Sanaa Lathan|Karen Aldridge|Amy Morton|Tip &quot;T.I&quot; Harris|</Actors>
+<<<<<<< HEAD
     <Airs_DayOfWeek></Airs_DayOfWeek>
     <Airs_Time></Airs_Time>
+=======
+    <Airs_DayOfWeek>Friday</Airs_DayOfWeek>
+    <Airs_Time>10:00 PM</Airs_Time>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <ContentRating>TV-MA</ContentRating>
     <FirstAired>2011-10-21</FirstAired>
     <Genre>|Crime|Drama|</Genre>
@@ -23,7 +28,11 @@
     <addedBy>76261</addedBy>
     <banner>graphical/249361-g2.jpg</banner>
     <fanart>fanart/original/249361-3.jpg</fanart>
+<<<<<<< HEAD
     <lastupdated>1433087922</lastupdated>
+=======
+    <lastupdated>1414949832</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <poster>posters/249361-1.jpg</poster>
     <tms_wanted_old>1</tms_wanted_old>
     <zap2it_id>SH01416046</zap2it_id>

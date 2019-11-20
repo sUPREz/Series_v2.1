@@ -13,16 +13,26 @@
   <NetworkID></NetworkID>
   <Overview>Hosted by Morgan Freeman, Through the Wormhole explores the deepest mysteries of existence - the questions that have puzzled mankind for eternity. What are we made of? What was there before the beginning? Are we really alone? Is there a creator? These questions have been pondered by the most exquisite minds of the human race. Now, science has evolved to the point where hard facts and evidence may be able to provide us with answers instead of philosophical theories. Through the Wormhole brings together the brightest minds and best ideas from the very edges of science - Astrophysics, Astrobiology, Quantum Mechanics, String Theory, and more - to reveal the extraordinary truth of our Universe.</Overview>
   <Rating>9.1</Rating>
+<<<<<<< HEAD
   <RatingCount>57</RatingCount>
+=======
+  <RatingCount>54</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <Runtime>50</Runtime>
   <SeriesID></SeriesID>
   <SeriesName>Through the Wormhole</SeriesName>
   <Status>Continuing</Status>
   <added>2010-06-10 04:09:04</added>
   <addedBy>67951</addedBy>
+<<<<<<< HEAD
   <banner>graphical/168571-g2.jpg</banner>
   <fanart>fanart/original/168571-10.jpg</fanart>
   <lastupdated>1434214262</lastupdated>
+=======
+  <banner>graphical/168571-g5.jpg</banner>
+  <fanart>fanart/original/168571-10.jpg</fanart>
+  <lastupdated>1414719556</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <poster>posters/168571-2.jpg</poster>
   <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>SH01259727</zap2it_id>
@@ -139,7 +149,11 @@
   <Overview>Every cosmologist and astronomer agrees: our Universe is 13.7 billion years old. Using cutting-edge technology, scientists are now able to take a snapshot of the Universe a mere heartbeat after its birth. Armed with hypersensitive satellites, astronomers look back in time to the very moment of creation, when all the matter in the Universe exploded into existence. It is here that we uncover an unsolved mystery as old as time itself — if the Universe was born, where did it come from? Meet the leading scientists who have now discovered what they believe to be the origin of our Universe, and a window into the time before time.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>27</RatingCount>
+=======
+  <RatingCount>25</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
@@ -169,8 +183,13 @@
   <Language>en</Language>
   <Overview>Everywhere we look, life exists in both the most hospitable of environments and in the most extreme. Yet we have only ever found life on our planet. How did the stuff of stars come together to create life as we know it? What do we really mean by 'life'? And will unlocking this mystery help us find life elsewhere?</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.6</Rating>
   <RatingCount>24</RatingCount>
+=======
+  <Rating>7.5</Rating>
+  <RatingCount>23</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
@@ -231,8 +250,13 @@
   <Language>en</Language>
   <Overview>Our understanding of the universe and the nature of reality itself has drastically changed over the last 100 years, and it's on the verge of another seismic shift. In a 17-mile-long tunnel buried 570 feet beneath the Franco-Swiss border, the world's largest and most powerful atom smasher, the Large Hadron Collider, is powering up. Its goal is nothing less than recreating the first instants of creation, when the universe was unimaginably hot and long-extinct forms of matter sizzled and cooled into stars, planets, and ultimately, us. These incredibly small and exotic particles hold the keys to the greatest mysteries of the universe. What we find could validate our long-held theories about how the world works and what we are made of. Or, all of our notions about the essence of what is real will fall apart.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.7</Rating>
   <RatingCount>22</RatingCount>
+=======
+  <Rating>7.6</Rating>
+  <RatingCount>21</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
@@ -262,8 +286,13 @@
   <Language>en</Language>
   <Overview>What is the universe made of? If you answered stars, planets, gas and dust, you'd be dead wrong. Thirty years ago, scientists first realized that some unknown dark substance was affecting the way galaxies moved. Today, they think there must be five times as much dark matter as regular matter out there. But they have no idea what it is — only that it's not made of atoms, or any other matter we are familiar with. And Dark Matter is not the only strange substance in the Universe — a newly discovered force, called Dark Energy, seems to be pushing the very fabric of the cosmos apart.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.6</Rating>
   <RatingCount>19</RatingCount>
+=======
+  <Rating>7.4</Rating>
+  <RatingCount>18</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
@@ -299,7 +328,11 @@
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/168571/4108722.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1417596477</lastupdated>
+=======
+  <lastupdated>1369658052</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>467105</seasonid>
   <seriesid>168571</seriesid>
   <thumb_added></thumb_added>
@@ -315,7 +348,11 @@
   <DVD_episodenumber>2.0</DVD_episodenumber>
   <DVD_season>2</DVD_season>
   <Director></Director>
+<<<<<<< HEAD
   <EpImgFlag>7</EpImgFlag>
+=======
+  <EpImgFlag>2</EpImgFlag>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <EpisodeName>Is There an Edge to the Universe?</EpisodeName>
   <EpisodeNumber>2</EpisodeNumber>
   <FirstAired>2011-06-15</FirstAired>
@@ -330,7 +367,11 @@
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/168571/4108723.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1417596502</lastupdated>
+=======
+  <lastupdated>1369658063</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>467105</seasonid>
   <seriesid>168571</seriesid>
   <thumb_added></thumb_added>
@@ -361,7 +402,11 @@
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/168571/4112392.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1417596524</lastupdated>
+=======
+  <lastupdated>1369658075</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>467105</seasonid>
   <seriesid>168571</seriesid>
   <thumb_added></thumb_added>
@@ -392,7 +437,11 @@
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/168571/4112393.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1417596544</lastupdated>
+=======
+  <lastupdated>1369658084</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>467105</seasonid>
   <seriesid>168571</seriesid>
   <thumb_added></thumb_added>
@@ -423,7 +472,11 @@
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/168571/4112394.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1417596563</lastupdated>
+=======
+  <lastupdated>1369658099</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>467105</seasonid>
   <seriesid>168571</seriesid>
   <thumb_added></thumb_added>
@@ -454,7 +507,11 @@
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/168571/4112395.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1417596586</lastupdated>
+=======
+  <lastupdated>1369658118</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>467105</seasonid>
   <seriesid>168571</seriesid>
   <thumb_added></thumb_added>
@@ -485,7 +542,11 @@
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/168571/4112397.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1417596696</lastupdated>
+=======
+  <lastupdated>1369658128</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>467105</seasonid>
   <seriesid>168571</seriesid>
   <thumb_added></thumb_added>
@@ -516,7 +577,11 @@
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/168571/4112398.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1417596732</lastupdated>
+=======
+  <lastupdated>1369658137</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>467105</seasonid>
   <seriesid>168571</seriesid>
   <thumb_added></thumb_added>
@@ -547,7 +612,11 @@
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/168571/4112399.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1417596776</lastupdated>
+=======
+  <lastupdated>1369658145</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>467105</seasonid>
   <seriesid>168571</seriesid>
   <thumb_added></thumb_added>
@@ -563,7 +632,11 @@
   <DVD_episodenumber>6.0</DVD_episodenumber>
   <DVD_season>2</DVD_season>
   <Director></Director>
+<<<<<<< HEAD
   <EpImgFlag>7</EpImgFlag>
+=======
+  <EpImgFlag>2</EpImgFlag>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <EpisodeName>Are There Parallel Universes?</EpisodeName>
   <EpisodeNumber>10</EpisodeNumber>
   <FirstAired>2011-09-04</FirstAired>
@@ -578,7 +651,11 @@
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/168571/4185224.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1417596813</lastupdated>
+=======
+  <lastupdated>1369658156</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>467105</seasonid>
   <seriesid>168571</seriesid>
   <thumb_added></thumb_added>
@@ -1162,7 +1239,11 @@
   <Overview>We like to think we are the masters of our fates. But is that really true? What if everything that has happened or will happen in the universe has already been set, from the Big Bang to the Last Gasp, and we are unable to change our inevitable destinies? </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
+<<<<<<< HEAD
   <RatingCount>4</RatingCount>
+=======
+  <RatingCount>3</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
@@ -1214,22 +1295,39 @@
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
   <Director></Director>
+<<<<<<< HEAD
   <EpImgFlag>6</EpImgFlag>
+=======
+  <EpImgFlag>2</EpImgFlag>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <EpisodeName>Is God an Alien Concept?</EpisodeName>
   <EpisodeNumber>1</EpisodeNumber>
   <FirstAired>2014-03-05</FirstAired>
   <GuestStars></GuestStars>
+<<<<<<< HEAD
   <IMDB_ID>tt3574342</IMDB_ID>
   <Language>en</Language>
   <Overview>Is God worshipped in other worlds, across the cosmos? How might alien deities differ from our own? The answer may lie buried on Earth. Animal behaviorists are testing elephants and finding them capable of having spiritual thoughts. Artificial intelligence researchers are building enlightened robots that contemplate the divine. Meanwhile, cosmologists are looking for universal equations that could replace God. Have advanced aliens discovered everything there is to know about the universe? Or are they looking to a higher power for answers?</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.0</Rating>
   <RatingCount>3</RatingCount>
+=======
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Is God worshipped in other worlds, across the cosmos? How might alien deities differ from our own? The answer may lie buried on Earth. Animal behaviorists are testing elephants and finding them capable of having spiritual thoughts. Artificial intelligence researchers are building enlightened robots that contemplate the divine. Meanwhile, cosmologists are looking for universal equations that could replace God. Have advanced aliens discovered everything there is to know about the universe? Or are they looking to a higher power for answers?</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>2</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>5</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/168571/4817473.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431355075</lastupdated>
+=======
+  <lastupdated>1402530255</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>574130</seasonid>
   <seriesid>168571</seriesid>
   <thumb_added>2014-03-06 00:23:28</thumb_added>
@@ -1245,22 +1343,39 @@
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
   <Director></Director>
+<<<<<<< HEAD
   <EpImgFlag>6</EpImgFlag>
+=======
+  <EpImgFlag>2</EpImgFlag>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <EpisodeName>Is Luck Real?</EpisodeName>
   <EpisodeNumber>2</EpisodeNumber>
   <FirstAired>2014-03-12</FirstAired>
   <GuestStars></GuestStars>
+<<<<<<< HEAD
   <IMDB_ID>tt3574364</IMDB_ID>
   <Language>en</Language>
   <Overview>Do you make your own luck, or does luck make you? Some scientists believe luck is strictly a matter of statistics and probabilities…but others believe unseen forces are at work, and randomness is built into every particle of the universe. We’ll find luck, good and bad, in casinos, basketball courts, genetics labs and the subatomic world. How much does the genetic lottery rule your fate? Are lucky streaks and unfortunate accidents merely our own minds fooling us? It’s a scientific journey that will radically revise your understanding of the laws of nature and the workings of the human brain.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.0</Rating>
   <RatingCount>1</RatingCount>
+=======
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Do you make your own luck, or does luck make you? Some scientists believe luck is strictly a matter of statistics and probabilities…but others believe unseen forces are at work, and randomness is built into every particle of the universe. We’ll find luck, good and bad, in casinos, basketball courts, genetics labs and the subatomic world. How much does the genetic lottery rule your fate? Are lucky streaks and unfortunate accidents merely our own minds fooling us? It’s a scientific journey that will radically revise your understanding of the laws of nature and the workings of the human brain.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>5</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/168571/4776429.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431355082</lastupdated>
+=======
+  <lastupdated>1402530196</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>574130</seasonid>
   <seriesid>168571</seriesid>
   <thumb_added>2014-03-15 09:35:27</thumb_added>
@@ -1268,7 +1383,11 @@
   <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
+<<<<<<< HEAD
   <id>4891419</id>
+=======
+  <id>4891417</id>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <Combined_episodenumber>3</Combined_episodenumber>
   <Combined_season>5</Combined_season>
   <DVD_chapter></DVD_chapter>
@@ -1279,9 +1398,15 @@
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Is Poverty Genetic?</EpisodeName>
   <EpisodeNumber>3</EpisodeNumber>
+<<<<<<< HEAD
   <FirstAired>2014-06-11</FirstAired>
   <GuestStars></GuestStars>
   <IMDB_ID>tt3799272</IMDB_ID>
+=======
+  <FirstAired>2014-06-04</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <Language>en</Language>
   <Overview>Are the wealthy just born in the right place at the right time? Are the poor victims of a system designed to keep them down? Or do physics and biology determine who is rich and who is poor? Throughout history, distribution of wealth is governed by hidden forces: DNA, environmental stress, patterns of human migration and even the laws of thermodynamics! Nature seems to demand winners and losers in life. But does this mean greed is king, and the rich can take what they want? Or is cooperation – between microorganisms, monkeys, and humans – more essential to survival of a species?</Overview>
   <ProductionCode></ProductionCode>
@@ -1290,16 +1415,28 @@
   <SeasonNumber>5</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
+<<<<<<< HEAD
   <filename>episodes/168571/4891419.jpg</filename>
   <lastupdated>1431357740</lastupdated>
   <seasonid>574130</seasonid>
   <seriesid>168571</seriesid>
   <thumb_added>2015-05-11 08:22:20</thumb_added>
+=======
+  <filename>episodes/168571/4891417.jpg</filename>
+  <lastupdated>1402530290</lastupdated>
+  <seasonid>574130</seasonid>
+  <seriesid>168571</seriesid>
+  <thumb_added>2014-06-05 09:07:56</thumb_added>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <thumb_height>225</thumb_height>
   <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
+<<<<<<< HEAD
   <id>4891420</id>
+=======
+  <id>4891418</id>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <Combined_episodenumber>4</Combined_episodenumber>
   <Combined_season>5</Combined_season>
   <DVD_chapter></DVD_chapter>
@@ -1310,6 +1447,7 @@
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>How to Collapse a Superpower</EpisodeName>
   <EpisodeNumber>4</EpisodeNumber>
+<<<<<<< HEAD
   <FirstAired>2014-06-25</FirstAired>
   <GuestStars></GuestStars>
   <IMDB_ID>tt3799276</IMDB_ID>
@@ -1317,20 +1455,41 @@
   <Overview>With a little imagination, could a few terrorists sabotage a mighty nation? Perhaps even tear down modern civilization? The stability of the US, Europe, China, or any global power depends on high-speed digital communication. Our increasing dependence on digital devices and global interactivity may be placing us in grave danger. Scientists around the world are dealing with new threats such as body hacking, Trojan horse viruses, and brain-damaging Internet addiction. But what if the ultimate threat isn’t an attack on technology, but the technology? Could the final superpower be the disembodied mind of the Internet itself?</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.0</Rating>
+=======
+  <FirstAired>2014-06-11</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3799272</IMDB_ID>
+  <Language>en</Language>
+  <Overview>With a little imagination, could a few terrorists sabotage a mighty nation? Perhaps even tear down modern civilization? The stability of the US, Europe, China, or any global power depends on high-speed digital communication. Our increasing dependence on digital devices and global interactivity may be placing us in grave danger. Scientists around the world are dealing with new threats such as body hacking, Trojan horse viruses, and brain-damaging Internet addiction. But what if the ultimate threat isn’t an attack on technology, but the technology? Could the final superpower be the disembodied mind of the Internet itself?</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>6.0</Rating>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <RatingCount>1</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
+<<<<<<< HEAD
   <filename>episodes/168571/4891420.jpg</filename>
   <lastupdated>1431357773</lastupdated>
   <seasonid>574130</seasonid>
   <seriesid>168571</seriesid>
   <thumb_added>2015-05-11 08:22:53</thumb_added>
+=======
+  <filename>episodes/168571/4891418.jpg</filename>
+  <lastupdated>1404426694</lastupdated>
+  <seasonid>574130</seasonid>
+  <seriesid>168571</seriesid>
+  <thumb_added>2014-06-15 04:58:05</thumb_added>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <thumb_height>225</thumb_height>
   <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
+<<<<<<< HEAD
   <id>4891421</id>
+=======
+  <id>4891419</id>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <Combined_episodenumber>5</Combined_episodenumber>
   <Combined_season>5</Combined_season>
   <DVD_chapter></DVD_chapter>
@@ -1341,6 +1500,7 @@
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Does the Ocean Think?</EpisodeName>
   <EpisodeNumber>5</EpisodeNumber>
+<<<<<<< HEAD
   <FirstAired>2014-06-25</FirstAired>
   <GuestStars></GuestStars>
   <IMDB_ID>tt3799278</IMDB_ID>
@@ -1357,11 +1517,33 @@
   <seasonid>574130</seasonid>
   <seriesid>168571</seriesid>
   <thumb_added>2015-05-11 08:23:05</thumb_added>
+=======
+  <FirstAired>2014-06-18</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>There could be an undiscovered species on Earth unlike anything we’ve ever known. Not in the ocean, but the ocean itself! Its body spans thousands of miles; its heart beats with a one-thousand-year pulse. It could even have an immune system capable of annihilating all other life on earth. Just as our bodies function through the interaction of water with individual cells, including bacteria and other microorganisms, the ocean’s residents might collectively form a super-organism. A recent discovery suggests the ocean is a living being capable of thought. If so, what is the ocean thinking about us?</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/168571/4891419.jpg</filename>
+  <lastupdated>1403197752</lastupdated>
+  <seasonid>574130</seasonid>
+  <seriesid>168571</seriesid>
+  <thumb_added>2014-06-19 10:13:29</thumb_added>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <thumb_height>225</thumb_height>
   <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
+<<<<<<< HEAD
   <id>4891423</id>
+=======
+  <id>4891420</id>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <Combined_episodenumber>6</Combined_episodenumber>
   <Combined_season>5</Combined_season>
   <DVD_chapter></DVD_chapter>
@@ -1372,6 +1554,7 @@
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Is a Zombie Apocalypse Possible?</EpisodeName>
   <EpisodeNumber>6</EpisodeNumber>
+<<<<<<< HEAD
   <FirstAired>2014-07-02</FirstAired>
   <GuestStars></GuestStars>
   <IMDB_ID>tt3799282</IMDB_ID>
@@ -1388,11 +1571,33 @@
   <seasonid>574130</seasonid>
   <seriesid>168571</seriesid>
   <thumb_added>2015-05-11 14:04:29</thumb_added>
+=======
+  <FirstAired>2014-06-25</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>It is a nightmare that has stalked us for centuries: hordes of human beings transformed into mindless, cannibalistic monsters. Could this civilization-ending nightmare become reality? Scientists have discovered pathogens that turn insects into the walking dead. New strains of viruses are attacking humans every day. Mathematicians have calculated the likelihood of surviving a zombie virus outbreak: they’re not hopeful. Now neuroscientists are discovering how easy it is for us to lose conscious control of our bodies. Are we at risk of becoming puppets? If we were in the middle of a zombie apocalypse, would we even know it?</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/168571/4891420.jpg</filename>
+  <lastupdated>1403812737</lastupdated>
+  <seasonid>574130</seasonid>
+  <seriesid>168571</seriesid>
+  <thumb_added>2014-06-26 12:58:57</thumb_added>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <thumb_height>225</thumb_height>
   <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
+<<<<<<< HEAD
   <id>4891422</id>
+=======
+  <id>4891421</id>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <Combined_episodenumber>7</Combined_episodenumber>
   <Combined_season>5</Combined_season>
   <DVD_chapter></DVD_chapter>
@@ -1403,13 +1608,20 @@
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Is Gravity an Illusion?</EpisodeName>
   <EpisodeNumber>7</EpisodeNumber>
+<<<<<<< HEAD
   <FirstAired>2014-07-09</FirstAired>
   <GuestStars></GuestStars>
   <IMDB_ID>tt3799288</IMDB_ID>
+=======
+  <FirstAired>2014-07-02</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3799282</IMDB_ID>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <Language>en</Language>
   <Overview>We feel it every moment of our lives but for physicists, gravity is the longest running unsolved mystery of the universe. Why do all objects that have mass pull on one another? Cutting-edge theories are proposing unexpected answers: Gravity could be another force in disguise, a thermodynamic mirage, or even, a shadow of a hidden holographic universe. If so, the force that holds us to the surface of the earth, and holds the earth in orbit around the sun, may be a trick of the mind. We feel it, but it may not be real. Is Gravity an Illusion?</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.0</Rating>
+<<<<<<< HEAD
   <RatingCount>2</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer></Writer>
@@ -1419,11 +1631,26 @@
   <seasonid>574130</seasonid>
   <seriesid>168571</seriesid>
   <thumb_added>2015-05-11 08:23:23</thumb_added>
+=======
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/168571/4891421.jpg</filename>
+  <lastupdated>1405115645</lastupdated>
+  <seasonid>574130</seasonid>
+  <seriesid>168571</seriesid>
+  <thumb_added>2014-07-03 02:01:37</thumb_added>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <thumb_height>225</thumb_height>
   <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
+<<<<<<< HEAD
   <id>4817495</id>
+=======
+  <id>4891423</id>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <Combined_episodenumber>8</Combined_episodenumber>
   <Combined_season>5</Combined_season>
   <DVD_chapter></DVD_chapter>
@@ -1434,6 +1661,7 @@
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Will We Become God?</EpisodeName>
   <EpisodeNumber>8</EpisodeNumber>
+<<<<<<< HEAD
   <FirstAired>2014-07-16</FirstAired>
   <GuestStars></GuestStars>
   <IMDB_ID>tt3799286</IMDB_ID>
@@ -1441,20 +1669,41 @@
   <Overview>Humanity’s potential seems limitless. But could we become as powerful as God? Scientific breakthroughs grant our species seemingly divine abilities. Biologists tinkering with DNA are figuring out ways to grow new life forms, while neuroscientists try to create artificial consciousness. Statisticians around the world are using big data to predict the future and computer scientists have discovered a &quot;God algorithm&quot; that could solve any global problem in an instant. But to truly become God, we not only have to be all knowing, but all being. Quantum physicists are figuring out how to teleport matter at the speed of light!</Overview>
   <ProductionCode></ProductionCode>
   <Rating>9.0</Rating>
+=======
+  <FirstAired>2014-07-09</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3799288</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Humanity’s potential seems limitless. But could we become as powerful as God? Scientific breakthroughs grant our species seemingly divine abilities. Biologists tinkering with DNA are figuring out ways to grow new life forms, while neuroscientists try to create artificial consciousness. Statisticians around the world are using big data to predict the future and computer scientists have discovered a “God algorithm” that could solve any global problem in an instant. But to truly become God, we not only have to be all knowing, but all being. Quantum physicists are figuring out how to teleport matter at the speed of light!</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.0</Rating>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <RatingCount>1</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
+<<<<<<< HEAD
   <filename>episodes/168571/4817495.jpg</filename>
   <lastupdated>1431357853</lastupdated>
   <seasonid>574130</seasonid>
   <seriesid>168571</seriesid>
   <thumb_added>2015-05-11 08:24:13</thumb_added>
+=======
+  <filename>episodes/168571/4891423.jpg</filename>
+  <lastupdated>1405275527</lastupdated>
+  <seasonid>574130</seasonid>
+  <seriesid>168571</seriesid>
+  <thumb_added>2014-07-10 04:18:58</thumb_added>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <thumb_height>225</thumb_height>
   <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
+<<<<<<< HEAD
   <id>4891417</id>
+=======
+  <id>4891422</id>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <Combined_episodenumber>9</Combined_episodenumber>
   <Combined_season>5</Combined_season>
   <DVD_chapter></DVD_chapter>
@@ -1463,6 +1712,7 @@
   <DVD_season></DVD_season>
   <Director></Director>
   <EpImgFlag>2</EpImgFlag>
+<<<<<<< HEAD
   <EpisodeName>Is There a Shadow Universe?</EpisodeName>
   <EpisodeNumber>9</EpisodeNumber>
   <FirstAired>2014-07-23</FirstAired>
@@ -1481,11 +1731,35 @@
   <seasonid>574130</seasonid>
   <seriesid>168571</seriesid>
   <thumb_added>2015-05-11 08:24:26</thumb_added>
+=======
+  <EpisodeName>Is There A Shadow Universe?</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2014-07-16</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3799286</IMDB_ID>
+  <Language>en</Language>
+  <Overview>When we look up into the sky it appears we live in a universe that is filled with light. But scientists are now certain there is far more matter in the dark portions of our universe that we can’t see or touch. There’s something hiding in the shadows. Cosmologists agree that “dark matter” has helped shape our Universe, but now they need to figure out what dark matter is. What’s going on in this hidden world? Could it have formed its own dark stars, planets, and even life forms? Could this Shadow Universe threaten our world of light?</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/168571/4891422.jpg</filename>
+  <lastupdated>1405697428</lastupdated>
+  <seasonid>574130</seasonid>
+  <seriesid>168571</seriesid>
+  <thumb_added>2014-07-17 04:07:57</thumb_added>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <thumb_height>225</thumb_height>
   <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
+<<<<<<< HEAD
   <id>4891418</id>
+=======
+  <id>4817495</id>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <Combined_episodenumber>10</Combined_episodenumber>
   <Combined_season>5</Combined_season>
   <DVD_chapter></DVD_chapter>
@@ -1496,6 +1770,7 @@
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>When Did Time Begin?</EpisodeName>
   <EpisodeNumber>10</EpisodeNumber>
+<<<<<<< HEAD
   <FirstAired>2014-06-04</FirstAired>
   <GuestStars></GuestStars>
   <IMDB_ID>tt3750104</IMDB_ID>
@@ -1698,6 +1973,24 @@
   <seasonid>619654</seasonid>
   <seriesid>168571</seriesid>
   <thumb_added>2015-06-05 00:56:36</thumb_added>
+=======
+  <FirstAired>2014-07-23</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>We float along the river of time. But does that river have a source? Where did time come from? Some believe time and space are one thing, and the Big Bang started the cosmic clock. Others believe the universe existed for almost half a million &quot;years&quot; before light could move and time began. Still others say time is older than our universe. But what if time itself is an illusion? Incredible new experiments may hold the answer. One groundbreaking experiment gives us the power to punch holes in time…and another may create a machine that operates outside time’s boundaries!</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/168571/4817495.jpg</filename>
+  <lastupdated>1407383957</lastupdated>
+  <seasonid>574130</seasonid>
+  <seriesid>168571</seriesid>
+  <thumb_added>2014-07-24 12:07:18</thumb_added>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <thumb_height>225</thumb_height>
   <thumb_width>400</thumb_width>
 </Episode>

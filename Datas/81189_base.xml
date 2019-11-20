@@ -2,7 +2,11 @@
 <Data>
   <Series>
     <id>81189</id>
+<<<<<<< HEAD
     <Actors>|Bryan Cranston|Aaron Paul|Dean Norris|Giancarlo Esposito|Anna Gunn|Jonathan Banks|Bob Odenkirk|RJ Mitte|Betsy Brandt|Laura Fraser|Jesse Plemons|Christopher Cousins|Steven Michael Quezada|</Actors>
+=======
+    <Actors>|Jonathan Banks|Giancarlo Esposito|Bob Odenkirk|Bryan Cranston|RJ Mitte|Betsy Brandt|Dean Norris|Aaron Paul|Anna Gunn|Laura Fraser|Jesse Plemons|Christopher Cousins|Steven Michael Quezada|</Actors>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <Airs_DayOfWeek>Sunday</Airs_DayOfWeek>
     <Airs_Time>9:00 PM</Airs_Time>
     <ContentRating>TV-MA</ContentRating>
@@ -14,17 +18,28 @@
     <NetworkID></NetworkID>
     <Overview>Walter White, a struggling high school chemistry teacher, is diagnosed with advanced lung cancer. He turns to a life of crime, producing and selling methamphetamine accompanied by a former student, Jesse Pinkman, with the aim of securing his family's financial future before he dies.</Overview>
     <Rating>9.3</Rating>
+<<<<<<< HEAD
     <RatingCount>691</RatingCount>
     <Runtime>45</Runtime>
+=======
+    <RatingCount>647</RatingCount>
+    <Runtime>60</Runtime>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <SeriesID>74713</SeriesID>
     <SeriesName>Breaking Bad</SeriesName>
     <Status>Ended</Status>
     <added></added>
     <addedBy></addedBy>
     <banner>graphical/81189-g21.jpg</banner>
+<<<<<<< HEAD
     <fanart>fanart/original/81189-34.jpg</fanart>
     <lastupdated>1434805611</lastupdated>
     <poster>posters/81189-10.jpg</poster>
+=======
+    <fanart>fanart/original/81189-21.jpg</fanart>
+    <lastupdated>1415046407</lastupdated>
+    <poster>posters/81189-22.jpg</poster>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <tms_wanted_old>1</tms_wanted_old>
     <zap2it_id>EP01009396</zap2it_id>
   </Series>

@@ -2,8 +2,13 @@
 <Data>
   <Series>
     <id>80379</id>
+<<<<<<< HEAD
     <Actors>|Jim Parsons|Johnny Galecki|Kaley Cuoco|Simon Helberg|Kunal Nayyar|Melissa Rauch|Mayim Bialik|</Actors>
     <Airs_DayOfWeek>Monday</Airs_DayOfWeek>
+=======
+    <Actors>|Jim Parsons|Johnny Galecki|Kaley Cuoco-Sweeting|Simon Helberg|Kunal Nayyar|Melissa Rauch|Mayim Bialik|</Actors>
+    <Airs_DayOfWeek>Thursday</Airs_DayOfWeek>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <Airs_Time>8:00 PM</Airs_Time>
     <ContentRating>TV-PG</ContentRating>
     <FirstAired>2007-09-24</FirstAired>
@@ -14,17 +19,28 @@
     <NetworkID></NetworkID>
     <Overview>What happens when hyperintelligent roommates Sheldon and Leonard meet Penny, a free-spirited beauty moving in next door, and realize they know next to nothing about life outside of the lab. Rounding out the crew are the smarmy Wolowitz, who thinks he's as sexy as he is brainy, and Koothrappali, who suffers from an inability to speak in the presence of a woman.</Overview>
     <Rating>9.2</Rating>
+<<<<<<< HEAD
     <RatingCount>1072</RatingCount>
+=======
+    <RatingCount>1015</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <Runtime>30</Runtime>
     <SeriesID>58056</SeriesID>
     <SeriesName>The Big Bang Theory</SeriesName>
     <Status>Continuing</Status>
     <added></added>
     <addedBy></addedBy>
+<<<<<<< HEAD
     <banner>graphical/80379-g23.jpg</banner>
     <fanart>fanart/original/80379-34.jpg</fanart>
     <lastupdated>1435008617</lastupdated>
     <poster>posters/80379-18.jpg</poster>
+=======
+    <banner>graphical/80379-g26.jpg</banner>
+    <fanart>fanart/original/80379-38.jpg</fanart>
+    <lastupdated>1415047766</lastupdated>
+    <poster>posters/80379-9.jpg</poster>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <tms_wanted_old>1</tms_wanted_old>
     <zap2it_id>EP00931182</zap2it_id>
   </Series>

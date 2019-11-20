@@ -14,7 +14,11 @@
     <NetworkID></NetworkID>
     <Overview>Meet Meredith Grey, a brilliant first-year surgical intern at Seattle Grace Hospital. Together with her fellow residents-in-training, Meredith navigates her way through the daily traumas and social land mines of the life inside the hospital and out in the real world. Grey's Anatomy is a smart and witty look at young people struggling to be doctors and doctors struggling to be human. </Overview>
     <Rating>8.3</Rating>
+<<<<<<< HEAD
     <RatingCount>195</RatingCount>
+=======
+    <RatingCount>187</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <Runtime>60</Runtime>
     <SeriesID>24440</SeriesID>
     <SeriesName>Grey's Anatomy</SeriesName>
@@ -22,8 +26,13 @@
     <added></added>
     <addedBy></addedBy>
     <banner>graphical/73762-g25.jpg</banner>
+<<<<<<< HEAD
     <fanart>fanart/original/73762-32.jpg</fanart>
     <lastupdated>1435010723</lastupdated>
+=======
+    <fanart>fanart/original/73762-28.jpg</fanart>
+    <lastupdated>1415026806</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <poster>posters/73762-5.jpg</poster>
     <tms_wanted_old>1</tms_wanted_old>
     <zap2it_id>SH732283</zap2it_id>

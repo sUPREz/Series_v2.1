@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Data><Series>
   <id>81189</id>
+<<<<<<< HEAD
   <Actors>|Bryan Cranston|Aaron Paul|Dean Norris|Giancarlo Esposito|Anna Gunn|Jonathan Banks|Bob Odenkirk|RJ Mitte|Betsy Brandt|Laura Fraser|Jesse Plemons|Christopher Cousins|Steven Michael Quezada|</Actors>
+=======
+  <Actors>|Jonathan Banks|Giancarlo Esposito|Bob Odenkirk|Bryan Cranston|RJ Mitte|Betsy Brandt|Dean Norris|Aaron Paul|Anna Gunn|Laura Fraser|Jesse Plemons|Christopher Cousins|Steven Michael Quezada|</Actors>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <Airs_DayOfWeek>Sunday</Airs_DayOfWeek>
   <Airs_Time>9:00 PM</Airs_Time>
   <ContentRating>TV-MA</ContentRating>
@@ -13,17 +17,28 @@
   <NetworkID></NetworkID>
   <Overview>Walter White, a struggling high school chemistry teacher, is diagnosed with advanced lung cancer. He turns to a life of crime, producing and selling methamphetamine accompanied by a former student, Jesse Pinkman, with the aim of securing his family's financial future before he dies.</Overview>
   <Rating>9.3</Rating>
+<<<<<<< HEAD
   <RatingCount>691</RatingCount>
   <Runtime>45</Runtime>
+=======
+  <RatingCount>647</RatingCount>
+  <Runtime>60</Runtime>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeriesID>74713</SeriesID>
   <SeriesName>Breaking Bad</SeriesName>
   <Status>Ended</Status>
   <added></added>
   <addedBy></addedBy>
   <banner>graphical/81189-g21.jpg</banner>
+<<<<<<< HEAD
   <fanart>fanart/original/81189-34.jpg</fanart>
   <lastupdated>1434805611</lastupdated>
   <poster>posters/81189-10.jpg</poster>
+=======
+  <fanart>fanart/original/81189-21.jpg</fanart>
+  <lastupdated>1415046407</lastupdated>
+  <poster>posters/81189-22.jpg</poster>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>EP01009396</zap2it_id>
 </Series>
@@ -624,7 +639,11 @@
   <Overview>When an unassuming high school chemistry teacher discovers he has a rare form of lung cancer, he decides to team up with a former student and create a top of the line crystal meth in a used RV, to provide for his family once he is gone.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>432</RatingCount>
+=======
+  <RatingCount>422</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Vince Gilligan</Writer>
   <absolute_number>1</absolute_number>
@@ -655,7 +674,11 @@
   <Overview>Walt and Jesse attempt to tie up loose ends. The desperate situation gets more complicated with the flip of a coin. Walt's wife, Skyler, becomes suspicious of Walt's strange behavior.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>398</RatingCount>
+=======
+  <RatingCount>389</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Vince Gilligan</Writer>
   <absolute_number>2</absolute_number>
@@ -686,7 +709,11 @@
   <Overview>Walter fights with Jesse over his drug use, causing him to leave Walter alone with their captive, Krazy-8. Meanwhile, Hank has a scared straight moment with Walter Jr. after his aunt discovers he has been smoking pot. Also, Skylar is upset when Walter stays away from home.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>371</RatingCount>
+=======
+  <RatingCount>363</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Vince Gilligan</Writer>
   <absolute_number>3</absolute_number>
@@ -717,7 +744,11 @@
   <Overview>Walter finally tells his family that he has been stricken with cancer. Meanwhile, the DEA believes Albuquerque has a new, big time player to worry about. Meanwhile, a worthy recipient is the target of a depressed Walter's anger, and Jesse makes a surprise visit to his parents home.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>359</RatingCount>
+=======
+  <RatingCount>352</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Vince Gilligan</Writer>
   <absolute_number>4</absolute_number>
@@ -748,7 +779,11 @@
   <Overview>Walter and Skyler attend a former colleague's party. Jesse tries to free himself from the drugs, while Skyler organizes an intervention.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>355</RatingCount>
+=======
+  <RatingCount>347</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Patty Lin</Writer>
   <absolute_number>5</absolute_number>
@@ -779,7 +814,11 @@
   <Overview>The side effects of chemo begin to plague Walt. Meanwhile, the DEA rounds up suspected dealers.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.1</Rating>
+<<<<<<< HEAD
   <RatingCount>358</RatingCount>
+=======
+  <RatingCount>353</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>George Mastras</Writer>
   <absolute_number>6</absolute_number>
@@ -810,7 +849,11 @@
   <Overview>Walter accepts his new identity as a drug dealer after a PTA meeting. Elsewhere, Jesse decides to put his aunt's house on the market and Skyler is the recipient of a baby shower.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
+<<<<<<< HEAD
   <RatingCount>361</RatingCount>
+=======
+  <RatingCount>355</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Peter Gould</Writer>
   <absolute_number>7</absolute_number>
@@ -841,7 +884,11 @@
   <Overview>Walt and Jesse are vividly reminded of Tuco’s volatile nature, and try to figure a way out of their business partnership. Hank attempts to mend fences between the estranged Marie and Skyler.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>349</RatingCount>
+=======
+  <RatingCount>342</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>J. Roberts</Writer>
   <absolute_number>8</absolute_number>
@@ -872,7 +919,11 @@
   <Overview>Walt and Jesse find themselves in close quarters with an unhinged Tuco. Marie and Hank comfort Skyler, who is distraught over Walt’s disappearance. Hank pays a visit to Mrs. Pinkman on some not-so-official business.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
+<<<<<<< HEAD
   <RatingCount>333</RatingCount>
+=======
+  <RatingCount>325</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>George Mastras</Writer>
   <absolute_number>9</absolute_number>
@@ -903,7 +954,11 @@
   <Overview>Walt and Jesse cover their tracks, but as a result, both of their financial situations suffer. Meanwhile, Hank and his DEA colleagues may have a break in their meth investigation.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>331</RatingCount>
+=======
+  <RatingCount>322</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Peter Gould</Writer>
   <absolute_number>10</absolute_number>
@@ -934,7 +989,11 @@
   <Overview>Walt tries to reconnect with his family. Still suspicious of her husband's actions, Skyler keeps her distance. Jesse finds himself without a place to live and struggles to cope.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
+<<<<<<< HEAD
   <RatingCount>303</RatingCount>
+=======
+  <RatingCount>295</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Sam Catlin</Writer>
   <absolute_number>11</absolute_number>
@@ -965,7 +1024,11 @@
   <Overview>Tensions and bills mount at the White household. Hank makes progress at work, but struggles with some residual effects from his encounter with Tuco. Jesse takes charge and assembles a crew of dealers to get their product out on the streets.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>318</RatingCount>
+=======
+  <RatingCount>313</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Moira Walley</Writer>
   <absolute_number>12</absolute_number>
@@ -995,8 +1058,13 @@
   <Language>en</Language>
   <Overview>Walt returns to work. Skinny Pete gets ripped off and when Jesse steps in to &quot;handle it,&quot; he gets more than he bargained for. Skyler finally gets to thank Gretchen for paying for Walt's treatment.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.7</Rating>
   <RatingCount>317</RatingCount>
+=======
+  <Rating>7.8</Rating>
+  <RatingCount>310</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>|J Roberts|Vince Gilligan|</Writer>
   <absolute_number>13</absolute_number>
@@ -1027,7 +1095,11 @@
   <Overview>Rumors fly about Jesse's recent actions as he and Walt discuss expanding their business into new territories. Hank struggles to fit in with his new co-workers in El Paso. Skyler pursues a new job opportunity that reconnects her with a former colleague. Jesse gets to know his landlord, Jane.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>317</RatingCount>
+=======
+  <RatingCount>312</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>John Shiban</Writer>
   <absolute_number>14</absolute_number>
@@ -1058,7 +1130,11 @@
   <Overview>When Badger finds himself in trouble with the law, Walt and Jesse seek the legal advice of a shady attorney, Saul Goodman. The DEA believe they may have finally caught up with the elusive 'Heisenberg.' Hank returns to Albuquerque, but his troubled mental state and demeanor cause Marie to worry.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>294</RatingCount>
+=======
+  <RatingCount>292</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Peter Gould</Writer>
   <absolute_number>15</absolute_number>
@@ -1089,7 +1165,11 @@
   <Overview>After Walt undergoes a PET-CT scan, he and his family wait for news about his cancer treatment progress. Fearing the worst, Walt follows Saul's advice to cook as much product as he can with the time he has left. Jesse's relationship with Jane develops, but is put on hold when he and Walt retreat to the desert for their marathon cook.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>320</RatingCount>
+=======
+  <RatingCount>314</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Sam Catlin</Writer>
   <absolute_number>16</absolute_number>
@@ -1120,7 +1200,11 @@
   <Overview>Walt and Hank get into a heated argument at a party the Whites host to thank friends and family for their support over the last few months. A stir-crazy Walt consumes himself with home improvements. Skyler is emotional and conflicted about Walt's treatment and opens up to her boss, Ted. Jane hides her relationship with Jesse from her father.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>321</RatingCount>
+=======
+  <RatingCount>316</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Moira Walley-Beckett</Writer>
   <absolute_number>17</absolute_number>
@@ -1150,8 +1234,13 @@
   <Language>en</Language>
   <Overview>When Walt and Jesse's crew of dealers begins to dwindle, Saul proposes a new business partner. Meanwhile, Skyler makes a disturbing discovery at work and confronts Ted. Jesse divulges his real profession to Jane, and their relationship takes a dangerous turn.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.9</Rating>
   <RatingCount>328</RatingCount>
+=======
+  <Rating>7.8</Rating>
+  <RatingCount>325</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>George Mastras</Writer>
   <absolute_number>18</absolute_number>
@@ -1182,7 +1271,11 @@
   <Overview>The Whites welcome a new addition. Walter Jr. launches a new website in an effort to aid his struggling family. Jesse's addiction begins to spiral out of control. Jane and Jesse's relationship leads to friction with both Walt and Donald.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
+<<<<<<< HEAD
   <RatingCount>311</RatingCount>
+=======
+  <RatingCount>308</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>John Shiban</Writer>
   <absolute_number>19</absolute_number>
@@ -1213,7 +1306,11 @@
   <Overview>Skyler and Walt collide in the season finale as her frustration with his secrecy finally comes to a head. Jesse self-destructs after a personal blow, forcing Walt to come to his aid. Donald's grief leads to tragedy.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.0</Rating>
+<<<<<<< HEAD
   <RatingCount>318</RatingCount>
+=======
+  <RatingCount>315</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Vince Gilligan</Writer>
   <absolute_number>20</absolute_number>
@@ -1244,7 +1341,11 @@
   <Overview>As Walt copes with the aftermath of the plane crash and Skyler's anger, Jesse comes to a new realization about himself. A new adversary tracks the elusive Heisenberg, Walter White's kingpin alter ego. Skyler seeks advice on the state of her marriage and confronts Walt.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>315</RatingCount>
+=======
+  <RatingCount>314</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>Vince Gilligan</Writer>
   <absolute_number>21</absolute_number>
@@ -1275,7 +1376,11 @@
   <Overview>Walt tries to reconcile with Skyler, but when his advances are rejected he takes drastic action to bring his family back together. A confused and angry Walter, Jr. lashes out at his mother. With the help of Saul, Jesse makes a significant investment.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>330</RatingCount>
+=======
+  <RatingCount>327</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>Peter Gould</Writer>
   <absolute_number>22</absolute_number>
@@ -1306,7 +1411,11 @@
   <Overview>Walt ignores Skyler's demands, furthering the rift between them and pushing her to break bad. Still suffering from panic and anxiety attacks, Hank crosses a line at work.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>326</RatingCount>
+=======
+  <RatingCount>323</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>George Mastras</Writer>
   <absolute_number>23</absolute_number>
@@ -1337,7 +1446,11 @@
   <Overview>Walt loses control as he reacts to Skyler's news, endangering his job and relationships with Saul and Jesse. Hank throws himself into his blue meth investigation. Jesse enacts a new plan.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
+<<<<<<< HEAD
   <RatingCount>301</RatingCount>
+=======
+  <RatingCount>298</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>Sam Catlin</Writer>
   <absolute_number>24</absolute_number>
@@ -1368,7 +1481,11 @@
   <Overview>Gus increases his efforts to lure Walt back into business, forcing a rift between Walt and Jesse. Skyler doubts her new relationship. Marie confides in Skyler about her concern for Hank's well-being.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>312</RatingCount>
+=======
+  <RatingCount>307</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>Moira Walley-Beckett</Writer>
   <absolute_number>25</absolute_number>
@@ -1399,7 +1516,11 @@
   <Overview>As Walt settles into his new surroundings, Walter, Jr. demands answers about his parents' relationship. Hank's investigation creates an immediate problem for Walt and Jesse.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
+<<<<<<< HEAD
   <RatingCount>312</RatingCount>
+=======
+  <RatingCount>307</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>John Shiban</Writer>
   <absolute_number>26</absolute_number>
@@ -1430,7 +1551,11 @@
   <Overview>Hank's increasing volatility forces a confrontation with Jesse and trouble at work. Skyler pressures Walt to make a deal. Gus' actions have severe consequences.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.3</Rating>
+<<<<<<< HEAD
   <RatingCount>312</RatingCount>
+=======
+  <RatingCount>306</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>Thomas Schnauz</Writer>
   <absolute_number>27</absolute_number>
@@ -1461,7 +1586,11 @@
   <Overview>The family waits for news about Hank. While Jesse covers at the lab, Walt attempts to placate Gus. After witnessing a disturbing outburst, Walt worries he and his family are in danger.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>303</RatingCount>
+=======
+  <RatingCount>297</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>Gennifer Hutchison</Writer>
   <absolute_number>28</absolute_number>
@@ -1492,7 +1621,11 @@
   <Overview>As Hank's hospital bills stack up, Skyler hatches a plan. Walt and Gus come to a better understanding. Jesse, looking for more independence, pursues a new opportunity.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>301</RatingCount>
+=======
+  <RatingCount>296</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Peter Gould|George Mastras|</Writer>
   <absolute_number>29</absolute_number>
@@ -1523,7 +1656,11 @@
   <Overview>Walt becomes obsessed with a contaminant in the lab and refuses to finish the cook until it is eliminated. A frustrated Jesse attempts to get Walt back on track.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.2</Rating>
+<<<<<<< HEAD
   <RatingCount>307</RatingCount>
+=======
+  <RatingCount>301</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Sam Catlin|Moira Walley-Beckett|</Writer>
   <absolute_number>30</absolute_number>
@@ -1554,7 +1691,11 @@
   <Overview>Skyler gets more involved in Walt's business, much to his chagrin. Hank struggles with his recovery. Jesse takes an active role in his new enterprise, leading him to a startling discovery.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>302</RatingCount>
+=======
+  <RatingCount>297</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>|John Shiban|Thomas Schnauz|</Writer>
   <absolute_number>31</absolute_number>
@@ -1585,7 +1726,11 @@
   <Overview>Against Walt's advice, Jesse lashes out. Fearing for Jesse's safety, Walt takes drastic action to intervene. A tragic event leads to a shocking confrontation.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.3</Rating>
+<<<<<<< HEAD
   <RatingCount>323</RatingCount>
+=======
+  <RatingCount>320</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Sam Catlin|Peter Gould|</Writer>
   <absolute_number>32</absolute_number>
@@ -1616,7 +1761,11 @@
   <Overview>With Jesse on the run and Mike in hot pursuit, Walt negotiates a bargain with Gus and concocts a disturbing plan to provide for his and Jesse's safety.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.5</Rating>
+<<<<<<< HEAD
   <RatingCount>321</RatingCount>
+=======
+  <RatingCount>316</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>Vince Gilligan</Writer>
   <absolute_number>33</absolute_number>
@@ -1646,8 +1795,13 @@
   <Language>en</Language>
   <Overview>Walt and Jesse face the deadly consequences of their actions. Skyler deals with a puzzling disappearance, as Marie struggles to help Hank with his recovery.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>8.0</Rating>
   <RatingCount>306</RatingCount>
+=======
+  <Rating>8.1</Rating>
+  <RatingCount>300</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>Vince Gilligan</Writer>
   <absolute_number>34</absolute_number>
@@ -1678,7 +1832,11 @@
   <Overview>Walt attempts to form a new alliance as he plans his next move. Skyler pushes Walt towards a business opportunity, in hopes of protecting the family.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>306</RatingCount>
+=======
+  <RatingCount>300</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>George Mastras</Writer>
   <absolute_number>35</absolute_number>
@@ -1709,7 +1867,11 @@
   <Overview>Events spiral out of control at Jesse’s place. Skyler reluctantly asks for Saul’s help. Marie returns to an old pastime and a friend asks Hank for help.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>287</RatingCount>
+=======
+  <RatingCount>282</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>Sam Catlin</Writer>
   <absolute_number>36</absolute_number>
@@ -1740,7 +1902,11 @@
   <Overview>The Cartel takes steps to gain the upper hand. Walt and Skyler share an embarrassing secret with the rest of the family. Jesse’s activities draw unwanted attention.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>290</RatingCount>
+=======
+  <RatingCount>285</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>Moira Walley-Beckett</Writer>
   <absolute_number>37</absolute_number>
@@ -1770,8 +1936,13 @@
   <Language>en</Language>
   <Overview>When Jesse goes missing, Walt fears the worst. Skyler has an unlikely reunion. Hank shares some bad news with Detective Tim Roberts.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.8</Rating>
   <RatingCount>280</RatingCount>
+=======
+  <Rating>7.9</Rating>
+  <RatingCount>274</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>Thomas Schnauz</Writer>
   <absolute_number>38</absolute_number>
@@ -1802,7 +1973,11 @@
   <Overview>Skyler makes an unsettling discovery. Walter, Jr. pushes his dad into a questionable purchase. Jesse offers Mike some unexpected help.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>276</RatingCount>
+=======
+  <RatingCount>270</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>Gennifer Hutchison</Writer>
   <absolute_number>39</absolute_number>
@@ -1833,7 +2008,11 @@
   <Overview>A frustrated Walt gambles on a risky new plan.  Skyler's business venture hits a snag.  Hank recruits Walter, Jr. for an unusual outing.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.0</Rating>
+<<<<<<< HEAD
   <RatingCount>272</RatingCount>
+=======
+  <RatingCount>265</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>Peter Gould</Writer>
   <absolute_number>40</absolute_number>
@@ -1864,7 +2043,11 @@
   <Overview>Skyler develops an unusual solution to her money troubles. Hank enlists Walt to investigate a theory. Walt’s impatience with Jesse grows.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.1</Rating>
+<<<<<<< HEAD
   <RatingCount>266</RatingCount>
+=======
+  <RatingCount>261</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>Sam Catlin|George Mastras</Writer>
   <absolute_number>41</absolute_number>
@@ -1895,7 +2078,11 @@
   <Overview>Skyler's past mistakes come back to haunt her. Gus takes action to thwart his rivals. Jesse seeks Walt's help, with mixed results.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.1</Rating>
+<<<<<<< HEAD
   <RatingCount>280</RatingCount>
+=======
+  <RatingCount>274</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>Moira Walley-Beckett|Thomas Schnauz</Writer>
   <absolute_number>42</absolute_number>
@@ -1926,7 +2113,11 @@
   <Overview>Walt's family worries when he doesn't turn up for Walter, Jr.'s 16th birthday.  Jesse is forced to put his lab skills to the test without Mr. White's help.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.5</Rating>
+<<<<<<< HEAD
   <RatingCount>279</RatingCount>
+=======
+  <RatingCount>270</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>Peter Gould|Gennifer Hutchison</Writer>
   <absolute_number>43</absolute_number>
@@ -1957,7 +2148,11 @@
   <Overview>Walt takes drastic action to protect his secret and Gus. Skyler's efforts to solve Ted's financial problems hit a wall.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.3</Rating>
+<<<<<<< HEAD
   <RatingCount>281</RatingCount>
+=======
+  <RatingCount>273</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>George Mastras|Sam Catlin</Writer>
   <absolute_number>44</absolute_number>
@@ -1988,7 +2183,11 @@
   <Overview>Hank pushes Gomez to pursue one last lead, while Walt struggles to protect the family. Jesse gets alarming news and rushes to meet with Mr. White.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.1</Rating>
+<<<<<<< HEAD
   <RatingCount>294</RatingCount>
+=======
+  <RatingCount>286</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>Thomas Schnauz|Moira Walley-Beckett</Writer>
   <absolute_number>45</absolute_number>
@@ -2019,7 +2218,11 @@
   <Overview>Walt and Jesse team up to take on Gus. With Saul's help, Walt finds an unexpected ally.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.6</Rating>
+<<<<<<< HEAD
   <RatingCount>294</RatingCount>
+=======
+  <RatingCount>286</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>Vince Gilligan</Writer>
   <absolute_number>46</absolute_number>
@@ -2050,7 +2253,11 @@
   <Overview>As Walt deals with the aftermath of the Casa Tranquila explosion, Hank works to wrap up his investigation of Gus' empire.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.1</Rating>
+<<<<<<< HEAD
   <RatingCount>239</RatingCount>
+=======
+  <RatingCount>235</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>5</SeasonNumber>
   <Writer>Vince Gilligan</Writer>
   <absolute_number>47</absolute_number>
@@ -2081,7 +2288,11 @@
   <Overview>Walt and Jesse seek out an unlikely partner for a new business venture. The DEA follows up new leads in its investigation.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>240</RatingCount>
+=======
+  <RatingCount>236</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>5</SeasonNumber>
   <Writer>Vince Gilligan</Writer>
   <absolute_number>48</absolute_number>
@@ -2112,7 +2323,11 @@
   <Overview>Walt and Jesse put a business plan into action. Walt confesses a secret to Marie.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
+<<<<<<< HEAD
   <RatingCount>237</RatingCount>
+=======
+  <RatingCount>234</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>5</SeasonNumber>
   <Writer>Peter Gould</Writer>
   <absolute_number>49</absolute_number>
@@ -2143,7 +2358,11 @@
   <Overview>Walt celebrates another birthday. Skyler considers her options. An associate complicates Walt and Jesse's plan.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>242</RatingCount>
+=======
+  <RatingCount>237</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>5</SeasonNumber>
   <Writer>Sam Catlin</Writer>
   <absolute_number>50</absolute_number>
@@ -2174,7 +2393,11 @@
   <Overview>Walt's team must get creative to obtain the materials they need to continue their operation.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.3</Rating>
+<<<<<<< HEAD
   <RatingCount>253</RatingCount>
+=======
+  <RatingCount>249</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>5</SeasonNumber>
   <Writer>George Mastras</Writer>
   <absolute_number>51</absolute_number>
@@ -2205,7 +2428,11 @@
   <Overview>Walt, Jesse, and Mike struggle over the future of their business, as occupational hazards weigh on Jesse.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.0</Rating>
+<<<<<<< HEAD
   <RatingCount>222</RatingCount>
+=======
+  <RatingCount>220</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>5</SeasonNumber>
   <Writer>Gennifer Hutchison</Writer>
   <absolute_number>52</absolute_number>
@@ -2236,7 +2463,11 @@
   <Overview>Walt takes control of business matters as Mike grapples with the consequences of his actions.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.1</Rating>
+<<<<<<< HEAD
   <RatingCount>232</RatingCount>
+=======
+  <RatingCount>230</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>5</SeasonNumber>
   <Writer>Thomas Schnauz</Writer>
   <absolute_number>53</absolute_number>
@@ -2266,8 +2497,13 @@
   <Language>en</Language>
   <Overview>Walt ties up loose ends. Seeing the evidence of his success, he makes a startling and dangerous decision.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>8.2</Rating>
   <RatingCount>247</RatingCount>
+=======
+  <Rating>8.3</Rating>
+  <RatingCount>244</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>5</SeasonNumber>
   <Writer>Moira Walley-Beckett</Writer>
   <absolute_number>54</absolute_number>
@@ -2298,7 +2534,11 @@
   <Overview>As Walt and Jesse adjust to life out of the business, Hank grapples with a troubling lead.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.2</Rating>
+<<<<<<< HEAD
   <RatingCount>193</RatingCount>
+=======
+  <RatingCount>189</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>5</SeasonNumber>
   <Writer>Peter Gould</Writer>
   <absolute_number>55</absolute_number>
@@ -2329,7 +2569,11 @@
   <Overview>While Skyler's past catches up with her, Walt covers his tracks. Jesse continues to struggle with his guilt.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>184</RatingCount>
+=======
+  <RatingCount>181</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>5</SeasonNumber>
   <Writer>Thomas Schnauz</Writer>
   <absolute_number>56</absolute_number>
@@ -2360,7 +2604,11 @@
   <Overview>Jesse decides to make a change, while Walt and Skyler try to deal with an unexpected demand.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.0</Rating>
+<<<<<<< HEAD
   <RatingCount>193</RatingCount>
+=======
+  <RatingCount>188</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>5</SeasonNumber>
   <Writer>Gennifer Hutchison</Writer>
   <absolute_number>57</absolute_number>
@@ -2391,7 +2639,11 @@
   <Overview>An unusual strategy starts to bear fruit, while plans are set in motion that could change everything.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
+<<<<<<< HEAD
   <RatingCount>177</RatingCount>
+=======
+  <RatingCount>173</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>5</SeasonNumber>
   <Writer>Sam Catlin</Writer>
   <absolute_number>58</absolute_number>
@@ -2422,7 +2674,11 @@
   <Overview>Things heat up for Walt in unexpected ways.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.4</Rating>
+<<<<<<< HEAD
   <RatingCount>191</RatingCount>
+=======
+  <RatingCount>188</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>5</SeasonNumber>
   <Writer>George Mastras</Writer>
   <absolute_number>59</absolute_number>
@@ -2453,7 +2709,11 @@
   <Overview>Everyone copes with radically changed circumstances.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.4</Rating>
+<<<<<<< HEAD
   <RatingCount>193</RatingCount>
+=======
+  <RatingCount>187</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>5</SeasonNumber>
   <Writer>Moira Walley-Beckett</Writer>
   <absolute_number>60</absolute_number>
@@ -2484,7 +2744,11 @@
   <Overview>Events set in motion long ago move toward a conclusion.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.1</Rating>
+<<<<<<< HEAD
   <RatingCount>178</RatingCount>
+=======
+  <RatingCount>175</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>5</SeasonNumber>
   <Writer>Peter Gould</Writer>
   <absolute_number>61</absolute_number>
@@ -2515,7 +2779,11 @@
   <Overview>All bad things must come to an end.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.7</Rating>
+<<<<<<< HEAD
   <RatingCount>179</RatingCount>
+=======
+  <RatingCount>177</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>5</SeasonNumber>
   <Writer>Vince Gilligan</Writer>
   <absolute_number>62</absolute_number>

@@ -21,8 +21,13 @@
   <added>2010-06-04 12:49:31</added>
   <addedBy>235</addedBy>
   <banner>graphical/167571-g4.jpg</banner>
+<<<<<<< HEAD
   <fanart>fanart/original/167571-4.jpg</fanart>
   <lastupdated>1434879835</lastupdated>
+=======
+  <fanart>fanart/original/167571-11.jpg</fanart>
+  <lastupdated>1411938310</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <poster>posters/167571-8.jpg</poster>
   <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>SH01279666</zap2it_id>
@@ -630,7 +635,11 @@
   <Overview>A concert outing goes awry. </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
+<<<<<<< HEAD
   <RatingCount>40</RatingCount>
+=======
+  <RatingCount>39</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Gail Lerner</Writer>
   <absolute_number></absolute_number>
@@ -661,7 +670,11 @@
   <Overview>An old friend gets married, and the bride thinks Alex is a jinx; Penny and Derrick pretend to be engaged. </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>46</RatingCount>
+=======
+  <RatingCount>45</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Todd Linden|Sierra Teller Ornelas|Stephen Basilone|Annie Mebane|</Writer>
   <absolute_number></absolute_number>
@@ -1503,7 +1516,11 @@
   <Writer>Erik Sommers</Writer>
   <absolute_number>39</absolute_number>
   <filename>episodes/167571/4397154.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1430182319</lastupdated>
+=======
+  <lastupdated>1407013689</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>492262</seasonid>
   <seriesid>167571</seriesid>
   <thumb_added></thumb_added>
@@ -1596,7 +1613,11 @@
   <Writer>|Sierra Teller Ornelas|</Writer>
   <absolute_number>42</absolute_number>
   <filename>episodes/167571/4437757.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1423838514</lastupdated>
+=======
+  <lastupdated>1407149930</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>492262</seasonid>
   <seriesid>167571</seriesid>
   <thumb_added></thumb_added>
@@ -1813,7 +1834,11 @@
   <Writer>|Lon Zimmet|Dan Rubin|</Writer>
   <absolute_number>49</absolute_number>
   <filename>episodes/167571/4458659.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1423838525</lastupdated>
+=======
+  <lastupdated>1407534948</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>492262</seasonid>
   <seriesid>167571</seriesid>
   <thumb_added></thumb_added>
@@ -1844,7 +1869,11 @@
   <Writer>Erik Sommers</Writer>
   <absolute_number>50</absolute_number>
   <filename>episodes/167571/4458660.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1423838531</lastupdated>
+=======
+  <lastupdated>1407534966</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>492262</seasonid>
   <seriesid>167571</seriesid>
   <thumb_added></thumb_added>

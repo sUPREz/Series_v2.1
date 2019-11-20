@@ -13,8 +13,13 @@
     <Network>USA Network</Network>
     <NetworkID></NetworkID>
     <Overview>ROYAL PAINS centers on a young E.R. doctor who, after being wrongly blamed for a patient's death, moves to the Hamptons and becomes the reluctant &quot;doctor for hire&quot; to the rich and famous. When the attractive administrator of the local hospital asks him to treat the town's less fortunate, he finds himself walking the line between doing well for himself and doing good for others.</Overview>
+<<<<<<< HEAD
     <Rating>8.3</Rating>
     <RatingCount>69</RatingCount>
+=======
+    <Rating>8.4</Rating>
+    <RatingCount>64</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <Runtime>60</Runtime>
     <SeriesID>75383</SeriesID>
     <SeriesName>Royal Pains</SeriesName>
@@ -23,7 +28,11 @@
     <addedBy>235</addedBy>
     <banner>graphical/92411-g4.jpg</banner>
     <fanart>fanart/original/92411-6.jpg</fanart>
+<<<<<<< HEAD
     <lastupdated>1434757321</lastupdated>
+=======
+    <lastupdated>1414797353</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <poster>posters/92411-5.jpg</poster>
     <tms_wanted_old>1</tms_wanted_old>
     <zap2it_id>EP01150465</zap2it_id>

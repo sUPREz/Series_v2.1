@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Data><Series>
   <id>73255</id>
+<<<<<<< HEAD
   <Actors>|Hugh Laurie|Robert Sean Leonard|Omar Epps|Jennifer Morrison|Lisa Edelstein|Jesse Spencer|Olivia Wilde|Odette Annable|Charlyne Yi|Anne Dudek|Kal Penn|Peter Jacobson|Sela Ward|Amber Tamblyn|</Actors>
   <Airs_DayOfWeek></Airs_DayOfWeek>
   <Airs_Time></Airs_Time>
+=======
+  <Actors>|Hugh Laurie|Robert Sean Leonard|Omar Epps|Jennifer Morrison|Lisa Edelstein|Jesse Spencer|Olivia Wilde|Odette Annable|Charlyne Yi|Anne Dudek|Kal Penn|Peter Jacobson|Sela Ward|Amber Tamblyn|Jennifer Stone|Lyndsy Fonseca|Meaghan Martin|Michelle Trachtenberg|</Actors>
+  <Airs_DayOfWeek>Monday</Airs_DayOfWeek>
+  <Airs_Time>9:00 PM</Airs_Time>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <ContentRating>TV-14</ContentRating>
   <FirstAired>2004-11-16</FirstAired>
   <Genre>|Comedy|Drama|Mystery|</Genre>
@@ -13,16 +19,26 @@
   <NetworkID></NetworkID>
   <Overview>Go deeper into the medical mysteries of House, TV's most compelling drama. Hugh Laurie stars as the brilliant but sarcastic Dr. Gregory House, a maverick physician who is devoid of bedside manner. While his behavior can border on antisocial, Dr. House thrives on the challenge of solving the medical puzzles that other doctors give up on. Together with his hand-picked team of young medical experts, he'll do whatever it takes in the race against the clock to solve the case.</Overview>
   <Rating>9.1</Rating>
+<<<<<<< HEAD
   <RatingCount>1266</RatingCount>
+=======
+  <RatingCount>1240</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <Runtime>60</Runtime>
   <SeriesID>22374</SeriesID>
   <SeriesName>House</SeriesName>
   <Status>Ended</Status>
   <added></added>
   <addedBy></addedBy>
+<<<<<<< HEAD
   <banner>graphical/73255-g16.jpg</banner>
   <fanart>fanart/original/73255-47.jpg</fanart>
   <lastupdated>1434572101</lastupdated>
+=======
+  <banner>graphical/73255-g22.jpg</banner>
+  <fanart>fanart/original/73255-1.jpg</fanart>
+  <lastupdated>1415049202</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <poster>posters/73255-13.jpg</poster>
   <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>EP00688359</zap2it_id>

@@ -14,7 +14,11 @@
     <NetworkID></NetworkID>
     <Overview>Six young people, on their own and struggling to survive in the real world, find the companionship, comfort and support they get from each other to be the perfect antidote to the pressures of life.</Overview>
     <Rating>9.2</Rating>
+<<<<<<< HEAD
     <RatingCount>274</RatingCount>
+=======
+    <RatingCount>262</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <Runtime>30</Runtime>
     <SeriesID>71</SeriesID>
     <SeriesName>Friends</SeriesName>
@@ -23,8 +27,13 @@
     <addedBy></addedBy>
     <banner>graphical/79168-g5.jpg</banner>
     <fanart>fanart/original/79168-6.jpg</fanart>
+<<<<<<< HEAD
     <lastupdated>1435013949</lastupdated>
     <poster>posters/79168-3.jpg</poster>
+=======
+    <lastupdated>1415039655</lastupdated>
+    <poster>posters/79168-11.jpg</poster>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <tms_wanted_old>1</tms_wanted_old>
     <zap2it_id>EP00115127</zap2it_id>
   </Series>

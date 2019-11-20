@@ -12,18 +12,30 @@
   <Network>Canal+</Network>
   <NetworkID></NetworkID>
   <Overview>In the shadow of an enormous hydraulic dam, the lives of the residents of a small French town are changed to their core when hundreds of previously dead relatives all return home on the same day.</Overview>
+<<<<<<< HEAD
   <Rating>8.3</Rating>
   <RatingCount>21</RatingCount>
+=======
+  <Rating>8.2</Rating>
+  <RatingCount>19</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <Runtime>50</Runtime>
   <SeriesID>185318</SeriesID>
   <SeriesName>The Returned</SeriesName>
   <Status>Continuing</Status>
   <added>2012-10-28 06:51:38</added>
   <addedBy>372886</addedBy>
+<<<<<<< HEAD
   <banner>graphical/263677-g3.jpg</banner>
   <fanart>fanart/original/263677-5.jpg</fanart>
   <lastupdated>1431714865</lastupdated>
   <poster>posters/263677-6.jpg</poster>
+=======
+  <banner>graphical/263677-g6.jpg</banner>
+  <fanart>fanart/original/263677-3.jpg</fanart>
+  <lastupdated>1413400580</lastupdated>
+  <poster>posters/263677-7.jpg</poster>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <tms_wanted_old>0</tms_wanted_old>
   <zap2it_id>EP01789939</zap2it_id>
 </Series>
@@ -81,7 +93,11 @@
 </Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.0</Rating>
+<<<<<<< HEAD
   <RatingCount>27</RatingCount>
+=======
+  <RatingCount>25</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Emmanuel Carrère|Fabrice Gobert|Nicolas Peufaillit</Writer>
   <absolute_number>1</absolute_number>
@@ -112,7 +128,11 @@
   <Overview>Simon approaches Adèle, but Thomas finds out about his 'return'. In the meantime, Camille is unable to fit back into her family again. Her mother Claire and father Jérome separated after her death, and now Claire is in a relationship with Pierre, an odd but charismatic figure who knew all along that the dead would return. Strange happenings seem to suggest that Camille and Simon may not be the only ones to have been brought back...</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
+<<<<<<< HEAD
   <RatingCount>19</RatingCount>
+=======
+  <RatingCount>18</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Emmanuel Carrère|Fabrice Gobert|Nicolas Peufaillit</Writer>
   <absolute_number>2</absolute_number>
@@ -142,8 +162,13 @@
   <Language>en</Language>
   <Overview>Determined to come out of hiding and return to something resembling normal life, Camille invents a new identity for herself as 'cousin Alice'. Her sister Léna finds a strange, fast-spreading scar on her own body. Simon gets closer to Adèle, who finally accepts he has returned and is not a manifestation of her grief. But as the dead try to reclaim their lives, for the living, things seem more and more disturbed. Julie's very dark past resurfaces and threatens to destroy her completely, but she finds a saviour in the most unlikely form.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.9</Rating>
   <RatingCount>19</RatingCount>
+=======
+  <Rating>8.0</Rating>
+  <RatingCount>18</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Emmanuel Carrère|Fabrice Gobert</Writer>
   <absolute_number>3</absolute_number>
@@ -173,8 +198,13 @@
   <Language>en</Language>
   <Overview>Camille's new identity as Alice is going well, but Léna's scar is growing and seemingly draining her of energy. Léna is convinced that Camille is behind it and publicly denounces her to their friends. Julie can no longer keep Victor under wraps and the police take him away. She doesn't even put up a fight, wondering if he may have something to do with the death of her neighbour, Miss Payet. Adèle gets back with Simon and introduces him to their daughter, Chloe... but then discovers the true circumstances surrounding his death.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.8</Rating>
   <RatingCount>16</RatingCount>
+=======
+  <Rating>7.9</Rating>
+  <RatingCount>15</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Emmanuel Carrère|Fabrice Gobert</Writer>
   <absolute_number>4</absolute_number>
@@ -205,7 +235,11 @@
   <Overview>The dead gradually come out into the open but are unable to resume their normal lives. Camille is rejected by Frédéric, and Simon is abruptly separated from Adèle and Chloe when Thomas shoots at him in self-defence. Victor wanders around, looking for his murderer, while Julie begins to have doubts: could she be dead too? Léna is nursed by the serial killer as he strives to keep his murderous impulses under control.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
+<<<<<<< HEAD
   <RatingCount>16</RatingCount>
+=======
+  <RatingCount>15</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Fabien Adda|Emmanuel Carrère|Fabrice Gobert</Writer>
   <absolute_number>5</absolute_number>
@@ -236,7 +270,11 @@
   <Overview>The town is affected by a power cut. Pierre forms a community around Camille, who is now regarded as a kind of 'prophet'. Julie finds refuge at Laure's house with Victor, whose body is undergoing a strange transformation. Meanwhile, Léna grows closer to Serge but has to escape back to the town.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>16</RatingCount>
+=======
+  <RatingCount>15</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Fabien Adda|Camille Fontaine|Fabrice Gobert|Nathalie Saugeon</Writer>
   <absolute_number>6</absolute_number>
@@ -266,8 +304,13 @@
   <Language>en</Language>
   <Overview>Camille finds purpose when she decides to invent images of an afterlife to comfort her friend's parents, but is distraught when they commit suicide in the hopes of meeting their son sooner. Pierre shows Claire his shelter stocked with food and firearms, believing that the appearance of the Revenants marks the end of days. Lucy appears to have gained understanding regarding the purpose of the Revenants, and persuades Simon that he no longer needs Adèle; father Jean-François' betrayal of him to the police only pushes him further to her. Serge and Toni attempt to track Lena, and Toni glimpses his deceased mother in the forest. While trying to cross the lake by swimming, Serge disappears under the water.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.7</Rating>
   <RatingCount>18</RatingCount>
+=======
+  <Rating>7.8</Rating>
+  <RatingCount>17</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Fabrice Gobert|Fabien Adda</Writer>
   <absolute_number>7</absolute_number>
@@ -297,8 +340,13 @@
   <Language>en</Language>
   <Overview>A flashback to the date of Camille's reappearance at the dam shows many Revenants also appearing at the same time. Waking in their car, Victor tells Julie and Laure that a group of Revenants tried to take him from the car in the middle of the night. On their way to the shelter, Victor discovers that Toni killed his brother, in turn causing his mother's death, and uses his ability to create visions to make Toni shoot himself in the stomach; he dies shortly after arrival. Simon breaks free from his jail cell and kidnaps his daughter, Chloé. Thomas arrives at the shelter, and the group realise that there are other Revenants, and that they are coming for them.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.0</Rating>
   <RatingCount>16</RatingCount>
+=======
+  <Rating>6.9</Rating>
+  <RatingCount>15</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Fabrice Gobert|Fabien Adda</Writer>
   <absolute_number>8</absolute_number>

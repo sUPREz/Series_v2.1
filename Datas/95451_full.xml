@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Data><Series>
   <id>95451</id>
+<<<<<<< HEAD
   <Actors>|Julianna Margulies|Archie Panjabi|Matt Czuchry|Christine Baranski|Josh Charles|Alan Cumming|Chris Noth|Matthew Goode|Zach Grenier|Mary Beth Peil|Graham Phillips|Makenzie Vega|</Actors>
+=======
+  <Actors>|Julianna Margulies|Archie Panjabi|Josh Charles|Matthew Goode|Zach Grenier|Mary Beth Peil|Graham Phillips|Makenzie Vega|Alan Cumming|Matt Czuchry|Christine Baranski|Chris Noth|</Actors>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <Airs_DayOfWeek>Sunday</Airs_DayOfWeek>
   <Airs_Time>9:00 PM</Airs_Time>
   <ContentRating>TV-14</ContentRating>
@@ -12,18 +16,30 @@
   <Network>CBS</Network>
   <NetworkID></NetworkID>
   <Overview>The Good Wife is a drama starring Emmy Award winner Julianna Margulies as a wife and mother who must assume full responsibility for her family and re-enter the workforce after her husband's very public sex and political corruption scandal lands him in jail.</Overview>
+<<<<<<< HEAD
   <Rating>8.7</Rating>
   <RatingCount>114</RatingCount>
+=======
+  <Rating>8.6</Rating>
+  <RatingCount>104</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <Runtime>60</Runtime>
   <SeriesID>76761</SeriesID>
   <SeriesName>The Good Wife</SeriesName>
   <Status>Continuing</Status>
   <added>2009-05-22 03:03:24</added>
   <addedBy>5664</addedBy>
+<<<<<<< HEAD
   <banner>graphical/95451-g4.jpg</banner>
   <fanart>fanart/original/95451-23.jpg</fanart>
   <lastupdated>1434997821</lastupdated>
   <poster>posters/95451-12.jpg</poster>
+=======
+  <banner>graphical/95451-g9.jpg</banner>
+  <fanart>fanart/original/95451-6.jpg</fanart>
+  <lastupdated>1415048445</lastupdated>
+  <poster>posters/95451-6.jpg</poster>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>EP01158384</zap2it_id>
 </Series>
@@ -85,7 +101,11 @@
   <Writer>|Robert King|Michelle King|</Writer>
   <absolute_number>1</absolute_number>
   <filename>episodes/95451/669761.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1426213723</lastupdated>
+=======
+  <lastupdated>1411894608</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>68411</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -111,12 +131,20 @@
   <Overview>After the State's Attorney refuses to pursue criminal charges, Alicia becomes second chair on a civil suit involving the rape of a prostitute at a bachelor party who may have been hired and abused by her own husband.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
+<<<<<<< HEAD
   <RatingCount>50</RatingCount>
+=======
+  <RatingCount>48</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Robert King|Michelle King|</Writer>
   <absolute_number>2</absolute_number>
   <filename>episodes/95451/1084271.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1426213757</lastupdated>
+=======
+  <lastupdated>1411894743</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>68411</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -147,7 +175,11 @@
   <Writer>Dee Johnson</Writer>
   <absolute_number>3</absolute_number>
   <filename>episodes/95451/1084281.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1426213775</lastupdated>
+=======
+  <lastupdated>1411894921</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>68411</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -209,7 +241,11 @@
   <Writer>Ted Humphrey</Writer>
   <absolute_number>5</absolute_number>
   <filename>episodes/95451/1151421.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1421484591</lastupdated>
+=======
+  <lastupdated>1411895541</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>68411</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -273,7 +309,11 @@
   <Writer>|Robert King|Michelle King|</Writer>
   <absolute_number>7</absolute_number>
   <filename>episodes/95451/1231281.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431268510</lastupdated>
+=======
+  <lastupdated>1411895754</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>68411</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -304,7 +344,11 @@
   <Writer>Corinne Brinkerhoff</Writer>
   <absolute_number>8</absolute_number>
   <filename>episodes/95451/1231291.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1421484640</lastupdated>
+=======
+  <lastupdated>1411895890</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>68411</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -366,7 +410,11 @@
   <Writer>Tom Smuts</Writer>
   <absolute_number>10</absolute_number>
   <filename>episodes/95451/1265081.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1421484678</lastupdated>
+=======
+  <lastupdated>1411896158</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>68411</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -397,7 +445,11 @@
   <Writer>Todd Ellis Kessler</Writer>
   <absolute_number>11</absolute_number>
   <filename>episodes/95451/1304811.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431268696</lastupdated>
+=======
+  <lastupdated>1411896347</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>68411</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -428,7 +480,11 @@
   <Writer>Corinne Brinkerhoff</Writer>
   <absolute_number>12</absolute_number>
   <filename>episodes/95451/1422331.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1421484753</lastupdated>
+=======
+  <lastupdated>1411896479</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>68411</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -459,7 +515,11 @@
   <Writer>Ted Humphrey</Writer>
   <absolute_number>13</absolute_number>
   <filename>episodes/95451/1542451.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1421484777</lastupdated>
+=======
+  <lastupdated>1411896618</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>68411</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -490,7 +550,11 @@
   <Writer>|Robert King|Michelle King|Barry M. Schkolnick|</Writer>
   <absolute_number>14</absolute_number>
   <filename>episodes/95451/1542461.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431268563</lastupdated>
+=======
+  <lastupdated>1411896769</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>68411</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -521,7 +585,11 @@
   <Writer>Courtney Kemp Abgoh</Writer>
   <absolute_number>15</absolute_number>
   <filename>episodes/95451/1660821.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1421484862</lastupdated>
+=======
+  <lastupdated>1411896891</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>68411</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -552,7 +620,11 @@
   <Writer>Amanda Segel Marks</Writer>
   <absolute_number>16</absolute_number>
   <filename>episodes/95451/1660831.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1421484911</lastupdated>
+=======
+  <lastupdated>1411897159</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>68411</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -583,7 +655,11 @@
   <Writer>Corinne Brinkerhoff</Writer>
   <absolute_number>17</absolute_number>
   <filename>episodes/95451/1777031.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1421484946</lastupdated>
+=======
+  <lastupdated>1411897768</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>68411</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -615,7 +691,11 @@
   <Writer>Karen Hall</Writer>
   <absolute_number>18</absolute_number>
   <filename>episodes/95451/1933711.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1421485071</lastupdated>
+=======
+  <lastupdated>1411897952</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>68411</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -646,7 +726,11 @@
   <Writer>Ted Humphrey</Writer>
   <absolute_number>19</absolute_number>
   <filename>episodes/95451/2059891.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1421485084</lastupdated>
+=======
+  <lastupdated>1411898088</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>68411</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -678,7 +762,11 @@
   <Writer>Todd Ellis Kessler</Writer>
   <absolute_number>20</absolute_number>
   <filename>episodes/95451/2071421.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1421485094</lastupdated>
+=======
+  <lastupdated>1411898199</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>68411</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -741,7 +829,11 @@
   <Writer>Frank R. Pierson</Writer>
   <absolute_number>22</absolute_number>
   <filename>episodes/95451/2106541.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1421485156</lastupdated>
+=======
+  <lastupdated>1411898507</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>68411</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -773,7 +865,11 @@
   <Writer>|Robert King|Michelle King|</Writer>
   <absolute_number>23</absolute_number>
   <filename>episodes/95451/2106551.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431268395</lastupdated>
+=======
+  <lastupdated>1411898596</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>68411</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -804,7 +900,11 @@
   <Writer>|Robert King|Michelle King|</Writer>
   <absolute_number>24</absolute_number>
   <filename>episodes/95451/2743331.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431268373</lastupdated>
+=======
+  <lastupdated>1414360747</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>307861</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -835,7 +935,11 @@
   <Writer>Ted Humphrey</Writer>
   <absolute_number>25</absolute_number>
   <filename>episodes/95451/2757071.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431268577</lastupdated>
+=======
+  <lastupdated>1414360782</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>307861</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -866,7 +970,11 @@
   <Writer>Corinne Brinkerhoff</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/2893331.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1421485477</lastupdated>
+=======
+  <lastupdated>1414360805</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>307861</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -897,7 +1005,11 @@
   <Writer>|Michelle King|Robert King|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/2893341.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431268703</lastupdated>
+=======
+  <lastupdated>1414360826</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>307861</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -928,7 +1040,11 @@
   <Writer>|Michelle King|Robert King|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/2905351.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431268570</lastupdated>
+=======
+  <lastupdated>1414360854</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>307861</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -959,7 +1075,11 @@
   <Writer>Keith Eisner</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/2905361.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1421485675</lastupdated>
+=======
+  <lastupdated>1414360870</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>307861</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -990,7 +1110,11 @@
   <Writer>Courtney Kemp</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/3012771.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1421485706</lastupdated>
+=======
+  <lastupdated>1414360881</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>307861</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -1021,7 +1145,11 @@
   <Writer>Leonard Dick</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/3160931.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1421485737</lastupdated>
+=======
+  <lastupdated>1414360895</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>307861</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -1052,7 +1180,11 @@
   <Writer>Meredith Averill</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/3209971.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1421485782</lastupdated>
+=======
+  <lastupdated>1414360904</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>307861</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -1083,7 +1215,11 @@
   <Writer>|Robert King|Michelle King|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/3324871.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431268611</lastupdated>
+=======
+  <lastupdated>1414360919</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>307861</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -1114,7 +1250,11 @@
   <Writer>Ted Humphrey</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/3433911.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1421485812</lastupdated>
+=======
+  <lastupdated>1414360933</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>307861</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -1145,7 +1285,11 @@
   <Writer>Corinne Brinkerhoff</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/3538451.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1421485843</lastupdated>
+=======
+  <lastupdated>1414360965</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>307861</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -1176,7 +1320,11 @@
   <Writer>|Keith Eisner|Michelle King|Robert King|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/3538481.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431268343</lastupdated>
+=======
+  <lastupdated>1414360976</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>307861</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -1208,7 +1356,11 @@
   <Writer>|Meredith Averill|Robert King|Michelle King|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/3545861.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431268657</lastupdated>
+=======
+  <lastupdated>1414361001</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>307861</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -1239,7 +1391,11 @@
   <Writer>|Steve Lichtman|Robert King|Michelle King|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/3545871.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431268681</lastupdated>
+=======
+  <lastupdated>1414361016</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>307861</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -1270,7 +1426,11 @@
   <Writer>|Robert King|Michelle King|Leonard Dick|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/3561221.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431268421</lastupdated>
+=======
+  <lastupdated>1414361085</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>307861</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -1301,7 +1461,11 @@
   <Writer>Keith Eisner</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/3832331.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1421486287</lastupdated>
+=======
+  <lastupdated>1414361099</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>307861</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -1332,7 +1496,11 @@
   <Writer>Karen Hall</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/3954631.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1421486317</lastupdated>
+=======
+  <lastupdated>1414361116</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>307861</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -1364,7 +1532,11 @@
   <Writer>Ted Humphrey</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/3990321.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1421486349</lastupdated>
+=======
+  <lastupdated>1414361175</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>307861</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -1396,7 +1568,11 @@
   <Writer>|Meredith Averill|Robert King|Michelle King|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/3990331.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431268407</lastupdated>
+=======
+  <lastupdated>1414361210</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>307861</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -1428,7 +1604,11 @@
   <Writer>|Steve Lichtman|Michelle King|Robert King|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/4078023.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431268618</lastupdated>
+=======
+  <lastupdated>1414361221</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>307861</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -1459,7 +1639,11 @@
   <Writer>Leonard Dick</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/4084087.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1421486502</lastupdated>
+=======
+  <lastupdated>1414361274</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>307861</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -1490,7 +1674,11 @@
   <Writer>|Corinne Brinkerhoff|Robert King|Michelle King|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/4084088.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431268708</lastupdated>
+=======
+  <lastupdated>1414361256</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>307861</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -1521,7 +1709,11 @@
   <Writer>|Meredith Averill|Robert King|Michelle King|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/4122162.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1421486935</lastupdated>
+=======
+  <lastupdated>1414354203</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>468655</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -1583,7 +1775,11 @@
   <Writer>|Julia Wolfe|Robert King|Michelle King|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/4180695.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1421486957</lastupdated>
+=======
+  <lastupdated>1414360234</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>468655</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -1614,7 +1810,11 @@
   <Writer>Keith Eisner</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/4180696.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1421486969</lastupdated>
+=======
+  <lastupdated>1414360264</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>468655</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -1645,7 +1845,11 @@
   <Writer>Ted Humphrey</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/4187954.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1426459634</lastupdated>
+=======
+  <lastupdated>1414360333</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>468655</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -1676,7 +1880,11 @@
   <Writer>Corinne Brinkerhoff</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/4192779.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1421487016</lastupdated>
+=======
+  <lastupdated>1414360396</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>468655</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -1707,7 +1915,11 @@
   <Writer>Leonard Dick</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/4192780.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431268541</lastupdated>
+=======
+  <lastupdated>1414360423</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>468655</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -1738,7 +1950,11 @@
   <Writer>|Matthew Montoya|Robert King|Michelle King|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/4194258.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1421487055</lastupdated>
+=======
+  <lastupdated>1414360466</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>468655</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -1769,7 +1985,11 @@
   <Writer>|Robert King|Michelle King|Meredith Averill|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/4198450.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1421487076</lastupdated>
+=======
+  <lastupdated>1414361447</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>468655</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -1800,7 +2020,11 @@
   <Writer>|Courtney Kemp Agboh|Robert King|Michelle King|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/4198451.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1421487094</lastupdated>
+=======
+  <lastupdated>1414360490</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>468655</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -1862,7 +2086,11 @@
   <Writer>Corinne Brinkerhoff</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/4216258.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1421487130</lastupdated>
+=======
+  <lastupdated>1414360529</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>468655</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -1924,7 +2152,11 @@
   <Writer>Leonard Dick</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/4241207.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1421487181</lastupdated>
+=======
+  <lastupdated>1414361521</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>468655</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -1955,7 +2187,11 @@
   <Writer>|Ted Humphrey|Leonard Dick|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/4253044.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431268473</lastupdated>
+=======
+  <lastupdated>1414361561</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>468655</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -1986,7 +2222,11 @@
   <Writer>Meredith Averill</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/4262713.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1421486642</lastupdated>
+=======
+  <lastupdated>1414360592</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>468655</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -2017,7 +2257,11 @@
   <Writer>Keith Eisner</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/4262714.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431268429</lastupdated>
+=======
+  <lastupdated>1414360636</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>468655</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -2048,7 +2292,11 @@
   <Writer>Leonard Dick</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/4273164.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1421487273</lastupdated>
+=======
+  <lastupdated>1414360658</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>468655</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -2079,7 +2327,11 @@
   <Writer>|Robert King|Michelle King|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/4281470.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1421487661</lastupdated>
+=======
+  <lastupdated>1414361616</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>468655</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -2110,7 +2362,11 @@
   <Writer>Ted Humphrey</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/4286982.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1423435870</lastupdated>
+=======
+  <lastupdated>1414361646</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>468655</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -2141,7 +2397,11 @@
   <Writer>Julia Wolfe</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/4293737.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433438113</lastupdated>
+=======
+  <lastupdated>1414360699</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>468655</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -2172,7 +2432,11 @@
   <Writer>|Corinne Brinkerhoff|Meredith Averill|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/4293738.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1423436023</lastupdated>
+=======
+  <lastupdated>1414361675</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>468655</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -2203,7 +2467,11 @@
   <Writer>|Michelle King|Robert King|</Writer>
   <absolute_number>69</absolute_number>
   <filename>episodes/95451/4359092.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431268502</lastupdated>
+=======
+  <lastupdated>1414361709</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>496340</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -2265,7 +2533,11 @@
   <Writer>|Robert King|Michelle King|</Writer>
   <absolute_number>71</absolute_number>
   <filename>episodes/95451/4360130.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431268647</lastupdated>
+=======
+  <lastupdated>1414361752</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>496340</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -2296,7 +2568,11 @@
   <Writer>Keith Eisner</Writer>
   <absolute_number>72</absolute_number>
   <filename>episodes/95451/4409387.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1415931104</lastupdated>
+=======
+  <lastupdated>1414361790</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>496340</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -2327,7 +2603,11 @@
   <Writer>Leonard Dick</Writer>
   <absolute_number>73</absolute_number>
   <filename>episodes/95451/4409388.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1415767025</lastupdated>
+=======
+  <lastupdated>1414361816</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>496340</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -2358,7 +2638,11 @@
   <Writer>|Robert King|Michelle King|Ted Humphrey|</Writer>
   <absolute_number>74</absolute_number>
   <filename>episodes/95451/4413667.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431268518</lastupdated>
+=======
+  <lastupdated>1414361831</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>496340</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -2389,7 +2673,11 @@
   <Writer>|Craig Turk|Robert King|Michelle King|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/4413668.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1421626406</lastupdated>
+=======
+  <lastupdated>1414361851</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>496340</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -2420,7 +2708,11 @@
   <Writer>Meredith Averill</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/95451/4427242.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1421626427</lastupdated>
+=======
+  <lastupdated>1414361868</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>496340</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -2451,7 +2743,11 @@
   <Writer>Matthew Montoya</Writer>
   <absolute_number>77</absolute_number>
   <filename>episodes/95451/4427243.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1421626455</lastupdated>
+=======
+  <lastupdated>1414361888</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>496340</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -2482,7 +2778,11 @@
   <Writer>Ted Humphrey</Writer>
   <absolute_number>78</absolute_number>
   <filename>episodes/95451/4433309.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431268532</lastupdated>
+=======
+  <lastupdated>1414361932</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>496340</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -2513,7 +2813,11 @@
   <Writer>Nichelle Tramble Spellman</Writer>
   <absolute_number>79</absolute_number>
   <filename>episodes/95451/4437771.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431268465</lastupdated>
+=======
+  <lastupdated>1414361950</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>496340</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -2544,7 +2848,11 @@
   <Writer>Matt Shakman</Writer>
   <absolute_number>80</absolute_number>
   <filename>episodes/95451/4443964.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431268415</lastupdated>
+=======
+  <lastupdated>1414362063</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>496340</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -2575,7 +2883,11 @@
   <Writer>Keith Eisner</Writer>
   <absolute_number>81</absolute_number>
   <filename>episodes/95451/4453923.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431268481</lastupdated>
+=======
+  <lastupdated>1414362126</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>496340</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -2606,7 +2918,11 @@
   <Writer>|Robert King|Michelle King|</Writer>
   <absolute_number>82</absolute_number>
   <filename>episodes/95451/4453924.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431268598</lastupdated>
+=======
+  <lastupdated>1414362096</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>496340</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -2637,7 +2953,11 @@
   <Writer>Leonard Dick</Writer>
   <absolute_number>83</absolute_number>
   <filename>episodes/95451/4453925.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431268387</lastupdated>
+=======
+  <lastupdated>1414362178</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>496340</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -2668,7 +2988,11 @@
   <Writer>Meredith Averill</Writer>
   <absolute_number>84</absolute_number>
   <filename>episodes/95451/4488928.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431268722</lastupdated>
+=======
+  <lastupdated>1414362149</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>496340</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -2699,7 +3023,11 @@
   <Writer>|Julia Wolfe|Matthew Montoya|</Writer>
   <absolute_number>85</absolute_number>
   <filename>episodes/95451/4502114.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431268379</lastupdated>
+=======
+  <lastupdated>1414362233</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>496340</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -2730,7 +3058,11 @@
   <Writer>|Robert King|Michelle King|</Writer>
   <absolute_number>86</absolute_number>
   <filename>episodes/95451/4502115.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431268626</lastupdated>
+=======
+  <lastupdated>1414362252</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>496340</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -2761,7 +3093,11 @@
   <Writer>Jacqueline Hoyt</Writer>
   <absolute_number>87</absolute_number>
   <filename>episodes/95451/4509882.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431268591</lastupdated>
+=======
+  <lastupdated>1414362267</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>496340</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -2792,7 +3128,11 @@
   <Writer>J.C. Nolan</Writer>
   <absolute_number>88</absolute_number>
   <filename>episodes/95451/4516554.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431268737</lastupdated>
+=======
+  <lastupdated>1414362290</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>496340</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -2823,7 +3163,11 @@
   <Writer>Craig Turk</Writer>
   <absolute_number>89</absolute_number>
   <filename>episodes/95451/4516555.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431268583</lastupdated>
+=======
+  <lastupdated>1414362319</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>496340</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -2854,7 +3198,11 @@
   <Writer>|Robert King|Michelle King|</Writer>
   <absolute_number>90</absolute_number>
   <filename>episodes/95451/4516556.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431268494</lastupdated>
+=======
+  <lastupdated>1414362336</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>496340</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
@@ -2880,12 +3228,20 @@
   <Overview>Alicia works to prevent the execution of a convicted murderer as she plans her exit from the firm with Cary. Eli helps Peter put together his staff.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
+<<<<<<< HEAD
   <RatingCount>21</RatingCount>
+=======
+  <RatingCount>19</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>5</SeasonNumber>
   <Writer>|Robert King|Michelle King|</Writer>
   <absolute_number>91</absolute_number>
   <filename>episodes/95451/4594884.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431268526</lastupdated>
+=======
+  <lastupdated>1413386773</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>522815</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added>2013-09-30 11:08:21</thumb_added>
@@ -2911,12 +3267,20 @@
   <Overview>Unaware that Lockhart &amp;Gardner's communications are being monitored, Cary and Alicia sue the NSA on Chumhum's behalf. Alicia receives support from her mother. Eli tries to secure Diane's Supreme Court nomination.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>22</RatingCount>
+=======
+  <RatingCount>19</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>5</SeasonNumber>
   <Writer>|Ted Humphrey|Robert King|</Writer>
   <absolute_number>92</absolute_number>
   <filename>episodes/95451/4624065.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431268605</lastupdated>
+=======
+  <lastupdated>1413386807</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>522815</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added>2013-09-30 11:13:44</thumb_added>
@@ -2941,13 +3305,22 @@
   <Language>en</Language>
   <Overview>Alicia receives a stunning offer that causes her to reconsider leaving the firm. The partners must take action when Diane is put at odds with her colleagues.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.8</Rating>
   <RatingCount>24</RatingCount>
+=======
+  <Rating>7.9</Rating>
+  <RatingCount>20</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>5</SeasonNumber>
   <Writer>Keith Eisner</Writer>
   <absolute_number>93</absolute_number>
   <filename>episodes/95451/4624066.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431268329</lastupdated>
+=======
+  <lastupdated>1413386825</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>522815</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added>2013-10-01 09:39:30</thumb_added>
@@ -2972,13 +3345,22 @@
   <Language>en</Language>
   <Overview>Alicia tries to obtain Lockhart &amp; Gardner files as she prepares to exit the firm. Faced with a sexual harassment lawsuit, the firm hires Elsbeth Tascioni.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.9</Rating>
   <RatingCount>22</RatingCount>
+=======
+  <Rating>7.8</Rating>
+  <RatingCount>19</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>5</SeasonNumber>
   <Writer>|Robert King|Michelle King|</Writer>
   <absolute_number>94</absolute_number>
   <filename>episodes/95451/4671503.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431268444</lastupdated>
+=======
+  <lastupdated>1413386836</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>522815</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added>2013-10-10 11:43:09</thumb_added>
@@ -3003,13 +3385,22 @@
   <Language>en</Language>
   <Overview>A desperate battle to retain clients begins when Cary and Alicia's plan to leave the firm is exposed.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>8.3</Rating>
   <RatingCount>27</RatingCount>
+=======
+  <Rating>8.4</Rating>
+  <RatingCount>24</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>5</SeasonNumber>
   <Writer>|Robert King|Michelle King|</Writer>
   <absolute_number>95</absolute_number>
   <filename>episodes/95451/4679036.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431268548</lastupdated>
+=======
+  <lastupdated>1414189091</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>522815</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added>2013-12-26 07:46:43</thumb_added>
@@ -3040,7 +3431,11 @@
   <Writer>Leonard Dick</Writer>
   <absolute_number>96</absolute_number>
   <filename>episodes/95451/4688976.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431268456</lastupdated>
+=======
+  <lastupdated>1414189170</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>522815</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added>2013-10-18 12:42:58</thumb_added>
@@ -3063,7 +3458,11 @@
   <GuestStars>|Renee Elise Goldsberry|Dallas Roberts|Nathan Lane|Ben Rappaport|Christian Borle|Hunter Parrish|</GuestStars>
   <IMDB_ID>tt3283790</IMDB_ID>
   <Language>en</Language>
+<<<<<<< HEAD
   <Overview>Zach makes a discovery that leads Alicia and Cary to believe that the firm is spying on them. Will helps one of Alicia's former clients. Clarke Hayden offers financial advice to Florrick/Agos.</Overview>
+=======
+  <Overview>Zach makes a discovery that leads Alicia and Cary to believe that the Lockhart/Gardner firm is spying on them; Will helps one of Alicia's former clients; Clarke Hayden offers financial advice to Florrick/Agos.</Overview>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
   <RatingCount>19</RatingCount>
@@ -3071,7 +3470,11 @@
   <Writer>Craig Turk</Writer>
   <absolute_number>97</absolute_number>
   <filename>episodes/95451/4689122.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431268632</lastupdated>
+=======
+  <lastupdated>1414189201</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>522815</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added>2013-11-10 21:10:58</thumb_added>
@@ -3102,7 +3505,11 @@
   <Writer>Ted Humphrey</Writer>
   <absolute_number>98</absolute_number>
   <filename>episodes/95451/4698892.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431268361</lastupdated>
+=======
+  <lastupdated>1414189238</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>522815</seasonid>
   <seriesid>95451</seriesid>
   <thumb_added>2013-11-04 10:34:26</thumb_added>
@@ -3407,7 +3814,11 @@
   <Overview>Florrick/Agos takes on the case of an NSA whistleblower, only to learn that the agency has been monitoring the firm as well as Alicia’s personal life. Meanwhile, Diane faces the difficult task of working alongside Louis Canning when he joins Lockhart/Gardner. Also, Alicia goes after the State’s Attorney when he attempts to make Finn a scapegoat in the Jeffrey Grant case.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>23</RatingCount>
+=======
+  <RatingCount>22</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>5</SeasonNumber>
   <Writer>|Matthew Montoya|Julia Wolfe|</Writer>
   <absolute_number>108</absolute_number>
@@ -3438,7 +3849,11 @@
   <Overview>When Alicia pays a visit to longtime client Colin Sweeney, she finds herself in the unwanted role of witness when a body is discovered in his home. Meanwhile, Eli steps in when an unfortunate picture of Zach threatens to become a public relations nightmare for Peter.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
+<<<<<<< HEAD
   <RatingCount>17</RatingCount>
+=======
+  <RatingCount>15</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>5</SeasonNumber>
   <Writer>|Nichelle Tramble Spellman|</Writer>
   <absolute_number>109</absolute_number>
@@ -3468,8 +3883,13 @@
   <Language>en</Language>
   <Overview>When Alicia has a chance encounter with a charming entrepreneur during jury duty, she begins to consider options outside her marriage and seeks the advice of her mother. Meanwhile, Diane's friends come to her for legal advice when their son is accused of selling drugs on the Internet.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.2</Rating>
   <RatingCount>20</RatingCount>
+=======
+  <Rating>7.3</Rating>
+  <RatingCount>16</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>5</SeasonNumber>
   <Writer>|Luke Schelhaas|Erica Shelton Kodish|</Writer>
   <absolute_number>110</absolute_number>
@@ -3499,8 +3919,13 @@
   <Language>en</Language>
   <Overview>Alicia manages the fallout when her client's insensitive statements to the press threaten the fate of a multi-billion dollar merger. Meanwhile, Diane faces a potential conflict of interest when she and Louis Canning are on opposite sides of a class action suit involving a pharmaceutical company. Also, Eli learns the truth about Alicia and Peter's relationship.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.6</Rating>
   <RatingCount>20</RatingCount>
+=======
+  <Rating>7.5</Rating>
+  <RatingCount>15</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>5</SeasonNumber>
   <Writer>|Ted Humphrey|</Writer>
   <absolute_number>111</absolute_number>
@@ -3530,8 +3955,13 @@
   <Language>en</Language>
   <Overview>An open feed from a camera mistakenly left on after a teleconferenced deposition between the lawyers of Florrick/Agos and Lockhart/Gardner reveals a threat to the firm that Alicia and Cary never saw coming. Meanwhile, the fate of Lockhart/Gardner hangs in the balance as Louis Canning vies for a larger role. Also, Alicia entrusts Zach's high school graduation party to Jackie and Veronica.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.9</Rating>
   <RatingCount>19</RatingCount>
+=======
+  <Rating>7.8</Rating>
+  <RatingCount>15</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>5</SeasonNumber>
   <Writer>|Robert King|Michelle King|</Writer>
   <absolute_number>112</absolute_number>
@@ -4241,7 +4671,255 @@
   <GuestStars></GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
-  <Overview></Overview>
+  <Overview>Despite pressure from Eli, Alicia is determined not to run for State's Attorney; Diane considers joining Florrick/Agos; a crisis threatens to tear the firm apart.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>10</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/95451/4917014.jpg</filename>
+  <lastupdated>1413761329</lastupdated>
+  <seasonid>589269</seasonid>
+  <seriesid>95451</seriesid>
+  <thumb_added>2014-09-29 10:20:38</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4984242</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Trust Issues</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2014-09-28</FirstAired>
+  <GuestStars>TayeDiggs</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>As the firm deals with an internal legal crisis, Alicia tries to hold onto their biggest client; Diane plots her move.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>8</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/95451/4984242.jpg</filename>
+  <lastupdated>1413756407</lastupdated>
+  <seasonid>589269</seasonid>
+  <seriesid>95451</seriesid>
+  <thumb_added>2014-09-29 10:18:19</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4999282</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Brooke Kennedy</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Dear God</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2014-10-05</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Joy Grubick, a pretrial service officer, interviews Cary's colleagues to determine if he should remain behind bars; a client's case ends up in Christian arbitration.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.3</Rating>
+  <RatingCount>8</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/95451/4999282.jpg</filename>
+  <lastupdated>1413756505</lastupdated>
+  <seasonid>589269</seasonid>
+  <seriesid>95451</seriesid>
+  <thumb_added>2014-10-06 10:31:10</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5003653</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Matt Shakman</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Oppo Research</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2014-10-12</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Eli asks a respected campaign manager to help Alicia explore the option of running for state's attorney.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>10</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/95451/5003653.jpg</filename>
+  <lastupdated>1413908719</lastupdated>
+  <seasonid>589269</seasonid>
+  <seriesid>95451</seriesid>
+  <thumb_added>2014-10-10 13:21:13</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5003654</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Frederick E. O. Toye</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Shiny Objects</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2014-10-19</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>When Dean and Alicia represent a former chief executive officer who is suing the company that fired her, they face off with Elsbeth Tascioni and Rayna Hecht; a hacker threatens Florrick/Agos/Lockhart by taking control of their files.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>12</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/95451/5003654.jpg</filename>
+  <lastupdated>1413908708</lastupdated>
+  <seasonid>589269</seasonid>
+  <seriesid>95451</seriesid>
+  <thumb_added>2014-10-10 13:21:41</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5003655</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>James Whitmore, Jr.</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Old Spice</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2014-10-26</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Elsbeth and Alicia put their fight on hold when they both have clients facing economic espionage charges; Diane battles her former partners over office space</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.2</Rating>
+  <RatingCount>9</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/95451/5003655.jpg</filename>
+  <lastupdated>1414140269</lastupdated>
+  <seasonid>589269</seasonid>
+  <seriesid>95451</seriesid>
+  <thumb_added>2014-10-10 13:22:14</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5003656</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Matt Shakman</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Message Discipline</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2014-11-02</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>While preparing his case against Cary, Finn discovers a potentially devastating piece of evidence which could have ramifications for Alicia and Peter. Meanwhile, Eli becomes wary when a new prospective candidate emerges in the race for State’s Attorney.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1414985775</lastupdated>
+  <seasonid>589269</seasonid>
+  <seriesid>95451</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5030560</id>
+  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>TBA</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2014-11-09</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Alicia takes on a college rape case which pits her against Louis Canning when it moves from a university hearing to civil court. Meanwhile, Eli and Elfman conduct a political focus group as Alicia dives into her campaign for State’s Attorney.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1414536419</lastupdated>
+  <seasonid>589269</seasonid>
+  <seriesid>95451</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5030561</id>
+  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_season>6</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>TBA</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2014-11-16</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview>Alicia faces a crisis of conscience when she’s encouraged to go negative in her campaign for State’s Attorney. Meanwhile, the Feds try to persuade Cary to work with them as they attempt to build a case against Lemond Bishop.</Overview>
   <ProductionCode></ProductionCode>
   <Rating></Rating>
   <RatingCount>0</RatingCount>
@@ -4249,8 +4927,13 @@
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename></filename>
+<<<<<<< HEAD
   <lastupdated>1433877027</lastupdated>
   <seasonid>625588</seasonid>
+=======
+  <lastupdated>1414536482</lastupdated>
+  <seasonid>589269</seasonid>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seriesid>95451</seriesid>
   <thumb_added></thumb_added>
   <thumb_height></thumb_height>

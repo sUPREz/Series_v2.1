@@ -12,8 +12,13 @@
   <Network>Comedy Central</Network>
   <NetworkID></NetworkID>
   <Overview>South Park is an animated series featuring four boys who live in the Colorado town of South Park, which is beset by frequent odd occurrences. The show grew out of short film that Trey Parker and Matt Stone created called The Spirit of Christmas, and has become an award-winning show that is a unique blend of humor and satire.</Overview>
+<<<<<<< HEAD
   <Rating>9.2</Rating>
   <RatingCount>426</RatingCount>
+=======
+  <Rating>9.1</Rating>
+  <RatingCount>377</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <Runtime>30</Runtime>
   <SeriesID>344</SeriesID>
   <SeriesName>South Park</SeriesName>
@@ -22,8 +27,13 @@
   <addedBy></addedBy>
   <banner>graphical/75897-g7.jpg</banner>
   <fanart>fanart/original/75897-43.jpg</fanart>
+<<<<<<< HEAD
   <lastupdated>1435027865</lastupdated>
   <poster>posters/75897-5.jpg</poster>
+=======
+  <lastupdated>1415051659</lastupdated>
+  <poster>posters/75897-1.jpg</poster>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>SH00229827</zap2it_id>
 </Series>
@@ -700,7 +710,11 @@
   <airsbefore_episode></airsbefore_episode>
   <airsbefore_season></airsbefore_season>
   <filename>episodes/75897/1210711.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631490</lastupdated>
+=======
+  <lastupdated>1415036436</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>23356</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added>2014-11-03 09:44:54</thumb_added>
@@ -835,8 +849,13 @@
   <airsafter_season></airsafter_season>
   <airsbefore_episode></airsbefore_episode>
   <airsbefore_season></airsbefore_season>
+<<<<<<< HEAD
   <filename>episodes/75897/1772851.jpg</filename>
   <lastupdated>1415085034</lastupdated>
+=======
+  <filename></filename>
+  <lastupdated>1415051887</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>23356</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added>2014-11-03 23:14:52</thumb_added>
@@ -1040,10 +1059,17 @@
   <airsbefore_episode></airsbefore_episode>
   <airsbefore_season></airsbefore_season>
   <filename>episodes/75897/2428161.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1415084276</lastupdated>
   <seasonid>23356</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added>2014-11-03 23:02:13</thumb_added>
+=======
+  <lastupdated>1415049061</lastupdated>
+  <seasonid>23356</seasonid>
+  <seriesid>75897</seriesid>
+  <thumb_added>2014-11-03 13:15:18</thumb_added>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <thumb_height>300</thumb_height>
   <thumb_width>400</thumb_width>
 </Episode>
@@ -1100,12 +1126,20 @@
   <Overview>While the boys are waiting for the school bus, Cartman explains the odd nightmare he had the previous night involving alien visitors abducting him from his bed. Meanwhile Kyle and Stan try to convince Cartman that the dream was in fact a reality.</Overview>
   <ProductionCode>101</ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>42</RatingCount>
+=======
+  <RatingCount>40</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Trey Parker|Matt Stone|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179540.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631282</lastupdated>
+=======
+  <lastupdated>1411579196</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9414</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -1131,12 +1165,20 @@
   <Overview>Mr. Garrison starts the day off with a special announcement; one of South Park's own has won a national essay contest. Everyone is shocked to learn that the winner is Cartman, who doesn't even remember what he wrote about.</Overview>
   <ProductionCode>102</ProductionCode>
   <Rating>6.9</Rating>
+<<<<<<< HEAD
   <RatingCount>42</RatingCount>
+=======
+  <RatingCount>40</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Trey Parker|Matt Stone|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179542.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631719</lastupdated>
+=======
+  <lastupdated>1411579275</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9414</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -1162,12 +1204,20 @@
   <Overview>The boys get together with Stan's Uncle Jimbo and Jimbo's war-buddy Ned for a hunting trip in the nearby mountains. After Cartman's mom makes sure her &quot;little&quot; boy is safe and sound (much to Cartman's dismay) the group heads off for adventure. As they drive away from the town, Jimbo explains the &quot;finer&quot; points of hunting.</Overview>
   <ProductionCode>103</ProductionCode>
   <Rating>6.9</Rating>
+<<<<<<< HEAD
   <RatingCount>35</RatingCount>
+=======
+  <RatingCount>34</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Trey Parker|Matt Stone|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179541.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631767</lastupdated>
+=======
+  <lastupdated>1411579470</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9414</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -1193,12 +1243,20 @@
   <Overview>Stan's got a new dog-named Sparky. Stan proclaims his pet to be the toughest dog on the mountain. Though while Stan thinks his dog is ready for fighting, Sparky proceeds to hump Sylvester like a little bitch. The other boys taunt Stan about his gay dog and Sparky runs away to find someone who will love him for who he is.</Overview>
   <ProductionCode>104</ProductionCode>
   <Rating>6.7</Rating>
+<<<<<<< HEAD
   <RatingCount>31</RatingCount>
+=======
+  <RatingCount>30</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Trey Parker|Matt Stone|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179543.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631400</lastupdated>
+=======
+  <lastupdated>1411579320</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9414</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -1224,12 +1282,20 @@
   <Overview>Stan notices a new addition in their bus stop crew, an elephant standing alongside Kyle. At school, class lessons for the day involve genetic engineering (conveniently enough). Kyle questions the possibility of a genetically engineered elephant made smaller by design. The boys have to beat the rough kids in their genetics experiment, and will try anything to do it.</Overview>
   <ProductionCode>105</ProductionCode>
   <Rating>7.0</Rating>
+<<<<<<< HEAD
   <RatingCount>31</RatingCount>
+=======
+  <RatingCount>30</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Trey Parker|Matt Stone|Dan Sterling|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179544.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631564</lastupdated>
+=======
+  <lastupdated>1411579336</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9414</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -1255,12 +1321,20 @@
   <Overview>&quot;Happy Birthday&quot; to Stan's Grandpa Marsh who just turned 102. How does the wizened Mr. Marsh feel about his birthday? He sums it up in five words; &quot;I wish I were dead.&quot; and proceeds trying to end his life enlisting Stan to do it for him. However, Stan is aware of a very important thing if he kills his grandfather, he'd be in trouble, and if he's in trouble he can't watch Terrance and Phillip.</Overview>
   <ProductionCode>106</ProductionCode>
   <Rating>6.9</Rating>
+<<<<<<< HEAD
   <RatingCount>29</RatingCount>
+=======
+  <RatingCount>27</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Trey Parker|Matt Stone|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179545.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631363</lastupdated>
+=======
+  <lastupdated>1411579347</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9414</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -1285,13 +1359,22 @@
   <Language>en</Language>
   <Overview>The first Halloween episode starts off with the failure of the Mir Space Station, which crashes right on Kenny. An ambulance comes and takes his body off to the morgue. The boys start to brag about their Halloween costumes. At the morgue, a freak accident involving a bottle of Worcestershire occurs, and next thing you know Kenny is a member of the undead. Kenny breaks free and wanders off into the night.</Overview>
   <ProductionCode>107</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.3</Rating>
   <RatingCount>30</RatingCount>
+=======
+  <Rating>7.2</Rating>
+  <RatingCount>28</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Trey Parker|Matt Stone|Philip Stark|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179546.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631477</lastupdated>
+=======
+  <lastupdated>1411579382</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9414</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -1316,13 +1399,22 @@
   <Language>en</Language>
   <Overview>The four boys are at Cartman's house watching the &quot;Terrance &amp; Philip Thanksgiving Special&quot; on television. During a break from the show, a Sally Struthers commercial convinces the boys that the prospect of a free &quot;Taiko&quot; sport watch with a five-dollar donation is irresistible. Typical greedy American youth. So Stan dials in, using his mother's credit card number and makes their donation.</Overview>
   <ProductionCode>108</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.7</Rating>
   <RatingCount>26</RatingCount>
+=======
+  <Rating>7.6</Rating>
+  <RatingCount>25</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179547.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631811</lastupdated>
+=======
+  <lastupdated>1411579396</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9414</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -1347,13 +1439,22 @@
   <Language>en</Language>
   <Overview>South Park Elementary is on stage rehearsing for the schools play. Kyle begins to sing a song about Mr. Hankey, the Christmas Poo. Of course, no one has any idea what the heck he's singing about. Kyle explains that Mr. Hankey comes every year to all the good boys and girls who have a lot of fiber in their diet. Everyone thinks he's insane and sends him to a mental institute.</Overview>
   <ProductionCode>109</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.4</Rating>
   <RatingCount>24</RatingCount>
+=======
+  <Rating>7.3</Rating>
+  <RatingCount>22</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179548.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631896</lastupdated>
+=======
+  <lastupdated>1411579405</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9414</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -1378,13 +1479,22 @@
   <Language>en</Language>
   <Overview>Eric is handing out invitations to his birthday party at school. Mr. Garrison informs them all that there is a new student joining the class. Announcing to all that he is Damien, the son of Satan. Even as Damien demonstrates his demonic powers the children are more loathsome than impressed.</Overview>
   <ProductionCode>110</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.3</Rating>
   <RatingCount>29</RatingCount>
+=======
+  <Rating>7.4</Rating>
+  <RatingCount>27</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Trey Parker|Matt Stone|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179549.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631496</lastupdated>
+=======
+  <lastupdated>1411579413</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9414</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -1410,12 +1520,20 @@
   <Overview>Wendy and Stan discuss their plans for romance. Principal Victoria comes into the classroom and announces that Mr. Garrison is going to be out and that a substitute will be taking his place. The lovely Miss Ellen speaks to Stan and he pukes all over his desk. Wendy is upset because Stan only pukes when he is in love and has Mrs. Ellen arrested for being a spy. </Overview>
   <ProductionCode>111</ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>26</RatingCount>
+=======
+  <RatingCount>25</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179550.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631743</lastupdated>
+=======
+  <lastupdated>1411579425</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9414</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -1441,12 +1559,20 @@
   <Overview>The boys meet up with Barbara Streisand who wants to take over the world with Kyle's discovery and an archaeological dig. Leonard Maltin, Sydney Potier, and Robert Smith come to the rescue to defeat Babs and her terrible destruction.</Overview>
   <ProductionCode>112</ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>19</RatingCount>
+=======
+  <RatingCount>17</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Trey Parker|Philip Stark|Matt Stone|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179551.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631213</lastupdated>
+=======
+  <lastupdated>1411579436</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9414</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -1472,12 +1598,20 @@
   <Overview>Cartman needs to find out who his father is but his mom is no help. Learning that his father could be one of the many people that his mom &quot;had relations&quot; with during an annual party called &quot;The Drunken Barn Dance,&quot; he finds that there's more to his mother then he thought.</Overview>
   <ProductionCode>113</ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>24</RatingCount>
+=======
+  <RatingCount>23</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Trey Parker|David Goodman|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179552.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631759</lastupdated>
+=======
+  <lastupdated>1411579448</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9414</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -1503,12 +1637,20 @@
   <Overview>The show starts off with the build up from last season's cliffhanger revolving around Cartman's paternal origins. However, just as it seems they are about to get on with the second half of &quot;Cartman's Mom Is A Dirty Slut,&quot; they do a 180 degree turn-around and reveal that for April Fool's Day they will be showing Terrance &amp; Phillip in &quot;Not Without My Anus.&quot;</Overview>
   <ProductionCode>201</ProductionCode>
   <Rating>7.3</Rating>
+<<<<<<< HEAD
   <RatingCount>23</RatingCount>
+=======
+  <RatingCount>22</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Trisha Nixon|Trey Parker|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179553.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631705</lastupdated>
+=======
+  <lastupdated>1411580509</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9416</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -1534,12 +1676,20 @@
   <Overview>Dr. Mephisto is about to reveal who Eric Cartman's father really is! Glass shatters and gunshots ring out. A mysterious assailant apparently shot Mephisto while the lights were off. Much to Eric's chagrin, they rush Mephisto off to the hospital. Chef rushes out the door with Mephisto in hand. They must fight against time to learn Eric's background, who is his father? Where does he come from?</Overview>
   <ProductionCode>202</ProductionCode>
   <Rating>7.2</Rating>
+<<<<<<< HEAD
   <RatingCount>26</RatingCount>
+=======
+  <RatingCount>24</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Trey Parker|David Goodman|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179554.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631254</lastupdated>
+=======
+  <lastupdated>1411580520</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9416</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -1564,13 +1714,22 @@
   <Language>en</Language>
   <Overview>The Booktastic bus is in town and soon everyone finds out that Officer Barbrady can't read. He is whisked off to school with the boys so he can save his job. While he's there someone in South Park is having sex with the town's chickens and only Officer Barbrady with his new deputies Kenny, Kyle, Stan, and Cartman can stop them!</Overview>
   <ProductionCode>203</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.6</Rating>
   <RatingCount>26</RatingCount>
+=======
+  <Rating>7.7</Rating>
+  <RatingCount>25</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179556.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631510</lastupdated>
+=======
+  <lastupdated>1411580551</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9416</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -1601,7 +1760,11 @@
   <Writer>|Trey Parker|Matt Stone|David Goodman|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179555.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631860</lastupdated>
+=======
+  <lastupdated>1411580560</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9416</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -1627,12 +1790,20 @@
   <Overview>Kyle is injured and must go to see the school nurse and is terrified because of the stories he's heard. She looks fairly normal, except for the dead fetus sticking out of her head. Kyle's mother educates the boys on her &quot;condition&quot; and decides that everyone in South Park should be made aware. Meanwhile, the South Park Cows dodgeball team goes to the state, national and finally the international finals in China.</Overview>
   <ProductionCode>205</ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>25</RatingCount>
+=======
+  <RatingCount>24</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Trey Parker|Matt Stone|David Goodman|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179557.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631321</lastupdated>
+=======
+  <lastupdated>1411580569</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9416</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -1663,7 +1834,11 @@
   <Writer>|Trey Parker|Matt Stone|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179558.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631186</lastupdated>
+=======
+  <lastupdated>1411580581</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9416</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -1694,7 +1869,11 @@
   <Writer>|Trey Parker|Nancy Pimental|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179559.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631523</lastupdated>
+=======
+  <lastupdated>1411580593</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9416</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -1725,7 +1904,11 @@
   <Writer>|Nancy Pimental|Trey Parker|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179560.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631357</lastupdated>
+=======
+  <lastupdated>1411580602</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9416</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -1756,7 +1939,11 @@
   <Writer>|Trey Parker|Matt Stone|Nancy Pimental|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179561.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631573</lastupdated>
+=======
+  <lastupdated>1411580612</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9416</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -1782,12 +1969,20 @@
   <Overview>Cartman's mother plots to give the boys the chickenpox by sending them over to Kenny's for a sleepover. Both Stan and Cartman breakout, but Kyle remains immune. Kyle discovers &quot;the parental conspiracy&quot; and with the other boys hires a prostitute to give their parents herpes. Meanwhile, Kenny's mother and Kyle's mother reunite their husbands who were both childhood friends that drifted apart.</Overview>
   <ProductionCode>210</ProductionCode>
   <Rating>7.5</Rating>
+<<<<<<< HEAD
   <RatingCount>22</RatingCount>
+=======
+  <RatingCount>21</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Trey Parker|Matt Stone|Trisha Nixon|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179562.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631418</lastupdated>
+=======
+  <lastupdated>1411580629</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9416</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -1818,7 +2013,11 @@
   <Writer>|Trey Parker|David Goodman|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179563.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631683</lastupdated>
+=======
+  <lastupdated>1411580640</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9416</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -1844,12 +2043,20 @@
   <Overview>Stan needs to build a clubhouse so he and Kyle can play &quot;Truth or Dare&quot; with Wendy and her friend, who has a crush on Kyle. Cartman and Kenny retaliate by building a clubhouse of their own; only theirs has hot chicks. Meanwhile, the Marshes marriage breaks up and Stan learns a valuable lesson about love and family.</Overview>
   <ProductionCode>212</ProductionCode>
   <Rating>7.4</Rating>
+<<<<<<< HEAD
   <RatingCount>26</RatingCount>
+=======
+  <RatingCount>25</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Trey Parker|Nancy Pimental|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179564.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631991</lastupdated>
+=======
+  <lastupdated>1411580656</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9416</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -1880,7 +2087,11 @@
   <Writer>|Trey Parker|David Goodman|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179565.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631336</lastupdated>
+=======
+  <lastupdated>1411580664</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9416</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -1911,7 +2122,11 @@
   <Writer>|Trey Parker|Matt Stone|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179566.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631530</lastupdated>
+=======
+  <lastupdated>1411580674</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9416</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -1942,7 +2157,11 @@
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179567.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631385</lastupdated>
+=======
+  <lastupdated>1411580684</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9416</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -1973,7 +2192,11 @@
   <Writer>|Trey Parker|Nancy Pimental|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179568.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631978</lastupdated>
+=======
+  <lastupdated>1411580699</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9416</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -1999,12 +2222,20 @@
   <Overview>Harbucks coffee plans to move into South Park and drive Tweek coffee shop out of business. Mr. Garrison assigns a report on current events to help him keep his job. The boys are planning on doing their report on the underpants gnomes. Tweek's father schemes to use the boy's report as a platform for fighting Harbucks. The report the boys deliver sparks the town into taking action.</Overview>
   <ProductionCode>217</ProductionCode>
   <Rating>7.4</Rating>
+<<<<<<< HEAD
   <RatingCount>27</RatingCount>
+=======
+  <RatingCount>26</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Pam Brady|Trey Parker|Matt Stone|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179569.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631592</lastupdated>
+=======
+  <lastupdated>1411580709</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9416</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -2029,13 +2260,22 @@
   <Language>en</Language>
   <Overview>Kyle falls into a cave. Stan goes to rescue him and finds an iceman, and the two fight each other for sole credit. Dr. Mephisto discovers that the iceman has been frozen since 1996. The iceman is put on display and the fighting Kyle and Stan free him. The iceman tries to return to his family, but finds himself a man out of time. Meanwhile, the government has their own plans to use the iceman in their plot against Sweden.</Overview>
   <ProductionCode>218</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.4</Rating>
   <RatingCount>24</RatingCount>
+=======
+  <Rating>7.3</Rating>
+  <RatingCount>23</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Trey Parker|Nancy Pimental|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179570.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433632011</lastupdated>
+=======
+  <lastupdated>1411580728</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9416</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -2061,7 +2301,11 @@
   <Overview>Mr. Mackey punishes the boys by forcing them to join the &quot;Getting Gay With Kids&quot; choir. The choir is going to Costa Rica to help save the rainforest. While on a tour of the rainforest the choir group gets lost when a snake kills their guide. They soon discover the evils of the rainforest, which changes the choir group's message.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
+<<<<<<< HEAD
   <RatingCount>30</RatingCount>
+=======
+  <RatingCount>29</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Trey Parker|Eric Stough|</Writer>
   <absolute_number></absolute_number>
@@ -2091,13 +2335,22 @@
   <Language>en</Language>
   <Overview>Kenny spontaneously combusts. The mayor asks Randy Marsh to find a solution. The boys try to help Kyle's dad to get an erection. One way they think they can help is by performing the Stations of the Cross at church crucifying Cartman and waiting three days for his res-erection. Randy Marsh figures out the reason everyone is combusting is because they are withholding their farts.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.2</Rating>
   <RatingCount>30</RatingCount>
+=======
+  <Rating>7.3</Rating>
+  <RatingCount>29</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Trey Parker|Matt Stone|David Goodman|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179571.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631289</lastupdated>
+=======
+  <lastupdated>1411580943</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9417</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -2125,10 +2378,17 @@
   <Rating>7.3</Rating>
   <RatingCount>29</RatingCount>
   <SeasonNumber>3</SeasonNumber>
+<<<<<<< HEAD
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179572.jpg</filename>
   <lastupdated>1433631405</lastupdated>
+=======
+  <Writer>|Trey Parker|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/75897/179572.jpg</filename>
+  <lastupdated>1411580961</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9417</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -2159,7 +2419,11 @@
   <Writer>|Trey Parker|Matt Stone|David Goodman|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179574.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631392</lastupdated>
+=======
+  <lastupdated>1411580977</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9417</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -2190,7 +2454,11 @@
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179573.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631645</lastupdated>
+=======
+  <lastupdated>1411580993</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9417</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -2221,7 +2489,11 @@
   <Writer>|Trey Parker|Matt Stone|David Goodman|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179575.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433632005</lastupdated>
+=======
+  <lastupdated>1411581005</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9417</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -2252,7 +2524,11 @@
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179576.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631911</lastupdated>
+=======
+  <lastupdated>1411581021</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9417</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -2283,7 +2559,11 @@
   <Writer>|Trey Parker|Matt Stone|David Goodman|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179577.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631194</lastupdated>
+=======
+  <lastupdated>1411581039</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9417</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -2314,7 +2594,11 @@
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179578.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631610</lastupdated>
+=======
+  <lastupdated>1411581060</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9417</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -2339,13 +2623,21 @@
   <Language>en</Language>
   <Overview>Korn comes to South Park for a Halloween gig and learns of the boys problems with the 5th graders at South Park Elementary. Korn agrees to help the boys get revenge on the mean 5th graders all in a spooky Scooby Doo rip off!</Overview>
   <ProductionCode>310</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.2</Rating>
+=======
+  <Rating>7.3</Rating>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <RatingCount>22</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Eric Stough|Trey Parker|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179580.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631248</lastupdated>
+=======
+  <lastupdated>1411581072</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9417</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -2370,13 +2662,21 @@
   <Language>en</Language>
   <Overview>The kids of South Park discover Chinpokomon, Japan's #1 cool toy to own! Wanting to avoid being losers, they persuade their parents to buy them the toys only to discover that the Chinpokomon are designed to brainwash them into bombing Pearl Harbor. The parents band together to stop Japan and save America! </Overview>
   <ProductionCode>311</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.7</Rating>
+=======
+  <Rating>7.6</Rating>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <RatingCount>20</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179582.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631969</lastupdated>
+=======
+  <lastupdated>1411581089</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9417</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -2407,7 +2707,11 @@
   <Writer>|Trey Parker|Matt Stone|David Goodman|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179579.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631370</lastupdated>
+=======
+  <lastupdated>1411581100</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9417</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -2438,7 +2742,11 @@
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179581.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631938</lastupdated>
+=======
+  <lastupdated>1411581147</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9417</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -2469,7 +2777,11 @@
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179583.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631308</lastupdated>
+=======
+  <lastupdated>1411581133</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9417</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -2500,7 +2812,11 @@
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179584.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631903</lastupdated>
+=======
+  <lastupdated>1411581169</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9417</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -2525,13 +2841,21 @@
   <Language>en</Language>
   <Overview>Cartman is convinced he is going through puberty since he started bleeding out of his ass. Dr. Mephisto gives Stan some hormones and he takes the entire bottle. Stan gets facial hair, boobs and his voice starts changing. People are waiting outside of Jesus' home to see what kind of miracle he offers which ends up involving a comeback performance of a very old Rod Stewart and eventually an appearance by God.</Overview>
   <ProductionCode>311</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.8</Rating>
+=======
+  <Rating>7.9</Rating>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <RatingCount>18</RatingCount>
   <SeasonNumber>3</SeasonNumber>
   <Writer>Eric Stough</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179585.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631624</lastupdated>
+=======
+  <lastupdated>1411581177</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9417</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -2562,7 +2886,11 @@
   <Writer>Eric Stough</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179586.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631736</lastupdated>
+=======
+  <lastupdated>1411581190</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9417</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -2587,13 +2915,22 @@
   <Language>en</Language>
   <Overview>The tooth fairy has visited Cartman, leaving him two dollars. He rushes to the bus stop to share his news with the others. He then unveils his latest plan. If all they all combined their lost teeth, the tooth fairy will provide them with enough cash to purchase a Sega Dreamcast. They soon find out that they are treading on someone else's territory. Now they have to work with the mobsters to keep their manhood.</Overview>
   <ProductionCode>402</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.5</Rating>
   <RatingCount>24</RatingCount>
+=======
+  <Rating>7.6</Rating>
+  <RatingCount>22</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Trey Parker|Matt Stone|Nancy Pimental|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179587.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631268</lastupdated>
+=======
+  <lastupdated>1414910046</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9418</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -2619,12 +2956,20 @@
   <Overview>The kids have just won a sledding race. Token says that the only reason they won is because of Eric's fat ass. The girls challenge the boys to a sledding race down Phil Collins Hill. Token says that the boys can't lose thanks to Eric's fat ass. Eric then tosses a rock into the side of Token's head. The FBI claim that this was a hate crime and Cartman is sent to jail. Can the other boys bust Cartman out in time for the big race?</Overview>
   <ProductionCode>401</ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>24</RatingCount>
+=======
+  <RatingCount>23</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179588.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631957</lastupdated>
+=======
+  <lastupdated>1414910059</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9418</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -2681,7 +3026,11 @@
   <Overview>The boys discover 8-year-old contorting quintuplets from Romania. Cartman decides to stage his own performance. The quintuplets and their grandmother defect from Romania and wind up staying at the Marsh's home. Thanks to Grandpa Marsh the girls' grandmother gets &quot;loved to death.&quot; The girl's father is brought in by the Romanian government to demand his daughters back, Janet Reno to the rescue!</Overview>
   <ProductionCode>403</ProductionCode>
   <Rating>7.4</Rating>
+<<<<<<< HEAD
   <RatingCount>21</RatingCount>
+=======
+  <RatingCount>19</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -2711,13 +3060,22 @@
   <Language>en</Language>
   <Overview>Cartman decides to seek the friendship of older men. Using the Internet, he makes a connection with men who love to hang out with little boys. An organization called NAMBLA (North American Man Boy Love Association) holds a meeting in South Park and Cartman becomes their poster child. The boys learn how much an adult can really love a child.</Overview>
   <ProductionCode>406</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.5</Rating>
   <RatingCount>30</RatingCount>
+=======
+  <Rating>7.4</Rating>
+  <RatingCount>28</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179591.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631832</lastupdated>
+=======
+  <lastupdated>1414910139</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9418</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -2742,13 +3100,22 @@
   <Language>en</Language>
   <Overview>Kyle needs a kidney transplant and Cartman is a perfect donor. Cartman has a $10 million price for his kidney. The other boys go to Cartman's house with the plan to take one of his kidneys. Cartman thwarts their plan. Stan, depressed about the inevitable loss of his friend decides to take action into his own hands and with the help of the parents gets Cartman's kidney for Kyle.</Overview>
   <ProductionCode>407</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.4</Rating>
   <RatingCount>30</RatingCount>
+=======
+  <Rating>7.5</Rating>
+  <RatingCount>28</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179592.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631818</lastupdated>
+=======
+  <lastupdated>1414910165</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9418</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -2779,7 +3146,11 @@
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179593.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631503</lastupdated>
+=======
+  <lastupdated>1414910186</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9418</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -2804,13 +3175,21 @@
   <Language>en</Language>
   <Overview>&quot;Fingerbang&quot; is the latest boy band starring the four boys. Randy Marsh is against Stan's participation in any boy band for dark reasons. The boys land a gig at the local mall when it is threatened because there are only 4 members in the band. Stan arrives and the group is set to perform when suddenly the mall elevator tragically crushes Kenny. A former boy band member steps into the spotlight to save the gig.</Overview>
   <ProductionCode>409</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.5</Rating>
+=======
+  <Rating>7.4</Rating>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <RatingCount>25</RatingCount>
   <SeasonNumber>4</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179594.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631275</lastupdated>
+=======
+  <lastupdated>1414910322</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9418</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -2836,12 +3215,20 @@
   <Overview>The boys attend church and the priest puts the fear of hell in them. They must go to Sunday school and learn that they must confess their sins. The boys are worried about Timmy, after all, he can only say his name. Feeling the need to confess their sins they catch the priest in a compromising position and decide to save themselves.</Overview>
   <ProductionCode>410</ProductionCode>
   <Rating>7.3</Rating>
+<<<<<<< HEAD
   <RatingCount>27</RatingCount>
+=======
+  <RatingCount>26</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179595.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631454</lastupdated>
+=======
+  <lastupdated>1414910329</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9418</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -2872,7 +3259,11 @@
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179596.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631654</lastupdated>
+=======
+  <lastupdated>1414910334</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9418</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -2929,12 +3320,20 @@
   <Overview>Cartman has a new Trapper Keeper (that blows Kyle's out of the water) After he's done bragging, a stranger tells him that it will soon take over the world if they don't destroy it now. Cool 2001: A Space Odyssey and Akira parodies!</Overview>
   <ProductionCode>413</ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>19</RatingCount>
+=======
+  <RatingCount>18</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179598.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631240</lastupdated>
+=======
+  <lastupdated>1414910373</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9418</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -2965,7 +3364,11 @@
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179599.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631314</lastupdated>
+=======
+  <lastupdated>1414910389</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9418</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -2996,7 +3399,11 @@
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179600.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631208</lastupdated>
+=======
+  <lastupdated>1414910279</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9418</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -3027,7 +3434,11 @@
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179601.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631788</lastupdated>
+=======
+  <lastupdated>1411581506</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9418</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -3058,7 +3469,11 @@
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179602.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631774</lastupdated>
+=======
+  <lastupdated>1411581519</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9418</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -3089,7 +3504,11 @@
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179603.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631261</lastupdated>
+=======
+  <lastupdated>1411581533</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9418</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -3182,7 +3601,11 @@
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179606.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631631</lastupdated>
+=======
+  <lastupdated>1414910485</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9419</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -3208,12 +3631,20 @@
   <Overview>Cartman goes medieval on Scott Tenorman's ass when ginger-haired Scott tricks our supple hero into buying his pubic hair for $16.12. Radiohead guest stars and plays a role in Cartman's elaborate scheme at getting sweet revenge on his unsuspecting foe.</Overview>
   <ProductionCode>501</ProductionCode>
   <Rating>8.5</Rating>
+<<<<<<< HEAD
   <RatingCount>27</RatingCount>
+=======
+  <RatingCount>26</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>5</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179607.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631343</lastupdated>
+=======
+  <lastupdated>1414910497</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9419</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -3275,7 +3706,11 @@
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179609.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631377</lastupdated>
+=======
+  <lastupdated>1411582577</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9419</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -3300,13 +3735,22 @@
   <Language>en</Language>
   <Overview>Thanks to Stan's &quot;handy&quot; work, the children of South Park must endure sex education from the unlikely duo of Mr. Mackey and Ms. Choksondik. While the two adults take their lessons to heart, the children are left frightened, mis-informed, and armed for battle against the opposite sex. Much hilarity ensues.</Overview>
   <ProductionCode>507</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.5</Rating>
   <RatingCount>33</RatingCount>
+=======
+  <Rating>7.6</Rating>
+  <RatingCount>31</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>5</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179610.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631780</lastupdated>
+=======
+  <lastupdated>1411582587</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9419</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -3368,7 +3812,11 @@
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179612.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631150</lastupdated>
+=======
+  <lastupdated>1411582609</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9419</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -3394,7 +3842,11 @@
   <Overview>Cartman has finally gone too far when a prank involving Kenny's sweet cheeks results in him blowing a &quot;funny fuse.&quot; After a photo of Kenny's better side finds it's way onto the side of a milk carton, an unusual couple arrives in South Park to claim their missing child. Much ass kissing ensues.</Overview>
   <ProductionCode>510</ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>19</RatingCount>
+=======
+  <RatingCount>18</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>5</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -3456,12 +3908,20 @@
   <Overview>Feeling like an outcast for being the only rich kid in town, Token succeeds in attracting several other wealthy people to South Park. Meanwhile, the townspeople, fearing that their little hamlet is rapidly going up the drain, attempt to run the new residents out of town by any means necessary.</Overview>
   <ProductionCode>512</ProductionCode>
   <Rating>7.5</Rating>
+<<<<<<< HEAD
   <RatingCount>29</RatingCount>
+=======
+  <RatingCount>28</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>5</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179615.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631997</lastupdated>
+=======
+  <lastupdated>1411582681</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9419</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -3487,7 +3947,11 @@
   <Overview>In a very special episode of South Park, Cartman fights for Kenny's life when he speaks before Congress in favor of stem cell research. Meanwhile, Stan has trouble dealing with his friend's impending demise.</Overview>
   <ProductionCode>513</ProductionCode>
   <Rating>7.5</Rating>
+<<<<<<< HEAD
   <RatingCount>25</RatingCount>
+=======
+  <RatingCount>23</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>5</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -3518,7 +3982,11 @@
   <Overview>Butters finds out what his father has been up to late at night and when his mother hears, she overreacts by trying to kill her son and then herself back at home. After returning home and forgiving her husband, she realizes what she has done to her son and they spin a story to the media to cover their tracks. Meanwhile, Butters obsesses with returning home so that he can join his parents for an anniversary dinner at Bennigan’s.</Overview>
   <ProductionCode>514</ProductionCode>
   <Rating>8.3</Rating>
+<<<<<<< HEAD
   <RatingCount>33</RatingCount>
+=======
+  <RatingCount>31</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>5</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -3549,7 +4017,11 @@
   <Overview>The boys decide to fatten up Butters so that he can lose weight by eating at their favorite restaurant just like Jared, the sub sandwich guy. Jared, who is making an appearance in town reveals another secret to his weight loss, he has aides.</Overview>
   <ProductionCode>602</ProductionCode>
   <Rating>7.5</Rating>
+<<<<<<< HEAD
   <RatingCount>37</RatingCount>
+=======
+  <RatingCount>36</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>6</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -3579,13 +4051,22 @@
   <Language>en</Language>
   <Overview>With their parents stuck in Time Share Hell, our boys are on their own on the slopes of Aspen, circa 1985. Stan gets challenged to a ski race and must win in order to save the youth center, get the girl, and free the trapped spirits of the Wakacha Vampire Indians. Not that he really cares.</Overview>
   <ProductionCode>603</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.6</Rating>
   <RatingCount>36</RatingCount>
+=======
+  <Rating>7.7</Rating>
+  <RatingCount>34</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>6</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179619.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631432</lastupdated>
+=======
+  <lastupdated>1414910557</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9420</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -3611,7 +4092,11 @@
   <Overview>The boys learn that disfigured people get prizes for appearing on a talk show and they sign Butters up. When the prize he gets can’t be shared, Cartman has his mother join him on a segment called, &quot;Please Help My out of Control Child.&quot;</Overview>
   <ProductionCode>601</ProductionCode>
   <Rating>7.5</Rating>
+<<<<<<< HEAD
   <RatingCount>39</RatingCount>
+=======
+  <RatingCount>37</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>6</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -3673,12 +4158,20 @@
   <Overview>The boys have to sit through &quot;The Russell Crowe Show&quot; in order to see the premiere of the trailer for the new Terrance and Phillip movie. Meanwhile, Chef’s new TV has taken on a life of its own.</Overview>
   <ProductionCode>604</ProductionCode>
   <Rating>7.3</Rating>
+<<<<<<< HEAD
   <RatingCount>30</RatingCount>
+=======
+  <RatingCount>29</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>6</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179622.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631448</lastupdated>
+=======
+  <lastupdated>1414910585</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9420</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -3703,8 +4196,13 @@
   <Language>en</Language>
   <Overview>Butters isn’t working out and Cartman, Kyle and Stan decide to fire him and hold auditions for his replacement. Becoming an outcast, Butters becomes a super-villain with plans to cause chaos wherever he goes.</Overview>
   <ProductionCode>606</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.5</Rating>
   <RatingCount>28</RatingCount>
+=======
+  <Rating>7.6</Rating>
+  <RatingCount>26</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>6</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -3735,7 +4233,11 @@
   <Overview>Professor Chaos returns with brand new, super evil, schemes to wreak havoc on South Park; unfortunately, the Simpsons have already done them all. Meanwhile, a super secret ingredient helps Cartman's &quot;Sea People&quot; evolve at an alarming rate.</Overview>
   <ProductionCode>607</ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>39</RatingCount>
+=======
+  <RatingCount>37</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>6</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -3766,7 +4268,11 @@
   <Overview>Father Maxi is concerned with all the molestation claims that have been placed against the Catholic Church recently. After most of his parishioners turn to Atheism as an answer, he travels to the Vatican to get some answers.</Overview>
   <ProductionCode>608</ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>33</RatingCount>
+=======
+  <RatingCount>32</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>6</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -3797,7 +4303,11 @@
   <Overview>The boys go out to see the new edition of Star Wars: Episode V and during the previews they find out that the movie studios are planning on re-releasing more movies with digitally enhanced effects. In an effort to stop this injustice, they go off to find Steven Spielberg and George Lucas.</Overview>
   <ProductionCode>609</ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>37</RatingCount>
+=======
+  <RatingCount>34</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>6</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -3828,7 +4338,11 @@
   <Overview>After nearly five years and 89 episodes, it finally happens: Cartman gets kicked out of the gang. The reason? Bebe gets boobs and the boys go ape, threatening their friendships and society as we know it.</Overview>
   <ProductionCode>610</ProductionCode>
   <Rating>7.5</Rating>
+<<<<<<< HEAD
   <RatingCount>32</RatingCount>
+=======
+  <RatingCount>30</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>6</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -3858,8 +4372,13 @@
   <Language>en</Language>
   <Overview>In an effort to protect their children from kidnappers, the parents of South Park hire the owner and operator of the local City Wok to build a Great Wall around the city. When crazy things like Kid trackers and Mongolions come into the picture. The parents learn a very important lesson themselves about trusting strangers.</Overview>
   <ProductionCode>611</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.6</Rating>
   <RatingCount>29</RatingCount>
+=======
+  <Rating>7.7</Rating>
+  <RatingCount>27</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>6</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -3890,7 +4409,11 @@
   <Overview>Stan, Kyle, and Cartman win all the candy they can eat in a contest. There's just one problem, Kenny had the ticket. Now to get their prize, the boys have decided to build a ladder to Heaven in order to get the ticket back from their dead friend.</Overview>
   <ProductionCode>612</ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>32</RatingCount>
+=======
+  <RatingCount>30</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>6</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -3921,12 +4444,20 @@
   <Overview>The boys are on a mission: return &quot;The Lord of the Rings&quot; to the Two Towers Video Store in Conifer. But this is no ordinary copy. Butters, the evil sixth graders, and the boys' parents all try to steal the ring, er tape, from the boys. Will they succeed?</Overview>
   <ProductionCode>613</ProductionCode>
   <Rating>8.1</Rating>
+<<<<<<< HEAD
   <RatingCount>38</RatingCount>
+=======
+  <RatingCount>37</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>6</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179632.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631542</lastupdated>
+=======
+  <lastupdated>1414510323</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9420</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -3951,8 +4482,13 @@
   <Language>en</Language>
   <Overview>A loveable new character, Mr Slave, makes his debut as Mr. Garrison desperately tries to get fired from his new job as the boys' 4th grade teacher. Meanwhile, the boys get sent to the Deathcamp of Intolerance for not tolerating Mr. Garrison's intolerable behavior.</Overview>
   <ProductionCode>614</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.4</Rating>
   <RatingCount>36</RatingCount>
+=======
+  <Rating>7.5</Rating>
+  <RatingCount>35</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>6</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -3983,7 +4519,11 @@
   <Overview>When a famous psychic fails to help him exorcise Kenny from his body, Cartman takes other steps to achieve his goal. He and Chef travel to the moors of Scotland, where Chef's mom tries a little of her voodoo magic on him. Meanwhile, after the boys encounter with the TV psychic, Kyle is paralyzed with fear at the thought of members of the spirit world watching over him. Only by debunking those who claim they can communicate with the dead can Stan save Kyle.</Overview>
   <ProductionCode>615</ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>37</RatingCount>
+=======
+  <RatingCount>34</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>6</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -4014,12 +4554,20 @@
   <Overview>When a 32 year old man claiming to be Stan from the future shows up in South Park, young Stan is forced to come to terms with the loser he will become. Meanwhile, South Park's own little entrepreneur, Eric Cartman is at the helm a new money making venture. Cartman is in the business of revenge.</Overview>
   <ProductionCode>616</ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>35</RatingCount>
+=======
+  <RatingCount>33</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>6</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179635.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631840</lastupdated>
+=======
+  <lastupdated>1414510363</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9420</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -4045,7 +4593,11 @@
   <Overview>In an effort to redeem himself days before Christmas, Cartman decides to bring Christmas to the Iraqis. So, along with Stan, Kyle, and Kenny they catch a ride with Mr. Hankey to the North Pole to bring Christmas to Iraq.</Overview>
   <ProductionCode>617</ProductionCode>
   <Rating>7.5</Rating>
+<<<<<<< HEAD
   <RatingCount>27</RatingCount>
+=======
+  <RatingCount>26</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>6</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -4168,8 +4720,13 @@
   <Language>en</Language>
   <Overview>After participating in a walk-out against the war in Iraq, Mr. Garrison tells the boys they have to write a report on the founding fathers.  Cartman decides he's going to figure out a way to flashback to the past and learn all about history first hand.</Overview>
   <ProductionCode>701</ProductionCode>
+<<<<<<< HEAD
   <Rating>6.9</Rating>
   <RatingCount>28</RatingCount>
+=======
+  <Rating>7.0</Rating>
+  <RatingCount>27</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -4199,8 +4756,13 @@
   <Language>en</Language>
   <Overview>For a report on Cultural Diversity, Cartman chooses to do one on Latinos in the arts with the help of a Jennifer Lopez hand puppet.  Later, at the mall, the puppet insists they make a music video, which launches the hand puppet's musical career.  There's just one problem, the REAL J-Lo shows up to protest the hand's authenticity.</Overview>
   <ProductionCode>705</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.3</Rating>
   <RatingCount>30</RatingCount>
+=======
+  <Rating>7.2</Rating>
+  <RatingCount>27</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -4231,7 +4793,11 @@
   <Overview>The boys are playing &quot;junior detectives,&quot; and have to find a kidnapped doll. After a daring rescue, they are taken back to Park County Police Headquarters. Upon their arrival, the Chief makes them &quot;real&quot; junior detectives and gives them their first assignment: breaking up a meth lab. The boys soon learn being real detectives isn't as fun as they thought.</Overview>
   <ProductionCode>706</ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>34</RatingCount>
+=======
+  <RatingCount>32</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -4267,7 +4833,11 @@
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179643.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631803</lastupdated>
+=======
+  <lastupdated>1414510714</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9421</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -4293,7 +4863,11 @@
   <Overview>The metrosexual fad has hit South Park thanks to the &quot;Queer Eye Guys,&quot; and all the men in town are affected, except for Kyle and his Dad.  Stan, Kenny, and Cartman give Kyle a makeover, and Gerald isn't far behind. Soon the women of South Park grow tired of the fad, as does Mr. Garrison.</Overview>
   <ProductionCode>708</ProductionCode>
   <Rating>8.1</Rating>
+<<<<<<< HEAD
   <RatingCount>30</RatingCount>
+=======
+  <RatingCount>29</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -4324,7 +4898,11 @@
   <Overview>The boys have hit a crossroads with their band &quot;Moop.&quot; Cartman wants the band to play Christian Rock, and leaves the band when Stan, Kyle, and Kenny don't agree. Before leaving, Cartman bets Kyle $10 that he will get a platinum album with a Christian Rock band before &quot;Moop&quot; can.</Overview>
   <ProductionCode>709</ProductionCode>
   <Rating>7.9</Rating>
+<<<<<<< HEAD
   <RatingCount>27</RatingCount>
+=======
+  <RatingCount>26</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -4354,8 +4932,13 @@
   <Language>en</Language>
   <Overview>Due to a rise in deaths due to senior citizens behind the wheel, the State of Colorado has revoked all the driver licenses of senior citizens.  Soon after, the AARP shows up to fight for the rights of their comrades.</Overview>
   <ProductionCode>710</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.3</Rating>
   <RatingCount>23</RatingCount>
+=======
+  <Rating>7.4</Rating>
+  <RatingCount>22</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -4386,7 +4969,11 @@
   <Overview>Kyle is going to Casa Bonita for his birthday, but he can only bring three friends. He chooses Stan, Kenny, and Butters. Cartman, outraged by not being chosen, comes up with a plan to take Butters out of the picture.</Overview>
   <ProductionCode>711</ProductionCode>
   <Rating>8.0</Rating>
+<<<<<<< HEAD
   <RatingCount>30</RatingCount>
+=======
+  <RatingCount>29</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -4417,7 +5004,11 @@
   <Overview>A new student, Gary Harrison, joins the 4th grade. Gary is a Mormon from Utah. The children decide he needs to get his ass kicked, and they choose Stan to do it. After an awkward exchange of words, Stan is invited to Gary's house, where he learns all about Mormons.</Overview>
   <ProductionCode>712</ProductionCode>
   <Rating>8.0</Rating>
+<<<<<<< HEAD
   <RatingCount>30</RatingCount>
+=======
+  <RatingCount>27</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -4447,13 +5038,22 @@
   <Language>en</Language>
   <Overview>After seeing an auditorium presentation on the dangers of smoking (and in some ways, not smoking), the boys light up behind the school and are soon caught in the middle of Rob Reiner's Anti-Tobacco campaign.</Overview>
   <ProductionCode>713</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.6</Rating>
   <RatingCount>28</RatingCount>
+=======
+  <Rating>7.7</Rating>
+  <RatingCount>25</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179649.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631616</lastupdated>
+=======
+  <lastupdated>1414510828</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9421</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -4479,12 +5079,20 @@
   <Overview>In an effort to find some closure in breaking up with Wendy, the boys take Stan to Raisins (a junior Hooters) so he can forget about her. Meanwhile, a trip to Raisins does big things for Butters, as he falls in love with a waitress.</Overview>
   <ProductionCode>714</ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>24</RatingCount>
+=======
+  <RatingCount>22</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179650.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631874</lastupdated>
+=======
+  <lastupdated>1414510845</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9421</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -4509,13 +5117,22 @@
   <Language>en</Language>
   <Overview>When Ike is claimed by his Canadian birth parents, the boys set out to gain an audience with the Canadian Prime Minister. Meanwhile, Cartman's biggest concern is that the boys don't spend all of Christmas in Canada.</Overview>
   <ProductionCode>715</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.4</Rating>
   <RatingCount>20</RatingCount>
+=======
+  <Rating>7.5</Rating>
+  <RatingCount>19</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>7</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179651.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631179</lastupdated>
+=======
+  <lastupdated>1414510863</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9421</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -4540,13 +5157,22 @@
   <Language>en</Language>
   <Overview>South Park takes on the look of Japanese Anime. The boys are transformed into Japanese Warriors after they buy martial arts weapons at a local flea market. Their sworn enemy, Professor Chaos, confronts them and a highly stylized battle ensues.</Overview>
   <ProductionCode>801</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.9</Rating>
   <RatingCount>38</RatingCount>
+=======
+  <Rating>7.8</Rating>
+  <RatingCount>35</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>8</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179652.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631483</lastupdated>
+=======
+  <lastupdated>1414511135</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9422</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -4572,12 +5198,20 @@
   <Overview>Jimmy is in training for an upcoming sporting event and he’s determined to win at any cost. Cartman feels he can easily take first place against Jimmy. He just has to convince the qualifying committee he’s handicapped.</Overview>
   <ProductionCode>803</ProductionCode>
   <Rating>8.0</Rating>
+<<<<<<< HEAD
   <RatingCount>25</RatingCount>
+=======
+  <RatingCount>23</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>8</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179653.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631751</lastupdated>
+=======
+  <lastupdated>1414910715</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9422</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -4602,13 +5236,22 @@
   <Language>en</Language>
   <Overview>Kyle finally sees “The Passion” and is forced to admit Cartman has been right all along. Meanwhile many of the film’s hardcore fans band together under Cartman’s leadership to carry out it’s message.</Overview>
   <ProductionCode>804</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.8</Rating>
   <RatingCount>28</RatingCount>
+=======
+  <Rating>7.7</Rating>
+  <RatingCount>24</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>8</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179654.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631964</lastupdated>
+=======
+  <lastupdated>1414910722</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9422</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -4633,13 +5276,22 @@
   <Language>en</Language>
   <Overview>It’s up to Stan to put a team of South Park’s best dancers together to compete against a rival troupe from Orange County. While Butters has won awards for his dancing, he refuses to help Stan out, as he hasn’t been able to dance since the tragic death of eight audience members at his last competition.</Overview>
   <ProductionCode>805</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.4</Rating>
   <RatingCount>33</RatingCount>
+=======
+  <Rating>7.3</Rating>
+  <RatingCount>31</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>8</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179655.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631699</lastupdated>
+=======
+  <lastupdated>1414910730</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9422</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -4664,13 +5316,22 @@
   <Language>en</Language>
   <Overview>Cartman dresses up like a robot, calls himself AWESOM-O, and moves in with Butters. His plan is to learn all of Butter’s innermost secrets and then use them against him. While Butters is thrilled to have found a new best friend, the Army believes AWESOM-O is some new secret weapon, and Hollywood is after the phony robot to develop their next big blockbuster.</Overview>
   <ProductionCode>802</ProductionCode>
+<<<<<<< HEAD
   <Rating>8.3</Rating>
   <RatingCount>32</RatingCount>
+=======
+  <Rating>8.2</Rating>
+  <RatingCount>28</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>8</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179656.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631728</lastupdated>
+=======
+  <lastupdated>1414910746</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9422</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -4695,13 +5356,22 @@
   <Language>en</Language>
   <Overview>All the children of South Park are attracted to Mr. Jefferson, his son and their home filled with games, toys and animals. Cartman goes out of his way to get Mr. Jefferson to love him while the local police force resent him for being black and wealthy and decide bring him down.</Overview>
   <ProductionCode>807</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.7</Rating>
   <RatingCount>25</RatingCount>
+=======
+  <Rating>7.6</Rating>
+  <RatingCount>23</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>8</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179657.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631550</lastupdated>
+=======
+  <lastupdated>1414910753</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9422</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -4727,12 +5397,20 @@
   <Overview>Humans from the year 4035 are arriving in droves in South Park! Everything gets a little too crowded when people from the future arrive through a recently discovered time portal. When the boys try to earn some extra money, the time immigrants, who are willing to do the same work for next to nothing, take their jobs.</Overview>
   <ProductionCode>806</ProductionCode>
   <Rating>8.0</Rating>
+<<<<<<< HEAD
   <RatingCount>30</RatingCount>
+=======
+  <RatingCount>28</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>8</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179658.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631463</lastupdated>
+=======
+  <lastupdated>1414910764</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9422</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -4757,13 +5435,22 @@
   <Language>en</Language>
   <Overview>When PETA demonstrates against the use of a cow as South Park Elementary’s mascot, the student body is forced to choose a new one. As the election approaches, Kyle tries to convince everyone that his candidate, a giant douche, is better than Cartman’s nominee, a turd sandwich.</Overview>
   <ProductionCode>808</ProductionCode>
+<<<<<<< HEAD
   <Rating>8.1</Rating>
   <RatingCount>31</RatingCount>
+=======
+  <Rating>7.9</Rating>
+  <RatingCount>28</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>8</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179659.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631234</lastupdated>
+=======
+  <lastupdated>1414511281</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9422</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -4788,13 +5475,22 @@
   <Language>en</Language>
   <Overview>The streets of South Park are like a ghost-town when a giant Wall-Mart lures all the townspeople to the new store with its incredible bargains. Cartman becomes a boy possessed by the power of Wall-Mart and its low, low prices. In order to save their town, Stan and Kyle have to find a way to destroy the ever-expanding superstore while keeping Cartman from stabbing them in the back.</Overview>
   <ProductionCode>809</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.6</Rating>
   <RatingCount>30</RatingCount>
+=======
+  <Rating>7.5</Rating>
+  <RatingCount>28</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>8</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179660.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631600</lastupdated>
+=======
+  <lastupdated>1414511309</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9422</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -4819,13 +5515,22 @@
   <Language>en</Language>
   <Overview>For five long years, Stan, Kyle, Kenny, Cartman and Butters have kept a secret about a horrible incident that happened back in pre-school. Now, the kid who took the fall for the group, Trent Boyett, is getting out of juvie and his first order of business is revenge.</Overview>
   <ProductionCode>810</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.7</Rating>
   <RatingCount>30</RatingCount>
+=======
+  <Rating>7.6</Rating>
+  <RatingCount>28</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>8</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179661.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631983</lastupdated>
+=======
+  <lastupdated>1414511696</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9422</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -4850,13 +5555,22 @@
   <Language>en</Language>
   <Overview>The boys of South Park produce their own morning news show on the school’s closed-circuit television station and are immediately caught up in the intense competition for ratings.</Overview>
   <ProductionCode>811</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.9</Rating>
   <RatingCount>23</RatingCount>
+=======
+  <Rating>7.8</Rating>
+  <RatingCount>21</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>8</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179662.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631327</lastupdated>
+=======
+  <lastupdated>1414511710</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9422</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -4882,12 +5596,20 @@
   <Overview>All the fourth grade girls idolize a rich, famous and spoiled socialite. They even have her brand new toy set that comes complete with video camera, night vision filter, play money and losable cell phone. In an effort to impress their idol, the girls pursue the boys to make their own videos.</Overview>
   <ProductionCode>812</ProductionCode>
   <Rating>7.5</Rating>
+<<<<<<< HEAD
   <RatingCount>26</RatingCount>
+=======
+  <RatingCount>22</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>8</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179663.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433632019</lastupdated>
+=======
+  <lastupdated>1414511350</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9422</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -4913,12 +5635,20 @@
   <Overview>After sustaining a severe head injury, Cartman appears to have the power to see into the future. South Park detectives are quick to enlist his help in cracking unsolved murder cases and Cartman is more than willing to help, for a price. In the meantime, a group of licensed psychics cry foul when Cartman refuses to join their ranks.</Overview>
   <ProductionCode>813</ProductionCode>
   <Rating>7.9</Rating>
+<<<<<<< HEAD
   <RatingCount>29</RatingCount>
+=======
+  <RatingCount>27</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>8</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179664.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631825</lastupdated>
+=======
+  <lastupdated>1414511364</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9422</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -4943,13 +5673,22 @@
   <Language>en</Language>
   <Overview>Stan is approached by the forest critters and asked to help them build a manger in anticipation of the birth of their Lord and Savior. Stan complies, only to find out that they serve a very different Lord.</Overview>
   <ProductionCode>814</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.2</Rating>
   <RatingCount>15</RatingCount>
+=======
+  <Rating>7.3</Rating>
+  <RatingCount>11</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>8</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179665.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631201</lastupdated>
+=======
+  <lastupdated>1414511388</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9422</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -4974,13 +5713,22 @@
   <Language>en</Language>
   <Overview>Mr. Garrison goes to great lengths to get what he’s always wanted…a sex change. As he enjoys his new womanly attributes, the rest of the town gets in touch with their inner feelings too. Meanwhile, Kyle wrestles with the fact that Jews just aren’t good at basketball.</Overview>
   <ProductionCode>901</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.4</Rating>
   <RatingCount>23</RatingCount>
+=======
+  <Rating>7.3</Rating>
+  <RatingCount>21</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>9</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179666.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631228</lastupdated>
+=======
+  <lastupdated>1414512127</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9423</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -5005,13 +5753,22 @@
   <Language>en</Language>
   <Overview>Cartman seeks to rid the world of hippies once and for all.</Overview>
   <ProductionCode>902</ProductionCode>
+<<<<<<< HEAD
   <Rating>8.0</Rating>
   <RatingCount>30</RatingCount>
+=======
+  <Rating>7.9</Rating>
+  <RatingCount>26</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>9</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179667.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631944</lastupdated>
+=======
+  <lastupdated>1414512155</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9423</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -5037,12 +5794,20 @@
   <Overview>As talent agents, Cartman, Stan, Kyle and Kenny can bank 10% of their client’s earnings. After they pool all their resources to impress their one and only client, another agency steals him away. Desperate to earn their money back, they take on another client with plans to launch her on a new reality show.</Overview>
   <ProductionCode>903</ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>22</RatingCount>
+=======
+  <RatingCount>20</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>9</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179668.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631888</lastupdated>
+=======
+  <lastupdated>1414512167</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9423</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -5067,13 +5832,22 @@
   <Language>en</Language>
   <Overview>Kenny is the only one of his friends to get the newest, coolest portable gaming device and Cartman can’t deal with it. Will they remain best friends forever?</Overview>
   <ProductionCode>904</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.8</Rating>
   <RatingCount>33</RatingCount>
+=======
+  <Rating>7.9</Rating>
+  <RatingCount>31</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>9</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179669.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631557</lastupdated>
+=======
+  <lastupdated>1414512182</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9423</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -5098,13 +5872,22 @@
   <Language>en</Language>
   <Overview>If the boys can lose just one baseball game, it gets them out of playing the boring sport for the entire summer.</Overview>
   <ProductionCode>905</ProductionCode>
+<<<<<<< HEAD
   <Rating>8.1</Rating>
   <RatingCount>31</RatingCount>
+=======
+  <Rating>8.0</Rating>
+  <RatingCount>29</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>9</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179670.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631517</lastupdated>
+=======
+  <lastupdated>1414512206</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9423</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -5130,12 +5913,20 @@
   <Overview>Butters is freaked out when he thinks he can communicate with the dead. Although his parents have made it clear to him there are no such things as ghosts, Butters is sure one is haunting him. Butters knows he has to give up his ghost pal or be put into a mental institution.</Overview>
   <ProductionCode>906</ProductionCode>
   <Rating>8.1</Rating>
+<<<<<<< HEAD
   <RatingCount>36</RatingCount>
+=======
+  <RatingCount>34</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>9</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179671.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631713</lastupdated>
+=======
+  <lastupdated>1414512223</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9423</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -5160,13 +5951,22 @@
   <Language>en</Language>
   <Overview>All the kids are getting ready for the big South Park Elementary Talent Show and Jimmy can’t wait to perform his new comedy routines. But lately, just like generations of little boys before him, Jimmy’s noticed that one of his body parts has a mind of its own. Knowing he can’t get up in front of the entire school in an excited state, Jimmy must find a way to gain control of his raging hormones in time to perform in the show.</Overview>
   <ProductionCode>907</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.5</Rating>
   <RatingCount>34</RatingCount>
+=======
+  <Rating>7.4</Rating>
+  <RatingCount>32</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>9</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/179672.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631155</lastupdated>
+=======
+  <lastupdated>1414512238</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9423</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -5191,13 +5991,22 @@
   <Language>en</Language>
   <Overview>A global warming state of emergency is declared in South Park. The world’s largest beaver dam breaks and floods the adjacent town of Beaverton. As the victims wait for help to arrive, everyone in South Park tackles priority number one: who is to blame? Only Stan and Cartman know who’s really at fault.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>8.3</Rating>
   <RatingCount>27</RatingCount>
+=======
+  <Rating>8.2</Rating>
+  <RatingCount>25</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>9</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/300631.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631640</lastupdated>
+=======
+  <lastupdated>1414512291</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9423</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -5223,7 +6032,11 @@
   <Overview>The 4th grade girls are having a sleepover. It’s imperative that the boys find out what goes on behind those closed doors. Butters is picked to be the boy who must fake his death, become a girl and infiltrate this age-old feminine tradition.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.3</Rating>
+<<<<<<< HEAD
   <RatingCount>29</RatingCount>
+=======
+  <RatingCount>27</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>9</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -5254,12 +6067,20 @@
   <Overview>Mrs. Garrison realizes he still has feelings for Mr. Slave. But, Mr. Slave has moved on. He plans to marry his new love as soon as the Governor signs the same-sex marriage bill. Mrs. Garrison leads the charge against gay marriage.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>22</RatingCount>
+=======
+  <RatingCount>20</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>9</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/300936.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631846</lastupdated>
+=======
+  <lastupdated>1414512330</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9423</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -5285,12 +6106,20 @@
   <Overview>Cartman suffers from a mysterious and sudden on-set of the disease, Gingervitus. Sick and tired of being ripped-on because he now has red hair, light skin and freckles, he rallies all ginger kids everywhere to fight against discrimination.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>28</RatingCount>
+=======
+  <RatingCount>27</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>9</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/301106.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631425</lastupdated>
+=======
+  <lastupdated>1414512349</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9423</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -5315,13 +6144,22 @@
   <Language>en</Language>
   <Overview>Religious leaders recognize Stan as the second coming and a whole soap opera unfolds with the help of a famous R&amp;B singer. The results of Stan’s personality test reveal that he’s depressed. While Stan looks to a new religion for answers, the church leaders recognize Stan as the second coming. Some A-List Hollywood celebrities join the faithful who have set up camp right in front of Stan’s house.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.9</Rating>
   <RatingCount>27</RatingCount>
+=======
+  <Rating>7.7</Rating>
+  <RatingCount>25</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>9</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/301211.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631579</lastupdated>
+=======
+  <lastupdated>1414512377</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9423</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -5346,13 +6184,22 @@
   <Language>en</Language>
   <Overview>A “talking” whale inspires the fourth-graders to risk everything to return him to his family. With the police on their tails, the boys enlist the help of a foreign government and embark upon an adventure you’ll not soon forget. One in which the boys learn just how far you would go for a friend.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.8</Rating>
   <RatingCount>25</RatingCount>
+=======
+  <Rating>7.7</Rating>
+  <RatingCount>23</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>9</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/301315.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631667</lastupdated>
+=======
+  <lastupdated>1414512389</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9423</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -5378,12 +6225,20 @@
   <Overview>Stan is embarrassed in front of his friends when his dad gets pulled over for drunk driving. In a neighboring town, a bleeding statue of Mary is discovered and the faithful are flocking to the site hoping to be healed. Stan’s dad is sure the bleeding Virgin can cure him of his disease.</Overview>
   <ProductionCode>914</ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>31</RatingCount>
+=======
+  <RatingCount>29</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>9</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/302787.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631931</lastupdated>
+=======
+  <lastupdated>1414512411</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>9423</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -5409,8 +6264,13 @@
   <Overview>The town is excited when Chef returns to town after world traveling with the “Super Adventure Club,” but the boys notice something is different about Chef.  It seems that Chef’s new sense of adventure has gotten the better of him and the boys try to save him.
 </Overview>
   <ProductionCode>1001</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.8</Rating>
   <RatingCount>27</RatingCount>
+=======
+  <Rating>7.6</Rating>
+  <RatingCount>25</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>10</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -5441,8 +6301,13 @@
   <Overview>Stan is the driving force who gets the citizens of South Park to all buy hybrid cars. Just as everyone starts to feel really good about what they’re doing to help save the earth, a stormy dark mass has started accumulating over the town.
 </Overview>
   <ProductionCode>1002</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.9</Rating>
   <RatingCount>35</RatingCount>
+=======
+  <Rating>7.8</Rating>
+  <RatingCount>33</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>10</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -5474,7 +6339,11 @@
 </Overview>
   <ProductionCode>1003</ProductionCode>
   <Rating>7.9</Rating>
+<<<<<<< HEAD
   <RatingCount>46</RatingCount>
+=======
+  <RatingCount>43</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>10</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -5505,8 +6374,13 @@
   <Overview>With Kyle left behind, Cartman makes his way to FOX to get the Family Guy episode pulled, hoping to ultimately get rid of the show once and for all.
 </Overview>
   <ProductionCode>1004</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.6</Rating>
   <RatingCount>40</RatingCount>
+=======
+  <Rating>7.5</Rating>
+  <RatingCount>37</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>10</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -5537,8 +6411,13 @@
   <Overview>Towelie writes a book and it gets selected for Oprah’s book club.  It becomes a best seller with everyone getting a lot help for their addictions; until a faction of Oprah's staff leak the truth about the book.
 </Overview>
   <ProductionCode>1005</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.1</Rating>
   <RatingCount>29</RatingCount>
+=======
+  <Rating>7.0</Rating>
+  <RatingCount>27</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>10</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -5570,7 +6449,11 @@
 </Overview>
   <ProductionCode>1006</ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>27</RatingCount>
+=======
+  <RatingCount>25</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>10</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -5601,8 +6484,13 @@
   <Overview>When Cartman's mom realizes she can't control her son anymore, she gets help from an expert. Cesar Millan, “The Dog Whisperer&quot; takes on the challenge and while he might have what it takes, Eric Cartman's not going down without a fight.
 </Overview>
   <ProductionCode>1007</ProductionCode>
+<<<<<<< HEAD
   <Rating>8.2</Rating>
   <RatingCount>43</RatingCount>
+=======
+  <Rating>8.1</Rating>
+  <RatingCount>41</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>10</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -5634,7 +6522,11 @@
 </Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.6</Rating>
+<<<<<<< HEAD
   <RatingCount>57</RatingCount>
+=======
+  <RatingCount>55</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>10</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -5665,8 +6557,13 @@
   <Overview>Cartman reveals who masterminded the attacks of 9/11, while Kyle and Stan search for the real truth; meanwhile Mr. Mackey just wants to know who dropped the deuce in the urinal.
 </Overview>
   <ProductionCode>1009</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.9</Rating>
   <RatingCount>35</RatingCount>
+=======
+  <Rating>7.8</Rating>
+  <RatingCount>32</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>10</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -5697,8 +6594,13 @@
   <Overview>Cartman, South Park Elementary’s new hallway monitor, takes it personally when he finds out that a teacher has been kissing a student in his jurisdiction.  He helps Kyle stop his little brother’s affair with his “Nice” hot teacher.
 </Overview>
   <ProductionCode>1010</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.9</Rating>
   <RatingCount>44</RatingCount>
+=======
+  <Rating>7.8</Rating>
+  <RatingCount>42</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>10</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -5729,8 +6631,13 @@
   <Overview>Satan is throwing the world's biggest Halloween costume party, and no one is getting in without a blue wrist band. Unfortunately, even Satan can't plan for everything as a religious organization and the antics of the most notorious serial killers of all time might ruin his good time.
 </Overview>
   <ProductionCode>1011</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.4</Rating>
   <RatingCount>26</RatingCount>
+=======
+  <Rating>7.3</Rating>
+  <RatingCount>23</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>10</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -5762,7 +6669,11 @@
 </Overview>
   <ProductionCode>1012</ProductionCode>
   <Rating>7.9</Rating>
+<<<<<<< HEAD
   <RatingCount>37</RatingCount>
+=======
+  <RatingCount>35</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>10</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -5793,8 +6704,13 @@
   <Overview>Last week, in an attempt to make his wait for the Wii instantaneous, Cartman froze himself. Through a bizarre twist of fate, he woke up 500 years in the future, where there are warring factions, some angry sea otters, and worst of all: No Nintendo Wii! Will Cartman get out of this crazy future? Or will he be doomed to never get his hands on the Wii?
 </Overview>
   <ProductionCode>1013</ProductionCode>
+<<<<<<< HEAD
   <Rating>8.0</Rating>
   <RatingCount>37</RatingCount>
+=======
+  <Rating>7.9</Rating>
+  <RatingCount>35</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>10</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -5825,8 +6741,13 @@
   <Overview>Stan becomes coach of a Pee Wee Hockey team and for the benefit of one his players he tries to make them into a team of winners.  Meanwhile his father deals with the memory of Stan’s performance in a Pee Wee hockey game from years earlier, when Stan had the opportunity to score the game winning goal.
 </Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.2</Rating>
   <RatingCount>33</RatingCount>
+=======
+  <Rating>7.1</Rating>
+  <RatingCount>31</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>10</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -5858,7 +6779,11 @@
 </Overview>
   <ProductionCode>1101</ProductionCode>
   <Rating>8.2</Rating>
+<<<<<<< HEAD
   <RatingCount>51</RatingCount>
+=======
+  <RatingCount>49</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>11</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -5889,8 +6814,13 @@
   <Overview>Butters' dad sends him off to special camp to &quot;Pray the Gay Away&quot; when he believes that his son is bi-curious after catching him in a compromising position with Cartman.  Meanwhile, Cartman does his best to retrieve a photo of him in that compromising position before too many people find out about it.
 </Overview>
   <ProductionCode>1102</ProductionCode>
+<<<<<<< HEAD
   <Rating>8.0</Rating>
   <RatingCount>50</RatingCount>
+=======
+  <Rating>7.9</Rating>
+  <RatingCount>49</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>11</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -5921,13 +6851,22 @@
   <Overview>When a breakout of headlice hits South Park Elementary, Mrs. Garrison refuses to say which child brought the plague to the school. So, Cartman takes it upon himself to find out who it is so the kids can make fun of them. Meanwhile, a louse Travis, is desperate to save his fellow lice from imminent destruction from a conscious world.
 </Overview>
   <ProductionCode>1103</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.6</Rating>
   <RatingCount>27</RatingCount>
+=======
+  <Rating>7.5</Rating>
+  <RatingCount>26</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>11</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/324336.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631660</lastupdated>
+=======
+  <lastupdated>1414512892</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>16748</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -5954,12 +6893,20 @@
 </Overview>
   <ProductionCode>1104</ProductionCode>
   <Rating>7.5</Rating>
+<<<<<<< HEAD
   <RatingCount>35</RatingCount>
+=======
+  <RatingCount>32</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>11</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/324337.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631925</lastupdated>
+=======
+  <lastupdated>1414512905</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>16748</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -5984,13 +6931,22 @@
   <Language>en</Language>
   <Overview>Stan wants to know the real reason kids have to decorate eggs for Easter, and what, if anything eggs and bunnies have to do with Jesus dying for his sins. To get to the bottom of it, Kyle and Stan get wrapped up in a bizarre society that guards a legendary secret.</Overview>
   <ProductionCode>1105</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.6</Rating>
   <RatingCount>30</RatingCount>
+=======
+  <Rating>7.5</Rating>
+  <RatingCount>28</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>11</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/324338.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631301</lastupdated>
+=======
+  <lastupdated>1414512921</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>16748</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -6015,13 +6971,22 @@
   <Language>en</Language>
   <Overview>Once again Ms. Garrison gets dumped, but this time she decides to take it out on her fourth grade class. When the boys have finally had enough of their teacher's erratic mood swings and excessive homework assignments, they find out that there are people-for-hire that can help out in any situation. Meanwhile, Ms. Garrison is finding life without men has its upsides.</Overview>
   <ProductionCode>1106</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.3</Rating>
   <RatingCount>33</RatingCount>
+=======
+  <Rating>7.2</Rating>
+  <RatingCount>31</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>11</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/324339.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631440</lastupdated>
+=======
+  <lastupdated>1414512938</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>16748</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -6046,8 +7011,13 @@
   <Language>en</Language>
   <Overview>The number of homeless people in South Park is increasing as they eat, sleep, and beg for change across the town. While the adults try to find creative solutions to deal with the homeless, the boys are trying to figure out a way to solve the problem for good</Overview>
   <ProductionCode>1107</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.9</Rating>
   <RatingCount>42</RatingCount>
+=======
+  <Rating>7.8</Rating>
+  <RatingCount>40</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>11</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -6078,7 +7048,11 @@
   <Overview>Upon discovering Tourette's syndrome, Cartman becomes mad with power. He finds out he has the ability to say whatever he wants without consequence, so he sets up National TV Coverage to take full advantage of his new found life.</Overview>
   <ProductionCode>1108</ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>37</RatingCount>
+=======
+  <RatingCount>36</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>11</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number>1108</absolute_number>
@@ -6108,8 +7082,13 @@
   <Language>en</Language>
   <Overview>Stan's dad becomes South Park's home-town hero when the guys down at the local bar see the size of his most recent crap. Randy contacts a society that keeps track of the world record, thinking his masterpiece would definitely be a contender.</Overview>
   <ProductionCode>1109</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.7</Rating>
   <RatingCount>31</RatingCount>
+=======
+  <Rating>7.6</Rating>
+  <RatingCount>30</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>11</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number>1109</absolute_number>
@@ -6139,8 +7118,13 @@
   <Language>en</Language>
   <Overview>When the entire contents of the world's imagination lay open before them, Stan and Kyle step right in. Back in South Park, Cartman swears he's seen a leprechaun.</Overview>
   <ProductionCode>1110</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.9</Rating>
   <RatingCount>29</RatingCount>
+=======
+  <Rating>7.8</Rating>
+  <RatingCount>28</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>11</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number>1110</absolute_number>
@@ -6170,8 +7154,13 @@
   <Language>en</Language>
   <Overview>Stan and Kyle are being held captive at the Pentagon until they tell the government exactly how they got into Imaginationland. Elsewhere, Cartman will not give up his quest to make Kyle follow through on their bet to suck his balls.</Overview>
   <ProductionCode>1111</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.9</Rating>
   <RatingCount>31</RatingCount>
+=======
+  <Rating>7.8</Rating>
+  <RatingCount>30</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>11</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -6202,7 +7191,11 @@
   <Overview>Inside Imaginationland, Stan and Butters engage in the battle of their lives as they fight the army of evil imaginary forces. Meanwhile, Cartman goes all the way to the Supreme Court to get Kyle to suck his balls.</Overview>
   <ProductionCode>1112</ProductionCode>
   <Rating>7.9</Rating>
+<<<<<<< HEAD
   <RatingCount>28</RatingCount>
+=======
+  <RatingCount>27</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>11</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number>1112</absolute_number>
@@ -6233,7 +7226,11 @@
   <Overview>Stan and Kyle become obsessed with Guitar Hero to the point where they're breaking high score records. It doesn't take long for Stan to realize that he could go even further with a different partner. Will the stress of being a rock star get to Stan now that his best friend is no longer by his side?</Overview>
   <ProductionCode>1113</ProductionCode>
   <Rating>8.2</Rating>
+<<<<<<< HEAD
   <RatingCount>33</RatingCount>
+=======
+  <RatingCount>31</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>11</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number>1113</absolute_number>
@@ -6264,7 +7261,11 @@
   <Overview>The girls in the fourth grade class have made a secret list that rates every boy's looks from cutest to ugliest. When the boys steal the list, they are completely unprepared to deal with the results.</Overview>
   <ProductionCode>1114</ProductionCode>
   <Rating>8.1</Rating>
+<<<<<<< HEAD
   <RatingCount>29</RatingCount>
+=======
+  <RatingCount>27</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>11</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number>1114</absolute_number>
@@ -6295,7 +7296,11 @@
   <Overview>After going in for a routine tonsillectomy, a botched transfusion leaves Cartman afflicted with an incurable disease. When he finds no comfort in his friends and family, how far will he go to find a cure?</Overview>
   <ProductionCode>1201</ProductionCode>
   <Rating>7.4</Rating>
+<<<<<<< HEAD
   <RatingCount>47</RatingCount>
+=======
+  <RatingCount>45</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>12</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -6325,8 +7330,13 @@
   <Language>en</Language>
   <Overview>While trying to escape her troubles in the secluded mountains near South Park, Britney Spears has a run-in with the boys. Stan and Kyle get swept up in her celebrity as well as the non-stop feeding frenzy that plagues her wherever she goes. The boys must take Britney to the North Pole when they learn the secret behind what makes her so popular.</Overview>
   <ProductionCode>1202</ProductionCode>
+<<<<<<< HEAD
   <Rating>6.9</Rating>
   <RatingCount>36</RatingCount>
+=======
+  <Rating>6.8</Rating>
+  <RatingCount>34</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>12</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -6356,8 +7366,13 @@
   <Language>en</Language>
   <Overview>In a South Park homage to the 1981 film, “Heavy Metal”, the boys are trying to get Kenny off the latest drug craze that’s captured the junior high and under set.</Overview>
   <ProductionCode>1203</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.9</Rating>
   <RatingCount>46</RatingCount>
+=======
+  <Rating>7.8</Rating>
+  <RatingCount>43</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>12</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -6388,7 +7403,11 @@
   <Overview>The head of the World Canadian Bureau leads the country into a long and painful strike and the responsibility of brokering a settlement rests with the boys.</Overview>
   <ProductionCode>1204</ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>35</RatingCount>
+=======
+  <RatingCount>33</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>12</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -6418,8 +7437,13 @@
   <Language>en</Language>
   <Overview>While Ms. Garrison is off trying to find a way to become the man he was always intended to be, Cartman is put in charge of the classroom. </Overview>
   <ProductionCode>1205</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.5</Rating>
   <RatingCount>42</RatingCount>
+=======
+  <Rating>7.4</Rating>
+  <RatingCount>39</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>12</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -6450,12 +7474,20 @@
   <Overview>The citizens of South Park wake up one morning shocked to find the Internet is gone. Upon hearing news that the Internet may remain in California, Randy decides to head out west with the family.</Overview>
   <ProductionCode>1206</ProductionCode>
   <Rating>8.5</Rating>
+<<<<<<< HEAD
   <RatingCount>45</RatingCount>
+=======
+  <RatingCount>43</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>12</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/361332.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433631164</lastupdated>
+=======
+  <lastupdated>1414513302</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>31082</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
@@ -6480,8 +7512,13 @@
   <Language>en</Language>
   <Overview>While the kids are on an educational field trip to a living museum, Cartman makes Butters sneak away from the class to go to the amusement center located next door.</Overview>
   <ProductionCode>1207</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.7</Rating>
   <RatingCount>37</RatingCount>
+=======
+  <Rating>7.6</Rating>
+  <RatingCount>36</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>12</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -6512,7 +7549,11 @@
   <Overview>After watching the intimidating opening ceremonies of the recent Olympic games, Cartman understands that the Chinese are only just days away from invading his homeland. While the rest of the American people are haunted by the memory of a recent tragic event, only Butters will stand with Cartman as he confronts the Chinese. </Overview>
   <ProductionCode>1208</ProductionCode>
   <Rating>7.3</Rating>
+<<<<<<< HEAD
   <RatingCount>44</RatingCount>
+=======
+  <RatingCount>42</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>12</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -6543,7 +7584,11 @@
   <Overview>Wendy gets in trouble when she threatens to beat up Cartman after school. No matter how fired up Wendy is, all bets are on Cartman. Everybody knows a girl can't fight a boy and win.</Overview>
   <ProductionCode>1209</ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>39</RatingCount>
+=======
+  <RatingCount>37</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>12</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -6574,7 +7619,11 @@
   <Overview>The boys find a way to make money off an international crisis that requires no talent and very little effort. Cartman convinces the other boys to invite Craig to get in on their latest plan. He knows Craig has just what it takes to make their dream a reality.</Overview>
   <ProductionCode>1210</ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>38</RatingCount>
+=======
+  <RatingCount>37</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>12</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -6635,8 +7684,13 @@
   <Language>en</Language>
   <Overview>While the country celebrates the outcome of the election, the new President-elect catches everyone off guard when he arrives at the White House prematurely.</Overview>
   <ProductionCode>1212</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.6</Rating>
   <RatingCount>36</RatingCount>
+=======
+  <Rating>7.5</Rating>
+  <RatingCount>35</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>12</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -6666,8 +7720,13 @@
   <Language>en</Language>
   <Overview>Stan realizes he could lose Wendy if he doesn't get on board with the latest fad to hit South Park Elementary. Cartman would rather kill himself than succumb. But, when Stan, Kyle, Kenny and Cartman all realize that Butters is now more popular than they are, they have no choice but to give in to peer pressure.</Overview>
   <ProductionCode>1213</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.3</Rating>
   <RatingCount>31</RatingCount>
+=======
+  <Rating>7.2</Rating>
+  <RatingCount>29</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>12</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -6697,8 +7756,13 @@
   <Language>en</Language>
   <Overview>Butters is sure he’s seen a vampire at school but he can’t get anyone to listen to him. Meanwhile, the Goth Kids are angry and frustrated when the other kids can’t tell the difference between a Goth and a Vampire.</Overview>
   <ProductionCode>1214</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.3</Rating>
   <RatingCount>43</RatingCount>
+=======
+  <Rating>7.2</Rating>
+  <RatingCount>42</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>12</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -6728,8 +7792,13 @@
   <Language>en</Language>
   <Overview>Thinking it's his way into her heart and other body parts, Kenny takes his new girlfriend to a Jonas Brothers concert. His dream of taking their relationship to the next level is crushed when the Jonas Brothers give them purity rings.</Overview>
   <ProductionCode>1301</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.6</Rating>
   <RatingCount>57</RatingCount>
+=======
+  <Rating>7.5</Rating>
+  <RatingCount>56</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>13</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -6759,8 +7828,13 @@
   <Language>en</Language>
   <Overview>“The Coon” rises from the trash and takes his place as a lone vigilante who wipes out crime in the town of South Park. A rival superhero appears on the scene in the form of “Mysterion” and challenges the Coon’s place as a “symbol” for the town.</Overview>
   <ProductionCode>1302</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.3</Rating>
   <RatingCount>52</RatingCount>
+=======
+  <Rating>7.2</Rating>
+  <RatingCount>51</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>13</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -6791,7 +7865,11 @@
   <Overview>Randy steps forward with a solution to fix the desperate financial state everyone finds themselves in. The town gets behind him and everyone starts to live a life that no longer depends on any economy at all. Meanwhile an unlikely savior makes the ultimate sacrifice to solve everyone’s problems. </Overview>
   <ProductionCode>1303</ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>59</RatingCount>
+=======
+  <RatingCount>58</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>13</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -6821,8 +7899,13 @@
   <Language>en</Language>
   <Overview>Someone played an April Fools joke on the boys and it didn't go over well. Butters is incapacitated, Cartman is furious and the rest of the boys are afraid someone might do it again.</Overview>
   <ProductionCode>1304</ProductionCode>
+<<<<<<< HEAD
   <Rating>6.7</Rating>
   <RatingCount>51</RatingCount>
+=======
+  <Rating>6.6</Rating>
+  <RatingCount>49</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>13</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -6852,8 +7935,13 @@
   <Language>en</Language>
   <Overview>Cartman decides to help Jimmy with his comedy routine. Everyone loves the new joke they come up with. The joke starts to take off and it even hits all the late night talk shows. The boys are thrilled with how popular it’s become until somebody tries to take all the credit.</Overview>
   <ProductionCode>1305</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.2</Rating>
   <RatingCount>59</RatingCount>
+=======
+  <Rating>7.1</Rating>
+  <RatingCount>56</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>13</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -6883,8 +7971,13 @@
   <Language>en</Language>
   <Overview>Randy is determined that Stan will win this year's Pinewood Derby. He comes up with a plan that will assure Stan a first place trophy.</Overview>
   <ProductionCode>1306</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.3</Rating>
   <RatingCount>57</RatingCount>
+=======
+  <Rating>7.2</Rating>
+  <RatingCount>53</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>13</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -6914,8 +8007,13 @@
   <Language>en</Language>
   <Overview>Butters and a small group of recruits join Cartman in his dream of living on skull island. Cartman promises that paradise awaits if they can just get to Somalia.</Overview>
   <ProductionCode>1307</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.7</Rating>
   <RatingCount>53</RatingCount>
+=======
+  <Rating>7.6</Rating>
+  <RatingCount>51</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>13</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -6946,7 +8044,11 @@
   <Overview>Powerful forces are tormenting Ike. He's freaked out and the stress could kill him. Kyle and the boys are doing everything they can to save him but the poltergeists won't leave Ike alone.</Overview>
   <ProductionCode>1308</ProductionCode>
   <Rating>7.5</Rating>
+<<<<<<< HEAD
   <RatingCount>55</RatingCount>
+=======
+  <RatingCount>53</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>13</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -6976,8 +8078,13 @@
   <Language>en</Language>
   <Overview>Butters has made it all the way to the 4th grade without ever kissing a girl. All of his friends have been teasing him mercilessly. Butters is determined to catch up with the rest of the boys in his class. Meanwhile, one overly dedicated cop wages war on prostitution in South Park. </Overview>
   <ProductionCode>1309</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.3</Rating>
   <RatingCount>58</RatingCount>
+=======
+  <Rating>7.2</Rating>
+  <RatingCount>57</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>13</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -7008,7 +8115,11 @@
   <Overview>The boys have found their new calling in life and they hurry to sign up for the wrestling club. They soon find out the kind of wrestling they teach at school is not the same thing they saw at the WWE.</Overview>
   <ProductionCode>1310</ProductionCode>
   <Rating>7.2</Rating>
+<<<<<<< HEAD
   <RatingCount>51</RatingCount>
+=======
+  <RatingCount>50</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>13</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -7039,7 +8150,11 @@
   <Overview>Stan and his family are spending his birthday at the Denver Aquarium where they will get to swim with the dolphins. Things turn bloody when the Japanese attack, kill all the dolphins and ruin Stan’s big day. There seems to be no end to the senseless killing. Stan takes on the cause to save the dolphins from the Japanese.</Overview>
   <ProductionCode>1311</ProductionCode>
   <Rating>7.5</Rating>
+<<<<<<< HEAD
   <RatingCount>61</RatingCount>
+=======
+  <RatingCount>60</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>13</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -7069,8 +8184,13 @@
   <Language>en</Language>
   <Overview>Everyone agrees they've had enough of the loud and obnoxious bikers that have arrived in South Park. The boys are taking on the Harley Riders. They thrown down the F word and the game is on.</Overview>
   <ProductionCode>1312</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.3</Rating>
   <RatingCount>56</RatingCount>
+=======
+  <Rating>7.2</Rating>
+  <RatingCount>54</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>13</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -7101,7 +8221,11 @@
   <Overview>Eric Cartman seizes the opportunity to become the voice of change at the school when he takes over the morning announcements. His target is South Park Elementary’s Student Body President, Wendy Testaburger. Cartman is asking the tough questions and gaining followers.</Overview>
   <ProductionCode>1313</ProductionCode>
   <Rating>7.4</Rating>
+<<<<<<< HEAD
   <RatingCount>56</RatingCount>
+=======
+  <RatingCount>53</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>13</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -7131,8 +8255,13 @@
   <Language>en</Language>
   <Overview>Things at the water park are not what they seem. The boys' fun filled day is about to turn deadly. Events are in play at Splash Town that signal the end of the world is upon us. Cartman tries to warn everyone but no one will listen. Disaster is about to strike and the boys are in a race to survive. </Overview>
   <ProductionCode>1314</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.6</Rating>
   <RatingCount>54</RatingCount>
+=======
+  <Rating>7.5</Rating>
+  <RatingCount>53</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>13</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -7194,7 +8323,11 @@
   <Overview>The boys are given a controversial book to read in school that both excites and inspires them to write one of their own. When the boys discover that Stan's mom has found their masterpiece, their new motivation is how they can stay out of trouble. </Overview>
   <ProductionCode>1402</ProductionCode>
   <Rating>7.4</Rating>
+<<<<<<< HEAD
   <RatingCount>87</RatingCount>
+=======
+  <RatingCount>86</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>14</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -7225,7 +8358,11 @@
   <Overview>State Law in Colorado says it's legal to smoke pot if you have a physician's reference. Randy is the first-in-line to buy some but he's turned away because there's absolutely nothing wrong with him. Randy is desperate to get a medical excuse to smoke some weed but meanwhile, Cartman will do anything to get his beloved fried chicken restaurant back.</Overview>
   <ProductionCode>1403</ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>95</RatingCount>
+=======
+  <RatingCount>94</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>14</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -7256,7 +8393,11 @@
   <Overview>Kyle &quot;friended&quot; the wrong person and now all of his old friends are deserting him. His situation is desperate. Kyle looks for help from the one person who has always been there for him.</Overview>
   <ProductionCode>1404</ProductionCode>
   <Rating>8.0</Rating>
+<<<<<<< HEAD
   <RatingCount>100</RatingCount>
+=======
+  <RatingCount>99</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>14</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -7287,7 +8428,11 @@
   <Overview>While on a school field trip, Stan accidentally insults Tom Cruise and sets off a chain reaction. 200 previously ridiculed celebrities stand strong in a class action lawsuit against the town of South Park.</Overview>
   <ProductionCode>1405</ProductionCode>
   <Rating>8.0</Rating>
+<<<<<<< HEAD
   <RatingCount>91</RatingCount>
+=======
+  <RatingCount>90</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>14</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -7318,7 +8463,11 @@
   <Overview>Angry celebrities, violent ginger kids and Mecha Streisand are about to destroy South Park and all anyone wants to know is, “Who is Eric Cartman’s father?”</Overview>
   <ProductionCode>1406</ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>80</RatingCount>
+=======
+  <RatingCount>79</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>14</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -7348,8 +8497,13 @@
   <Language>en</Language>
   <Overview>Competition is the name of the game this summer. There is no time for Jimmy and his friends to slack off. They're working to be this year's champions at summer camp. Jimmy suits up and prepares to shred in the annual surfing contest.</Overview>
   <ProductionCode>1407</ProductionCode>
+<<<<<<< HEAD
   <Rating>6.8</Rating>
   <RatingCount>84</RatingCount>
+=======
+  <Rating>6.7</Rating>
+  <RatingCount>82</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>14</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -7379,8 +8533,13 @@
   <Language>en</Language>
   <Overview>Cartman wants to race with the pros and he's ready to do whatever it takes to make it happen. He's afraid that no matter how hard he tries, he'll never reach the level of the other NASCAR drivers. Working with Butters as his pit boss, Cartman pulls out all the stops to compete in the race of his life.</Overview>
   <ProductionCode>1408</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.3</Rating>
   <RatingCount>107</RatingCount>
+=======
+  <Rating>7.2</Rating>
+  <RatingCount>104</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>14</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -7411,7 +8570,11 @@
   <Overview>New Jersey is rapidly taking over the nation one state at a time and their next stop is South Park.</Overview>
   <ProductionCode>1409</ProductionCode>
   <Rating>7.9</Rating>
+<<<<<<< HEAD
   <RatingCount>99</RatingCount>
+=======
+  <RatingCount>96</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>14</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -7442,7 +8605,11 @@
   <Overview>When Stan is sent to the school counselor because he's holding on to an obscene number of useless possessions, he realizes that Mr. Mackey has a hoarding disorder too.</Overview>
   <ProductionCode>1410</ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>104</RatingCount>
+=======
+  <RatingCount>102</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>14</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -7474,7 +8641,11 @@
 </Overview>
   <ProductionCode>1411</ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>91</RatingCount>
+=======
+  <RatingCount>89</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>14</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -7504,8 +8675,13 @@
   <Language>en</Language>
   <Overview>Led by Mysterion, Coon and Friends are working together to help the people in the Gulf who are at the mercy of the dark lord, Cthulhu. The Coon, scorned by his fellow super heroes and now working alone, is out for revenge.</Overview>
   <ProductionCode>1412</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.6</Rating>
   <RatingCount>88</RatingCount>
+=======
+  <Rating>7.5</Rating>
+  <RatingCount>86</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>14</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -7536,7 +8712,11 @@
   <Overview>The Coon shows himself to be even more evil than the dark lord, Cthulhu, as he punishes his former partners in Coon &amp; Friends. Kenny McCormick, is wrestling with the weight of his own super power through his alter-ego, Mysterion. Will Coon and Friends save the day? Will Mysterion ever come to terms with his ability to defy death? All this as the nation waits and wonders: Where is Captain Hindsight? </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>92</RatingCount>
+=======
+  <RatingCount>90</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>14</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
@@ -7567,7 +8747,11 @@
   <Overview>Stan's life is a shambles both at home and in school. Randy's obsession with the Food Network Is changing everything. It even forces Sharon to explore a new interest of her own.</Overview>
   <ProductionCode>1414</ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>98</RatingCount>
+=======
+  <RatingCount>96</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>14</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -7598,7 +8782,11 @@
   <Overview>Kyle is intimately involved in the development of a revolutionary new product that is about to be launched by Apple. Meanwhile, Cartman doesn't even have a regular iPad and blames his mother.</Overview>
   <ProductionCode>1501</ProductionCode>
   <Rating>7.9</Rating>
+<<<<<<< HEAD
   <RatingCount>121</RatingCount>
+=======
+  <RatingCount>120</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>15</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number>210</absolute_number>
@@ -7628,8 +8816,13 @@
   <Language>en</Language>
   <Overview>At the school's first annual Comedy Awards, Jimmy announces that the Germans are the least funny people in the world. Germany is highly insulted. They vow that retaliation toward the kids at South Park Elementary will be swift and brutal.</Overview>
   <ProductionCode>1502</ProductionCode>
+<<<<<<< HEAD
   <Rating>6.9</Rating>
   <RatingCount>102</RatingCount>
+=======
+  <Rating>6.8</Rating>
+  <RatingCount>100</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>15</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number>211</absolute_number>
@@ -7660,7 +8853,11 @@
   <Overview>The Prince of Canada is about to take a Princess and Ike is obsessed with the Royal Wedding.</Overview>
   <ProductionCode>1503</ProductionCode>
   <Rating>7.0</Rating>
+<<<<<<< HEAD
   <RatingCount>98</RatingCount>
+=======
+  <RatingCount>96</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>15</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number>212</absolute_number>
@@ -7691,7 +8888,11 @@
   <Overview>Cartman is furious when he believes that the school has posted their penis sizes on the bulletin board. He throws an absolute fit; takes matters into his own hands and once again finds himself in the principal's office. This time he gets sent to anger management therapy.</Overview>
   <ProductionCode>1504</ProductionCode>
   <Rating>7.9</Rating>
+<<<<<<< HEAD
   <RatingCount>90</RatingCount>
+=======
+  <RatingCount>89</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>15</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number>213</absolute_number>
@@ -7724,7 +8925,11 @@
 Kyle is brought in on the ground floor of Cartman's latest business venture, the Crack Baby Athletic Adventure. </Overview>
   <ProductionCode>1505</ProductionCode>
   <Rating>7.4</Rating>
+<<<<<<< HEAD
   <RatingCount>91</RatingCount>
+=======
+  <RatingCount>89</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>15</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number>214</absolute_number>
@@ -7755,7 +8960,11 @@ Kyle is brought in on the ground floor of Cartman's latest business venture, the
   <Overview>Butters is diagnosed with multiple personality disorder. Meanwhile, the owner of City Wok is angered when a competing Asian restaurant opens next door.</Overview>
   <ProductionCode>1506</ProductionCode>
   <Rating>7.3</Rating>
+<<<<<<< HEAD
   <RatingCount>92</RatingCount>
+=======
+  <RatingCount>91</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>15</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number>215</absolute_number>
@@ -7786,7 +8995,11 @@ Kyle is brought in on the ground floor of Cartman's latest business venture, the
   <Overview>After Stan celebrates his 10th birthday, he begins to see everything differently. The other boys think he's become a major buzzkill and start to avoid hanging out with him. When Stan and Kyle have a major blow up, the very fabric of South Park begins to unravel.</Overview>
   <ProductionCode>1507</ProductionCode>
   <Rating>7.5</Rating>
+<<<<<<< HEAD
   <RatingCount>92</RatingCount>
+=======
+  <RatingCount>90</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>15</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number>216</absolute_number>
@@ -7817,7 +9030,11 @@ Kyle is brought in on the ground floor of Cartman's latest business venture, the
   <Overview>Cartman finds a unique way of coping with Asperger's Syndrome. Even Kyle and Kenny are on board. Meanwhile, Stan can't seem to get his life back to normal no matter what he tries. Will anything ever be the same in South Park again?</Overview>
   <ProductionCode>1508</ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>80</RatingCount>
+=======
+  <RatingCount>79</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>15</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -7847,8 +9064,13 @@ Kyle is brought in on the ground floor of Cartman's latest business venture, the
   <Language>en</Language>
   <Overview>What begins as an innocent game between the boys turns serious when Cartman joins the U.S. Border Patrol. Not surprisingly, Cartman turns out to be really good at stopping Mexicans.</Overview>
   <ProductionCode>1509</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.8</Rating>
   <RatingCount>73</RatingCount>
+=======
+  <Rating>7.7</Rating>
+  <RatingCount>72</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>15</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -7879,7 +9101,11 @@ Kyle is brought in on the ground floor of Cartman's latest business venture, the
   <Overview>The students of South Park Elementary are the victims of a new gossip website. An elusive hacker has somehow gained access into the student's confidential phone calls and e-mails and is posting all their juicy stories. The boys are shocked when they discover the identity of the hacker.</Overview>
   <ProductionCode>1510</ProductionCode>
   <Rating>7.3</Rating>
+<<<<<<< HEAD
   <RatingCount>89</RatingCount>
+=======
+  <RatingCount>87</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>15</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -7910,7 +9136,11 @@ Kyle is brought in on the ground floor of Cartman's latest business venture, the
   <Overview>Sharon is thrilled that Randy is making an effort to do more things that she enjoys. But, after he takes her to see a hit musical in Denver, Randy becomes Broadway’s biggest fan. Sharon is whisked away to New York and treated to every musical on the Great White Way. </Overview>
   <ProductionCode>1511</ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>74</RatingCount>
+=======
+  <RatingCount>72</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>15</SeasonNumber>
   <Writer>|Trey Parker|Robert Lopez|</Writer>
   <absolute_number></absolute_number>
@@ -7972,7 +9202,11 @@ Kyle is brought in on the ground floor of Cartman's latest business venture, the
   <Overview>After watching a Thanksgiving special on The History Channel, the boys believe that aliens were involved in the original feast. But, questions remain... was the first Thanksgiving haunted? Is alien technology responsible for stuffing? The truth could change Thanksgiving for everyone. </Overview>
   <ProductionCode>1513</ProductionCode>
   <Rating>7.5</Rating>
+<<<<<<< HEAD
   <RatingCount>73</RatingCount>
+=======
+  <RatingCount>71</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>15</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -8003,7 +9237,11 @@ Kyle is brought in on the ground floor of Cartman's latest business venture, the
   <Overview>With their parents in jail, Kenny and his brother and sister find themselves in the foster care system. Cartman is sincerely disturbed when Kenny is taken away. He doesn't know who to rip on for being the poorest kid in school anymore.</Overview>
   <ProductionCode>1514</ProductionCode>
   <Rating>7.5</Rating>
+<<<<<<< HEAD
   <RatingCount>74</RatingCount>
+=======
+  <RatingCount>73</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>15</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -8034,7 +9272,11 @@ Kyle is brought in on the ground floor of Cartman's latest business venture, the
   <Overview>One of the boys had been told time and time again about leaving the toilet seat up after he goes to the bathroom, but he didn't listen. His actions have consequences and ultimately result in an unimaginable catastrophe.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>72</RatingCount>
+=======
+  <RatingCount>71</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>16</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -8065,7 +9307,11 @@ Kyle is brought in on the ground floor of Cartman's latest business venture, the
   <Overview>Cartman launches a gemstones network show and creates a very lucrative business. Stan searches for the real value of a piece of jewelry that was a gift from his Grandpa. Meanwhile, Cartmans lucrative new business preys upon an extremely vulnerable clientele.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>71</RatingCount>
+=======
+  <RatingCount>69</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>16</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -8095,8 +9341,13 @@ Kyle is brought in on the ground floor of Cartman's latest business venture, the
   <Language>en</Language>
   <Overview>Mankind's evolution begins to accelerate at a rapid and disturbing pace. Concurrently, another species on the planet is exhibiting the same drastic development. Eventually the two species will battle to the death and &quot;Faith Hilling&quot; may be humanity's only hope.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.4</Rating>
   <RatingCount>68</RatingCount>
+=======
+  <Rating>7.3</Rating>
+  <RatingCount>66</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>16</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -8127,7 +9378,11 @@ Kyle is brought in on the ground floor of Cartman's latest business venture, the
   <Overview>South Park's big Easter egg hunt is in jeopardy when there are rumors of a dangerous beast lurking in the woods nearby. Cartman tries to warn everyone that their lives are at risk if they participate in the egg hunt. No one believes him until he produces video evidence of the mystery being.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
+<<<<<<< HEAD
   <RatingCount>61</RatingCount>
+=======
+  <RatingCount>60</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>16</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -8157,8 +9412,13 @@ Kyle is brought in on the ground floor of Cartman's latest business venture, the
   <Language>en</Language>
   <Overview>Stan wants to raise awareness about the dangers of bullying by shooting a big dance video, while Butters falls victim to an unlikely bully.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.3</Rating>
   <RatingCount>68</RatingCount>
+=======
+  <Rating>7.2</Rating>
+  <RatingCount>66</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>16</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -8189,7 +9449,11 @@ Kyle is brought in on the ground floor of Cartman's latest business venture, the
   <Overview>The boys try zip-lining in the Colorado mountains on the last day of spring break, but their adventure takes a dangerous, life-threatening turn.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.2</Rating>
+<<<<<<< HEAD
   <RatingCount>63</RatingCount>
+=======
+  <RatingCount>61</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>16</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -8220,7 +9484,11 @@ Kyle is brought in on the ground floor of Cartman's latest business venture, the
   <Overview>Cartman is excited when a new girl comes to school and he discovers something inside that he never knew he had.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
+<<<<<<< HEAD
   <RatingCount>66</RatingCount>
+=======
+  <RatingCount>65</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>16</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -8251,7 +9519,11 @@ Kyle is brought in on the ground floor of Cartman's latest business venture, the
   <Overview>Randy's campaign to prevent head injuries in football radically changes the way the game is played, but the new rules become a national sensation and even make a South Park student a star athlete.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>62</RatingCount>
+=======
+  <RatingCount>60</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>16</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -8282,7 +9554,11 @@ Kyle is brought in on the ground floor of Cartman's latest business venture, the
   <Overview>Cartman owns up to being fat and decides that driving around on a scooter is his right. Kyle sees that Cartman isn't the only one who finds no shame in his unhealthy lifestyle. Meanwhile, Cartman discovers he has a rival in America’s Sweetheart, Honey Boo Boo.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>66</RatingCount>
+=======
+  <RatingCount>65</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>16</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -8312,8 +9588,13 @@ Kyle is brought in on the ground floor of Cartman's latest business venture, the
   <Language>en</Language>
   <Overview>The man who visits all the homes in South Park every day is under suspicion. Cartman takes matters into his own hands and signs up for a home security system.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.9</Rating>
   <RatingCount>57</RatingCount>
+=======
+  <Rating>7.8</Rating>
+  <RatingCount>56</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>16</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -8344,7 +9625,11 @@ Kyle is brought in on the ground floor of Cartman's latest business venture, the
   <Overview>It is time for Butters to begin a journey where he will follow in the path of his Hawaiian ancestors. </Overview>
   <ProductionCode>1611</ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>61</RatingCount>
+=======
+  <RatingCount>60</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>16</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -8374,8 +9659,13 @@ Kyle is brought in on the ground floor of Cartman's latest business venture, the
   <Language>en</Language>
   <Overview>The boys plans to go as the Avengers for Halloween go awry when Randy can’t go at the last minute and Stan has to help his father with a new business venture.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.9</Rating>
   <RatingCount>65</RatingCount>
+=======
+  <Rating>7.8</Rating>
+  <RatingCount>63</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>16</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -8406,7 +9696,11 @@ Kyle is brought in on the ground floor of Cartman's latest business venture, the
   <Overview>Rocked by the recent news of drug use by a beloved icon, the world is left feeling lost and betrayed. The boys, join with the rest of the nation, and remove their yellow wristbands. Everyone is on board, except for Stan, who just can’t seem to cut off his bracelet.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>57</RatingCount>
+=======
+  <RatingCount>55</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>16</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -8437,7 +9731,11 @@ Kyle is brought in on the ground floor of Cartman's latest business venture, the
   <Overview>Eric Cartman is hiding something in his bedroom that could change the entire outcome of the Presidential election. </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>53</RatingCount>
+=======
+  <RatingCount>51</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>16</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
@@ -8467,13 +9765,22 @@ Kyle is brought in on the ground floor of Cartman's latest business venture, the
   <Language>en</Language>
   <Overview>When Cartman manages to get himself behind the doors of the NSA, he doesn’t like what he finds in his personal file. He thinks it’s time he told everyone the truth. Meanwhile, Butters finds someone new to listen to his prayers.</Overview>
   <ProductionCode>1701</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.4</Rating>
   <RatingCount>48</RatingCount>
+=======
+  <Rating>7.3</Rating>
+  <RatingCount>46</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>17</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/4534857.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1419301380</lastupdated>
+=======
+  <lastupdated>1411292781</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>488444</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added>2013-09-23 10:48:54</thumb_added>
@@ -8499,12 +9806,20 @@ Kyle is brought in on the ground floor of Cartman's latest business venture, the
   <Overview>The boys use the game of MINECRAFT as a distraction to keep their parents from hurting each other.</Overview>
   <ProductionCode>1702</ProductionCode>
   <Rating>8.0</Rating>
+<<<<<<< HEAD
   <RatingCount>50</RatingCount>
+=======
+  <RatingCount>47</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>17</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/4670046.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1419301405</lastupdated>
+=======
+  <lastupdated>1411292814</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>488444</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added>2013-10-01 16:36:52</thumb_added>
@@ -8530,12 +9845,20 @@ Kyle is brought in on the ground floor of Cartman's latest business venture, the
   <Overview>Cartman is deeply disturbed by a single person who he sees as a threat to all humanity. He races around the country to put an end to Patient Zero, the ticking time bomb that is Token.</Overview>
   <ProductionCode>1703</ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>51</RatingCount>
+=======
+  <RatingCount>49</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>17</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/4670048.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1419301448</lastupdated>
+=======
+  <lastupdated>1411292841</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>488444</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added>2013-10-08 09:25:26</thumb_added>
@@ -8560,13 +9883,22 @@ Kyle is brought in on the ground floor of Cartman's latest business venture, the
   <Language>en</Language>
   <Overview>One of the Goth kids has been sent to a camp for troubled children. When she returns, her friends find her changed in a disturbing way. With their very existence threatened, the Goths have to do something drastic. They are forced to ask the Vamp kids for help. </Overview>
   <ProductionCode>1704</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.3</Rating>
   <RatingCount>42</RatingCount>
+=======
+  <Rating>7.2</Rating>
+  <RatingCount>40</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>17</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/4671427.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1419301474</lastupdated>
+=======
+  <lastupdated>1411292866</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>488444</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added>2013-10-24 01:23:27</thumb_added>
@@ -8591,13 +9923,22 @@ Kyle is brought in on the ground floor of Cartman's latest business venture, the
   <Language>en</Language>
   <Overview>When Ike hits puberty, he and Kyle start to grow apart. To save their relationship, Kyle takes Ike to see a live performance of Yo Gabba Gabba.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.3</Rating>
   <RatingCount>45</RatingCount>
+=======
+  <Rating>7.2</Rating>
+  <RatingCount>42</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>17</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/4671428.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1419301487</lastupdated>
+=======
+  <lastupdated>1411292889</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>488444</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added>2013-10-29 09:32:48</thumb_added>
@@ -8622,13 +9963,22 @@ Kyle is brought in on the ground floor of Cartman's latest business venture, the
   <Language>en</Language>
   <Overview>Cartman's latest prank has brought about the necessary spiritual conditions for world peace. Religious leaders descend upon South Park to witness a Biblical prophecy that has been fulfilled. Cartman and Kyle are the only two at odds as the world embarks upon a thousand years of peace and harmony.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.2</Rating>
   <RatingCount>45</RatingCount>
+=======
+  <Rating>7.1</Rating>
+  <RatingCount>42</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>17</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/4671429.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1419301521</lastupdated>
+=======
+  <lastupdated>1411292937</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>488444</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added>2013-11-06 07:33:01</thumb_added>
@@ -8645,7 +9995,7 @@ Kyle is brought in on the ground floor of Cartman's latest business venture, the
   <DVD_season></DVD_season>
   <Director>Trey Parker</Director>
   <EpImgFlag>2</EpImgFlag>
-  <EpisodeName>Black Friday</EpisodeName>
+  <EpisodeName>Black Friday (1)</EpisodeName>
   <EpisodeNumber>7</EpisodeNumber>
   <FirstAired>2013-11-13</FirstAired>
   <GuestStars></GuestStars>
@@ -8654,12 +10004,20 @@ Kyle is brought in on the ground floor of Cartman's latest business venture, the
   <Overview>Anticipation for the biggest shopping day of the year is building. The dark days of winter are coming and that can only mean one thing: the fight to be the first in the mall on Black Friday has begun. The boys prepare to battle the crowds the day after Thanksgiving to get the best deal on the new gaming systems.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>49</RatingCount>
+=======
+  <RatingCount>46</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>17</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number>244</absolute_number>
   <filename>episodes/75897/4671430.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1427010549</lastupdated>
+=======
+  <lastupdated>1412153374</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>488444</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added>2013-11-13 12:46:09</thumb_added>
@@ -8676,7 +10034,7 @@ Kyle is brought in on the ground floor of Cartman's latest business venture, the
   <DVD_season></DVD_season>
   <Director>Trey Parker</Director>
   <EpImgFlag>2</EpImgFlag>
-  <EpisodeName>A Song of Ass and Fire</EpisodeName>
+  <EpisodeName>A Song of Ass and Fire (2)</EpisodeName>
   <EpisodeNumber>8</EpisodeNumber>
   <FirstAired>2013-11-20</FirstAired>
   <GuestStars></GuestStars>
@@ -8685,12 +10043,20 @@ Kyle is brought in on the ground floor of Cartman's latest business venture, the
   <Overview>Hordes of souless shoppers approach the mall in anticipation of the Black Friday sales. The kids prepare for an epic battle where one faction's favorite gaming device will come out on top. Will Stan and Kyle's friendship survive Black Friday?</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
+<<<<<<< HEAD
   <RatingCount>45</RatingCount>
+=======
+  <RatingCount>42</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>17</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/4671431.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1427010556</lastupdated>
+=======
+  <lastupdated>1412153391</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>488444</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added>2013-11-19 11:51:53</thumb_added>
@@ -8707,7 +10073,7 @@ Kyle is brought in on the ground floor of Cartman's latest business venture, the
   <DVD_season></DVD_season>
   <Director>Trey Parker</Director>
   <EpImgFlag>2</EpImgFlag>
-  <EpisodeName>Titties and Dragons</EpisodeName>
+  <EpisodeName>Titties and Dragons (3)</EpisodeName>
   <EpisodeNumber>9</EpisodeNumber>
   <FirstAired>2013-12-04</FirstAired>
   <GuestStars></GuestStars>
@@ -8715,13 +10081,22 @@ Kyle is brought in on the ground floor of Cartman's latest business venture, the
   <Language>en</Language>
   <Overview>The doors to the mall will finally open for the biggest Black Friday sale in history. The boys are divided over which gaming device to buy and a bloody battle will determine whether Xbox or Sony will be the winner.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.7</Rating>
   <RatingCount>44</RatingCount>
+=======
+  <Rating>7.6</Rating>
+  <RatingCount>41</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>17</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/4671432.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1427010561</lastupdated>
+=======
+  <lastupdated>1413065788</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>488444</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added>2013-12-03 18:36:28</thumb_added>
@@ -8747,12 +10122,20 @@ Kyle is brought in on the ground floor of Cartman's latest business venture, the
   <Overview>When Wendy tries to prove a point about how much pressure little girls feel to look like celebrities, it gets her in trouble with everyone at school, and gets Clyde a new girlfriend.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>40</RatingCount>
+=======
+  <RatingCount>39</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>17</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/75897/4671433.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1419301596</lastupdated>
+=======
+  <lastupdated>1411293032</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>488444</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added>2013-12-10 10:56:33</thumb_added>
@@ -8777,13 +10160,22 @@ Kyle is brought in on the ground floor of Cartman's latest business venture, the
   <Language>en</Language>
   <Overview>After Cartman and the boys name their new company, The Washington Redskins, they just sit back and watch the funding roll in. The head coach of the Washington Redskins football team demands that they change the name but Cartman digs in his heels. The Washington Redskins may never mean the same thing ever again.</Overview>
   <ProductionCode>1801</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.1</Rating>
   <RatingCount>24</RatingCount>
+=======
+  <Rating>7.2</Rating>
+  <RatingCount>19</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>18</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number>248</absolute_number>
   <filename>episodes/75897/4951102.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1429614560</lastupdated>
+=======
+  <lastupdated>1412258954</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>592918</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added>2014-09-23 07:57:43</thumb_added>
@@ -8809,12 +10201,20 @@ Kyle is brought in on the ground floor of Cartman's latest business venture, the
   <Overview>Mr. Mackey is now gluten free and everyone is annoyed when he won’t quit preaching about how great he feels. But, after witnessing a disturbing demonstration of what happens to your body when you do eat gluten, South Park becomes the first town in America to go gluten free.</Overview>
   <ProductionCode>1802</ProductionCode>
   <Rating>7.5</Rating>
+<<<<<<< HEAD
   <RatingCount>26</RatingCount>
+=======
+  <RatingCount>21</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>18</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number>249</absolute_number>
   <filename>episodes/75897/4999636.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1429614581</lastupdated>
+=======
+  <lastupdated>1412557393</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>592918</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added>2014-09-28 23:11:54</thumb_added>
@@ -8840,12 +10240,20 @@ Kyle is brought in on the ground floor of Cartman's latest business venture, the
   <Overview>Stan is searching for answers about how a person who he’s always known to be one thing could suddenly identify with another. In the meantime, the pressure of holding on to a giant secret is starting to get to Randy.</Overview>
   <ProductionCode>1803</ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>25</RatingCount>
+=======
+  <RatingCount>17</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>18</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number>250</absolute_number>
   <filename>episodes/75897/4999637.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1429614607</lastupdated>
+=======
+  <lastupdated>1413595340</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>592918</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added>2014-10-06 21:38:34</thumb_added>
@@ -8870,13 +10278,22 @@ Kyle is brought in on the ground floor of Cartman's latest business venture, the
   <Language>en</Language>
   <Overview>Timmy’s idea to raise money for the summer camp has everyone in South Park trying out the latest trend in transportation. Timmy’s success makes him a lot of enemies and a bloodbath of epic proportions is on the horizon.</Overview>
   <ProductionCode>1804</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.3</Rating>
   <RatingCount>23</RatingCount>
+=======
+  <Rating>7.1</Rating>
+  <RatingCount>14</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>18</SeasonNumber>
   <Writer>Trey Parker</Writer>
   <absolute_number>251</absolute_number>
   <filename>episodes/75897/5011511.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1429614653</lastupdated>
+=======
+  <lastupdated>1414116967</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>592918</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added>2014-10-13 06:41:53</thumb_added>
@@ -8891,7 +10308,11 @@ Kyle is brought in on the ground floor of Cartman's latest business venture, the
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
+<<<<<<< HEAD
   <Director>Trey Parker</Director>
+=======
+  <Director></Director>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>The Magic Bush</EpisodeName>
   <EpisodeNumber>5</EpisodeNumber>
@@ -8902,6 +10323,7 @@ Kyle is brought in on the ground floor of Cartman's latest business venture, the
   <Overview>Cartman and Butters get their hands on a drone and can’t resist the urge to take it for a spin around the neighborhood.
 A scandalous invasion of privacy has everyone in South Park on edge.</Overview>
   <ProductionCode>1805</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.4</Rating>
   <RatingCount>24</RatingCount>
   <SeasonNumber>18</SeasonNumber>
@@ -8909,6 +10331,15 @@ A scandalous invasion of privacy has everyone in South Park on edge.</Overview>
   <absolute_number>252</absolute_number>
   <filename>episodes/75897/5011512.jpg</filename>
   <lastupdated>1429614689</lastupdated>
+=======
+  <Rating>7.3</Rating>
+  <RatingCount>12</RatingCount>
+  <SeasonNumber>18</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>252</absolute_number>
+  <filename>episodes/75897/5011512.jpg</filename>
+  <lastupdated>1414385624</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>592918</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added>2014-10-26 21:46:33</thumb_added>
@@ -8923,9 +10354,15 @@ A scandalous invasion of privacy has everyone in South Park on edge.</Overview>
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
+<<<<<<< HEAD
   <Director>Trey Parker</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Freemium Isn't Free</EpisodeName>
+=======
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Freemium Isn’t Free</EpisodeName>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <EpisodeNumber>6</EpisodeNumber>
   <FirstAired>2014-11-05</FirstAired>
   <GuestStars></GuestStars>
@@ -8934,6 +10371,7 @@ A scandalous invasion of privacy has everyone in South Park on edge.</Overview>
   <Overview>The kids in “South Park” are playing the new Terrance and Phillip mobile game. Stan is addicted to the latest app to hit the market. Meanwhile, Terrance and Phillip aren’t feeling so good about the fortune they’re making on their new mobile game.
 </Overview>
   <ProductionCode>1806</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.6</Rating>
   <RatingCount>23</RatingCount>
   <SeasonNumber>18</SeasonNumber>
@@ -8941,6 +10379,15 @@ A scandalous invasion of privacy has everyone in South Park on edge.</Overview>
   <absolute_number>253</absolute_number>
   <filename>episodes/75897/5011514.jpg</filename>
   <lastupdated>1429614727</lastupdated>
+=======
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>18</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>253</absolute_number>
+  <filename>episodes/75897/5011514.jpg</filename>
+  <lastupdated>1415025886</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>592918</seasonid>
   <seriesid>75897</seriesid>
   <thumb_added>2014-11-03 06:44:46</thumb_added>
@@ -8955,14 +10402,21 @@ A scandalous invasion of privacy has everyone in South Park on edge.</Overview>
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
+<<<<<<< HEAD
   <Director>Trey Parker</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Grounded Vindaloop</EpisodeName>
+=======
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>TBA</EpisodeName>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <EpisodeNumber>7</EpisodeNumber>
   <FirstAired>2014-11-12</FirstAired>
   <GuestStars></GuestStars>
   <IMDB_ID></IMDB_ID>
   <Language>en</Language>
+<<<<<<< HEAD
   <Overview>Butters is convinced that he’s living in a virtual reality. When he suddenly goes rogue and wreaks havoc at home and all over South Park, everyone struggles to figure out what’s real.</Overview>
   <ProductionCode>1807</ProductionCode>
   <Rating>7.7</Rating>
@@ -8977,6 +10431,22 @@ A scandalous invasion of privacy has everyone in South Park on edge.</Overview>
   <thumb_added>2014-11-10 00:08:20</thumb_added>
   <thumb_height>225</thumb_height>
   <thumb_width>400</thumb_width>
+=======
+  <Overview></Overview>
+  <ProductionCode>1807</ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>18</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>254</absolute_number>
+  <filename></filename>
+  <lastupdated>1414498743</lastupdated>
+  <seasonid>592918</seasonid>
+  <seriesid>75897</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
 </Episode>
 <Episode>
   <id>5011516</id>
@@ -8986,6 +10456,7 @@ A scandalous invasion of privacy has everyone in South Park on edge.</Overview>
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
+<<<<<<< HEAD
   <Director>Trey Parker</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Cock Magic</EpisodeName>
@@ -9008,6 +10479,30 @@ A scandalous invasion of privacy has everyone in South Park on edge.</Overview>
   <thumb_added>2014-11-17 07:33:55</thumb_added>
   <thumb_height>225</thumb_height>
   <thumb_width>400</thumb_width>
+=======
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>TBA</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2014-11-19</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode>1808</ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>18</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>255</absolute_number>
+  <filename></filename>
+  <lastupdated>1414498745</lastupdated>
+  <seasonid>592918</seasonid>
+  <seriesid>75897</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
 </Episode>
 <Episode>
   <id>5011517</id>
@@ -9017,6 +10512,7 @@ A scandalous invasion of privacy has everyone in South Park on edge.</Overview>
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
+<<<<<<< HEAD
   <Director>Trey Parker</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>#REHASH</EpisodeName>
@@ -9039,6 +10535,30 @@ A scandalous invasion of privacy has everyone in South Park on edge.</Overview>
   <thumb_added>2014-12-02 00:15:27</thumb_added>
   <thumb_height>225</thumb_height>
   <thumb_width>400</thumb_width>
+=======
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>TBA</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2014-12-03</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode>1809</ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>18</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>256</absolute_number>
+  <filename></filename>
+  <lastupdated>1414498746</lastupdated>
+  <seasonid>592918</seasonid>
+  <seriesid>75897</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
 </Episode>
 <Episode>
   <id>5011518</id>
@@ -9048,6 +10568,7 @@ A scandalous invasion of privacy has everyone in South Park on edge.</Overview>
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
+<<<<<<< HEAD
   <Director>Trey Parker</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>#HappyHolograms</EpisodeName>
@@ -9097,6 +10618,26 @@ A scandalous invasion of privacy has everyone in South Park on edge.</Overview>
   <filename></filename>
   <lastupdated>1434461636</lastupdated>
   <seasonid>626156</seasonid>
+=======
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>TBA</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2014-12-10</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3959654</IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode>1810</ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>18</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>257</absolute_number>
+  <filename></filename>
+  <lastupdated>1414498748</lastupdated>
+  <seasonid>592918</seasonid>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seriesid>75897</seriesid>
   <thumb_added></thumb_added>
   <thumb_height></thumb_height>

@@ -13,17 +13,28 @@
   <NetworkID></NetworkID>
   <Overview>The series follows a Federal Bureau of Investigation &quot;Fringe Division&quot; team based in Boston. The team uses unorthodox &quot;fringe&quot; science and FBI investigative techniques to investigate a series of unexplained, often ghastly occurrences, some of which are related to mysteries surrounding a parallel universe.</Overview>
   <Rating>8.7</Rating>
+<<<<<<< HEAD
   <RatingCount>684</RatingCount>
+=======
+  <RatingCount>672</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <Runtime>60</Runtime>
   <SeriesID>75146</SeriesID>
   <SeriesName>Fringe</SeriesName>
   <Status>Ended</Status>
   <added></added>
   <addedBy></addedBy>
+<<<<<<< HEAD
   <banner>graphical/82066-g20.jpg</banner>
   <fanart>fanart/original/82066-72.jpg</fanart>
   <lastupdated>1433917062</lastupdated>
   <poster>posters/82066-46.jpg</poster>
+=======
+  <banner>graphical/82066-g44.jpg</banner>
+  <fanart>fanart/original/82066-74.jpg</fanart>
+  <lastupdated>1414959344</lastupdated>
+  <poster>posters/82066-6.jpg</poster>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>SH01059103</zap2it_id>
 </Series>
@@ -556,7 +567,11 @@
   <Overview>When all the passengers on a plane die, FBI agent Olivia Dunham investigates the events and her partner almost dies. A desperate Olivia looks for help from Dr. Walter Bishop who has been institutionalized. Olivia, Dr. Bishop and his son Peter begin to discover what really happened on Flight 627 and begin to uncover a larger truth.</Overview>
   <ProductionCode>276038</ProductionCode>
   <Rating>7.9</Rating>
+<<<<<<< HEAD
   <RatingCount>246</RatingCount>
+=======
+  <RatingCount>245</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>|J.J. Abrams|Roberto Orci|Alex Kurtzman|</Writer>
   <absolute_number></absolute_number>
@@ -1427,7 +1442,7 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <Overview>After a cargo ship runs aground, the shoreline becomes littered with bodies hosting a giant squid-like creature. The Fringe team descends upon the scene to examine the bodies and discovers that the mysterious organisms are actually giant parasites. As the investigation unfolds, Walter heads back to the lab while Olivia, Peter and Broyles race against time when they realize the case has ties to a threatening organization.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
-  <RatingCount>209</RatingCount>
+  <RatingCount>210</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>David Wilcox</Writer>
   <absolute_number></absolute_number>
@@ -1458,7 +1473,11 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <Overview>A patient at a mental hospital undergoes impromptu surgery that leaves his brain exposed. William Bell resurfaces during the investigation of the strange circumstances and Olivia finds reason that the leader of the shape-shifters may have something to do with it.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>223</RatingCount>
+=======
+  <RatingCount>222</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Ashley Edward Miller|Zack Stentz|</Writer>
   <absolute_number></absolute_number>
@@ -1678,7 +1697,7 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <Overview>When a perfectly healthy woman is found dead from a disease she never had, the Fringe team investigates the origin of this inexplicably fatal condition before it claims more innocent victims. Meanwhile, Olivia struggles to keep Walter's secret from Peter, and her loyalty to Peter is tested as time goes on.</Overview>
   <ProductionCode>FR-216</ProductionCode>
   <Rating>7.5</Rating>
-  <RatingCount>276</RatingCount>
+  <RatingCount>277</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>Matthew Pitts</Writer>
   <absolute_number></absolute_number>
@@ -1802,7 +1821,11 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <Overview>Peter teams up with a local law enforcement official, Sheriff Mathis, on a serial murder investigation with ties to Newton. Meanwhile, Walter copes with the possibility of being sent back to St. Claire's, and someone from the &quot;other side&quot; pays a visit.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>286</RatingCount>
+=======
+  <RatingCount>285</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Ashley Edward|Miller Nora|Zuckerman|Lilla Zuckerman|Zack Stentz|</Writer>
   <absolute_number></absolute_number>
@@ -1833,7 +1856,11 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <Overview>In part one of the two-part, two-night second season finale, Walter and Olivia travel to the parallel universe, and the anticipated face-off between Walter Bishop and William Bell occurs.</Overview>
   <ProductionCode>FR-221</ProductionCode>
   <Rating>7.9</Rating>
+<<<<<<< HEAD
   <RatingCount>283</RatingCount>
+=======
+  <RatingCount>282</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Akiva Goldsman|J.H. Wyman|Jeff Pinkner|</Writer>
   <absolute_number></absolute_number>
@@ -1931,7 +1958,11 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <Writer>|Josh Singer|Graham Roland|</Writer>
   <absolute_number>45</absolute_number>
   <filename>episodes/82066/2788771.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431172486</lastupdated>
+=======
+  <lastupdated>1414020828</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>280471</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -1962,7 +1993,11 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <Writer>|Alison Schapker|Monica Breen|</Writer>
   <absolute_number>46</absolute_number>
   <filename>episodes/82066/2817211.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431172470</lastupdated>
+=======
+  <lastupdated>1414020886</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>280471</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -1993,7 +2028,11 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <Writer>|David Wilcox|Matthew Pitts|</Writer>
   <absolute_number>47</absolute_number>
   <filename>episodes/82066/2847821.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431172569</lastupdated>
+=======
+  <lastupdated>1414920328</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>280471</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -2087,7 +2126,11 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <Writer>|David Wilcox|Graham Roland|</Writer>
   <absolute_number>50</absolute_number>
   <filename>episodes/82066/2971191.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431172358</lastupdated>
+=======
+  <lastupdated>1414020213</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>280471</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -2118,7 +2161,11 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <Writer>|Jeff Pinkner|J.H. Wyman|</Writer>
   <absolute_number>51</absolute_number>
   <filename>episodes/82066/3135931.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431172721</lastupdated>
+=======
+  <lastupdated>1414020345</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>280471</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -2149,7 +2196,11 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <Writer>|Monica Owusa-Breen|Alison Schapker|</Writer>
   <absolute_number>52</absolute_number>
   <filename>episodes/82066/3191751.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431172674</lastupdated>
+=======
+  <lastupdated>1414020456</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>280471</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -2180,7 +2231,11 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <Writer>|J. H. Wyman|Jeff Pinkner|</Writer>
   <absolute_number>53</absolute_number>
   <filename>episodes/82066/3267501.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431172784</lastupdated>
+=======
+  <lastupdated>1414020512</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>280471</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -2211,7 +2266,11 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <Writer>Josh Singer</Writer>
   <absolute_number>54</absolute_number>
   <filename>episodes/82066/3458521.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431172694</lastupdated>
+=======
+  <lastupdated>1414020588</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>280471</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -2242,7 +2301,11 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <Writer>|Matt Pitts|Graham Roland|</Writer>
   <absolute_number>55</absolute_number>
   <filename>episodes/82066/3466061.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431172507</lastupdated>
+=======
+  <lastupdated>1414116577</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>280471</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -2268,12 +2331,20 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <Overview>As the story shifts back to life “over there,” the absence of Colonel Broyles changes the dynamic of the Fringe Team as they investigate a bioterrorist armed with an insect that has a taste for human flesh. Meanwhile, alternate Olivia is reunited with her beau, and Walternate remains determined to save his world but discovers there are certain lines he will not cross.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>290</RatingCount>
+=======
+  <RatingCount>292</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>|David Wilcox|Ethan Gross|</Writer>
   <absolute_number>56</absolute_number>
   <filename>episodes/82066/3502081.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431172320</lastupdated>
+=======
+  <lastupdated>1414194499</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>280471</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -2304,7 +2375,11 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <Writer>|Glen Whitman|Robert Chiappetta|</Writer>
   <absolute_number>57</absolute_number>
   <filename>episodes/82066/3606051.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431172462</lastupdated>
+=======
+  <lastupdated>1414768158</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>280471</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -2335,7 +2410,11 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <Writer>|Jeff Pinkner|J. H. Wyman|Akiva Goldsman|</Writer>
   <absolute_number>58</absolute_number>
   <filename>episodes/82066/3606061.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431172579</lastupdated>
+=======
+  <lastupdated>1414768188</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>280471</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -2366,7 +2445,11 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <Writer>|Josh Singer|Graham Roland|</Writer>
   <absolute_number>59</absolute_number>
   <filename>episodes/82066/3783081.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431172388</lastupdated>
+=======
+  <lastupdated>1414768206</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>280471</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -2397,7 +2480,11 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <Writer>Danielle Dispaltro</Writer>
   <absolute_number>60</absolute_number>
   <filename>episodes/82066/3789041.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431172792</lastupdated>
+=======
+  <lastupdated>1414768229</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>280471</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -2428,7 +2515,11 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <Writer>|Alison Schapker|Monica Breen|</Writer>
   <absolute_number>61</absolute_number>
   <filename>episodes/82066/3832681.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431172476</lastupdated>
+=======
+  <lastupdated>1414920311</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>280471</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -2614,7 +2705,11 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <Writer>|Alison Schapker|Monica Owusu-Breen|</Writer>
   <absolute_number>67</absolute_number>
   <filename>episodes/82066/4169646.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433876683</lastupdated>
+=======
+  <lastupdated>1408808600</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>468438</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -2676,7 +2771,11 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <Writer>|Jeff Pinkner|J. H. Wyman|Akiva Goldsmith|</Writer>
   <absolute_number>69</absolute_number>
   <filename>episodes/82066/4174454.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433876713</lastupdated>
+=======
+  <lastupdated>1409932891</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>468438</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -2986,7 +3085,11 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <Writer>David Fury</Writer>
   <absolute_number>79</absolute_number>
   <filename>episodes/82066/4235822.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433876984</lastupdated>
+=======
+  <lastupdated>1408801299</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>468438</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -3111,7 +3214,11 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <Writer>Christine Lavaf</Writer>
   <absolute_number>83</absolute_number>
   <filename>episodes/82066/4289029.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433877056</lastupdated>
+=======
+  <lastupdated>1408801336</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>468438</seasonid>
   <seriesid>82066</seriesid>
   <thumb_added></thumb_added>
@@ -3168,7 +3275,11 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <Overview>The teams on both sides fight on for a common cause, and there are shocking developments tied to the Cortexiphan children.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>211</RatingCount>
+=======
+  <RatingCount>210</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Graham Roland|Matt Pitts|Nicole Phillips|</Writer>
   <absolute_number>85</absolute_number>
@@ -3199,7 +3310,11 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <Overview>A mysterious Fringe event causing people to spontaneously combust forces Walter to revisit his painful past while the Fringe team faces off against David Robert Jones to save the world, or worlds.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>215</RatingCount>
+=======
+  <RatingCount>214</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Akiva Goldsman|Jeff Pinkner|J. H. Wyman|</Writer>
   <absolute_number>86</absolute_number>
@@ -3571,7 +3686,11 @@ Walter also tries to recreate Olivia's accident using frogs and Charlie tries to
   <Overview>As time dramatically ticks down, Peter, Olivia and Walter stop at nothing to save the universe from Observer rule. Walter enters the infamous deprivation tank in an attempt to uncover a key piece of information about the mysterious figure, Donald. Meanwhile, Captain Windmark sets out on a revealing mission of his own as long-standing questions are answered.</Overview>
   <ProductionCode>3X7511</ProductionCode>
   <Rating>7.9</Rating>
+<<<<<<< HEAD
   <RatingCount>158</RatingCount>
+=======
+  <RatingCount>157</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>5</SeasonNumber>
   <Writer>Graham Roland</Writer>
   <absolute_number>98</absolute_number>

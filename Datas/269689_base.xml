@@ -7,24 +7,39 @@
     <Airs_Time>10:00 PM</Airs_Time>
     <ContentRating>TV-MA</ContentRating>
     <FirstAired>2014-06-30</FirstAired>
+<<<<<<< HEAD
     <Genre>|Drama|Fantasy|Mystery|</Genre>
+=======
+    <Genre>|Drama|Mystery|</Genre>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <IMDB_ID>tt2699128</IMDB_ID>
     <Language>en</Language>
     <Network>HBO</Network>
     <NetworkID></NetworkID>
     <Overview>When 2% of the world’s population abruptly disappears without explanation, the world struggles to come to terms with what happened. Three years later, the HBO drama series, 'The Leftovers' is the story of the people who didn’t make the cut.</Overview>
     <Rating>7.3</Rating>
+<<<<<<< HEAD
     <RatingCount>29</RatingCount>
+=======
+    <RatingCount>20</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <Runtime>60</Runtime>
     <SeriesID>81855</SeriesID>
     <SeriesName>The Leftovers</SeriesName>
     <Status>Continuing</Status>
     <added>2013-05-11 13:55:36</added>
     <addedBy>386372</addedBy>
+<<<<<<< HEAD
     <banner>graphical/269689-g6.jpg</banner>
     <fanart>fanart/original/269689-5.jpg</fanart>
     <lastupdated>1434987296</lastupdated>
     <poster>posters/269689-11.jpg</poster>
+=======
+    <banner>graphical/269689-g4.jpg</banner>
+    <fanart>fanart/original/269689-5.jpg</fanart>
+    <lastupdated>1414587806</lastupdated>
+    <poster>posters/269689-2.jpg</poster>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <tms_wanted_old>0</tms_wanted_old>
     <zap2it_id>EP01859597</zap2it_id>
   </Series>

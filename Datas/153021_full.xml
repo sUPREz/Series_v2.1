@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Data><Series>
   <id>153021</id>
+<<<<<<< HEAD
   <Actors>|Andrew Lincoln|Norman Reedus|Steven Yeun|Chandler Riggs|Danai Gurira|Josh McDermitt|Christian Serratos|Michael Cudlitz|Alanna Masterson|Lawrence Gilliard Jr.|Dallas Roberts|Chad L. Coleman|Sonequa Martin-Green|Melissa McBride|David Morrissey|Michael Rooker|Emily Kinney|Scott Wilson|Irone Singleton|Lauren Cohan|Emma Bell|Laurie Holden|Jeffrey DeMunn|Jon Bernthal|Sarah Wayne Callies|</Actors>
+=======
+  <Actors>|Andrew Lincoln|Steven Yeun|Chandler Riggs|Danai Gurira|Norman Reedus|Josh McDermitt|Christian Serratos|Michael Cudlitz|Alanna Masterson|Lawrence Gilliard Jr.|Dallas Roberts|Chad L. Coleman|Sonequa Martin-Green|Melissa McBride|David Morrissey|Michael Rooker|Emily Kinney|Scott Wilson|Irone Singleton|Lauren Cohan|Emma Bell|Laurie Holden|Jeffrey DeMunn|Jon Bernthal|Sarah Wayne Callies|</Actors>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <Airs_DayOfWeek>Sunday</Airs_DayOfWeek>
   <Airs_Time>9:00 PM</Airs_Time>
   <ContentRating>TV-MA</ContentRating>
@@ -14,17 +18,28 @@
   <Overview>The world we knew is gone. An epidemic of apocalyptic proportions has swept the globe causing the dead to rise and feed on the living. In a matter of months society has crumbled. In a world ruled by the dead, we are forced to finally start living. Based on a comic book series of the same name by Robert Kirkman, this AMC project focuses on the world after a zombie apocalypse. The series follows a police officer, Rick Grimes, who wakes up from a coma to find the world ravaged with zombies. Looking for his family, he and a group of survivors attempt to battle against the zombies in order to stay alive.
 </Overview>
   <Rating>8.9</Rating>
+<<<<<<< HEAD
   <RatingCount>656</RatingCount>
   <Runtime>45</Runtime>
+=======
+  <RatingCount>569</RatingCount>
+  <Runtime>60</Runtime>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeriesID></SeriesID>
   <SeriesName>The Walking Dead</SeriesName>
   <Status>Continuing</Status>
   <added>2010-03-30 01:30:16</added>
   <addedBy>76261</addedBy>
   <banner>graphical/153021-g32.jpg</banner>
+<<<<<<< HEAD
   <fanart>fanart/original/153021-46.jpg</fanart>
   <lastupdated>1435009348</lastupdated>
   <poster>posters/153021-31.jpg</poster>
+=======
+  <fanart>fanart/original/153021-11.jpg</fanart>
+  <lastupdated>1415049271</lastupdated>
+  <poster>posters/153021-8.jpg</poster>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>SH01324002</zap2it_id>
 </Series>
@@ -1204,8 +1219,13 @@
   <Language>en</Language>
   <Overview>Footage from the show; elements of production of &quot;The Walking Dead&quot;; bringing the series together.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.0</Rating>
   <RatingCount>5</RatingCount>
+=======
+  <Rating>6.8</Rating>
+  <RatingCount>4</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>0</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
@@ -1238,8 +1258,13 @@
   <Language>en</Language>
   <Overview></Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.0</Rating>
   <RatingCount>4</RatingCount>
+=======
+  <Rating>6.7</Rating>
+  <RatingCount>3</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>0</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
@@ -1273,7 +1298,11 @@
   <Overview>Rick searches for his family after emerging from a coma into a world terrorized by the walking dead. Morgan and Duane, whom he meets along the way, help teach Rick the new rules for survival.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.1</Rating>
+<<<<<<< HEAD
   <RatingCount>487</RatingCount>
+=======
+  <RatingCount>480</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Frank Darabont</Writer>
   <absolute_number>1</absolute_number>
@@ -1304,7 +1333,11 @@
   <Overview>Rick unknowingly causes a group of survivors to be trapped by walkers. The group dynamic devolves from accusations to violence, as Rick must confront an enemy far more dangerous than the undead.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>456</RatingCount>
+=======
+  <RatingCount>447</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Frank Darabont</Writer>
   <absolute_number>2</absolute_number>
@@ -1335,7 +1368,11 @@
   <Overview>After returning to the camp with the department store survivors and an emotional reunion with his wife and son, Rick decides to go against Shane's advice and go back to Atlanta for Merle Dixon and his dropped bag of guns accompanied by Merle's younger brother, Darryl Dixon, as well as Glenn and T-Dog.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>435</RatingCount>
+=======
+  <RatingCount>428</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Frank Darabont|Charles H. Eglee|Jack LoGiudice|</Writer>
   <absolute_number>3</absolute_number>
@@ -1366,7 +1403,11 @@
   <Overview>While still in search of Merle, the group tries to retrieve the bag of guns but are attacked by several living men who are also after the weapons. The group manages to grab the injured attacker; however, several of the attackers escape and take Glenn hostage. Back at camp a large group of walkers venture up the hill and take the survivors by surprise.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>440</RatingCount>
+=======
+  <RatingCount>431</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Robert Kirkman</Writer>
   <absolute_number>4</absolute_number>
@@ -1397,7 +1438,11 @@
   <Overview>Rick leads the group to the CDC after the attack on the camp. Jim must make a terrible life and death decision.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>425</RatingCount>
+=======
+  <RatingCount>416</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Glen Mazzara</Writer>
   <absolute_number>5</absolute_number>
@@ -1428,7 +1473,11 @@
   <Overview>Rick and the group are allowed into the CDC by a strange doctor, but all is not what it seems in their newfound haven. </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
+<<<<<<< HEAD
   <RatingCount>407</RatingCount>
+=======
+  <RatingCount>400</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Adam Fierro</Writer>
   <absolute_number>6</absolute_number>
@@ -1459,7 +1508,11 @@
   <Overview>Rick and the group leave Atlanta and encounter a threat on the highway the likes of which they've never seen. Elsewhere, the group search for a missing person.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>369</RatingCount>
+=======
+  <RatingCount>362</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Ardeth Bey|Robert Kirkman|</Writer>
   <absolute_number>7</absolute_number>
@@ -1490,7 +1543,11 @@
   <Overview>Rick discovers a possible safe haven. Shane must go on a dangerous mission to get needed medical supplies.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
+<<<<<<< HEAD
   <RatingCount>345</RatingCount>
+=======
+  <RatingCount>337</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Glen Mazzara</Writer>
   <absolute_number>8</absolute_number>
@@ -1521,7 +1578,11 @@
   <Overview>The group desperately awaits Shane's return. Shane finds himself trapped in a school, surrounded by the undead. Daryl and Andrea search for someone in the woods.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>351</RatingCount>
+=======
+  <RatingCount>345</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Scott M. Gimple</Writer>
   <absolute_number>9</absolute_number>
@@ -1552,7 +1613,11 @@
   <Overview>Shane makes a deadly sacrifice which leads to unusual behavior and self-distancing. The rest of the group tries to hang on somewhere between living to die and dying to live. </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
+<<<<<<< HEAD
   <RatingCount>333</RatingCount>
+=======
+  <RatingCount>326</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Evan Reilly</Writer>
   <absolute_number>10</absolute_number>
@@ -1583,7 +1648,11 @@
   <Overview>Concerned for their safety, the group makes a plan – one that Hershel disagrees with adamantly. He makes it clear the group is fine to stay for now, but not indefinitely.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>323</RatingCount>
+=======
+  <RatingCount>315</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>David Leslie Johnson</Writer>
   <absolute_number>11</absolute_number>
@@ -1614,7 +1683,11 @@
   <Overview>Secrets are told and secrets are revealed. Hershel refuses to acknowledge the world’s new reality. Andrea comes out of her shell. Everyone is becoming more and more aware that “everything is food for something.”</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.2</Rating>
+<<<<<<< HEAD
   <RatingCount>324</RatingCount>
+=======
+  <RatingCount>318</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Angela Kang</Writer>
   <absolute_number>12</absolute_number>
@@ -1645,7 +1718,11 @@
   <Overview>Hershel sets a deadline. All secrets are out in the open. Glenn stands up for himself and Shane takes charge.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.1</Rating>
+<<<<<<< HEAD
   <RatingCount>340</RatingCount>
+=======
+  <RatingCount>334</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer></Writer>
   <absolute_number>13</absolute_number>
@@ -1676,7 +1753,11 @@
   <Overview>Rick and the others try to restore order in the aftermath of a terrible discovery. Hershel takes up an old habit and disappears, Rick and Glenn must follow him into town.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
+<<<<<<< HEAD
   <RatingCount>334</RatingCount>
+=======
+  <RatingCount>327</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer></Writer>
   <absolute_number>14</absolute_number>
@@ -1707,7 +1788,11 @@
   <Overview>Rick, Hershel and Glen are trapped and fight to survive; Shane finds Lori in danger.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
+<<<<<<< HEAD
   <RatingCount>301</RatingCount>
+=======
+  <RatingCount>298</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer></Writer>
   <absolute_number>15</absolute_number>
@@ -1738,7 +1823,11 @@
   <Overview>Rick and Shane are in conflict over the fate of an outsider; Andrea helps Hershel's daughter face a crucial decision.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
+<<<<<<< HEAD
   <RatingCount>322</RatingCount>
+=======
+  <RatingCount>316</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer></Writer>
   <absolute_number>16</absolute_number>
@@ -1768,8 +1857,13 @@
   <Language>en</Language>
   <Overview>Rick sides with Shane causing Dale to worry that the group is losing its humanity; Carl's actions have unintended consequences.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.6</Rating>
   <RatingCount>291</RatingCount>
+=======
+  <Rating>7.7</Rating>
+  <RatingCount>285</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer></Writer>
   <absolute_number>17</absolute_number>
@@ -1800,7 +1894,11 @@
   <Overview>Someone dangerous may be loose near the farm; Rick, Shane, Daryl and Glenn keep the group safe.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.0</Rating>
+<<<<<<< HEAD
   <RatingCount>302</RatingCount>
+=======
+  <RatingCount>296</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer></Writer>
   <absolute_number>18</absolute_number>
@@ -1831,7 +1929,11 @@
   <Overview>Rick and Carl find the farm in jeopardy; the group is split up in the chaos; Rick's leadership is questioned.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.1</Rating>
+<<<<<<< HEAD
   <RatingCount>286</RatingCount>
+=======
+  <RatingCount>280</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer></Writer>
   <absolute_number>19</absolute_number>
@@ -1862,7 +1964,11 @@
   <Overview>As the world grows more dangerous and Lori's pregnancy advances, Rick locates a potentially safe haven.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.1</Rating>
+<<<<<<< HEAD
   <RatingCount>277</RatingCount>
+=======
+  <RatingCount>272</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>Glen Mazzara</Writer>
   <absolute_number>20</absolute_number>
@@ -1893,7 +1999,11 @@
   <Overview>A life hangs in the balance; the group deals with a threat to their new surroundings.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
+<<<<<<< HEAD
   <RatingCount>265</RatingCount>
+=======
+  <RatingCount>260</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>Nichole Beattie</Writer>
   <absolute_number>21</absolute_number>
@@ -1924,7 +2034,11 @@
   <Overview>After witnessing an accident, Andrea and Michonne are introduced to a new community of survivors. As conflicts arise with their new acquaintances, a decision must be made.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>259</RatingCount>
+=======
+  <RatingCount>254</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>Evan Reilly</Writer>
   <absolute_number>22</absolute_number>
@@ -1955,7 +2069,11 @@
   <Overview>The group is severed, placing lives in jeopardy. Merle has a request for the Governor. Meanwhile the prison doesn't seem to be a place as secure as they thought.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.1</Rating>
+<<<<<<< HEAD
   <RatingCount>268</RatingCount>
+=======
+  <RatingCount>264</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>Sang Kyu Kim</Writer>
   <absolute_number>23</absolute_number>
@@ -1986,7 +2104,11 @@
   <Overview>Rick struggles after another loss. Michonne is suspicious of the Governor.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>251</RatingCount>
+=======
+  <RatingCount>245</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>Angela Kang</Writer>
   <absolute_number>24</absolute_number>
@@ -2017,7 +2139,11 @@
   <Overview>Michonne makes a decision about Woodbury; Glenn and Maggie go on a run; Rick struggles.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.0</Rating>
+<<<<<<< HEAD
   <RatingCount>246</RatingCount>
+=======
+  <RatingCount>240</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>Scott M. Gimple</Writer>
   <absolute_number>25</absolute_number>
@@ -2049,7 +2175,11 @@
 </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
+<<<<<<< HEAD
   <RatingCount>255</RatingCount>
+=======
+  <RatingCount>250</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>Frank Renzulli</Writer>
   <absolute_number>26</absolute_number>
@@ -2080,7 +2210,11 @@
   <Overview>Andrea steps up when the people of Woodbury are thrown into uncharted territory. A new threat arises at the prison.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.0</Rating>
+<<<<<<< HEAD
   <RatingCount>251</RatingCount>
+=======
+  <RatingCount>246</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>Robert Kirkman</Writer>
   <absolute_number>27</absolute_number>
@@ -2111,7 +2245,11 @@
   <Overview>After the invasion of Woodbury by Rick’s group, Daryl and Merle are captured by The Governor. Rick decides the fate of Tyreese’s group.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>226</RatingCount>
+=======
+  <RatingCount>219</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>Evan Reilly</Writer>
   <absolute_number>28</absolute_number>
@@ -2142,7 +2280,11 @@
   <Overview>As the group debates their next course of action, Rick wanders after a lost friend. After helping another group of survivors flee a group of walkers, Daryl and Merle begin to have second thoughts about leaving the prison. The Governor cedes leadership of Woodbury to Andrea and makes plans to punish those responsible for the chaos.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.0</Rating>
+<<<<<<< HEAD
   <RatingCount>223</RatingCount>
+=======
+  <RatingCount>217</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>Nichole Beattie</Writer>
   <absolute_number>29</absolute_number>
@@ -2173,7 +2315,11 @@
   <Overview>Rick and the group are forced to make a decision now that their safety is no longer guaranteed. Andrea feels uncomfortable now that Woodbury has become a police state.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
+<<<<<<< HEAD
   <RatingCount>240</RatingCount>
+=======
+  <RatingCount>234</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>Angela Kang</Writer>
   <absolute_number>30</absolute_number>
@@ -2204,7 +2350,11 @@
   <Overview>Since they are outgunned against the Governor's forces, Rick undertakes a mission to get more weapons.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.1</Rating>
+<<<<<<< HEAD
   <RatingCount>256</RatingCount>
+=======
+  <RatingCount>251</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer></Writer>
   <absolute_number>31</absolute_number>
@@ -2235,7 +2385,11 @@
   <Overview>Rick and the Governor contemplate a peace treaty.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
+<<<<<<< HEAD
   <RatingCount>226</RatingCount>
+=======
+  <RatingCount>221</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer></Writer>
   <absolute_number>32</absolute_number>
@@ -2266,7 +2420,11 @@
   <Overview>The Governor chases a fleeing dissenter; while the Governor is gone, a traitor tries to sabotage his plans.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.2</Rating>
+<<<<<<< HEAD
   <RatingCount>221</RatingCount>
+=======
+  <RatingCount>215</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer></Writer>
   <absolute_number>33</absolute_number>
@@ -2297,7 +2455,11 @@
   <Overview>Rick and the group are faced with a serious problem. If they want a truce with the Governor, they will have to make a huge sacrifice.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.0</Rating>
+<<<<<<< HEAD
   <RatingCount>231</RatingCount>
+=======
+  <RatingCount>225</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>Scott M. Gimple</Writer>
   <absolute_number>34</absolute_number>
@@ -2328,7 +2490,11 @@
   <Overview>Rick and the others consider the defense of the prison as the Governor's impending attack looms.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
+<<<<<<< HEAD
   <RatingCount>220</RatingCount>
+=======
+  <RatingCount>216</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>Glen Mazzara</Writer>
   <absolute_number>35</absolute_number>
@@ -2359,7 +2525,11 @@
   <Overview>Rick and the group are as close to an ideal life as possible at the prison. Will they be able to hold on to humanity in the face of a new evil?</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>169</RatingCount>
+=======
+  <RatingCount>160</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>Scott M. Gimple</Writer>
   <absolute_number>36</absolute_number>
@@ -2389,8 +2559,13 @@
   <Language>en</Language>
   <Overview>As the group faces a brand new enemy, Rick and the others must fight to protect the livelihood they worked so hard to create at the prison.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.7</Rating>
   <RatingCount>164</RatingCount>
+=======
+  <Rating>7.8</Rating>
+  <RatingCount>156</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>Angela Kang</Writer>
   <absolute_number>37</absolute_number>
@@ -2421,7 +2596,11 @@
   <Overview>As one group leaves the prison in search for supplies at a local college, those who stay must deal with recent losses while preserving what remains.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>162</RatingCount>
+=======
+  <RatingCount>155</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>Robert Kirkman</Writer>
   <absolute_number>38</absolute_number>
@@ -2452,7 +2631,11 @@
   <Overview>While on a supplies mission to a local college, members of the group run into multiple hurdles. Things at the prison are getting worse.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
+<<<<<<< HEAD
   <RatingCount>159</RatingCount>
+=======
+  <RatingCount>152</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>Matt Negrete</Writer>
   <absolute_number>39</absolute_number>
@@ -2483,7 +2666,11 @@
   <Overview>Multiple enemies put pressure on Rick and the group. Could this finally be the breaking point for the survivors and the prison?</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
+<<<<<<< HEAD
   <RatingCount>157</RatingCount>
+=======
+  <RatingCount>149</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>Channing Powell</Writer>
   <absolute_number>40</absolute_number>
@@ -2514,7 +2701,11 @@
   <Overview>A familiar face returns as each member of the group struggles to find his or her humanity in a world of constant threats.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
+<<<<<<< HEAD
   <RatingCount>159</RatingCount>
+=======
+  <RatingCount>153</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>Nichole Beattie</Writer>
   <absolute_number>41</absolute_number>
@@ -2544,8 +2735,13 @@
   <Language>en</Language>
   <Overview>A new and scary chapter is unfolding at a camp outside the prison. Will peace be attainable with the addition of new members?</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.4</Rating>
   <RatingCount>151</RatingCount>
+=======
+  <Rating>7.3</Rating>
+  <RatingCount>143</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>Curtis Gwinn</Writer>
   <absolute_number>42</absolute_number>
@@ -2575,8 +2771,13 @@
   <Language>en</Language>
   <Overview>Just when everything started to calm down at the prison, Rick and his group now face imminent danger and destruction. This time, they might not win.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>8.1</Rating>
   <RatingCount>169</RatingCount>
+=======
+  <Rating>8.0</Rating>
+  <RatingCount>159</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>Seth Hoffman</Writer>
   <absolute_number>43</absolute_number>
@@ -2606,8 +2807,13 @@
   <Language>en</Language>
   <Overview>As Rick deals with old wounds, members of the prison have to come to terms with their new environment and ask themselves if survival alone is enough.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.9</Rating>
   <RatingCount>137</RatingCount>
+=======
+  <Rating>7.8</Rating>
+  <RatingCount>129</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>Robert Kirkman</Writer>
   <absolute_number>44</absolute_number>
@@ -2638,7 +2844,11 @@
   <Overview>The group encounters many obstacles in their quest to find stability and safety, but sometimes all they have to guide them is hope.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>140</RatingCount>
+=======
+  <RatingCount>133</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Matt Negrete|Channing Powell|</Writer>
   <absolute_number>45</absolute_number>
@@ -2668,8 +2878,13 @@
   <Language>en</Language>
   <Overview>Just when Rick thinks he's going to be able to relax, he's faced with multiple immediate threats. Other members of the group deal with their past.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.8</Rating>
   <RatingCount>134</RatingCount>
+=======
+  <Rating>7.7</Rating>
+  <RatingCount>125</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Nichole Beattie|Seth Hoffman|</Writer>
   <absolute_number>46</absolute_number>
@@ -2700,7 +2915,11 @@
   <Overview>Faced with the day-to-day survival of life outside shelter, a simple request by someone in the group leads to a bizarre but enlightening mission.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
+<<<<<<< HEAD
   <RatingCount>143</RatingCount>
+=======
+  <RatingCount>134</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>Angela Kang</Writer>
   <absolute_number>47</absolute_number>
@@ -2730,8 +2949,13 @@
   <Language>en</Language>
   <Overview>As one group finds what may be an ideal shelter, another group comes to realize that the best protection comes from those around them.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.8</Rating>
   <RatingCount>138</RatingCount>
+=======
+  <Rating>7.7</Rating>
+  <RatingCount>129</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>Curtis Gwinn</Writer>
   <absolute_number>48</absolute_number>
@@ -2762,7 +2986,11 @@
   <Overview>After finding an idyllic place to establish a new shelter, the group starts to question whether it is possible to go back to the way things were.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.0</Rating>
+<<<<<<< HEAD
   <RatingCount>137</RatingCount>
+=======
+  <RatingCount>128</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>Scott M. Gimple</Writer>
   <absolute_number>49</absolute_number>
@@ -2793,7 +3021,11 @@
   <Overview>However brutal some survivors believe they must be to stay alive, we get to see that faith can sometimes be the strongest survival tool.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>132</RatingCount>
+=======
+  <RatingCount>123</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Nichole Beattie|Seth Hoffman|</Writer>
   <absolute_number>50</absolute_number>
@@ -2824,7 +3056,11 @@
   <Overview>Many paths collide. Rick faces sheer brutality. The group struggles to survive.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.1</Rating>
+<<<<<<< HEAD
   <RatingCount>132</RatingCount>
+=======
+  <RatingCount>122</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>Scott M. Gimple|Angela Kang</Writer>
   <absolute_number>51</absolute_number>
@@ -2845,7 +3081,11 @@
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
   <Director>Greg Nicotero</Director>
+<<<<<<< HEAD
   <EpImgFlag>6</EpImgFlag>
+=======
+  <EpImgFlag>2</EpImgFlag>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <EpisodeName>No Sanctuary</EpisodeName>
   <EpisodeNumber>1</EpisodeNumber>
   <FirstAired>2014-10-12</FirstAired>
@@ -2855,12 +3095,20 @@
   <Overview>We learn the true motives of the Terminans as Rick and the group find themselves in a vulnerable situation.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.3</Rating>
+<<<<<<< HEAD
   <RatingCount>103</RatingCount>
+=======
+  <RatingCount>76</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>5</SeasonNumber>
   <Writer>Scott M. Gimple</Writer>
   <absolute_number>52</absolute_number>
   <filename>episodes/153021/4978800.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433162095</lastupdated>
+=======
+  <lastupdated>1414948983</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>595671</seasonid>
   <seriesid>153021</seriesid>
   <thumb_added>2014-09-04 09:13:32</thumb_added>
@@ -2885,13 +3133,22 @@
   <Language>en</Language>
   <Overview>Rick leads a risky mission for a possible small reward when the supplies run low.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.7</Rating>
   <RatingCount>101</RatingCount>
+=======
+  <Rating>7.6</Rating>
+  <RatingCount>66</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>5</SeasonNumber>
   <Writer>Robert Kirkman</Writer>
   <absolute_number>53</absolute_number>
   <filename>episodes/153021/5006706.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433162105</lastupdated>
+=======
+  <lastupdated>1415043435</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>595671</seasonid>
   <seriesid>153021</seriesid>
   <thumb_added>2014-10-13 09:15:21</thumb_added>
@@ -2917,12 +3174,21 @@
   <Overview>Rick and the others find themselves pitted against a group of nasty people.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
+<<<<<<< HEAD
   <RatingCount>102</RatingCount>
   <SeasonNumber>5</SeasonNumber>
   <Writer>Angela Kang, Corey Reed</Writer>
   <absolute_number>54</absolute_number>
   <filename>episodes/153021/5006707.jpg</filename>
   <lastupdated>1433162114</lastupdated>
+=======
+  <RatingCount>59</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>Angela Kang</Writer>
+  <absolute_number>54</absolute_number>
+  <filename>episodes/153021/5006707.jpg</filename>
+  <lastupdated>1415043645</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>595671</seasonid>
   <seriesid>153021</seriesid>
   <thumb_added>2014-10-19 19:59:29</thumb_added>
@@ -2945,6 +3211,7 @@
   <GuestStars></GuestStars>
   <IMDB_ID>tt3712494</IMDB_ID>
   <Language>en</Language>
+<<<<<<< HEAD
   <Overview>Beth awakes in a hospital in the middle of Atlanta controlled by what's left of the police force. Now she must find a way out while being harassed by both the officer in charge, Dawn Lerner, and one of her deputies.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
@@ -2954,6 +3221,17 @@
   <absolute_number>55</absolute_number>
   <filename>episodes/153021/5006708.jpg</filename>
   <lastupdated>1433162123</lastupdated>
+=======
+  <Overview>Things appear nice and safe, but there is a bit of a dark side for another group of survivors.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>22</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>Matt Negrete</Writer>
+  <absolute_number>55</absolute_number>
+  <filename>episodes/153021/5006708.jpg</filename>
+  <lastupdated>1415043740</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>595671</seasonid>
   <seriesid>153021</seriesid>
   <thumb_added>2014-10-26 21:16:46</thumb_added>
@@ -2976,6 +3254,7 @@
   <GuestStars></GuestStars>
   <IMDB_ID>tt3714480</IMDB_ID>
   <Language>en</Language>
+<<<<<<< HEAD
   <Overview>A new set of issues confront the group while on a mission.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
@@ -2985,6 +3264,17 @@
   <absolute_number>56</absolute_number>
   <filename>episodes/153021/5024487.jpg</filename>
   <lastupdated>1433162160</lastupdated>
+=======
+  <Overview>A new set of issues confront our group while on a mission. Will they be able to push through and survive these challenges? Or better yet, each other?</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>Heather Bellson</Writer>
+  <absolute_number>56</absolute_number>
+  <filename>episodes/153021/5024487.jpg</filename>
+  <lastupdated>1415040631</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>595671</seasonid>
   <seriesid>153021</seriesid>
   <thumb_added>2014-11-02 22:02:42</thumb_added>
@@ -3000,13 +3290,18 @@
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
   <Director>Seith Mann</Director>
+<<<<<<< HEAD
   <EpImgFlag>2</EpImgFlag>
+=======
+  <EpImgFlag></EpImgFlag>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <EpisodeName>Consumed</EpisodeName>
   <EpisodeNumber>6</EpisodeNumber>
   <FirstAired>2014-11-16</FirstAired>
   <GuestStars></GuestStars>
   <IMDB_ID>tt3714484</IMDB_ID>
   <Language>en</Language>
+<<<<<<< HEAD
   <Overview>Stakes are high when members of the group must go on a rescue mission in a familiar location.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
@@ -3021,6 +3316,22 @@
   <thumb_added>2014-11-17 10:05:38</thumb_added>
   <thumb_height>225</thumb_height>
   <thumb_width>400</thumb_width>
+=======
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>Matthew Negrete</Writer>
+  <absolute_number>57</absolute_number>
+  <filename></filename>
+  <lastupdated>1415031741</lastupdated>
+  <seasonid>595671</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
 </Episode>
 <Episode>
   <id>5024489</id>
@@ -3031,13 +3342,18 @@
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
   <Director>Billy Gierhart</Director>
+<<<<<<< HEAD
   <EpImgFlag>2</EpImgFlag>
+=======
+  <EpImgFlag></EpImgFlag>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <EpisodeName>Crossed</EpisodeName>
   <EpisodeNumber>7</EpisodeNumber>
   <FirstAired>2014-11-23</FirstAired>
   <GuestStars></GuestStars>
   <IMDB_ID>tt3714490</IMDB_ID>
   <Language>en</Language>
+<<<<<<< HEAD
   <Overview>Some members hold down the church while the others are on a rescue mission.
 </Overview>
   <ProductionCode></ProductionCode>
@@ -3053,6 +3369,22 @@
   <thumb_added>2014-11-17 10:02:56</thumb_added>
   <thumb_height>225</thumb_height>
   <thumb_width>400</thumb_width>
+=======
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>Seth Hoffman</Writer>
+  <absolute_number>58</absolute_number>
+  <filename></filename>
+  <lastupdated>1414428224</lastupdated>
+  <seasonid>595671</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
 </Episode>
 <Episode>
   <id>5026406</id>
@@ -3063,13 +3395,19 @@
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
   <Director>Ernest Dickerson</Director>
+<<<<<<< HEAD
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Coda</EpisodeName>
+=======
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>TBA</EpisodeName>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <EpisodeNumber>8</EpisodeNumber>
   <FirstAired>2014-11-30</FirstAired>
   <GuestStars></GuestStars>
   <IMDB_ID>tt3714498</IMDB_ID>
   <Language>en</Language>
+<<<<<<< HEAD
   <Overview>Rick wants to find a peaceful agreement, but the enemies seem to prefer a more violent resolution.
 </Overview>
   <ProductionCode></ProductionCode>
@@ -3333,5 +3671,21 @@
   <thumb_added>2015-03-29 21:04:04</thumb_added>
   <thumb_height>225</thumb_height>
   <thumb_width>400</thumb_width>
+=======
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>Angela Kang</Writer>
+  <absolute_number>59</absolute_number>
+  <filename></filename>
+  <lastupdated>1414272781</lastupdated>
+  <seasonid>595671</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
 </Episode>
 </Data>

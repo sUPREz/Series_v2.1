@@ -13,16 +13,26 @@
   <NetworkID></NetworkID>
   <Overview>A wealthy family living in Bel-Air, California, receives a dubious gift from their poorer relations in Philadelphia when  Will Smith arrives as The Fresh Prince Of Bel-Air. Will shatters the sophisticated serenity of Bel-Air with his streetwise common sense, much to the dismay of his upper-crust uncle, Philip Banks (James Avery), Aunt Vivian (Janet Hubert-Whitten and Daphne Maxwell Reid) and three conceited cousins, Carlton (Alfonso Ribeiro), Hilary (Karyn Parsons) and Ashley (Tatyana Ali) - and butler Geoffrey (Joseph Marcell). As the Banks family opens their home - and their checkbook - to their needy relative, Will adapts easily to their indulgent lifestyle. Yet, he reminds everyone that the simplest pleasures of family life can't be bought at any price.</Overview>
   <Rating>8.9</Rating>
+<<<<<<< HEAD
   <RatingCount>53</RatingCount>
+=======
+  <RatingCount>49</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <Runtime>30</Runtime>
   <SeriesID>475</SeriesID>
   <SeriesName>The Fresh Prince of Bel-Air</SeriesName>
   <Status>Ended</Status>
   <added></added>
   <addedBy></addedBy>
+<<<<<<< HEAD
   <banner>graphical/475-g.jpg</banner>
   <fanart>fanart/original/76738-10.jpg</fanart>
   <lastupdated>1434650817</lastupdated>
+=======
+  <banner>graphical/76738-g11.jpg</banner>
+  <fanart>fanart/original/76738-10.jpg</fanart>
+  <lastupdated>1414391110</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <poster>posters/76738-1.jpg</poster>
   <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>EP00017413</zap2it_id>
@@ -278,18 +288,30 @@
   <EpisodeName>The Fresh Prince Project</EpisodeName>
   <EpisodeNumber>1</EpisodeNumber>
   <FirstAired>1990-09-10</FirstAired>
+<<<<<<< HEAD
   <GuestStars>Helen Page Camp</GuestStars>
+=======
+  <GuestStars>|Helen Page Camp|</GuestStars>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <IMDB_ID>tt0583047</IMDB_ID>
   <Language>en</Language>
   <Overview>Aunt Vivian tries to mediate between her husband Philip and the newly arrived Will.</Overview>
   <ProductionCode>446801</ProductionCode>
   <Rating>7.2</Rating>
+<<<<<<< HEAD
   <RatingCount>22</RatingCount>
+=======
+  <RatingCount>21</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Andy Borowitz|Susan Borowitz|</Writer>
   <absolute_number>1</absolute_number>
   <filename>episodes/76738/213767.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1434650841</lastupdated>
+=======
+  <lastupdated>1409588546</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>11318</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -315,12 +337,20 @@
   <Overview>Will persuades Ashley to pawn her violin for a drum set.</Overview>
   <ProductionCode>446802</ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>20</RatingCount>
+=======
+  <RatingCount>19</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Shannon Gaughan</Writer>
   <absolute_number>2</absolute_number>
   <filename>episodes/76738/213768.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1434650866</lastupdated>
+=======
+  <lastupdated>1409588588</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>11318</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -351,7 +381,11 @@
   <Writer>Rob Edwards</Writer>
   <absolute_number>3</absolute_number>
   <filename>episodes/76738/213769.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431266565</lastupdated>
+=======
+  <lastupdated>1409588625</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>11318</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -376,13 +410,22 @@
   <Language>en</Language>
   <Overview>Will tries to smooth things between Philip and his very rural parents when they visit to see him receive an award.</Overview>
   <ProductionCode>446806</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.5</Rating>
   <RatingCount>17</RatingCount>
+=======
+  <Rating>7.6</Rating>
+  <RatingCount>16</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Lisa Rosenthal</Writer>
   <absolute_number>4</absolute_number>
   <filename>episodes/76738/213770.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431266618</lastupdated>
+=======
+  <lastupdated>1409588682</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>11318</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -402,18 +445,30 @@
   <EpisodeName>Homeboy, Sweet Homeboy</EpisodeName>
   <EpisodeNumber>5</EpisodeNumber>
   <FirstAired>1990-10-08</FirstAired>
+<<<<<<< HEAD
   <GuestStars>Don Cheadle</GuestStars>
+=======
+  <GuestStars>|Don Cheadle|</GuestStars>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <IMDB_ID>tt0582984</IMDB_ID>
   <Language>en</Language>
   <Overview>Will gets a visit from an old pal named Ice Tray, who, to Vivian and Philip's dismay, warms up to Hilary.</Overview>
   <ProductionCode>446804</ProductionCode>
   <Rating>7.0</Rating>
+<<<<<<< HEAD
   <RatingCount>22</RatingCount>
+=======
+  <RatingCount>21</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Samm-Art Williams</Writer>
   <absolute_number>5</absolute_number>
   <filename>episodes/76738/213771.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431267049</lastupdated>
+=======
+  <lastupdated>1409588711</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>11318</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -439,12 +494,20 @@
   <Overview>Jailed, Will and Carlton stage a media stunt.</Overview>
   <ProductionCode>446807</ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>19</RatingCount>
+=======
+  <RatingCount>18</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Susan Borowitz|Andy Borowitz|</Writer>
   <absolute_number>6</absolute_number>
   <filename>episodes/76738/213772.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431267572</lastupdated>
+=======
+  <lastupdated>1409591972</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>11318</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -469,13 +532,22 @@
   <Language>en</Language>
   <Overview>Will joins his prep school's poetry club.</Overview>
   <ProductionCode>446808</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.4</Rating>
   <RatingCount>21</RatingCount>
+=======
+  <Rating>7.5</Rating>
+  <RatingCount>20</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>John Bowman</Writer>
   <absolute_number>7</absolute_number>
   <filename>episodes/76738/213773.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431267206</lastupdated>
+=======
+  <lastupdated>1409592008</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>11318</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -501,12 +573,20 @@
   <Overview>Carlton and Will, babe magnets. Who will be first to get a date for Hilary's Halloween party?</Overview>
   <ProductionCode>446810A</ProductionCode>
   <Rating>7.4</Rating>
+<<<<<<< HEAD
   <RatingCount>17</RatingCount>
+=======
+  <RatingCount>16</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Cheryl Gard|Shannon Gaughan|Bennie R. Richburg Jr.|</Writer>
   <absolute_number>8</absolute_number>
   <filename>episodes/76738/213774.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431266643</lastupdated>
+=======
+  <lastupdated>1409592042</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>11318</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -537,7 +617,11 @@
   <Writer>|Cheryl Gard|Shannon Gaughan|Bennie R. Richburg Jr.|</Writer>
   <absolute_number>9</absolute_number>
   <filename>episodes/76738/213775.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431267471</lastupdated>
+=======
+  <lastupdated>1409592077</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>11318</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -557,18 +641,30 @@
   <EpisodeName>Kiss My Butler</EpisodeName>
   <EpisodeNumber>10</EpisodeNumber>
   <FirstAired>1990-11-05</FirstAired>
+<<<<<<< HEAD
   <GuestStars>Naomi Campbell</GuestStars>
+=======
+  <GuestStars>|Naomi Campbell|</GuestStars>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <IMDB_ID>tt0583001</IMDB_ID>
   <Language>en</Language>
   <Overview>Happy birthday Geoffrey! For a gift, Will tries matchmaking, then falls for Geoffrey's date himself.</Overview>
   <ProductionCode>446809</ProductionCode>
   <Rating>7.1</Rating>
+<<<<<<< HEAD
   <RatingCount>18</RatingCount>
+=======
+  <RatingCount>17</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Sandy Frank</Writer>
   <absolute_number>10</absolute_number>
   <filename>episodes/76738/213776.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431266980</lastupdated>
+=======
+  <lastupdated>1409592111</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>11318</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -593,13 +689,22 @@
   <Language>en</Language>
   <Overview>Superstar, super ego. Will is Bel-Air Prep's new hoops hero - and ball hog.</Overview>
   <ProductionCode>446811</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.4</Rating>
   <RatingCount>16</RatingCount>
+=======
+  <Rating>7.3</Rating>
+  <RatingCount>15</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Sandy Frank|Lisa Rosenthal|</Writer>
   <absolute_number>11</absolute_number>
   <filename>episodes/76738/213777.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431267255</lastupdated>
+=======
+  <lastupdated>1409592211</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>11318</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -630,7 +735,11 @@
   <Writer>Cheryl Gard</Writer>
   <absolute_number>12</absolute_number>
   <filename>episodes/76738/213778.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431266756</lastupdated>
+=======
+  <lastupdated>1409592251</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>11318</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -656,12 +765,20 @@
   <Overview>College is, like, soooo hard! Will discovers that Hilary has dropped out of UCLA.</Overview>
   <ProductionCode>446813</ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>15</RatingCount>
+=======
+  <RatingCount>14</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Cheryl Gard</Writer>
   <absolute_number>13</absolute_number>
   <filename>episodes/76738/213779.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433121709</lastupdated>
+=======
+  <lastupdated>1409592285</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>11318</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -687,12 +804,20 @@
   <Overview>Will tells Ashley's friends a blood-curdling tale of terror: he recounts his first day at Bel-Air Prep.</Overview>
   <ProductionCode>446803</ProductionCode>
   <Rating>7.4</Rating>
+<<<<<<< HEAD
   <RatingCount>16</RatingCount>
+=======
+  <RatingCount>15</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Cheryl Gard</Writer>
   <absolute_number>14</absolute_number>
   <filename>episodes/76738/213780.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431266999</lastupdated>
+=======
+  <lastupdated>1409592317</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>11318</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -717,13 +842,22 @@
   <Language>en</Language>
   <Overview>Will inimitably dresses the mansion for the holidays, to the dismay of the neighbors, including heavyweight boxing champion Evander Holyfield.</Overview>
   <ProductionCode>446814</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.6</Rating>
   <RatingCount>14</RatingCount>
+=======
+  <Rating>7.7</Rating>
+  <RatingCount>13</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Shannon Gaughan</Writer>
   <absolute_number>15</absolute_number>
   <filename>episodes/76738/213781.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431266857</lastupdated>
+=======
+  <lastupdated>1409592352</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>11318</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -749,12 +883,20 @@
   <Overview>Philip may lose a superstitious client whom he advises not to make decisions based on Will's spontaneous remarks.</Overview>
   <ProductionCode>446816</ProductionCode>
   <Rating>7.9</Rating>
+<<<<<<< HEAD
   <RatingCount>14</RatingCount>
+=======
+  <RatingCount>13</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Samm-Art Williams</Writer>
   <absolute_number>16</absolute_number>
   <filename>episodes/76738/213782.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431266820</lastupdated>
+=======
+  <lastupdated>1409592437</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>11318</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -780,12 +922,20 @@
   <Overview>Will proposes a black history class be instituted at Bel-Air Academy, and gets a surprise when Aunt Viv arrives to teach it.</Overview>
   <ProductionCode>446815</ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>15</RatingCount>
+=======
+  <RatingCount>14</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Benny Medina|Jeff Pollack|</Writer>
   <absolute_number>17</absolute_number>
   <filename>episodes/76738/213783.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431266952</lastupdated>
+=======
+  <lastupdated>1409592474</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>11318</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -811,12 +961,20 @@
   <Overview>Will sneaks Philip's elderly mother out of the house for a night on the town.</Overview>
   <ProductionCode>446817</ProductionCode>
   <Rating>7.5</Rating>
+<<<<<<< HEAD
   <RatingCount>13</RatingCount>
+=======
+  <RatingCount>12</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Lisa Rosenthal</Writer>
   <absolute_number>18</absolute_number>
   <filename>episodes/76738/213784.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431267351</lastupdated>
+=======
+  <lastupdated>1409592519</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>11318</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -841,13 +999,22 @@
   <Language>en</Language>
   <Overview>Will has girl problems after a date with Jazz's domineering sister, who's ready to pick out a china pattern before the night is over.</Overview>
   <ProductionCode>446818</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.6</Rating>
   <RatingCount>13</RatingCount>
+=======
+  <Rating>7.7</Rating>
+  <RatingCount>12</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Cheryl Gard</Writer>
   <absolute_number>19</absolute_number>
   <filename>episodes/76738/213785.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431267021</lastupdated>
+=======
+  <lastupdated>1409592578</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>11318</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -873,12 +1040,20 @@
   <Overview>Fresh Prince Will is on his best behavior for visiting royalty -- the seemingly demure Lady Penelope, who Will hopes to persuade to let herself have a good time at a party.</Overview>
   <ProductionCode>446819</ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>12</RatingCount>
+=======
+  <RatingCount>11</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Sandy Frank</Writer>
   <absolute_number>20</absolute_number>
   <filename>episodes/76738/213786.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431267241</lastupdated>
+=======
+  <lastupdated>1409592594</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>11318</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -904,12 +1079,20 @@
   <Overview>Jasmine Guy plays a scholarship student whose introduction to Will opens up a different world of fun and games -- and romance -- to divert her from her studies.</Overview>
   <ProductionCode>446820</ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>11</RatingCount>
+=======
+  <RatingCount>10</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Lisa Rosenthal|Samm-Art Williams|</Writer>
   <absolute_number>21</absolute_number>
   <filename>episodes/76738/213787.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431266972</lastupdated>
+=======
+  <lastupdated>1409592675</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>11318</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -934,13 +1117,22 @@
   <Language>en</Language>
   <Overview>Will crawls to Philip for help after sneaking out on the town and getting hustled by sleazy pool sharks.</Overview>
   <ProductionCode>446821</ProductionCode>
+<<<<<<< HEAD
   <Rating>8.1</Rating>
   <RatingCount>11</RatingCount>
+=======
+  <Rating>8.0</Rating>
+  <RatingCount>10</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Bennie R. Richburg Jr.</Writer>
   <absolute_number>22</absolute_number>
   <filename>episodes/76738/213788.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431266656</lastupdated>
+=======
+  <lastupdated>1409592712</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>11318</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -960,18 +1152,31 @@
   <EpisodeName>72 Hours</EpisodeName>
   <EpisodeNumber>23</EpisodeNumber>
   <FirstAired>1991-03-11</FirstAired>
+<<<<<<< HEAD
   <GuestStars>|Miguel Nunez, Jr.|Tom 'Tiny' Lister Jr.|J'vonne Pearson|Richard Gloria|Larry Jones|Rodney Knoll|Mark Moralez|Jamy Woodbury|</GuestStars>
+=======
+  <GuestStars>|Miguel Nunez| Jr.|Tom 'Tiny' Lister Jr.|J'vonne Pearson|Richard Gloria|Larry Jones|Rodney Knoll|Mark Moralez|Jamy Woodbury|</GuestStars>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <IMDB_ID>tt0582934</IMDB_ID>
   <Language>en</Language>
   <Overview>Will challenges Carlton to spend time in a tough neighborhood, trying to survive by masquerading as a financial consultant.</Overview>
   <ProductionCode>446822</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.8</Rating>
   <RatingCount>12</RatingCount>
+=======
+  <Rating>7.9</Rating>
+  <RatingCount>11</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Rob Edwards</Writer>
   <absolute_number>23</absolute_number>
   <filename>episodes/76738/213789.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1433776952</lastupdated>
+=======
+  <lastupdated>1409592754</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>11318</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -997,12 +1202,20 @@
   <Overview>R&amp;B singer Tevin Campbell plays teen idol Little T, who surprises Ashley on her birthday with a special song and an invitation for a date.</Overview>
   <ProductionCode>446824</ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>13</RatingCount>
+=======
+  <RatingCount>12</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Jeff Pollack|Benny Medina|</Writer>
   <absolute_number>24</absolute_number>
   <filename>episodes/76738/213790.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431267056</lastupdated>
+=======
+  <lastupdated>1409592791</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>11318</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -1027,13 +1240,22 @@
   <Language>en</Language>
   <Overview>Rap's Queen Latifah plays Hilary's new actress boss, who wants Will as her boy toy -- or Hilary's glamorous job is over.</Overview>
   <ProductionCode>446823</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.5</Rating>
   <RatingCount>13</RatingCount>
+=======
+  <Rating>7.8</Rating>
+  <RatingCount>12</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Shannon Gaughan</Writer>
   <absolute_number>25</absolute_number>
   <filename>episodes/76738/213791.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431266965</lastupdated>
+=======
+  <lastupdated>1409592823</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>11318</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -1058,13 +1280,22 @@
   <Language>en</Language>
   <Overview>Will's all-consumed romance with a new girlfriend shakes up the Banks' household, as does Mother Nature, trapping them together during an earthquake.</Overview>
   <ProductionCode>446901</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.3</Rating>
   <RatingCount>12</RatingCount>
+=======
+  <Rating>7.5</Rating>
+  <RatingCount>11</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Winifred Hervey</Writer>
   <absolute_number>26</absolute_number>
   <filename>episodes/76738/213792.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431267379</lastupdated>
+=======
+  <lastupdated>1409103639</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>11319</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -1090,12 +1321,20 @@
   <Overview>Will and Carlton arrive as reinforcements when a bully challenges Ashley to a rumble, but there's real trouble when Philip and Vivian intervene.</Overview>
   <ProductionCode>446902</ProductionCode>
   <Rating>7.5</Rating>
+<<<<<<< HEAD
   <RatingCount>11</RatingCount>
+=======
+  <RatingCount>10</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Bryan Winter</Writer>
   <absolute_number>27</absolute_number>
   <filename>episodes/76738/213793.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431267313</lastupdated>
+=======
+  <lastupdated>1409103575</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>11319</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -1120,13 +1359,22 @@
   <Language>en</Language>
   <Overview>Will tries to juggle school and a new job in order to earn money for the homecoming party; Ashley's classmate Tina becomes interested in Carlton. Will starts becoming paranoid when he constantly is getting confused with Carlton.</Overview>
   <ProductionCode>446903</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.5</Rating>
   <RatingCount>11</RatingCount>
+=======
+  <Rating>7.6</Rating>
+  <RatingCount>10</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Efrem Seeger</Writer>
   <absolute_number>28</absolute_number>
   <filename>episodes/76738/213794.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431266742</lastupdated>
+=======
+  <lastupdated>1409103595</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>11319</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -1152,12 +1400,20 @@
   <Overview>Will is a picture of confidence, while Carlton is a frazzled bundle of nerves preparing for college aptitude tests.</Overview>
   <ProductionCode>446904</ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>12</RatingCount>
+=======
+  <RatingCount>11</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Marcus Jamal Gaines</Writer>
   <absolute_number>29</absolute_number>
   <filename>episodes/76738/213795.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431266937</lastupdated>
+=======
+  <lastupdated>1409103612</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>11319</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -1183,12 +1439,20 @@
   <Overview>Mortified over spying his mother kiss the handyman, Philip can't bear to think of her having a new man in her life.</Overview>
   <ProductionCode>446906</ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>13</RatingCount>
+=======
+  <RatingCount>12</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Cheryl Gard</Writer>
   <absolute_number>30</absolute_number>
   <filename>episodes/76738/213796.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431267096</lastupdated>
+=======
+  <lastupdated>1409103628</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>11319</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -1213,13 +1477,22 @@
   <Language>en</Language>
   <Overview>Tensions spill over just before the wedding of Will's Aunt Janice when Will's mom meets Janice's intended -- and forbids Will to attend the interracial wedding.</Overview>
   <ProductionCode>446905</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.5</Rating>
   <RatingCount>13</RatingCount>
+=======
+  <Rating>7.6</Rating>
+  <RatingCount>12</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Samm-Art Williams</Writer>
   <absolute_number>31</absolute_number>
   <filename>episodes/76738/213797.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431267457</lastupdated>
+=======
+  <lastupdated>1409103663</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>11319</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -1245,12 +1518,20 @@
   <Overview>Vivian's 40th birthday marks a crisis and a career change in which she plans to perfect her dance skills.</Overview>
   <ProductionCode>446907</ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>12</RatingCount>
+=======
+  <RatingCount>11</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Lisa Rosenthal</Writer>
   <absolute_number>32</absolute_number>
   <filename>episodes/76738/213798.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431266925</lastupdated>
+=======
+  <lastupdated>1409103678</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>11319</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -1276,12 +1557,20 @@
   <Overview>Will hits it off with the full-figured Dee Dee, but her size keeps him from asking her to the dance.</Overview>
   <ProductionCode>446908</ProductionCode>
   <Rating>7.5</Rating>
+<<<<<<< HEAD
   <RatingCount>13</RatingCount>
+=======
+  <RatingCount>12</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Lisa Rosenthal</Writer>
   <absolute_number>33</absolute_number>
   <filename>episodes/76738/213799.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431266798</lastupdated>
+=======
+  <lastupdated>1409103694</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>11319</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -1306,13 +1595,22 @@
   <Language>en</Language>
   <Overview>A pompous lawyer who's dating Hilary is no fan of Will's after he's sideswiped by Will's roadster.</Overview>
   <ProductionCode>446909</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.6</Rating>
   <RatingCount>13</RatingCount>
+=======
+  <Rating>7.7</Rating>
+  <RatingCount>12</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Bennie R. Richburg Jr.</Writer>
   <absolute_number>34</absolute_number>
   <filename>episodes/76738/213800.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431267285</lastupdated>
+=======
+  <lastupdated>1409103712</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>11319</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -1338,12 +1636,20 @@
   <Overview>Will and Carlton think a party guest stole the silverware.</Overview>
   <ProductionCode>446910</ProductionCode>
   <Rating>7.3</Rating>
+<<<<<<< HEAD
   <RatingCount>13</RatingCount>
+=======
+  <RatingCount>12</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Elaine Newman|Ed Burnham|</Writer>
   <absolute_number>35</absolute_number>
   <filename>episodes/76738/213801.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431266792</lastupdated>
+=======
+  <lastupdated>1409103737</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>11319</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -1369,12 +1675,20 @@
   <Overview>Bell Biv DeVoe shoots a video at the Bankses, courtesy of Carlton, who rents the house while his parents are away.</Overview>
   <ProductionCode>446911</ProductionCode>
   <Rating>7.5</Rating>
+<<<<<<< HEAD
   <RatingCount>13</RatingCount>
+=======
+  <RatingCount>12</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Bryan Winter</Writer>
   <absolute_number>36</absolute_number>
   <filename>episodes/76738/213802.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431266842</lastupdated>
+=======
+  <lastupdated>1409103917</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>11319</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -1399,13 +1713,22 @@
   <Language>en</Language>
   <Overview>After winning at the country club's Monte Carlo night fund-raiser, Will learns that he's expected to donate the money to charity.</Overview>
   <ProductionCode>446912</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.4</Rating>
   <RatingCount>14</RatingCount>
+=======
+  <Rating>7.5</Rating>
+  <RatingCount>13</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Bill Streib</Writer>
   <absolute_number>37</absolute_number>
   <filename>episodes/76738/213803.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431267565</lastupdated>
+=======
+  <lastupdated>1409103913</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>11319</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -1431,12 +1754,20 @@
   <Overview>On a family ski trip, the Banks find that they must come up with Christmas gifts from the heart after their belongings are stolen.</Overview>
   <ProductionCode>446913</ProductionCode>
   <Rating>7.3</Rating>
+<<<<<<< HEAD
   <RatingCount>14</RatingCount>
+=======
+  <RatingCount>13</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Winifred Hervey</Writer>
   <absolute_number>38</absolute_number>
   <filename>episodes/76738/213804.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431266701</lastupdated>
+=======
+  <lastupdated>1409103909</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>11319</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -1462,12 +1793,20 @@
   <Overview>Hilary must work for a caterer after her credit cards are cancelled.</Overview>
   <ProductionCode>446914</ProductionCode>
   <Rating>7.5</Rating>
+<<<<<<< HEAD
   <RatingCount>11</RatingCount>
+=======
+  <RatingCount>10</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Eunetta T. Boone|P. Karen Raper|</Writer>
   <absolute_number>39</absolute_number>
   <filename>episodes/76738/213805.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431267329</lastupdated>
+=======
+  <lastupdated>1409103904</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>11319</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -1493,12 +1832,20 @@
   <Overview>On the basketball court, winning is everything to Will, as it is to an opponent from Malibu Prep, who can't afford to lose.</Overview>
   <ProductionCode>446915</ProductionCode>
   <Rating>7.5</Rating>
+<<<<<<< HEAD
   <RatingCount>15</RatingCount>
+=======
+  <RatingCount>14</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Bennie Richburg</Writer>
   <absolute_number>40</absolute_number>
   <filename>episodes/76738/213806.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431266668</lastupdated>
+=======
+  <lastupdated>1409103898</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>11319</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -1524,12 +1871,20 @@
   <Overview>Geoffrey falls hard for a neighbor he believes is a housekeeper -- but who turns out to be very wealthy.</Overview>
   <ProductionCode>446916</ProductionCode>
   <Rating>7.2</Rating>
+<<<<<<< HEAD
   <RatingCount>13</RatingCount>
+=======
+  <RatingCount>12</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Lisa Rosenthal</Writer>
   <absolute_number>41</absolute_number>
   <filename>episodes/76738/213807.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431266945</lastupdated>
+=======
+  <lastupdated>1409103895</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>11319</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -1554,13 +1909,22 @@
   <Language>en</Language>
   <Overview>When Hillary is ordered to do community service at a free clinic, the doctor in charge becomes the antidote for her marriage-mindedness.</Overview>
   <ProductionCode>446917</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.5</Rating>
   <RatingCount>13</RatingCount>
+=======
+  <Rating>7.4</Rating>
+  <RatingCount>12</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Cheryl Gard</Writer>
   <absolute_number>42</absolute_number>
   <filename>episodes/76738/213808.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431266864</lastupdated>
+=======
+  <lastupdated>1409103890</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>11319</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -1586,12 +1950,20 @@
   <Overview>The family fears a steamy exposé when Geoffrey begins his memoirs, while Will fears the scalpel when he enters the hospital, kicking and screaming, for a tonsillectomy.</Overview>
   <ProductionCode>446918</ProductionCode>
   <Rating>7.3</Rating>
+<<<<<<< HEAD
   <RatingCount>15</RatingCount>
+=======
+  <RatingCount>14</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Leslie Ray|David Steven Simon|</Writer>
   <absolute_number>43</absolute_number>
   <filename>episodes/76738/213809.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431267343</lastupdated>
+=======
+  <lastupdated>1409103887</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>11319</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -1617,12 +1989,20 @@
   <Overview>Needing a game show partner, Will must choose between bickering friends.</Overview>
   <ProductionCode>446919</ProductionCode>
   <Rating>7.5</Rating>
+<<<<<<< HEAD
   <RatingCount>13</RatingCount>
+=======
+  <RatingCount>12</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Bryan Winter</Writer>
   <absolute_number>44</absolute_number>
   <filename>episodes/76738/213810.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431267171</lastupdated>
+=======
+  <lastupdated>1409103884</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>11319</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -1648,12 +2028,20 @@
   <Overview>Philip and Vivian welcome a '60s radical, who arouses the FBI's interest and influences Will and Carlton to take action over the firing of a nonconformist teacher.</Overview>
   <ProductionCode>446920</ProductionCode>
   <Rating>7.5</Rating>
+<<<<<<< HEAD
   <RatingCount>14</RatingCount>
+=======
+  <RatingCount>13</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Samm-Art Williams</Writer>
   <absolute_number>45</absolute_number>
   <filename>episodes/76738/213811.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431267559</lastupdated>
+=======
+  <lastupdated>1409103880</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>11319</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -1679,12 +2067,20 @@
   <Overview>Will dislikes his mother's new boyfriend.</Overview>
   <ProductionCode>446921</ProductionCode>
   <Rating>7.4</Rating>
+<<<<<<< HEAD
   <RatingCount>14</RatingCount>
+=======
+  <RatingCount>13</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Efrem Seeger</Writer>
   <absolute_number>46</absolute_number>
   <filename>episodes/76738/213812.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431267261</lastupdated>
+=======
+  <lastupdated>1409103940</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>11319</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -1709,13 +2105,22 @@
   <Language>en</Language>
   <Overview>Aunt Helen arrives unexpectedly, and upsets Will and Carlton's plans for a rendezvous with two French women.</Overview>
   <ProductionCode>446922</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.2</Rating>
   <RatingCount>9</RatingCount>
+=======
+  <Rating>7.3</Rating>
+  <RatingCount>8</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Jerry Ross</Writer>
   <absolute_number>47</absolute_number>
   <filename>episodes/76738/213813.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431266611</lastupdated>
+=======
+  <lastupdated>1409103951</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>11319</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -1746,7 +2151,11 @@
   <Writer>Lisa Rosenthal</Writer>
   <absolute_number>48</absolute_number>
   <filename>episodes/76738/213814.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431267083</lastupdated>
+=======
+  <lastupdated>1409103966</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>11319</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -1771,13 +2180,22 @@
   <Language>en</Language>
   <Overview>Will and Carlton lose their shirts investing on a tip -- then take jobs as strippers to recoup their losses and get Vivian's bracelet out of hock.</Overview>
   <ProductionCode>446924</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.2</Rating>
   <RatingCount>13</RatingCount>
+=======
+  <Rating>7.3</Rating>
+  <RatingCount>12</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Leslie Ray|David Steven Simon|</Writer>
   <absolute_number>49</absolute_number>
   <filename>episodes/76738/213815.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431266688</lastupdated>
+=======
+  <lastupdated>1409103981</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>11319</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -1963,7 +2381,11 @@
   <Writer>Michael Fry</Writer>
   <absolute_number>55</absolute_number>
   <filename>episodes/76738/213820.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431266911</lastupdated>
+=======
+  <lastupdated>1408146730</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>11320</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -2552,7 +2974,11 @@
   <Writer>Gary H. Miller</Writer>
   <absolute_number>74</absolute_number>
   <filename>episodes/76738/213840.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431267131</lastupdated>
+=======
+  <lastupdated>1411463560</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>11321</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -2583,7 +3009,11 @@
   <Writer>Gary H. Miller</Writer>
   <absolute_number>75</absolute_number>
   <filename>episodes/76738/213841.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431266662</lastupdated>
+=======
+  <lastupdated>1411463568</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>11321</seasonid>
   <seriesid>76738</seriesid>
   <thumb_added></thumb_added>
@@ -3104,8 +3534,13 @@
   <Language>en</Language>
   <Overview>Selling out. Will drops out of college to chase big bucks as a car salesman.</Overview>
   <ProductionCode>60047</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.4</Rating>
   <RatingCount>9</RatingCount>
+=======
+  <Rating>7.5</Rating>
+  <RatingCount>8</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Devon Shepard|K. Snyder|</Writer>
   <absolute_number>92</absolute_number>
@@ -3136,7 +3571,11 @@
   <Overview>Jazz's bride has a couple of teensy character flaws: She's a convict. And she puts the moves on Will.</Overview>
   <ProductionCode>60049</ProductionCode>
   <Rating>7.3</Rating>
+<<<<<<< HEAD
   <RatingCount>10</RatingCount>
+=======
+  <RatingCount>9</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>|Arnold Rudnick|Rich Hosek|</Writer>
   <absolute_number>93</absolute_number>
@@ -3167,7 +3606,11 @@
   <Overview>Fresh Prince, paratrooper. Will parachutes out of a disabled plane with his girlfriend's overbearing father.</Overview>
   <ProductionCode>60050</ProductionCode>
   <Rating>7.4</Rating>
+<<<<<<< HEAD
   <RatingCount>8</RatingCount>
+=======
+  <RatingCount>7</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>Devon Shepard</Writer>
   <absolute_number>94</absolute_number>
@@ -3197,8 +3640,13 @@
   <Language>en</Language>
   <Overview>A visit from Philip's college girlfriend makes Vivian wonder if the old flame still flickers.</Overview>
   <ProductionCode>60060</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.1</Rating>
   <RatingCount>8</RatingCount>
+=======
+  <Rating>7.4</Rating>
+  <RatingCount>7</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>Gary H. Miller</Writer>
   <absolute_number>95</absolute_number>

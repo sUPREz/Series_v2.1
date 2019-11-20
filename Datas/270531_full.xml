@@ -21,8 +21,13 @@
   <added>2013-06-07 20:03:30</added>
   <addedBy>382000</addedBy>
   <banner>graphical/270531-g.jpg</banner>
+<<<<<<< HEAD
   <fanart>fanart/original/270531-3.jpg</fanart>
   <lastupdated>1430396840</lastupdated>
+=======
+  <fanart>fanart/original/270531-1.jpg</fanart>
+  <lastupdated>1413281900</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <poster>posters/270531-1.jpg</poster>
   <tms_wanted_old>0</tms_wanted_old>
   <zap2it_id>EP01776228</zap2it_id>
@@ -330,7 +335,11 @@
   <Writer>|Ish Goldstein|Matthew Robinson|</Writer>
   <absolute_number>10</absolute_number>
   <filename>episodes/270531/4882798.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1416043003</lastupdated>
+=======
+  <lastupdated>1413281643</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>523007</seasonid>
   <seriesid>270531</seriesid>
   <thumb_added>2014-07-11 13:41:01</thumb_added>
@@ -361,7 +370,11 @@
   <Writer>|Dr. Michael Madden|</Writer>
   <absolute_number>11</absolute_number>
   <filename>episodes/270531/4882799.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1416043029</lastupdated>
+=======
+  <lastupdated>1413280186</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>523007</seasonid>
   <seriesid>270531</seriesid>
   <thumb_added>2014-07-20 11:57:02</thumb_added>
@@ -392,7 +405,11 @@
   <Writer>|Ilene Chaiken|</Writer>
   <absolute_number>12</absolute_number>
   <filename>episodes/270531/4882800.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1416043053</lastupdated>
+=======
+  <lastupdated>1406327412</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>523007</seasonid>
   <seriesid>270531</seriesid>
   <thumb_added>2014-07-25 15:30:12</thumb_added>
@@ -423,7 +440,11 @@
   <Writer>|Amy Holden Jones|</Writer>
   <absolute_number>13</absolute_number>
   <filename>episodes/270531/4882801.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1416043081</lastupdated>
+=======
+  <lastupdated>1405882821</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>523007</seasonid>
   <seriesid>270531</seriesid>
   <thumb_added>2014-07-20 12:00:21</thumb_added>

@@ -2,30 +2,47 @@
 <Data>
   <Series>
     <id>258107</id>
+<<<<<<< HEAD
     <Actors>|Gillian Anderson|Jamie Dornan|Niamh McGready|Valene Kane|Laura Donnelly|Emmett J Scanlan|Karen Hassan|Brian Milligan|Séainín Brennan|Stuart Graham|Colin Morgan|Archie Panjabi|Bronagh Waugh|John Lynch|</Actors>
     <Airs_DayOfWeek>Sunday</Airs_DayOfWeek>
+=======
+    <Actors>|Jamie Dornan|Gillian Anderson|Niamh McGready|Archie Panjabi|Bronagh Waugh|John Lynch|</Actors>
+    <Airs_DayOfWeek>Monday</Airs_DayOfWeek>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <Airs_Time>9:30 PM</Airs_Time>
     <ContentRating>TV-MA</ContentRating>
     <FirstAired>2013-05-12</FirstAired>
     <Genre>|Drama|Thriller|</Genre>
     <IMDB_ID>tt2294189</IMDB_ID>
     <Language>en</Language>
-    <Network>BBC Two</Network>
+    <Network>RTÉ One</Network>
     <NetworkID></NetworkID>
     <Overview>Detective Superintendent Stella Gibson is brought in from the London Metropolitan Police to help catch the killer when a murder in Belfast remains unsolved.
 
+<<<<<<< HEAD
 As Gibson travels across from London, we are introduced to the murderer himself; Paul Spector.</Overview>
     <Rating>8.4</Rating>
     <RatingCount>23</RatingCount>
+=======
+As Gibson travels across from London, we are introduced to the murderer himself; Paul Spector (Jamie Dornan).  The drama follows the police investigation uncovering the intricate story of the lives entangled by a series of murders both within the killers’ and the victims’ families.</Overview>
+    <Rating>8.1</Rating>
+    <RatingCount>16</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <Runtime>60</Runtime>
     <SeriesID>184209</SeriesID>
     <SeriesName>The Fall</SeriesName>
     <Status>Continuing</Status>
     <added>2012-04-12 19:03:18</added>
     <addedBy>360590</addedBy>
+<<<<<<< HEAD
     <banner>graphical/258107-g8.jpg</banner>
     <fanart>fanart/original/258107-10.jpg</fanart>
     <lastupdated>1434878259</lastupdated>
+=======
+    <banner>graphical/258107-g2.jpg</banner>
+    <fanart>fanart/original/258107-6.jpg</fanart>
+    <lastupdated>1414720436</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <poster>posters/258107-4.jpg</poster>
     <tms_wanted_old>1</tms_wanted_old>
     <zap2it_id>SH01753165</zap2it_id>

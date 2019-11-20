@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Data><Series>
   <id>161511</id>
+<<<<<<< HEAD
   <Actors>|Emmy Rossum|William H. Macy|Ethan Cutkosky|Emma Kenney|Cameron Monaghan|Jeremy Allen White|Justin Chatwin|Noel Fisher|Steve Howey|Shanola Hampton|Emily Bergl|Stephanie Fantauzzi|Emma Greenwell|Laura Wiggins|Joan Cusack|Zach McGowan|</Actors>
+=======
+  <Actors>|Emmy Rossum|William H. Macy|Ethan Cutkosky|Emma Kenney|Cameron Monaghan|Jeremy Allen White|Justin Chatwin|Steve Howey|Shanola Hampton|Noel Fisher|Stephanie Fantauzzi|Emma Greenwell|Laura Wiggins|Joan Cusack|Zach McGowan|</Actors>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <Airs_DayOfWeek>Sunday</Airs_DayOfWeek>
   <Airs_Time>9:00 PM</Airs_Time>
   <ContentRating>TV-MA</ContentRating>
@@ -11,19 +15,32 @@
   <Language>en</Language>
   <Network>Showtime</Network>
   <NetworkID></NetworkID>
+<<<<<<< HEAD
   <Overview>Chicagoan Frank Gallagher is the proud single dad of six smart, industrious, independent kids, who without him would be... perhaps better off. When Frank's not at the bar spending what little money they have, he's passed out on the floor. But the kids have found ways to grow up in spite of him. They may not be like any family you know, but they make no apologies for being exactly who they are.</Overview>
   <Rating>8.9</Rating>
   <RatingCount>112</RatingCount>
+=======
+  <Overview>Chicagoan Frank Gallagher is the proud single dad of six smart, industrious, independent kids, who without him would be...perhaps better off. When Frank's not at the bar spending what little money they have, he's passed out on the floor. But the kids have found ways to grow up in spite of him. They may not be like any family you know, but they make no apologies for being exactly who they are.</Overview>
+  <Rating>8.8</Rating>
+  <RatingCount>103</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <Runtime>60</Runtime>
   <SeriesID>78143</SeriesID>
   <SeriesName>Shameless (US)</SeriesName>
   <Status>Continuing</Status>
   <added>2010-05-06 13:26:59</added>
   <addedBy>235</addedBy>
+<<<<<<< HEAD
   <banner>graphical/161511-g9.jpg</banner>
   <fanart>fanart/original/161511-2.jpg</fanart>
   <lastupdated>1434366109</lastupdated>
   <poster>posters/161511-4.jpg</poster>
+=======
+  <banner>graphical/161511-g3.jpg</banner>
+  <fanart>fanart/original/161511-7.jpg</fanart>
+  <lastupdated>1414861088</lastupdated>
+  <poster>posters/161511-1.jpg</poster>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>SH01347868</zap2it_id>
 </Series>
@@ -96,6 +113,655 @@
   <thumb_width>400</thumb_width>
 </Episode>
 <Episode>
+<<<<<<< HEAD
+=======
+  <id>4230821</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Bringing the 'Fun' to 'Dysfunctional'</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/161511/4230821.jpg</filename>
+  <lastupdated>1393684117</lastupdated>
+  <seasonid>242591</seasonid>
+  <seriesid>161511</seriesid>
+  <thumb_added>2014-01-23 08:40:33</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4231182</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Bringing Shameless to America</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/161511/4231182.jpg</filename>
+  <lastupdated>1393684083</lastupdated>
+  <seasonid>242591</seasonid>
+  <seriesid>161511</seriesid>
+  <thumb_added>2014-01-23 08:40:44</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4231249</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>A Shameless Discussion About Sex</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/161511/4231249.jpg</filename>
+  <lastupdated>1393683961</lastupdated>
+  <seasonid>242591</seasonid>
+  <seriesid>161511</seriesid>
+  <thumb_added>2014-01-23 08:41:06</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4231254</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Season 2 Sneak Peek</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/161511/4231254.jpg</filename>
+  <lastupdated>1393683715</lastupdated>
+  <seasonid>242591</seasonid>
+  <seriesid>161511</seriesid>
+  <thumb_added>2014-01-23 08:41:17</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4457959</id>
+  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Complicated Life of Fiona Gallagher</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/161511/4457959.jpg</filename>
+  <lastupdated>1393683679</lastupdated>
+  <seasonid>242591</seasonid>
+  <seriesid>161511</seriesid>
+  <thumb_added>2014-01-23 08:42:02</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4457960</id>
+  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Art of Acting Drunk</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/161511/4457960.jpg</filename>
+  <lastupdated>1393683852</lastupdated>
+  <seasonid>242591</seasonid>
+  <seriesid>161511</seriesid>
+  <thumb_added>2014-01-23 08:42:17</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4457961</id>
+  <Combined_episodenumber>11</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Writing the Shameless Version</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/161511/4457961.jpg</filename>
+  <lastupdated>1394297045</lastupdated>
+  <seasonid>242591</seasonid>
+  <seriesid>161511</seriesid>
+  <thumb_added>2014-01-23 08:42:28</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4458029</id>
+  <Combined_episodenumber>12</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Ghetto Girl and the Car Thief</EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/161511/4458029.jpg</filename>
+  <lastupdated>1393684196</lastupdated>
+  <seasonid>242591</seasonid>
+  <seriesid>161511</seriesid>
+  <thumb_added>2014-01-23 08:42:40</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4458030</id>
+  <Combined_episodenumber>13</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Sibling Rivalry</EpisodeName>
+  <EpisodeNumber>13</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/161511/4458030.jpg</filename>
+  <lastupdated>1393684457</lastupdated>
+  <seasonid>242591</seasonid>
+  <seriesid>161511</seriesid>
+  <thumb_added>2014-01-23 08:42:54</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4458031</id>
+  <Combined_episodenumber>14</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Bartender and the Sex-Cam Worker</EpisodeName>
+  <EpisodeNumber>14</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/161511/4458031.jpg</filename>
+  <lastupdated>1393684524</lastupdated>
+  <seasonid>242591</seasonid>
+  <seriesid>161511</seriesid>
+  <thumb_added>2014-01-23 08:43:09</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4458032</id>
+  <Combined_episodenumber>15</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Juvenile Delinquents</EpisodeName>
+  <EpisodeNumber>15</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/161511/4458032.jpg</filename>
+  <lastupdated>1393684440</lastupdated>
+  <seasonid>242591</seasonid>
+  <seriesid>161511</seriesid>
+  <thumb_added>2014-01-23 08:43:19</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4458034</id>
+  <Combined_episodenumber>16</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Agoraphobe and the Beautiful Mess</EpisodeName>
+  <EpisodeNumber>16</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/161511/4458034.jpg</filename>
+  <lastupdated>1393684668</lastupdated>
+  <seasonid>242591</seasonid>
+  <seriesid>161511</seriesid>
+  <thumb_added>2014-01-23 08:43:30</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4458039</id>
+  <Combined_episodenumber>17</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Season 3 Sneak Peek</EpisodeName>
+  <EpisodeNumber>17</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/161511/4458039.jpg</filename>
+  <lastupdated>1393683753</lastupdated>
+  <seasonid>242591</seasonid>
+  <seriesid>161511</seriesid>
+  <thumb_added>2014-01-23 08:43:42</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4777844</id>
+  <Combined_episodenumber>18</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Many Sides Of Sheila</EpisodeName>
+  <EpisodeNumber>18</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/161511/4777844.jpg</filename>
+  <lastupdated>1393684234</lastupdated>
+  <seasonid>242591</seasonid>
+  <seriesid>161511</seriesid>
+  <thumb_added>2014-01-23 08:43:56</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4777845</id>
+  <Combined_episodenumber>19</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Where The Streets Have No Shame</EpisodeName>
+  <EpisodeNumber>19</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/161511/4777845.jpg</filename>
+  <lastupdated>1393684261</lastupdated>
+  <seasonid>242591</seasonid>
+  <seriesid>161511</seriesid>
+  <thumb_added>2014-01-23 08:59:43</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4780161</id>
+  <Combined_episodenumber>21</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>An Officer And A Gallagher</EpisodeName>
+  <EpisodeNumber>21</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/161511/4780161.jpg</filename>
+  <lastupdated>1393684052</lastupdated>
+  <seasonid>242591</seasonid>
+  <seriesid>161511</seriesid>
+  <thumb_added>2014-01-26 11:04:53</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4780162</id>
+  <Combined_episodenumber>22</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>A Lip Off The Old Block</EpisodeName>
+  <EpisodeNumber>22</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/161511/4780162.jpg</filename>
+  <lastupdated>1390763135</lastupdated>
+  <seasonid>242591</seasonid>
+  <seriesid>161511</seriesid>
+  <thumb_added>2014-01-26 11:05:29</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4780163</id>
+  <Combined_episodenumber>23</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Being Mandy &amp; Mickey Milkovich</EpisodeName>
+  <EpisodeNumber>23</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/161511/4780163.jpg</filename>
+  <lastupdated>1393684017</lastupdated>
+  <seasonid>242591</seasonid>
+  <seriesid>161511</seriesid>
+  <thumb_added>2014-01-26 11:06:56</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4780164</id>
+  <Combined_episodenumber>24</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>A Messy Triangle: LIp, Karen &amp; Mandy</EpisodeName>
+  <EpisodeNumber>24</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/161511/4780164.jpg</filename>
+  <lastupdated>1393683904</lastupdated>
+  <seasonid>242591</seasonid>
+  <seriesid>161511</seriesid>
+  <thumb_added>2014-01-26 11:07:46</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <id>2861921</id>
   <Combined_episodenumber>1.0</Combined_episodenumber>
   <Combined_season>1</Combined_season>
@@ -491,7 +1157,11 @@
   <Writer>John Wells|LaToya Morgan</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/161511/4145965.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1425166099</lastupdated>
+=======
+  <lastupdated>1406154520</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>471102</seasonid>
   <seriesid>161511</seriesid>
   <thumb_added></thumb_added>
@@ -641,7 +1311,7 @@
   <Overview>Grammy Gallagher shows up on a medical furlough and tries to track down a former meth lab protege that owes her money; Sheila plans Karen's wedding reception; Fiona double dates with Steve and his Brazilian girlfriend, and discovers that Steve is married; Ethel reacts to Clyde's death; Frank discovers the identity of Eddie's insurance beneficiary.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.1</Rating>
-  <RatingCount>60</RatingCount>
+  <RatingCount>61</RatingCount>
   <SeasonNumber>2</SeasonNumber>
   <Writer>William H. Macy|Steven Schachter|Steven Schaffer|LaToya Morgan|</Writer>
   <absolute_number></absolute_number>
@@ -1235,7 +1905,11 @@
   <Writer>John Wells</Writer>
   <absolute_number>37</absolute_number>
   <filename>episodes/161511/4624133.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1425166417</lastupdated>
+=======
+  <lastupdated>1409764728</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>521899</seasonid>
   <seriesid>161511</seriesid>
   <thumb_added>2013-12-29 12:34:10</thumb_added>
@@ -1266,7 +1940,11 @@
   <Writer>Nancy Pimental</Writer>
   <absolute_number>38</absolute_number>
   <filename>episodes/161511/4699149.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1425166425</lastupdated>
+=======
+  <lastupdated>1409764745</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>521899</seasonid>
   <seriesid>161511</seriesid>
   <thumb_added>2014-01-13 19:11:10</thumb_added>
@@ -1297,7 +1975,11 @@
   <Writer>Sheila Callaghan</Writer>
   <absolute_number>39</absolute_number>
   <filename>episodes/161511/4699150.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1425166432</lastupdated>
+=======
+  <lastupdated>1409764758</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>521899</seasonid>
   <seriesid>161511</seriesid>
   <thumb_added>2014-01-17 22:35:38</thumb_added>
@@ -1328,7 +2010,11 @@
   <Writer>Etan Frankel</Writer>
   <absolute_number>40</absolute_number>
   <filename>episodes/161511/4699151.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1425166444</lastupdated>
+=======
+  <lastupdated>1409764776</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>521899</seasonid>
   <seriesid>161511</seriesid>
   <thumb_added>2014-01-23 17:55:58</thumb_added>
@@ -1359,7 +2045,11 @@
   <Writer>Davey Holmes</Writer>
   <absolute_number>41</absolute_number>
   <filename>episodes/161511/4699152.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1425166451</lastupdated>
+=======
+  <lastupdated>1412097476</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>521899</seasonid>
   <seriesid>161511</seriesid>
   <thumb_added>2014-01-31 21:22:18</thumb_added>
@@ -1390,7 +2080,11 @@
   <Writer>John Wells</Writer>
   <absolute_number>42</absolute_number>
   <filename>episodes/161511/4699153.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1425166459</lastupdated>
+=======
+  <lastupdated>1412097563</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>521899</seasonid>
   <seriesid>161511</seriesid>
   <thumb_added>2014-02-05 15:36:38</thumb_added>
@@ -1421,7 +2115,11 @@
   <Writer>Nancy Pimental</Writer>
   <absolute_number>43</absolute_number>
   <filename>episodes/161511/4699154.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1425166480</lastupdated>
+=======
+  <lastupdated>1412098837</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>521899</seasonid>
   <seriesid>161511</seriesid>
   <thumb_added>2014-02-11 18:35:28</thumb_added>
@@ -1452,7 +2150,11 @@
   <Writer>Sheila Callaghan</Writer>
   <absolute_number>44</absolute_number>
   <filename>episodes/161511/4699155.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1425166488</lastupdated>
+=======
+  <lastupdated>1412098757</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>521899</seasonid>
   <seriesid>161511</seriesid>
   <thumb_added>2014-02-20 08:12:05</thumb_added>
@@ -1483,7 +2185,11 @@
   <Writer>Etan Frankel</Writer>
   <absolute_number>45</absolute_number>
   <filename>episodes/161511/4699156.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1425166495</lastupdated>
+=======
+  <lastupdated>1412098691</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>521899</seasonid>
   <seriesid>161511</seriesid>
   <thumb_added>2014-03-04 16:09:39</thumb_added>
@@ -1514,7 +2220,11 @@
   <Writer>Davey Holmes</Writer>
   <absolute_number>46</absolute_number>
   <filename>episodes/161511/4699157.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1425166506</lastupdated>
+=======
+  <lastupdated>1412098628</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>521899</seasonid>
   <seriesid>161511</seriesid>
   <thumb_added>2014-03-11 16:55:29</thumb_added>
@@ -1545,7 +2255,11 @@
   <Writer>Nancy Pimental</Writer>
   <absolute_number>47</absolute_number>
   <filename>episodes/161511/4699158.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1425166514</lastupdated>
+=======
+  <lastupdated>1412098562</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>521899</seasonid>
   <seriesid>161511</seriesid>
   <thumb_added>2014-03-20 01:44:27</thumb_added>
@@ -1576,7 +2290,11 @@
   <Writer>John Wells</Writer>
   <absolute_number>48</absolute_number>
   <filename>episodes/161511/4699159.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1425166522</lastupdated>
+=======
+  <lastupdated>1412098418</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>521899</seasonid>
   <seriesid>161511</seriesid>
   <thumb_added>2014-03-24 18:42:31</thumb_added>
@@ -1585,6 +2303,7 @@
 </Episode>
 <Episode>
   <id>5006617</id>
+<<<<<<< HEAD
   <Combined_episodenumber>1.0</Combined_episodenumber>
   <Combined_season>5</Combined_season>
   <DVD_chapter></DVD_chapter>
@@ -1594,6 +2313,17 @@
   <Director>Christopher Chulack</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Milk of the Gods</EpisodeName>
+=======
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Nectar of the Gods</EpisodeName>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <EpisodeNumber>1</EpisodeNumber>
   <FirstAired>2015-01-11</FirstAired>
   <GuestStars></GuestStars>
@@ -1604,10 +2334,17 @@
   <Rating>7.5</Rating>
   <RatingCount>15</RatingCount>
   <SeasonNumber>5</SeasonNumber>
+<<<<<<< HEAD
   <Writer>Nancy Pimental</Writer>
   <absolute_number>49</absolute_number>
   <filename>episodes/161511/5006617.jpg</filename>
   <lastupdated>1432483688</lastupdated>
+=======
+  <Writer></Writer>
+  <absolute_number>49</absolute_number>
+  <filename></filename>
+  <lastupdated>1414609306</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>598780</seasonid>
   <seriesid>161511</seriesid>
   <thumb_added>2014-12-11 22:02:47</thumb_added>
@@ -1622,6 +2359,7 @@
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
+<<<<<<< HEAD
   <Director>Sanaa Hamri</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>I'm the Liver</EpisodeName>
@@ -1629,16 +2367,342 @@
   <FirstAired>2015-01-18</FirstAired>
   <GuestStars></GuestStars>
   <IMDB_ID>tt3858936</IMDB_ID>
+=======
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>I'm the Liver</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2015-01-18</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3858936</IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>50</absolute_number>
+  <filename></filename>
+  <lastupdated>1414609379</lastupdated>
+  <seasonid>598780</seasonid>
+  <seriesid>161511</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5006634</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>The Two Lisas</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2015-01-25</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3858934</IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>51</absolute_number>
+  <filename></filename>
+  <lastupdated>1414609393</lastupdated>
+  <seasonid>598780</seasonid>
+  <seriesid>161511</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5006635</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>A Night to Remem-- Wait, What?</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3878444</IMDB_ID>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <Language>en</Language>
   <Overview>Sheila gets an offer to buy her home. Plus, Fiona is off house arrest!</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.2</Rating>
   <RatingCount>12</RatingCount>
   <SeasonNumber>5</SeasonNumber>
+<<<<<<< HEAD
   <Writer>Krista Vernoff</Writer>
   <absolute_number>50</absolute_number>
   <filename>episodes/161511/5006633.jpg</filename>
   <lastupdated>1432483703</lastupdated>
+=======
+  <Writer></Writer>
+  <absolute_number>52</absolute_number>
+  <filename></filename>
+  <lastupdated>1414609409</lastupdated>
+  <seasonid>598780</seasonid>
+  <seriesid>161511</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5006636</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Rite of Passage</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3904378</IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>53</absolute_number>
+  <filename></filename>
+  <lastupdated>1414609421</lastupdated>
+  <seasonid>598780</seasonid>
+  <seriesid>161511</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5006637</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Crazy Love</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3953104</IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>54</absolute_number>
+  <filename></filename>
+  <lastupdated>1414609439</lastupdated>
+  <seasonid>598780</seasonid>
+  <seriesid>161511</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5006638</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Tell Me You Fucking Need Me</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3979142</IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>55</absolute_number>
+  <filename></filename>
+  <lastupdated>1414609454</lastupdated>
+  <seasonid>598780</seasonid>
+  <seriesid>161511</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5006639</id>
+  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Uncle Carl</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt4056348</IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>56</absolute_number>
+  <filename></filename>
+  <lastupdated>1414609468</lastupdated>
+  <seasonid>598780</seasonid>
+  <seriesid>161511</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5006640</id>
+  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Carl's First Sentencing</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt4080744</IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>57</absolute_number>
+  <filename></filename>
+  <lastupdated>1414609673</lastupdated>
+  <seasonid>598780</seasonid>
+  <seriesid>161511</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5006641</id>
+  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>South Side Rules</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt4079958</IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>58</absolute_number>
+  <filename></filename>
+  <lastupdated>1414609691</lastupdated>
+  <seasonid>598780</seasonid>
+  <seriesid>161511</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5006642</id>
+  <Combined_episodenumber>11</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Drugs Actually</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt4112036</IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>59</absolute_number>
+  <filename></filename>
+  <lastupdated>1414609507</lastupdated>
+  <seasonid>598780</seasonid>
+  <seriesid>161511</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5006643</id>
+  <Combined_episodenumber>12</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Love Songs</EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3902188</IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>60</absolute_number>
+  <filename></filename>
+  <lastupdated>1414861086</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>598780</seasonid>
   <seriesid>161511</seriesid>
   <thumb_added>2014-12-11 22:11:44</thumb_added>

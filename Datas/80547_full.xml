@@ -13,8 +13,13 @@
   <NetworkID></NetworkID>
   <Overview>The series begins with the return of Upper East Side &quot;it girl&quot;, Serena van der Woodsen (Blake Lively) from a mysterious stay at a boarding school in Cornwall, Connecticut. Blair Waldorf (Leighton Meester), whom creators describe as the queen at the center of their chess game, is a longtime friend and occasional rival of Serena's, and the queen bee of Constance Billard School's social scene. The story also follows Chuck Bass (Ed Westwick), the bad boy of the Upper East Side; &quot;golden boy&quot; Nate Archibald (Chace Crawford), Chuck's best friend and Blair's boyfriend for many years. However, their relationship had been rocky ever since Serena left for boarding school. Other characters of the turbulent Manhattan scene: Dan Humphrey (Penn Badgley), Dan's best friend Vanessa Abrams (Jessica Szohr), and Dan's sister, Jenny Humphrey (Taylor Momsen).</Overview>
   <Rating>8.1</Rating>
+<<<<<<< HEAD
   <RatingCount>95</RatingCount>
   <Runtime>45</Runtime>
+=======
+  <RatingCount>92</RatingCount>
+  <Runtime>60</Runtime>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeriesID>68744</SeriesID>
   <SeriesName>Gossip Girl</SeriesName>
   <Status>Ended</Status>
@@ -22,8 +27,13 @@
   <addedBy></addedBy>
   <banner>text/80547.jpg</banner>
   <fanart>fanart/original/80547-24.jpg</fanart>
+<<<<<<< HEAD
   <lastupdated>1434234706</lastupdated>
   <poster>posters/80547-11.jpg</poster>
+=======
+  <lastupdated>1412833651</lastupdated>
+  <poster>posters/80547-13.jpg</poster>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>EP00932206</zap2it_id>
 </Series>
@@ -274,7 +284,11 @@
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
   <Director>Patrick Norris</Director>
+<<<<<<< HEAD
   <EpImgFlag>2</EpImgFlag>
+=======
+  <EpImgFlag></EpImgFlag>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <EpisodeName>Retrospective</EpisodeName>
   <EpisodeNumber>8</EpisodeNumber>
   <FirstAired>2012-12-17</FirstAired>
@@ -291,8 +305,13 @@
   <airsafter_season></airsafter_season>
   <airsbefore_episode>10</airsbefore_episode>
   <airsbefore_season>6</airsbefore_season>
+<<<<<<< HEAD
   <filename>episodes/80547/4457169.jpg</filename>
   <lastupdated>1423538050</lastupdated>
+=======
+  <filename></filename>
+  <lastupdated>1407919979</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>28495</seasonid>
   <seriesid>80547</seriesid>
   <thumb_added>2015-02-09 19:14:13</thumb_added>
@@ -1377,7 +1396,11 @@
   <Writer>Alexandra McNally|Lenn K. Rosenfeld</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80547/426068.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1423688132</lastupdated>
+=======
+  <lastupdated>1412833394</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>34573</seasonid>
   <seriesid>80547</seriesid>
   <thumb_added></thumb_added>
@@ -3051,7 +3074,11 @@
   <Writer>Sara Goodman</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80547/4128625.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1428658171</lastupdated>
+=======
+  <lastupdated>1411408027</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>466941</seasonid>
   <seriesid>80547</seriesid>
   <thumb_added></thumb_added>
@@ -3082,7 +3109,11 @@
   <Writer>Amanda Lasher</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80547/4154003.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1428658191</lastupdated>
+=======
+  <lastupdated>1411408127</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>466941</seasonid>
   <seriesid>80547</seriesid>
   <thumb_added></thumb_added>
@@ -3113,7 +3144,11 @@
   <Writer>Amy B. Harris</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80547/4179705.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1428658259</lastupdated>
+=======
+  <lastupdated>1411408187</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>466941</seasonid>
   <seriesid>80547</seriesid>
   <thumb_added></thumb_added>
@@ -3144,7 +3179,11 @@
   <Writer>Peter Elkoff</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80547/4183778.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1428658286</lastupdated>
+=======
+  <lastupdated>1411408213</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>466941</seasonid>
   <seriesid>80547</seriesid>
   <thumb_added></thumb_added>
@@ -3175,7 +3214,11 @@
   <Writer>Jake Colburn</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80547/4190858.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1430181747</lastupdated>
+=======
+  <lastupdated>1411408242</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>466941</seasonid>
   <seriesid>80547</seriesid>
   <thumb_added></thumb_added>
@@ -3206,7 +3249,11 @@
   <Writer>Dan Steele</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80547/4194588.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1428658494</lastupdated>
+=======
+  <lastupdated>1411408281</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>466941</seasonid>
   <seriesid>80547</seriesid>
   <thumb_added></thumb_added>
@@ -3237,7 +3284,11 @@
   <Writer>Austin Winsberg</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80547/4197108.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1428658512</lastupdated>
+=======
+  <lastupdated>1411408333</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>466941</seasonid>
   <seriesid>80547</seriesid>
   <thumb_added></thumb_added>
@@ -3268,7 +3319,11 @@
   <Writer>Natalie Krinsky</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80547/4201195.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1428658536</lastupdated>
+=======
+  <lastupdated>1411408376</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>466941</seasonid>
   <seriesid>80547</seriesid>
   <thumb_added></thumb_added>
@@ -3299,7 +3354,11 @@
   <Writer>Amanda Lasher</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80547/4205187.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1428658564</lastupdated>
+=======
+  <lastupdated>1411408399</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>466941</seasonid>
   <seriesid>80547</seriesid>
   <thumb_added></thumb_added>
@@ -3330,7 +3389,11 @@
   <Writer>Sara Goodman</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80547/4218072.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1428658583</lastupdated>
+=======
+  <lastupdated>1411408427</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>466941</seasonid>
   <seriesid>80547</seriesid>
   <thumb_added></thumb_added>
@@ -3361,7 +3424,11 @@
   <Writer>Peter Elkoff</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80547/4218073.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1428658604</lastupdated>
+=======
+  <lastupdated>1411408456</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>466941</seasonid>
   <seriesid>80547</seriesid>
   <thumb_added></thumb_added>
@@ -3392,7 +3459,11 @@
   <Writer>Joshua Safran</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80547/4224473.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1428658626</lastupdated>
+=======
+  <lastupdated>1411408481</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>466941</seasonid>
   <seriesid>80547</seriesid>
   <thumb_added></thumb_added>
@@ -3423,7 +3494,11 @@
   <Writer>Matt Whitney</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80547/4244758.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1428658646</lastupdated>
+=======
+  <lastupdated>1411408507</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>466941</seasonid>
   <seriesid>80547</seriesid>
   <thumb_added></thumb_added>
@@ -3454,7 +3529,11 @@
   <Writer>Austin Winsberg</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80547/4252707.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1428658667</lastupdated>
+=======
+  <lastupdated>1411408534</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>466941</seasonid>
   <seriesid>80547</seriesid>
   <thumb_added></thumb_added>
@@ -3485,7 +3564,11 @@
   <Writer>Amy B. Harris</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80547/4254452.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1428658691</lastupdated>
+=======
+  <lastupdated>1411408578</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>466941</seasonid>
   <seriesid>80547</seriesid>
   <thumb_added></thumb_added>
@@ -3516,7 +3599,11 @@
   <Writer>Jake Coburn</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80547/4260252.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1428658718</lastupdated>
+=======
+  <lastupdated>1411408602</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>466941</seasonid>
   <seriesid>80547</seriesid>
   <thumb_added></thumb_added>
@@ -3547,7 +3634,11 @@
   <Writer>Annemarie Navar-Gill</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80547/4275666.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1428658737</lastupdated>
+=======
+  <lastupdated>1411408625</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>466941</seasonid>
   <seriesid>80547</seriesid>
   <thumb_added></thumb_added>
@@ -3578,7 +3669,11 @@
   <Writer>Amanda Lasher</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80547/4291582.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1428658757</lastupdated>
+=======
+  <lastupdated>1411408650</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>466941</seasonid>
   <seriesid>80547</seriesid>
   <thumb_added></thumb_added>
@@ -3609,7 +3704,11 @@
   <Writer>Natalie Krinsky</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80547/4291585.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1428658884</lastupdated>
+=======
+  <lastupdated>1411408675</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>466941</seasonid>
   <seriesid>80547</seriesid>
   <thumb_added></thumb_added>
@@ -3640,7 +3739,11 @@
   <Writer>Austin Winsberg</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80547/4291586.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1428658922</lastupdated>
+=======
+  <lastupdated>1411408700</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>466941</seasonid>
   <seriesid>80547</seriesid>
   <thumb_added></thumb_added>
@@ -3671,7 +3774,11 @@
   <Writer>Jake Coburn</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80547/4291587.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1428658947</lastupdated>
+=======
+  <lastupdated>1411408725</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>466941</seasonid>
   <seriesid>80547</seriesid>
   <thumb_added></thumb_added>
@@ -3702,7 +3809,11 @@
   <Writer>Matt Whitney</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80547/4291588.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1428658968</lastupdated>
+=======
+  <lastupdated>1411408751</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>466941</seasonid>
   <seriesid>80547</seriesid>
   <thumb_added></thumb_added>
@@ -3733,7 +3844,11 @@
   <Writer>Sara Goodman</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80547/4291589.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1428659000</lastupdated>
+=======
+  <lastupdated>1411408776</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>466941</seasonid>
   <seriesid>80547</seriesid>
   <thumb_added></thumb_added>
@@ -3764,7 +3879,11 @@
   <Writer>|Josh Schwartz|Stephanie Savage|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80547/4326018.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1428659052</lastupdated>
+=======
+  <lastupdated>1411408816</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>492263</seasonid>
   <seriesid>80547</seriesid>
   <thumb_added></thumb_added>
@@ -3795,7 +3914,11 @@
   <Writer>Annemarie Navar-Gill</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80547/4332241.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1428659072</lastupdated>
+=======
+  <lastupdated>1411408843</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>492263</seasonid>
   <seriesid>80547</seriesid>
   <thumb_added></thumb_added>
@@ -3826,7 +3949,11 @@
   <Writer>Natalie Krinsky</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80547/4332242.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1428659090</lastupdated>
+=======
+  <lastupdated>1411408870</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>492263</seasonid>
   <seriesid>80547</seriesid>
   <thumb_added></thumb_added>
@@ -3857,7 +3984,11 @@
   <Writer>Andy Wolk</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80547/4332244.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1428659108</lastupdated>
+=======
+  <lastupdated>1411408899</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>492263</seasonid>
   <seriesid>80547</seriesid>
   <thumb_added></thumb_added>
@@ -3888,7 +4019,11 @@
   <Writer>Sara Goodman</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80547/4398274.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1428659126</lastupdated>
+=======
+  <lastupdated>1411408927</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>492263</seasonid>
   <seriesid>80547</seriesid>
   <thumb_added></thumb_added>
@@ -3919,7 +4054,11 @@
   <Writer>Dan Steele</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80547/4398275.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1428659163</lastupdated>
+=======
+  <lastupdated>1411408956</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>492263</seasonid>
   <seriesid>80547</seriesid>
   <thumb_added></thumb_added>
@@ -3950,7 +4089,11 @@
   <Writer>Jessica Queller</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80547/4398276.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1428659181</lastupdated>
+=======
+  <lastupdated>1411408982</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>492263</seasonid>
   <seriesid>80547</seriesid>
   <thumb_added></thumb_added>
@@ -3981,7 +4124,11 @@
   <Writer>Jake Coburn</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80547/4398277.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1428659213</lastupdated>
+=======
+  <lastupdated>1411409006</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>492263</seasonid>
   <seriesid>80547</seriesid>
   <thumb_added></thumb_added>
@@ -4012,7 +4159,11 @@
   <Writer>|Sara Goodman|Natalie Krinsky|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/80547/4398278.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1428659234</lastupdated>
+=======
+  <lastupdated>1411409035</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>492263</seasonid>
   <seriesid>80547</seriesid>
   <thumb_added></thumb_added>
@@ -4043,7 +4194,11 @@
   <Writer>|Stephanie Savage|</Writer>
   <absolute_number>121</absolute_number>
   <filename>episodes/80547/4398279.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1428659256</lastupdated>
+=======
+  <lastupdated>1411409061</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>492263</seasonid>
   <seriesid>80547</seriesid>
   <thumb_added></thumb_added>

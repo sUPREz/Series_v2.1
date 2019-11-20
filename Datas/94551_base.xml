@@ -14,8 +14,13 @@
     <NetworkID></NetworkID>
     <Overview>From writer/executive producer Jason Katims, this contemporary re-imagining of the blockbuster 1989 film depicts the colorful and imperfect Braverman family -- four grown siblings sharing the headaches, heartaches and joy of being parents.
 When Sarah Braverman, a financially strapped single mother, returns home to her parents and siblings in Berkeley, California after packing up her Fresno apartment and uprooting her two inconvenienced kids, Amber and Drew, she is greeted by her opinionated father, Zeek, and strong mother, Camille, who are privately dealing with their own marital issues. As Sarah is reunited with her siblings -- sister Julia and brothers Crosby and Adam -- all struggling with issues of their own, it's clear that the Braverman reunion is just what they need to face the everyday challenges of modern family life.</Overview>
+<<<<<<< HEAD
     <Rating>8.2</Rating>
     <RatingCount>34</RatingCount>
+=======
+    <Rating>8.3</Rating>
+    <RatingCount>32</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <Runtime>60</Runtime>
     <SeriesID>76680</SeriesID>
     <SeriesName>Parenthood (2010)</SeriesName>
@@ -23,8 +28,13 @@ When Sarah Braverman, a financially strapped single mother, returns home to her 
     <added>2009-05-16 12:42:03</added>
     <addedBy>5664</addedBy>
     <banner>graphical/94551-g3.jpg</banner>
+<<<<<<< HEAD
     <fanart>fanart/original/94551-10.jpg</fanart>
     <lastupdated>1434714359</lastupdated>
+=======
+    <fanart>fanart/original/94551-11.jpg</fanart>
+    <lastupdated>1414930402</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <poster>posters/94551-2.jpg</poster>
     <tms_wanted_old>1</tms_wanted_old>
     <zap2it_id>EP01154163</zap2it_id>

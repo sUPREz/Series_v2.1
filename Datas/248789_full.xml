@@ -12,8 +12,13 @@
   <Network>NBC</Network>
   <NetworkID></NetworkID>
   <Overview>Smash is a musical drama that celebrates the beauty and heartbreak of the Broadway theater as it follows a cross-section of dreamers and schemers who all have one common desire - to be a Smash </Overview>
+<<<<<<< HEAD
   <Rating>8.0</Rating>
   <RatingCount>18</RatingCount>
+=======
+  <Rating>7.9</Rating>
+  <RatingCount>16</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <Runtime>60</Runtime>
   <SeriesID>8063</SeriesID>
   <SeriesName>Smash (2012)</SeriesName>
@@ -21,8 +26,13 @@
   <added>2011-05-15 23:24:59</added>
   <addedBy>342859</addedBy>
   <banner>graphical/248789-g4.jpg</banner>
+<<<<<<< HEAD
   <fanart>fanart/original/248789-6.jpg</fanart>
   <lastupdated>1434201246</lastupdated>
+=======
+  <fanart>fanart/original/248789-1.jpg</fanart>
+  <lastupdated>1410004424</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <poster>posters/248789-6.jpg</poster>
   <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>SH01418959</zap2it_id>

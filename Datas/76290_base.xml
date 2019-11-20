@@ -13,8 +13,13 @@
     <Network>FOX (US)</Network>
     <NetworkID></NetworkID>
     <Overview>&quot;24&quot; is a TV thriller presented in &quot;real time&quot; with each minute of airtime that corresponds to a minute in the lives of the characters. &quot;24&quot; employs fast-paced and complex stories, and often contains unexpected plot twists. Though each day's events typically revolve around thwarting an impending terrorist attack, each season is made up of various interwoven story threads. These may run for just one hour, but more usually run over several hours. These typically involve investigations of leads on terrorists, tracking suspects, and averting attacks. The exact objective of the day evolves over the course of the season as the antagonists adapt, contingencies arise, and larger scale operations unfold.</Overview>
+<<<<<<< HEAD
     <Rating>8.8</Rating>
     <RatingCount>439</RatingCount>
+=======
+    <Rating>8.9</Rating>
+    <RatingCount>430</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <Runtime>60</Runtime>
     <SeriesID>3866</SeriesID>
     <SeriesName>24</SeriesName>
@@ -23,7 +28,11 @@
     <addedBy></addedBy>
     <banner>graphical/76290-g14.jpg</banner>
     <fanart>fanart/original/76290-46.jpg</fanart>
+<<<<<<< HEAD
     <lastupdated>1434703178</lastupdated>
+=======
+    <lastupdated>1415048007</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <poster>posters/76290-4.jpg</poster>
     <tms_wanted_old>1</tms_wanted_old>
     <zap2it_id>SH00446604</zap2it_id>

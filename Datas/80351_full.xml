@@ -13,7 +13,11 @@
   <NetworkID></NetworkID>
   <Overview>Pushing Daisies centers on the life of Ned, a pie-maker gifted with the mysterious ability to bring dead things back to life by touching them. There are some conditions to this somewhat unusual talent. Ned quickly learns that if something is revived for more than exactly one minute, something of similar &quot;life value&quot; in the vicinity drops dead, as a form of balance. Additionally, if he touches the revived person or thing a second time, it falls dead again, this time permanently.</Overview>
   <Rating>8.7</Rating>
+<<<<<<< HEAD
   <RatingCount>86</RatingCount>
+=======
+  <RatingCount>82</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <Runtime>60</Runtime>
   <SeriesID>68663</SeriesID>
   <SeriesName>Pushing Daisies</SeriesName>
@@ -22,7 +26,11 @@
   <addedBy></addedBy>
   <banner>graphical/80351-g9.jpg</banner>
   <fanart>fanart/original/80351-21.jpg</fanart>
+<<<<<<< HEAD
   <lastupdated>1433709655</lastupdated>
+=======
+  <lastupdated>1409809524</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <poster>posters/80351-2.jpg</poster>
   <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>SH930981</zap2it_id>

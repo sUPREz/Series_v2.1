@@ -14,16 +14,26 @@
     <NetworkID></NetworkID>
     <Overview>Unlike most television crime dramas, which neatly introduce and then solve a case all in the space of one hour, HBO's THE WIRE follows one single drug and homicide investigation throughout the length of an entire season. Centered on the drug culture of inner-city Baltimore, the series' storyline unfolds from the points of view of both the criminals lording the streets and the police officers determined to bring them down.</Overview>
     <Rating>9.5</Rating>
+<<<<<<< HEAD
     <RatingCount>213</RatingCount>
+=======
+    <RatingCount>204</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <Runtime>60</Runtime>
     <SeriesID>8800</SeriesID>
     <SeriesName>The Wire</SeriesName>
     <Status>Ended</Status>
     <added></added>
     <addedBy></addedBy>
+<<<<<<< HEAD
     <banner>graphical/79126-g24.jpg</banner>
     <fanart>fanart/original/79126-3.jpg</fanart>
     <lastupdated>1434097119</lastupdated>
+=======
+    <banner>graphical/79126-g.jpg</banner>
+    <fanart>fanart/original/79126-4.jpg</fanart>
+    <lastupdated>1411633991</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <poster>posters/79126-2.jpg</poster>
     <tms_wanted_old>1</tms_wanted_old>
     <zap2it_id>EP00507321</zap2it_id>

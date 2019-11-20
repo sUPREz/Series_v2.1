@@ -2,8 +2,13 @@
 <Data><Series>
   <id>83610</id>
   <Actors>|Lea Michele|Cory Monteith|Matthew Morrison|Mark Salling|Dianna Agron|Chris Colfer|Jenna Ushkowitz|Kevin McHale|Amber Riley|Jayma Mays|Jane Lynch|Becca Tobin|Jacob Artist|Melissa Benoist|Chord Overstreet|Darren Criss|Harry Shum Jr.|Heather Morris|Naya Rivera|Jessalyn Gilsig|Blake Jenner|Grant Gustin|Damian McGinty|Demi Lovato|Lauren Potter|Dean Geyer|Iqbal Theba|Mike O'Malley|Lindsay Lohan|Max Adler|</Actors>
+<<<<<<< HEAD
   <Airs_DayOfWeek>Friday</Airs_DayOfWeek>
   <Airs_Time>9:00 PM</Airs_Time>
+=======
+  <Airs_DayOfWeek>Tuesday</Airs_DayOfWeek>
+  <Airs_Time>8:00 PM</Airs_Time>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <ContentRating>TV-14</ContentRating>
   <FirstAired>2009-05-19</FirstAired>
   <Genre>|Comedy|Drama|</Genre>
@@ -13,17 +18,28 @@
   <NetworkID></NetworkID>
   <Overview>In the face of much criticism, an optimistic high school teacher challenges a group of outcasts to realize their potential in the school's glee club.</Overview>
   <Rating>8.1</Rating>
+<<<<<<< HEAD
   <RatingCount>150</RatingCount>
+=======
+  <RatingCount>146</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <Runtime>60</Runtime>
   <SeriesID>75988</SeriesID>
   <SeriesName>Glee</SeriesName>
   <Status>Ended</Status>
   <added>2008-11-01 06:35:37</added>
   <addedBy>3071</addedBy>
+<<<<<<< HEAD
   <banner>graphical/83610-g14.jpg</banner>
   <fanart>fanart/original/83610-51.jpg</fanart>
   <lastupdated>1432808307</lastupdated>
   <poster>posters/83610-28.jpg</poster>
+=======
+  <banner>graphical/83610-g15.jpg</banner>
+  <fanart>fanart/original/83610-46.jpg</fanart>
+  <lastupdated>1414958135</lastupdated>
+  <poster>posters/83610-27.jpg</poster>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>EP01141389</zap2it_id>
 </Series>
@@ -300,7 +316,11 @@
   <Overview>Sue's new job as Glee co-chair gives her new opportunities to break up the club as she introduces a tough competition to the group.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>87</RatingCount>
+=======
+  <RatingCount>86</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Brad Falchuk</Writer>
   <absolute_number></absolute_number>
@@ -362,7 +382,7 @@
   <Overview>Will encourages the Glee Club to support Artie, and asks each of them to perform in a wheelchair. Meanwhile, Kurt and Rachel compete for a big solo. </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
-  <RatingCount>86</RatingCount>
+  <RatingCount>87</RatingCount>
   <SeasonNumber>1</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
@@ -956,7 +976,11 @@
   <Writer>Brad Falchuk</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/2863501.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431173752</lastupdated>
+=======
+  <lastupdated>1406128014</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>284901</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -1013,7 +1037,11 @@
   <Overview>It's all about wedding and parents with Kurt getting ready for his father Burt's upcoming marriage to Finn's mom Carole, Sue decides to compete by getting married as well which will lead to the introduction of an awesome guest star: Carol Burnett. Carol will play Sue's Nazi-hunting mother Doris, who comes to visit Sue in Ohio.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>108</RatingCount>
+=======
+  <RatingCount>107</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Ryan Murphy</Writer>
   <absolute_number></absolute_number>
@@ -1080,7 +1108,11 @@
   <Writer>Ian Brennan</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/3204531.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431173886</lastupdated>
+=======
+  <lastupdated>1411664549</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>284901</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -1111,7 +1143,11 @@
   <Writer>Ian Brennan</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/3302451.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431173825</lastupdated>
+=======
+  <lastupdated>1411664560</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>284901</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -1142,7 +1178,11 @@
   <Writer>Ryan Murphy</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/3302461.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431173733</lastupdated>
+=======
+  <lastupdated>1411664570</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>284901</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -1173,7 +1213,11 @@
   <Writer>Ryan Murphy</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/3302471.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431173782</lastupdated>
+=======
+  <lastupdated>1411664579</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>284901</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -1204,7 +1248,11 @@
   <Writer>Ian Brennan</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/3302481.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431173852</lastupdated>
+=======
+  <lastupdated>1411664590</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>284901</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -1235,7 +1283,11 @@
   <Writer>Brad Falchuk</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/3722141.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431173919</lastupdated>
+=======
+  <lastupdated>1411664597</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>284901</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -1266,7 +1318,11 @@
   <Writer>Ryan Murphy</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/3739491.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431173796</lastupdated>
+=======
+  <lastupdated>1411664604</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>284901</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -1545,7 +1601,11 @@
   <Writer>Ian Brennan</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4174038.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431173933</lastupdated>
+=======
+  <lastupdated>1411666243</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>468423</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -1576,7 +1636,11 @@
   <Writer>Ali Adler</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4174039.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431173865</lastupdated>
+=======
+  <lastupdated>1411666254</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>468423</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -1669,7 +1733,11 @@
   <Writer>Matthew Hodgson</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4182610.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431173899</lastupdated>
+=======
+  <lastupdated>1411666309</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>468423</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -1700,7 +1768,11 @@
   <Writer>Ross Maxwell</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4200905.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431173858</lastupdated>
+=======
+  <lastupdated>1411666317</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>468423</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -1731,7 +1803,11 @@
   <Writer>Marti Noxon</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4200911.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431173727</lastupdated>
+=======
+  <lastupdated>1411666326</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>468423</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -1762,7 +1838,11 @@
   <Writer>Brad Falchuk</Writer>
   <absolute_number>54</absolute_number>
   <filename>episodes/83610/4200927.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431173880</lastupdated>
+=======
+  <lastupdated>1411666333</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>468423</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -1793,7 +1873,11 @@
   <Writer>Ryan Murphy</Writer>
   <absolute_number>55</absolute_number>
   <filename>episodes/83610/4200929.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431173789</lastupdated>
+=======
+  <lastupdated>1411666341</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>468423</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -2097,8 +2181,13 @@
   <Language>en</Language>
   <Overview>The glee club travels to Chicago, to compete in Nationals against the best show choirs in the country, including Vocal Adrenaline, for celebrity judges including Lindsay Lohan and Perez Hilton.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>8.1</Rating>
   <RatingCount>48</RatingCount>
+=======
+  <Rating>8.2</Rating>
+  <RatingCount>47</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>Ali Adler</Writer>
   <absolute_number></absolute_number>
@@ -2376,8 +2465,13 @@
   <Language>en</Language>
   <Overview>It's time for sectionals, and New Directions receives guidance from some of the recent McKinley graduates who volunteer to mentor the glee club during their Thanksgiving break. Meanwhile, Rachel and Kurt have a non-traditional holiday dinner in the Big Apple.</Overview>
   <ProductionCode>4ARC08</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.6</Rating>
   <RatingCount>38</RatingCount>
+=======
+  <Rating>7.5</Rating>
+  <RatingCount>37</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>Russel Friend &amp; Garrett Lerner</Writer>
   <absolute_number></absolute_number>
@@ -2413,7 +2507,11 @@
   <Writer>Stacy Traub</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4427154.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431173804</lastupdated>
+=======
+  <lastupdated>1411666603</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>494900</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added></thumb_added>
@@ -2655,8 +2753,13 @@
   <Language>en</Language>
   <Overview>The New Directions tackle an assignment, meaning the songs as well as groups that everyone is too embarrassed to admit that they love.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.5</Rating>
   <RatingCount>31</RatingCount>
+=======
+  <Rating>7.4</Rating>
+  <RatingCount>30</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>Russel Friend &amp; Garrett Lerner</Writer>
   <absolute_number></absolute_number>
@@ -2686,8 +2789,13 @@
   <Language>en</Language>
   <Overview>The members of New Directions are prepping for regionals, but when an unthinkable event occurs at McKinley High, perspectives are put into order.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.4</Rating>
   <RatingCount>25</RatingCount>
+=======
+  <Rating>7.3</Rating>
+  <RatingCount>24</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>Matthew Hodgson</Writer>
   <absolute_number></absolute_number>
@@ -2718,7 +2826,11 @@
   <Overview>When Mr. Schuester comes up with the setlist for regionals, the New Directions are not pleased, Rachel sings an unexpected song for her &quot;Funny Girl audition&quot;, and Marley writes an original song.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
+<<<<<<< HEAD
   <RatingCount>23</RatingCount>
+=======
+  <RatingCount>22</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>Ross Maxwell</Writer>
   <absolute_number></absolute_number>
@@ -2749,7 +2861,11 @@
   <Overview>When the power goes out at McKinley High, Will and Finn enlist the members of New Directions to &quot;unplug&quot; and perform acoustic numbers. Meanwhile, Isabelle Wright asks Kurt to volunteer at the Vogue.com charity event, with Rachel and Santana in tow.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
+<<<<<<< HEAD
   <RatingCount>23</RatingCount>
+=======
+  <RatingCount>22</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>Ryan Murphy</Writer>
   <absolute_number></absolute_number>
@@ -2780,7 +2896,11 @@
   <Overview>The members of New Directions take on the greatest hits of music icon Stevie Wonder. Meanwhile, Artie receives news that could affect his future and his mom. In New York, Rachel prepares for her &quot;Funny Girl&quot; callback.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
+<<<<<<< HEAD
   <RatingCount>24</RatingCount>
+=======
+  <RatingCount>23</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>Brad Falchuk</Writer>
   <absolute_number></absolute_number>
@@ -2811,7 +2931,11 @@
   <Overview>It's finally time for Regionals, and the glee club is more determined than ever to advance to Nationals. Brittany returns from her MIT trip with a new attitude and Ryder finally has a lead on who is &quot;catfishing&quot; him.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.3</Rating>
+<<<<<<< HEAD
   <RatingCount>23</RatingCount>
+=======
+  <RatingCount>22</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>4</SeasonNumber>
   <Writer>Ian Brennan</Writer>
   <absolute_number></absolute_number>
@@ -2940,7 +3064,11 @@
   <Writer>|Russel Friend|Garrett Lerner|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4661166.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431173838</lastupdated>
+=======
+  <lastupdated>1413459293</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>523453</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added>2013-11-09 18:37:33</thumb_added>
@@ -3058,13 +3186,22 @@
   <Language>en</Language>
   <Overview>Sue Sylvester introduces the episode as a Christmas special that FOX did not allow to air from last year. The members of New Directions audition for roles in McKinley's living Nativity Scene. Meanwhile in New York, Rachel, Kurt and Santana work as Santa's elves at a mall.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.2</Rating>
   <RatingCount>14</RatingCount>
+=======
+  <Rating>7.3</Rating>
+  <RatingCount>12</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>5</SeasonNumber>
   <Writer>Ross Maxwell</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4708225.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1432808080</lastupdated>
+=======
+  <lastupdated>1414223861</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>523453</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added>2013-12-05 23:17:23</thumb_added>
@@ -3090,12 +3227,20 @@
   <Overview>Santana auditions and snags the role of Rachel’s understudy in “Funny Girl,” causing a feud between the roommates. Meanwhile, back in Lima, Tina and Artie compete against each other to be the class valedictorian.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
+<<<<<<< HEAD
   <RatingCount>14</RatingCount>
+=======
+  <RatingCount>11</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>5</SeasonNumber>
   <Writer>Ned Martel</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4718163.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1432808118</lastupdated>
+=======
+  <lastupdated>1414223884</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>523453</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added>2014-02-26 00:11:03</thumb_added>
@@ -3120,13 +3265,22 @@
   <Language>en</Language>
   <Overview>As graduation approaches, Tina, Blaine and Sam band together to hold a senior &quot;lock-in&quot; at school, hoping to savor their last chance at hanging out together. But their plans are thwarted when Becky joins unexpectedly. Meanwhile, in New York, Elliot is stuck in the middle between Rachel and Santana's feud.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.0</Rating>
   <RatingCount>10</RatingCount>
+=======
+  <Rating>6.9</Rating>
+  <RatingCount>8</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>5</SeasonNumber>
   <Writer>Rivka Sophia Rossi</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4723938.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1432808157</lastupdated>
+=======
+  <lastupdated>1414223895</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>523453</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added>2014-03-05 08:31:13</thumb_added>
@@ -3182,13 +3336,22 @@
   <Language>en</Language>
   <Overview>The original members of New Directions reunite at McKinley to celebrate and reflect on the history of the seemingly doomed glee club.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.8</Rating>
   <RatingCount>10</RatingCount>
+=======
+  <Rating>7.9</Rating>
+  <RatingCount>9</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>5</SeasonNumber>
   <Writer>|Ryan Murphy|Brad Falchuk|Ian Brennan|</Writer>
   <absolute_number>100</absolute_number>
   <filename>episodes/83610/4725161.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431173913</lastupdated>
+=======
+  <lastupdated>1411666913</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>523453</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added>2014-03-08 08:04:43</thumb_added>
@@ -3213,8 +3376,13 @@
   <Language>en</Language>
   <Overview>As the fate of the glee club becomes a reality, April and Holly plot a plan to save New Directions. Meanwhile, Rachel and Santana attempt to make amends after their blowout fight.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.7</Rating>
   <RatingCount>13</RatingCount>
+=======
+  <Rating>7.6</Rating>
+  <RatingCount>12</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>5</SeasonNumber>
   <Writer>Brad Falchuk</Writer>
   <absolute_number></absolute_number>
@@ -3245,7 +3413,11 @@
   <Overview>Glee-club alumni members are followed in New York City several months after leaving New Directions: Blaine and Sam move in with Kurt; Artie struggles to get around Manhattan; Rachel settles into the life of a Broadway star; and Mercedes moves to NYC to work on her album.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.4</Rating>
+<<<<<<< HEAD
   <RatingCount>8</RatingCount>
+=======
+  <RatingCount>7</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>5</SeasonNumber>
   <Writer>Ryan Murphy</Writer>
   <absolute_number></absolute_number>
@@ -3275,13 +3447,22 @@
   <Language>en</Language>
   <Overview>Rachel is faced with a decision that pits her education against her career. Sam and Mercedes consider rekindling their romance. Kurt comes face-to-face with a hate-crime.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.2</Rating>
   <RatingCount>9</RatingCount>
+=======
+  <Rating>7.1</Rating>
+  <RatingCount>7</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>5</SeasonNumber>
   <Writer>Ian Brennan</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4725164.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1432808206</lastupdated>
+=======
+  <lastupdated>1413459559</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>523453</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added>2014-03-26 05:04:00</thumb_added>
@@ -3306,13 +3487,22 @@
   <Language>en</Language>
   <Overview>Blaine suffers a crisis of confidence after gaining the dreaded “Freshman Fifteen.” Artie discovers that his newfound success with the ladies comes at a price. Mercedes tells Sam she’s still a virgin.</Overview>
   <ProductionCode></ProductionCode>
+<<<<<<< HEAD
   <Rating>7.3</Rating>
   <RatingCount>7</RatingCount>
+=======
+  <Rating>7.2</Rating>
+  <RatingCount>5</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>5</SeasonNumber>
   <Writer>|Russel Friend|Garrett Lerner|</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4725166.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1432808249</lastupdated>
+=======
+  <lastupdated>1413459568</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>523453</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added>2014-04-03 16:12:41</thumb_added>
@@ -3343,7 +3533,11 @@
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4832594.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1432808268</lastupdated>
+=======
+  <lastupdated>1413459595</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>523453</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added>2014-04-10 18:40:34</thumb_added>
@@ -3374,7 +3568,11 @@
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4832595.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1432808299</lastupdated>
+=======
+  <lastupdated>1414223982</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>523453</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added>2014-04-17 20:09:28</thumb_added>
@@ -3405,7 +3603,11 @@
   <Writer>Chris Colfer</Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4832596.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1432808330</lastupdated>
+=======
+  <lastupdated>1413459661</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>523453</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added>2014-04-28 23:47:48</thumb_added>
@@ -3436,7 +3638,11 @@
   <Writer></Writer>
   <absolute_number></absolute_number>
   <filename>episodes/83610/4839795.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1432808356</lastupdated>
+=======
+  <lastupdated>1413459698</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>523453</seasonid>
   <seriesid>83610</seriesid>
   <thumb_added>2014-05-05 13:15:52</thumb_added>
@@ -3452,6 +3658,7 @@
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
   <Director></Director>
+<<<<<<< HEAD
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Loser Like Me</EpisodeName>
   <EpisodeNumber>1</EpisodeNumber>
@@ -3473,6 +3680,29 @@
   <thumb_added>2015-01-10 10:49:21</thumb_added>
   <thumb_height>225</thumb_height>
   <thumb_width>400</thumb_width>
+=======
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Loser Like Me</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1413910633</lastupdated>
+  <seasonid>596260</seasonid>
+  <seriesid>83610</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
 </Episode>
 <Episode>
   <id>4984252</id>
@@ -3483,6 +3713,7 @@
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
   <Director></Director>
+<<<<<<< HEAD
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Homecoming</EpisodeName>
   <EpisodeNumber>2</EpisodeNumber>
@@ -3504,6 +3735,29 @@
   <thumb_added>2015-01-10 10:49:36</thumb_added>
   <thumb_height>225</thumb_height>
   <thumb_width>400</thumb_width>
+=======
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Homecoming</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1413910714</lastupdated>
+  <seasonid>596260</seasonid>
+  <seriesid>83610</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
 </Episode>
 <Episode>
   <id>5011454</id>
@@ -3514,6 +3768,7 @@
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
   <Director></Director>
+<<<<<<< HEAD
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Jagged Little Tapestry</EpisodeName>
   <EpisodeNumber>3</EpisodeNumber>
@@ -3535,6 +3790,29 @@
   <thumb_added>2015-01-16 08:52:41</thumb_added>
   <thumb_height>225</thumb_height>
   <thumb_width>400</thumb_width>
+=======
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Jagged Little Tapestry</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1413910783</lastupdated>
+  <seasonid>596260</seasonid>
+  <seriesid>83610</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
 </Episode>
 <Episode>
   <id>5011455</id>
@@ -3545,6 +3823,7 @@
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
   <Director></Director>
+<<<<<<< HEAD
   <EpImgFlag>1</EpImgFlag>
   <EpisodeName>The Hurt Locker (1)</EpisodeName>
   <EpisodeNumber>4</EpisodeNumber>
@@ -3566,6 +3845,29 @@
   <thumb_added>2015-01-23 19:01:27</thumb_added>
   <thumb_height>300</thumb_height>
   <thumb_width>400</thumb_width>
+=======
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>The Hurt Locker</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1413290569</lastupdated>
+  <seasonid>596260</seasonid>
+  <seriesid>83610</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
 </Episode>
 <Episode>
   <id>5011456</id>
@@ -3576,6 +3878,7 @@
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
   <Director></Director>
+<<<<<<< HEAD
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>The Hurt Locker (2)</EpisodeName>
   <EpisodeNumber>5</EpisodeNumber>
@@ -3597,6 +3900,29 @@
   <thumb_added>2015-01-30 22:24:41</thumb_added>
   <thumb_height>225</thumb_height>
   <thumb_width>400</thumb_width>
+=======
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>The Hurt Locker, Part 2</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1414856257</lastupdated>
+  <seasonid>596260</seasonid>
+  <seriesid>83610</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
 </Episode>
 <Episode>
   <id>5011457</id>
@@ -3607,6 +3933,7 @@
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
   <Director></Director>
+<<<<<<< HEAD
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>What the World Needs Now</EpisodeName>
   <EpisodeNumber>6</EpisodeNumber>
@@ -3628,6 +3955,29 @@
   <thumb_added>2015-02-04 01:59:08</thumb_added>
   <thumb_height>225</thumb_height>
   <thumb_width>400</thumb_width>
+=======
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>6x06</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1412700504</lastupdated>
+  <seasonid>596260</seasonid>
+  <seriesid>83610</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
 </Episode>
 <Episode>
   <id>5011458</id>
@@ -3638,6 +3988,7 @@
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
   <Director></Director>
+<<<<<<< HEAD
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Transitioning</EpisodeName>
   <EpisodeNumber>7</EpisodeNumber>
@@ -3660,6 +4011,29 @@ Coach Beiste, returns to McKinley and the romantic tension that has been brewing
   <thumb_added>2015-01-26 17:25:28</thumb_added>
   <thumb_height>225</thumb_height>
   <thumb_width>400</thumb_width>
+=======
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>6x07</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1412700510</lastupdated>
+  <seasonid>596260</seasonid>
+  <seriesid>83610</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
 </Episode>
 <Episode>
   <id>5011459</id>
@@ -3670,6 +4044,7 @@ Coach Beiste, returns to McKinley and the romantic tension that has been brewing
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
   <Director></Director>
+<<<<<<< HEAD
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>A Wedding</EpisodeName>
   <EpisodeNumber>8</EpisodeNumber>
@@ -3694,6 +4069,32 @@ Coach Beiste, returns to McKinley and the romantic tension that has been brewing
 </Episode>
 <Episode>
   <id>5011461</id>
+=======
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>6x08</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1412700515</lastupdated>
+  <seasonid>596260</seasonid>
+  <seriesid>83610</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5011460</id>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <Combined_episodenumber>9</Combined_episodenumber>
   <Combined_season>6</Combined_season>
   <DVD_chapter></DVD_chapter>
@@ -3701,6 +4102,7 @@ Coach Beiste, returns to McKinley and the romantic tension that has been brewing
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
   <Director></Director>
+<<<<<<< HEAD
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Child Star</EpisodeName>
   <EpisodeNumber>9</EpisodeNumber>
@@ -3725,6 +4127,32 @@ Coach Beiste, returns to McKinley and the romantic tension that has been brewing
 </Episode>
 <Episode>
   <id>5011462</id>
+=======
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>6x09</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1412700522</lastupdated>
+  <seasonid>596260</seasonid>
+  <seriesid>83610</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5011461</id>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <Combined_episodenumber>10</Combined_episodenumber>
   <Combined_season>6</Combined_season>
   <DVD_chapter></DVD_chapter>
@@ -3732,6 +4160,7 @@ Coach Beiste, returns to McKinley and the romantic tension that has been brewing
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
   <Director></Director>
+<<<<<<< HEAD
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>The Rise and Fall of Sue Sylvester</EpisodeName>
   <EpisodeNumber>10</EpisodeNumber>
@@ -3756,6 +4185,32 @@ Coach Beiste, returns to McKinley and the romantic tension that has been brewing
 </Episode>
 <Episode>
   <id>5011463</id>
+=======
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>6x10</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1412700530</lastupdated>
+  <seasonid>596260</seasonid>
+  <seriesid>83610</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5011462</id>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <Combined_episodenumber>11</Combined_episodenumber>
   <Combined_season>6</Combined_season>
   <DVD_chapter></DVD_chapter>
@@ -3763,6 +4218,7 @@ Coach Beiste, returns to McKinley and the romantic tension that has been brewing
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
   <Director></Director>
+<<<<<<< HEAD
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>We Built This Glee Club</EpisodeName>
   <EpisodeNumber>11</EpisodeNumber>
@@ -3787,6 +4243,32 @@ Coach Beiste, returns to McKinley and the romantic tension that has been brewing
 </Episode>
 <Episode>
   <id>5011460</id>
+=======
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>6x11</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1412700536</lastupdated>
+  <seasonid>596260</seasonid>
+  <seriesid>83610</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5011463</id>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <Combined_episodenumber>12</Combined_episodenumber>
   <Combined_season>6</Combined_season>
   <DVD_chapter></DVD_chapter>
@@ -3794,6 +4276,7 @@ Coach Beiste, returns to McKinley and the romantic tension that has been brewing
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
   <Director></Director>
+<<<<<<< HEAD
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>2009</EpisodeName>
   <EpisodeNumber>12</EpisodeNumber>
@@ -3815,6 +4298,29 @@ Coach Beiste, returns to McKinley and the romantic tension that has been brewing
   <thumb_added>2015-03-15 09:50:39</thumb_added>
   <thumb_height>225</thumb_height>
   <thumb_width>400</thumb_width>
+=======
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>6x12</EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1412700542</lastupdated>
+  <seasonid>596260</seasonid>
+  <seriesid>83610</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
 </Episode>
 <Episode>
   <id>5011466</id>
@@ -3824,6 +4330,7 @@ Coach Beiste, returns to McKinley and the romantic tension that has been brewing
   <DVD_discid></DVD_discid>
   <DVD_episodenumber></DVD_episodenumber>
   <DVD_season></DVD_season>
+<<<<<<< HEAD
   <Director>Brad Buecker</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>Dreams Come True</EpisodeName>
@@ -3846,5 +4353,29 @@ Coach Beiste, returns to McKinley and the romantic tension that has been brewing
   <thumb_added>2015-03-15 09:51:57</thumb_added>
   <thumb_height>225</thumb_height>
   <thumb_width>400</thumb_width>
+=======
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Series Finale</EpisodeName>
+  <EpisodeNumber>13</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>6</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1412700557</lastupdated>
+  <seasonid>596260</seasonid>
+  <seriesid>83610</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
 </Episode>
 </Data>

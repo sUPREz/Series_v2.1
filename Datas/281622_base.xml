@@ -2,6 +2,7 @@
 <Data>
   <Series>
     <id>281622</id>
+<<<<<<< HEAD
     <Actors>|Will Forte|Kristen Schaal |January Jones|Mary Steenburgen |Boris Kodjoe|Mel Rodriguez|Cleopatra Coleman|</Actors>
     <Airs_DayOfWeek>Sunday</Airs_DayOfWeek>
     <Airs_Time>9:30 PM</Airs_Time>
@@ -16,15 +17,38 @@
     <Rating>7.3</Rating>
     <RatingCount>21</RatingCount>
     <Runtime>20</Runtime>
+=======
+    <Actors>||</Actors>
+    <Airs_DayOfWeek></Airs_DayOfWeek>
+    <Airs_Time></Airs_Time>
+    <ContentRating></ContentRating>
+    <FirstAired></FirstAired>
+    <Genre>|Comedy|</Genre>
+    <IMDB_ID>tt3230454</IMDB_ID>
+    <Language>en</Language>
+    <Network>FOX</Network>
+    <NetworkID></NetworkID>
+    <Overview>Will Forte created and stars in this comedy series about two strangers who, after the apocalypse, must put aside their differences to ensure the survival of the human race. </Overview>
+    <Rating></Rating>
+    <RatingCount>0</RatingCount>
+    <Runtime>30</Runtime>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <SeriesID></SeriesID>
     <SeriesName>The Last Man on Earth</SeriesName>
     <Status>Continuing</Status>
     <added>2014-05-12 06:52:24</added>
     <addedBy>356771</addedBy>
+<<<<<<< HEAD
     <banner>graphical/281622-g3.jpg</banner>
     <fanart>fanart/original/281622-3.jpg</fanart>
     <lastupdated>1433874396</lastupdated>
     <poster>posters/281622-5.jpg</poster>
+=======
+    <banner>graphical/281622-g2.jpg</banner>
+    <fanart>fanart/original/281622-1.jpg</fanart>
+    <lastupdated>1412618051</lastupdated>
+    <poster>posters/281622-1.jpg</poster>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <tms_wanted_old>0</tms_wanted_old>
     <zap2it_id></zap2it_id>
   </Series>

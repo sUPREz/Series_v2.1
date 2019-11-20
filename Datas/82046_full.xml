@@ -13,7 +13,11 @@
   <NetworkID></NetworkID>
   <Overview>The show revolves around a corporation running numerous underground establishments across the globe which program individuals referred to as Actives with temporary personalities and skills. Wealthy clients hire Actives at great expense for various purposes. The series follows the Active known as Echo, on her journey towards self-awareness.</Overview>
   <Rating>8.0</Rating>
+<<<<<<< HEAD
   <RatingCount>207</RatingCount>
+=======
+  <RatingCount>205</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <Runtime>60</Runtime>
   <SeriesID>75224</SeriesID>
   <SeriesName>Dollhouse</SeriesName>
@@ -22,7 +26,11 @@
   <addedBy></addedBy>
   <banner>graphical/82046-g3.jpg</banner>
   <fanart>fanart/original/82046-24.jpg</fanart>
+<<<<<<< HEAD
   <lastupdated>1433710112</lastupdated>
+=======
+  <lastupdated>1414504284</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <poster>posters/82046-21.jpg</poster>
   <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>SH1059106</zap2it_id>
@@ -85,7 +93,11 @@
   <Writer>Joss Whedon</Writer>
   <absolute_number>1</absolute_number>
   <filename>episodes/82046/367560.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1432418570</lastupdated>
+=======
+  <lastupdated>1412722067</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>32558</seasonid>
   <seriesid>82046</seriesid>
   <thumb_added></thumb_added>
@@ -116,7 +128,11 @@
   <Writer>Steven S. DeKnight</Writer>
   <absolute_number>2</absolute_number>
   <filename>episodes/82046/397417.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1432418630</lastupdated>
+=======
+  <lastupdated>1412722115</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>32558</seasonid>
   <seriesid>82046</seriesid>
   <thumb_added></thumb_added>
@@ -144,10 +160,17 @@
   <Rating>7.2</Rating>
   <RatingCount>58</RatingCount>
   <SeasonNumber>1</SeasonNumber>
+<<<<<<< HEAD
   <Writer>|Maurissa Tancharoen|Jed Whedon|</Writer>
   <absolute_number>3</absolute_number>
   <filename>episodes/82046/397419.jpg</filename>
   <lastupdated>1432418650</lastupdated>
+=======
+  <Writer>Maurissa Tancharoen|Jed Whedon</Writer>
+  <absolute_number>3</absolute_number>
+  <filename>episodes/82046/397419.jpg</filename>
+  <lastupdated>1414503630</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>32558</seasonid>
   <seriesid>82046</seriesid>
   <thumb_added></thumb_added>
@@ -175,10 +198,17 @@
   <Rating>7.6</Rating>
   <RatingCount>53</RatingCount>
   <SeasonNumber>1</SeasonNumber>
+<<<<<<< HEAD
   <Writer>|Sarah Fain|Elizabeth Craft|</Writer>
   <absolute_number>4</absolute_number>
   <filename>episodes/82046/397418.jpg</filename>
   <lastupdated>1432418669</lastupdated>
+=======
+  <Writer>Sarah Fain|Elizabeth Craft</Writer>
+  <absolute_number>4</absolute_number>
+  <filename>episodes/82046/397418.jpg</filename>
+  <lastupdated>1414503719</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>32558</seasonid>
   <seriesid>82046</seriesid>
   <thumb_added></thumb_added>
@@ -209,7 +239,11 @@
   <Writer>Tim Minear</Writer>
   <absolute_number>5</absolute_number>
   <filename>episodes/82046/400266.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1432418728</lastupdated>
+=======
+  <lastupdated>1412722192</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>32558</seasonid>
   <seriesid>82046</seriesid>
   <thumb_added></thumb_added>
@@ -240,7 +274,11 @@
   <Writer>Joss Whedon</Writer>
   <absolute_number>6</absolute_number>
   <filename>episodes/82046/397420.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1432418750</lastupdated>
+=======
+  <lastupdated>1412722210</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>32558</seasonid>
   <seriesid>82046</seriesid>
   <thumb_added></thumb_added>
@@ -268,10 +306,17 @@
   <Rating>7.5</Rating>
   <RatingCount>56</RatingCount>
   <SeasonNumber>1</SeasonNumber>
+<<<<<<< HEAD
   <Writer>|Elizabeth Craft|Sarah Fain|</Writer>
   <absolute_number>7</absolute_number>
   <filename>episodes/82046/406113.jpg</filename>
   <lastupdated>1431161485</lastupdated>
+=======
+  <Writer>Elizabeth Craft|Sarah Fain</Writer>
+  <absolute_number>7</absolute_number>
+  <filename>episodes/82046/406113.jpg</filename>
+  <lastupdated>1414503755</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>32558</seasonid>
   <seriesid>82046</seriesid>
   <thumb_added></thumb_added>
@@ -302,7 +347,11 @@
   <Writer>Tracy Bellomo</Writer>
   <absolute_number>8</absolute_number>
   <filename>episodes/82046/406114.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1424102498</lastupdated>
+=======
+  <lastupdated>1414503778</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>32558</seasonid>
   <seriesid>82046</seriesid>
   <thumb_added></thumb_added>
@@ -333,7 +382,11 @@
   <Writer>Andrew Chambliss</Writer>
   <absolute_number>9</absolute_number>
   <filename>episodes/82046/412365.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1424102526</lastupdated>
+=======
+  <lastupdated>1414503794</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>32558</seasonid>
   <seriesid>82046</seriesid>
   <thumb_added></thumb_added>
@@ -361,10 +414,17 @@
   <Rating>7.7</Rating>
   <RatingCount>60</RatingCount>
   <SeasonNumber>1</SeasonNumber>
+<<<<<<< HEAD
   <Writer>|Jane Espenson|Jed Whedon|Maurissa Tancharoen|</Writer>
   <absolute_number>10</absolute_number>
   <filename>episodes/82046/412364.jpg</filename>
   <lastupdated>1431161565</lastupdated>
+=======
+  <Writer>Jane Espenson|Jed Whedon|Maurissa Tancharoen</Writer>
+  <absolute_number>10</absolute_number>
+  <filename>episodes/82046/412364.jpg</filename>
+  <lastupdated>1414503811</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>32558</seasonid>
   <seriesid>82046</seriesid>
   <thumb_added></thumb_added>
@@ -395,7 +455,11 @@
   <Writer>Jane Espenson</Writer>
   <absolute_number>11</absolute_number>
   <filename>episodes/82046/418622.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1424102580</lastupdated>
+=======
+  <lastupdated>1414503824</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>32558</seasonid>
   <seriesid>82046</seriesid>
   <thumb_added></thumb_added>
@@ -426,7 +490,11 @@
   <Writer>Tim Minear</Writer>
   <absolute_number>12</absolute_number>
   <filename>episodes/82046/419436.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1424102603</lastupdated>
+=======
+  <lastupdated>1412722378</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>32558</seasonid>
   <seriesid>82046</seriesid>
   <thumb_added></thumb_added>
@@ -454,10 +522,17 @@
   <Rating>7.9</Rating>
   <RatingCount>47</RatingCount>
   <SeasonNumber>1</SeasonNumber>
+<<<<<<< HEAD
   <Writer>|Maurissa Tancharoen|Jed Whedon|Joss Whedon|</Writer>
   <absolute_number>13</absolute_number>
   <filename>episodes/82046/419437.jpg</filename>
   <lastupdated>1431161529</lastupdated>
+=======
+  <Writer>Maurissa Tancharoen|Jed Whedon|Joss Whedon</Writer>
+  <absolute_number>13</absolute_number>
+  <filename>episodes/82046/419437.jpg</filename>
+  <lastupdated>1414503857</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>32558</seasonid>
   <seriesid>82046</seriesid>
   <thumb_added></thumb_added>
@@ -477,7 +552,11 @@
   <EpisodeName>Vows</EpisodeName>
   <EpisodeNumber>1</EpisodeNumber>
   <FirstAired>2009-09-25</FirstAired>
+<<<<<<< HEAD
   <GuestStars>|Alexis Denisof|Jamie Bamber|Liza Lapira|Zoran Radanovich|</GuestStars>
+=======
+  <GuestStars>Alexis Denisof|Jamie Bamber|Liza Lapira|Zoran Radanovich</GuestStars>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <IMDB_ID>tt1472477</IMDB_ID>
   <Language>en</Language>
   <Overview>It has been several months since Alpha's reign of terror and Echo, who is now randomly picking up flashes of past engagements, weds a British businessman who has ties to one of Ballard's open FBI cases. Topher becomes the target of Dr. Saunder's aggression after she finds out that she is actually a doll named Whiskey. Boyd takes on a risky venture and mixes business with pleasure, while DeWitt makes Ballard an irresistable offer.</Overview>
@@ -488,7 +567,11 @@
   <Writer>Joss Whedon</Writer>
   <absolute_number>14</absolute_number>
   <filename>episodes/82046/761311.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1432418802</lastupdated>
+=======
+  <lastupdated>1414503968</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>79111</seasonid>
   <seriesid>82046</seriesid>
   <thumb_added></thumb_added>
@@ -516,10 +599,17 @@
   <Rating>7.2</Rating>
   <RatingCount>51</RatingCount>
   <SeasonNumber>2</SeasonNumber>
+<<<<<<< HEAD
   <Writer>|Michele Fazekas|Tara Butters|</Writer>
   <absolute_number>15</absolute_number>
   <filename>episodes/82046/1076911.jpg</filename>
   <lastupdated>1431161573</lastupdated>
+=======
+  <Writer>Michele Fazekas|Tara Butters</Writer>
+  <absolute_number>15</absolute_number>
+  <filename>episodes/82046/1076911.jpg</filename>
+  <lastupdated>1414503987</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>79111</seasonid>
   <seriesid>82046</seriesid>
   <thumb_added></thumb_added>
@@ -550,7 +640,11 @@
   <Writer>Tim Minear</Writer>
   <absolute_number>16</absolute_number>
   <filename>episodes/82046/1063801.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1424102731</lastupdated>
+=======
+  <lastupdated>1414503999</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>79111</seasonid>
   <seriesid>82046</seriesid>
   <thumb_added></thumb_added>
@@ -578,10 +672,17 @@
   <Rating>7.6</Rating>
   <RatingCount>54</RatingCount>
   <SeasonNumber>2</SeasonNumber>
+<<<<<<< HEAD
   <Writer>|Maurissa Tancharoen|Jed Whedon|</Writer>
   <absolute_number>17</absolute_number>
   <filename>episodes/82046/1076921.jpg</filename>
   <lastupdated>1432418823</lastupdated>
+=======
+  <Writer>Maurissa Tancharoen|Jed Whedon</Writer>
+  <absolute_number>17</absolute_number>
+  <filename>episodes/82046/1076921.jpg</filename>
+  <lastupdated>1414504015</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>79111</seasonid>
   <seriesid>82046</seriesid>
   <thumb_added></thumb_added>
@@ -612,7 +713,11 @@
   <Writer>Andrew Chambliss</Writer>
   <absolute_number>18</absolute_number>
   <filename>episodes/82046/1076931.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1424102784</lastupdated>
+=======
+  <lastupdated>1414504030</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>79111</seasonid>
   <seriesid>82046</seriesid>
   <thumb_added></thumb_added>
@@ -643,7 +748,11 @@
   <Writer>Tracy Bellomo</Writer>
   <absolute_number>19</absolute_number>
   <filename>episodes/82046/1076941.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1424102808</lastupdated>
+=======
+  <lastupdated>1414504053</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>79111</seasonid>
   <seriesid>82046</seriesid>
   <thumb_added></thumb_added>
@@ -671,10 +780,17 @@
   <Rating>7.6</Rating>
   <RatingCount>48</RatingCount>
   <SeasonNumber>2</SeasonNumber>
+<<<<<<< HEAD
   <Writer>|Maurissa Tancharoen|Jed Whedon|Andrew Chambliss|</Writer>
   <absolute_number>20</absolute_number>
   <filename>episodes/82046/1116391.jpg</filename>
   <lastupdated>1431161536</lastupdated>
+=======
+  <Writer>Maurissa Tancharoen|Jed Whedon|Andrew Chambliss</Writer>
+  <absolute_number>20</absolute_number>
+  <filename>episodes/82046/1116391.jpg</filename>
+  <lastupdated>1414504081</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>79111</seasonid>
   <seriesid>82046</seriesid>
   <thumb_added></thumb_added>
@@ -694,7 +810,11 @@
   <EpisodeName>A Love Supreme</EpisodeName>
   <EpisodeNumber>8</EpisodeNumber>
   <FirstAired>2009-12-11</FirstAired>
+<<<<<<< HEAD
   <GuestStars>|Keith Carradine|Brett Claywell|Patton Oswalt|Alan Tudyk|David Lee Smith|</GuestStars>
+=======
+  <GuestStars>Keith Carradine|Brett Claywell|Patton Oswalt|Alan Tudyk|David Lee Smith</GuestStars>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <IMDB_ID>tt1535687</IMDB_ID>
   <Language>en</Language>
   <Overview>When Echo's past romantic engagements are found murdered, the Dollhouse fears that Alpha has returned to seek his revenge. Adelle grows suspicious of Ballard who hopes to find allies in Boyd and Topher. The Actives turn against their handlers, leaving one member of the house permanently mind-wiped.</Overview>
@@ -705,7 +825,11 @@
   <Writer>Jenny DeArmitt</Writer>
   <absolute_number>21</absolute_number>
   <filename>episodes/82046/1162401.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431161494</lastupdated>
+=======
+  <lastupdated>1414504115</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>79111</seasonid>
   <seriesid>82046</seriesid>
   <thumb_added></thumb_added>
@@ -725,7 +849,11 @@
   <EpisodeName>Stop-Loss</EpisodeName>
   <EpisodeNumber>9</EpisodeNumber>
   <FirstAired>2009-12-18</FirstAired>
+<<<<<<< HEAD
   <GuestStars>|Liza Lapira|Kate Comer|Michael King|Katrina Nelson|</GuestStars>
+=======
+  <GuestStars>Liza Lapira|Kate Comer|Michael King|Katrina Nelson</GuestStars>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <IMDB_ID>tt1535689</IMDB_ID>
   <Language>en</Language>
   <Overview>As his contract with the Dollhouse expires, Victor is released back into the world, where his military past threatens his future with Sierra. Meanwhile, Echo is deemed too dangerous and is sent into her worst nightmare.</Overview>
@@ -736,7 +864,11 @@
   <Writer>Andrew Chambliss</Writer>
   <absolute_number>22</absolute_number>
   <filename>episodes/82046/1181161.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1432418852</lastupdated>
+=======
+  <lastupdated>1414504146</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>79111</seasonid>
   <seriesid>82046</seriesid>
   <thumb_added></thumb_added>
@@ -756,7 +888,11 @@
   <EpisodeName>The Attic</EpisodeName>
   <EpisodeNumber>10</EpisodeNumber>
   <FirstAired>2009-12-18</FirstAired>
+<<<<<<< HEAD
   <GuestStars>|Liza Lapira|Vincent Ventresca|Reed Diamond|Adam Godley|Tzi Ma|</GuestStars>
+=======
+  <GuestStars>Liza Lapira|Vincent Ventresca|Reed Diamond|Adam Godley|Tzi Ma</GuestStars>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <IMDB_ID>tt1535690</IMDB_ID>
   <Language>en</Language>
   <Overview>When Adelle, Boyd, and the rest of the Dollhouse fear that Echo's uncontrollable mind imprints are making her a danger to their goals, they send her to &quot;the Attic&quot; where Echo is forced to face her worst nightmare in order to survive.</Overview>
@@ -764,10 +900,17 @@
   <Rating>8.1</Rating>
   <RatingCount>52</RatingCount>
   <SeasonNumber>2</SeasonNumber>
+<<<<<<< HEAD
   <Writer>|Maurissa Tancharoen|Jed Whedon|</Writer>
   <absolute_number>23</absolute_number>
   <filename>episodes/82046/1213711.jpg</filename>
   <lastupdated>1432418872</lastupdated>
+=======
+  <Writer>Maurissa Tancharoen|Jed Whedon</Writer>
+  <absolute_number>23</absolute_number>
+  <filename>episodes/82046/1213711.jpg</filename>
+  <lastupdated>1414504177</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>79111</seasonid>
   <seriesid>82046</seriesid>
   <thumb_added></thumb_added>
@@ -787,7 +930,11 @@
   <EpisodeName>Getting Closer</EpisodeName>
   <EpisodeNumber>11</EpisodeNumber>
   <FirstAired>2010-01-08</FirstAired>
+<<<<<<< HEAD
   <GuestStars>|Summer Glau|Philip Casnoff|Reed Diamond|Miracle Laurie|Jay Malone|</GuestStars>
+=======
+  <GuestStars>Summer Glau|Philip Casnoff|Reed Diamond|Miracle Laurie|Jay Malone</GuestStars>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <IMDB_ID>tt1537128</IMDB_ID>
   <Language>en</Language>
   <Overview>Topher races to reconstruct Echo's original personality and memories when Adelle realizes they are the key to averting a devastating future. Meanwhile, Echo and Bennett's shared past and the identity of The Rossum Corporation's mysterious leader are revealed.</Overview>
@@ -798,7 +945,11 @@
   <Writer>Tim Minear</Writer>
   <absolute_number>24</absolute_number>
   <filename>episodes/82046/1301741.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1431161473</lastupdated>
+=======
+  <lastupdated>1414504199</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>79111</seasonid>
   <seriesid>82046</seriesid>
   <thumb_added></thumb_added>
@@ -818,7 +969,11 @@
   <EpisodeName>The Hollow Men</EpisodeName>
   <EpisodeNumber>12</EpisodeNumber>
   <FirstAired>2010-01-15</FirstAired>
+<<<<<<< HEAD
   <GuestStars>|Summer Glau|Miracle Laurie|Reed Diamond|</GuestStars>
+=======
+  <GuestStars>Summer Glau|Miracle Laurie|Reed Diamond</GuestStars>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <IMDB_ID>tt1537129</IMDB_ID>
   <Language>en</Language>
   <Overview>Sacrifices are made when Echo leads her crew to Arizona to dismantle the Rossum Corporation's mainframe.</Overview>
@@ -826,10 +981,17 @@
   <Rating>8.0</Rating>
   <RatingCount>47</RatingCount>
   <SeasonNumber>2</SeasonNumber>
+<<<<<<< HEAD
   <Writer>|Michele Fazekas|Tara Butters|Tracy Bellomo|</Writer>
   <absolute_number>25</absolute_number>
   <filename>episodes/82046/1301751.jpg</filename>
   <lastupdated>1431161500</lastupdated>
+=======
+  <Writer>Michele Fazekas|Tara Butters|Tracy Bellomo</Writer>
+  <absolute_number>25</absolute_number>
+  <filename>episodes/82046/1301751.jpg</filename>
+  <lastupdated>1414504236</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>79111</seasonid>
   <seriesid>82046</seriesid>
   <thumb_added></thumb_added>
@@ -849,7 +1011,11 @@
   <EpisodeName>Epitaph Two: Return</EpisodeName>
   <EpisodeNumber>13</EpisodeNumber>
   <FirstAired>2010-01-29</FirstAired>
+<<<<<<< HEAD
   <GuestStars>|Alan Tudyk|Felicia Day|Summer Glau|Adair Tishler|Zack Ward|Nate Dushku|Noah Harpster|</GuestStars>
+=======
+  <GuestStars>Alan Tudyk|Felicia Day|Summer Glau|Adair Tishler|Zack Ward|Nate Dushku|Noah Harpster</GuestStars>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <IMDB_ID>tt1537130</IMDB_ID>
   <Language>en</Language>
   <Overview>In the year 2020, Echo and her surviving Dollhouse crew attempt to restore order to a devastating future world before mankind is eliminated.</Overview>
@@ -857,10 +1023,17 @@
   <Rating>8.2</Rating>
   <RatingCount>43</RatingCount>
   <SeasonNumber>2</SeasonNumber>
+<<<<<<< HEAD
   <Writer>|Maurissa Tancharoen|Jed Whedon|Andrew Chambliss|</Writer>
   <absolute_number>26</absolute_number>
   <filename>episodes/82046/1301761.jpg</filename>
   <lastupdated>1431161521</lastupdated>
+=======
+  <Writer>Maurissa Tancharoen|Jed Whedon|Andrew Chambliss</Writer>
+  <absolute_number>26</absolute_number>
+  <filename>episodes/82046/1301761.jpg</filename>
+  <lastupdated>1414504284</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>79111</seasonid>
   <seriesid>82046</seriesid>
   <thumb_added></thumb_added>

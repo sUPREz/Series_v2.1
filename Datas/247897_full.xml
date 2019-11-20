@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Data><Series>
   <id>247897</id>
+<<<<<<< HEAD
   <Actors>|Claire Danes|Damian Lewis|Mandy Patinkin|Numan Acar|Nimrat Kaur|Suraj Sharma|Laila Robins|Sarita Choudhury|Tracy Letts|F. Murray Abraham|Nazanin Boniadi|Rupert Friend|Jackson Pace|Diego Klattenhoff|David Harewood|Morena Baccarin|Morgan Saylor|</Actors>
+=======
+  <Actors>|Claire Danes|Mandy Patinkin|Rupert Friend|Nazanin Boniadi|Jackson Pace|Diego Klattenhoff|Damian Lewis|David Harewood|Morena Baccarin|Morgan Saylor|</Actors>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <Airs_DayOfWeek>Sunday</Airs_DayOfWeek>
   <Airs_Time>9:00 PM</Airs_Time>
   <ContentRating>TV-MA</ContentRating>
@@ -12,18 +16,31 @@
   <Network>Showtime</Network>
   <NetworkID></NetworkID>
   <Overview>While in Iraq, Carrie Mathison, a Central Intelligence Agency operations officer, had been warned by an asset that an American prisoner of war had been turned by al-Qaeda. After conducting an unauthorized operation in Iraq, Carrie is put on probation and reassigned to the CIA's Counter-terrorism Center in Langley, Virginia.</Overview>
+<<<<<<< HEAD
   <Rating>8.3</Rating>
   <RatingCount>248</RatingCount>
   <Runtime>45</Runtime>
+=======
+  <Rating>8.5</Rating>
+  <RatingCount>214</RatingCount>
+  <Runtime>60</Runtime>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeriesID>80132</SeriesID>
   <SeriesName>Homeland</SeriesName>
   <Status>Continuing</Status>
   <added>2011-04-12 14:39:53</added>
   <addedBy>341359</addedBy>
+<<<<<<< HEAD
   <banner>text/247897-3.jpg</banner>
   <fanart>fanart/original/247897-27.jpg</fanart>
   <lastupdated>1434950770</lastupdated>
   <poster>posters/247897-15.jpg</poster>
+=======
+  <banner>graphical/247897-g21.jpg</banner>
+  <fanart>fanart/original/247897-27.jpg</fanart>
+  <lastupdated>1415051424</lastupdated>
+  <poster>posters/247897-13.jpg</poster>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <tms_wanted_old>1</tms_wanted_old>
   <zap2it_id>EP01466171</zap2it_id>
 </Series>
@@ -52,11 +69,19 @@ Damian Lewis (Nicholas Brody), Claire Danes (Carrie Mathison), Rupert Friend (Pe
   <SeasonNumber>0</SeasonNumber>
   <Writer></Writer>
   <absolute_number></absolute_number>
+<<<<<<< HEAD
   <airsafter_season></airsafter_season>
   <airsbefore_episode>1</airsbefore_episode>
   <airsbefore_season>4</airsbefore_season>
   <filename>episodes/247897/4980951.jpg</filename>
   <lastupdated>1429038528</lastupdated>
+=======
+  <airsafter_season>3</airsafter_season>
+  <airsbefore_episode>1</airsbefore_episode>
+  <airsbefore_season>4</airsbefore_season>
+  <filename>episodes/247897/4980951.jpg</filename>
+  <lastupdated>1412871683</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>463658</seasonid>
   <seriesid>247897</seriesid>
   <thumb_added>2014-09-01 20:33:49</thumb_added>
@@ -83,7 +108,11 @@ Damian Lewis (Nicholas Brody), Claire Danes (Carrie Mathison), Rupert Friend (Pe
 </Overview>
   <ProductionCode>101</ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>314</RatingCount>
+=======
+  <RatingCount>312</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Howard Gordon|Alex Gansa|Gideon Raff|</Writer>
   <absolute_number></absolute_number>
@@ -114,7 +143,11 @@ Damian Lewis (Nicholas Brody), Claire Danes (Carrie Mathison), Rupert Friend (Pe
   <Overview>Carrie continues to surveil Brody but is unable to follow his actions into his garage which is a blind spot, where Brody begins to perform an Islamic prayer. Meanwhile, Carrie receives visual confirmation from an undercover agent that shows Al-Qaeda member Abu Nazir on video meeting with the Royal Prince of the Kingdom of Saudi Arabia.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>302</RatingCount>
+=======
+  <RatingCount>300</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Alex Gansa</Writer>
   <absolute_number></absolute_number>
@@ -176,7 +209,11 @@ Damian Lewis (Nicholas Brody), Claire Danes (Carrie Mathison), Rupert Friend (Pe
   <Overview>The political powers that be make big plans for national hero Brody, but his increasingly erratic behavior threatens his media darling status; Carrie grows desperate for evidence linking Brody with Abu Nazir, as Saul directs her to focus on Nazir's money trail.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.5</Rating>
+<<<<<<< HEAD
   <RatingCount>290</RatingCount>
+=======
+  <RatingCount>287</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Howard Gordon|Alex Gansa|</Writer>
   <absolute_number></absolute_number>
@@ -207,7 +244,11 @@ Damian Lewis (Nicholas Brody), Claire Danes (Carrie Mathison), Rupert Friend (Pe
   <Overview>Brody confronts the lone survivor among the insurgents that held him, leading Carrie to believe she may be proved right about Brody once and for all - but Brody's reunion with his captor surprises everyone; the agency is hot on the trail of the lovers who bought a house near the airport with funds from a stolen necklace.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>282</RatingCount>
+=======
+  <RatingCount>279</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Alexander Cary</Writer>
   <absolute_number></absolute_number>
@@ -239,7 +280,11 @@ Damian Lewis (Nicholas Brody), Claire Danes (Carrie Mathison), Rupert Friend (Pe
 </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>290</RatingCount>
+=======
+  <RatingCount>286</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Henry Bromell</Writer>
   <absolute_number></absolute_number>
@@ -270,7 +315,11 @@ Damian Lewis (Nicholas Brody), Claire Danes (Carrie Mathison), Rupert Friend (Pe
   <Overview>The relationship between Carrie and Brody becomes more complicated when they head into the countryside for the weekend, while Mike and Jessica face the fallout of the truth about their relationship, and Saul catches Aileen on the run to Mexico.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
+<<<<<<< HEAD
   <RatingCount>277</RatingCount>
+=======
+  <RatingCount>273</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Meredith Stiehm</Writer>
   <absolute_number></absolute_number>
@@ -301,7 +350,11 @@ Damian Lewis (Nicholas Brody), Claire Danes (Carrie Mathison), Rupert Friend (Pe
   <Overview>As Carrie and Saul reel from the news that Walker is alive, the intelligence community clashes on the best way to capture him; Brody learns a shocking truth about his captivity.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
+<<<<<<< HEAD
   <RatingCount>285</RatingCount>
+=======
+  <RatingCount>281</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Chip Johannessen</Writer>
   <absolute_number></absolute_number>
@@ -332,7 +385,11 @@ Damian Lewis (Nicholas Brody), Claire Danes (Carrie Mathison), Rupert Friend (Pe
   <Overview>After his attempt to sever ties with Abu Nazir, Brody finds himself reliving his captivity and recommits to his mission; Carrie finds herself in the middle of a public relations nightmare on the heels of the mosque shooting.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>279</RatingCount>
+=======
+  <RatingCount>276</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>Alexander Cary</Writer>
   <absolute_number></absolute_number>
@@ -363,7 +420,11 @@ Damian Lewis (Nicholas Brody), Claire Danes (Carrie Mathison), Rupert Friend (Pe
   <Overview>Carrie and Saul identify Walker's contact in Washington but their target has diplomatic immunity; Brody is approached to run for a disgraced congressman's seat in the House of Representatives. </Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>286</RatingCount>
+=======
+  <RatingCount>283</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Howard Gorden|Alex Gansa|</Writer>
   <absolute_number></absolute_number>
@@ -394,7 +455,11 @@ Damian Lewis (Nicholas Brody), Claire Danes (Carrie Mathison), Rupert Friend (Pe
   <Overview>In the wake of the explosion, Saul finds Carrie hospitalized and manic, but realizes her chaotic theories have merit; before his congressional campaign begins, Brody takes his family on a weekend trip to Gettysburg, where he retrieves an important item.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>7.9</Rating>
+<<<<<<< HEAD
   <RatingCount>288</RatingCount>
+=======
+  <RatingCount>286</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Meredith Stiehm | Chip Johannessen|</Writer>
   <absolute_number></absolute_number>
@@ -425,7 +490,11 @@ Damian Lewis (Nicholas Brody), Claire Danes (Carrie Mathison), Rupert Friend (Pe
   <Overview>While Carrie is near catatonic and confined to bed, Saul investigates the unsettling implications of her timeline; Walker secures a perch for his mission; Brody makes his final preparations for the Vice President's policy summit at the State Department.</Overview>
   <ProductionCode></ProductionCode>
   <Rating>8.3</Rating>
+<<<<<<< HEAD
   <RatingCount>257</RatingCount>
+=======
+  <RatingCount>253</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>1</SeasonNumber>
   <Writer>|Alex Gansa|Howard Gorden|</Writer>
   <absolute_number></absolute_number>
@@ -456,7 +525,11 @@ Damian Lewis (Nicholas Brody), Claire Danes (Carrie Mathison), Rupert Friend (Pe
   <Overview>Months after undergoing Electroconvulsive Therapy, former CIA case officer Carrie Mathison has found a modicum of peace in her family's suburban embrace. But the strides she's made towards mental health are threatened when an asset from her former life comes in from the cold. Meanwhile, freshman Congressman Nick Brody discovers that Abu Nazir may not be content with his nonviolent approach to affecting change in American foreign policy. Brody's daughter Dana lets a vital secret slip.</Overview>
   <ProductionCode>2WAH01</ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>227</RatingCount>
+=======
+  <RatingCount>221</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Alex Gansa|Howard Gordon</Writer>
   <absolute_number>13</absolute_number>
@@ -487,12 +560,20 @@ Damian Lewis (Nicholas Brody), Claire Danes (Carrie Mathison), Rupert Friend (Pe
   <Overview>Fatima tells Carrie about a meeting her Hezbollah commander husband will be having in Beirut with Abu Nazir and Carrie and Saul request a special forces team to capture him. </Overview>
   <ProductionCode>2WAH02</ProductionCode>
   <Rating>8.0</Rating>
+<<<<<<< HEAD
   <RatingCount>231</RatingCount>
+=======
+  <RatingCount>225</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Chip Johannessen</Writer>
   <absolute_number>14</absolute_number>
   <filename>episodes/247897/4333794.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1426404512</lastupdated>
+=======
+  <lastupdated>1413225597</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>489791</seasonid>
   <seriesid>247897</seriesid>
   <thumb_added></thumb_added>
@@ -518,7 +599,11 @@ Damian Lewis (Nicholas Brody), Claire Danes (Carrie Mathison), Rupert Friend (Pe
   <Overview>After her Beirut adventures, Carrie hopes for a triumphant return to the CIA. Brody learns that his bomb maker is in danger of imminent discovery and attempts a last minute extraction. Jessica steps into the political limelight. </Overview>
   <ProductionCode>2WAH03</ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>219</RatingCount>
+=======
+  <RatingCount>216</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Alexander Cary</Writer>
   <absolute_number>15</absolute_number>
@@ -549,12 +634,20 @@ Damian Lewis (Nicholas Brody), Claire Danes (Carrie Mathison), Rupert Friend (Pe
   <Overview>Estes authorizes a covert operation to investigate intel recovered in Beirut.  Brody gets a shock when he runs into Carrie at Langley. Dana discovers she has something in common with the Vice President's son.</Overview>
   <ProductionCode>2WAH04</ProductionCode>
   <Rating>7.9</Rating>
+<<<<<<< HEAD
   <RatingCount>220</RatingCount>
+=======
+  <RatingCount>217</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Meredith Stiehm</Writer>
   <absolute_number>16</absolute_number>
   <filename>episodes/247897/4336562.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1426404743</lastupdated>
+=======
+  <lastupdated>1412697977</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>489791</seasonid>
   <seriesid>247897</seriesid>
   <thumb_added></thumb_added>
@@ -580,7 +673,11 @@ Damian Lewis (Nicholas Brody), Claire Danes (Carrie Mathison), Rupert Friend (Pe
   <Overview>Brody is a prisoner again. Carrie plays second fiddle after her rash judgment call at the hotel as Estes is busy keeping Jessica off their trail. Dana and Finn's date night turns deadly serious.</Overview>
   <ProductionCode>2WAH05</ProductionCode>
   <Rating>8.0</Rating>
+<<<<<<< HEAD
   <RatingCount>225</RatingCount>
+=======
+  <RatingCount>221</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Henry Bromell</Writer>
   <absolute_number>17</absolute_number>
@@ -611,7 +708,11 @@ Damian Lewis (Nicholas Brody), Claire Danes (Carrie Mathison), Rupert Friend (Pe
   <Overview>Dana is shocked by her visit to the hospital. Faber's Tom Walker questions get him tangled up with the CIA. Brody agrees to help stop an attack on America, but his loyalty is questioned when Gettysburg once again becomes a battleground. </Overview>
   <ProductionCode>2WAH06</ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>217</RatingCount>
+=======
+  <RatingCount>213</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Chip Johannessen</Writer>
   <absolute_number>18</absolute_number>
@@ -641,8 +742,13 @@ Damian Lewis (Nicholas Brody), Claire Danes (Carrie Mathison), Rupert Friend (Pe
   <Language>en</Language>
   <Overview>Carrie and the team struggle to regain control of their operation. Saul visits Aileen in solitary confinement. Dana pressures Finn to come clean about their hidden crime with unforeseen consequences. </Overview>
   <ProductionCode>2WAH07</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.7</Rating>
   <RatingCount>215</RatingCount>
+=======
+  <Rating>7.6</Rating>
+  <RatingCount>211</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Meredith Stiehm</Writer>
   <absolute_number>19</absolute_number>
@@ -673,7 +779,11 @@ Damian Lewis (Nicholas Brody), Claire Danes (Carrie Mathison), Rupert Friend (Pe
   <Overview>Brody heads towards meltdown as he struggles to keep his complicated alliances clear. Carrie stages a risky intervention to keep Brody in line, forcing both of them to confront their mixed emotions. Dana turns to an unlikely source for comfort. </Overview>
   <ProductionCode>2WAH08</ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>207</RatingCount>
+=======
+  <RatingCount>204</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Howard Gordon|Chip Johannessen</Writer>
   <absolute_number>20</absolute_number>
@@ -704,7 +814,11 @@ Damian Lewis (Nicholas Brody), Claire Danes (Carrie Mathison), Rupert Friend (Pe
   <Overview>Brody makes a necessary phone call. Saul teams up with Virgil and Max to dig up some information on one of their own. Carrie finds herself preparing for the most important meeting of her career.</Overview>
   <ProductionCode>2WAH09</ProductionCode>
   <Rating>8.0</Rating>
+<<<<<<< HEAD
   <RatingCount>213</RatingCount>
+=======
+  <RatingCount>210</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Alexander Cary</Writer>
   <absolute_number>21</absolute_number>
@@ -735,7 +849,11 @@ Damian Lewis (Nicholas Brody), Claire Danes (Carrie Mathison), Rupert Friend (Pe
   <Overview>Saul catches up with an old friend and discovers evidence of covert activities by Estes. Brody and Vice President Walden find themselves at odds over the future of their political relationship, while Dana and Finn come to terms with their own differences.</Overview>
   <ProductionCode>2WAH10</ProductionCode>
   <Rating>8.0</Rating>
+<<<<<<< HEAD
   <RatingCount>215</RatingCount>
+=======
+  <RatingCount>211</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Henry Bromell</Writer>
   <absolute_number>22</absolute_number>
@@ -766,7 +884,11 @@ Damian Lewis (Nicholas Brody), Claire Danes (Carrie Mathison), Rupert Friend (Pe
   <Overview>Dangerously close to exhaustion, Carrie continues her hunt for Nazir and begins to suspect there is a mole in the CIA. Roya reveals her true colours under interrogation and Saul finds himself fighting to save his career under unexpected circumstances. Meanwhile, the Brodys struggle to maintain anything close to a state of sanity.</Overview>
   <ProductionCode>2WAH11</ProductionCode>
   <Rating>7.9</Rating>
+<<<<<<< HEAD
   <RatingCount>205</RatingCount>
+=======
+  <RatingCount>201</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>Chip Johannessen</Writer>
   <absolute_number>23</absolute_number>
@@ -797,7 +919,11 @@ Damian Lewis (Nicholas Brody), Claire Danes (Carrie Mathison), Rupert Friend (Pe
   <Overview>Carrie is faced with a pivotal decision, while Brody meets with Faber to contemplate the future of the family. Meanwhile, Saul undertakes a secret assignment; and Quinn has a decision to make that may prove to be a game-changer.</Overview>
   <ProductionCode>2WAH12</ProductionCode>
   <Rating>8.4</Rating>
+<<<<<<< HEAD
   <RatingCount>202</RatingCount>
+=======
+  <RatingCount>199</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>2</SeasonNumber>
   <Writer>|Alex Gansa|Meredith Stiehm|</Writer>
   <absolute_number>24</absolute_number>
@@ -828,12 +954,20 @@ Damian Lewis (Nicholas Brody), Claire Danes (Carrie Mathison), Rupert Friend (Pe
   <Overview>Alleged Langley bomber Nick Brody remains at large. Saul plots a risky counterstrike on the terrorists connected to the bombing. Carrie becomes the focus of a hostile Senate investigation. Humiliated and abandoned by the Marine Corps, the Brody family struggles to cope with Dana's destructive behavior.</Overview>
   <ProductionCode>3WAH01</ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>135</RatingCount>
+=======
+  <RatingCount>128</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Alex Gansa|Barbara Hall|</Writer>
   <absolute_number>25</absolute_number>
   <filename>episodes/247897/4508211.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1426710107</lastupdated>
+=======
+  <lastupdated>1414908962</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>513434</seasonid>
   <seriesid>247897</seriesid>
   <thumb_added>2013-09-23 18:52:54</thumb_added>
@@ -859,12 +993,20 @@ Damian Lewis (Nicholas Brody), Claire Danes (Carrie Mathison), Rupert Friend (Pe
   <Overview>Saul attempts to track down those responsible for the Langley attack and recruits an unlikely expert to follow the money trail. Meanwhile, Quinn takes matters into his own hands; Carrie learns who is really on her side; and the Brody family turn to therapy to mend their broken household.</Overview>
   <ProductionCode>3WAH02</ProductionCode>
   <Rating>7.6</Rating>
+<<<<<<< HEAD
   <RatingCount>139</RatingCount>
+=======
+  <RatingCount>133</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Chip Johannessen|</Writer>
   <absolute_number>26</absolute_number>
   <filename>episodes/247897/4562419.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1426710141</lastupdated>
+=======
+  <lastupdated>1410359752</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>513434</seasonid>
   <seriesid>247897</seriesid>
   <thumb_added>2013-09-23 18:52:18</thumb_added>
@@ -889,13 +1031,22 @@ Damian Lewis (Nicholas Brody), Claire Danes (Carrie Mathison), Rupert Friend (Pe
   <Language>en</Language>
   <Overview>As Brody finds himself in increasingly desperate straits, he returns to his faith for guidance in an unexpected way. Carrie struggles to connect with Saul when a mysterious man offers to help her, but at a great cost.</Overview>
   <ProductionCode>3WAH03</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.5</Rating>
   <RatingCount>134</RatingCount>
+=======
+  <Rating>7.4</Rating>
+  <RatingCount>128</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Henry Bromell|William Bromell|</Writer>
   <absolute_number>27</absolute_number>
   <filename>episodes/247897/4591566.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1426710165</lastupdated>
+=======
+  <lastupdated>1410359762</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>513434</seasonid>
   <seriesid>247897</seriesid>
   <thumb_added>2013-10-03 18:22:09</thumb_added>
@@ -921,12 +1072,20 @@ Damian Lewis (Nicholas Brody), Claire Danes (Carrie Mathison), Rupert Friend (Pe
   <Overview>Carrie learns that even in its crippled state, the CIA can still exercise power when needed. Dana Brody goes AWOL, forcing Jessica to go to the police. Saul and Fara follow the money trail to an unexpected location, and Carrie has breakfast with a new client.</Overview>
   <ProductionCode>3WAH04</ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>149</RatingCount>
+=======
+  <RatingCount>144</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>|James Yoshimura|Alex Gansa|</Writer>
   <absolute_number>28</absolute_number>
   <filename>episodes/247897/4591568.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1426710184</lastupdated>
+=======
+  <lastupdated>1410359770</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>513434</seasonid>
   <seriesid>247897</seriesid>
   <thumb_added>2013-11-03 18:46:35</thumb_added>
@@ -951,13 +1110,22 @@ Damian Lewis (Nicholas Brody), Claire Danes (Carrie Mathison), Rupert Friend (Pe
   <Language>en</Language>
   <Overview>Carrie puts her mission on the line to do a risky favor. Saul is forced to rub elbows with his adversary, Senator Lockhart, on a hunting trip. Still on the run, Dana makes a shocking discovery.</Overview>
   <ProductionCode>3WAH05</ProductionCode>
+<<<<<<< HEAD
   <Rating>7.7</Rating>
   <RatingCount>141</RatingCount>
+=======
+  <Rating>7.6</Rating>
+  <RatingCount>136</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Patrick Harbinson|</Writer>
   <absolute_number>29</absolute_number>
   <filename>episodes/247897/4597331.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1426710208</lastupdated>
+=======
+  <lastupdated>1410359778</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>513434</seasonid>
   <seriesid>247897</seriesid>
   <thumb_added>2013-10-11 23:14:54</thumb_added>
@@ -983,12 +1151,20 @@ Damian Lewis (Nicholas Brody), Claire Danes (Carrie Mathison), Rupert Friend (Pe
   <Overview>Carrie turns the tables on the mastermind of the Langley bombing, but recruiting one of Iran’s most powerful operatives has dangerous consequences. Meanwhile, Saul struggles to keep an intrusive Senator Lockhart at bay, and Dana makes a radical decision that will change the Brody family forever.</Overview>
   <ProductionCode>3WAH06</ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>130</RatingCount>
+=======
+  <RatingCount>125</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Alexander Cary|Barbara Hall|</Writer>
   <absolute_number>30</absolute_number>
   <filename>episodes/247897/4611506.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1426710226</lastupdated>
+=======
+  <lastupdated>1410359786</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>513434</seasonid>
   <seriesid>247897</seriesid>
   <thumb_added>2013-10-21 13:25:31</thumb_added>
@@ -1014,12 +1190,20 @@ Damian Lewis (Nicholas Brody), Claire Danes (Carrie Mathison), Rupert Friend (Pe
   <Overview>With an old adversary in custody, Saul makes the gamble of his career. Carrie and Quinn scramble to contain a local police investigation, while Mira finds her marriage at a crossroads.</Overview>
   <ProductionCode>3WAH07</ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>135</RatingCount>
+=======
+  <RatingCount>130</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>Chip Johannessen</Writer>
   <absolute_number>31</absolute_number>
   <filename>episodes/247897/4611507.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1426710246</lastupdated>
+=======
+  <lastupdated>1410359794</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>513434</seasonid>
   <seriesid>247897</seriesid>
   <thumb_added>2013-10-31 19:22:51</thumb_added>
@@ -1045,12 +1229,20 @@ Damian Lewis (Nicholas Brody), Claire Danes (Carrie Mathison), Rupert Friend (Pe
   <Overview>After new information comes to light, Carrie and Quinn pursue a key suspect in the Langley bombing. Saul deals with political backlash while Fara discovers the toll an intelligence job can take. Meanwhile, the Brody family gets startling news.</Overview>
   <ProductionCode>3WAH08</ProductionCode>
   <Rating>7.7</Rating>
+<<<<<<< HEAD
   <RatingCount>139</RatingCount>
+=======
+  <RatingCount>135</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Alex Gansa|James Yoshimura|</Writer>
   <absolute_number>32</absolute_number>
   <filename>episodes/247897/4663897.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1430727881</lastupdated>
+=======
+  <lastupdated>1410359802</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>513434</seasonid>
   <seriesid>247897</seriesid>
   <thumb_added>2013-10-31 19:24:45</thumb_added>
@@ -1076,12 +1268,20 @@ Damian Lewis (Nicholas Brody), Claire Danes (Carrie Mathison), Rupert Friend (Pe
   <Overview>Carrie reunites with Brody, but the circumstances are more difficult than either of them could have imagined. Meanwhile, Saul gets a win from an unlikely source, and Dana grapples with her new life away from home.</Overview>
   <ProductionCode>3WAH09</ProductionCode>
   <Rating>7.8</Rating>
+<<<<<<< HEAD
   <RatingCount>133</RatingCount>
+=======
+  <RatingCount>129</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Barbara Hall|</Writer>
   <absolute_number>33</absolute_number>
   <filename>episodes/247897/4663898.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1430727867</lastupdated>
+=======
+  <lastupdated>1410359811</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>513434</seasonid>
   <seriesid>247897</seriesid>
   <thumb_added>2013-11-18 18:11:10</thumb_added>
@@ -1107,12 +1307,20 @@ Damian Lewis (Nicholas Brody), Claire Danes (Carrie Mathison), Rupert Friend (Pe
   <Overview>Brody embarks on a high stakes mission, but his fragile condition threatens the entire operation. Quinn makes an uncomfortable discovery about Carrie, while a sudden crisis forces Fara to rejoin the team.</Overview>
   <ProductionCode>3WAH10</ProductionCode>
   <Rating>7.9</Rating>
+<<<<<<< HEAD
   <RatingCount>133</RatingCount>
+=======
+  <RatingCount>129</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>|Alexander Cary|Charlotte Stoudt|</Writer>
   <absolute_number>34</absolute_number>
   <filename>episodes/247897/4663899.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1430727854</lastupdated>
+=======
+  <lastupdated>1410359818</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>513434</seasonid>
   <seriesid>247897</seriesid>
   <thumb_added>2013-11-25 16:15:40</thumb_added>
@@ -1138,12 +1346,20 @@ Damian Lewis (Nicholas Brody), Claire Danes (Carrie Mathison), Rupert Friend (Pe
   <Overview>Brody's loyalty to the mission wavers when he meets a ghost from his past. As Lockhart's confirmation looms, Saul stares into the precipice between success and failure.</Overview>
   <ProductionCode>3WAH11</ProductionCode>
   <Rating>8.1</Rating>
+<<<<<<< HEAD
   <RatingCount>127</RatingCount>
+=======
+  <RatingCount>122</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>Chip Johannessen|Patrick Harbinson</Writer>
   <absolute_number>35</absolute_number>
   <filename>episodes/247897/4675715.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1430727840</lastupdated>
+=======
+  <lastupdated>1410359828</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>513434</seasonid>
   <seriesid>247897</seriesid>
   <thumb_added>2013-12-02 17:31:34</thumb_added>
@@ -1170,12 +1386,20 @@ Damian Lewis (Nicholas Brody), Claire Danes (Carrie Mathison), Rupert Friend (Pe
 </Overview>
   <ProductionCode>3WAH12</ProductionCode>
   <Rating>8.1</Rating>
+<<<<<<< HEAD
   <RatingCount>120</RatingCount>
+=======
+  <RatingCount>115</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <SeasonNumber>3</SeasonNumber>
   <Writer>Alex Gansa|Meredith Stiehm</Writer>
   <absolute_number>36</absolute_number>
   <filename>episodes/247897/4675716.jpg</filename>
+<<<<<<< HEAD
   <lastupdated>1430727813</lastupdated>
+=======
+  <lastupdated>1410359839</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>513434</seasonid>
   <seriesid>247897</seriesid>
   <thumb_added>2013-12-05 16:52:20</thumb_added>
@@ -1188,8 +1412,13 @@ Damian Lewis (Nicholas Brody), Claire Danes (Carrie Mathison), Rupert Friend (Pe
   <Combined_season>4</Combined_season>
   <DVD_chapter></DVD_chapter>
   <DVD_discid></DVD_discid>
+<<<<<<< HEAD
   <DVD_episodenumber>1.0</DVD_episodenumber>
   <DVD_season>4</DVD_season>
+=======
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <Director>Lesli Linka Glatter</Director>
   <EpImgFlag>2</EpImgFlag>
   <EpisodeName>The Drone Queen</EpisodeName>
@@ -1197,16 +1426,336 @@ Damian Lewis (Nicholas Brody), Claire Danes (Carrie Mathison), Rupert Friend (Pe
   <FirstAired>2014-10-05</FirstAired>
   <GuestStars></GuestStars>
   <IMDB_ID>tt3284012</IMDB_ID>
+<<<<<<< HEAD
+=======
+  <Language>en</Language>
+  <Overview>As CIA Chief of Station in Kabul, Carrie makes a critical decision when her counterpart in Islamabad delivers urgent intelligence on a high value target. Saul struggles to adjust to his new role in the private sector.</Overview>
+  <ProductionCode>4WAH01</ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>34</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Alex Gansa</Writer>
+  <absolute_number>37</absolute_number>
+  <filename>episodes/247897/4893639.jpg</filename>
+  <lastupdated>1414435303</lastupdated>
+  <seasonid>586780</seasonid>
+  <seriesid>247897</seriesid>
+  <thumb_added>2014-09-29 02:48:57</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4943287</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Keith Gordon</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Trylon and Perisphere</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2014-10-05</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3505184</IMDB_ID>
+  <Language>en</Language>
+  <Overview>An official inquiry brings Carrie back to the States, where she struggles with her ambivalence towards motherhood. Quinn spirals out of control. A disgraced former case officer reveals disturbing new information.</Overview>
+  <ProductionCode>4WAH02</ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>24</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Chip Johannessen</Writer>
+  <absolute_number>38</absolute_number>
+  <filename>episodes/247897/4943287.jpg</filename>
+  <lastupdated>1414333227</lastupdated>
+  <seasonid>586780</seasonid>
+  <seriesid>247897</seriesid>
+  <thumb_added>2014-09-29 02:50:17</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4943288</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Lesli Linka Glatter</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Shalwar Kameez</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2014-10-12</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3505188</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Carrie ventures a delicate alliance with her counterpart at Pakistan’s secretive Inter-Services Intelligence (ISI). Fara fails to recruit a key asset, forcing Carrie to intervene. Still reeling over events in Islamabad, Quinn zeroes in on a potential lead.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>29</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Alexander Cary</Writer>
+  <absolute_number>39</absolute_number>
+  <filename>episodes/247897/4943288.jpg</filename>
+  <lastupdated>1414356681</lastupdated>
+  <seasonid>586780</seasonid>
+  <seriesid>247897</seriesid>
+  <thumb_added>2014-10-05 10:34:00</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4964546</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Michael Offer</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Iron in the Fire</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2014-10-19</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3505186</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Carrie gets a tip from Redmond regarding Quinn's lead. Saul calls in a favor with an old friend in the Pakistani military. Fara uncovers a deep-rooted conspiracy.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>26</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Patrick Harbinson</Writer>
+  <absolute_number>40</absolute_number>
+  <filename>episodes/247897/4964546.jpg</filename>
+  <lastupdated>1414435598</lastupdated>
+  <seasonid>586780</seasonid>
+  <seriesid>247897</seriesid>
+  <thumb_added>2014-10-11 15:58:50</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4964547</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Charlotte Sieling</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>About a Boy</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2014-10-26</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3505192</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Carrie tries to earn the trust of a frightened asset. On his way out of town, Saul catches a break when he spots a familiar face. Quinn and Fara stake out a new suspect.</Overview>
+  <ProductionCode>4WAH05</ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>26</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Meredith Stiehm</Writer>
+  <absolute_number>41</absolute_number>
+  <filename>episodes/247897/4964547.jpg</filename>
+  <lastupdated>1414708044</lastupdated>
+  <seasonid>586780</seasonid>
+  <seriesid>247897</seriesid>
+  <thumb_added>2014-10-11 16:00:41</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4964548</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Lesli Linka Glatter</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>From A to B and Back Again</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2014-11-02</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3921048</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Carrie puts her operation in motion.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>8</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Chip Johannessen</Writer>
+  <absolute_number>42</absolute_number>
+  <filename>episodes/247897/4964548.jpg</filename>
+  <lastupdated>1414988687</lastupdated>
+  <seasonid>586780</seasonid>
+  <seriesid>247897</seriesid>
+  <thumb_added>2014-10-13 18:30:21</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5016224</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Redux</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2014-11-09</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3977324</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Carrie learns Majid Javadi has placed a significant asset aboard an aircraft carrier, with the intent of intercepting valuable and marketable information.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/247897/5016224.jpg</filename>
+  <lastupdated>1414613847</lastupdated>
+  <seasonid>586780</seasonid>
+  <seriesid>247897</seriesid>
+  <thumb_added>2014-10-29 13:21:44</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5016225</id>
+  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Halfway to a Donut</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2014-11-16</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt3990534</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Carrie organizes a last-ditch operation. Lockhart and Martha stall the ISI.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/247897/5016225.jpg</filename>
+  <lastupdated>1414787089</lastupdated>
+  <seasonid>586780</seasonid>
+  <seriesid>247897</seriesid>
+  <thumb_added>2014-10-31 13:24:49</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5016226</id>
+  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>There's Something Else Going On</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2014-11-23</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt4023224</IMDB_ID>
+  <Language>en</Language>
+  <Overview>Carrie improvises to salvage her mission. And the CIA closes in on a leak.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1414491855</lastupdated>
+  <seasonid>586780</seasonid>
+  <seriesid>247897</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5034575</id>
+  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>13 Hours in Islamabad</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2014-12-07</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <Language>en</Language>
   <Overview>As CIA Chief of Station in Kabul, Carrie makes a critical decision when her counterpart in Islamabad delivers urgent intelligence on a high value target. Saul struggles to adjust to his new role in the private sector.</Overview>
   <ProductionCode>4WAH01</ProductionCode>
   <Rating>7.8</Rating>
   <RatingCount>53</RatingCount>
   <SeasonNumber>4</SeasonNumber>
+<<<<<<< HEAD
   <Writer>Alex Gansa</Writer>
   <absolute_number>37</absolute_number>
   <filename>episodes/247897/4893639.jpg</filename>
   <lastupdated>1430925532</lastupdated>
+=======
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1414926885</lastupdated>
+  <seasonid>586780</seasonid>
+  <seriesid>247897</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5034576</id>
+  <Combined_episodenumber>11</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Krieg Nicht Lieb</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired>2014-12-14</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>en</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1414926925</lastupdated>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
   <seasonid>586780</seasonid>
   <seriesid>247897</seriesid>
   <thumb_added>2014-09-29 02:48:57</thumb_added>

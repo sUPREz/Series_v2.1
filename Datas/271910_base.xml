@@ -13,18 +13,31 @@
     <Network>AMC</Network>
     <NetworkID></NetworkID>
     <Overview>In the early 1980s a visionary, an engineer and a prodigy combine to confront the corporate behemoths of the time. Their personal and professional lives will be challenged by greed and ego while charting the changing culture in Texas' Silicon Prairie.</Overview>
+<<<<<<< HEAD
     <Rating>8.1</Rating>
     <RatingCount>30</RatingCount>
     <Runtime>60</Runtime>
+=======
+    <Rating>8.4</Rating>
+    <RatingCount>18</RatingCount>
+    <Runtime>40</Runtime>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <SeriesID>187158</SeriesID>
     <SeriesName>Halt and Catch Fire</SeriesName>
     <Status>Continuing</Status>
     <added>2013-07-30 09:28:51</added>
     <addedBy>354773</addedBy>
+<<<<<<< HEAD
     <banner>graphical/271910-g2.jpg</banner>
     <fanart>fanart/original/271910-10.jpg</fanart>
     <lastupdated>1435012030</lastupdated>
     <poster>posters/271910-7.jpg</poster>
+=======
+    <banner>graphical/271910-g6.jpg</banner>
+    <fanart>fanart/original/271910-2.jpg</fanart>
+    <lastupdated>1414753244</lastupdated>
+    <poster>posters/271910-3.jpg</poster>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <tms_wanted_old>0</tms_wanted_old>
     <zap2it_id>SH01863199</zap2it_id>
   </Series>

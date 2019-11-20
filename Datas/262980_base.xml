@@ -12,19 +12,33 @@
     <Language>en</Language>
     <Network>Netflix</Network>
     <NetworkID></NetworkID>
+<<<<<<< HEAD
     <Overview>Ruthless and cunning, Congressman Francis Underwood and his wife Claire stop at nothing to conquer everything. This wicked political drama penetrates the shadowy world of greed, sex and corruption in modern D.C.</Overview>
     <Rating>8.9</Rating>
     <RatingCount>117</RatingCount>
+=======
+    <Overview>House of Cards is an American political drama series developed and produced by Beau Willimon. It is an adaptation of a previous BBC miniseries of the same name which is based on the novel by Michael Dobbs.
+Set in present day Washington, D.C., House of Cards is the story of Frank Underwood (Kevin Spacey), a Democrat from South Carolina's 5th congressional district and the House Majority Whip, who, after getting passed over for promotion to Secretary of State, decides to exact his revenge on those who betrayed him. The series also stars Robin Wright, Kate Mara and Corey Stoll in lead roles.</Overview>
+    <Rating>9.0</Rating>
+    <RatingCount>89</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <Runtime>55</Runtime>
     <SeriesID>81065</SeriesID>
     <SeriesName>House of Cards (US)</SeriesName>
     <Status>Continuing</Status>
     <added>2012-10-04 16:08:09</added>
     <addedBy>79791</addedBy>
+<<<<<<< HEAD
     <banner>graphical/262980-g7.jpg</banner>
     <fanart>fanart/original/262980-11.jpg</fanart>
     <lastupdated>1434876324</lastupdated>
     <poster>posters/262980-3.jpg</poster>
+=======
+    <banner>graphical/262980-g5.jpg</banner>
+    <fanart>fanart/original/262980-8.jpg</fanart>
+    <lastupdated>1415048727</lastupdated>
+    <poster>posters/262980-5.jpg</poster>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <tms_wanted_old>1</tms_wanted_old>
     <zap2it_id>SH01676454</zap2it_id>
   </Series>

@@ -2,7 +2,11 @@
 <Data>
   <Series>
     <id>250487</id>
+<<<<<<< HEAD
     <Actors>|Evan Peters (Season 4)|Sarah Paulson  (Season 4)|Jessica Lange  (Season 4)|Kathy Bates (Season 4)|Michael Chiklis|Emma Roberts (Season 4)|Angela Bassett (Season 4)|Finn Wittrock |Frances Conroy (Season 4)|Denis O'Hare (Season 4)|Jamie Brewer (Season 4)|Neil Patrick Harris|Gabourey Sidibe (Season 4)|John Carroll Lynch|Rose Siggins|Patti LaBelle|Skyler Samuels|Wes Bentley|Jyoti Amge|Erika Ervin|Mat Fraser|Evan Peters  (Season 3)|Dylan McDermott|Sarah Paulson|Jamie Brewer|Denis O'Hare|Lily Rabe (Season 3)|Lily Rabe|Frances Hardman Conroy|Frances Conroy (Season 3)|Sarah Paulson (Season 3)|Danny Huston|Denis O'Hare (Season 3)|Frances Conroy (Season 3)|Jessica Lange (Season 3)|Taissa Farmiga (Season 3)|Alexander Dreymon|Patti LuPone|Teddy Sears|Riley Schmidt|Jenna Dewan-Tatum|Morris Chestnut|Britne Oldford|Matt Ross|Naomi Grossman|Josh Hamilton|Kate Mara|Gabourey Sidibe (Season 3)|Angela Bassett (Season 3)|Kathy Bates (Season 3)|Jamie Brewer (Season 3)|Emma Roberts (Season 3)|Clea Duvall|Adam Levine|Chloë Sevigny|Joseph Fiennes|Lizzie Brocheré|Zachary Quinto (Season 2)|Lily Rabe (Season 2)|Evan Peters (Season 2)|Sarah Paulson (Season 2)|James Cromwell|Jessica Lange (Season 2)|Alexandra Breckenridge|Connie Britton|Dylan McDermott|Jessica Lange|Zachary Quinto|Evan Peters|Taissa Farmiga|</Actors>
+=======
+    <Actors>|Jessica Lange|Sarah Paulson|Evan Peters|Taissa Farmiga|Angela Bassett|Kathy Bates|Emma Roberts|Clea Duvall|Adam Levine|Chloë Sevigny|Joseph Fiennes|Lizzie Brocheré|Zachary Quinto|Lily Rabe|James Cromwell|Alex Breckenridge|Denis O'Hare|Alexander Dreymon|Bodhi Schulz|Britne Oldford|Christine Estabrook|Connie Britton|Dylan McDermott|Evan Peters|Frances Conroy|Fredric Lehne|Gabourey Sidibe|Jamie Brewer|Jenna Dewan-Tatum|Jessica Lange|Josh Hamilton|Kai Schulz|Kate Mara|Matt Ross|Morris Chestnut|Naomi Grossman|Patti LuPone|Riley Schmidt|Teddy Sears|Zachary Quinto|</Actors>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <Airs_DayOfWeek>Wednesday</Airs_DayOfWeek>
     <Airs_Time>10:00 PM</Airs_Time>
     <ContentRating>TV-MA</ContentRating>
@@ -13,18 +17,31 @@
     <Network>FX</Network>
     <NetworkID></NetworkID>
     <Overview>American Horror Story is a horror-drama television franchise created and produced by Ryan Murphy and Brad Falchuk. Described as an anthology series, each season is conceived as a self-contained miniseries, following a disparate set of characters and settings, and a storyline with its own &quot;beginning, middle and end&quot;.</Overview>
+<<<<<<< HEAD
     <Rating>8.4</Rating>
     <RatingCount>143</RatingCount>
     <Runtime>55</Runtime>
+=======
+    <Rating>8.5</Rating>
+    <RatingCount>124</RatingCount>
+    <Runtime>60</Runtime>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <SeriesID>81011</SeriesID>
     <SeriesName>American Horror Story</SeriesName>
     <Status>Continuing</Status>
     <added>2011-07-26 07:19:34</added>
     <addedBy>346503</addedBy>
+<<<<<<< HEAD
     <banner>graphical/250487-g3.jpg</banner>
     <fanart>fanart/original/250487-18.jpg</fanart>
     <lastupdated>1434760374</lastupdated>
     <poster>posters/250487-22.jpg</poster>
+=======
+    <banner>graphical/250487-g21.jpg</banner>
+    <fanart>fanart/original/250487-14.jpg</fanart>
+    <lastupdated>1414983545</lastupdated>
+    <poster>posters/250487-18.jpg</poster>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <tms_wanted_old>1</tms_wanted_old>
     <zap2it_id>EP01605266</zap2it_id>
   </Series>

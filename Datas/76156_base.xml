@@ -3,8 +3,13 @@
   <Series>
     <id>76156</id>
     <Actors>|Zach Braff|Donald Faison|Sarah Chalke|Judy Reyes|John C. McGinley|Neil Flynn|Ken Jenkins|Christa Miller|Aloma Wright|Robert Maschio|Sam Lloyd|Travis Schuldt|Johnny Kastl|Heather Graham|Michael Mosley|Kerry Bishé|Dave Franco|Eliza Coupe|</Actors>
+<<<<<<< HEAD
     <Airs_DayOfWeek></Airs_DayOfWeek>
     <Airs_Time></Airs_Time>
+=======
+    <Airs_DayOfWeek>Wednesday</Airs_DayOfWeek>
+    <Airs_Time>8:00 PM</Airs_Time>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <ContentRating>TV-PG</ContentRating>
     <FirstAired>2001-10-02</FirstAired>
     <Genre>|Comedy|</Genre>
@@ -14,7 +19,11 @@
     <NetworkID></NetworkID>
     <Overview>Scrubs focuses on the lives of several people working at Sacred Heart, a teaching hospital. It features fast-paced dialogue, slapstick, and surreal vignettes presented mostly as the daydreams of the central character, Dr. John Michael &quot;J.D.&quot; Dorian.</Overview>
     <Rating>9.0</Rating>
+<<<<<<< HEAD
     <RatingCount>271</RatingCount>
+=======
+    <RatingCount>268</RatingCount>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <Runtime>30</Runtime>
     <SeriesID>3613</SeriesID>
     <SeriesName>Scrubs</SeriesName>
@@ -22,9 +31,15 @@
     <added></added>
     <addedBy></addedBy>
     <banner>graphical/76156-g9.jpg</banner>
+<<<<<<< HEAD
     <fanart>fanart/original/76156-46.jpg</fanart>
     <lastupdated>1431924426</lastupdated>
     <poster>posters/76156-1.jpg</poster>
+=======
+    <fanart>fanart/original/76156-11.jpg</fanart>
+    <lastupdated>1414966782</lastupdated>
+    <poster>posters/76156-6.jpg</poster>
+>>>>>>> 63a2c908009d8c5b86301c78fa0d8daee9faabf7
     <tms_wanted_old>1</tms_wanted_old>
     <zap2it_id>EP00446160</zap2it_id>
   </Series>
